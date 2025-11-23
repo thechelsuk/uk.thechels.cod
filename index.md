@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 23 November 2025
 
-- The average temperature today is 8.97˚C,
-- With highs of 9.97˚C and lows of 8.71˚C,
-- It may feel like 6.25˚C with few clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 999hPa and humidity is 78%
+- The average temperature today is 9.87˚C,
+- With highs of 10.54˚C and lows of 9.27˚C,
+- It may feel like 7.02˚C with scattered clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 998hPa and humidity is 69%
 - The sun will rise at 07:41 and set at 16:08
 
 <!-- weather_marker ends -->

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road Clsed Sign obstructed, 23rd November :- [8453875](https://www.fixmystreet.com/report/8453875)
+- Large tree branches fallen onto road. At top of Parton Road, past allotments next to mains gas station on turning point. Branches are on edge of road., 23rd November :- [8453766](https://www.fixmystreet.com/report/8453766)
+- Large hole in middle of road, outside no. 45 Parton Road, 23rd November :- [8453728](https://www.fixmystreet.com/report/8453728)
+- Someone has flytipped, 23rd November :- [8453467](https://www.fixmystreet.com/report/8453467)
 - Getting deeper by the day on the bridge over the brook, 23rd November :- [8453023](https://www.fixmystreet.com/report/8453023)
 - Fixed traffic light on Ermin St/Golf Club Lane junction has been turned and is facing the wrong way causing confusion, 23rd November :- [8453013](https://www.fixmystreet.com/report/8453013)
 - Dead ash in verge near Brimpsfield Commin, 23rd November :- [8453000](https://www.fixmystreet.com/report/8453000)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Sign left on foot path next to collage, 22nd November :- [8452114](https://www.fixmystreet.com/report/8452114)
 - Large pothole developing on roundabout on exit from Caernarvon road onto exit on to Up Hatherlay Way towards the Shurdington Road (previously repaired pot hole breaking up again)., 22nd November :- [8452001](https://www.fixmystreet.com/report/8452001)
 - Deep pothole Brooklyn Road, 22nd November :- [8451574](https://www.fixmystreet.com/report/8451574)
-- Road has sunk apx 30cm into the road., 22nd November :- [8451470](https://www.fixmystreet.com/report/8451470)
-- Pot hole and state of road, 22nd November :- [8451397](https://www.fixmystreet.com/report/8451397)
-- Full thickness tarmac 50mm deep missing leaving the corner of the cast iron drain cover raised and exposed. Absolutely brutal when a wheel hits iyt, especially with low profile rims when the wheel hits the corner of the drain cover. Drain is also blocked with leaves, 22nd November :- [8451263](https://www.fixmystreet.com/report/8451263)
-- Blocked drain causing pavement access, 22nd November :- [8450687](https://www.fixmystreet.com/report/8450687)
 
 <!-- fix_marker ends -->

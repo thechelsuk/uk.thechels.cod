@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Holes dug out, 23rd November :- [8454651](https://www.fixmystreet.com/report/8454651)
+- Dangerous dugout areas, 23rd November :- [8454644](https://www.fixmystreet.com/report/8454644)
+- Flytipped mattress, 23rd November :- [8454622](https://www.fixmystreet.com/report/8454622)
+- Shurdinton Road path signs left, 23rd November :- [8454553](https://www.fixmystreet.com/report/8454553)
+- Blocked drain, 23rd November :- [8454514](https://www.fixmystreet.com/report/8454514)
+- Dogmess outside no.39, 23rd November :- [8454480](https://www.fixmystreet.com/report/8454480)
 - Review lane markings, 23rd November :- [8454061](https://www.fixmystreet.com/report/8454061)
 - Road ponds and causes ice, 23rd November :- [8454051](https://www.fixmystreet.com/report/8454051)
 - Build up of silt and litter, 23rd November :- [8454037](https://www.fixmystreet.com/report/8454037)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Roundabout, 23rd November :- [8452825](https://www.fixmystreet.com/report/8452825)
 - Extremely large puddle crossing the east lane of the A436 very dangerous doesnt take alot of rain before its right the way across the road., 23rd November :- [8452812](https://www.fixmystreet.com/report/8452812)
 - Sewer cover been moved causing a large gap, 23rd November :- [8452751](https://www.fixmystreet.com/report/8452751)
-- Subsidence on road, 23rd November :- [8452746](https://www.fixmystreet.com/report/8452746)
-- Drain flattened, 23rd November :- [8452736](https://www.fixmystreet.com/report/8452736)
-- A wooden fence is blocking access from the first field to the second., 22nd November :- [8452327](https://www.fixmystreet.com/report/8452327)
-- Two potholes in road surface of Hatherley Road, near junction with Belworth Drive, 22nd November :- [8452253](https://www.fixmystreet.com/report/8452253)
-- A sign and a cone are obstructing the road, 22nd November :- [8452236](https://www.fixmystreet.com/report/8452236)
-- White sofa fly tipped by side of Buckholt Road, Cranham, 22nd November :- [8452140](https://www.fixmystreet.com/report/8452140)
 
 <!-- fix_marker ends -->

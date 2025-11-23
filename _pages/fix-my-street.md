@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Getting deeper by the day on the bridge over the brook, 23rd November :- [8453023](https://www.fixmystreet.com/report/8453023)
+- Fixed traffic light on Ermin St/Golf Club Lane junction has been turned and is facing the wrong way causing confusion, 23rd November :- [8453013](https://www.fixmystreet.com/report/8453013)
+- Dead ash in verge near Brimpsfield Commin, 23rd November :- [8453000](https://www.fixmystreet.com/report/8453000)
 - Pot hole again atter pppr repair, 23rd November :- [8452945](https://www.fixmystreet.com/report/8452945)
 - Roundabout, 23rd November :- [8452825](https://www.fixmystreet.com/report/8452825)
 - Extremely large puddle crossing the east lane of the A436 very dangerous doesnt take alot of rain before its right the way across the road., 23rd November :- [8452812](https://www.fixmystreet.com/report/8452812)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pot hole and state of road, 22nd November :- [8451397](https://www.fixmystreet.com/report/8451397)
 - Full thickness tarmac 50mm deep missing leaving the corner of the cast iron drain cover raised and exposed. Absolutely brutal when a wheel hits iyt, especially with low profile rims when the wheel hits the corner of the drain cover. Drain is also blocked with leaves, 22nd November :- [8451263](https://www.fixmystreet.com/report/8451263)
 - Blocked drain causing pavement access, 22nd November :- [8450687](https://www.fixmystreet.com/report/8450687)
-- Further re-lining required, 21st November :- [8450511](https://www.fixmystreet.com/report/8450511)
-- LED bulb is continuously strobing., 21st November :- [8450453](https://www.fixmystreet.com/report/8450453)
-- Trollet, 21st November :- [8450436](https://www.fixmystreet.com/report/8450436)
 
 <!-- fix_marker ends -->

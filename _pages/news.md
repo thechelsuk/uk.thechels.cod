@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Adventurer creates charity for children in hospital ([13 hours ago](https://www.bbc.com/news/articles/c33mvz37rj0o?at_medium=RSS&at_campaign=rss))
-- In pictures: Snowy alpaca and Gromit lantern ([14 hours ago](https://www.bbc.com/news/articles/cvgk0047yv2o?at_medium=RSS&at_campaign=rss))
-- Motorway reopens after serious crash ([16 hours ago](https://www.bbc.com/news/articles/cqjgrdez24vo?at_medium=RSS&at_campaign=rss))
-- Rugby fans to get prostate cancer advice at match ([20 hours ago](https://www.bbc.com/news/articles/czxnxgew464o?at_medium=RSS&at_campaign=rss))
+- Adventurer creates charity for children in hospital ([15 hours ago](https://www.bbc.com/news/articles/c33mvz37rj0o?at_medium=RSS&at_campaign=rss))
+- In pictures: Snowy alpaca and Gromit lantern ([16 hours ago](https://www.bbc.com/news/articles/cvgk0047yv2o?at_medium=RSS&at_campaign=rss))
+- Motorway reopens after serious crash ([18 hours ago](https://www.bbc.com/news/articles/cqjgrdez24vo?at_medium=RSS&at_campaign=rss))
+- Rugby fans to get prostate cancer advice at match ([21 hours ago](https://www.bbc.com/news/articles/czxnxgew464o?at_medium=RSS&at_campaign=rss))
 - Views sought on housing or care home plan for campus ([1 days ago](https://www.bbc.com/news/articles/cz68xv5ll1qo?at_medium=RSS&at_campaign=rss))
 - Ex-rugby player recognised for MND charity work ([1 days ago](https://www.bbc.com/news/articles/cvgkeqr2dzpo?at_medium=RSS&at_campaign=rss))
 - Community freecycle event expands to third site ([1 days ago](https://www.bbc.com/news/articles/crexe0v5jlro?at_medium=RSS&at_campaign=rss))

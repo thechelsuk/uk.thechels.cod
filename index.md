@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 24 November 2025
 
-- The average temperature today is 6.29˚C,
-- With highs of 7.38˚C and lows of 5.93˚C,
-- It may feel like 2.67˚C with broken clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 992hPa and humidity is 90%
+- The average temperature today is 6.81˚C,
+- With highs of 7.77˚C and lows of 6.4˚C,
+- It may feel like 3.77˚C with broken clouds
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 993hPa and humidity is 89%
 - The sun will rise at 07:43 and set at 16:07
 
 <!-- weather_marker ends -->

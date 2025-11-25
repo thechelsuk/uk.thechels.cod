@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Big pothole in the road that caused my bike wheel to go in while riding., 25th November :- [8465389](https://www.fixmystreet.com/report/8465389)
+- Broken glass on pavement, 25th November :- [8465319](https://www.fixmystreet.com/report/8465319)
 - Tree trunk across footpath, 25th November :- [8465125](https://www.fixmystreet.com/report/8465125)
 - Shurdington Road and pavement mud problem from construction site, 25th November :- [8465021](https://www.fixmystreet.com/report/8465021)
 - Car abandoned on verge and pavement, 25th November :- [8464975](https://www.fixmystreet.com/report/8464975)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flooding across road and path when it rains, 25th November :- [8464089](https://www.fixmystreet.com/report/8464089)
 - White Lines, 25th November :- [8464024](https://www.fixmystreet.com/report/8464024)
 - TMC - Defects - Covers, Gratings & Frames problem, 25th November :- [8464322](https://www.fixmystreet.com/report/8464322)
-- Domestic waste flytip, 25th November :- [8463688](https://www.fixmystreet.com/report/8463688)
-- TMC - Defects - Covers, Gratings & Frames problem, 25th November :- [8463785](https://www.fixmystreet.com/report/8463785)
 
 <!-- fix_marker ends -->

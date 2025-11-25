@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 25 November 2025
 
-- The average temperature today is 1.48˚C,
-- With highs of 3.31˚C and lows of -0.18˚C,
-- It may feel like 1.48˚C with clear sky
+- The average temperature today is -0.59˚C,
+- With highs of 1.58˚C and lows of -1.38˚C,
+- It may feel like -0.59˚C with clear sky
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 90%
+- The pressure is 1022hPa and humidity is 93%
 - The sun will rise at 07:44 and set at 16:06
 
 <!-- weather_marker ends -->

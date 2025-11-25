@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large sink hole in carriageway collapsing again., 25th November :- [8460838](https://www.fixmystreet.com/report/8460838)
+- Large pot hole on road, 25th November :- [8460800](https://www.fixmystreet.com/report/8460800)
 - Very noisy drainage cover when traffic runs over it , service engineers were sent out on friday 21/11/2025, but i was told that they didnt have the correct stuff with them to fix it' so did as much as they could' but now it is even worse , clunking & rattling every time a car or lorry runs over it all night long' keeping us awake !! Health is now suffering from noise nuisance all day & night !, 24th November :- [8460215](https://www.fixmystreet.com/report/8460215)
 - No filter on lights turning right into greyhound gardens from Elmbridge court roundabout, 24th November :- [8459696](https://www.fixmystreet.com/report/8459696)
 - The cycle slip lane at A417/A46 roundabout is full of leaves, 24th November :- [8459621](https://www.fixmystreet.com/report/8459621)
@@ -24,10 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 24th November :- [8458623](https://www.fixmystreet.com/report/8458623)
 - Tree is damaged problem, 24th November :- [8458614](https://www.fixmystreet.com/report/8458614)
 - There are numerous pot holes between the entrance of Northfield Farm and Hewletts Farm, Aggs Hill. One is quite deep., 24th November :- [8458325](https://www.fixmystreet.com/report/8458325)
-- TMC - Defects - Footways Slabs problem, 24th November :- [8458408](https://www.fixmystreet.com/report/8458408)
 - TMC - Defects - Footways Slabs problem, 24th November :- [8458407](https://www.fixmystreet.com/report/8458407)
 - TMC - Defects - Footways Slabs problem, 24th November :- [8458406](https://www.fixmystreet.com/report/8458406)
-- TMC - Defects - Covers, Gratings & Frames problem, 24th November :- [8458185](https://www.fixmystreet.com/report/8458185)
-- TMC - Defects - Other FW6  Surface problem, 24th November :- [8457982](https://www.fixmystreet.com/report/8457982)
+- TMC - Defects - Footways Slabs problem, 24th November :- [8458408](https://www.fixmystreet.com/report/8458408)
 
 <!-- fix_marker ends -->

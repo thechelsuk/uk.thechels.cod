@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree trunk across footpath, 25th November :- [8465125](https://www.fixmystreet.com/report/8465125)
+- Shurdington Road and pavement mud problem from construction site, 25th November :- [8465021](https://www.fixmystreet.com/report/8465021)
+- Car abandoned on verge and pavement, 25th November :- [8464975](https://www.fixmystreet.com/report/8464975)
 - Large rocks still present outside 47 Sandyleaze, 25th November :- [8464846](https://www.fixmystreet.com/report/8464846)
 - Parking area opposite the park, 25th November :- [8464823](https://www.fixmystreet.com/report/8464823)
 - Street name damaged and unclear, 25th November :- [8464591](https://www.fixmystreet.com/report/8464591)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 25th November :- [8464322](https://www.fixmystreet.com/report/8464322)
 - Domestic waste flytip, 25th November :- [8463688](https://www.fixmystreet.com/report/8463688)
 - TMC - Defects - Covers, Gratings & Frames problem, 25th November :- [8463785](https://www.fixmystreet.com/report/8463785)
-- A pothole in road problem, 25th November :- [8463593](https://www.fixmystreet.com/report/8463593)
-- TMC - Defects -CW6 Potholes  problem, 25th November :- [8463608](https://www.fixmystreet.com/report/8463608)
-- TMC - Defects - Footways Slabs problem, 25th November :- [8463606](https://www.fixmystreet.com/report/8463606)
 
 <!-- fix_marker ends -->

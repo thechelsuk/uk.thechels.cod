@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Numerous potholes, 26th November :- [8470059](https://www.fixmystreet.com/report/8470059)
 - Sign post damaged leaning against fence, 26th November :- [8469667](https://www.fixmystreet.com/report/8469667)
 - Deceased fox, 26th November :- [8469663](https://www.fixmystreet.com/report/8469663)
 - Roadworks materials in the way of driveway and not being used, 26th November :- [8469634](https://www.fixmystreet.com/report/8469634)
@@ -22,12 +23,11 @@ permalink: /fix-my-street
 - Road marking white lines or studs problem, 26th November :- [8468937](https://www.fixmystreet.com/report/8468937)
 - A pothole in road problem, 26th November :- [8468800](https://www.fixmystreet.com/report/8468800)
 - 2 pot hole next to each other at the junction of Symphony way onto Grovefield way, 26th November :- [8468512](https://www.fixmystreet.com/report/8468512)
-- TMC - Defects -CW6 Potholes  problem, 26th November :- [8468805](https://www.fixmystreet.com/report/8468805)
 - TMC - Defects -CW6 Potholes  problem, 26th November :- [8468806](https://www.fixmystreet.com/report/8468806)
+- TMC - Defects -CW6 Potholes  problem, 26th November :- [8468805](https://www.fixmystreet.com/report/8468805)
 - TMC - Defects -CW6 Potholes  problem, 26th November :- [8468804](https://www.fixmystreet.com/report/8468804)
 - TMC - Defects - Other FW6  Surface problem, 26th November :- [8468803](https://www.fixmystreet.com/report/8468803)
 - Large pothole just before the bus stop heading, 26th November :- [8468476](https://www.fixmystreet.com/report/8468476)
 - Handrail fixings have come undone and handrail partially fallen down., 26th November :- [8468134](https://www.fixmystreet.com/report/8468134)
-- TMC - Defects -CW6 Potholes  problem, 26th November :- [8468005](https://www.fixmystreet.com/report/8468005)
 
 <!-- fix_marker ends -->

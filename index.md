@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 26 November 2025
 
-- The average temperature today is 8.26˚C,
-- With highs of 8.88˚C and lows of 7.61˚C,
-- It may feel like 5.81˚C with light intensity drizzle
-- The wind speed is 4.12m/s and visibility is 7000m
-- The pressure is 1017hPa and humidity is 88%
+- The average temperature today is 9.79˚C,
+- With highs of 10.55˚C and lows of 8.73˚C,
+- It may feel like 8.46˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 91%
 - The sun will rise at 07:46 and set at 16:05
 
 <!-- weather_marker ends -->

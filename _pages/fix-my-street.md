@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign post damaged leaning against fence, 26th November :- [8469667](https://www.fixmystreet.com/report/8469667)
+- Deceased fox, 26th November :- [8469663](https://www.fixmystreet.com/report/8469663)
+- Roadworks materials in the way of driveway and not being used, 26th November :- [8469634](https://www.fixmystreet.com/report/8469634)
+- Road edge has broken away, 26th November :- [8469443](https://www.fixmystreet.com/report/8469443)
 - Blocked Road Gulley, 26th November :- [8469155](https://www.fixmystreet.com/report/8469155)
 - Abandon electric scooter, 26th November :- [8469052](https://www.fixmystreet.com/report/8469052)
 - Right thurn priority not working, 26th November :- [8469048](https://www.fixmystreet.com/report/8469048)
@@ -24,10 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 26th November :- [8468803](https://www.fixmystreet.com/report/8468803)
 - Large pothole just before the bus stop heading, 26th November :- [8468476](https://www.fixmystreet.com/report/8468476)
 - Handrail fixings have come undone and handrail partially fallen down., 26th November :- [8468134](https://www.fixmystreet.com/report/8468134)
-- TMC - Defects -CW6 Potholes  problem, 26th November :- [8468006](https://www.fixmystreet.com/report/8468006)
 - TMC - Defects -CW6 Potholes  problem, 26th November :- [8468005](https://www.fixmystreet.com/report/8468005)
-- TMC - Defects -other CW6 problem, 26th November :- [8467764](https://www.fixmystreet.com/report/8467764)
-- TMC - Defects -other CW6 problem, 26th November :- [8467763](https://www.fixmystreet.com/report/8467763)
-- Hucclecote Os Royal Oak broken glass, 26th November :- [8467499](https://www.fixmystreet.com/report/8467499)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked Road Gulley, 26th November :- [8469155](https://www.fixmystreet.com/report/8469155)
+- Abandon electric scooter, 26th November :- [8469052](https://www.fixmystreet.com/report/8469052)
+- Right thurn priority not working, 26th November :- [8469048](https://www.fixmystreet.com/report/8469048)
 - Fallen down fence on grass verge, 26th November :- [8469006](https://www.fixmystreet.com/report/8469006)
 - Concealed 1 inch raised concrete line, 26th November :- [8468963](https://www.fixmystreet.com/report/8468963)
 - A pothole in road problem, 26th November :- [8468938](https://www.fixmystreet.com/report/8468938)
@@ -21,13 +24,10 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 26th November :- [8468803](https://www.fixmystreet.com/report/8468803)
 - Large pothole just before the bus stop heading, 26th November :- [8468476](https://www.fixmystreet.com/report/8468476)
 - Handrail fixings have come undone and handrail partially fallen down., 26th November :- [8468134](https://www.fixmystreet.com/report/8468134)
-- TMC - Defects -CW6 Potholes  problem, 26th November :- [8468005](https://www.fixmystreet.com/report/8468005)
 - TMC - Defects -CW6 Potholes  problem, 26th November :- [8468006](https://www.fixmystreet.com/report/8468006)
-- TMC - Defects -other CW6 problem, 26th November :- [8467763](https://www.fixmystreet.com/report/8467763)
+- TMC - Defects -CW6 Potholes  problem, 26th November :- [8468005](https://www.fixmystreet.com/report/8468005)
 - TMC - Defects -other CW6 problem, 26th November :- [8467764](https://www.fixmystreet.com/report/8467764)
+- TMC - Defects -other CW6 problem, 26th November :- [8467763](https://www.fixmystreet.com/report/8467763)
 - Hucclecote Os Royal Oak broken glass, 26th November :- [8467499](https://www.fixmystreet.com/report/8467499)
-- Broken glass pane Barnwood after Church Lane, 26th November :- [8467400](https://www.fixmystreet.com/report/8467400)
-- TMC - Defects -FW6 Potholes problem, 26th November :- [8467431](https://www.fixmystreet.com/report/8467431)
-- TMC - Defects -FW6 Potholes problem, 26th November :- [8467430](https://www.fixmystreet.com/report/8467430)
 
 <!-- fix_marker ends -->

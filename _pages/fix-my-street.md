@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road signs STILL in hedge, 27th November :- [8470821](https://www.fixmystreet.com/report/8470821)
+- No bus stop shelter or seat, 27th November :- [8470687](https://www.fixmystreet.com/report/8470687)
+- Bus stop plastic timetable is broken, 27th November :- [8470674](https://www.fixmystreet.com/report/8470674)
+- Cyclepath needs cleaning, 27th November :- [8470554](https://www.fixmystreet.com/report/8470554)
 - The footpath on the green has been blocked for months now, no clear understanding why or when work will be completed., 27th November :- [8470427](https://www.fixmystreet.com/report/8470427)
 - Numerous potholes, 26th November :- [8470059](https://www.fixmystreet.com/report/8470059)
 - Sign post damaged leaning against fence, 26th November :- [8469667](https://www.fixmystreet.com/report/8469667)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 26th November :- [8468800](https://www.fixmystreet.com/report/8468800)
 - 2 pot hole next to each other at the junction of Symphony way onto Grovefield way, 26th November :- [8468512](https://www.fixmystreet.com/report/8468512)
 - TMC - Defects -CW6 Potholes  problem, 26th November :- [8468805](https://www.fixmystreet.com/report/8468805)
-- TMC - Defects -CW6 Potholes  problem, 26th November :- [8468806](https://www.fixmystreet.com/report/8468806)
-- TMC - Defects -CW6 Potholes  problem, 26th November :- [8468804](https://www.fixmystreet.com/report/8468804)
-- TMC - Defects - Other FW6  Surface problem, 26th November :- [8468803](https://www.fixmystreet.com/report/8468803)
-- Large pothole just before the bus stop heading, 26th November :- [8468476](https://www.fixmystreet.com/report/8468476)
 
 <!-- fix_marker ends -->

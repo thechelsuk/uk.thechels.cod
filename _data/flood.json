@@ -1,17 +1,207 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-27T10:09:00",
+      "timeRaised": "2025-11-27T10:09:44",
+      "timeSeverityChanged": "2025-11-27T10:09:00"
     },
-    "items": []
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF924",
+      "description": "Upper River Tees",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF924",
+        "county": "County Durham, Darlington, North Yorkshire, Westmorland and Furness",
+        "notation": "121WAF924",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF924/polygon",
+        "riverOrSea": "River Tees"
+      },
+      "floodAreaID": "121WAF924",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nFurther rainfall is forecast but no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-27T10:21:00",
+      "timeRaised": "2025-11-27T10:21:24",
+      "timeSeverityChanged": "2025-11-27T10:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF950",
+      "description": "Lower River Derwent",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF950",
+        "county": "East Riding of Yorkshire, North Yorkshire, York",
+        "notation": "122WAF950",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF950/polygon",
+        "riverOrSea": "River Derwent"
+      },
+      "floodAreaID": "122WAF950",
+      "isTidal": false,
+      "message": "High river levels today may lead to flooding. Flooding is possible on Thursday 27 November 2025 and on Friday 28 November 2025. Locations most affected will be low lying land and roads near rivers, especially around Stamford Bridge, Pocklington, Wressle, Wilberfoss and Elvington. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 08:00AM on 28 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-27T20:32:00",
+      "timeRaised": "2025-11-27T20:32:10",
+      "timeSeverityChanged": "2025-11-23T20:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
+      "description": "Upper River Derwent",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAF949",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949/polygon",
+        "riverOrSea": "River Derwent, Sea Cut, River Hertford, Burniston Beck"
+      },
+      "floodAreaID": "122WAF949",
+      "isTidal": false,
+      "message": "High river levels today may lead to flooding. Flooding is possible on Thursday 27 November 2025 and on Friday 28 November 2025. Locations most affected will be low lying land and roads near rivers, particularly around the Low Marishes and Malton area. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 08:00AM on 28 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-27T20:30:00",
+      "timeRaised": "2025-11-27T20:30:26",
+      "timeSeverityChanged": "2025-11-20T09:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
+      "description": "Rivers Duddon, Crake and Mill Beck",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFDU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU/polygon",
+        "riverOrSea": "River Duddon, River Crake, Mill Beck"
+      },
+      "floodAreaID": "011WAFDU",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-27T17:18:00",
+      "timeRaised": "2025-11-27T17:18:33",
+      "timeSeverityChanged": "2025-11-27T17:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFKB",
+      "description": "Rivers Kent and Bela",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFKB",
+        "county": "Lancashire, Westmorland and Furness",
+        "notation": "011WAFKB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFKB/polygon",
+        "riverOrSea": "River Kent, River Bela"
+      },
+      "floodAreaID": "011WAFKB",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-27T17:17:00",
+      "timeRaised": "2025-11-27T17:17:52",
+      "timeSeverityChanged": "2025-11-27T17:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFEI",
+      "description": "Rivers Esk and Irthing",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI",
+        "county": "Cumberland, Northumberland, Westmorland and Furness",
+        "notation": "011WAFEI",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI/polygon",
+        "riverOrSea": "River Esk, River Irthing"
+      },
+      "floodAreaID": "011WAFEI",
+      "isTidal": false,
+      "message": "Rising river levels today may lead to flooding. \nFlooding is possible on 27 November 2025 . This is expected to peak between 2:00PM and 3:00PM. \nLocations most affected will be low lying land and roads near rivers. \nWe are monitoring rainfall and river levels and closely monitoring the situation. \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 9:00AM on 28 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-27T10:45:00",
+      "timeRaised": "2025-11-27T10:45:38",
+      "timeSeverityChanged": "2025-11-27T10:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumberland",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": "Rising river levels today may lead to flooding. \nFlooding is possible on 27 November 2025 from midday. \nLocations most affected will be low lying land and roads near rivers. \nWe are monitoring rainfall and river levels and closely monitoring the situation. \nAvoid using low lying footpaths and any bridges near local watercourses and take care and avoid walking, cycling or driving through flood water. \nThis message will be updated by 9:00AM on 28 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-27T10:39:00",
+      "timeRaised": "2025-11-27T10:39:52",
+      "timeSeverityChanged": "2025-11-27T10:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF650",
+      "description": "River Derwent at Buttercrambe Mill",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF650",
+        "county": "North Yorkshire",
+        "notation": "122FWF650",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF650/polygon",
+        "riverOrSea": "River Derwent"
+      },
+      "floodAreaID": "122FWF650",
+      "isTidal": false,
+      "message": "High river levels are expected to cause flooding today. River levels are slowly falling and expected to drop over the coming days. Flooding is expected to continue on Thursday 27 November 2025 and on Friday 28 November 2025. Locations most affected will be Buttercrambe Mill at Buttercrambe Bridge. We are closely monitoring the situation. Start acting on your flood plan if you have one. This message will be updated by 08:00AM on 28 November 2025 or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-27T20:28:00",
+      "timeRaised": "2025-11-27T20:28:28",
+      "timeSeverityChanged": "2025-11-24T16:32:00"
+    }
+  ]
 }

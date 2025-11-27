@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bus stop pole leaning badly, 27th November :- [8472403](https://www.fixmystreet.com/report/8472403)
+- Abandoned motorbike, 27th November :- [8472394](https://www.fixmystreet.com/report/8472394)
+- Ringway barriers, weeds and rubbish on pavement, 27th November :- [8472377](https://www.fixmystreet.com/report/8472377)
+- Large pothole outside 138 Hatherley Road, 27th November :- [8472355](https://www.fixmystreet.com/report/8472355)
+- Tree maintenance on Milton Road, 27th November :- [8472276](https://www.fixmystreet.com/report/8472276)
+- A long cluster of potholes on road merging into each over and getting bigger. Been like it for quite some time, 27th November :- [8472032](https://www.fixmystreet.com/report/8472032)
+- Abandoned contractor fencing left from road works, 27th November :- [8472016](https://www.fixmystreet.com/report/8472016)
+- Lorry backed down courtfield drive ober grass verge and into fence and signage, 27th November :- [8471712](https://www.fixmystreet.com/report/8471712)
 - The drain from the pond is blocked, the water then goes onto the road, during the cold weather the water freezes making a sheet of ice which is very high risk of accidents. Consistently over the last few years the road at the motorway bridge floods to a depth that is impassable (see last photograph) note this also backs up to Monks Lane., 27th November :- [8471663](https://www.fixmystreet.com/report/8471663)
 - Abandoned caravan in front of St Mary’s Mission, 27th November :- [8471476](https://www.fixmystreet.com/report/8471476)
 - Flytipped fridge freezer Park St, 27th November :- [8471436](https://www.fixmystreet.com/report/8471436)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 27th November :- [8470918](https://www.fixmystreet.com/report/8470918)
 - Road signs STILL in hedge, 27th November :- [8470821](https://www.fixmystreet.com/report/8470821)
 - No bus stop shelter or seat, 27th November :- [8470687](https://www.fixmystreet.com/report/8470687)
-- Bus stop plastic timetable is broken, 27th November :- [8470674](https://www.fixmystreet.com/report/8470674)
-- Cyclepath needs cleaning, 27th November :- [8470554](https://www.fixmystreet.com/report/8470554)
-- The footpath on the green has been blocked for months now, no clear understanding why or when work will be completed., 27th November :- [8470427](https://www.fixmystreet.com/report/8470427)
-- Numerous potholes, 26th November :- [8470059](https://www.fixmystreet.com/report/8470059)
-- Sign post damaged leaning against fence, 26th November :- [8469667](https://www.fixmystreet.com/report/8469667)
-- Deceased fox, 26th November :- [8469663](https://www.fixmystreet.com/report/8469663)
-- Roadworks materials in the way of driveway and not being used, 26th November :- [8469634](https://www.fixmystreet.com/report/8469634)
-- Road edge has broken away, 26th November :- [8469443](https://www.fixmystreet.com/report/8469443)
 
 <!-- fix_marker ends -->

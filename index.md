@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 27 November 2025
 
-- The average temperature today is 11.66˚C,
-- With highs of 12.77˚C and lows of 10.93˚C,
-- It may feel like 11.21˚C with broken clouds
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 89%
+- The average temperature today is 10.45˚C,
+- With highs of 11.1˚C and lows of 9.82˚C,
+- It may feel like 9.85˚C with broken clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 88%
 - The sun will rise at 07:47 and set at 16:04
 
 <!-- weather_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 28 November 2025
 
-- The average temperature today is 10˚C,
+- The average temperature today is 9.9˚C,
 - With highs of 10.55˚C and lows of 9.26˚C,
-- It may feel like 8.2˚C with overcast clouds
+- It may feel like 8.08˚C with overcast clouds
 - The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 88%
+- The pressure is 1011hPa and humidity is 88%
 - The sun will rise at 07:49 and set at 16:03
 
 <!-- weather_marker ends -->

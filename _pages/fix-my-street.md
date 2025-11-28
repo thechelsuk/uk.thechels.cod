@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned vehicle, 28th November :- [8475823](https://www.fixmystreet.com/report/8475823)
+- Debris and leaves blocking the pavement, 28th November :- [8475797](https://www.fixmystreet.com/report/8475797)
 - Flooded bus stop bay, 28th November :- [8474862](https://www.fixmystreet.com/report/8474862)
 - Footpath & Cycle Way Obstructed for Weeks, 28th November :- [8474821](https://www.fixmystreet.com/report/8474821)
 - Health and Safety, 27th November :- [8474282](https://www.fixmystreet.com/report/8474282)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Work in Glebe rd Drains, 27th November :- [8472981](https://www.fixmystreet.com/report/8472981)
 - Tree is damaged problem, 27th November :- [8472937](https://www.fixmystreet.com/report/8472937)
 - Tree is damaged problem, 27th November :- [8472786](https://www.fixmystreet.com/report/8472786)
-- Two sets of dumped material, which looks like could be ASBESTOS, 27th November :- [8472759](https://www.fixmystreet.com/report/8472759)
-- 2 pedestrian warning signs turned 90 degrees, 27th November :- [8472683](https://www.fixmystreet.com/report/8472683)
 
 <!-- fix_marker ends -->

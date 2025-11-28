@@ -1,711 +1,81 @@
 {
-  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-  "meta": {
-    "publisher": "Environment Agency",
-    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-    "version": "0.9",
-    "comment": "Status: Beta service",
-    "hasFormat": [
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
-      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
+    },
+    "items": [
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
+            "description": "River Leadon catchment",
+            "eaAreaName": "West Midlands",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
+                "county": "Gloucestershire, Herefordshire, Worcestershire",
+                "notation": "031WAF213",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
+                "riverOrSea": "Leadon, Glynch"
+            },
+            "floodAreaID": "031WAF213",
+            "isTidal": false,
+            "message": "Forecast rising river levels overnight may lead to flooding.\u00a0\nFlooding is possible from overnight on 28 November 2025 \u00a0\nWidespread heavy rainfall overnight may lead to flooding. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge.\u00a0\nWe are closely monitoring the situation .\u00a0\nAvoid using low lying footpaths and any bridges near local watercourses .\u00a0\nThis message will be updated by 9:00AM on 29 November 2025 or as the situation changes.\n",
+            "severity": "Flood alert",
+            "severityLevel": 3,
+            "timeMessageChanged": "2025-11-28T16:08:00",
+            "timeRaised": "2025-11-28T16:08:38",
+            "timeSeverityChanged": "2025-11-28T16:08:00"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF119",
+            "description": "River Wye in Herefordshire",
+            "eaAreaName": "West Midlands",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF119",
+                "county": "Gloucestershire, Herefordshire",
+                "notation": "031WAF119",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF119/polygon",
+                "riverOrSea": "River Wye"
+            },
+            "floodAreaID": "031WAF119",
+            "isTidal": false,
+            "message": "Rising river levels today may lead to flooding.\u00a0\nFlooding is possible from the early hours of 29 November 2025 .\u00a0\nFlooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 2.0m to 2.5m on 29/11 PM, Bredwardine 4.2m to 4.7m on 29/11 evening, Belmont 4.3m to 4.8m on 30/11 AM, Old Wye Bridge 3.7m to 4.2m on 30/11 AM, Mordiford 4.0m to 4.5m on 30/11 AM, Ross on Wye 3.5m to 4.0m on 30/11 PM.\u00a0\nWe are closely monitoring the situation .\u00a0\nTake care and avoid walking, cycling or driving through flood water .\u00a0\nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
+            "severity": "Flood alert",
+            "severityLevel": 3,
+            "timeMessageChanged": "2025-11-28T16:38:00",
+            "timeRaised": "2025-11-28T16:38:20",
+            "timeSeverityChanged": "2025-11-28T16:38:00"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF215",
+            "description": "Rivers in the Forest of Dean",
+            "eaAreaName": "West Midlands",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF215",
+                "county": "Gloucestershire",
+                "notation": "031WAF215",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF215/polygon",
+                "riverOrSea": "Lyd, Cinderford Brook"
+            },
+            "floodAreaID": "031WAF215",
+            "isTidal": false,
+            "message": "Forecast rising river levels overnight may lead to flooding.\u00a0\nFlooding is possible from overnight on 28 November 2025 .\u00a0\nWidespread heavy rainfall overnight may lead to flooding. Locations that may be affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.\u00a0\nWe are closely monitoring the situation .\u00a0\nAvoid using low lying footpaths and any bridges near local watercourses .\u00a0\nThis message will be updated by 9:00AM on 29 November 2025 or as the situation changes.\n",
+            "severity": "Flood alert",
+            "severityLevel": 3,
+            "timeMessageChanged": "2025-11-28T16:10:00",
+            "timeRaised": "2025-11-28T16:10:52",
+            "timeSeverityChanged": "2025-11-28T16:10:00"
+        }
     ]
-  },
-  "items": [
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF205",
-      "description": "River Arrow and River Alne",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205",
-        "county": "Warwickshire, Worcestershire",
-        "notation": "033WAF205",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205/polygon",
-        "riverOrSea": "Arrow, Alne"
-      },
-      "floodAreaID": "033WAF205",
-      "isTidal": false,
-      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . We are issuing this alert as a precaution. \nLocations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . Take care and avoid walking, cycling or driving through flood water. \nThis message will be updated by 11:00PM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:13:00",
-      "timeRaised": "2025-11-28T16:13:56",
-      "timeSeverityChanged": "2025-11-28T16:13:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
-      "description": "River Blythe in Warwickshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302",
-        "county": "Solihull, Warwickshire",
-        "notation": "033WAF302",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
-        "riverOrSea": "River Blythe"
-      },
-      "floodAreaID": "033WAF302",
-      "isTidal": false,
-      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . We are issuing this alert as a precaution. \nLocations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . Take care and avoid walking, cycling or driving through flood water. \nThis message will be updated by 11:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:13:00",
-      "timeRaised": "2025-11-28T16:13:47",
-      "timeSeverityChanged": "2025-11-28T16:13:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF201",
-      "description": "Upper Avon River Swift and Clay Coton Brook",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF201",
-        "county": "Leicestershire, Warwickshire, West Northamptonshire",
-        "notation": "033WAF201",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF201/polygon",
-        "riverOrSea": "Avon, Swift, Claycoton"
-      },
-      "floodAreaID": "033WAF201",
-      "isTidal": false,
-      "message": "High river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 We are issuing this alert as a precaution. \nFlooding may affect low-lying land and roads adjacent to the  River Avon between Stanford and Rugby, River Swift between Cosford and Rugby and Clay Coton Brook between Yelvertoft and Lilbourne. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses Take care and avoid walking, cycling or driving through flood water\n. \nThis message will be updated by 11:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:13:00",
-      "timeRaised": "2025-11-28T16:13:07",
-      "timeSeverityChanged": "2025-11-28T16:13:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF410",
-      "description": "Tributaries in North Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF410",
-        "county": "Derbyshire",
-        "notation": "034WAF410",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF410/polygon",
-        "riverOrSea": "Bradwell Brook, Dale Brook, Tideswell Brook, Warney Brook and Bentley Brook, Press Brook"
-      },
-      "floodAreaID": "034WAF410",
-      "isTidal": false,
-      "message": "Forecast rising river levels overnight may lead to flooding. \nFlooding is possible on 29 November 2025 . \nAreas most at risk are low-lying agricultural land and roads around the tributaries of the Rivers Derwent, Wye and Noe in North Derbyshire including Grinds Brook, Peakshole Water, Bradwell Brook, Stoke Brook, Bar Brook, Tideswell Brook, Warney Brook, Bentley Brook, Via Gellia and Lea Brook. Rainfall is forecast over the next 24 hours. River levels at Castleton Peakshole Water Gauge will begin rising in the morning of 29/11/2025. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:17:00",
-      "timeRaised": "2025-11-28T16:17:46",
-      "timeSeverityChanged": "2025-11-28T16:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
-      "description": "River Lugg south of Leominster",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF116",
-        "county": "Herefordshire",
-        "notation": "031WAF116",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF116/polygon",
-        "riverOrSea": "River Lugg"
-      },
-      "floodAreaID": "031WAF116",
-      "isTidal": false,
-      "message": "High river levels today may lead to flooding. \nFlooding is possible from the early hours of 29 November 2025 . \nFlooding may affect low lying land and roads adjacent to the River Lugg south of Leominster from Stoke Prior to Mordiford. Other locations that may be affected include Bodenham, Lugwardine and Hampton Bishop. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:41:00",
-      "timeRaised": "2025-11-28T16:41:36",
-      "timeSeverityChanged": "2025-11-28T16:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "Tide locking, where high tides restrict normal drainage of the river out to sea, overnight may lead to flooding. \nFlooding is possible tomorrow, Saturday 29 November. \nWe expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. River levels may remain high over the next couple of days. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 4:00PM on 29 November 2025 or as the situation changes.\n\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:17:00",
-      "timeRaised": "2025-11-28T16:17:13",
-      "timeSeverityChanged": "2025-11-28T16:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF202",
-      "description": "R Sowe & R Sherbourne and Canley Bk & Finham Bk",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF202",
-        "county": "Coventry, Solihull, Warwickshire",
-        "notation": "033WAF202",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF202/polygon",
-        "riverOrSea": "Sowe, Sherbourne, Canley Brook"
-      },
-      "floodAreaID": "033WAF202",
-      "isTidal": false,
-      "message": "High river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 We are issuing this alert as a precaution. \nFlooding may affect low-lying land and roads adjacent to River Sowe between Bedworth and Baginton, River Sherboune between Allesley and Whitley, Canley Brook between Tile Hill and Canley and the Finham Brook at Kenilworth. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses Take care and avoid walking, cycling or driving through flood water. \nThis message will be updated by 11:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:17:00",
-      "timeRaised": "2025-11-28T16:17:34",
-      "timeSeverityChanged": "2025-11-28T16:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF408",
-      "description": "River Wye in Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408",
-        "county": "Derbyshire",
-        "notation": "034WAF408",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408/polygon",
-        "riverOrSea": "River Wye"
-      },
-      "floodAreaID": "034WAF408",
-      "isTidal": false,
-      "message": "Forecast rising river levels overnight may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . \nAreas most at risk are low-lying agricultural land and roads including Ashford and Bakewell areas. Rainfall is forecast over the next 24 hours. River levels at Ashford in the Water Gauge will begin rising in the morning of 29/11/2025. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:14:00",
-      "timeRaised": "2025-11-28T16:14:31",
-      "timeSeverityChanged": "2025-11-28T16:14:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF982",
-      "description": "Wyke Beck and Meanwood Beck catchments",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF982",
-        "county": "Leeds",
-        "notation": "123WAF982",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF982/polygon",
-        "riverOrSea": "Wyke Beck, Meanwood Beck"
-      },
-      "floodAreaID": "123WAF982",
-      "isTidal": false,
-      "message": "Rising river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 28 November 2025 as a result of heavy rainfall. \nLocations most affected will be low lying land and roads near rivers, including tributaries of the River Aire in North and West Leeds. \nWe are monitoring rainfall and river levels . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 9:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T21:03:00",
-      "timeRaised": "2025-11-28T21:03:06",
-      "timeSeverityChanged": "2025-11-28T21:03:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
-      "description": "River Leadon catchment",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
-        "county": "Gloucestershire, Herefordshire, Worcestershire",
-        "notation": "031WAF213",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
-        "riverOrSea": "Leadon, Glynch"
-      },
-      "floodAreaID": "031WAF213",
-      "isTidal": false,
-      "message": "Forecast rising river levels overnight may lead to flooding. \nFlooding is possible from overnight on 28 November 2025  \nWidespread heavy rainfall overnight may lead to flooding. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 9:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:08:00",
-      "timeRaised": "2025-11-28T16:08:38",
-      "timeSeverityChanged": "2025-11-28T16:08:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
-      "description": "River Maun in Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF430",
-        "county": "Nottinghamshire",
-        "notation": "034WAF430",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF430/polygon",
-        "riverOrSea": "River Maun"
-      },
-      "floodAreaID": "034WAF430",
-      "isTidal": false,
-      "message": "Rising river levels tomorrow morning may lead to flooding. \nFlooding is possible on 29 November 2025 . \nAreas most at risk are low-lying agricultural land and roads around Mansfield, the Sherwood Forest Caravan Park at Clipstone, Edwinstowe, Ollerton, Whitewater Lane at Whitewater Bridge and West Drayton. Rainfall is forecast until Saturday evening. River levels at Whitewater Bridge Gauge will rise until the evening on 29/11/25. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 9:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T15:41:00",
-      "timeRaised": "2025-11-28T15:41:41",
-      "timeSeverityChanged": "2025-11-28T15:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF950",
-      "description": "Lower River Derwent",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF950",
-        "county": "East Riding of Yorkshire, North Yorkshire, York",
-        "notation": "122WAF950",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF950/polygon",
-        "riverOrSea": "River Derwent"
-      },
-      "floodAreaID": "122WAF950",
-      "isTidal": false,
-      "message": "High river levels today may lead to flooding. Flooding is possible on Friday 28 November 2025 and on Saturday 29 November 2025. Locations most affected will be low lying land and roads near rivers, especially around Stamford Bridge, Pocklington, Wressle, Wilberfoss and Elvington. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 09:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T20:39:00",
-      "timeRaised": "2025-11-28T20:39:47",
-      "timeSeverityChanged": "2025-11-23T20:36:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
-      "description": "Upper River Derwent",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949",
-        "county": "East Riding of Yorkshire, North Yorkshire",
-        "notation": "122WAF949",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949/polygon",
-        "riverOrSea": "River Derwent, Sea Cut, River Hertford, Burniston Beck"
-      },
-      "floodAreaID": "122WAF949",
-      "isTidal": false,
-      "message": "High river levels today may lead to flooding. Flooding is possible on Friday 28 November 2025 and on Saturday 29 November 2025. Locations most affected will be low lying land and roads near rivers, particularly around the Low Marishes and Malton area. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 09:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T20:38:00",
-      "timeRaised": "2025-11-28T20:38:25",
-      "timeSeverityChanged": "2025-11-20T09:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
-      "description": "Upper River Tamar",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00",
-        "county": "Cornwall, Devon",
-        "notation": "114WAFT1W10A00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00/polygon",
-        "riverOrSea": "River Tamar, River Strat, River Neet, River Ottery, River Kensey"
-      },
-      "floodAreaID": "114WAFT1W10A00",
-      "isTidal": false,
-      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025  \nHeavy rainfall is forecast overnight in the area.\n\nForecast levels may cause flooding to low lying land and roads close to the river from around 5am on Saturday. \n\nWe expect the river to remain high throughout the day though no flooding to properties is currently forecast. Locations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 4:00PM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:16:00",
-      "timeRaised": "2025-11-28T16:16:03",
-      "timeSeverityChanged": "2025-11-28T16:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF117",
-      "description": "River Arrow in Herefordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF117",
-        "county": "Herefordshire",
-        "notation": "031WAF117",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF117/polygon",
-        "riverOrSea": "River Arrow"
-      },
-      "floodAreaID": "031WAF117",
-      "isTidal": false,
-      "message": "Forecast rising river levels overnight may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . \nFlooding may affect low lying land and roads along the River Arrow from Michaelchurch to Brierley. Other areas that may be affected include Kington, Staunton and Eardisland. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:48:00",
-      "timeRaised": "2025-11-28T16:48:47",
-      "timeSeverityChanged": "2025-11-28T16:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF118",
-      "description": "River Frome in Herefordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF118",
-        "county": "Herefordshire",
-        "notation": "031WAF118",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF118/polygon",
-        "riverOrSea": "River Frome"
-      },
-      "floodAreaID": "031WAF118",
-      "isTidal": false,
-      "message": "Forecast rising river levels tomorrow morning may lead to flooding. \nFlooding is possible from the early hours of 29 November 2025 . \nFlooding may affect low lying land and roads along the River Frome from Bromyard to Hereford. Other locations that may be affected include Bishops Frome and Yarkhill. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:00:00",
-      "timeRaised": "2025-11-28T16:00:44",
-      "timeSeverityChanged": "2025-11-28T16:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
-      "description": "Upper Teme",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF112",
-        "county": "Herefordshire, Shropshire",
-        "notation": "031WAF112",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF112/polygon",
-        "riverOrSea": "River Teme, River Onny, River Corve"
-      },
-      "floodAreaID": "031WAF112",
-      "isTidal": false,
-      "message": "Forecast rising river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . \nFlooding may affect low lying land and roads adjacent the River Teme, River Onny and River Corve and their tributaries. Locations that may be affected include Bishops Castle, Church Stretton, Knighton and Ludlow. Predicted peaks:- Leintwardine 1.0 to 1.3m 29/11 evening, Onibury 1.8m to 2.3m 29/11 PM, Corve 2.7m to 3.2m 29/11 PM. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T15:59:00",
-      "timeRaised": "2025-11-28T15:59:02",
-      "timeSeverityChanged": "2025-11-28T15:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF200",
-      "description": "Ledwyche Brook and River Rea",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF200",
-        "county": "Herefordshire, Shropshire, Worcestershire",
-        "notation": "031WAF200",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF200/polygon",
-        "riverOrSea": "Ledwyche Brook, River Rea"
-      },
-      "floodAreaID": "031WAF200",
-      "isTidal": false,
-      "message": "Rising river levels today may lead to flooding. \nFlooding is possible from the early hours of 29 November 2025 . \nFlooding may affect low lying land and roads adjacent to the Ledyche Brook and River Rea. Locations that may be affected include Cleobury Mortimer, Neen Sollars and Caynham. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:40:00",
-      "timeRaised": "2025-11-28T16:40:26",
-      "timeSeverityChanged": "2025-11-28T16:40:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
-      "description": "Christchurch Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
-        "county": "Bournemouth, Christchurch and Poole",
-        "notation": "111WATCHXH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATCHXH",
-      "isTidal": true,
-      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 0645 to 1145 on 29th November \nLocations most affected will be coastal roads and footpaths in the areas of Bridge Street, Stoney Lane and Monkswell Gardens in Purewell. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 7:46PM on 28 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T19:52:00",
-      "timeRaised": "2025-11-28T19:52:55",
-      "timeSeverityChanged": "2025-11-28T19:52:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
-      "description": "Severn Vyrnwy confluence",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114",
-        "county": "Shropshire",
-        "notation": "031WAF114",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114/polygon",
-        "riverOrSea": "River Severn, River Vyrnwy"
-      },
-      "floodAreaID": "031WAF114",
-      "isTidal": false,
-      "message": "Forecast rising river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . \nFlooding may affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Roads between Maesbrook, Melverley and Pentre start to flood. Predicted peaks:-  Llanymynech 3.3m to 3.8m on 29/11/25 PM, Cae Howel 4.1m to 4.6m on 30/11/25 AM \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T15:59:00",
-      "timeRaised": "2025-11-28T15:59:58",
-      "timeSeverityChanged": "2025-11-28T15:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF119",
-      "description": "River Wye in Herefordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF119",
-        "county": "Gloucestershire, Herefordshire",
-        "notation": "031WAF119",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF119/polygon",
-        "riverOrSea": "River Wye"
-      },
-      "floodAreaID": "031WAF119",
-      "isTidal": false,
-      "message": "Rising river levels today may lead to flooding. \nFlooding is possible from the early hours of 29 November 2025 . \nFlooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 2.0m to 2.5m on 29/11 PM, Bredwardine 4.2m to 4.7m on 29/11 evening, Belmont 4.3m to 4.8m on 30/11 AM, Old Wye Bridge 3.7m to 4.2m on 30/11 AM, Mordiford 4.0m to 4.5m on 30/11 AM, Ross on Wye 3.5m to 4.0m on 30/11 PM. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:38:00",
-      "timeRaised": "2025-11-28T16:38:20",
-      "timeSeverityChanged": "2025-11-28T16:38:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
-      "description": "River Churnet and River Tean",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317",
-        "county": "Staffordshire",
-        "notation": "033WAF317",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317/polygon",
-        "riverOrSea": "River Churnet, River Tean"
-      },
-      "floodAreaID": "033WAF317",
-      "isTidal": false,
-      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . We are issuing this alert as a precaution. \nLocations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses .Take care and avoid walking, cycling or driving through flood water. \nThis message will be updated by 11:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T15:59:00",
-      "timeRaised": "2025-11-28T15:59:05",
-      "timeSeverityChanged": "2025-11-28T15:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF320",
-      "description": "Lower Dove Brooks in Staffordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF320",
-        "county": "Derbyshire, Staffordshire",
-        "notation": "033WAF320",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF320/polygon",
-        "riverOrSea": "Marchington Brook, Picknall Brook, Rolleston Brook"
-      },
-      "floodAreaID": "033WAF320",
-      "isTidal": false,
-      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . We are issuing this alert as a precaution. \nLocations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . Take care and avoid walking, cycling or driving through flood water. \nThis message will be updated by 11:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T15:59:00",
-      "timeRaised": "2025-11-28T15:59:04",
-      "timeSeverityChanged": "2025-11-28T15:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF215",
-      "description": "Rivers in the Forest of Dean",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF215",
-        "county": "Gloucestershire",
-        "notation": "031WAF215",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF215/polygon",
-        "riverOrSea": "Lyd, Cinderford Brook"
-      },
-      "floodAreaID": "031WAF215",
-      "isTidal": false,
-      "message": "Forecast rising river levels overnight may lead to flooding. \nFlooding is possible from overnight on 28 November 2025 . \nWidespread heavy rainfall overnight may lead to flooding. Locations that may be affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 9:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:10:00",
-      "timeRaised": "2025-11-28T16:10:52",
-      "timeSeverityChanged": "2025-11-28T16:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFEI",
-      "description": "Rivers Esk and Irthing",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI",
-        "county": "Cumberland, Northumberland, Westmorland and Furness",
-        "notation": "011WAFEI",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI/polygon",
-        "riverOrSea": "River Esk, River Irthing"
-      },
-      "floodAreaID": "011WAFEI",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-28T08:42:00",
-      "timeRaised": "2025-11-28T08:42:21",
-      "timeSeverityChanged": "2025-11-28T08:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF315",
-      "description": "Upper Dove",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF315",
-        "county": "Derbyshire, Staffordshire",
-        "notation": "033WAF315",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF315/polygon",
-        "riverOrSea": "River Dove"
-      },
-      "floodAreaID": "033WAF315",
-      "isTidal": false,
-      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . We are issuing this alert as a precaution. \nLocations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . Take care and avoid walking, cycling or driving through flood water. \nThis message will be updated by 11:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T15:59:00",
-      "timeRaised": "2025-11-28T15:59:05",
-      "timeSeverityChanged": "2025-11-28T15:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF319",
-      "description": "Lower Dove Brooks and Egginton Brook in Derbyshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF319",
-        "county": "Derbyshire",
-        "notation": "033WAF319",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF319/polygon",
-        "riverOrSea": "Egginton Brook, Foston Brook, Hilton Brook"
-      },
-      "floodAreaID": "033WAF319",
-      "isTidal": false,
-      "message": "Forecast high river levels tomorrow morning may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . We are issuing this alert as a precaution. \nLocations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . Take care and avoid walking, cycling or driving through flood water. \nThis message will be updated by 11:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T15:59:00",
-      "timeRaised": "2025-11-28T15:59:05",
-      "timeSeverityChanged": "2025-11-28T15:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
-      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
-        "county": "Cumberland",
-        "notation": "011WAFDW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
-        "riverOrSea": "Derwent, Stonethwaite Beck"
-      },
-      "floodAreaID": "011WAFDW",
-      "isTidal": false,
-      "message": "High river and lake levels today may lead to flooding. \n\nFlooding is possible on 28th November 2025. \n\nLocations most affected will be low lying land and roads near rivers and lakes. Some further rainfall is expected today but we expect lake and river levels to start to drop.\n\nWe are monitoring rainfall and river levels and closely monitoring the situation. \n\nAvoid using low lying footpaths and any bridges near local watercourses and take care and avoid walking, cycling or driving through flood water. \n\nThis message will be updated by 9:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T08:41:00",
-      "timeRaised": "2025-11-28T08:41:08",
-      "timeSeverityChanged": "2025-11-27T10:39:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF411",
-      "description": "Tributaries in South Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411",
-        "county": "Derby, Derbyshire, Leicestershire, Staffordshire",
-        "notation": "034WAF411",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411/polygon",
-        "riverOrSea": "Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook"
-      },
-      "floodAreaID": "034WAF411",
-      "isTidal": false,
-      "message": "Forecast rising river levels overnight may lead to flooding. \nFlooding is possible from the morning of 29 November 2025 . \nAreas most at risk are low-lying agricultural land and roads around the tributaries to the River Derwent and River Trent in South Derbyshire, including Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook. Rainfall is forecast over the next 24 hours. River levels at Belper Gauge will begin rising in the morning on 29/11/2025. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:20:00",
-      "timeRaised": "2025-11-28T16:20:14",
-      "timeSeverityChanged": "2025-11-28T16:20:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF416",
-      "description": "River Erewash in Derbyshire and Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF416",
-        "county": "Derbyshire, Nottinghamshire",
-        "notation": "034WAF416",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF416/polygon",
-        "riverOrSea": "River Erewash"
-      },
-      "floodAreaID": "034WAF416",
-      "isTidal": false,
-      "message": "Forecast rising river levels tomorrow morning may lead to flooding. \nFlooding is possible on 29 November 2025 from the early morning. \nAreas most at risk are low-lying agricultural land and roads around Pinxton, including the Pinxton Wharf access road, Langley Mill, Ilkeston, Stapleford, and the recreation area at Sandiacre. Rainfall is forecast over the next 24 hours. River levels at Pinxton Gauge will begin rising early tomorrow morning, 29/11/2025. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T16:11:00",
-      "timeRaised": "2025-11-28T16:11:24",
-      "timeSeverityChanged": "2025-11-28T16:11:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF650",
-      "description": "River Derwent at Buttercrambe Mill",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF650",
-        "county": "North Yorkshire",
-        "notation": "122FWF650",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF650/polygon",
-        "riverOrSea": "River Derwent"
-      },
-      "floodAreaID": "122FWF650",
-      "isTidal": false,
-      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nNever drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-28T08:19:00",
-      "timeRaised": "2025-11-28T08:19:01",
-      "timeSeverityChanged": "2025-11-28T08:19:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF429",
-      "description": "River Trent Tributaries in Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF429",
-        "county": "Nottingham, Nottinghamshire",
-        "notation": "034WAF429",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF429/polygon",
-        "riverOrSea": "River Trent, River Greet, Potwell Dyke, Carr Dyke, Dover Beck, Cocker Beck, Thurgarton Beck, Fairham Brook"
-      },
-      "floodAreaID": "034WAF429",
-      "isTidal": false,
-      "message": "Rising river levels tomorrow morning may lead to flooding. \nFlooding is possible on 29 November 2025 . \nAreas most at risk are low-lying agricultural land and roads around the tributaries of the River Trent in Nottinghamshire, the River Greet, Potwell Dyke, Dover Beck, Cocker Beck, Woodborough Brook, Ouse Dyke, Thurgarton Beck and others. Rainfall is forecast over the next 24 hours. River levels at Lowdham Grange Gauge will rise until the afternoon on 29/11/25. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 9:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T15:41:00",
-      "timeRaised": "2025-11-28T15:41:56",
-      "timeSeverityChanged": "2025-11-28T15:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF426",
-      "description": "Loughborough urban watercourses and local tributaries to the River Soar",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426",
-        "county": "Leicestershire, Nottinghamshire",
-        "notation": "034WAF426",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426/polygon",
-        "riverOrSea": "Black Brook"
-      },
-      "floodAreaID": "034WAF426",
-      "isTidal": false,
-      "message": "Forecast high river levels overnight may lead to flooding. \nFlooding is possible on 29 November 2025 . \nAreas most at risk are low-lying agricultural land and roads including Kingfisher Way, Forest Road and Monarch Way from the Wood Brook, the Grace Dieu Brook, Burleigh Brook, Black Brook, Grammar School Brook, Hermitage Brook, Sileby Brook, Long Whatton Brook, King’s Brook and Kingston Brook. Rainfall is forecast over the next 24 hours. River levels at Loughborough Gauge will begin rising overnight on 28/11/2025. \nWe are closely monitoring the situation & checking flood defences. \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-28T15:37:00",
-      "timeRaised": "2025-11-28T15:37:29",
-      "timeSeverityChanged": "2025-11-28T15:37:00"
-    }
-  ]
 }

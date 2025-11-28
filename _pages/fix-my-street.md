@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water company have complained that they cannot access their cover because of excess pavement material that is from when it was resurfaced, 28th November :- [8476467](https://www.fixmystreet.com/report/8476467)
+- Dumped Car, 28th November :- [8476360](https://www.fixmystreet.com/report/8476360)
+- Bus stop, 28th November :- [8476333](https://www.fixmystreet.com/report/8476333)
+- Shurdingto Road path barriers down, 28th November :- [8476306](https://www.fixmystreet.com/report/8476306)
 - Abandoned vehicle, 28th November :- [8475823](https://www.fixmystreet.com/report/8475823)
 - Debris and leaves blocking the pavement, 28th November :- [8475797](https://www.fixmystreet.com/report/8475797)
 - Flooded bus stop bay, 28th November :- [8474862](https://www.fixmystreet.com/report/8474862)
@@ -23,11 +27,7 @@ permalink: /fix-my-street
 - Abandoned work signs left blocking pavement, 27th November :- [8473564](https://www.fixmystreet.com/report/8473564)
 - Abandoned barriers in ditch, 27th November :- [8473525](https://www.fixmystreet.com/report/8473525)
 - Glebe Road Prestbury roadworks and flooding repairs., 27th November :- [8473253](https://www.fixmystreet.com/report/8473253)
+- Blocking visibility on road/junction (Grass/verge) problem, 27th November :- [8476203](https://www.fixmystreet.com/report/8476203)
 - Large pile of leaves on verge, 27th November :- [8473188](https://www.fixmystreet.com/report/8473188)
-- Someone has smashed into the road sign, 27th November :- [8473025](https://www.fixmystreet.com/report/8473025)
-- Pot hole towards right side of broad oak way entry, 27th November :- [8473007](https://www.fixmystreet.com/report/8473007)
-- Work in Glebe rd Drains, 27th November :- [8472981](https://www.fixmystreet.com/report/8472981)
-- Tree is damaged problem, 27th November :- [8472937](https://www.fixmystreet.com/report/8472937)
-- Tree is damaged problem, 27th November :- [8472786](https://www.fixmystreet.com/report/8472786)
 
 <!-- fix_marker ends -->

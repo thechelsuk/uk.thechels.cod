@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Junction blocked, 29th November :- [8479637](https://www.fixmystreet.com/report/8479637)
+- Large pothole in centre of road next to white line, 29th November :- [8479512](https://www.fixmystreet.com/report/8479512)
 - RTPI not working, 29th November :- [8479122](https://www.fixmystreet.com/report/8479122)
 - Constant dog fouling, 29th November :- [8478873](https://www.fixmystreet.com/report/8478873)
 - Street light was dull for several nights, but last night is was permanently off., 29th November :- [8478737](https://www.fixmystreet.com/report/8478737)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole, 28th November :- [8477237](https://www.fixmystreet.com/report/8477237)
 - Multiple large potholes. Road surface falling apart., 28th November :- [8477180](https://www.fixmystreet.com/report/8477180)
 - The drain is blocked problem, 28th November :- [8477138](https://www.fixmystreet.com/report/8477138)
-- Kerb stone an surrounding tarmac surface damaged, 28th November :- [8477084](https://www.fixmystreet.com/report/8477084)
-- Water company have complained that they cannot access their cover because of excess pavement material that is from when it was resurfaced, 28th November :- [8476467](https://www.fixmystreet.com/report/8476467)
 
 <!-- fix_marker ends -->

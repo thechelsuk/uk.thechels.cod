@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- " large pot holes back to back on a bending junction with a futher large potholed and cracked ground less than 100 meters afterwards, 29th November :- [8481068](https://www.fixmystreet.com/report/8481068)
+- Large pothole outside 50 Mead Road, 29th November :- [8480977](https://www.fixmystreet.com/report/8480977)
 - Pothole in the road, top end towards the carpark. Its in line with the green telephone communications box, 29th November :- [8480915](https://www.fixmystreet.com/report/8480915)
 - Bush shelter glass smashed, 29th November :- [8480730](https://www.fixmystreet.com/report/8480730)
 - Drain blocked, 29th November :- [8480674](https://www.fixmystreet.com/report/8480674)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - RTPI not working, 29th November :- [8479122](https://www.fixmystreet.com/report/8479122)
 - Constant dog fouling, 29th November :- [8478873](https://www.fixmystreet.com/report/8478873)
 - Street light was dull for several nights, but last night is was permanently off., 29th November :- [8478737](https://www.fixmystreet.com/report/8478737)
-- Ditch in between Salvation Army force & House Of Halo and Co, 29th November :- [8478594](https://www.fixmystreet.com/report/8478594)
-- Road sign damaged and missing, 28th November :- [8478199](https://www.fixmystreet.com/report/8478199)
 
 <!-- fix_marker ends -->

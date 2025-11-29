@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Constant dog fouling, 29th November :- [8478873](https://www.fixmystreet.com/report/8478873)
+- Street light was dull for several nights, but last night is was permanently off., 29th November :- [8478737](https://www.fixmystreet.com/report/8478737)
 - Ditch in between Salvation Army force & House Of Halo and Co, 29th November :- [8478594](https://www.fixmystreet.com/report/8478594)
 - Road sign damaged and missing, 28th November :- [8478199](https://www.fixmystreet.com/report/8478199)
 - Hubcap on outside lane just before roundabout, 28th November :- [8477786](https://www.fixmystreet.com/report/8477786)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Kerb stone an surrounding tarmac surface damaged, 28th November :- [8477084](https://www.fixmystreet.com/report/8477084)
 - Water company have complained that they cannot access their cover because of excess pavement material that is from when it was resurfaced, 28th November :- [8476467](https://www.fixmystreet.com/report/8476467)
 - Dumped Car, 28th November :- [8476360](https://www.fixmystreet.com/report/8476360)
-- Bus stop, 28th November :- [8476333](https://www.fixmystreet.com/report/8476333)
-- Shurdingto Road path barriers down, 28th November :- [8476306](https://www.fixmystreet.com/report/8476306)
 
 <!-- fix_marker ends -->

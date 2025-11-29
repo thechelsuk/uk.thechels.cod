@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bush shelter glass smashed, 29th November :- [8480730](https://www.fixmystreet.com/report/8480730)
+- Drain blocked, 29th November :- [8480674](https://www.fixmystreet.com/report/8480674)
+- Graffiti on bus stop, 29th November :- [8480592](https://www.fixmystreet.com/report/8480592)
+- When it rains the cover is incredibly slippery., 29th November :- [8480547](https://www.fixmystreet.com/report/8480547)
 - Pothole in road, 29th November :- [8480421](https://www.fixmystreet.com/report/8480421)
 - A pothole in road problem, 29th November :- [8480341](https://www.fixmystreet.com/report/8480341)
 - Flytipped item, 29th November :- [8480030](https://www.fixmystreet.com/report/8480030)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Ditch in between Salvation Army force & House Of Halo and Co, 29th November :- [8478594](https://www.fixmystreet.com/report/8478594)
 - Road sign damaged and missing, 28th November :- [8478199](https://www.fixmystreet.com/report/8478199)
 - Hubcap on outside lane just before roundabout, 28th November :- [8477786](https://www.fixmystreet.com/report/8477786)
-- Whole road of aprox 400 metres, 28th November :- [8477753](https://www.fixmystreet.com/report/8477753)
-- There is a large traffic cone and frame for a road sign left, 28th November :- [8477744](https://www.fixmystreet.com/report/8477744)
-- Failure to do stated works as stated in your letter Ref 11495612 dated 10 Nov 25, 28th November :- [8477675](https://www.fixmystreet.com/report/8477675)
-- Unpermitted roadworks problem, 28th November :- [8477674](https://www.fixmystreet.com/report/8477674)
 
 <!-- fix_marker ends -->

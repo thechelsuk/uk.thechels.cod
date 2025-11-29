@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped item, 29th November :- [8480030](https://www.fixmystreet.com/report/8480030)
+- Various flytipping, 29th November :- [8479977](https://www.fixmystreet.com/report/8479977)
+- Flytipped item, 29th November :- [8479955](https://www.fixmystreet.com/report/8479955)
+- Flytipped furniture, 29th November :- [8479928](https://www.fixmystreet.com/report/8479928)
+- Flytipped toy, 29th November :- [8479894](https://www.fixmystreet.com/report/8479894)
+- Up Hatherley path needs levelling to prevent water pools, 29th November :- [8479774](https://www.fixmystreet.com/report/8479774)
 - Junction blocked, 29th November :- [8479637](https://www.fixmystreet.com/report/8479637)
 - Large pothole in centre of road next to white line, 29th November :- [8479512](https://www.fixmystreet.com/report/8479512)
 - RTPI not working, 29th November :- [8479122](https://www.fixmystreet.com/report/8479122)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Unpermitted roadworks problem, 28th November :- [8477674](https://www.fixmystreet.com/report/8477674)
 - Arm chair dumped and small mound of earth, 28th November :- [8477583](https://www.fixmystreet.com/report/8477583)
 - Cable run under pavement and over verge, 28th November :- [8477570](https://www.fixmystreet.com/report/8477570)
-- Pothole in Beeches Road, 28th November :- [8477490](https://www.fixmystreet.com/report/8477490)
-- Three Lights out on Roundabout, 28th November :- [8477480](https://www.fixmystreet.com/report/8477480)
-- Pothole at entrance to Robinia Close, 28th November :- [8477376](https://www.fixmystreet.com/report/8477376)
-- Pothole, 28th November :- [8477237](https://www.fixmystreet.com/report/8477237)
-- Multiple large potholes. Road surface falling apart., 28th November :- [8477180](https://www.fixmystreet.com/report/8477180)
-- The drain is blocked problem, 28th November :- [8477138](https://www.fixmystreet.com/report/8477138)
 
 <!-- fix_marker ends -->

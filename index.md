@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 29 November 2025
 
-- The average temperature today is 11.09˚C,
-- With highs of 11.51˚C and lows of 10.47˚C,
-- It may feel like 10.55˚C with overcast clouds
-- The wind speed is 8.94m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 88%
+- The average temperature today is 10.79˚C,
+- With highs of 11.09˚C and lows of 10.16˚C,
+- It may feel like 10.27˚C with moderate rain
+- The wind speed is 4.47m/s and visibility is 4949m
+- The pressure is 1000hPa and humidity is 90%
 - The sun will rise at 07:50 and set at 16:02
 
 <!-- weather_marker ends -->

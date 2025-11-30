@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Electric buses are 'massive step up', boss says ([2 hours ago](https://www.bbc.com/news/articles/cev8eelpd21o?at_medium=RSS&at_campaign=rss))
-- Mum hosts free toy swap to help cut Christmas costs ([2 hours ago](https://www.bbc.com/news/articles/c5yq4rdrv1mo?at_medium=RSS&at_campaign=rss))
-- 'New tropical house' and 'nomadic litterpickers' ([5 hours ago](https://www.bbc.com/news/articles/c865w977p53o?at_medium=RSS&at_campaign=rss))
-- Man running 52 marathons after mental health crisis ([19 hours ago](https://www.bbc.com/news/articles/c5yqv122rrzo?at_medium=RSS&at_campaign=rss))
-- Villagers fear overtourism has hit 'breaking point' ([22 hours ago](https://www.bbc.com/news/articles/c773rpdy632o?at_medium=RSS&at_campaign=rss))
+- Electric buses are 'massive step up', boss says ([4 hours ago](https://www.bbc.com/news/articles/cev8eelpd21o?at_medium=RSS&at_campaign=rss))
+- Mum hosts free toy swap to help cut Christmas costs ([4 hours ago](https://www.bbc.com/news/articles/c5yq4rdrv1mo?at_medium=RSS&at_campaign=rss))
+- 'New tropical house' and 'nomadic litterpickers' ([7 hours ago](https://www.bbc.com/news/articles/c865w977p53o?at_medium=RSS&at_campaign=rss))
+- Man running 52 marathons after mental health crisis ([20 hours ago](https://www.bbc.com/news/articles/c5yqv122rrzo?at_medium=RSS&at_campaign=rss))
+- Villagers fear overtourism has hit 'breaking point' ([23 hours ago](https://www.bbc.com/news/articles/c773rpdy632o?at_medium=RSS&at_campaign=rss))
 - Small businesses give towns a 'sense of pride' ([1 days ago](https://www.bbc.com/news/articles/czxpd5eldxro?at_medium=RSS&at_campaign=rss))
 - Gloucestershire council shake-up: 6 key take aways ([1 days ago](https://www.bbc.com/news/articles/cy95lv000x1o?at_medium=RSS&at_campaign=rss))
 - 'Aristocrat seeks bride' and 'police kidney gift' ([1 days ago](https://www.bbc.com/news/articles/cnv23n1pzn2o?at_medium=RSS&at_campaign=rss))
@@ -44,8 +44,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Survey open for parent carers to help shape future SEND services ([4 days ago](https://gloucesternewscentre.co.uk/survey-open-for-parent-carers-to-help-shape-future-send-services/))
 - 16 Days of Activism launches in Cheltenham as a push for safer spaces for women and girls ([5 days ago](https://www.cheltenham.gov.uk/news/article/3072/16_days_of_activism_launches_in_cheltenham_as_a_push_for_safer_spaces_for_women_and_girls))
 - All three local government reorganisation plans to be sent to ministers ([5 days ago](https://gloucesternewscentre.co.uk/all-three-local-government-reorganisation-plans-to-be-sent-to-ministers/))
-- Man dies following collision near Cheltenham ([5 days ago](https://gloucesternewscentre.co.uk/man-dies-following-collision-near-cheltenham/))
-- Cheltenham performing arts teacher honoured at national PQA awards ([5 days ago](https://gloucesternewscentre.co.uk/cheltenham-performing-arts-teacher-honoured-at-national-pqa-awards/))
+- Man dies following collision near Cheltenham ([6 days ago](https://gloucesternewscentre.co.uk/man-dies-following-collision-near-cheltenham/))
+- Cheltenham performing arts teacher honoured at national PQA awards ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-performing-arts-teacher-honoured-at-national-pqa-awards/))
 - High school students and Leckhampton Rovers score goal with new sustainability trail app ([6 days ago](https://www.cheltenham.gov.uk/news/article/3071/high_school_students_and_leckhampton_rovers_score_goal_with_new_sustainability_trail_app))
 - Town centre building collapse scare causes 11-month delay to revamp ([8 days ago](https://gloucesternewscentre.co.uk/town-centre-building-collapse-scare-causes-11-month-delay-to-revamp/))
 - Views sought on plans for houses or new care home on former university campus ([8 days ago](https://gloucesternewscentre.co.uk/views-sought-on-plans-for-houses-or-new-care-home-on-former-university-campus/))
@@ -65,7 +65,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Successful prosecution of a private hire operator working without appropriate licence ([24 days ago](https://www.cheltenham.gov.uk/news/article/3068/successful_prosecution_of_a_private_hire_operator_working_without_appropriate_licence))
 - New licensing requirements for keeping primates ([24 days ago](https://www.cheltenham.gov.uk/news/article/3067/new_licensing_requirements_for_keeping_primates))
 - Have your say: Shaping the future of Cheltenham’s heritage ([26 days ago](https://www.cheltenham.gov.uk/news/article/3066/have_your_say_shaping_the_future_of_cheltenhams_heritage))
-- Cheltenham business community endorses BID for another five years ([26 days ago](https://www.cheltenham.gov.uk/news/article/3065/cheltenham_business_community_endorses_bid_for_another_five_years))
+- Cheltenham business community endorses BID for another five years ([27 days ago](https://www.cheltenham.gov.uk/news/article/3065/cheltenham_business_community_endorses_bid_for_another_five_years))
 - Cheltenham's Remembrance Day service 2025 ([27 days ago](https://www.cheltenham.gov.uk/news/article/3064/cheltenhams_remembrance_day_service_2025))
 
 <!-- news_marker ends -->

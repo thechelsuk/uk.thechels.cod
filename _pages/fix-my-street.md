@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Two traffic lights, one saying red and one green, 30th November :- [8482593](https://www.fixmystreet.com/report/8482593)
+- Over flowing bin, 30th November :- [8482487](https://www.fixmystreet.com/report/8482487)
+- Street light out, 30th November :- [8482375](https://www.fixmystreet.com/report/8482375)
+- Dumped metal, 30th November :- [8482344](https://www.fixmystreet.com/report/8482344)
 - Volunteer litter pick bags ready for collection, 30th November :- [8482250](https://www.fixmystreet.com/report/8482250)
 - Non permitted road works at the junction of manor road and runnings road, 30th November :- [8482173](https://www.fixmystreet.com/report/8482173)
 - Man whole seems to have a problem and water is pouring from the cover and travelling down Gloucester Road and gathering outside the new housing estate and care home, 30th November :- [8481964](https://www.fixmystreet.com/report/8481964)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Pothole in the road, top end towards the carpark. Its in line with the green telephone communications box, 29th November :- [8480915](https://www.fixmystreet.com/report/8480915)
 - Bush shelter glass smashed, 29th November :- [8480730](https://www.fixmystreet.com/report/8480730)
 - Drain blocked, 29th November :- [8480674](https://www.fixmystreet.com/report/8480674)
-- Graffiti on bus stop, 29th November :- [8480592](https://www.fixmystreet.com/report/8480592)
-- When it rains the cover is incredibly slippery., 29th November :- [8480547](https://www.fixmystreet.com/report/8480547)
-- Pothole in road, 29th November :- [8480421](https://www.fixmystreet.com/report/8480421)
-- A pothole in road problem, 29th November :- [8480341](https://www.fixmystreet.com/report/8480341)
 
 <!-- fix_marker ends -->

@@ -19,6 +19,14 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
+- Flood alert: Upper Bristol Avon area
+- High river levels today may lead to flooding. 
+Flooding is possible on 30 November 2025 . 
+Locations most affected will be low lying land and roads near rivers. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 01 December 2025 or as the situation changes.
+
 - Flood alert: River Wye in Herefordshire
 - River levels are peaking this morning. Further rainfall is forecast for Monday 1st December into Tuesday. Flooding is possible over the next few days. Flooding may affect low lying land and roads along the River Wye. We will provide further information as the event occurs. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 01 December 2025 or as the situation changes.
 

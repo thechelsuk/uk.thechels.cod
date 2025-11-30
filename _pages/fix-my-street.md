@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light outside number 16 not working, 30th November :- [8483695](https://www.fixmystreet.com/report/8483695)
+- Multiple street lights out at the top of Wisteria Way / Lovage Close, 30th November :- [8483606](https://www.fixmystreet.com/report/8483606)
+- Hedgerows, 30th November :- [8483582](https://www.fixmystreet.com/report/8483582)
+- Pothole getting larger, tarmac cracking around it, 30th November :- [8483467](https://www.fixmystreet.com/report/8483467)
 - I reported this earlier but the water is now flowing all the way down the road to the old Travis Perkins site entrance, 30th November :- [8483376](https://www.fixmystreet.com/report/8483376)
 - Potholes that have been deteriorating over the past two year, 30th November :- [8483323](https://www.fixmystreet.com/report/8483323)
 - Road Signs & sandbags on grass verge., 30th November :- [8483265](https://www.fixmystreet.com/report/8483265)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Man whole seems to have a problem and water is pouring from the cover and travelling down Gloucester Road and gathering outside the new housing estate and care home, 30th November :- [8481964](https://www.fixmystreet.com/report/8481964)
 - Sign and cone left on pavement since alma Road works in September, 30th November :- [8481911](https://www.fixmystreet.com/report/8481911)
 - Traffic cone left behind by contractors, 30th November :- [8481907](https://www.fixmystreet.com/report/8481907)
-- Amber and green lights not working on 1 set., 30th November :- [8481852](https://www.fixmystreet.com/report/8481852)
-- Another mattress, 30th November :- [8481792](https://www.fixmystreet.com/report/8481792)
-- Grovefield Way at The Reddings sign metal work frames left, 30th November :- [8481768](https://www.fixmystreet.com/report/8481768)
-- Large pothole., 30th November :- [8481725](https://www.fixmystreet.com/report/8481725)
 
 <!-- fix_marker ends -->

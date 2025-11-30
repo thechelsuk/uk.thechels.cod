@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 30th November :- [8482250](https://www.fixmystreet.com/report/8482250)
+- Non permitted road works at the junction of manor road and runnings road, 30th November :- [8482173](https://www.fixmystreet.com/report/8482173)
+- Man whole seems to have a problem and water is pouring from the cover and travelling down Gloucester Road and gathering outside the new housing estate and care home, 30th November :- [8481964](https://www.fixmystreet.com/report/8481964)
+- Sign and cone left on pavement since alma Road works in September, 30th November :- [8481911](https://www.fixmystreet.com/report/8481911)
+- Traffic cone left behind by contractors, 30th November :- [8481907](https://www.fixmystreet.com/report/8481907)
+- Amber and green lights not working on 1 set., 30th November :- [8481852](https://www.fixmystreet.com/report/8481852)
 - Another mattress, 30th November :- [8481792](https://www.fixmystreet.com/report/8481792)
 - Grovefield Way at The Reddings sign metal work frames left, 30th November :- [8481768](https://www.fixmystreet.com/report/8481768)
 - Large pothole., 30th November :- [8481725](https://www.fixmystreet.com/report/8481725)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - When it rains the cover is incredibly slippery., 29th November :- [8480547](https://www.fixmystreet.com/report/8480547)
 - Pothole in road, 29th November :- [8480421](https://www.fixmystreet.com/report/8480421)
 - A pothole in road problem, 29th November :- [8480341](https://www.fixmystreet.com/report/8480341)
-- Flytipped item, 29th November :- [8480030](https://www.fixmystreet.com/report/8480030)
-- Various flytipping, 29th November :- [8479977](https://www.fixmystreet.com/report/8479977)
-- Flytipped item, 29th November :- [8479955](https://www.fixmystreet.com/report/8479955)
-- Flytipped furniture, 29th November :- [8479928](https://www.fixmystreet.com/report/8479928)
-- Flytipped toy, 29th November :- [8479894](https://www.fixmystreet.com/report/8479894)
-- Up Hatherley path needs levelling to prevent water pools, 29th November :- [8479774](https://www.fixmystreet.com/report/8479774)
 
 <!-- fix_marker ends -->

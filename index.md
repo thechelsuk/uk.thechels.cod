@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 29 November 2025
+## On Sunday, 30 November 2025
 
-- The average temperature today is 5.82˚C,
-- With highs of 6.83˚C and lows of 5.38˚C,
-- It may feel like 4.1˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 86%
-- The sun will rise at 07:50 and set at 16:02
+- The average temperature today is 4.68˚C,
+- With highs of 5.55˚C and lows of 3.72˚C,
+- It may feel like 3.22˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 86%
+- The sun will rise at 07:52 and set at 16:02
 
 <!-- weather_marker ends -->
 

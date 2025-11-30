@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly-tipped wooden staircase, 30th November :- [8483032](https://www.fixmystreet.com/report/8483032)
+- Car abandoned for weeks, 30th November :- [8482895](https://www.fixmystreet.com/report/8482895)
+- Duplicate signs and traffic lights, 30th November :- [8482749](https://www.fixmystreet.com/report/8482749)
 - Two traffic lights, one saying red and one green, 30th November :- [8482593](https://www.fixmystreet.com/report/8482593)
 - Over flowing bin, 30th November :- [8482487](https://www.fixmystreet.com/report/8482487)
 - Street light out, 30th November :- [8482375](https://www.fixmystreet.com/report/8482375)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Signage left by contractors- blocking the footpath, 30th November :- [8481439](https://www.fixmystreet.com/report/8481439)
 - " large pot holes back to back on a bending junction with a futher large potholed and cracked ground less than 100 meters afterwards, 29th November :- [8481068](https://www.fixmystreet.com/report/8481068)
 - Large pothole outside 50 Mead Road, 29th November :- [8480977](https://www.fixmystreet.com/report/8480977)
-- Pothole in the road, top end towards the carpark. Its in line with the green telephone communications box, 29th November :- [8480915](https://www.fixmystreet.com/report/8480915)
-- Bush shelter glass smashed, 29th November :- [8480730](https://www.fixmystreet.com/report/8480730)
-- Drain blocked, 29th November :- [8480674](https://www.fixmystreet.com/report/8480674)
 
 <!-- fix_marker ends -->

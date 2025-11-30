@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 30 November 2025
 
-- The average temperature today is 8.49˚C,
-- With highs of 8.75˚C and lows of 8.16˚C,
-- It may feel like 6.35˚C with few clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 70%
+- The average temperature today is 6.69˚C,
+- With highs of 7.2˚C and lows of 5.94˚C,
+- It may feel like 3.87˚C with scattered clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 82%
 - The sun will rise at 07:52 and set at 16:02
 
 <!-- weather_marker ends -->

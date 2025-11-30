@@ -5,36 +5,20 @@
     <link>https://environment.data.gov.uk/flood-monitoring/id/floods</link>
     <description>Current flood warnings for Gloucestershire</description>
     <item>
-      <title>Warning no longer in force: River Leadon catchment</title>
-      <description>There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.  
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
-
-</description>
-      <pubDate>2025-11-29T16:09:05</pubDate>
-    </item>
-    <item>
       <title>Flood alert: River Wye in Herefordshire</title>
       <description>River levels are peaking this morning. Further rainfall is forecast for Monday 1st December into Tuesday. Flooding is possible over the next few days. Flooding may affect low lying land and roads along the River Wye. We will provide further information as the event occurs. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 01 December 2025 or as the situation changes.
 </description>
       <pubDate>2025-11-30T09:43:34</pubDate>
     </item>
     <item>
-      <title>Warning no longer in force: Rivers in the Forest of Dean</title>
+      <title>Warning no longer in force: River Wye in Gloucestershire</title>
       <description>There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
+Weather conditions are expected to improve and no further flooding is expected. This alert is being removed but rainfall throughout Monday is likely to require a re-issuing of the alert on Tuesday morning 
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.  
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 </description>
-      <pubDate>2025-11-29T16:09:03</pubDate>
-    </item>
-    <item>
-      <title>Flood alert: River Wye in Gloucestershire</title>
-      <description>River levels are peaking this morning. Further rainfall is forecast for Monday 1st December into Tuesday. Flooding is possible over the next few days. Flooding may affect low lying land and roads along the River Wye. We will provide further information as the event occurs. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 01 December 2025 or as the situation changes.
-</description>
-      <pubDate>2025-11-30T09:42:17</pubDate>
+      <pubDate>2025-11-30T16:22:44</pubDate>
     </item>
   </channel>
 </rss>

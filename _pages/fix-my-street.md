@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- I reported this earlier but the water is now flowing all the way down the road to the old Travis Perkins site entrance, 30th November :- [8483376](https://www.fixmystreet.com/report/8483376)
+- Potholes that have been deteriorating over the past two year, 30th November :- [8483323](https://www.fixmystreet.com/report/8483323)
+- Road Signs & sandbags on grass verge., 30th November :- [8483265](https://www.fixmystreet.com/report/8483265)
+- The Runnings- fly tipping, 30th November :- [8483161](https://www.fixmystreet.com/report/8483161)
 - Fly-tipped wooden staircase, 30th November :- [8483032](https://www.fixmystreet.com/report/8483032)
 - Car abandoned for weeks, 30th November :- [8482895](https://www.fixmystreet.com/report/8482895)
 - Duplicate signs and traffic lights, 30th November :- [8482749](https://www.fixmystreet.com/report/8482749)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Another mattress, 30th November :- [8481792](https://www.fixmystreet.com/report/8481792)
 - Grovefield Way at The Reddings sign metal work frames left, 30th November :- [8481768](https://www.fixmystreet.com/report/8481768)
 - Large pothole., 30th November :- [8481725](https://www.fixmystreet.com/report/8481725)
-- Large potholes similar to photo., 30th November :- [8481707](https://www.fixmystreet.com/report/8481707)
-- Signage left by contractors- blocking the footpath, 30th November :- [8481439](https://www.fixmystreet.com/report/8481439)
-- " large pot holes back to back on a bending junction with a futher large potholed and cracked ground less than 100 meters afterwards, 29th November :- [8481068](https://www.fixmystreet.com/report/8481068)
-- Large pothole outside 50 Mead Road, 29th November :- [8480977](https://www.fixmystreet.com/report/8480977)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked Drains, 1st December :- [8489006](https://www.fixmystreet.com/report/8489006)
+- Flytipping in road, 1st December :- [8488913](https://www.fixmystreet.com/report/8488913)
+- No bin = lots of dog poo bags, 1st December :- [8488910](https://www.fixmystreet.com/report/8488910)
+- Signs stating that the road will be closed for roadworks in November 2025 when the date has passed., 1st December :- [8488907](https://www.fixmystreet.com/report/8488907)
+- Manhole covers lifted and flooding road and grazing land, 1st December :- [8488742](https://www.fixmystreet.com/report/8488742)
 - Only street light in the close is off, pitch black, 1st December :- [8488631](https://www.fixmystreet.com/report/8488631)
 - Dropped kerb dangerous, 1st December :- [8488548](https://www.fixmystreet.com/report/8488548)
 - Danger petrol station on Waitrose premises, 1st December :- [8488474](https://www.fixmystreet.com/report/8488474)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Unpermitted roadworks problem, 1st December :- [8487501](https://www.fixmystreet.com/report/8487501)
 - Street light is permanently out problem, 1st December :- [8487500](https://www.fixmystreet.com/report/8487500)
 - Serious visibility hazard due to parking too close to corner, 1st December :- [8487269](https://www.fixmystreet.com/report/8487269)
-- TMC - Defects -CW6 Potholes  problem, 1st December :- [8487315](https://www.fixmystreet.com/report/8487315)
-- Overhead bridge, 1st December :- [8487095](https://www.fixmystreet.com/report/8487095)
-- Street light not working opposite 11 Bramble Rise, 1st December :- [8487088](https://www.fixmystreet.com/report/8487088)
-- Road surface deterioration dangerous to cyclists, 1st December :- [8487073](https://www.fixmystreet.com/report/8487073)
-- Water accumulates when it rains and makes people have to go out into a busy road to get to the pavement, 1st December :- [8487062](https://www.fixmystreet.com/report/8487062)
 
 <!-- fix_marker ends -->

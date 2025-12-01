@@ -24,6 +24,14 @@ This project fetches flood warning data for the Gloucestershire area and publish
 Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
 Whilst the rainfall throughout Monday has been less intense than was originally forecast, rivers levels are reacting but have taken longer than first predicted. Further flooding is possible overnight Monday and into Tuesday as river levels continue to rise slowly but steadily in response the rainfall which has already fallen and will continue to fall in places until around 10:00pm this evening.
 
+- Flood alert: River Churn and its tributaries
+- Forecast high river levels overnight may lead to flooding. 
+Flooding is possible from the evening of 01 December 2025 . 
+Flooding of low lying land and roads is expected this evening, along the River Churn around Cerney Wick. Rain is expected until 11pm. The weather forecast is dry overnight and mostly dry on Tuesday. We expect river levels to remain high until Wednesday morning (03 Dec). 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses .  Go to River levels online for updates on current river levels. 
+This message will be updated by 10:00AM on 02 December 2025 or as the situation changes.
+
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - Forecast high river levels overnight may lead to flooding. 
 Flooding is possible from the evening of 01 December 2025 . 

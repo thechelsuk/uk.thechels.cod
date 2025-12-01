@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Barriers left after repair of pothole, 1st December :- [8485331](https://www.fixmystreet.com/report/8485331)
+- TMC - Defects -CW6 Potholes  problem, 1st December :- [8485285](https://www.fixmystreet.com/report/8485285)
+- TMC - Defects - Other problem, 1st December :- [8485278](https://www.fixmystreet.com/report/8485278)
+- TMC - Defects -CW6 Potholes  problem, 1st December :- [8485025](https://www.fixmystreet.com/report/8485025)
+- TMC - Defects -CW6 Potholes  problem, 1st December :- [8485024](https://www.fixmystreet.com/report/8485024)
+- TMC - Defects -CW6 Potholes  problem, 1st December :- [8484819](https://www.fixmystreet.com/report/8484819)
+- TMC - Defects - Signs & Street Furniture problem, 1st December :- [8484581](https://www.fixmystreet.com/report/8484581)
+- TMC - Defects - Covers, Gratings & Frames problem, 1st December :- [8484580](https://www.fixmystreet.com/report/8484580)
+- Aco drains and surrounding tarmac installled outside property to alleviate water coming from newly installed drain has sunk and now Aco drains are proud of pathway and will only worsen with frequent driveway traffic, 1st December :- [8484547](https://www.fixmystreet.com/report/8484547)
 - Shurdington road street lights out, 1st December :- [8484520](https://www.fixmystreet.com/report/8484520)
 - 3 way traffic lights - no works listed, 1st December :- [8484486](https://www.fixmystreet.com/report/8484486)
 - TMC - Defects - Signs & Street Furniture problem, 1st December :- [8484432](https://www.fixmystreet.com/report/8484432)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Multiple street lights out at the top of Wisteria Way / Lovage Close, 30th November :- [8483606](https://www.fixmystreet.com/report/8483606)
 - Hedgerows, 30th November :- [8483582](https://www.fixmystreet.com/report/8483582)
 - Pothole getting larger, tarmac cracking around it, 30th November :- [8483467](https://www.fixmystreet.com/report/8483467)
-- I reported this earlier but the water is now flowing all the way down the road to the old Travis Perkins site entrance, 30th November :- [8483376](https://www.fixmystreet.com/report/8483376)
-- Potholes that have been deteriorating over the past two year, 30th November :- [8483323](https://www.fixmystreet.com/report/8483323)
-- Road Signs & sandbags on grass verge., 30th November :- [8483265](https://www.fixmystreet.com/report/8483265)
-- The Runnings- fly tipping, 30th November :- [8483161](https://www.fixmystreet.com/report/8483161)
-- Fly-tipped wooden staircase, 30th November :- [8483032](https://www.fixmystreet.com/report/8483032)
-- Car abandoned for weeks, 30th November :- [8482895](https://www.fixmystreet.com/report/8482895)
-- Duplicate signs and traffic lights, 30th November :- [8482749](https://www.fixmystreet.com/report/8482749)
-- Two traffic lights, one saying red and one green, 30th November :- [8482593](https://www.fixmystreet.com/report/8482593)
-- Over flowing bin, 30th November :- [8482487](https://www.fixmystreet.com/report/8482487)
 
 <!-- fix_marker ends -->

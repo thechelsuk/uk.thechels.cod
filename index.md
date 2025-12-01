@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 01 December 2025
 
-- The average temperature today is 11.99˚C,
-- With highs of 12.77˚C and lows of 11.03˚C,
-- It may feel like 11.59˚C with light rain
-- The wind speed is 9.26m/s and visibility is 8000m
-- The pressure is 999hPa and humidity is 90%
+- The average temperature today is 12.6˚C,
+- With highs of 13.32˚C and lows of 11.58˚C,
+- It may feel like 12.21˚C with light rain
+- The wind speed is 8.75m/s and visibility is 7000m
+- The pressure is 998hPa and humidity is 88%
 - The sun will rise at 07:53 and set at 16:01
 
 <!-- weather_marker ends -->

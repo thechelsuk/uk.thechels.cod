@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 30 November 2025
+## On Monday, 01 December 2025
 
-- The average temperature today is 6.9˚C,
-- With highs of 7.75˚C and lows of 6.49˚C,
-- It may feel like 5.36˚C with light rain
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 86%
-- The sun will rise at 07:52 and set at 16:02
+- The average temperature today is 8.01˚C,
+- With highs of 8.31˚C and lows of 7.6˚C,
+- It may feel like 4.47˚C with light rain
+- The wind speed is 6.71m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 90%
+- The sun will rise at 07:53 and set at 16:01
 
 <!-- weather_marker ends -->
 

@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Community group raises £75k to buy popular field ([12 hours ago](https://www.bbc.com/news/articles/cd9z2y5wpppo?at_medium=RSS&at_campaign=rss))
-- Electric buses are 'massive step up', boss says ([16 hours ago](https://www.bbc.com/news/articles/cev8eelpd21o?at_medium=RSS&at_campaign=rss))
-- Mum hosts free toy swap to help cut Christmas costs ([17 hours ago](https://www.bbc.com/news/articles/c5yq4rdrv1mo?at_medium=RSS&at_campaign=rss))
-- 'New tropical house' and 'nomadic litterpickers' ([20 hours ago](https://www.bbc.com/news/articles/c865w977p53o?at_medium=RSS&at_campaign=rss))
+- Community group raises £75k to buy popular field ([13 hours ago](https://www.bbc.com/news/articles/cd9z2y5wpppo?at_medium=RSS&at_campaign=rss))
+- Electric buses are 'massive step up', boss says ([18 hours ago](https://www.bbc.com/news/articles/cev8eelpd21o?at_medium=RSS&at_campaign=rss))
+- Mum hosts free toy swap to help cut Christmas costs ([18 hours ago](https://www.bbc.com/news/articles/c5yq4rdrv1mo?at_medium=RSS&at_campaign=rss))
+- 'New tropical house' and 'nomadic litterpickers' ([21 hours ago](https://www.bbc.com/news/articles/c865w977p53o?at_medium=RSS&at_campaign=rss))
 - Man running 52 marathons after mental health crisis ([1 days ago](https://www.bbc.com/news/articles/c5yqv122rrzo?at_medium=RSS&at_campaign=rss))
 - Villagers fear overtourism has hit 'breaking point' ([1 days ago](https://www.bbc.com/news/articles/c773rpdy632o?at_medium=RSS&at_campaign=rss))
 - Small businesses give towns a 'sense of pride' ([1 days ago](https://www.bbc.com/news/articles/czxpd5eldxro?at_medium=RSS&at_campaign=rss))

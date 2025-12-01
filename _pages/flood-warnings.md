@@ -22,7 +22,23 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: Upper Bristol Avon area
 - Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
 Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
-Whilst there has been less rainfall overnight, the rivers are beginning to respond and the risk of flooding remains throughout Monday as river levels continue to rise due to prolonged rainfall.
+Whilst the rainfall throughout Monday has been less intense than was originally forecast, rivers levels are reacting but have taken longer than first predicted. Further flooding is possible overnight Monday and into Tuesday as river levels continue to rise slowly but steadily in response the rainfall which has already fallen and will continue to fall in places until around 10:00pm this evening.
+
+- Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
+- Forecast high river levels overnight may lead to flooding. 
+Flooding is possible from the evening of 01 December 2025 . 
+Flooding of low lying land and roads is expected this evening, along the River Evenlode between Morton-in-Marsh and Shipton-under-Wychwood. Rain is expected until 10pm. The weather forecast is dry overnight and mostly dry on Tuesday. We expect river levels to remain high until Wednesday morning (03 Dec). 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . Go to River levels online for updates on current river levels. 
+This message will be updated by 10:00AM on 02 December 2025 or as the situation changes.
+
+- Flood alert: River Dikler from Condicote to Little Rissington
+- Forecast high river levels overnight may lead to flooding. 
+Flooding is possible from the evening of 01 December 2025  
+Flooding of low lying land and roads  is expected this evening, along the River Dikler. Rain is expected until 10pm. The weather forecast is dry overnight and mostly dry on Tuesday. We expect river levels to remain high until Wednesday morning (03 Dec). 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . Go to River levels online for updates on current river levels. 
+This message will be updated by 10:00AM on 02 December 2025 or as the situation changes.
 
 - Flood alert: Tributaries in Gloucester
 - River levels are rising as a result of heavy rainfall. Heavy rain is due to continue overnight and into tomorrow, subsequently flooding may continue over the next few days. 

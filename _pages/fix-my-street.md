@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Only street light in the close is off, pitch black, 1st December :- [8488631](https://www.fixmystreet.com/report/8488631)
+- Dropped kerb dangerous, 1st December :- [8488548](https://www.fixmystreet.com/report/8488548)
+- Danger petrol station on Waitrose premises, 1st December :- [8488474](https://www.fixmystreet.com/report/8488474)
+- Rocky dropped kerb, 1st December :- [8488301](https://www.fixmystreet.com/report/8488301)
+- All drains either blocked or not adequately draining - large pools of water causing drenched pedestrians, 1st December :- [8488293](https://www.fixmystreet.com/report/8488293)
 - The light is dull outside numbers 41 and 43 wymans road lamp post number is 6, 1st December :- [8488250](https://www.fixmystreet.com/report/8488250)
 - Potholes, 1st December :- [8487940](https://www.fixmystreet.com/report/8487940)
 - Pavement floods regularly, 1st December :- [8487819](https://www.fixmystreet.com/report/8487819)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Street light not working opposite 11 Bramble Rise, 1st December :- [8487088](https://www.fixmystreet.com/report/8487088)
 - Road surface deterioration dangerous to cyclists, 1st December :- [8487073](https://www.fixmystreet.com/report/8487073)
 - Water accumulates when it rains and makes people have to go out into a busy road to get to the pavement, 1st December :- [8487062](https://www.fixmystreet.com/report/8487062)
-- TMC - Defects -CW6 Potholes  problem, 1st December :- [8487158](https://www.fixmystreet.com/report/8487158)
-- TMC - Defects -CW6 Potholes  problem, 1st December :- [8487157](https://www.fixmystreet.com/report/8487157)
-- TMC - Defects -CW6 Potholes  problem, 1st December :- [8487156](https://www.fixmystreet.com/report/8487156)
-- Tree is damaged problem, 1st December :- [8487148](https://www.fixmystreet.com/report/8487148)
-- TMC - Defects -CW6 Potholes  problem, 1st December :- [8487154](https://www.fixmystreet.com/report/8487154)
 
 <!-- fix_marker ends -->

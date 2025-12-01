@@ -20,12 +20,9 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. 
-Flooding is possible on 30 November 2025 . 
-Locations most affected will be low lying land and roads near rivers. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 01 December 2025 or as the situation changes.
+- Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
+Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
+Whilst there has been less rainfall overnight, the rivers are beginning to respond and the risk of flooding remains throughout Monday as river levels continue to rise due to prolonged rainfall.
 
 - Flood alert: River Severn in Gloucestershire
 - Forecast rising river levels today may lead to flooding. 

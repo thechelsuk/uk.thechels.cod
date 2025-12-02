@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very big pothole, can’t avoid it either, 2nd December :- [8493890](https://www.fixmystreet.com/report/8493890)
+- Neighbours Visitors parking over driveway, 2nd December :- [8493838](https://www.fixmystreet.com/report/8493838)
+- Sharp pothole coming off the roundabout going towards bath roaf, 2nd December :- [8493820](https://www.fixmystreet.com/report/8493820)
+- Failed repair, huge hole, 2nd December :- [8493706](https://www.fixmystreet.com/report/8493706)
 - Large pothole on railway bridge, 2nd December :- [8493642](https://www.fixmystreet.com/report/8493642)
 - Large craters on junction, 2nd December :- [8493632](https://www.fixmystreet.com/report/8493632)
 - Large crater near texaco garage, 2nd December :- [8493615](https://www.fixmystreet.com/report/8493615)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Filter not working, 2nd December :- [8492581](https://www.fixmystreet.com/report/8492581)
 - Large 40cm pothole right on junction, 2nd December :- [8492574](https://www.fixmystreet.com/report/8492574)
 - A pothole in road problem, 2nd December :- [8492661](https://www.fixmystreet.com/report/8492661)
-- TMC - Defects -CW6 Potholes  problem, 2nd December :- [8492667](https://www.fixmystreet.com/report/8492667)
-- TMC - Defects -CW6 Potholes  problem, 2nd December :- [8492666](https://www.fixmystreet.com/report/8492666)
-- Resurfacing badly done, 2nd December :- [8492418](https://www.fixmystreet.com/report/8492418)
-- TMC - Defects - Other FW6  Surface problem, 2nd December :- [8492461](https://www.fixmystreet.com/report/8492461)
 
 <!-- fix_marker ends -->

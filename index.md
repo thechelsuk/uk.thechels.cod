@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 02 December 2025
 
-- The average temperature today is 10.62˚C,
-- With highs of 11.09˚C and lows of 10.29˚C,
-- It may feel like 9.72˚C with few clouds
+- The average temperature today is 9.71˚C,
+- With highs of 10.55˚C and lows of 9.26˚C,
+- It may feel like 8.11˚C with few clouds
 - The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 76%
+- The pressure is 1001hPa and humidity is 80%
 - The sun will rise at 07:55 and set at 16:00
 
 <!-- weather_marker ends -->

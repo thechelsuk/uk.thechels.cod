@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lamp number 2 out in Bewley Way Churchdown, 2nd December :- [8494273](https://www.fixmystreet.com/report/8494273)
+- Street lamp number 5 out, New additional Telegraph pole recently installed about a week ago about a metre away., 2nd December :- [8494252](https://www.fixmystreet.com/report/8494252)
 - Very big pothole, can’t avoid it either, 2nd December :- [8493890](https://www.fixmystreet.com/report/8493890)
 - Neighbours Visitors parking over driveway, 2nd December :- [8493838](https://www.fixmystreet.com/report/8493838)
 - Sharp pothole coming off the roundabout going towards bath roaf, 2nd December :- [8493820](https://www.fixmystreet.com/report/8493820)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes dangerous to cyclists, 2nd December :- [8492845](https://www.fixmystreet.com/report/8492845)
 - Multiple potholes dangerous to cyclists, 2nd December :- [8492756](https://www.fixmystreet.com/report/8492756)
 - Filter not working, 2nd December :- [8492581](https://www.fixmystreet.com/report/8492581)
-- Large 40cm pothole right on junction, 2nd December :- [8492574](https://www.fixmystreet.com/report/8492574)
-- A pothole in road problem, 2nd December :- [8492661](https://www.fixmystreet.com/report/8492661)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trolley, 1st December :- [8489090](https://www.fixmystreet.com/report/8489090)
+- Shopping trolleys, 1st December :- [8489089](https://www.fixmystreet.com/report/8489089)
+- Blocked Drains, 1st December :- [8489019](https://www.fixmystreet.com/report/8489019)
 - Blocked Drains, 1st December :- [8489006](https://www.fixmystreet.com/report/8489006)
 - Flytipping in road, 1st December :- [8488913](https://www.fixmystreet.com/report/8488913)
 - No bin = lots of dog poo bags, 1st December :- [8488910](https://www.fixmystreet.com/report/8488910)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Builders’ waste in front of the garage block, on the highway and pavement/service strip, restricting access to garages and communal parking area. Periodically waste is partially removed but never completely, and has been an issue since the first full week of September this year. Reporting it now as wet and windy conditions over the past few days have resulted in several items being blown across the cul de sac and the soil turning into a ‘river’ of mud on the road and inconveniencing other residents. The waste is not covered and at night there are no lights suggesting that this use of the highway is not licensed., 1st December :- [8487705](https://www.fixmystreet.com/report/8487705)
 - Drains on N bound A435 seem to be all blocked, 1st December :- [8487474](https://www.fixmystreet.com/report/8487474)
 - Loose manhole cover outside Royal Oak pub, 1st December :- [8487416](https://www.fixmystreet.com/report/8487416)
-- Unpermitted roadworks problem, 1st December :- [8487501](https://www.fixmystreet.com/report/8487501)
-- Street light is permanently out problem, 1st December :- [8487500](https://www.fixmystreet.com/report/8487500)
-- Serious visibility hazard due to parking too close to corner, 1st December :- [8487269](https://www.fixmystreet.com/report/8487269)
 
 <!-- fix_marker ends -->

@@ -48,32 +48,26 @@ We are closely monitoring the situation . 
 Avoid using low lying footpaths and any bridges near local watercourses . Go to River levels online for updates on current river levels. 
 This message will be updated by 10:00AM on 02 December 2025 or as the situation changes.
 
-- Flood alert: Tributaries in Gloucester
-- River levels are rising as a result of heavy rainfall. Heavy rain is due to continue overnight and into tomorrow, subsequently flooding may continue over the next few days. 
+- Warning no longer in force: Tributaries in Gloucester
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Flooding may affect low lying land and roads adjacent to Horsbere Brook, Wotton Brook, River Twyver, River Sud, Whaddon Brook, Daniels Brook & Dimore Brook. Locations that may be affected include Kemerton, Tewkesbury, Stoke Orchard, Uckington, Churchdown, Upton St Leonards, Cheltenham, Horsebere and Brookthorpe. The Horsbere flood storage area may be operating. 
 
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses.  
+- Warning no longer in force: Rivers in South Worcestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-This message will be updated by 10:00am On 2 December 2025 or as the situation changes.
 
-- Flood alert: Rivers in South Worcestershire
-- River levels are rising as a result of heavy rainfall. Heavy rain is due to continue overnight and into tomorrow, subsequently flooding may continue over the next few days. 
+- Warning no longer in force: Tributaries in Cheltenham and Tewkesbury
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Flooding may affect low lying land and roads adjacent to the river from North Littleton to Winchcombe. Other locations that may be affected are Badsey, Childswickham, Broadway, Sedgeberrow, Toddington and the Road at Hinton on the Green bridge. 
-
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. No peak information is available due to uncertainty in the forecast rainfall totals. 
-
-This message will be updated by 10:00am On 2 December 2025 or as the situation changes.
-
-- Flood alert: Tributaries in Cheltenham and Tewkesbury
-- River levels are rising as a result of heavy rainfall. Heavy rain is due to continue overnight and into tomorrow, subsequently flooding may continue over the next few days. 
-
-Flooding may affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Ashchurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington. 
-
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses.  
-
-This message will be updated by 10:00am On 2 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - River levels are currently rising as a result of heavy rainfall. Further rainfall is due to continue overnight tonight into tomorrow, subsequently flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent to the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. The Severn Ham, Tewkesbury may start to fill.  
@@ -114,14 +108,12 @@ We are closely monitoring the situation .
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 02 December 2025 or as the situation changes.
 
-- Flood alert: Rivers in the Forest of Dean
-- River levels are rising as a result of heavy rainfall. Heavy rain is due to continue overnight and into tomorrow, subsequently flooding may continue over the next few days 
+- Warning no longer in force: Rivers in the Forest of Dean
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.  We are closely monitoring the situation.  Avoid using low lying footpaths and any bridges near local watercourses .   
-
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses.  
-
-This message will be updated by 10:00am On 2 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
 - Forecast rising river levels today may lead to flooding. 

@@ -109,27 +109,19 @@ We are closely monitoring the situation. Avoid using low lying footpaths and any
 
 This message will be updated by 09:00AM on 3 December 2025, or as the situation changes.
 
-- Flood alert: River Leadon catchment
-- River levels are currently rising due to rainfall overnight, subsequently flooding may continue over the next few days.
+- Warning no longer in force: River Leadon catchment
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge. Water may be over the road at Upleadon Court.  
 
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses.  
+- Warning no longer in force: River Avon in Worcestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-This message will be updated by 10:00am On 3 December 2025 or as the situation changes.
-
-- Flood alert: River Avon in Worcestershire
-- River levels are currently rising due to rainfall overnight, subsequently flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent to the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubilee Bridge to Fladbury may be impacted.  
-
-Predicted peaks:-  
-
-Evesham  1.3m to 1.5m 02/12/2025 PM 
-
-Bredon 1.5m to 1.9m  03/12/2025 AM 
-
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.   
-
-This message will be updated by 09:00AM on 3 December 2025, or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
 - River levels remain high and the potential for flooding remains today 02 December 2025 . Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Observed peaks:- Hay on Wye peaked this morning at 2.45m, Bredwardine is peaking now at 4.4m. Predicted Peaks:- Belmont 4.3m to 4.5m on 02/12 AM, Old Wye Bridge 3.7m to 3.9m on 02/12 PM, Mordiford 4.1m to 4.3m on 02/12 PM, Ross on Wye 3.7m to 3.9m on 02/12 overnight.  We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 03 December 2025 or as the situation changes.

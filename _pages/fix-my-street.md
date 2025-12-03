@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of pothole, 3rd December :- [8497488](https://www.fixmystreet.com/report/8497488)
+- 20cm pot hole, 3rd December :- [8497479](https://www.fixmystreet.com/report/8497479)
+- 15 " pot hole outside 15-17 Boverton Avenue, 3rd December :- [8497420](https://www.fixmystreet.com/report/8497420)
+- Footpath covered in leaves that have turned to a slushy mess rendering it slippery and dangerous, 3rd December :- [8497345](https://www.fixmystreet.com/report/8497345)
+- TMC - Defects -CW10 Potholes problem, 3rd December :- [8497230](https://www.fixmystreet.com/report/8497230)
+- TMC - Defects -CW10 Potholes problem, 3rd December :- [8497229](https://www.fixmystreet.com/report/8497229)
+- TMC - Defects - Other FW6  Surface problem, 3rd December :- [8497228](https://www.fixmystreet.com/report/8497228)
+- TMC - Defects - Covers, Gratings & Frames problem, 3rd December :- [8497027](https://www.fixmystreet.com/report/8497027)
 - TMC - Defects -CW6 Potholes  problem, 3rd December :- [8496836](https://www.fixmystreet.com/report/8496836)
 - TMC - Defects -CW6 Potholes  problem, 3rd December :- [8496835](https://www.fixmystreet.com/report/8496835)
 - Two potholes on the left hand side - especially dangerous for cyclists, 3rd December :- [8496745](https://www.fixmystreet.com/report/8496745)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 3rd December :- [8496168](https://www.fixmystreet.com/report/8496168)
 - TMC - Defects - Other FW6  Surface problem, 3rd December :- [8496181](https://www.fixmystreet.com/report/8496181)
 - TMC - Defects - Other FW6  Surface problem, 3rd December :- [8496180](https://www.fixmystreet.com/report/8496180)
-- TMC - Defects -CW10 Potholes problem, 3rd December :- [8496179](https://www.fixmystreet.com/report/8496179)
-- TMC - Defects -CW10 Potholes problem, 3rd December :- [8496178](https://www.fixmystreet.com/report/8496178)
-- Road closure signs still up, 3rd December :- [8496030](https://www.fixmystreet.com/report/8496030)
-- Outside number 25 very deep pothole by kerb and alao many other potholes on this street, 3rd December :- [8495811](https://www.fixmystreet.com/report/8495811)
-- A pothole in road problem, 3rd December :- [8495759](https://www.fixmystreet.com/report/8495759)
-- A pothole in pavement problem, 3rd December :- [8495758](https://www.fixmystreet.com/report/8495758)
-- Post or sign leaning slightly (less than 20 degrees) problem, 3rd December :- [8495757](https://www.fixmystreet.com/report/8495757)
-- TMC - Defects - Covers, Gratings & Frames problem, 3rd December :- [8495761](https://www.fixmystreet.com/report/8495761)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 03 December 2025
 
-- The average temperature today is 9.17˚C,
-- With highs of 9.98˚C and lows of 8.16˚C,
-- It may feel like 7.46˚C with clear sky
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 78%
+- The average temperature today is 9.09˚C,
+- With highs of 9.43˚C and lows of 8.25˚C,
+- It may feel like 6.83˚C with few clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 78%
 - The sun will rise at 07:56 and set at 16:00
 
 <!-- weather_marker ends -->

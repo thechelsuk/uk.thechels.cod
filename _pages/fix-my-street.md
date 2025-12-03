@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Glass has been smashed in the bus shelter. There is broken glass on the pavement and in the road., 3rd December :- [8495014](https://www.fixmystreet.com/report/8495014)
+- 2 deep potholes in close proximity alongside pub wall., 3rd December :- [8494958](https://www.fixmystreet.com/report/8494958)
+- Pathole across the street, 3rd December :- [8494740](https://www.fixmystreet.com/report/8494740)
+- Blocked drain by kerb, 3rd December :- [8494700](https://www.fixmystreet.com/report/8494700)
 - Street lamp number 2 out in Bewley Way Churchdown, 2nd December :- [8494273](https://www.fixmystreet.com/report/8494273)
 - Street lamp number 5 out, New additional Telegraph pole recently installed about a week ago about a metre away., 2nd December :- [8494252](https://www.fixmystreet.com/report/8494252)
 - Very big pothole, can’t avoid it either, 2nd December :- [8493890](https://www.fixmystreet.com/report/8493890)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Medium branch dangling from cables, 2nd December :- [8493086](https://www.fixmystreet.com/report/8493086)
 - No longer a light at the top of this pole, 3rd December :- [8493071](https://www.fixmystreet.com/report/8493071)
 - A pothole in road problem, 2nd December :- [8493020](https://www.fixmystreet.com/report/8493020)
-- Multiple potholes across the carriageway width dangerous to cyclists, 2nd December :- [8492967](https://www.fixmystreet.com/report/8492967)
-- Multiple potholes across the carriageway width dangerous to cyclists, 2nd December :- [8492912](https://www.fixmystreet.com/report/8492912)
-- Multiple potholes dangerous to cyclists, 2nd December :- [8492845](https://www.fixmystreet.com/report/8492845)
-- Multiple potholes dangerous to cyclists, 2nd December :- [8492756](https://www.fixmystreet.com/report/8492756)
 
 <!-- fix_marker ends -->

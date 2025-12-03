@@ -9,12 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole in previous repair and getting larger and deeper as vehicles are largely forced to drive through it. Will damage vehicles and is causing increased noise for the adjacent properties, often very loud when HGVs and buses hit it., 3rd December :- [8498037](https://www.fixmystreet.com/report/8498037)
+- 2 large new potholes. 1 deep on junction with church lane, 3rd December :- [8497995](https://www.fixmystreet.com/report/8497995)
 - Series of pothole, 3rd December :- [8497488](https://www.fixmystreet.com/report/8497488)
 - 20cm pot hole, 3rd December :- [8497479](https://www.fixmystreet.com/report/8497479)
+- TMC - Defects -CW10 Potholes problem, 3rd December :- [8497566](https://www.fixmystreet.com/report/8497566)
 - 15 " pot hole outside 15-17 Boverton Avenue, 3rd December :- [8497420](https://www.fixmystreet.com/report/8497420)
 - Footpath covered in leaves that have turned to a slushy mess rendering it slippery and dangerous, 3rd December :- [8497345](https://www.fixmystreet.com/report/8497345)
-- TMC - Defects -CW10 Potholes problem, 3rd December :- [8497230](https://www.fixmystreet.com/report/8497230)
 - TMC - Defects -CW10 Potholes problem, 3rd December :- [8497229](https://www.fixmystreet.com/report/8497229)
+- TMC - Defects -CW10 Potholes problem, 3rd December :- [8497230](https://www.fixmystreet.com/report/8497230)
 - TMC - Defects - Other FW6  Surface problem, 3rd December :- [8497228](https://www.fixmystreet.com/report/8497228)
 - TMC - Defects - Covers, Gratings & Frames problem, 3rd December :- [8497027](https://www.fixmystreet.com/report/8497027)
 - TMC - Defects -CW6 Potholes  problem, 3rd December :- [8496836](https://www.fixmystreet.com/report/8496836)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 3rd December :- [8496376](https://www.fixmystreet.com/report/8496376)
 - TMC - Defects -CW10 Potholes problem, 3rd December :- [8496385](https://www.fixmystreet.com/report/8496385)
 - TMC - Defects -CW10 Potholes problem, 3rd December :- [8496384](https://www.fixmystreet.com/report/8496384)
-- The drain is blocked problem, 3rd December :- [8496168](https://www.fixmystreet.com/report/8496168)
-- TMC - Defects - Other FW6  Surface problem, 3rd December :- [8496181](https://www.fixmystreet.com/report/8496181)
-- TMC - Defects - Other FW6  Surface problem, 3rd December :- [8496180](https://www.fixmystreet.com/report/8496180)
 
 <!-- fix_marker ends -->

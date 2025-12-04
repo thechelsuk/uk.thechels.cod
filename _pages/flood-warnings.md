@@ -57,13 +57,6 @@ Avoid using low lying footpaths and any bridges near local watercourses. Go to R
 
 This message will be updated by 11:00 04 Dec 2025 or as the situation changes.
 
-- Warning no longer in force: River Dikler from Condicote to Little Rissington
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Severn in Gloucestershire
 - River levels are currently rising due to rainfall on Monday, subsequently flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent to the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. The Severn Ham, Tewkesbury may start to fill.  
 

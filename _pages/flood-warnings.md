@@ -72,34 +72,25 @@ We are closely monitoring the situation. Avoid using low lying footpaths and any
 This message will be updated by 09:00AM on 5 December 2025, or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
-- Higher than normal tides this evening may lead to flooding. 
-Flooding is possible from 8:30pm on Thursday evening and 9:00am on Friday morning. 
+- Higher than normal tides on Thursday evening and Friday morning may lead to flooding.  Flooding is possible from 8:30pm on Thursday evening and 9:00am on Friday morning.   
+
 Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next 5 days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. 
 
 Predicted peaks: 
+
 Thursday evening 04/12; Gloucester 3.1m to 3.4m at 8:30PM, Sandhurst 3.2m to 3.5m at 9:00pm. 
+Friday morning 05/12; Gloucester 3.2m to 3.5m at 9:00AM, Sandhurst 3.4m to 3.7m at 9:15pm. 
 
-Friday morning 05/12; Gloucester 3.2m to 3.5m at 9:00AM, Sandhurst 3.4m to 3.7m at 9:15pm. 
-We are closely monitoring the situation . 
-Monitor local water levels and weather conditions . 
-This message will be updated by 2:00PM on 05 December 2025 or as the situation changes.
+We are closely monitoring the situation. 
 
-- Flood alert: River Severn in Worcestershire
-- River levels are currently rising due to rainfall, subsequently flooding may continue over the next few days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains may affect the racecourse & Worcester CCG. PLP should be installed. New Street gate is closed at Upton upon Severn.   
+Monitor local water levels and weather conditions. This message will be updated by 2:00PM on 05 December 2025 or as the situation changes.
 
-Predicted peaks:- 
+- Warning no longer in force: River Severn in Worcestershire
+- The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 
+Further rainfall is forecast but no further flooding is expected. The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Bewdley 2.9m to 3.2 m 04/12/2025 PM. 
-Worcester 3.3m to 4.0m 05/12/2025 AM. 
-Diglis 2.8m to 3.5m 05/12/2025 AM. 
-Kempsey Yacht Club 4.9m to 5.6m 05/12/25 AM. 
-Saxons Lode 4.0m to 4.6m 05/12/25 PM. 
-
-Additional rainfall is forecast on Friday and into the weekend, which may cause river levels to rise further. 
-
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  Consider the installation of property flood resilience measures 
-
-This message will be updated by 09:00AM on 5 December 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->

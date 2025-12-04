@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Timing to cross too short, 3rd December :- [8499399](https://www.fixmystreet.com/report/8499399)
 - Street light out, 3rd December :- [8498927](https://www.fixmystreet.com/report/8498927)
 - Large deep pothole, 3rd December :- [8498914](https://www.fixmystreet.com/report/8498914)
 - Pieces of wood left in paper recycling bag on pavement outside no 39 Russell street ., 3rd December :- [8498898](https://www.fixmystreet.com/report/8498898)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 3rd December :- [8497230](https://www.fixmystreet.com/report/8497230)
 - TMC - Defects - Other FW6  Surface problem, 3rd December :- [8497228](https://www.fixmystreet.com/report/8497228)
 - TMC - Defects - Covers, Gratings & Frames problem, 3rd December :- [8497027](https://www.fixmystreet.com/report/8497027)
-- TMC - Defects -CW6 Potholes  problem, 3rd December :- [8496835](https://www.fixmystreet.com/report/8496835)
 
 <!-- fix_marker ends -->

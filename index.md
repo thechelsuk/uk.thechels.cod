@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 04 December 2025
 
-- The average temperature today is 7.98˚C,
-- With highs of 8.31˚C and lows of 7.14˚C,
-- It may feel like 5.74˚C with light rain
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 995hPa and humidity is 90%
+- The average temperature today is 8.24˚C,
+- With highs of 8.88˚C and lows of 7.14˚C,
+- It may feel like 5.24˚C with light rain
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 994hPa and humidity is 89%
 - The sun will rise at 07:57 and set at 15:59
 
 <!-- weather_marker ends -->

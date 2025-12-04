@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes in road adjacent to 22 & 26 Chelmsford Ave GL51 3DN, 4th December :- [8501352](https://www.fixmystreet.com/report/8501352)
+- Flood not clearing on A40 Dowdeswell Reservoir, 4th December :- [8500783](https://www.fixmystreet.com/report/8500783)
+- Blocked drain, 4th December :- [8500618](https://www.fixmystreet.com/report/8500618)
 - Green or amber traffic light is not working problem, 4th December :- [8500410](https://www.fixmystreet.com/report/8500410)
 - Several large potholes in this location, 4th December :- [8500017](https://www.fixmystreet.com/report/8500017)
 - Very large pothole on this location, 4th December :- [8500003](https://www.fixmystreet.com/report/8500003)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Dirty street., 3rd December :- [8498857](https://www.fixmystreet.com/report/8498857)
 - After the Monday recycling collection a lot of cans and plastic bottles still on the pavement and the Russell st, 3rd December :- [8498837](https://www.fixmystreet.com/report/8498837)
 - Large pothole in the road in area of previous repair. A cyclist has just come off their bike due to the pothole and it not being visible as the road isn’t lit at night., 3rd December :- [8498580](https://www.fixmystreet.com/report/8498580)
-- Large pothole in previous repair and getting larger and deeper as vehicles are largely forced to drive through it. Will damage vehicles and is causing increased noise for the adjacent properties, often very loud when HGVs and buses hit it., 3rd December :- [8498037](https://www.fixmystreet.com/report/8498037)
-- 2 large new potholes. 1 deep on junction with church lane, 3rd December :- [8497995](https://www.fixmystreet.com/report/8497995)
-- Series of pothole, 3rd December :- [8497488](https://www.fixmystreet.com/report/8497488)
 
 <!-- fix_marker ends -->

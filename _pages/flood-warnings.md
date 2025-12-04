@@ -71,19 +71,18 @@ We are closely monitoring the situation. Avoid using low lying footpaths and any
 
 This message will be updated by 09:00AM on 5 December 2025, or as the situation changes.
 
-- Warning no longer in force: River Wye in Herefordshire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+- Flood alert: Severn estuary from Gloucester to Sharpness
+- Higher than normal tides this evening may lead to flooding. 
+Flooding is possible from 8:30pm on Thursday evening and 9:00am on Friday morning. 
+Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next 5 days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. 
 
+Predicted peaks: 
+Thursday evening 04/12; Gloucester 3.1m to 3.4m at 8:30PM, Sandhurst 3.2m to 3.5m at 9:00pm. 
 
-- Warning no longer in force: River Wye in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
+Friday morning 05/12; Gloucester 3.2m to 3.5m at 9:00AM, Sandhurst 3.4m to 3.7m at 9:15pm. 
+We are closely monitoring the situation . 
+Monitor local water levels and weather conditions . 
+This message will be updated by 2:00PM on 05 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels are currently rising due to rainfall, subsequently flooding may continue over the next few days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains may affect the racecourse & Worcester CCG. PLP should be installed. New Street gate is closed at Upton upon Severn.   

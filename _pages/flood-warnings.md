@@ -64,24 +64,38 @@ Take care and avoid walking, cycling or driving through flood water and don't pu
 This message will be updated by 12:30PM on 06 December 2025 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
-- Higher than normal tides on Thursday evening and Friday morning may lead to flooding.  Flooding is possible from 8:30pm on Thursday evening and 9:00am on Friday morning.   
+- Higher than normal tides on Friday evening and Saturday morning may lead to flooding. Flooding is possible from 9:15pm on Friday evening and 9:30am on Saturday morning. 
 
-Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next 5 days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. 
+Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.  
 
-Predicted peaks: 
+Predicted peaks: - 
+Friday evening 05/12; Gloucester 3.45m to 3.65m at 9:15PM, Sandhurst 3.5m to 3.7m at 9:30PM.  
+Saturday morning 06/12; Gloucester 3.5m to 3.7m at 9:30AM, Sandhurst 3.6m to 3.8m at 9:45AM.  
 
-Thursday evening 04/12; Gloucester 3.1m to 3.4m at 8:30PM, Sandhurst 3.2m to 3.5m at 9:00pm. 
-Friday morning 05/12; Gloucester 3.2m to 3.5m at 9:00AM, Sandhurst 3.4m to 3.7m at 9:15pm. 
+We are closely monitoring the situation. Please continue to monitor local water levels and weather conditions.  
 
-We are closely monitoring the situation. 
-
-Monitor local water levels and weather conditions. This message will be updated by 2:00PM on 05 December 2025 or as the situation changes.
+This message will be updated by 2:00PM on 06 December 2025 or as the situation changes.
 
 - Warning no longer in force: River Severn in Worcestershire
 - The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 
 Further rainfall is forecast but no further flooding is expected. The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 
 We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
+
+- Flood alert: Wye Estuary in Gloucestershire
+- High tides today may lead to flooding. 
+Flooding is possible from 7:15pm on Friday evening and 7:30am on Saturday morning. 
+Locations most affected will be low lying land and roads near rivers or on the coast.
+
+Predicted peaks: - 
+  
+Friday evening 05/12; Avonmouth 7.3m to 7.6m at 7:15PM, Newport 7m to 7.3m at 7:15PM.  
+  
+Saturday morning 06/12; Avonmouth 7.4m to 7.7m at 7:30AM, Newport 7.1m to 7.4m at 7:30AM. 
+We are closely monitoring the situation  
+Monitor local water levels and weather conditions  
+This message will be updated by 2:00PM on 06 December 2025 or as the situation changes.
 
 
 

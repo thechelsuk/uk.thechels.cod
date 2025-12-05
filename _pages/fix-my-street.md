@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole in road, 5th December :- [8506861](https://www.fixmystreet.com/report/8506861)
+- Cable across the footpath, 5th December :- [8506782](https://www.fixmystreet.com/report/8506782)
+- Potholes next to Springfield park car park, 5th December :- [8506681](https://www.fixmystreet.com/report/8506681)
+- Undulating patched area that could cause damage to a bike rider, 5th December :- [8506600](https://www.fixmystreet.com/report/8506600)
+- Fly tripping at Springfield park in the parking area, 5th December :- [8506591](https://www.fixmystreet.com/report/8506591)
+- Human faeces behind phone box, 5th December :- [8506509](https://www.fixmystreet.com/report/8506509)
+- TMC - Defects - Other problem, 5th December :- [8506567](https://www.fixmystreet.com/report/8506567)
+- Severn trent drain - tarmac coming away from edges of the drain. causing the drain to be raised. it is situated outside an over 60+ development block and residents are worried about tripping/unsafe. the drain is outside Homespring House GL52 2QB, 5th December :- [8506323](https://www.fixmystreet.com/report/8506323)
+- Large deep pothole. It has deteriorated rapidly over the last three weeks,, 5th December :- [8506209](https://www.fixmystreet.com/report/8506209)
 - Signage left by Annecy Gardens entrance on High Street, 5th December :- [8506170](https://www.fixmystreet.com/report/8506170)
 - 5 red and white bollards left over two weeks ago, They were not used by the contractors., 5th December :- [8506146](https://www.fixmystreet.com/report/8506146)
 - 'Pedestrians' sign left by street name sign, 5th December :- [8506070](https://www.fixmystreet.com/report/8506070)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Shopping trolley with rubbish and bedding abandoned on railway bridge, 5th December :- [8505680](https://www.fixmystreet.com/report/8505680)
 - Multiple potholes/ tyre track potholes, 5th December :- [8505491](https://www.fixmystreet.com/report/8505491)
 - A Tree overhanging/overgrown limb problem has been found, 5th December :- [8505488](https://www.fixmystreet.com/report/8505488)
-- A Tree is damaged problem has been found, 5th December :- [8505342](https://www.fixmystreet.com/report/8505342)
-- Traffic Light sequence causing long tail backs of traffic coming from Gloucester, 5th December :- [8505112](https://www.fixmystreet.com/report/8505112)
-- I was cycling down kayte lane on 03/12/2025 at 5.40pm, the lane has no street lighting and the on coming car headlights dazzled my view of the road and i went into this pot hole. This pot hole is very deep and large and difficult to swerve around it. I've badly injured my leg and head. This pot hole is very dangerous for cyclists who use this road frequently., 5th December :- [8505025](https://www.fixmystreet.com/report/8505025)
-- Large pothole, 5th December :- [8504870](https://www.fixmystreet.com/report/8504870)
-- Turning right from Cheltenham Road onto Greyhound gardens; the filter is only letting one or two cars though at a time, 5th December :- [8504725](https://www.fixmystreet.com/report/8504725)
-- Two large potholes on Willersey Road, near #17, 5th December :- [8504652](https://www.fixmystreet.com/report/8504652)
-- Road needs sweeping of huge amount of fallen leaves, 5th December :- [8504477](https://www.fixmystreet.com/report/8504477)
-- Manhole on pavement broken, 5th December :- [8504433](https://www.fixmystreet.com/report/8504433)
-- Extremely deep potholes that have reopened, 5th December :- [8504161](https://www.fixmystreet.com/report/8504161)
 
 <!-- fix_marker ends -->

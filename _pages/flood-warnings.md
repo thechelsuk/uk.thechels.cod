@@ -54,22 +54,13 @@ Avoid using low lying footpaths and any bridges near local watercourses. Go to R
 This message will be updated by 1100 05 Dec 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels are currently rising due to rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent to the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. The Severn Ham, Tewkesbury may start to fill.
+- River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent to the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. The Severn Ham, Tewkesbury may start to fill.  
 
-Predicted peaks:-
-Mythe 3.1m to 3.7m 06/12/2025 AM.
-Haw Bridge 4.2m to 4.7m 07/12/2025 PM.
+River levels are currently peaking and will remain high over the next few days. Additional rainfall is forecast Friday 05/12/2025 onwards, which may cause river levels to rise further.  
 
-Tides are increasing from Wednesday until the weekend. River levels at Sandhurst and Gloucester will be influenced by these tides. Current predictions:
+We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  
 
-Sandhurst 2.9m to 3.1m 03/12/2025 PM and 3.0m to 3.2m 04/12/2025 AM.
-Gloucester 2.5m to 2.8m 03/12/2025 PM and 2.8m to 3.1m 04/12/2025 AM.
-
-Additional rainfall is forecast Friday onwards, which may cause river levels to rise further.
-
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.
-
-This message will be updated by 09:00AM on 5 December 2025, or as the situation changes.
+This message will be updated by 09:00AM on 6 December 2025, or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - Higher than normal tides on Thursday evening and Friday morning may lead to flooding.  Flooding is possible from 8:30pm on Thursday evening and 9:00am on Friday morning.   

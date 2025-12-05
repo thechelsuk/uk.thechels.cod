@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Further rainfall is forecast tomorrow Friday 05/12/25 and over the weekend. River levels will remain high over the coming days in response to this forecast rainfall.
+- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Further rainfall is forecast today 05/12/25 and over the weekend. River levels are forecast to rise further in the coming days and the flood risk remains.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -54,6 +54,14 @@ River levels are currently peaking and will remain high over the next few days. 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  
 
 This message will be updated by 09:00AM on 6 December 2025, or as the situation changes.
+
+- Flood alert: Tidal River Avon at Bristol, Pill and Shirehampton
+- High tides over the next two days may lead to flooding. 
+Flooding is possible from 07:00PM to 08:00PM on 05/12/2025 and 07:00AM and 08:00AM on 06/12/2025 
+Areas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton. The first forecast high water at Avonmouth is 7.48mAODN at 07:15pm this evening 05/12/2025, with South Westerly Force 5 winds. The second forecast high water is at 7:30am on Saturday 06/12/2025 with a level of 7.61mAODN and Force 7 South Westerly winds. mAODN is height above average sea level. Flooding to roads and farmland is possible but properties are not currently expected to flood. 
+We are closely monitoring the situation and our incident response staff will be on site closing flood gates 
+Take care and avoid walking, cycling or driving through flood water and don't put yourself or others at risk 
+This message will be updated by 12:30PM on 06 December 2025 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - Higher than normal tides on Thursday evening and Friday morning may lead to flooding.  Flooding is possible from 8:30pm on Thursday evening and 9:00am on Friday morning.   

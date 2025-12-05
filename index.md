@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Thursday, 04 December 2025
+## On Friday, 05 December 2025
 
-- The average temperature today is 3.25˚C,
-- With highs of 4.42˚C and lows of 2.04˚C,
-- It may feel like 1.57˚C with clear sky
-- The wind speed is 1.79m/s and visibility is 10000m
+- The average temperature today is 2.71˚C,
+- With highs of 4.6˚C and lows of 0.38˚C,
+- It may feel like 2.71˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
 - The pressure is 1003hPa and humidity is 87%
-- The sun will rise at 07:57 and set at 15:59
+- The sun will rise at 07:59 and set at 15:59
 
 <!-- weather_marker ends -->
 

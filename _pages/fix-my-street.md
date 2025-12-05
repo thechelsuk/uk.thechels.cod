@@ -9,7 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Path covered in watet this Friday needs filling, 5th December :- [8507450](https://www.fixmystreet.com/report/8507450)
+- Tree is damaged problem, 5th December :- [8507415](https://www.fixmystreet.com/report/8507415)
+- Fallen Tree, 5th December :- [8507388](https://www.fixmystreet.com/report/8507388)
+- Blocked drains on Gloucester main road, near Brickfield Drive exit, 5th December :- [8507170](https://www.fixmystreet.com/report/8507170)
+- Flooded Footpath - Happens every time it rains, 5th December :- [8507134](https://www.fixmystreet.com/report/8507134)
+- A A pothole in road problem has been found, 5th December :- [8507038](https://www.fixmystreet.com/report/8507038)
 - Large pothole in road, 5th December :- [8506861](https://www.fixmystreet.com/report/8506861)
+- TMC - Defects -CW6 Potholes  problem, 5th December :- [8506945](https://www.fixmystreet.com/report/8506945)
 - Cable across the footpath, 5th December :- [8506782](https://www.fixmystreet.com/report/8506782)
 - Potholes next to Springfield park car park, 5th December :- [8506681](https://www.fixmystreet.com/report/8506681)
 - Undulating patched area that could cause damage to a bike rider, 5th December :- [8506600](https://www.fixmystreet.com/report/8506600)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - 5 red and white bollards left over two weeks ago, They were not used by the contractors., 5th December :- [8506146](https://www.fixmystreet.com/report/8506146)
 - 'Pedestrians' sign left by street name sign, 5th December :- [8506070](https://www.fixmystreet.com/report/8506070)
 - Street light out, 5th December :- [8505914](https://www.fixmystreet.com/report/8505914)
-- TMC - Defects -CW6 Potholes  problem, 5th December :- [8505994](https://www.fixmystreet.com/report/8505994)
-- Large pothole on corner - unable to go around it with traffic on opposite side, 5th December :- [8505896](https://www.fixmystreet.com/report/8505896)
-- Traffic light sequence at Kingsditch roundabout on Tewkesbury road has changed, 5th December :- [8505768](https://www.fixmystreet.com/report/8505768)
-- Traffic light sequence at Kingsditch roundabout on Tewkesbury road has changed, 5th December :- [8505767](https://www.fixmystreet.com/report/8505767)
-- Shopping trolley with rubbish and bedding abandoned on railway bridge, 5th December :- [8505680](https://www.fixmystreet.com/report/8505680)
-- Multiple potholes/ tyre track potholes, 5th December :- [8505491](https://www.fixmystreet.com/report/8505491)
-- A Tree overhanging/overgrown limb problem has been found, 5th December :- [8505488](https://www.fixmystreet.com/report/8505488)
 
 <!-- fix_marker ends -->

@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Met Office issues weather warning for rain ([4 hours ago](https://www.bbc.com/news/articles/c0mp8dyg2xyo?at_medium=RSS&at_campaign=rss))
-- Workers say minimum wage rise is double-edged sword ([10 hours ago](https://www.bbc.com/news/articles/cdrn360eg0yo?at_medium=RSS&at_campaign=rss))
-- 'We're freezing our feet off to honour loved ones' ([11 hours ago](https://www.bbc.com/news/articles/c36z5283y32o?at_medium=RSS&at_campaign=rss))
-- 'Lifeboat generations' and 'chaotic Bath market' ([11 hours ago](https://www.bbc.com/news/articles/c741nzm9r90o?at_medium=RSS&at_campaign=rss))
-- Housing development on former car park to provide discounted flats ([12 hours ago](https://gloucesternewscentre.co.uk/housing-development-on-former-car-park-to-provide-discounted-flats/))
-- Pedestrian seriously injured after being hit by car ([23 hours ago](https://www.bbc.com/news/articles/c5yjlj0vg7zo?at_medium=RSS&at_campaign=rss))
+- Met Office issues weather warning for rain ([6 hours ago](https://www.bbc.com/news/articles/c0mp8dyg2xyo?at_medium=RSS&at_campaign=rss))
+- Workers say minimum wage rise is double-edged sword ([12 hours ago](https://www.bbc.com/news/articles/cdrn360eg0yo?at_medium=RSS&at_campaign=rss))
+- 'We're freezing our feet off to honour loved ones' ([13 hours ago](https://www.bbc.com/news/articles/c36z5283y32o?at_medium=RSS&at_campaign=rss))
+- 'Lifeboat generations' and 'chaotic Bath market' ([13 hours ago](https://www.bbc.com/news/articles/c741nzm9r90o?at_medium=RSS&at_campaign=rss))
+- Housing development on former car park to provide discounted flats ([14 hours ago](https://gloucesternewscentre.co.uk/housing-development-on-former-car-park-to-provide-discounted-flats/))
+- Pedestrian seriously injured after being hit by car ([1 days ago](https://www.bbc.com/news/articles/c5yjlj0vg7zo?at_medium=RSS&at_campaign=rss))
 - Man found guilty of murder after triple stabbing ([1 days ago](https://www.bbc.com/news/articles/cp34kqwl4qno?at_medium=RSS&at_campaign=rss))
 - Road reopens after lorry got stuck under bridge ([1 days ago](https://www.bbc.com/news/articles/ce8n371ymezo?at_medium=RSS&at_campaign=rss))
 - Bus services to get £139m funding boost ([1 days ago](https://www.bbc.com/news/articles/ce8n3gege08o?at_medium=RSS&at_campaign=rss))

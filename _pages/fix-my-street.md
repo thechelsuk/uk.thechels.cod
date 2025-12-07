@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Driving past bacon Theatre on Hatherley road, didn’t see pothole, then ‘bang’ as I drove over it, it seemed quite deep, had to inspect my true., 7th December :- [8513795](https://www.fixmystreet.com/report/8513795)
+- Tree branches over hanging road, 7th December :- [8513624](https://www.fixmystreet.com/report/8513624)
+- Massive pot hole on bed on left hand side as xomong down the hill, 7th December :- [8513613](https://www.fixmystreet.com/report/8513613)
 - Bollards lights not working and cover missing on one, 7th December :- [8513364](https://www.fixmystreet.com/report/8513364)
 - Marker sign not readable but path appeals to pass through this'll gate. Chain is secured by rusty bolts. Unable to open by hand had to turn back, 7th December :- [8513351](https://www.fixmystreet.com/report/8513351)
 - Tree branches blown down - heavy with mistletoe, 7th December :- [8513021](https://www.fixmystreet.com/report/8513021)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Shopping trolley dumped in watercourse/ drainage outlet, 7th December :- [8511533](https://www.fixmystreet.com/report/8511533)
 - Lansdown Road by Dean Close No.67, 7th December :- [8511478](https://www.fixmystreet.com/report/8511478)
 - Missing pavement?, 6th December :- [8511433](https://www.fixmystreet.com/report/8511433)
-- Large sinkhole/dip, 6th December :- [8511429](https://www.fixmystreet.com/report/8511429)
-- Several old tarpaulins dumped on the verge, 6th December :- [8511396](https://www.fixmystreet.com/report/8511396)
-- Broken glass. Reported some time ago, not yet fixed., 6th December :- [8511389](https://www.fixmystreet.com/report/8511389)
 
 <!-- fix_marker ends -->

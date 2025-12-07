@@ -86,7 +86,7 @@ Avoid low lying roads near rivers, which may be flooded.
 This message will be updated by 19:00 on 07 Dec 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Sunday evening 07/12; Gloucester 3.5m to 3.6m at 23:15PM, Sandhurst 3.7m to 3.9m at 23:30PM.  Additional rainfall is forecast over the next few days. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded. This message will be updated by 02:00PM on 8 December 2025, or as the situation changes
+- River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks during high tides: - Sunday evening 07/12; Gloucester 3.5m to 3.6m at 23:15PM, Sandhurst 3.7m to 3.9m at 23:30PM. Monday morning 08/12; Gloucester 3.5m to 3.6m at 11:30AM, Sandhurst 3.7m to 3.9m at 11:45AM. Additional rainfall is forecast over the next few days. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded. This message will be updated by 2:00PM on 8 December 2025, or as the situation changes.
 
 - Flood alert: River Leadon catchment
 - High river levels today may lead to flooding. 
@@ -112,8 +112,18 @@ Take care and avoid walking, cycling or driving through flood water.
 
 This message will be updated by 9:00AM on 08 December 2025 or as the situation changes.
 
-- Warning no longer in force: Severn estuary from Gloucester to Sharpness
-- High tides on Sunday evening and Monday morning may lead to flooding. Flooding is possible from 11:15pm on Sunday evening and 11:30am on Monday morning. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: - Sunday evening 07/12; Gloucester 3.5m to 3.6m at 23:15PM, Sandhurst 3.7m to 3.9m at 23:30PM. Monday morning 08/12; Gloucester 3.5m to 3.6m at 11:30AM, Sandhurst 3.7m to 3.9m at 11:45AM. We are closely monitoring the situation. Please continue to monitor local water levels and weather conditions. This message will be updated by 2:00PM on 08 December 2025 or as the situation changes.
+- Flood alert: Severn estuary from Gloucester to Sharpness
+- High tides on Sunday evening and Monday morning may lead to flooding. Flooding is possible from 11:15pm on Sunday evening and 11:30am on Monday morning.
+
+Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. 
+
+Predicted peaks: - 
+Sunday evening 07/12; Gloucester 3.5m to 3.6m at 23:15PM, Sandhurst 3.7m to 3.9m at 23:30PM. 
+Monday morning 08/12; Gloucester 3.5m to 3.6m at 11:30AM, Sandhurst 3.7m to 3.9m at 11:45AM. 
+
+We are closely monitoring the situation. Please continue to monitor local water levels and weather conditions. 
+
+This message will be updated by 2:00PM on 08 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
 - High river levels today have led to flooding.  Flooding is possible on 07 December 2025 .  Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Peaks:- Hay on Wye 2.36m at 20:30 06/12, Bredwardine 4.39m at 00:00 07/12, Belmont 4.50m at 05:00 07/12, Old Wye Bridge 3.90 at 04:45 07/12, Mordiford 4.3m to 4.4m on 07/12 AM, Ross on Wye 3.6m to 3.9m on 07/12 PM. .  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 08 December 2025 or as the situation changes.

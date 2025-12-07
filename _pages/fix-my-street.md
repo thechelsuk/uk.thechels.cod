@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lansdown Road by Dean Close No.67, 7th December :- [8511478](https://www.fixmystreet.com/report/8511478)
 - Missing pavement?, 6th December :- [8511433](https://www.fixmystreet.com/report/8511433)
 - Large sinkhole/dip, 6th December :- [8511429](https://www.fixmystreet.com/report/8511429)
 - Several old tarpaulins dumped on the verge, 6th December :- [8511396](https://www.fixmystreet.com/report/8511396)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes around the first turning area in Orchard Rd. The road is clearly breaking up and they are impossible to avoid. This has been getting worse over the last few months., 6th December :- [8510158](https://www.fixmystreet.com/report/8510158)
 - Multiple potholes across the road surface, 6th December :- [8510100](https://www.fixmystreet.com/report/8510100)
 - Huge pot hole. Already damaged several cars, 6th December :- [8509963](https://www.fixmystreet.com/report/8509963)
-- 12 inch pothole approx 4-6 inch deep, 6th December :- [8509947](https://www.fixmystreet.com/report/8509947)
 
 <!-- fix_marker ends -->

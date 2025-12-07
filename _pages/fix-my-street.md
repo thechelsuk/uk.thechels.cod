@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep unavoidable pothole caused by the deteriorating weather and volume of traffic now using this road, 7th December :- [8512062](https://www.fixmystreet.com/report/8512062)
+- Tree fallen on orchard way, 7th December :- [8511889](https://www.fixmystreet.com/report/8511889)
+- Pot hole on Charlton Rd, 7th December :- [8511645](https://www.fixmystreet.com/report/8511645)
 - Pothole, 7th December :- [8511627](https://www.fixmystreet.com/report/8511627)
 - Cycle path, 7th December :- [8511612](https://www.fixmystreet.com/report/8511612)
 - Shopping trolley dumped in watercourse/ drainage outlet, 7th December :- [8511533](https://www.fixmystreet.com/report/8511533)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 6th December :- [8510854](https://www.fixmystreet.com/report/8510854)
 - Bin full by Friday evening, 6th December :- [8510737](https://www.fixmystreet.com/report/8510737)
 - The rubbish bin on the corner of Winchcombe Street and Clarence Road is overflowing by Friday so by the end of the weekend there is rubbish all over the pavement., 6th December :- [8510709](https://www.fixmystreet.com/report/8510709)
-- A number of potholes, 6th December :- [8510668](https://www.fixmystreet.com/report/8510668)
-- 3 Large consequitive pot holes on Church Road, 6th December :- [8510596](https://www.fixmystreet.com/report/8510596)
-- Street lights not working, 6th December :- [8510516](https://www.fixmystreet.com/report/8510516)
 
 <!-- fix_marker ends -->

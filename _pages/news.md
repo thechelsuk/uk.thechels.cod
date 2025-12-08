@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Thousands of Santas hit the streets for charity ([2 hours ago](https://www.bbc.com/news/articles/c0l96j11p8lo?at_medium=RSS&at_campaign=rss))
-- Former MP marks his 80th with charity swim challenge ([2 hours ago](https://www.bbc.com/news/articles/c8r3ymgp4nmo?at_medium=RSS&at_campaign=rss))
-- Flags to honour aviation engineer Sir George Dowty ([15 hours ago](https://www.bbc.com/news/articles/c5y98vdz8ldo?at_medium=RSS&at_campaign=rss))
-- 'New Santa experience' and 'first padel championships' ([15 hours ago](https://www.bbc.com/news/articles/cx2gqelk077o?at_medium=RSS&at_campaign=rss))
+- Thousands of Santas hit the streets for charity ([5 hours ago](https://www.bbc.com/news/articles/c0l96j11p8lo?at_medium=RSS&at_campaign=rss))
+- Former MP marks his 80th with charity swim challenge ([5 hours ago](https://www.bbc.com/news/articles/c8r3ymgp4nmo?at_medium=RSS&at_campaign=rss))
+- Flags to honour aviation engineer Sir George Dowty ([17 hours ago](https://www.bbc.com/news/articles/c5y98vdz8ldo?at_medium=RSS&at_campaign=rss))
+- 'New Santa experience' and 'first padel championships' ([17 hours ago](https://www.bbc.com/news/articles/cx2gqelk077o?at_medium=RSS&at_campaign=rss))
 - Met Office issues weather warning for rain ([1 days ago](https://www.bbc.com/news/articles/c0mp8dyg2xyo?at_medium=RSS&at_campaign=rss))
 - Workers say minimum wage rise is double-edged sword ([1 days ago](https://www.bbc.com/news/articles/cdrn360eg0yo?at_medium=RSS&at_campaign=rss))
 - Women swim in cold water in 'bonkers' challenge ([1 days ago](https://www.bbc.com/news/articles/c36z5283y32o?at_medium=RSS&at_campaign=rss))

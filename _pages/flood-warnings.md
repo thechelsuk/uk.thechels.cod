@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Further rainfall, heavy at times, is forecast for the next few days. River levels are steady but are forecast to start rising in response to the rain. We are closely monitoring the situation and will update this message by 11:30AM on 08 December 2025, or as the situation changes.
+- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Heavy rainfall is forecast for tonight into Tuesday 09 December 2025. River levels are now steady but are forecast to rise overnight and tomorrow. We are closely monitoring the situation and will update this message by 11:30AM on 09 December 2025, or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -128,10 +128,20 @@ We are closely monitoring the situation. Please continue to monitor local water 
 This message will be updated by 2:00PM on 08 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
-- River levels are currently below Flood Alert thresholds but are forecast to cross again early tomorrow morning, with forecast rainfall. Flooding is possible tomorrow on 09 December 2025 . Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water. This message will be updated later today, 08 December 2025, with forecast peak level information.
+- High river levels tomorrow may lead to flooding. 
+Flooding is possible on 09 December 2025 . 
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 3.1m to 3.5m on 09/12 PM, Bredwardine 5.1m to 5.5m on 09/12 PM, Belmont 5.1m to 5.5m on 10/12 AM, Old Wye Bridge 4.5m to 4.9m on 10/12 AM, Mordiford 4.7m to 5.1m on 10/12 AM, Ross on Wye 3.8m to 4.2m on 10/12 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 09 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- River levels are currently below Flood Alert thresholds but are forecast to cross again tomorrow, with overnight rainfall. Flooding is possible on 09 December 2025 . Flooding may affect low lying land and roads along the River Wye. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 09 December 2025 or as the situation changes.
+- High river levels on Wednesday may lead to flooding. 
+Flooding is possible on 10 December 2025 . 
+Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.8m to 4.2m 10/12 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 09 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - High river levels today may lead to flooding.  

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole, 9th December :- [8525596](https://www.fixmystreet.com/report/8525596)
+- Pothole is located in centre of road therefore dangerous to all vehicles., 9th December :- [8525440](https://www.fixmystreet.com/report/8525440)
+- Very large flooding issue, 9th December :- [8525390](https://www.fixmystreet.com/report/8525390)
 - Drain blocker yet again, 9th December :- [8525288](https://www.fixmystreet.com/report/8525288)
 - Possible NRSWA non-compliance, 9th December :- [8525035](https://www.fixmystreet.com/report/8525035)
 - Pothole, 9th December :- [8524885](https://www.fixmystreet.com/report/8524885)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Before lay-by, 9th December :- [8523856](https://www.fixmystreet.com/report/8523856)
 - Pothole, 9th December :- [8523854](https://www.fixmystreet.com/report/8523854)
 - Pothole, 9th December :- [8523828](https://www.fixmystreet.com/report/8523828)
-- New pothole forming on the approach to the crown of the hill southbound., 9th December :- [8523747](https://www.fixmystreet.com/report/8523747)
-- Double pothole on the Longlevens side of Elmbridge Court roundabout (A40/A417), 9th December :- [8523679](https://www.fixmystreet.com/report/8523679)
-- Tree is damaged problem, 9th December :- [8523716](https://www.fixmystreet.com/report/8523716)
 
 <!-- fix_marker ends -->

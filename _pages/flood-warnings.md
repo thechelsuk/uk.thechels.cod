@@ -98,6 +98,14 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 11:00 on 10 Dec 2025 or as the situation changes.
 
+- Flood alert: Tributaries on the Upper River Thames above Cricklade
+- Rising river levels this evening may lead to flooding. 
+Flooding is possible from the evening of 09 December 2025 . 
+Flooding of low lying land and roads is possible, especially in the Oaksey area. Further rainfall is forecast over the next 24 hours. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . 
+This message will be updated by 11:00AM on 10 December 2025 or as the situation changes.
+
 - Flood alert: Tributaries in Gloucester
 - Rising river levels today may lead to flooding.  
 

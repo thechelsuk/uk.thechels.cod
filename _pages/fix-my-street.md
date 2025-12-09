@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Reoccurrence of previously repaired pothole, 9th December :- [8525971](https://www.fixmystreet.com/report/8525971)
+- Speed warning sign not working, 9th December :- [8525964](https://www.fixmystreet.com/report/8525964)
+- Breakdown of large area around manhole cover, 9th December :- [8525840](https://www.fixmystreet.com/report/8525840)
 - Pot hole, 9th December :- [8525596](https://www.fixmystreet.com/report/8525596)
 - Pothole is located in centre of road therefore dangerous to all vehicles., 9th December :- [8525440](https://www.fixmystreet.com/report/8525440)
 - Very large flooding issue, 9th December :- [8525390](https://www.fixmystreet.com/report/8525390)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole in newly paved road, 9th December :- [8524176](https://www.fixmystreet.com/report/8524176)
 - A pothole in road problem, 9th December :- [8523942](https://www.fixmystreet.com/report/8523942)
 - Pothole, 9th December :- [8523869](https://www.fixmystreet.com/report/8523869)
-- Before lay-by, 9th December :- [8523856](https://www.fixmystreet.com/report/8523856)
-- Pothole, 9th December :- [8523854](https://www.fixmystreet.com/report/8523854)
-- Pothole, 9th December :- [8523828](https://www.fixmystreet.com/report/8523828)
 
 <!-- fix_marker ends -->

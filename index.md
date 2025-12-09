@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 09 December 2025
 
-- The average temperature today is 11.87˚C,
-- With highs of 12.2˚C and lows of 11.49˚C,
-- It may feel like 11.51˚C with heavy intensity rain
-- The wind speed is 4.02m/s and visibility is 6211m
-- The pressure is 1002hPa and humidity is 92%
+- The average temperature today is 13.8˚C,
+- With highs of 14.41˚C and lows of 12.69˚C,
+- It may feel like 13.56˚C with moderate rain
+- The wind speed is 7.72m/s and visibility is 7000m
+- The pressure is 999hPa and humidity is 89%
 - The sun will rise at 08:03 and set at 15:57
 
 <!-- weather_marker ends -->

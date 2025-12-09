@@ -162,6 +162,27 @@
       "timeSeverityChanged": "2025-12-05T19:10:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
+      "description": "River Blythe in Warwickshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302",
+        "county": "Solihull, Warwickshire",
+        "notation": "033WAF302",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
+        "riverOrSea": "River Blythe"
+      },
+      "floodAreaID": "033WAF302",
+      "isTidal": false,
+      "message": "High river levels today may lead to flooding. \nFlooding is possible on 09 December 2025 . \nFlooding may affect low-lying land and roads adjacent to the River Blythe between Cheswick Green and Blyth End. Locations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 11:30AM on 10 December 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-12-09T06:38:00",
+      "timeRaised": "2025-12-09T06:38:08",
+      "timeSeverityChanged": "2025-12-09T06:38:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055FWFPNBR01",
       "description": "North Bank Road alongside the River Nene, east of Peterborough and west of Dog-in-a-Doublet Sluice",
       "eaAreaName": "Lincolnshire and Northamptonshire",
@@ -196,12 +217,12 @@
       },
       "floodAreaID": "033WAF203",
       "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nFurther rainfall is forecast but no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-12-08T07:27:00",
-      "timeRaised": "2025-12-08T07:27:55",
-      "timeSeverityChanged": "2025-12-08T07:26:00"
+      "message": "High river levels this morning may lead to flooding. \nFlooding is possible on 09 December 2025 . \nFlooding may affect low-lying land and roads adjacent to the River Leam between Grandborough and Leamington including Kites Hardwick, Birdingbury, Marton, Eathorpe, Hunningham and Offchurch and the River Itchen between Southam and Marton including Long Itchington. Locations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 11:30AM on 10 December 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-12-09T06:35:00",
+      "timeRaised": "2025-12-09T06:35:47",
+      "timeSeverityChanged": "2025-12-09T06:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF14RayOxon",
@@ -364,11 +385,11 @@
       },
       "floodAreaID": "033WAF201",
       "isTidal": false,
-      "message": "River levels remain high today and may lead to flooding. \nFlooding is possible from 04 December 2025\nLocations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 11:30AM on 06 December 2025 or as the situation changes.\n",
+      "message": "High river levels this morning may lead to flooding. \nFlooding is possible on 09 December 2025 . \nFlooding may affect low-lying land and roads adjacent to the  River Avon between Stanford and Rugby, River Swift between Cosford and Rugby and Clay Coton Brook between Yelvertoft and Lilbourne. Locations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 11:30AM on 10 December 2025 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-12-05T16:41:00",
-      "timeRaised": "2025-12-05T16:41:24",
+      "timeMessageChanged": "2025-12-09T06:33:00",
+      "timeRaised": "2025-12-09T06:33:19",
       "timeSeverityChanged": "2025-12-04T15:40:00"
     },
     {
@@ -656,11 +677,11 @@
       },
       "floodAreaID": "031WAF218",
       "isTidal": false,
-      "message": "Forecast rising river levels overnight may lead to flooding. \nFlooding is possible on 09 December 2025 . \nFlooding may affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Ashchurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 9:00AM on 09 December 2025 or as the situation changes.\n",
+      "message": "Rising river levels today may lead to flooding.  \n\nFlooding is possible on 09 December 2025. \n\nFlooding may affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Ashchurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington.  \n\nWe are closely monitoring the situation.  \n\nTake care and avoid walking, cycling or driving through flood water.  \n\nThis message will be updated by 9:00AM on 10 December 2025 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-12-08T14:46:00",
-      "timeRaised": "2025-12-08T14:46:41",
+      "timeMessageChanged": "2025-12-09T04:49:00",
+      "timeRaised": "2025-12-09T04:49:41",
       "timeSeverityChanged": "2025-12-08T14:46:00"
     },
     {
@@ -3476,6 +3497,27 @@
       "timeMessageChanged": "2025-12-09T03:21:00",
       "timeRaised": "2025-12-09T03:21:19",
       "timeSeverityChanged": "2025-12-09T03:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFFROU211",
+      "description": "Upper Frome at Maiden Newton",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROU211",
+        "county": "Dorset Council",
+        "notation": "111FWFFROU211",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROU211/polygon",
+        "riverOrSea": "Dorset Frome"
+      },
+      "floodAreaID": "111FWFFROU211",
+      "isTidal": false,
+      "message": "Rising river levels are expected to cause flooding this morning. \nFlooding is expected on 09 December 2025 from 06:00am, due to heavy overnight rainfall. \nFlooding is forecast to affect locations near the Upper Dorset Frome, Hooke River, with low lying land and roads expected to be most affected, particularly around Dorchester Road and Frome Lane area of Maiden Newton.  Weather conditions are expected to improve from Wednesday with little rainfall expected. \nWe are monitoring rainfall and river levels . \nStart acting on your flood plan if you have one and activate any flood protection products you may have. \nThis message will be updated by 10:00AM on 09 December 2025 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-12-09T05:15:00",
+      "timeRaised": "2025-12-09T05:15:33",
+      "timeSeverityChanged": "2025-12-09T05:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFPIDD",

@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Heavy rainfall is forecast for tonight into Tuesday 09 December 2025. River levels are now steady but are forecast to rise overnight and tomorrow. We are closely monitoring the situation and will update this message by 11:30AM on 09 December 2025, or as the situation changes.
+- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. River levels are high but will peak later today and begin falling this evening. Further rainfall is, however, forecast later this week and will keep river levels high. We are closely monitoring the situation and will update this message by 11:30AM on 10 December 2025, or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -120,18 +120,20 @@ Take care and avoid walking, cycling or driving through flood water.
 This message will be updated by 9:00AM on 10 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
+- River levels remain high due to recent rainfall, flooding may continue over the next few days. 
+
+Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
 
 Predicted peaks:-  
 
-Tuesday morning 09/12; Gloucester 2.9m to 3.2m at 00:00AM, Sandhurst 3.4m to 3.6m at 00:30AM. 
-Tuesday afternoon 09/12; Gloucester 3.2 to 3.5m at 12:00PM, Sandhurst 3.6m to 3.8m at 12:30PM 
+Wednesday morning 10/12; Gloucester 2.9m to 3.2m at 01:00AM, Sandhurst 3.5m to 3.7m at 01:30AM.
+Wednesday afternoon 10/12; Gloucester 2.9m to 3.2m at 13:30PM, Sandhurst 3.6m to 3.7m at 13:45PM. 
 
-River levels are currently peaking and will remain high over the next few days. Additional rainfall is forecast over the next 48 hours. 
+Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
 
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  
+Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  
 
-This message will be updated by 2:00PM on 9 December 2025, or as the situation change.
+This message will be updated by 2:00PM on 10 December 2025, or as the situation change.
 
 - Flood alert: River Leadon catchment
 - Rising river levels today may lead to flooding. 
@@ -166,12 +168,12 @@ Flooding may affect low lying land and roads adjacent to the Estuary from Sandhu
 
 Predicted peaks: - 
 
-Tuesday morning 09/12; Gloucester 2.9m to 3.2m at 00:00AM, Sandhurst 3.4m to 3.6m at 00:30AM. 
-Tuesday afternoon 09/12; Gloucester 3.2 to 3.5m at 12:00PM, Sandhurst 3.6m to 3.8m at 12:30PM. 
+Wednesday morning 10/12; Gloucester 2.9m to 3.2m at 01:00AM, Sandhurst 3.5m to 3.7m at 01:30AM 
+Wednesday afternoon 10/12; Gloucester 2.9m to 3.2m at 13:30PM, Sandhurst 3.6m to 3.7m at 13:45PM. 
 
 We are closely monitoring the situation. Please continue to monitor local water levels and weather conditions.  
 
-This message will be updated by 2:00PM on 09 December 2025 or as the situation changes.
+This message will be updated by 2:00PM on 10 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
 - High river levels today may lead to flooding. Flooding is possible on 09 December 2025 . Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 2.8m to 3.2m on 09/12 PM, Bredwardine 4.7m to 5.2m on 09/12 PM, Belmont 4.6m to 5.0m on 10/12 AM, Old Wye Bridge 4.2m to 4.6m on 10/12 AM, Mordiford 4.6m to 5.0m on 10/12 AM, Ross on Wye 3.9m to 4.4m on 10/12 PM. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 10 December 2025 or as the situation changes.
@@ -232,13 +234,11 @@ Take care and avoid walking, cycling or driving through flood water.
 
 This message will be updated by 10:00AM on 10 December 2025 or as the situation changes.
 
-- Flood alert: Severn Estuary at Severn Beach
-- High tides, strong winds and large waves this morning may lead to flooding. 
-Flooding is possible from 9AM to 11AM on 09 December 2025. 
-Areas most at risk include the Severn Estuary at Severn Beach including New Passage and Pilning. The detailed tidal forecast for those who use it is for a peak level at Avonmouth of 6.6m AODN at 10:00AM on 09 December 2025 (mAODN is height above average sea level.) Flooding is possible for up to an hour either side of peak tide due to forecast Force 7 southerly winds. After the morning high tide, the weather is more settled, and no further flooding is expected. 
-We are closely monitoring the situation and checking flood defences. 
-Take care and avoid walking, cycling or driving through flood water and avoid coastal roads, which may be flooded. 
-This message will be updated by 3:00PM on 09 December 2025 or as the situation changes.
+- Warning no longer in force: Severn Estuary at Severn Beach
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+The previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   
 
 
 <!-- flood_marker ends -->

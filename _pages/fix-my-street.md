@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocker yet again, 9th December :- [8525288](https://www.fixmystreet.com/report/8525288)
+- Possible NRSWA non-compliance, 9th December :- [8525035](https://www.fixmystreet.com/report/8525035)
+- Pothole, 9th December :- [8524885](https://www.fixmystreet.com/report/8524885)
 - Rubbish on pavement, 9th December :- [8524856](https://www.fixmystreet.com/report/8524856)
 - Large deep pothole on Kingsville Road, 9th December :- [8524741](https://www.fixmystreet.com/report/8524741)
 - Bin shelter blocking pavement, 9th December :- [8524643](https://www.fixmystreet.com/report/8524643)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - New pothole forming on the approach to the crown of the hill southbound., 9th December :- [8523747](https://www.fixmystreet.com/report/8523747)
 - Double pothole on the Longlevens side of Elmbridge Court roundabout (A40/A417), 9th December :- [8523679](https://www.fixmystreet.com/report/8523679)
 - Tree is damaged problem, 9th December :- [8523716](https://www.fixmystreet.com/report/8523716)
-- Temporary barriers been in place in ?collapsed wall for 6 months, 9th December :- [8523354](https://www.fixmystreet.com/report/8523354)
-- A pothole in road problem, 9th December :- [8523505](https://www.fixmystreet.com/report/8523505)
-- Flooding, 9th December :- [8523306](https://www.fixmystreet.com/report/8523306)
 
 <!-- fix_marker ends -->

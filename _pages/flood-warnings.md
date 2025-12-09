@@ -25,52 +25,52 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-Flooding is possible from the evening of the 08 Dec 2025.
+Flooding is possible from the morning of the 09 Dec 2025.
 
-Flooding of low lying land and roads is possible tonight, along the River Churn around Cerney Wick. The weather forecast is for further rain heavy at times. We expect river levels to remain high.
+Flooding of low lying land and roads is possible today, along the River Churn around Cerney Wick. The weather forecast is for further rain today, dry tomorrow. We expect river levels to remain high.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 11:00 on 09 Dec 2025 or as the situation changes.
+This message will be updated by 19:00 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - Rising river levels may lead to flooding.
 
-Flooding is possible from the evening of 08 Dec 2025.
+Flooding is possible from the morning of 09 Dec 2025.
 
-Flooding of low lying land and roads is possible, especially in the Newbridge area. The weather forecast is for further rain heavy at times.
+Flooding of low lying land and roads is possible, especially in the Newbridge area. The weather forecast is for further rain today, dry tomorrow.
 
 We are monitoring rainfall and river levels.
 
 Avoid low lying roads near rivers, which may be flooded.
 
-This message will be updated by 11:00 on 09 Dec 2025 or as the situation changes.
+This message will be updated by 19:00 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding.
 
-Flooding is possible from the evening of 08 Dec 2025.
+Flooding is possible from the morning of 09 Dec 2025.
 
-Flooding of low lying land and roads is possible, especially in the Shipton under Wychwood and Woodstock areas. The weather forecast is for further rain heavy at times.
+Flooding of low lying land and roads is possible, especially in the Shipton under Wychwood and Woodstock areas. The weather forecast is for further rain today, dry tomorrow.
 
 We are monitoring rainfall and river levels.
 
 Avoid low lying roads near rivers, which may be flooded.
 
-This message will be updated by 1100 on 09 Dec 2025 or as the situation changes.
+This message will be updated by 19:00 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - High river levels may lead to flooding.
 
-Flooding is possible from the evening of the 08 Dec 2025.
+Flooding is possible from the morning of the 09 Dec 2025.
 
-Flooding of low lying land and roads is possible tonight, 08 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further rain heavy at times. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is possible today, 09 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further rain today, dry tomorrow. We expect river levels to remain high over the next few days.
 
 We are closely monitoring the situation.
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 11:00 on 09 Dec 2025 or as the situation changes.
+This message will be updated by 19:00 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - Rising river levels this morning may lead to flooding. 
@@ -83,15 +83,15 @@ This message will be updated by 7:00PM on 09 December 2025 or as the situation c
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding.
 
-Flooding is possible from the evening of 08 Dec 2025.
+Flooding is possible from the morning of 09 Dec 2025.
 
-Flooding of low lying land and roads is possible, especially in the Lechlade area. The weather forecast is for further rain heavy at times.
+Flooding of low lying land and roads is possible, especially in the Lechlade area. The weather forecast is for further rain today, dry tomorrow.
 
 We are monitoring rainfall and river levels.
 
 Avoid low lying roads near rivers, which may be flooded.
 
-This message will be updated by 11:00 on 09 Dec 2025 or as the situation changes.
+This message will be updated by 19:00 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: Tributaries in Gloucester
 - Rising river levels today may lead to flooding.  
@@ -151,13 +151,13 @@ Locations most affected will be low lying land and roads near rivers. Flooding m
 
 Predicted peaks: -  
 
-Bredon is currently peaking at 2.2m, 08/12/25. 
+Bredon 2.3m to 2.8m Wednesday evening, 10/12/25. 
 
 Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
 
 Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
+This message will be updated by 9:00AM on 10 December 2025 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - Higher than normal tides may lead to flooding over the next few days. 
@@ -174,12 +174,7 @@ We are closely monitoring the situation. Please continue to monitor local water 
 This message will be updated by 2:00PM on 09 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
-- High river levels tomorrow may lead to flooding. 
-Flooding is possible on 09 December 2025 . 
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 3.1m to 3.5m on 09/12 PM, Bredwardine 5.1m to 5.5m on 09/12 PM, Belmont 5.1m to 5.5m on 10/12 AM, Old Wye Bridge 4.5m to 4.9m on 10/12 AM, Mordiford 4.7m to 5.1m on 10/12 AM, Ross on Wye 3.8m to 4.2m on 10/12 AM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 09 December 2025 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 09 December 2025 . Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 2.8m to 3.2m on 09/12 PM, Bredwardine 4.7m to 5.2m on 09/12 PM, Belmont 4.6m to 5.0m on 10/12 AM, Old Wye Bridge 4.2m to 4.6m on 10/12 AM, Mordiford 4.6m to 5.0m on 10/12 AM, Ross on Wye 3.9m to 4.4m on 10/12 PM. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 10 December 2025 or as the situation changes.
 
 - Flood alert: Rivers in the Forest of Dean
 - Rising river levels today may lead to flooding.  
@@ -195,12 +190,7 @@ Take care and avoid walking, cycling or driving through flood water.
 This message will be updated by 9:00AM on 10 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- High river levels on Wednesday may lead to flooding. 
-Flooding is possible on 10 December 2025 . 
-Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.8m to 4.2m 10/12 AM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 09 December 2025 or as the situation changes.
+- High river levels on this evening may lead to flooding. Flooding is possible on 09 December 2025 . Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.9 to 4.4m Wed PM 10/12 AM. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 10 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - High river levels today may lead to flooding.  
@@ -208,18 +198,17 @@ This message will be updated by 10:00AM on 09 December 2025 or as the situation 
 Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. 
 
 Predicted peaks:- 
-
-Worcester is currently peaking at 3.5m, 08/12/25. 
-Diglis is currently peaking at 3.3m, 08/12/25. 
-Kempsey Yacht Club is currently peaking at 5.4m, 08/12/25. 
-Saxons Lode is currently peaking at 4.1m, 08/12/25. 
-Bewdley 3.0m to 3.4m on Tuesday, 09/12/25. 
+Bewdley 2.9m to 3.2m Friday morning, 12/12/25. 
+Worcester 3.5 to 4.0m Friday evening, 12/12/25. 
+Diglis 3.1m to 3.6m Friday evening, 12/12/25. 
+Kempsey Yacht Club 5.5m to 6.0m Friday evening, 12/12/25. 
+Saxons Lode 3.9m to 4.4m Saturday morning, 13/12/25. 
 
 Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
 
-Take care and avoid walking, cycling or driving through flood water .  
+Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
+This message will be updated by 9:00AM on 10 December 2025 or as the situation changes.
 
 - Warning no longer in force: River Severn at Sandhurst and Maisemore
 - The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
@@ -229,19 +218,19 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
-- High river levels are expected to cause flooding today. Flooding is expected on 08 December 2025.  
+- High river levels are expected to cause flooding today. Flooding is expected on 09 December 2025.  
 
 Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley.  
 
 Predicted peaks:-  
 
-Mythe is currently peaking at 3.6m, 08/12/25. 
+Mythe 3.5m to 4.0m Saturday morning, 13/12/25. 
 
 Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
 
 Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 10:00AM on 09 December 2025 or as the situation changes.
+This message will be updated by 10:00AM on 10 December 2025 or as the situation changes.
 
 - Flood alert: Severn Estuary at Severn Beach
 - High tides, strong winds and large waves this morning may lead to flooding. 

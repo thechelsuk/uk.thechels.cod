@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. River levels are high but will peak later today and begin falling this evening. Further rainfall is, however, forecast later this week and will keep river levels high. We are closely monitoring the situation and will update this message by 11:30AM on 10 December 2025, or as the situation changes.
+- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. River levels are high but are now falling. Further rainfall is, however, forecast later this week. We are closely monitoring the situation and will update this message by 11:30AM on 11 December 2025, or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -111,27 +111,19 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 19:00 on 10 Dec 2025 or as the situation changes.
 
-- Flood alert: Tributaries in Gloucester
-- High river levels today may lead to flooding. Flooding is possible on 10 December 2025.  
+- Warning no longer in force: Tributaries in Gloucester
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Flooding may affect low lying land and roads adjacent to Horsbere Brook, Wotton Brook, River Twyver, River Sud, Whaddon Brook, Daniels Brook & Dimore Brook. Locations that may be affected include Kemerton, Tewkesbury, Stoke Orchard, Uckington, Churchdown, Upton St Leonards, Cheltenham, Horsebere and Brookthorpe. The Horsbere flood storage area may be operating.  
 
-Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
+- Warning no longer in force: Tributaries in Cheltenham and Tewkesbury
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  
 
-Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 9:00AM on 11 December 2025 or as the situation changes.
-
-- Flood alert: Tributaries in Cheltenham and Tewkesbury
-- High river levels today may lead to flooding. Flooding is possible on 10 December 2025. 
-
-Flooding may affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Ashchurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington.  
-
-We are closely monitoring the situation.  
-
-Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 9:00AM on 11 December 2025 or as the situation changes
 
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high due to recent rainfall, flooding may continue over the next few days. 
@@ -203,18 +195,14 @@ We are closely monitoring the situation. Please continue to monitor local water 
 This message will be updated by 2:00PM on 10 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
-- High river levels today may lead to flooding. Flooding is possible on 09 December 2025 . Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Peaks:- Hay on Wye 3.63m at 20:45 09/12 PM, Bredwardine 5.7m to 6.0m on 10/12 AM, Belmont 5.1m to 5.5m on 10/12 PM, Old Wye Bridge 4.4m to 4.7m on 10/12 PM, Mordiford 4.6m to 4.9m on 10/12 PM, Ross on Wye 3.8m to 4.3m on 10/12 overnight. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 11 December 2025 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 10 December 2025 . Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Peaks:- Hay on Wye 3.63m at 20:45 09/12 PM, Bredwardine 5.7m to 6.0m on 10/12 AM, Belmont 5.1m to 5.5m on 10/12 PM, Old Wye Bridge 4.4m to 4.7m on 10/12 PM, Mordiford 4.6m to 4.9m on 10/12 PM, Ross on Wye 3.8m to 4.3m on 10/12 overnight. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 11 December 2025 or as the situation changes.
 
-- Flood alert: Rivers in the Forest of Dean
-- High river levels today may lead to flooding. Flooding is possible on 10 December 2025. 
+- Warning no longer in force: Rivers in the Forest of Dean
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   
 
-Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.  
-
-Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
-
-Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 9:00AM on 11 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
 - High river levels today may lead to flooding. Flooding is possible on 10 December 2025 . Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.8 to 4.3m Wed 10/12 overnight. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 11 December 2025 or as the situation changes.
@@ -258,12 +246,6 @@ Further rainfall is forecast over the next 48 hours which may see river levels r
 Take care and avoid walking, cycling or driving through flood water.  
 
 This message will be updated by 10:00AM on 11 December 2025 or as the situation changes.
-
-- Warning no longer in force: Severn Estuary at Severn Beach
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-The previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   
 
 
 <!-- flood_marker ends -->

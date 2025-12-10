@@ -126,20 +126,18 @@ Never drive through flood water,  just 30cm of fast flowing water is enough to m
 
 
 - Flood alert: River Severn in Gloucestershire
-- River levels remain high due to recent rainfall, flooding may continue over the next few days. 
-
-Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
-
-Predicted peaks:-  
-
-Wednesday morning 10/12; Gloucester 2.9m to 3.2m at 01:00AM, Sandhurst 3.5m to 3.7m at 01:30AM.
-Wednesday afternoon 10/12; Gloucester 2.9m to 3.2m at 13:30PM, Sandhurst 3.6m to 3.7m at 13:45PM. 
-
-Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
-
-Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  
-
-This message will be updated by 2:00PM on 10 December 2025, or as the situation change.
+- High river levels today may lead to flooding. 
+Flooding is possible on 10 December 2025 . 
+River levels remain high due to recent rainfall, flooding may continue over the next few days.
+Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill.
+Predicted peaks:-
+Mythe 3.7m to 4.1m on Saturday 13/11.
+Haw Bridge 4.6m to 5.0m on Saturday 13/11.
+No flooding is expected at other gauge locations currently. 
+Further rainfall is forecast over the next 48 hours which may see river levels rise further. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . 
+This message will be updated by 10:00AM on 11 December 2025 or as the situation changes.
 
 - Flood alert: River Leadon catchment
 - High river levels today may lead to flooding. Flooding is possible on 10 December 2025.
@@ -239,6 +237,16 @@ Further rainfall is forecast over the next 48 hours which may see river levels r
 Take care and avoid walking, cycling or driving through flood water.  
 
 This message will be updated by 10:00AM on 11 December 2025 or as the situation changes.
+
+- Flood warning: River Severn at Apperley and The Leigh
+- Rising river levels are expected to cause flooding overnight. 
+Flooding is expected from the early hours of 11 December 2025 . 
+Flooding may affect Gabb Lane at Apperley and local caravan parks.
+
+Predicted peak at Haw Bridge 4.6m to 5.0m on 13/12. 
+We are closely monitoring the situation . 
+Start acting on your flood plan if you have one . 
+This message will be updated by 10:00AM on 11 December 2025 or as the situation changes. 
 
 
 <!-- flood_marker ends -->

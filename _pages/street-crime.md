@@ -18,431 +18,443 @@ permalink: /street-crime
     <tbody>
         <!-- table_marker starts -->
 
-<tr><td>131011717</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Dorset Avenue</td></tr>
-<tr><td>131011728</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Grevil Road</td></tr>
-<tr><td>131011860</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Hamlet Close</td></tr>
-<tr><td>131012030</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Sotherby Drive</td></tr>
-<tr><td>131011321</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Orchard Way</td></tr>
-<tr><td>131011325</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Peter Pennell Close</td></tr>
-<tr><td>131011329</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Malvern Road</td></tr>
-<tr><td>131011367</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Alstone Lane</td></tr>
-<tr><td>131011577</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Waldrist Close</td></tr>
-<tr><td>131011590</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Market Street</td></tr>
-<tr><td>131011603</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Seacome Road</td></tr>
-<tr><td>131011608</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Royal Well Lane</td></tr>
-<tr><td>131011623</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Arle Avenue</td></tr>
-<tr><td>131011371</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Malvern Street</td></tr>
-<tr><td>131011402</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Blake Croft</td></tr>
-<tr><td>131011458</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Malvern Road</td></tr>
-<tr><td>131011468</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131011470</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Orchard Avenue</td></tr>
-<tr><td>131011471</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Admiral Close</td></tr>
-<tr><td>131011473</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Banyard Close</td></tr>
-<tr><td>131011474</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Addis Road</td></tr>
-<tr><td>131011476</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Banyard Close</td></tr>
-<tr><td>131011477</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Market Street</td></tr>
-<tr><td>131011480</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Fort Leney Walk</td></tr>
-<tr><td>131011483</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Elm Close</td></tr>
-<tr><td>131012041</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Lechmere Road</td></tr>
-<tr><td>131012039</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Lansdown Road</td></tr>
-<tr><td>131011840</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Monks Croft</td></tr>
-<tr><td>131011846</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Sochi Mews</td></tr>
-<tr><td>131011862</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Ellison Road</td></tr>
-<tr><td>131011540</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Burton Street</td></tr>
-<tr><td>131011541</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Burton Street</td></tr>
-<tr><td>131011553</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Lloyd Close</td></tr>
-<tr><td>131011557</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Queens Lane</td></tr>
-<tr><td>131011738</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Market Street</td></tr>
-<tr><td>131011761</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Orchard Way</td></tr>
-<tr><td>131011978</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Granley Drive</td></tr>
-<tr><td>131011770</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Fort Leney Walk</td></tr>
-<tr><td>131011785</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Brooklyn Road</td></tr>
-<tr><td>131011808</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Edinburgh Place</td></tr>
-<tr><td>131012027</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Millbrook Street</td></tr>
-<tr><td>131011813</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Fort Leney Walk</td></tr>
-<tr><td>131011830</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131011836</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Great Western Road</td></tr>
-<tr><td>131011876</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Great Western Terrace</td></tr>
-<tr><td>131011886</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Shakespeare Road</td></tr>
-<tr><td>131011899</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Libertus Road</td></tr>
-<tr><td>131011444</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131011445</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near St Peter's Square</td></tr>
-<tr><td>131011904</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Race Track</td></tr>
-<tr><td>131011952</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Queen Street</td></tr>
-<tr><td>131011954</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Russet Road</td></tr>
-<tr><td>131012018</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Aldridge Close</td></tr>
-<tr><td>131012023</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Dulverton Close</td></tr>
-<tr><td>131011279</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Barlow Road</td></tr>
-<tr><td>131011289</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131011443</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Kingsmead Avenue</td></tr>
-<tr><td>131011640</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Swindon Close</td></tr>
-<tr><td>131012042</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Bryanstone Close</td></tr>
-<tr><td>131012045</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Cowper Road</td></tr>
-<tr><td>131012048</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Kipling Road</td></tr>
-<tr><td>131011817</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Market Street</td></tr>
-<tr><td>131011725</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Barlow Road</td></tr>
-<tr><td>131011722</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131011721</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Arle Drive</td></tr>
-<tr><td>131011718</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131011714</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Arle Road</td></tr>
-<tr><td>131011709</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Lee Close</td></tr>
-<tr><td>131011667</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Arle Avenue</td></tr>
-<tr><td>131011354</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Fort Leney Walk</td></tr>
-<tr><td>131011349</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Fort Leney Walk</td></tr>
-<tr><td>131011345</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131011231</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Richards Road</td></tr>
-<tr><td>131011219</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Montreal Drive</td></tr>
-<tr><td>131011217</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131011205</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Blenheim Square</td></tr>
-<tr><td>131011173</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131011708</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Lee Close</td></tr>
-<tr><td>131011699</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Grove Street</td></tr>
-<tr><td>131011672</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Byron Road</td></tr>
-<tr><td>131011657</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Milsom Street</td></tr>
-<tr><td>131011155</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near School Mead</td></tr>
-<tr><td>131011123</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Byron Road</td></tr>
-<tr><td>131011247</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131011277</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Barlow Road</td></tr>
-<tr><td>131011286</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Elm Close</td></tr>
-<tr><td>131011294</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Russet Road</td></tr>
-<tr><td>131011297</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near King Street</td></tr>
-<tr><td>131011309</td><td>anti-social-behaviour</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131007546</td><td>bicycle-theft</td><td>2025-09</td><td>On or near Queens Lane</td></tr>
-<tr><td>131007849</td><td>bicycle-theft</td><td>2025-09</td><td>On or near Edinburgh Place</td></tr>
-<tr><td>131010615</td><td>bicycle-theft</td><td>2025-09</td><td>On or near Amberley Road</td></tr>
-<tr><td>131010796</td><td>bicycle-theft</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131007811</td><td>bicycle-theft</td><td>2025-09</td><td>On or near Tanner's Lane</td></tr>
-<tr><td>131007752</td><td>bicycle-theft</td><td>2025-09</td><td>On or near Orchard Way</td></tr>
-<tr><td>131009032</td><td>bicycle-theft</td><td>2025-09</td><td>On or near Braeburn Close</td></tr>
-<tr><td>131009406</td><td>bicycle-theft</td><td>2025-09</td><td>On or near St Paul's Lane</td></tr>
-<tr><td>131010892</td><td>burglary</td><td>2025-09</td><td>On or near Kingsville Road</td></tr>
-<tr><td>131008976</td><td>burglary</td><td>2025-09</td><td>On or near Goldsmith Close</td></tr>
-<tr><td>131007782</td><td>burglary</td><td>2025-09</td><td>On or near Baker Street</td></tr>
-<tr><td>131009192</td><td>burglary</td><td>2025-09</td><td>On or near St Paul's Street South</td></tr>
-<tr><td>131007686</td><td>burglary</td><td>2025-09</td><td>On or near Overton Road</td></tr>
-<tr><td>131009381</td><td>burglary</td><td>2025-09</td><td>On or near Evington Road</td></tr>
-<tr><td>131007838</td><td>burglary</td><td>2025-09</td><td>On or near Queens Lane</td></tr>
-<tr><td>131007778</td><td>burglary</td><td>2025-09</td><td>On or near Richards Road</td></tr>
-<tr><td>131009404</td><td>burglary</td><td>2025-09</td><td>On or near Lloyd Close</td></tr>
-<tr><td>131009640</td><td>burglary</td><td>2025-09</td><td>On or near Bodnam Road</td></tr>
-<tr><td>131010523</td><td>burglary</td><td>2025-09</td><td>On or near Nightclub</td></tr>
-<tr><td>131007854</td><td>burglary</td><td>2025-09</td><td>On or near Montreal Drive</td></tr>
-<tr><td>131008941</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Ashlands Road</td></tr>
-<tr><td>131010632</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Dormer Road</td></tr>
-<tr><td>131007580</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131009823</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Gara Close</td></tr>
-<tr><td>131008879</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Ashlands Close</td></tr>
-<tr><td>131011114</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Market Street</td></tr>
-<tr><td>131010515</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near St. Mary's Mews</td></tr>
-<tr><td>131009193</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Stoneville Street</td></tr>
-<tr><td>131009009</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Sun Street</td></tr>
-<tr><td>131007781</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Baker Street</td></tr>
-<tr><td>131009030</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Orchard Avenue</td></tr>
-<tr><td>131007579</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131009447</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131009403</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Lloyd Close</td></tr>
-<tr><td>131010630</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131010446</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Edinburgh Place</td></tr>
-<tr><td>131007346</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Stoneville Street</td></tr>
-<tr><td>131009107</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Park Street</td></tr>
-<tr><td>131009138</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near St Peter's Square</td></tr>
-<tr><td>131009055</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Clevedon Square</td></tr>
-<tr><td>131009149</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Great Western Road</td></tr>
-<tr><td>131007369</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Wendover Gardens</td></tr>
-<tr><td>131007765</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Grevil Road</td></tr>
-<tr><td>131010556</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131010208</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Barbridge Road</td></tr>
-<tr><td>131009460</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131008697</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Seabright Close</td></tr>
-<tr><td>131007636</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Kingsley Gardens</td></tr>
-<tr><td>131009376</td><td>criminal-damage-arson</td><td>2025-09</td><td>On or near Devonshire Street</td></tr>
-<tr><td>131009066</td><td>drugs</td><td>2025-09</td><td>On or near Bridge Street</td></tr>
-<tr><td>131008801</td><td>drugs</td><td>2025-09</td><td>On or near Barbridge Road</td></tr>
-<tr><td>131009523</td><td>drugs</td><td>2025-09</td><td>On or near Roman Road</td></tr>
-<tr><td>131007552</td><td>drugs</td><td>2025-09</td><td>On or near New Street</td></tr>
-<tr><td>131007335</td><td>drugs</td><td>2025-09</td><td>On or near Bedford Avenue</td></tr>
-<tr><td>131009333</td><td>other-theft</td><td>2025-09</td><td>On or near Frank Brookes Road</td></tr>
-<tr><td>131009379</td><td>other-theft</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131009443</td><td>other-theft</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131007623</td><td>other-theft</td><td>2025-09</td><td>On or near Nightclub</td></tr>
-<tr><td>131007785</td><td>other-theft</td><td>2025-09</td><td>On or near Bullingham Court</td></tr>
-<tr><td>131009120</td><td>other-theft</td><td>2025-09</td><td>On or near Alstone Mews</td></tr>
-<tr><td>131009275</td><td>other-theft</td><td>2025-09</td><td>On or near Hillfield</td></tr>
-<tr><td>131009326</td><td>other-theft</td><td>2025-09</td><td>On or near Parkbury Close</td></tr>
-<tr><td>131009645</td><td>other-theft</td><td>2025-09</td><td>On or near Further/higher Educational Building</td></tr>
-<tr><td>131009662</td><td>other-theft</td><td>2025-09</td><td>On or near Race Track</td></tr>
-<tr><td>131010088</td><td>other-theft</td><td>2025-09</td><td>On or near Overton Road</td></tr>
-<tr><td>131009296</td><td>other-theft</td><td>2025-09</td><td>On or near Vine Court</td></tr>
-<tr><td>131009140</td><td>other-theft</td><td>2025-09</td><td>On or near Granville Street</td></tr>
-<tr><td>131009047</td><td>other-theft</td><td>2025-09</td><td>On or near Blenheim Square</td></tr>
-<tr><td>131009380</td><td>other-theft</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131009891</td><td>other-theft</td><td>2025-09</td><td>On or near Lower Mill Street</td></tr>
-<tr><td>131007455</td><td>other-theft</td><td>2025-09</td><td>On or near Howell Road</td></tr>
-<tr><td>131009441</td><td>other-theft</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131010169</td><td>other-theft</td><td>2025-09</td><td>On or near Rutherford Way</td></tr>
-<tr><td>131011035</td><td>other-theft</td><td>2025-09</td><td>On or near Malvern Road</td></tr>
-<tr><td>131010436</td><td>other-theft</td><td>2025-09</td><td>On or near A4019</td></tr>
-<tr><td>131009011</td><td>other-theft</td><td>2025-09</td><td>On or near Cobham Road</td></tr>
-<tr><td>131009440</td><td>other-theft</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131008769</td><td>other-theft</td><td>2025-09</td><td>On or near Barlow Road</td></tr>
-<tr><td>131008786</td><td>other-theft</td><td>2025-09</td><td>On or near Millbrook Gardens</td></tr>
-<tr><td>131008669</td><td>other-theft</td><td>2025-09</td><td>On or near Royal Parade Mews</td></tr>
-<tr><td>131008625</td><td>other-theft</td><td>2025-09</td><td>On or near Flecker's Drive</td></tr>
-<tr><td>131007810</td><td>other-theft</td><td>2025-09</td><td>On or near Waldrist Close</td></tr>
-<tr><td>131007775</td><td>other-theft</td><td>2025-09</td><td>On or near Alstone Avenue</td></tr>
-<tr><td>131007839</td><td>other-theft</td><td>2025-09</td><td>On or near Queens Lane</td></tr>
-<tr><td>131009274</td><td>possession-of-weapons</td><td>2025-09</td><td>On or near Sports/recreation Area</td></tr>
-<tr><td>131007420</td><td>public-order</td><td>2025-09</td><td>On or near Draycot Road</td></tr>
-<tr><td>131007861</td><td>public-order</td><td>2025-09</td><td>On or near Further/higher Educational Building</td></tr>
-<tr><td>131010216</td><td>public-order</td><td>2025-09</td><td>On or near Fort Leney Walk</td></tr>
-<tr><td>131010584</td><td>public-order</td><td>2025-09</td><td>On or near School Mead</td></tr>
-<tr><td>131009178</td><td>public-order</td><td>2025-09</td><td>On or near Montreal Drive</td></tr>
-<tr><td>131007657</td><td>public-order</td><td>2025-09</td><td>On or near Welch Road</td></tr>
-<tr><td>131007806</td><td>public-order</td><td>2025-09</td><td>On or near Jessop Avenue</td></tr>
-<tr><td>131009113</td><td>public-order</td><td>2025-09</td><td>On or near Pitman Road</td></tr>
-<tr><td>131009462</td><td>public-order</td><td>2025-09</td><td>On or near Pinewood Drive</td></tr>
-<tr><td>131008803</td><td>public-order</td><td>2025-09</td><td>On or near Hamlet Close</td></tr>
-<tr><td>131009435</td><td>public-order</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131008718</td><td>public-order</td><td>2025-09</td><td>On or near Arle Avenue</td></tr>
-<tr><td>131008768</td><td>public-order</td><td>2025-09</td><td>On or near Barlow Road</td></tr>
-<tr><td>131009436</td><td>public-order</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131007526</td><td>public-order</td><td>2025-09</td><td>On or near Brookbank Close</td></tr>
-<tr><td>131009481</td><td>public-order</td><td>2025-09</td><td>On or near Sochi Mews</td></tr>
-<tr><td>131010276</td><td>public-order</td><td>2025-09</td><td>On or near St Paul's Lane</td></tr>
-<tr><td>131007612</td><td>public-order</td><td>2025-09</td><td>On or near Shelley Avenue</td></tr>
-<tr><td>131007388</td><td>public-order</td><td>2025-09</td><td>On or near Pitman Road</td></tr>
-<tr><td>131007685</td><td>public-order</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131007583</td><td>public-order</td><td>2025-09</td><td>On or near Pitman Road</td></tr>
-<tr><td>131007599</td><td>public-order</td><td>2025-09</td><td>On or near Ashtree Mews</td></tr>
-<tr><td>131009400</td><td>public-order</td><td>2025-09</td><td>On or near Lloyd Close</td></tr>
-<tr><td>131009434</td><td>public-order</td><td>2025-09</td><td>On or near Parabola Lane</td></tr>
-<tr><td>131010303</td><td>robbery</td><td>2025-09</td><td>On or near Ellison Road</td></tr>
-<tr><td>131008994</td><td>robbery</td><td>2025-09</td><td>On or near Frewin Close</td></tr>
-<tr><td>131009800</td><td>robbery</td><td>2025-09</td><td>On or near Royal Parade Mews</td></tr>
-<tr><td>131009787</td><td>shoplifting</td><td>2025-09</td><td>On or near Chapel Street</td></tr>
-<tr><td>131009907</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009437</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131009331</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131009343</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009904</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009446</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131010785</td><td>shoplifting</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131009338</td><td>shoplifting</td><td>2025-09</td><td>On or near Thomond Close</td></tr>
-<tr><td>131009332</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131010171</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009438</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131009905</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009906</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131010433</td><td>shoplifting</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131010026</td><td>shoplifting</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131009439</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131009897</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131010295</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009448</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131009449</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131009893</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009899</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009892</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131007826</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131010029</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009902</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009898</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009900</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009901</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009896</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131010484</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131009677</td><td>shoplifting</td><td>2025-09</td><td>On or near Listening Post Close</td></tr>
-<tr><td>131010432</td><td>shoplifting</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131010736</td><td>shoplifting</td><td>2025-09</td><td>On or near Queens Lane</td></tr>
-<tr><td>131010485</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131010434</td><td>shoplifting</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131009442</td><td>shoplifting</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131009903</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009895</td><td>shoplifting</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131008722</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Bryanstone Close</td></tr>
-<tr><td>131007534</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Medoc Close</td></tr>
-<tr><td>131007365</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Carter Road</td></tr>
-<tr><td>131007643</td><td>vehicle-crime</td><td>2025-09</td><td>On or near White Hart Street</td></tr>
-<tr><td>131009022</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Cornwall Avenue</td></tr>
-<tr><td>131009158</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Great Western Terrace</td></tr>
-<tr><td>131009134</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Sun Street</td></tr>
-<tr><td>131008878</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Ashlands Road</td></tr>
-<tr><td>131009770</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Queen's Road</td></tr>
-<tr><td>131007571</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Bayshill Lane</td></tr>
-<tr><td>131009121</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Alstone Mews</td></tr>
-<tr><td>131007488</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Lansdown Crescent Lane</td></tr>
-<tr><td>131007543</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Old Millbrook Terrace</td></tr>
-<tr><td>131007822</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Lansdown Place Lane</td></tr>
-<tr><td>131007366</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Carter Road</td></tr>
-<tr><td>131009614</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Goldsmith Road</td></tr>
-<tr><td>131007832</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Ashtree Mews</td></tr>
-<tr><td>131008870</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Wordsworth Avenue</td></tr>
-<tr><td>131009298</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Lansdown Place Lane</td></tr>
-<tr><td>131009187</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Cambridge Avenue</td></tr>
-<tr><td>131007508</td><td>vehicle-crime</td><td>2025-09</td><td>On or near Magnolia Court</td></tr>
-<tr><td>131009098</td><td>violent-crime</td><td>2025-09</td><td>On or near Midwinter Gardens</td></tr>
-<tr><td>131009522</td><td>violent-crime</td><td>2025-09</td><td>On or near Stoneville Street</td></tr>
-<tr><td>131010611</td><td>violent-crime</td><td>2025-09</td><td>On or near Castanum Court</td></tr>
-<tr><td>131009461</td><td>violent-crime</td><td>2025-09</td><td>On or near Quebec Drive</td></tr>
-<tr><td>131009351</td><td>violent-crime</td><td>2025-09</td><td>On or near Stow Court</td></tr>
-<tr><td>131009012</td><td>violent-crime</td><td>2025-09</td><td>On or near Swindon Road</td></tr>
-<tr><td>131008476</td><td>violent-crime</td><td>2025-09</td><td>On or near Oldbury Close</td></tr>
-<tr><td>131008993</td><td>violent-crime</td><td>2025-09</td><td>On or near Frewin Close</td></tr>
-<tr><td>131009001</td><td>violent-crime</td><td>2025-09</td><td>On or near Admiral Close</td></tr>
-<tr><td>131011056</td><td>violent-crime</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131008477</td><td>violent-crime</td><td>2025-09</td><td>On or near Gara Close</td></tr>
-<tr><td>131009171</td><td>violent-crime</td><td>2025-09</td><td>On or near Russet Road</td></tr>
-<tr><td>131008940</td><td>violent-crime</td><td>2025-09</td><td>On or near Ismay Road</td></tr>
-<tr><td>131008939</td><td>violent-crime</td><td>2025-09</td><td>On or near Ismay Road</td></tr>
-<tr><td>131008886</td><td>violent-crime</td><td>2025-09</td><td>On or near Magnolia Court</td></tr>
-<tr><td>131009044</td><td>violent-crime</td><td>2025-09</td><td>On or near Emperor Close</td></tr>
-<tr><td>131009023</td><td>violent-crime</td><td>2025-09</td><td>On or near Cornwall Avenue</td></tr>
-<tr><td>131009033</td><td>violent-crime</td><td>2025-09</td><td>On or near Braeburn Close</td></tr>
-<tr><td>131008778</td><td>violent-crime</td><td>2025-09</td><td>On or near Aldridge Close</td></tr>
-<tr><td>131008743</td><td>violent-crime</td><td>2025-09</td><td>On or near Folly Lane</td></tr>
-<tr><td>131007381</td><td>violent-crime</td><td>2025-09</td><td>On or near Colletts Drive</td></tr>
-<tr><td>131008742</td><td>violent-crime</td><td>2025-09</td><td>On or near Folly Lane</td></tr>
-<tr><td>131008741</td><td>violent-crime</td><td>2025-09</td><td>On or near Folly Lane</td></tr>
-<tr><td>131007800</td><td>violent-crime</td><td>2025-09</td><td>On or near Aston Grove</td></tr>
-<tr><td>131008667</td><td>violent-crime</td><td>2025-09</td><td>On or near Gravney Court</td></tr>
-<tr><td>131008654</td><td>violent-crime</td><td>2025-09</td><td>On or near Gravney Court</td></tr>
-<tr><td>131008653</td><td>violent-crime</td><td>2025-09</td><td>On or near Gravney Court</td></tr>
-<tr><td>131008652</td><td>violent-crime</td><td>2025-09</td><td>On or near Gravney Court</td></tr>
-<tr><td>131007344</td><td>violent-crime</td><td>2025-09</td><td>On or near Peter Pennell Close</td></tr>
-<tr><td>131007321</td><td>violent-crime</td><td>2025-09</td><td>On or near Essex Avenue</td></tr>
-<tr><td>131007865</td><td>violent-crime</td><td>2025-09</td><td>On or near Pennsylvania Mews</td></tr>
-<tr><td>131007858</td><td>violent-crime</td><td>2025-09</td><td>On or near Dormer Road</td></tr>
-<tr><td>131007852</td><td>violent-crime</td><td>2025-09</td><td>On or near New Rutland Court</td></tr>
-<tr><td>131007851</td><td>violent-crime</td><td>2025-09</td><td>On or near Edinburgh Place</td></tr>
-<tr><td>131007848</td><td>violent-crime</td><td>2025-09</td><td>On or near Ellison Road</td></tr>
-<tr><td>131007813</td><td>violent-crime</td><td>2025-09</td><td>On or near Dill Avenue</td></tr>
-<tr><td>131007804</td><td>violent-crime</td><td>2025-09</td><td>On or near Ambrose Street</td></tr>
-<tr><td>131007860</td><td>violent-crime</td><td>2025-09</td><td>On or near Knapp Lane</td></tr>
-<tr><td>131007787</td><td>violent-crime</td><td>2025-09</td><td>On or near Bullingham Court</td></tr>
-<tr><td>131007783</td><td>violent-crime</td><td>2025-09</td><td>On or near Swindon Close</td></tr>
-<tr><td>131010896</td><td>violent-crime</td><td>2025-09</td><td>On or near School Mead</td></tr>
-<tr><td>131007777</td><td>violent-crime</td><td>2025-09</td><td>On or near Old Millbrook Terrace</td></tr>
-<tr><td>131007776</td><td>violent-crime</td><td>2025-09</td><td>On or near Alstone Avenue</td></tr>
-<tr><td>131007773</td><td>violent-crime</td><td>2025-09</td><td>On or near Terry Ruck Close</td></tr>
-<tr><td>131007722</td><td>violent-crime</td><td>2025-09</td><td>On or near Gloucester Road</td></tr>
-<tr><td>131009057</td><td>violent-crime</td><td>2025-09</td><td>On or near Clevedon Square</td></tr>
-<tr><td>131007578</td><td>violent-crime</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131007577</td><td>violent-crime</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131007527</td><td>violent-crime</td><td>2025-09</td><td>On or near Marsland Road</td></tr>
-<tr><td>131007840</td><td>violent-crime</td><td>2025-09</td><td>On or near Queens Lane</td></tr>
-<tr><td>131114772</td><td>violent-crime</td><td>2025-09</td><td>On or near Riverview Way</td></tr>
-<tr><td>131007835</td><td>violent-crime</td><td>2025-09</td><td>On or near St Paul's Street North</td></tr>
-<tr><td>131007831</td><td>violent-crime</td><td>2025-09</td><td>On or near Graham Place</td></tr>
-<tr><td>131007828</td><td>violent-crime</td><td>2025-09</td><td>On or near Graham Place</td></tr>
-<tr><td>131007812</td><td>violent-crime</td><td>2025-09</td><td>On or near Kingsmead Avenue</td></tr>
-<tr><td>131007816</td><td>violent-crime</td><td>2025-09</td><td>On or near Dill Avenue</td></tr>
-<tr><td>131009621</td><td>violent-crime</td><td>2025-09</td><td>On or near Sotherby Drive</td></tr>
-<tr><td>131010087</td><td>violent-crime</td><td>2025-09</td><td>On or near Roman Road</td></tr>
-<tr><td>131007786</td><td>violent-crime</td><td>2025-09</td><td>On or near Bullingham Court</td></tr>
-<tr><td>131010035</td><td>violent-crime</td><td>2025-09</td><td>On or near Addis Road</td></tr>
-<tr><td>131010034</td><td>violent-crime</td><td>2025-09</td><td>On or near Addis Road</td></tr>
-<tr><td>131009894</td><td>violent-crime</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009866</td><td>violent-crime</td><td>2025-09</td><td>On or near Grove Street</td></tr>
-<tr><td>131009646</td><td>violent-crime</td><td>2025-09</td><td>On or near Further/higher Educational Building</td></tr>
-<tr><td>131009641</td><td>violent-crime</td><td>2025-09</td><td>On or near Bodnam Road</td></tr>
-<tr><td>131009620</td><td>violent-crime</td><td>2025-09</td><td>On or near Sotherby Drive</td></tr>
-<tr><td>131009521</td><td>violent-crime</td><td>2025-09</td><td>On or near Stoneville Street</td></tr>
-<tr><td>131007772</td><td>violent-crime</td><td>2025-09</td><td>On or near Ismay Road</td></tr>
-<tr><td>131008880</td><td>violent-crime</td><td>2025-09</td><td>On or near Ashlands Close</td></tr>
-<tr><td>131007815</td><td>violent-crime</td><td>2025-09</td><td>On or near Dill Avenue</td></tr>
-<tr><td>131007814</td><td>violent-crime</td><td>2025-09</td><td>On or near Dill Avenue</td></tr>
-<tr><td>131007809</td><td>violent-crime</td><td>2025-09</td><td>On or near Waldrist Close</td></tr>
-<tr><td>131009405</td><td>violent-crime</td><td>2025-09</td><td>On or near Lloyd Close</td></tr>
-<tr><td>131009344</td><td>violent-crime</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131009139</td><td>violent-crime</td><td>2025-09</td><td>On or near St Peter's Square</td></tr>
-<tr><td>131009299</td><td>violent-crime</td><td>2025-09</td><td>On or near Hamlet Close</td></tr>
-<tr><td>131009228</td><td>violent-crime</td><td>2025-09</td><td>On or near Stow Court</td></tr>
-<tr><td>131009094</td><td>violent-crime</td><td>2025-09</td><td>On or near Moors Avenue</td></tr>
-<tr><td>131009067</td><td>violent-crime</td><td>2025-09</td><td>On or near Bridge Street</td></tr>
-<tr><td>131009056</td><td>violent-crime</td><td>2025-09</td><td>On or near Clevedon Square</td></tr>
-<tr><td>131009048</td><td>violent-crime</td><td>2025-09</td><td>On or near Elm Close</td></tr>
-<tr><td>131009046</td><td>violent-crime</td><td>2025-09</td><td>On or near Blenheim Square</td></tr>
-<tr><td>131009040</td><td>violent-crime</td><td>2025-09</td><td>On or near Addis Road</td></tr>
-<tr><td>131009031</td><td>violent-crime</td><td>2025-09</td><td>On or near Orchard Avenue</td></tr>
-<tr><td>131009028</td><td>violent-crime</td><td>2025-09</td><td>On or near Orchard Avenue</td></tr>
-<tr><td>131009029</td><td>violent-crime</td><td>2025-09</td><td>On or near Orchard Avenue</td></tr>
-<tr><td>131009013</td><td>violent-crime</td><td>2025-09</td><td>On or near Grimwade Close</td></tr>
-<tr><td>131009000</td><td>violent-crime</td><td>2025-09</td><td>On or near Admiral Close</td></tr>
-<tr><td>131008802</td><td>violent-crime</td><td>2025-09</td><td>On or near Listening Post Close</td></tr>
-<tr><td>131009445</td><td>violent-crime</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131010755</td><td>violent-crime</td><td>2025-09</td><td>On or near Milsom Street</td></tr>
-<tr><td>131007493</td><td>violent-crime</td><td>2025-09</td><td>On or near Grimwade Close</td></tr>
-<tr><td>131008779</td><td>violent-crime</td><td>2025-09</td><td>On or near Vine Court</td></tr>
-<tr><td>131007862</td><td>violent-crime</td><td>2025-09</td><td>On or near Russet Road</td></tr>
-<tr><td>131007855</td><td>violent-crime</td><td>2025-09</td><td>On or near Montreal Drive</td></tr>
-<tr><td>131007721</td><td>violent-crime</td><td>2025-09</td><td>On or near Stow Court</td></tr>
-<tr><td>131007780</td><td>violent-crime</td><td>2025-09</td><td>On or near Richards Road</td></tr>
-<tr><td>131007853</td><td>violent-crime</td><td>2025-09</td><td>On or near Lechmere Road</td></tr>
-<tr><td>131007857</td><td>violent-crime</td><td>2025-09</td><td>On or near Dormer Road</td></tr>
-<tr><td>131007859</td><td>violent-crime</td><td>2025-09</td><td>On or near Greville Court</td></tr>
-<tr><td>131009619</td><td>violent-crime</td><td>2025-09</td><td>On or near Sotherby Drive</td></tr>
-<tr><td>131007850</td><td>violent-crime</td><td>2025-09</td><td>On or near Edinburgh Place</td></tr>
-<tr><td>131007837</td><td>violent-crime</td><td>2025-09</td><td>On or near Queens Lane</td></tr>
-<tr><td>131009162</td><td>violent-crime</td><td>2025-09</td><td>On or near Orchard Way</td></tr>
-<tr><td>131007830</td><td>violent-crime</td><td>2025-09</td><td>On or near Graham Place</td></tr>
-<tr><td>131009623</td><td>violent-crime</td><td>2025-09</td><td>On or near Yalta Close</td></tr>
-<tr><td>131009117</td><td>violent-crime</td><td>2025-09</td><td>On or near Monks Croft</td></tr>
-<tr><td>131007829</td><td>violent-crime</td><td>2025-09</td><td>On or near Graham Place</td></tr>
-<tr><td>131007414</td><td>violent-crime</td><td>2025-09</td><td>On or near Old Millbrook Terrace</td></tr>
-<tr><td>131010555</td><td>violent-crime</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131011094</td><td>violent-crime</td><td>2025-09</td><td>On or near Newdawn Place</td></tr>
-<tr><td>131011055</td><td>violent-crime</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131007825</td><td>violent-crime</td><td>2025-09</td><td>On or near Howell Road</td></tr>
-<tr><td>131007805</td><td>violent-crime</td><td>2025-09</td><td>On or near Ambrose Street</td></tr>
-<tr><td>131007743</td><td>violent-crime</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131007741</td><td>violent-crime</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131007712</td><td>violent-crime</td><td>2025-09</td><td>On or near Addis Road</td></tr>
-<tr><td>131007689</td><td>violent-crime</td><td>2025-09</td><td>On or near Knapp Lane</td></tr>
-<tr><td>131007490</td><td>violent-crime</td><td>2025-09</td><td>On or near Barbridge Road</td></tr>
-<tr><td>131010786</td><td>violent-crime</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131007742</td><td>violent-crime</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131007744</td><td>violent-crime</td><td>2025-09</td><td>On or near Thornbury Close</td></tr>
-<tr><td>131008655</td><td>violent-crime</td><td>2025-09</td><td>On or near Griffiths Avenue</td></tr>
-<tr><td>131010522</td><td>violent-crime</td><td>2025-09</td><td>On or near Nightclub</td></tr>
-<tr><td>131010521</td><td>violent-crime</td><td>2025-09</td><td>On or near Nightclub</td></tr>
-<tr><td>131010520</td><td>violent-crime</td><td>2025-09</td><td>On or near Nightclub</td></tr>
-<tr><td>131009444</td><td>violent-crime</td><td>2025-09</td><td>On or near Supermarket</td></tr>
-<tr><td>131007633</td><td>violent-crime</td><td>2025-09</td><td>On or near Cobham Court</td></tr>
-<tr><td>131010413</td><td>violent-crime</td><td>2025-09</td><td>On or near Welch Road</td></tr>
-<tr><td>131010412</td><td>violent-crime</td><td>2025-09</td><td>On or near Welch Road</td></tr>
-<tr><td>131010616</td><td>violent-crime</td><td>2025-09</td><td>On or near Amberley Road</td></tr>
-<tr><td>131010030</td><td>violent-crime</td><td>2025-09</td><td>On or near Shopping Area</td></tr>
-<tr><td>131010001</td><td>violent-crime</td><td>2025-09</td><td>On or near Addis Road</td></tr>
-<tr><td>131010246</td><td>violent-crime</td><td>2025-09</td><td>On or near Evington Road</td></tr>
-<tr><td>131009824</td><td>violent-crime</td><td>2025-09</td><td>On or near Gara Close</td></tr>
-<tr><td>131010071</td><td>violent-crime</td><td>2025-09</td><td>On or near Milton Road</td></tr>
-<tr><td>131009308</td><td>violent-crime</td><td>2025-09</td><td>On or near Stow Court</td></tr>
-<tr><td>131009145</td><td>violent-crime</td><td>2025-09</td><td>On or near Pennsylvania Avenue</td></tr>
-<tr><td>131009137</td><td>violent-crime</td><td>2025-09</td><td>On or near St Peter's Square</td></tr>
-<tr><td>131009115</td><td>violent-crime</td><td>2025-09</td><td>On or near Monks Croft</td></tr>
-<tr><td>131009110</td><td>violent-crime</td><td>2025-09</td><td>On or near Beale Road</td></tr>
-<tr><td>131010614</td><td>violent-crime</td><td>2025-09</td><td>On or near Amberley Road</td></tr>
-<tr><td>131009105</td><td>violent-crime</td><td>2025-09</td><td>On or near Campden Road</td></tr>
-<tr><td>131007824</td><td>violent-crime</td><td>2025-09</td><td>On or near Overton Park Road</td></tr>
-<tr><td>131009532</td><td>violent-crime</td><td>2025-09</td><td>On or near Yalta Close</td></tr>
-<tr><td>131009112</td><td>violent-crime</td><td>2025-09</td><td>On or near Monks Croft</td></tr>
-<tr><td>131009116</td><td>violent-crime</td><td>2025-09</td><td>On or near Monks Croft</td></tr>
-<tr><td>131007680</td><td>violent-crime</td><td>2025-09</td><td>On or near Petrol Station</td></tr>
-<tr><td>131010371</td><td>violent-crime</td><td>2025-09</td><td>On or near Parking Area</td></tr>
-<tr><td>131010278</td><td>violent-crime</td><td>2025-09</td><td>On or near St Paul's Street South</td></tr>
-<tr><td>131010215</td><td>violent-crime</td><td>2025-09</td><td>On or near Fort Leney Walk</td></tr>
-<tr><td>131007784</td><td>violent-crime</td><td>2025-09</td><td>On or near Bullingham Court</td></tr>
-<tr><td>131009109</td><td>other-crime</td><td>2025-09</td><td>On or near Beale Road</td></tr>
-<tr><td>131010351</td><td>other-crime</td><td>2025-09</td><td>On or near Lansdown Castle Drive</td></tr>
-<tr><td>131007827</td><td>other-crime</td><td>2025-09</td><td>On or near Brown Close</td></tr>
-<tr><td>131009402</td><td>other-crime</td><td>2025-09</td><td>On or near Lloyd Close</td></tr>
-<tr><td>131007779</td><td>other-crime</td><td>2025-09</td><td>On or near Stanwick Gardens</td></tr>
-<tr><td>131007352</td><td>other-crime</td><td>2025-09</td><td>On or near Malvern Street</td></tr>
-<tr><td>131009644</td><td>other-crime</td><td>2025-09</td><td>On or near Further/higher Educational Building</td></tr>
-<tr><td>131009401</td><td>other-crime</td><td>2025-09</td><td>On or near Seacome Road</td></tr>
-<tr><td>131010077</td><td>other-crime</td><td>2025-09</td><td>On or near Overton Park Road</td></tr>
-<tr><td>131007856</td><td>other-crime</td><td>2025-09</td><td>On or near Montreal Drive</td></tr>
-<tr><td>131008877</td><td>other-crime</td><td>2025-09</td><td>On or near Redwood Court</td></tr>
+<tr><td>131591609</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Royal Oak Mews</td></tr>
+<tr><td>131591931</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Amberley Road</td></tr>
+<tr><td>131591536</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Lechmere Road</td></tr>
+<tr><td>131592136</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131592117</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Lansdown Walk</td></tr>
+<tr><td>131592116</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Pates Avenue</td></tr>
+<tr><td>131592104</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131592084</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Pates Avenue</td></tr>
+<tr><td>131592069</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Arle Avenue</td></tr>
+<tr><td>131592065</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Tanner's Road</td></tr>
+<tr><td>131592050</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Notgrove Close</td></tr>
+<tr><td>131592046</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Cowper Road</td></tr>
+<tr><td>131592036</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Grove Street</td></tr>
+<tr><td>131591937</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131591929</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Parking Area</td></tr>
+<tr><td>131591923</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Fort Leney Walk</td></tr>
+<tr><td>131591915</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Grove Street</td></tr>
+<tr><td>131591912</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Dulverton Close</td></tr>
+<tr><td>131591911</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Amberley Road</td></tr>
+<tr><td>131591899</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Fort Leney Walk</td></tr>
+<tr><td>131591892</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Cowper Road</td></tr>
+<tr><td>131591883</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Notgrove Close</td></tr>
+<tr><td>131591871</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Hamlet Close</td></tr>
+<tr><td>131592150</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Elm Close</td></tr>
+<tr><td>131592144</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near St Peters Close</td></tr>
+<tr><td>131591859</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near St Peter's Square</td></tr>
+<tr><td>131591835</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Chapel Street</td></tr>
+<tr><td>131591829</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Banyard Close</td></tr>
+<tr><td>131591827</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Clevedon Square</td></tr>
+<tr><td>131591823</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Thornbury Close</td></tr>
+<tr><td>131591807</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131591805</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Chosen View Road</td></tr>
+<tr><td>131591803</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Evington Road</td></tr>
+<tr><td>131591802</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131591785</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131591783</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Draycot Road</td></tr>
+<tr><td>131591782</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Notgrove Close</td></tr>
+<tr><td>131591772</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Glencairn Park Road</td></tr>
+<tr><td>131591764</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near St Paul's Lane</td></tr>
+<tr><td>131591755</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Queen Street</td></tr>
+<tr><td>131591754</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near St Paul's Street South</td></tr>
+<tr><td>131591753</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Libertus Road</td></tr>
+<tr><td>131591752</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Draycot Road</td></tr>
+<tr><td>131591746</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Wasley Road</td></tr>
+<tr><td>131592032</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Lipson Road</td></tr>
+<tr><td>131592022</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near St Georges Road</td></tr>
+<tr><td>131591998</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Sterling Court</td></tr>
+<tr><td>131591986</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Bridge Street</td></tr>
+<tr><td>131591970</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Lucinia Mews</td></tr>
+<tr><td>131591967</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Hester's Way Road</td></tr>
+<tr><td>131591742</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near St Peter's Square</td></tr>
+<tr><td>131591735</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Lypiatt Drive</td></tr>
+<tr><td>131591657</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131591651</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Grove Street</td></tr>
+<tr><td>131591635</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Arle Close</td></tr>
+<tr><td>131591619</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Wentworth Road</td></tr>
+<tr><td>131591610</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Cornwall Avenue</td></tr>
+<tr><td>131591526</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Bridge Street</td></tr>
+<tr><td>131591524</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Parking Area</td></tr>
+<tr><td>131591511</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Pitman Road</td></tr>
+<tr><td>131591490</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Stanwick Drive</td></tr>
+<tr><td>131591484</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Merriville Road</td></tr>
+<tr><td>131591477</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Gloucester Road</td></tr>
+<tr><td>131591475</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Pitman Road</td></tr>
+<tr><td>131591465</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Bridge Street</td></tr>
+<tr><td>131591710</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Grenadier Road</td></tr>
+<tr><td>131591707</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near St Peter's Square</td></tr>
+<tr><td>131591706</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Elm Close</td></tr>
+<tr><td>131591700</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near St Peters Close</td></tr>
+<tr><td>131591409</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Quebec Drive</td></tr>
+<tr><td>131591379</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Addis Road</td></tr>
+<tr><td>131591369</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Hamlet Close</td></tr>
+<tr><td>131591367</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131591360</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Greville Court</td></tr>
+<tr><td>131591339</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Brooklyn Road</td></tr>
+<tr><td>131591582</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Royal Parade Mews</td></tr>
+<tr><td>131591577</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near School Mead</td></tr>
+<tr><td>131591563</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Brooklyn Road</td></tr>
+<tr><td>131591557</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131591315</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Aston Grove</td></tr>
+<tr><td>131591248</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Swindon Street</td></tr>
+<tr><td>131591237</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near South Bank</td></tr>
+<tr><td>131591226</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Roman Road</td></tr>
+<tr><td>131591423</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near St. George's Square</td></tr>
+<tr><td>131591302</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Swindon Road</td></tr>
+<tr><td>131591292</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Neptune Business Centre</td></tr>
+<tr><td>131591281</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Montreal Drive</td></tr>
+<tr><td>131591274</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Kingsville Road</td></tr>
+<tr><td>131591495</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Alstone Lane</td></tr>
+<tr><td>131591708</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Lansdown Crescent Lane</td></tr>
+<tr><td>131591867</td><td>anti-social-behaviour</td><td>2025-10</td><td>On or near Grimwade Close</td></tr>
+<tr><td>131589888</td><td>bicycle-theft</td><td>2025-10</td><td>On or near Parking Area</td></tr>
+<tr><td>131589781</td><td>bicycle-theft</td><td>2025-10</td><td>On or near Sotherby Drive</td></tr>
+<tr><td>131587645</td><td>bicycle-theft</td><td>2025-10</td><td>On or near Kingsley Gardens</td></tr>
+<tr><td>131587696</td><td>bicycle-theft</td><td>2025-10</td><td>On or near Lansdown Castle Drive</td></tr>
+<tr><td>131590973</td><td>bicycle-theft</td><td>2025-10</td><td>On or near Lansdown Crescent Lane</td></tr>
+<tr><td>131588758</td><td>bicycle-theft</td><td>2025-10</td><td>On or near Redgrove Road</td></tr>
+<tr><td>131589231</td><td>bicycle-theft</td><td>2025-10</td><td>On or near Monks Croft</td></tr>
+<tr><td>131590014</td><td>bicycle-theft</td><td>2025-10</td><td>On or near Lower Mill Street</td></tr>
+<tr><td>131589782</td><td>burglary</td><td>2025-10</td><td>On or near Sotherby Drive</td></tr>
+<tr><td>131590298</td><td>burglary</td><td>2025-10</td><td>On or near Chosen View Road</td></tr>
+<tr><td>131590277</td><td>burglary</td><td>2025-10</td><td>On or near Parking Area</td></tr>
+<tr><td>131590521</td><td>burglary</td><td>2025-10</td><td>On or near Parking Area</td></tr>
+<tr><td>131589698</td><td>burglary</td><td>2025-10</td><td>On or near Shakespeare Road</td></tr>
+<tr><td>131588692</td><td>burglary</td><td>2025-10</td><td>On or near Popes Close</td></tr>
+<tr><td>131588668</td><td>burglary</td><td>2025-10</td><td>On or near Eldorado Road</td></tr>
+<tr><td>131589139</td><td>burglary</td><td>2025-10</td><td>On or near Addis Road</td></tr>
+<tr><td>131587765</td><td>burglary</td><td>2025-10</td><td>On or near Overton Road</td></tr>
+<tr><td>131588982</td><td>burglary</td><td>2025-10</td><td>On or near Brooklyn Gardens</td></tr>
+<tr><td>131590605</td><td>burglary</td><td>2025-10</td><td>On or near Brook Road</td></tr>
+<tr><td>131587809</td><td>burglary</td><td>2025-10</td><td>On or near Queen's Retreat</td></tr>
+<tr><td>131587766</td><td>burglary</td><td>2025-10</td><td>On or near Overton Road</td></tr>
+<tr><td>131590101</td><td>burglary</td><td>2025-10</td><td>On or near Cleeveland Street</td></tr>
+<tr><td>131587509</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Brookbank Close</td></tr>
+<tr><td>131587613</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near St George's Place</td></tr>
+<tr><td>131591154</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Pitman Road</td></tr>
+<tr><td>131589259</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Britten Place</td></tr>
+<tr><td>131589211</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near A4019</td></tr>
+<tr><td>131587789</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Richards Road</td></tr>
+<tr><td>131587844</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Lypiatt Lane</td></tr>
+<tr><td>131587536</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Pennsylvania Mews</td></tr>
+<tr><td>131590346</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Kingsville Road</td></tr>
+<tr><td>131587760</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Cobham Court</td></tr>
+<tr><td>131589268</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near St Peter's Square</td></tr>
+<tr><td>131587614</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near St George's Place</td></tr>
+<tr><td>131587761</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Cobham Court</td></tr>
+<tr><td>131590210</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near New Rutland Court</td></tr>
+<tr><td>131587812</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590262</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Market Street</td></tr>
+<tr><td>131589458</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Lechmere Road</td></tr>
+<tr><td>131587474</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Lewis Road</td></tr>
+<tr><td>131587511</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Old Millbrook Terrace</td></tr>
+<tr><td>131587776</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Grevil Road</td></tr>
+<tr><td>131590135</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Lansdown Terrace Lane</td></tr>
+<tr><td>131589232</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Monks Croft</td></tr>
+<tr><td>131587790</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Richards Road</td></tr>
+<tr><td>131589174</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Bridge Street</td></tr>
+<tr><td>131588999</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Windyridge Gardens</td></tr>
+<tr><td>131591118</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131589413</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Morris Walk</td></tr>
+<tr><td>131590375</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Denman Avenue</td></tr>
+<tr><td>131587558</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Morris Walk</td></tr>
+<tr><td>131589432</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Sheepscombe Close</td></tr>
+<tr><td>131589222</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Pitman Road</td></tr>
+<tr><td>131589159</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Clevedon Square</td></tr>
+<tr><td>131588575</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Westal Park</td></tr>
+<tr><td>131589035</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Beale Road</td></tr>
+<tr><td>131589443</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131590876</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Oldfield Crescent</td></tr>
+<tr><td>131589235</td><td>criminal-damage-arson</td><td>2025-10</td><td>On or near Monks Croft</td></tr>
+<tr><td>131589994</td><td>drugs</td><td>2025-10</td><td>On or near School Mead</td></tr>
+<tr><td>131589616</td><td>drugs</td><td>2025-10</td><td>On or near Yalta Close</td></tr>
+<tr><td>131589040</td><td>drugs</td><td>2025-10</td><td>On or near Victoria Street</td></tr>
+<tr><td>131589234</td><td>drugs</td><td>2025-10</td><td>On or near Monks Croft</td></tr>
+<tr><td>131587643</td><td>drugs</td><td>2025-10</td><td>On or near Swindon Close</td></tr>
+<tr><td>131587298</td><td>drugs</td><td>2025-10</td><td>On or near Ashlands Close</td></tr>
+<tr><td>131588834</td><td>drugs</td><td>2025-10</td><td>On or near Arle Road</td></tr>
+<tr><td>131587642</td><td>drugs</td><td>2025-10</td><td>On or near Swindon Close</td></tr>
+<tr><td>131588914</td><td>drugs</td><td>2025-10</td><td>On or near Hamlet Close</td></tr>
+<tr><td>131587745</td><td>other-theft</td><td>2025-10</td><td>On or near Manchester Way</td></tr>
+<tr><td>131588500</td><td>other-theft</td><td>2025-10</td><td>On or near Granley Drive</td></tr>
+<tr><td>131589433</td><td>other-theft</td><td>2025-10</td><td>On or near Market Street</td></tr>
+<tr><td>131590150</td><td>other-theft</td><td>2025-10</td><td>On or near Jodami Crescent</td></tr>
+<tr><td>131589619</td><td>other-theft</td><td>2025-10</td><td>On or near Eldorado Road</td></tr>
+<tr><td>131588810</td><td>other-theft</td><td>2025-10</td><td>On or near Stanway Road</td></tr>
+<tr><td>131589446</td><td>other-theft</td><td>2025-10</td><td>On or near Huntscote Road</td></tr>
+<tr><td>131588609</td><td>other-theft</td><td>2025-10</td><td>On or near Kingsmead Road</td></tr>
+<tr><td>131589457</td><td>other-theft</td><td>2025-10</td><td>On or near Lechmere Road</td></tr>
+<tr><td>131589146</td><td>other-theft</td><td>2025-10</td><td>On or near Dorset Avenue</td></tr>
+<tr><td>131589263</td><td>other-theft</td><td>2025-10</td><td>On or near Lucinia Mews</td></tr>
+<tr><td>131588900</td><td>other-theft</td><td>2025-10</td><td>On or near Millbrook Gardens</td></tr>
+<tr><td>131589260</td><td>other-theft</td><td>2025-10</td><td>On or near Newton Close</td></tr>
+<tr><td>131587838</td><td>other-theft</td><td>2025-10</td><td>On or near Libertus Place</td></tr>
+<tr><td>131590694</td><td>other-theft</td><td>2025-10</td><td>On or near Nightclub</td></tr>
+<tr><td>131587827</td><td>other-theft</td><td>2025-10</td><td>On or near Lechmere Road</td></tr>
+<tr><td>131587824</td><td>other-theft</td><td>2025-10</td><td>On or near Goldsmith Close</td></tr>
+<tr><td>131587289</td><td>possession-of-weapons</td><td>2025-10</td><td>On or near Essex Avenue</td></tr>
+<tr><td>131588501</td><td>possession-of-weapons</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131588908</td><td>public-order</td><td>2025-10</td><td>On or near Merriville Road</td></tr>
+<tr><td>131587644</td><td>public-order</td><td>2025-10</td><td>On or near Kingsley Gardens</td></tr>
+<tr><td>131587648</td><td>public-order</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589607</td><td>public-order</td><td>2025-10</td><td>On or near Parking Area</td></tr>
+<tr><td>131591214</td><td>public-order</td><td>2025-10</td><td>On or near Neptune Business Centre</td></tr>
+<tr><td>131591114</td><td>public-order</td><td>2025-10</td><td>On or near Guinevere Road</td></tr>
+<tr><td>131591036</td><td>public-order</td><td>2025-10</td><td>On or near Huntscote Road</td></tr>
+<tr><td>131590374</td><td>public-order</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589467</td><td>public-order</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131589236</td><td>public-order</td><td>2025-10</td><td>On or near Monks Croft</td></tr>
+<tr><td>131590165</td><td>public-order</td><td>2025-10</td><td>On or near Pinewood Drive</td></tr>
+<tr><td>131589210</td><td>public-order</td><td>2025-10</td><td>On or near Wasley Road</td></tr>
+<tr><td>131588980</td><td>public-order</td><td>2025-10</td><td>On or near Ashlands Close</td></tr>
+<tr><td>131587756</td><td>public-order</td><td>2025-10</td><td>On or near Orchard Way</td></tr>
+<tr><td>131587828</td><td>public-order</td><td>2025-10</td><td>On or near Lechmere Road</td></tr>
+<tr><td>131587561</td><td>public-order</td><td>2025-10</td><td>On or near Pitman Road</td></tr>
+<tr><td>131587463</td><td>public-order</td><td>2025-10</td><td>On or near Shakespeare Road</td></tr>
+<tr><td>131589435</td><td>public-order</td><td>2025-10</td><td>On or near Vine Court</td></tr>
+<tr><td>131590833</td><td>public-order</td><td>2025-10</td><td>On or near Wasley Road</td></tr>
+<tr><td>131589140</td><td>public-order</td><td>2025-10</td><td>On or near Addis Road</td></tr>
+<tr><td>131589810</td><td>public-order</td><td>2025-10</td><td>On or near Kingsditch Lane</td></tr>
+<tr><td>131589046</td><td>public-order</td><td>2025-10</td><td>On or near Welch Road</td></tr>
+<tr><td>131587793</td><td>public-order</td><td>2025-10</td><td>On or near Vine Court</td></tr>
+<tr><td>131587819</td><td>public-order</td><td>2025-10</td><td>On or near St Paul's Street North</td></tr>
+<tr><td>131587841</td><td>public-order</td><td>2025-10</td><td>On or near Hamlet Close</td></tr>
+<tr><td>131587604</td><td>robbery</td><td>2025-10</td><td>On or near Milton Road</td></tr>
+<tr><td>131587326</td><td>robbery</td><td>2025-10</td><td>On or near Tanner's Road</td></tr>
+<tr><td>131587788</td><td>robbery</td><td>2025-10</td><td>On or near Richards Road</td></tr>
+<tr><td>131589470</td><td>robbery</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131590016</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590017</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589468</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131589469</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131590021</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589847</td><td>shoplifting</td><td>2025-10</td><td>On or near Listening Post Close</td></tr>
+<tr><td>131589652</td><td>shoplifting</td><td>2025-10</td><td>On or near Evington Road</td></tr>
+<tr><td>131590027</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589582</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131590015</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590018</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590019</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590023</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589465</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131590020</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590024</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590026</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590028</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590030</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589473</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131590029</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131590086</td><td>shoplifting</td><td>2025-10</td><td>On or near Knapp Lane</td></tr>
+<tr><td>131590025</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589519</td><td>shoplifting</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131589471</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131589583</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131587649</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589585</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131589587</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131589580</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131590529</td><td>shoplifting</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131590453</td><td>shoplifting</td><td>2025-10</td><td>On or near Evington Road</td></tr>
+<tr><td>131589581</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131589466</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131587811</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589521</td><td>shoplifting</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131591215</td><td>shoplifting</td><td>2025-10</td><td>On or near Neptune Business Centre</td></tr>
+<tr><td>131587813</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589586</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131589584</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131589914</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589588</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131590022</td><td>shoplifting</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589472</td><td>shoplifting</td><td>2025-10</td><td>On or near Supermarket</td></tr>
+<tr><td>131590362</td><td>shoplifting</td><td>2025-10</td><td>On or near Knapp Lane</td></tr>
+<tr><td>131590013</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Lower Mill Street</td></tr>
+<tr><td>131589115</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Hope Street</td></tr>
+<tr><td>131587293</td><td>vehicle-crime</td><td>2025-10</td><td>On or near College Drive</td></tr>
+<tr><td>131590972</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Lansdown Crescent Lane</td></tr>
+<tr><td>131591037</td><td>vehicle-crime</td><td>2025-10</td><td>On or near St Paul's Street South</td></tr>
+<tr><td>131587391</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Benhall Avenue</td></tr>
+<tr><td>131587829</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Lechmere Road</td></tr>
+<tr><td>131587548</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Bayshill Lane</td></tr>
+<tr><td>131589596</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Parabola Lane</td></tr>
+<tr><td>131587324</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Bodnam Road</td></tr>
+<tr><td>131587549</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Bayshill Lane</td></tr>
+<tr><td>131587775</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Grevil Road</td></tr>
+<tr><td>131591211</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Kingsville Road</td></tr>
+<tr><td>131589825</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Lansdown Castle Drive</td></tr>
+<tr><td>131587470</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Lansdown Place Lane</td></tr>
+<tr><td>131588414</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Glencairn Park Road</td></tr>
+<tr><td>131587808</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Lansdown Place Lane</td></tr>
+<tr><td>131590231</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Newton Close</td></tr>
+<tr><td>131587807</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Cornwall Avenue</td></tr>
+<tr><td>131587764</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Overton Road</td></tr>
+<tr><td>131589434</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Vine Court</td></tr>
+<tr><td>131590069</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Bus/coach Station</td></tr>
+<tr><td>131588796</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Grevil Road</td></tr>
+<tr><td>131588629</td><td>vehicle-crime</td><td>2025-10</td><td>On or near Lansdown Parade</td></tr>
+<tr><td>131589196</td><td>violent-crime</td><td>2025-10</td><td>On or near Cowper Road</td></tr>
+<tr><td>131589191</td><td>violent-crime</td><td>2025-10</td><td>On or near Godfrey Close</td></tr>
+<tr><td>131589173</td><td>violent-crime</td><td>2025-10</td><td>On or near Bridge Street</td></tr>
+<tr><td>131589171</td><td>violent-crime</td><td>2025-10</td><td>On or near Bridge Street</td></tr>
+<tr><td>131589170</td><td>violent-crime</td><td>2025-10</td><td>On or near Bridge Street</td></tr>
+<tr><td>131589162</td><td>violent-crime</td><td>2025-10</td><td>On or near Clevedon Square</td></tr>
+<tr><td>131589161</td><td>violent-crime</td><td>2025-10</td><td>On or near Clevedon Square</td></tr>
+<tr><td>131589160</td><td>violent-crime</td><td>2025-10</td><td>On or near Clevedon Square</td></tr>
+<tr><td>131589152</td><td>violent-crime</td><td>2025-10</td><td>On or near Hawthorn Road</td></tr>
+<tr><td>131589142</td><td>violent-crime</td><td>2025-10</td><td>On or near Addis Road</td></tr>
+<tr><td>131589453</td><td>violent-crime</td><td>2025-10</td><td>On or near St Paul's Street South</td></tr>
+<tr><td>131589112</td><td>violent-crime</td><td>2025-10</td><td>On or near Alstone Lane</td></tr>
+<tr><td>131589111</td><td>violent-crime</td><td>2025-10</td><td>On or near Alstone Lane</td></tr>
+<tr><td>131589110</td><td>violent-crime</td><td>2025-10</td><td>On or near Alstone Lane</td></tr>
+<tr><td>131589082</td><td>violent-crime</td><td>2025-10</td><td>On or near Hamlet Close</td></tr>
+<tr><td>131589072</td><td>violent-crime</td><td>2025-10</td><td>On or near School Mead</td></tr>
+<tr><td>131589045</td><td>violent-crime</td><td>2025-10</td><td>On or near Welch Road</td></tr>
+<tr><td>131589047</td><td>violent-crime</td><td>2025-10</td><td>On or near Ismay Road</td></tr>
+<tr><td>131589011</td><td>violent-crime</td><td>2025-10</td><td>On or near Hillfield</td></tr>
+<tr><td>131589000</td><td>violent-crime</td><td>2025-10</td><td>On or near Windyridge Gardens</td></tr>
+<tr><td>132035816</td><td>violent-crime</td><td>2025-10</td><td>On or near Lechmere Road</td></tr>
+<tr><td>131590067</td><td>violent-crime</td><td>2025-10</td><td>On or near Parking Area</td></tr>
+<tr><td>131590085</td><td>violent-crime</td><td>2025-10</td><td>On or near Knapp Lane</td></tr>
+<tr><td>131587850</td><td>violent-crime</td><td>2025-10</td><td>On or near Grevil Road</td></tr>
+<tr><td>131589555</td><td>violent-crime</td><td>2025-10</td><td>On or near Cassin Drive</td></tr>
+<tr><td>131589691</td><td>violent-crime</td><td>2025-10</td><td>On or near Yalta Close</td></tr>
+<tr><td>131588725</td><td>violent-crime</td><td>2025-10</td><td>On or near Shakespeare Road</td></tr>
+<tr><td>131588801</td><td>violent-crime</td><td>2025-10</td><td>On or near Pilgrove Close</td></tr>
+<tr><td>131589692</td><td>violent-crime</td><td>2025-10</td><td>On or near Yalta Close</td></tr>
+<tr><td>131589707</td><td>violent-crime</td><td>2025-10</td><td>On or near Elm Close</td></tr>
+<tr><td>131590584</td><td>violent-crime</td><td>2025-10</td><td>On or near Nightclub</td></tr>
+<tr><td>131589141</td><td>violent-crime</td><td>2025-10</td><td>On or near Addis Road</td></tr>
+<tr><td>131589144</td><td>violent-crime</td><td>2025-10</td><td>On or near Addis Road</td></tr>
+<tr><td>131589145</td><td>violent-crime</td><td>2025-10</td><td>On or near Compton Road</td></tr>
+<tr><td>131589169</td><td>violent-crime</td><td>2025-10</td><td>On or near Bridge Street</td></tr>
+<tr><td>131589172</td><td>violent-crime</td><td>2025-10</td><td>On or near Bridge Street</td></tr>
+<tr><td>131590188</td><td>violent-crime</td><td>2025-10</td><td>On or near Royal Parade Mews</td></tr>
+<tr><td>131589229</td><td>violent-crime</td><td>2025-10</td><td>On or near Monks Croft</td></tr>
+<tr><td>131590122</td><td>violent-crime</td><td>2025-10</td><td>On or near Cleeveland Street</td></tr>
+<tr><td>131589233</td><td>violent-crime</td><td>2025-10</td><td>On or near Monks Croft</td></tr>
+<tr><td>131590103</td><td>violent-crime</td><td>2025-10</td><td>On or near Cleeveland Street</td></tr>
+<tr><td>131589335</td><td>violent-crime</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589409</td><td>violent-crime</td><td>2025-10</td><td>On or near Hamlet Close</td></tr>
+<tr><td>131589511</td><td>violent-crime</td><td>2025-10</td><td>On or near St Paul's Street South</td></tr>
+<tr><td>131589522</td><td>violent-crime</td><td>2025-10</td><td>On or near Malvern Road</td></tr>
+<tr><td>131589578</td><td>violent-crime</td><td>2025-10</td><td>On or near Parabola Lane</td></tr>
+<tr><td>131589579</td><td>violent-crime</td><td>2025-10</td><td>On or near Parabola Lane</td></tr>
+<tr><td>131589624</td><td>violent-crime</td><td>2025-10</td><td>On or near Kingsbridge Mews</td></tr>
+<tr><td>131589948</td><td>violent-crime</td><td>2025-10</td><td>On or near Seabright Close</td></tr>
+<tr><td>131587831</td><td>violent-crime</td><td>2025-10</td><td>On or near Lansdown Terrace Lane</td></tr>
+<tr><td>131589267</td><td>violent-crime</td><td>2025-10</td><td>On or near St Peter's Square</td></tr>
+<tr><td>131589143</td><td>violent-crime</td><td>2025-10</td><td>On or near Addis Road</td></tr>
+<tr><td>131589410</td><td>violent-crime</td><td>2025-10</td><td>On or near Millbrook Gardens</td></tr>
+<tr><td>131589411</td><td>violent-crime</td><td>2025-10</td><td>On or near Millbrook Gardens</td></tr>
+<tr><td>131589991</td><td>violent-crime</td><td>2025-10</td><td>On or near Grove Street</td></tr>
+<tr><td>131589187</td><td>violent-crime</td><td>2025-10</td><td>On or near Moors Avenue</td></tr>
+<tr><td>131587832</td><td>violent-crime</td><td>2025-10</td><td>On or near Lansdown Terrace Lane</td></tr>
+<tr><td>131588652</td><td>violent-crime</td><td>2025-10</td><td>On or near Morris Walk</td></tr>
+<tr><td>131587810</td><td>violent-crime</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131587798</td><td>violent-crime</td><td>2025-10</td><td>On or near Edinburgh Place</td></tr>
+<tr><td>131590674</td><td>violent-crime</td><td>2025-10</td><td>On or near School Mead</td></tr>
+<tr><td>131587792</td><td>violent-crime</td><td>2025-10</td><td>On or near Bullingham Court</td></tr>
+<tr><td>131587825</td><td>violent-crime</td><td>2025-10</td><td>On or near Amberley Road</td></tr>
+<tr><td>131587405</td><td>violent-crime</td><td>2025-10</td><td>On or near Draycot Road</td></tr>
+<tr><td>131587784</td><td>violent-crime</td><td>2025-10</td><td>On or near Terry Ruck Close</td></tr>
+<tr><td>131587767</td><td>violent-crime</td><td>2025-10</td><td>On or near Overton Road</td></tr>
+<tr><td>131587522</td><td>violent-crime</td><td>2025-10</td><td>On or near New Street</td></tr>
+<tr><td>131587821</td><td>violent-crime</td><td>2025-10</td><td>On or near Queens Lane</td></tr>
+<tr><td>131587731</td><td>violent-crime</td><td>2025-10</td><td>On or near Stow Court</td></tr>
+<tr><td>131587535</td><td>violent-crime</td><td>2025-10</td><td>On or near Orchard Avenue</td></tr>
+<tr><td>131587564</td><td>violent-crime</td><td>2025-10</td><td>On or near Sotherby Drive</td></tr>
+<tr><td>131590290</td><td>violent-crime</td><td>2025-10</td><td>On or near St Aidans Close</td></tr>
+<tr><td>131590506</td><td>violent-crime</td><td>2025-10</td><td>On or near Welch Road</td></tr>
+<tr><td>131590498</td><td>violent-crime</td><td>2025-10</td><td>On or near Parking Area</td></tr>
+<tr><td>131590220</td><td>violent-crime</td><td>2025-10</td><td>On or near Lansdown Parade</td></tr>
+<tr><td>131588741</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588832</td><td>violent-crime</td><td>2025-10</td><td>On or near Arle Road</td></tr>
+<tr><td>131589039</td><td>violent-crime</td><td>2025-10</td><td>On or near Victoria Street</td></tr>
+<tr><td>131587732</td><td>violent-crime</td><td>2025-10</td><td>On or near Stow Court</td></tr>
+<tr><td>131590102</td><td>violent-crime</td><td>2025-10</td><td>On or near Cleeveland Street</td></tr>
+<tr><td>131591003</td><td>violent-crime</td><td>2025-10</td><td>On or near Pinewood Drive</td></tr>
+<tr><td>131590098</td><td>violent-crime</td><td>2025-10</td><td>On or near St Georges Road</td></tr>
+<tr><td>131591004</td><td>violent-crime</td><td>2025-10</td><td>On or near Pinewood Drive</td></tr>
+<tr><td>131589230</td><td>violent-crime</td><td>2025-10</td><td>On or near Monks Croft</td></tr>
+<tr><td>131589219</td><td>violent-crime</td><td>2025-10</td><td>On or near Pates Avenue</td></tr>
+<tr><td>131589557</td><td>violent-crime</td><td>2025-10</td><td>On or near Seacome Road</td></tr>
+<tr><td>131589558</td><td>violent-crime</td><td>2025-10</td><td>On or near Seacome Road</td></tr>
+<tr><td>131588891</td><td>violent-crime</td><td>2025-10</td><td>On or near Aldridge Close</td></tr>
+<tr><td>131588885</td><td>violent-crime</td><td>2025-10</td><td>On or near Barlow Road</td></tr>
+<tr><td>131589560</td><td>violent-crime</td><td>2025-10</td><td>On or near St Aidans Close</td></tr>
+<tr><td>131588833</td><td>violent-crime</td><td>2025-10</td><td>On or near Arle Road</td></tr>
+<tr><td>131588750</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588749</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588748</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588747</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588746</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588745</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588744</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588743</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588742</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588739</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131588709</td><td>violent-crime</td><td>2025-10</td><td>On or near Dunelm Close</td></tr>
+<tr><td>131588981</td><td>violent-crime</td><td>2025-10</td><td>On or near Brooklyn Gardens</td></tr>
+<tr><td>131589563</td><td>violent-crime</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131588468</td><td>violent-crime</td><td>2025-10</td><td>On or near Essex Avenue</td></tr>
+<tr><td>131587823</td><td>violent-crime</td><td>2025-10</td><td>On or near Edinburgh Place</td></tr>
+<tr><td>131587820</td><td>violent-crime</td><td>2025-10</td><td>On or near St Paul's Street North</td></tr>
+<tr><td>131587818</td><td>violent-crime</td><td>2025-10</td><td>On or near St Paul's Street North</td></tr>
+<tr><td>131587817</td><td>violent-crime</td><td>2025-10</td><td>On or near Listening Post Close</td></tr>
+<tr><td>131587816</td><td>violent-crime</td><td>2025-10</td><td>On or near Brown Close</td></tr>
+<tr><td>131589564</td><td>violent-crime</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131587791</td><td>violent-crime</td><td>2025-10</td><td>On or near Swindon Road</td></tr>
+<tr><td>131587783</td><td>violent-crime</td><td>2025-10</td><td>On or near Terry Ruck Close</td></tr>
+<tr><td>131587774</td><td>violent-crime</td><td>2025-10</td><td>On or near Netherwood Gardens</td></tr>
+<tr><td>131588440</td><td>violent-crime</td><td>2025-10</td><td>On or near Brown Close</td></tr>
+<tr><td>131587755</td><td>violent-crime</td><td>2025-10</td><td>On or near Orchard Way</td></tr>
+<tr><td>131587754</td><td>violent-crime</td><td>2025-10</td><td>On or near Orchard Way</td></tr>
+<tr><td>131587660</td><td>violent-crime</td><td>2025-10</td><td>On or near White Hart Street</td></tr>
+<tr><td>131587837</td><td>violent-crime</td><td>2025-10</td><td>On or near Eldorado Road</td></tr>
+<tr><td>131587830</td><td>violent-crime</td><td>2025-10</td><td>On or near Redgrove Road</td></tr>
+<tr><td>131588740</td><td>violent-crime</td><td>2025-10</td><td>On or near Gravney Court</td></tr>
+<tr><td>131587566</td><td>violent-crime</td><td>2025-10</td><td>On or near Sotherby Drive</td></tr>
+<tr><td>131587565</td><td>violent-crime</td><td>2025-10</td><td>On or near Sotherby Drive</td></tr>
+<tr><td>131587512</td><td>violent-crime</td><td>2025-10</td><td>On or near Moors Avenue</td></tr>
+<tr><td>131587454</td><td>violent-crime</td><td>2025-10</td><td>On or near Ismay Road</td></tr>
+<tr><td>131589520</td><td>violent-crime</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131590048</td><td>violent-crime</td><td>2025-10</td><td>On or near Brookbank Close</td></tr>
+<tr><td>131589817</td><td>violent-crime</td><td>2025-10</td><td>On or near Further/higher Educational Building</td></tr>
+<tr><td>131589347</td><td>violent-crime</td><td>2025-10</td><td>On or near Ambrose Place</td></tr>
+<tr><td>131589277</td><td>violent-crime</td><td>2025-10</td><td>On or near Townsend Street</td></tr>
+<tr><td>131589657</td><td>violent-crime</td><td>2025-10</td><td>On or near Ellison Road</td></tr>
+<tr><td>131589655</td><td>violent-crime</td><td>2025-10</td><td>On or near Knapp Lane</td></tr>
+<tr><td>131589633</td><td>violent-crime</td><td>2025-10</td><td>On or near Kingsbridge Mews</td></tr>
+<tr><td>131589632</td><td>violent-crime</td><td>2025-10</td><td>On or near Kingsbridge Mews</td></tr>
+<tr><td>131589631</td><td>violent-crime</td><td>2025-10</td><td>On or near Kingsbridge Mews</td></tr>
+<tr><td>131589628</td><td>violent-crime</td><td>2025-10</td><td>On or near Kingsbridge Mews</td></tr>
+<tr><td>131589627</td><td>violent-crime</td><td>2025-10</td><td>On or near Kingsbridge Mews</td></tr>
+<tr><td>131589626</td><td>violent-crime</td><td>2025-10</td><td>On or near Kingsbridge Mews</td></tr>
+<tr><td>131589625</td><td>violent-crime</td><td>2025-10</td><td>On or near Kingsbridge Mews</td></tr>
+<tr><td>131589623</td><td>violent-crime</td><td>2025-10</td><td>On or near Kingsbridge Mews</td></tr>
+<tr><td>131589270</td><td>violent-crime</td><td>2025-10</td><td>On or near St Peter's Square</td></tr>
+<tr><td>131589269</td><td>violent-crime</td><td>2025-10</td><td>On or near St Peter's Square</td></tr>
+<tr><td>131589968</td><td>violent-crime</td><td>2025-10</td><td>On or near Rosebay Gardens</td></tr>
+<tr><td>131589266</td><td>violent-crime</td><td>2025-10</td><td>On or near St Peter's Square</td></tr>
+<tr><td>131589969</td><td>violent-crime</td><td>2025-10</td><td>On or near Rosebay Gardens</td></tr>
+<tr><td>131589262</td><td>violent-crime</td><td>2025-10</td><td>On or near Newton Close</td></tr>
+<tr><td>131589271</td><td>violent-crime</td><td>2025-10</td><td>On or near Swindon Street</td></tr>
+<tr><td>131589615</td><td>violent-crime</td><td>2025-10</td><td>On or near Yalta Close</td></tr>
+<tr><td>131589261</td><td>violent-crime</td><td>2025-10</td><td>On or near Newton Close</td></tr>
+<tr><td>131589197</td><td>violent-crime</td><td>2025-10</td><td>On or near Cowper Road</td></tr>
+<tr><td>131587567</td><td>violent-crime</td><td>2025-10</td><td>On or near Sotherby Drive</td></tr>
+<tr><td>131590693</td><td>violent-crime</td><td>2025-10</td><td>On or near Grove Street</td></tr>
+<tr><td>131590390</td><td>violent-crime</td><td>2025-10</td><td>On or near Shopping Area</td></tr>
+<tr><td>131589237</td><td>violent-crime</td><td>2025-10</td><td>On or near Monks Croft</td></tr>
+<tr><td>131587621</td><td>other-crime</td><td>2025-10</td><td>On or near Moors Avenue</td></tr>
+<tr><td>131588973</td><td>other-crime</td><td>2025-10</td><td>On or near Coppice Gate</td></tr>
+<tr><td>131587787</td><td>other-crime</td><td>2025-10</td><td>On or near Compton Road</td></tr>
+<tr><td>131587826</td><td>other-crime</td><td>2025-10</td><td>On or near Amberley Road</td></tr>
+<tr><td>131590035</td><td>other-crime</td><td>2025-10</td><td>On or near Petrol Station</td></tr>
+<tr><td>131589192</td><td>other-crime</td><td>2025-10</td><td>On or near Godfrey Close</td></tr>
+<tr><td>131587534</td><td>other-crime</td><td>2025-10</td><td>On or near Orchard Avenue</td></tr>
 <!-- table_marker ends -->
     </tbody>
 </table>

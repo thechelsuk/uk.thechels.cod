@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 10 December 2025
 
-- The average temperature today is 10.28˚C,
-- With highs of 11.1˚C and lows of 9.27˚C,
-- It may feel like 9.5˚C with overcast clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 82%
+- The average temperature today is 10.97˚C,
+- With highs of 11.51˚C and lows of 10.47˚C,
+- It may feel like 10.34˚C with scattered clouds
+- The wind speed is 6.26m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 85%
 - The sun will rise at 08:05 and set at 15:57
 
 <!-- weather_marker ends -->

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large hols, 11th December :- [8536527](https://www.fixmystreet.com/report/8536527)
+- Large tree stump on grass verge, 11th December :- [8536497](https://www.fixmystreet.com/report/8536497)
+- Large (like 2ft diameter) hole in top surface., 11th December :- [8536447](https://www.fixmystreet.com/report/8536447)
+- Loud noise every time driven over, 11th December :- [8536362](https://www.fixmystreet.com/report/8536362)
 - Resurfaced road already deteriorated!, 11th December :- [8536171](https://www.fixmystreet.com/report/8536171)
 - Broken Contractor Sign Twisted in Verge Near Road, 11th December :- [8536054](https://www.fixmystreet.com/report/8536054)
 - Large deep pot-hole in road, before corner, 11th December :- [8536048](https://www.fixmystreet.com/report/8536048)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Tesco trolley abandoned, 11th December :- [8534589](https://www.fixmystreet.com/report/8534589)
 - Continuous flow of water out of road due to broken storm drain, 11th December :- [8534236](https://www.fixmystreet.com/report/8534236)
 - Missing sign for Restricted Byway, 11th December :- [8533894](https://www.fixmystreet.com/report/8533894)
-- Large series of dangerous potholes are growing, 11th December :- [8533670](https://www.fixmystreet.com/report/8533670)
-- Very deep pothole edge of road, difficult to avoid as road very narrow, 11th December :- [8533340](https://www.fixmystreet.com/report/8533340)
-- Large and deep potholes along marsland road, 11th December :- [8533338](https://www.fixmystreet.com/report/8533338)
-- Pothole adjacent to previous repair centre of road, 11th December :- [8533294](https://www.fixmystreet.com/report/8533294)
 
 <!-- fix_marker ends -->

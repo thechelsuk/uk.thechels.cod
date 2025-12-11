@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge series of potholes when turning left from Greenhills Road onto Moorend Road, 11th December :- [8534976](https://www.fixmystreet.com/report/8534976)
+- Blocked drain on Battledown Approach, 11th December :- [8534952](https://www.fixmystreet.com/report/8534952)
+- The drain is blocked problem, 11th December :- [8534860](https://www.fixmystreet.com/report/8534860)
 - Flytipping and rubbish by brook., 11th December :- [8534625](https://www.fixmystreet.com/report/8534625)
 - Tesco trolley abandoned, 11th December :- [8534589](https://www.fixmystreet.com/report/8534589)
 - Continuous flow of water out of road due to broken storm drain, 11th December :- [8534236](https://www.fixmystreet.com/report/8534236)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -FW6 Potholes problem, 11th December :- [8533218](https://www.fixmystreet.com/report/8533218)
 - TMC - Defects -CW6 Potholes  problem, 11th December :- [8533005](https://www.fixmystreet.com/report/8533005)
 - Constant rubbish blocking the pavement, 11th December :- [8532949](https://www.fixmystreet.com/report/8532949)
-- 2 large potholes on both sides of this fast road, cars swerving to avoid., 11th December :- [8532566](https://www.fixmystreet.com/report/8532566)
-- Pothole on the railway bridge in road, 11th December :- [8532472](https://www.fixmystreet.com/report/8532472)
-- TMC - Defects - Other FW6  Surface problem, 11th December :- [8532516](https://www.fixmystreet.com/report/8532516)
 
 <!-- fix_marker ends -->

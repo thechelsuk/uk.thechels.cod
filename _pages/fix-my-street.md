@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sharp edged pothole on entrance to windyridge road, 11th December :- [8535884](https://www.fixmystreet.com/report/8535884)
+- Footbridge Rotten, 11th December :- [8535740](https://www.fixmystreet.com/report/8535740)
+- Drain is blocked and road flooding, 11th December :- [8535669](https://www.fixmystreet.com/report/8535669)
 - Huge series of potholes when turning left from Greenhills Road onto Moorend Road, 11th December :- [8534976](https://www.fixmystreet.com/report/8534976)
 - Blocked drain on Battledown Approach, 11th December :- [8534952](https://www.fixmystreet.com/report/8534952)
 - The drain is blocked problem, 11th December :- [8534860](https://www.fixmystreet.com/report/8534860)
@@ -25,9 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 11th December :- [8533458](https://www.fixmystreet.com/report/8533458)
 - TMC - Defects -CW6 Potholes  problem, 11th December :- [8533223](https://www.fixmystreet.com/report/8533223)
 - TMC - Defects -CW6 Potholes  problem, 11th December :- [8533222](https://www.fixmystreet.com/report/8533222)
-- TMC - Defects -FW6 Potholes problem, 11th December :- [8533219](https://www.fixmystreet.com/report/8533219)
 - TMC - Defects -FW6 Potholes problem, 11th December :- [8533218](https://www.fixmystreet.com/report/8533218)
-- TMC - Defects -CW6 Potholes  problem, 11th December :- [8533005](https://www.fixmystreet.com/report/8533005)
-- Constant rubbish blocking the pavement, 11th December :- [8532949](https://www.fixmystreet.com/report/8532949)
 
 <!-- fix_marker ends -->

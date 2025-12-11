@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The light is out on column 22 Stoke Road, Bishops Cleeve, 11th December :- [8531671](https://www.fixmystreet.com/report/8531671)
+- Very Large pothole as heading towards cleeve from Wyman’s Lane, 10th December :- [8531527](https://www.fixmystreet.com/report/8531527)
 - Road signs left, 10th December :- [8531518](https://www.fixmystreet.com/report/8531518)
 - Road signs left after previous road closures, 10th December :- [8531514](https://www.fixmystreet.com/report/8531514)
 - Lights as pictured on Griffiths Avenue, 10th December :- [8531475](https://www.fixmystreet.com/report/8531475)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 10th December :- [8530467](https://www.fixmystreet.com/report/8530467)
 - Large pothole, 10th December :- [8530142](https://www.fixmystreet.com/report/8530142)
 - TMC - Defects -CW6 Potholes  problem, 10th December :- [8529622](https://www.fixmystreet.com/report/8529622)
-- TMC - Defects -FW6 Potholes problem, 10th December :- [8529603](https://www.fixmystreet.com/report/8529603)
-- TMC - Defects -FW6 Potholes problem, 10th December :- [8529602](https://www.fixmystreet.com/report/8529602)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 11 December 2025
 
-- The average temperature today is 8.7˚C,
-- With highs of 9.43˚C and lows of 8.07˚C,
-- It may feel like 6.87˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 87%
+- The average temperature today is 8.98˚C,
+- With highs of 9.99˚C and lows of 7.69˚C,
+- It may feel like 7.49˚C with broken clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 86%
 - The sun will rise at 08:06 and set at 15:57
 
 <!-- weather_marker ends -->

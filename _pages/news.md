@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- More than 900 Santas take part in charity fun run ([3 hours ago](https://www.bbc.com/news/articles/cpwkn5rlgvqo?at_medium=RSS&at_campaign=rss))
-- 'Bullying' councillor banned from meetings ([4 hours ago](https://www.bbc.com/news/articles/c14vv3yez00o?at_medium=RSS&at_campaign=rss))
-- What went wrong with Gloucester City Council's finances? ([11 hours ago](https://www.bbc.com/news/articles/c93nn072lvro?at_medium=RSS&at_campaign=rss))
-- 'Fading heart' and 'four men wanted in museum heist' ([11 hours ago](https://www.bbc.com/news/articles/cvgqvw7171zo?at_medium=RSS&at_campaign=rss))
+- More than 900 Santas take part in charity fun run ([5 hours ago](https://www.bbc.com/news/articles/cpwkn5rlgvqo?at_medium=RSS&at_campaign=rss))
+- 'Bullying' councillor banned from meetings ([6 hours ago](https://www.bbc.com/news/articles/c14vv3yez00o?at_medium=RSS&at_campaign=rss))
+- What went wrong with Gloucester City Council's finances? ([13 hours ago](https://www.bbc.com/news/articles/c93nn072lvro?at_medium=RSS&at_campaign=rss))
+- 'Fading heart' and 'four men wanted in museum heist' ([13 hours ago](https://www.bbc.com/news/articles/cvgqvw7171zo?at_medium=RSS&at_campaign=rss))
 - Bailiff turns up at council to collect payment ([1 days ago](https://www.bbc.com/news/articles/c8988d490yzo?at_medium=RSS&at_campaign=rss))
 - Daring Dippers take the plunge for charity ([1 days ago](https://gloucesternewscentre.co.uk/daring-dippers-take-the-plunge-for-charity/))
 - Questions over airport sale amid fears deal is in trouble ([1 days ago](https://gloucesternewscentre.co.uk/questions-over-airport-sale-amid-fears-deal-is-in-trouble/))

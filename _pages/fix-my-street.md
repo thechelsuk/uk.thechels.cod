@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several large potholes on Ullenwood Lane, 14th December :- [8544612](https://www.fixmystreet.com/report/8544612)
+- Two pot holes on Druro Road, 14th December :- [8544359](https://www.fixmystreet.com/report/8544359)
+- Street Light outside 11 Robinswood Close is out, 14th December :- [8544324](https://www.fixmystreet.com/report/8544324)
 - The whole road needs re surfacing as it is in dyer need, 14th December :- [8544214](https://www.fixmystreet.com/report/8544214)
 - Over M5 bridge blocked drains, 14th December :- [8544032](https://www.fixmystreet.com/report/8544032)
 - High Illuminated Bollard Light Out, 13th December :- [8543744](https://www.fixmystreet.com/report/8543744)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole on Woodland Road opposite junction to st Michael’s Road, 13th December :- [8542343](https://www.fixmystreet.com/report/8542343)
 - Two potholes near kerb on Woodlands Road - opposite kerb of other reports, 13th December :- [8542336](https://www.fixmystreet.com/report/8542336)
 - Two potholes near kerb outside 3 Woodlands Road, 13th December :- [8542323](https://www.fixmystreet.com/report/8542323)
-- Two potholes outside 3 Woodlands Road, 13th December :- [8542317](https://www.fixmystreet.com/report/8542317)
-- Rapidly deteriorating pothole in the road, 13th December :- [8542236](https://www.fixmystreet.com/report/8542236)
-- Multiple potholes, 13th December :- [8542044](https://www.fixmystreet.com/report/8542044)
 
 <!-- fix_marker ends -->

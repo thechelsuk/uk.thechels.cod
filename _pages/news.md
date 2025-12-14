@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Recycling centre to stay closed until after Easter ([4 hours ago](https://www.bbc.com/news/articles/c1j9e2dzy1eo?at_medium=RSS&at_campaign=rss))
-- Winter railway timetable gets under way in the West ([10 hours ago](https://www.bbc.com/news/articles/c3v1errk9vlo?at_medium=RSS&at_campaign=rss))
-- 'Storm surge' and 'Christmas banquet' ([13 hours ago](https://www.bbc.com/news/articles/clydz8gvg41o?at_medium=RSS&at_campaign=rss))
-- Rare microscope uncovered at house sells for £18k ([13 hours ago](https://www.bbc.com/news/articles/cpwkv44kznwo?at_medium=RSS&at_campaign=rss))
+- Recycling centre to stay closed until after Easter ([6 hours ago](https://www.bbc.com/news/articles/c1j9e2dzy1eo?at_medium=RSS&at_campaign=rss))
+- Winter railway timetable gets under way in the West ([12 hours ago](https://www.bbc.com/news/articles/c3v1errk9vlo?at_medium=RSS&at_campaign=rss))
+- 'Storm surge' and 'Christmas banquet' ([15 hours ago](https://www.bbc.com/news/articles/clydz8gvg41o?at_medium=RSS&at_campaign=rss))
+- Rare microscope uncovered at house sells for £18k ([15 hours ago](https://www.bbc.com/news/articles/cpwkv44kznwo?at_medium=RSS&at_campaign=rss))
 - More than 900 Santas take part in charity fun run ([1 days ago](https://www.bbc.com/news/articles/cpwkn5rlgvqo?at_medium=RSS&at_campaign=rss))
 - 'Bullying' councillor banned from meetings ([1 days ago](https://www.bbc.com/news/articles/c14vv3yez00o?at_medium=RSS&at_campaign=rss))
 - What went wrong with Gloucester City Council's finances? ([1 days ago](https://www.bbc.com/news/articles/c93nn072lvro?at_medium=RSS&at_campaign=rss))

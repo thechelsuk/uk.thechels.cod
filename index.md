@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 14 December 2025
 
-- The average temperature today is 11.17˚C,
-- With highs of 11.75˚C and lows of 10.16˚C,
-- It may feel like 10.46˚C with few clouds
-- The wind speed is 7.72m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 81%
+- The average temperature today is 11.58˚C,
+- With highs of 12.21˚C and lows of 10.94˚C,
+- It may feel like 10.88˚C with few clouds
+- The wind speed is 7.2m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 80%
 - The sun will rise at 08:08 and set at 15:57
 
 <!-- weather_marker ends -->

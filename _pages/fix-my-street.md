@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- At least 5 potholes in stretch, 14th December :- [8546515](https://www.fixmystreet.com/report/8546515)
+- Numerous potholes in this area! Terrible!, 14th December :- [8546409](https://www.fixmystreet.com/report/8546409)
+- Very large pothole, 14th December :- [8546398](https://www.fixmystreet.com/report/8546398)
+- Pothole, 14th December :- [8546096](https://www.fixmystreet.com/report/8546096)
 - Very dangerous large pothole in all three passing places on the Syreford Road, 14th December :- [8546075](https://www.fixmystreet.com/report/8546075)
 - Dog dirt, 14th December :- [8545976](https://www.fixmystreet.com/report/8545976)
 - Fly tipped rubbish, 14th December :- [8545828](https://www.fixmystreet.com/report/8545828)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Several large potholes on Ullenwood Lane, 14th December :- [8544612](https://www.fixmystreet.com/report/8544612)
 - Two pot holes on Druro Road, 14th December :- [8544359](https://www.fixmystreet.com/report/8544359)
 - Street Light outside 11 Robinswood Close is out, 14th December :- [8544324](https://www.fixmystreet.com/report/8544324)
-- The whole road needs re surfacing as it is in dyer need, 14th December :- [8544214](https://www.fixmystreet.com/report/8544214)
-- Over M5 bridge blocked drains, 14th December :- [8544032](https://www.fixmystreet.com/report/8544032)
-- High Illuminated Bollard Light Out, 13th December :- [8543744](https://www.fixmystreet.com/report/8543744)
-- Pothole nr column 5 Imperial Square, Cheltenham, 13th December :- [8543415](https://www.fixmystreet.com/report/8543415)
 
 <!-- fix_marker ends -->

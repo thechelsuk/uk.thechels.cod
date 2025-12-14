@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The whole road needs re surfacing as it is in dyer need, 14th December :- [8544214](https://www.fixmystreet.com/report/8544214)
 - Over M5 bridge blocked drains, 14th December :- [8544032](https://www.fixmystreet.com/report/8544032)
 - High Illuminated Bollard Light Out, 13th December :- [8543744](https://www.fixmystreet.com/report/8543744)
 - Pothole nr column 5 Imperial Square, Cheltenham, 13th December :- [8543415](https://www.fixmystreet.com/report/8543415)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Two potholes outside 3 Woodlands Road, 13th December :- [8542317](https://www.fixmystreet.com/report/8542317)
 - Rapidly deteriorating pothole in the road, 13th December :- [8542236](https://www.fixmystreet.com/report/8542236)
 - Multiple potholes, 13th December :- [8542044](https://www.fixmystreet.com/report/8542044)
-- Large hole in Westfield rd near keep clear markings. Wires showing., 13th December :- [8542020](https://www.fixmystreet.com/report/8542020)
 
 <!-- fix_marker ends -->

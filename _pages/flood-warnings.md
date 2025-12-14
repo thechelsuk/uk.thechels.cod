@@ -94,13 +94,6 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 09:00am on 14 December 2025 or as the situation changes.
 
-- Warning no longer in force: Tributaries on the Upper River Thames above Cricklade
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected. The forecast for the weekend is for dry conditions. 
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
-
-
 - Flood alert: River Severn in Gloucestershire
 - High river levels today may lead to flooding. Flooding is possible on 13 December 2025.
 River levels remain high due to recent rainfall. Flooding may continue over the next few days.
@@ -144,13 +137,6 @@ Saxons Lode 4.4m to 4.6m on Saturday evening, 13/12/25.
 Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation. 
 Take care and avoid walking, cycling or driving through flood water. 
 This message will be updated by 10:00AM on 14 December 2025 or as the situation changes.
-
-- Warning no longer in force: River Severn at Severn Ham, Tewkesbury
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 
 <!-- flood_marker ends -->

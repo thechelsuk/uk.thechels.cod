@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Badly patched pavement with steep sides, 14th December :- [8545589](https://www.fixmystreet.com/report/8545589)
+- Gas canisters dumped on roadside., 14th December :- [8545507](https://www.fixmystreet.com/report/8545507)
+- The road junction signpost was damaged and knocked down months ago and has not been replaced, 14th December :- [8545282](https://www.fixmystreet.com/report/8545282)
+- The Reddings to Grovefieldway roundabout has metal sign frames ., 14th December :- [8545255](https://www.fixmystreet.com/report/8545255)
 - Potholes on King Alfred Way, between Saxon Way & Haywards Rd, 14th December :- [8544928](https://www.fixmystreet.com/report/8544928)
 - On speed bump, 14th December :- [8544785](https://www.fixmystreet.com/report/8544785)
 - On speed bump, 14th December :- [8544772](https://www.fixmystreet.com/report/8544772)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large traffic cone abandoned after temporary lights removed, 13th December :- [8542626](https://www.fixmystreet.com/report/8542626)
 - Volunteer litter pick bags ready for collection, 13th December :- [8542598](https://www.fixmystreet.com/report/8542598)
 - 3-4 large deep potholes v dangerous, 13th December :- [8542557](https://www.fixmystreet.com/report/8542557)
-- 3 large potholes in the lane, 13th December :- [8542525](https://www.fixmystreet.com/report/8542525)
-- Pothole on st Michael’s roads on junction with woodlands road nr 42 woodlands, 13th December :- [8542401](https://www.fixmystreet.com/report/8542401)
-- Pothole outside 45 woodlands Road on junction with st Michael’s Road, 13th December :- [8542385](https://www.fixmystreet.com/report/8542385)
-- Very large pothole outside number 32 woodlands road, 13th December :- [8542367](https://www.fixmystreet.com/report/8542367)
 
 <!-- fix_marker ends -->

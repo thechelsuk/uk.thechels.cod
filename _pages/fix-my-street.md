@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 15th December :- [8550112](https://www.fixmystreet.com/report/8550112)
+- TMC - Defects -CW10 Potholes problem, 15th December :- [8550121](https://www.fixmystreet.com/report/8550121)
+- TMC - Defects -CW10 Potholes problem, 15th December :- [8550120](https://www.fixmystreet.com/report/8550120)
+- THe state of the road at Rowanfield Road's junction with Roman Road is so appalling that it's impossible to drive any more than 5mph over it., 15th December :- [8549952](https://www.fixmystreet.com/report/8549952)
+- TMC - Defects - Covers, Gratings & Frames problem, 15th December :- [8550124](https://www.fixmystreet.com/report/8550124)
+- The drain is blocked problem, 15th December :- [8549877](https://www.fixmystreet.com/report/8549877)
+- TMC - Defects -CW10 Potholes problem, 15th December :- [8549886](https://www.fixmystreet.com/report/8549886)
+- TMC - Defects - Kerbs and Channels problem, 15th December :- [8549887](https://www.fixmystreet.com/report/8549887)
+- TMC - Defects -CW10 Potholes problem, 15th December :- [8549885](https://www.fixmystreet.com/report/8549885)
+- TMC - Defects -CW10 Potholes problem, 15th December :- [8549884](https://www.fixmystreet.com/report/8549884)
 - Large pothole, 15th December :- [8549519](https://www.fixmystreet.com/report/8549519)
 - Large pothole and broke road sutface, 15th December :- [8549425](https://www.fixmystreet.com/report/8549425)
 - 'New Road Layout Ahead' sign has been there for over 16 years, 15th December :- [8549342](https://www.fixmystreet.com/report/8549342)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Tree from has fallen and is blocking the bridleway, 15th December :- [8549260](https://www.fixmystreet.com/report/8549260)
 - TMC - Defects -CW10 Potholes problem, 15th December :- [8549486](https://www.fixmystreet.com/report/8549486)
 - TMC - Defects -CW10 Potholes problem, 15th December :- [8549485](https://www.fixmystreet.com/report/8549485)
-- TMC - Defects -CW10 Potholes problem, 15th December :- [8549482](https://www.fixmystreet.com/report/8549482)
-- TMC - Defects -CW10 Potholes problem, 15th December :- [8549481](https://www.fixmystreet.com/report/8549481)
-- TMC - Defects -CW10 Potholes problem, 15th December :- [8549480](https://www.fixmystreet.com/report/8549480)
-- TMC - Defects -CW6 Potholes  problem, 15th December :- [8549479](https://www.fixmystreet.com/report/8549479)
-- Flyposted estate agent sign on street furniture, 15th December :- [8548999](https://www.fixmystreet.com/report/8548999)
-- Quite a few pot holes down the road, 15th December :- [8548995](https://www.fixmystreet.com/report/8548995)
-- Looks to be a pothole issue - please could somebody investigate, 15th December :- [8548984](https://www.fixmystreet.com/report/8548984)
-- In the middle of the road, 15th December :- [8548983](https://www.fixmystreet.com/report/8548983)
-- Litter collection, 15th December :- [8548940](https://www.fixmystreet.com/report/8548940)
-- TMC - Defects -other CW6 problem, 15th December :- [8548861](https://www.fixmystreet.com/report/8548861)
 
 <!-- fix_marker ends -->

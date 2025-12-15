@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous large crater .very dangerous as is on an exit of a roundabout where motorbike are lent over to corner .nearly cost me ......., 15th December :- [8551897](https://www.fixmystreet.com/report/8551897)
+- Drain blocked, 15th December :- [8551752](https://www.fixmystreet.com/report/8551752)
+- Barriers left, 15th December :- [8551739](https://www.fixmystreet.com/report/8551739)
 - Drain blocked. As such danger to flooding of my property, 15th December :- [8551653](https://www.fixmystreet.com/report/8551653)
 - St Anne’s terrace is a one way street yet I see at least 4 cars a day going the wrong way down it., 15th December :- [8551417](https://www.fixmystreet.com/report/8551417)
 - Broken rotten fencing, 15th December :- [8551360](https://www.fixmystreet.com/report/8551360)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 15th December :- [8550532](https://www.fixmystreet.com/report/8550532)
 - Tree is damaged problem, 15th December :- [8550526](https://www.fixmystreet.com/report/8550526)
 - TMC - Defects -CW6 Potholes  problem, 15th December :- [8550529](https://www.fixmystreet.com/report/8550529)
-- TMC - Defects -CW6 Potholes  problem, 15th December :- [8550306](https://www.fixmystreet.com/report/8550306)
-- TMC - Defects -CW6 Potholes  problem, 15th December :- [8550305](https://www.fixmystreet.com/report/8550305)
-- TMC - Defects -CW6 Potholes  problem, 15th December :- [8550112](https://www.fixmystreet.com/report/8550112)
 
 <!-- fix_marker ends -->

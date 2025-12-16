@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -115,21 +115,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 15th December</title>
-<link>https://www.fixmystreet.com/report/8550534</link>
-<description>Pothole CW &amp;#10;700x600x42mm&amp;#10;Road closure &amp;#10;Narrow Road &amp;#10;STATS (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8550534&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8550534</guid>
-<pubDate>Mon, 15 Dec 2025 15:22:00 +0000</pubDate>
-<georss:point>51.8919803 -2.1152168</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 15th December</title>
 <link>https://www.fixmystreet.com/report/8550535</link>
 <description>Pothole CW &amp;#10;500x600x40mm&amp;#10;Road closure &amp;#10;Narrow Road &amp;#10;STATS (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8550535&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW10 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8550535</guid>
 <pubDate>Mon, 15 Dec 2025 15:22:00 +0000</pubDate>
 <georss:point>51.8920215 -2.11533570000002</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 15th December</title>
+<link>https://www.fixmystreet.com/report/8550534</link>
+<description>Pothole CW &amp;#10;700x600x42mm&amp;#10;Road closure &amp;#10;Narrow Road &amp;#10;STATS (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8550534&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8550534</guid>
+<pubDate>Mon, 15 Dec 2025 15:22:00 +0000</pubDate>
+<georss:point>51.8919803 -2.1152168</georss:point>
 </item>
 <item>
 <title>Blocked drain, 15th December</title>

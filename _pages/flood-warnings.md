@@ -20,15 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- Rivers remain high and are now rising again due to rainfall.
-
-Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
-
-We are monitoring rainfall and river levels and checking rivers for blockages.
-
-Take care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses. Don't put yourself or others at risk.
-
-This message will be updated by 10:30 AM on 15/12/2025, or as the situation changes.
+- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. River levels are high and rising. Further rainfall is, however, forecast later this week and will keep river levels high. We are closely monitoring the situation and will update this message by 11:30AM on 17 December 2025, or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - "Rising river levels may lead to flooding. Flooding remains possible.
@@ -42,76 +34,67 @@ This message will be updated by 19:00 16 December 2025 or as the situation chang
 - Flood alert: River Windrush from Bourton to Newbridge
 - "Rising river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected to continue overnight, 15 December 2025, especially in the Newbridge and Standlake areas. The forecast is for rainfall overnight which at times may be heavy. Rainfall is expected to clear by the early hours of tomorrow morning, leaving a drier day tomorrow, 16 December 2025. River levels are currently stable, but may rise again in response to foreacst rainfall overnight. 
+Flooding of low lying land and roads is expected to continue today, 16 December 2025, especially in the Newbridge and Standlake areas. The forecast is for rain clearing through the morning, leaving a predominantly dry afternoon and night. River levels are currently stable but are expected to rise along much of the River Windrush in response to overnight rain.  
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 16 December 2025 or as the situation changes."
+This message will be updated by 19:00 16 December 2025 or as the situation changes."
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - "Rising river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected overnight, 15 December 2025, especially in the Woodstock area along the River Glyme. The forecast is for rainfall overnight which at times may be heavy. Rainfall is expected to clear by the early hours of tomorrow morning, leaving a drier day tomorrow, 16 December 2025. River levels along both the River Glyme and River Evenlode are currently stable. Levels may rise again overnight in response to forecast rainfall. 
+Flooding of low lying land and roads is expected today, 16 December 2025, especially in the Woodstock area along the River Glyme and around Shipton Under Wychwood on the River Evenlode. The forecast is for rain clearing through the morning, leaving a predominantly dry afternoon and night. River levels along the River Glyme are currently stable, but levels along the River Evenlode are expected to rise through today in response to overnight rainfall. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 16 December 2025 or as the situation changes."
+This message will be updated by 19:00 16 December 2025 or as the situation changes."
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - "Rising river levels may lead to flooding. Flooding remains possible .
 
-Flooding of low lying land and roads is expected to continue overnight, 15 December 2025, along the River Thames, especially in the Kempsford area. The forecast is for rainfall overnight which at times may be heavy. Rainfall is expected to clear by the early hours of tomorrow morning, leaving a drier day tomorrow, 16 December 2025. River levels are currently falling, but may rise again overnight in response to forecast rainfall. 
+Flooding of low lying land and roads is expected to continue today, 16 December 2025, along the River Thames, especially in the Kempsford area. The forecast is for rain clearing through the morning, leaving a predominantly dry afternoon and night. River levels are currently stable. River levels are expected to rise again later today following overnight rainfall. 
 
 We are closely monitoring the situation. 
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 09:00 16 December 2025 or as the situation changes."
+This message will be updated by 19:00 16 December 2025 or as the situation changes."
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - "Rising river levels may lead to flooding. 
 
-Flooding of low lying land and roads remains possible overnight, 15 December 2025, especially in the Bourton on the Water area. The forecast is for rainfall overnight which at times may be heavy. Rainfall is expected to clear by the early hours of tomorrow morning, leaving a drier day tomorrow, 16 December 2025. River levels are currently stable, but may rise again in response to forecast rainfall overnight. 
+Flooding of low lying land and roads is expected later today, 16 December 2025, especially in the Bourton on the Water area. The forecast is for rain clearing through the morning, leaving a predominantly dry afternoon and night. River levels are currently rising in response to overnight rainfall, and expected to reach the flood risk threshold again. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 16 December 2025 or as the situation changes."
+This message will be updated by 19:00 16 December 2025 or as the situation changes."
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
-- "Rising river levels may lead to flooding.
+- "High river levels may lead to flooding.
 
-Flooding of low lying land and roads is expected to continue overnight, 15 December 2025, especially in the Lechlade area. The forecast is for rainfall overnight which at times may be heavy. Rainfall is expected to clear by the early hours of tomorrow morning, leaving a drier day tomorrow, 16 December 2025. River levels are currently falling, but may rise again overnight in response to forecast rainfall. 
+Flooding of low lying land and roads remains possible today, 16 December 2025, especially in the Lechlade area. The forecast is for rain clearing through the morning, leaving a predominantly dry afternoon and night. River levels are currently falling, but levels may respond again to recent rainfall over the coming days. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 16 December 2025 or as the situation changes."
+This message will be updated by 19:00 16 December 2025 or as the situation changes."
 
 - Flood alert: Middle Avon Rugby to Bidford
-- Forecast high river levels overnight may lead to flooding. 
-Flooding is possible from overnight on 15 December 2025 to 16 December 2025. 
-Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 16 December 2025 or as the situation changes.
+- Rising river levels today may lead to flooding. Flooding is possible from the afternoon of 16 December 2025. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 11:00AM on 17 December 2025 or as the situation changes.
 
-- Flood alert: Tributaries in Gloucester
-- Rising river levels today may lead to flooding. Flooding is possible on 16 December 2025.  
+- Warning no longer in force: Tributaries in Gloucester
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Flooding may affect low lying land and roads adjacent to Horsbere Brook, Wotton Brook, River Twyver, River Sud, Whaddon Brook, Daniels Brook & Dimore Brook. Locations that may be affected include Kemerton, Tewkesbury, Stoke Orchard, Uckington, Churchdown, Upton St Leonards, Cheltenham, Horsebere and Brookthorpe. The Horsbere flood storage area may be operating.  
-
-Further rainfall is forecast over the next 48 hours. 
-
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 10:00AM on 17 December 2025 or as the situation changes.
 
 - Flood alert: Little Avon catchment and the Vale of Berkeley
 - High river levels this morning may lead to flooding. 
@@ -173,13 +156,13 @@ This message will be updated by 10:30AM on 17 December 2025 or as the situation 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - "High river levels may lead to flooding. 
 
-Flooding of low lying land and roads remains possible overnight, 15 December 2025, particularly along the River Thames in the Shifford area. The forecast is for rainfall overnight which at times may be heavy. Rainfall is expected to clear by the early hours of tomorrow morning, leaving a drier day tomorrow, 16 December 2025. River levels are currently falling. In the upper reaches of the River Thames, river levels may start to rise again overnight in response to forecast rainfall.
+Flooding of low lying land and roads remains possible today, 16 December 2025, particularly along the River Thames in the Shifford area. The forecast is for rain clearing through the morning, leaving a predominantly dry afternoon and night. River levels are currently stable or falling. In the upper reaches of the River Thames, river levels are expected to rise again today in response to overnight rainfall.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 16 December 2025 or as the situation changes."
+This message will be updated by 19:00 16 December 2025 or as the situation changes."
 
 - Flood alert: Rivers in the Forest of Dean
 - Rising river levels today may lead to flooding. Flooding is possible on 16 December 2025.  

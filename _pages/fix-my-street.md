@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No work taking place, 16th December :- [8557138](https://www.fixmystreet.com/report/8557138)
+- The bus stop sign is broken, 16th December :- [8557065](https://www.fixmystreet.com/report/8557065)
 - Several potholes along a trench that has opened up on previous repair, 16th December :- [8556795](https://www.fixmystreet.com/report/8556795)
 - Deep pot hole can't be avoided by cars due to narrow road, 16th December :- [8556783](https://www.fixmystreet.com/report/8556783)
 - Large pothole which had beenn repaired has opened up again, 16th December :- [8556777](https://www.fixmystreet.com/report/8556777)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 16th December :- [8555598](https://www.fixmystreet.com/report/8555598)
 - Recent repair but was always soft. Rutting up., 16th December :- [8555472](https://www.fixmystreet.com/report/8555472)
 - Tree uprooted, 16th December :- [8555416](https://www.fixmystreet.com/report/8555416)
-- TMC - Defects -CW6 Potholes  problem, 16th December :- [8555602](https://www.fixmystreet.com/report/8555602)
-- TMC - Defects -CW6 Potholes  problem, 16th December :- [8555601](https://www.fixmystreet.com/report/8555601)
 
 <!-- fix_marker ends -->

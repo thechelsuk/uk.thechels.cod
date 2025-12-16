@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole around a drain - deep enough to bring down a cyclist if the wheel gets caught, 16th December :- [8552747](https://www.fixmystreet.com/report/8552747)
+- Drain has grown over and not taking water, 16th December :- [8552629](https://www.fixmystreet.com/report/8552629)
+- Water is not going down drain, 16th December :- [8552619](https://www.fixmystreet.com/report/8552619)
+- Road surface around inspection covers broken up, 16th December :- [8552461](https://www.fixmystreet.com/report/8552461)
 - Dangerous large crater .very dangerous as is on an exit of a roundabout where motorbike are lent over to corner .nearly cost me ......., 15th December :- [8551897](https://www.fixmystreet.com/report/8551897)
 - Drain blocked, 15th December :- [8551752](https://www.fixmystreet.com/report/8551752)
 - Barriers left, 15th December :- [8551739](https://www.fixmystreet.com/report/8551739)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Blocked drain, 15th December :- [8550409](https://www.fixmystreet.com/report/8550409)
 - Unpermitted roadworks problem, 15th December :- [8550527](https://www.fixmystreet.com/report/8550527)
 - TMC - Defects -CW6 Potholes  problem, 15th December :- [8550530](https://www.fixmystreet.com/report/8550530)
-- TMC - Defects -CW6 Potholes  problem, 15th December :- [8550531](https://www.fixmystreet.com/report/8550531)
-- TMC - Defects -CW6 Potholes  problem, 15th December :- [8550532](https://www.fixmystreet.com/report/8550532)
-- Tree is damaged problem, 15th December :- [8550526](https://www.fixmystreet.com/report/8550526)
-- TMC - Defects -CW6 Potholes  problem, 15th December :- [8550529](https://www.fixmystreet.com/report/8550529)
 
 <!-- fix_marker ends -->

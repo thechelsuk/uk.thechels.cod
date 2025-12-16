@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 16 December 2025
 
-- The average temperature today is 8.27˚C,
-- With highs of 8.75˚C and lows of 8.07˚C,
-- It may feel like 6.72˚C with broken clouds
-- The wind speed is 2.57m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 90%
+- The average temperature today is 8.01˚C,
+- With highs of 8.88˚C and lows of 7.6˚C,
+- It may feel like 5.77˚C with few clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 88%
 - The sun will rise at 08:10 and set at 15:57
 
 <!-- weather_marker ends -->

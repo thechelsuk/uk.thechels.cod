@@ -100,8 +100,32 @@ This message will be updated by 19:00 17 Dec 2025 or as the situation changes.
 - Flood alert: Middle Avon Rugby to Bidford
 - Although some river levels are still rising, some river levels are forecast to fall during today, though may rise again overnight in response to further forecast rainfall.  Flooding is possible on 18 December 2025.  Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 11:00AM on 18 December 2025 or as the situation changes.
 
+- Flood alert: Tributaries in Gloucester
+- Forecast rising river levels this evening may lead to flooding. 
+Flooding is possible on 18 December 2025 . 
+Flooding may affect  low lying land and roads adjacent to Horsbere Brook, Wotton Brook, River Twyver, River Sud, Whaddon Brook, Daniels Brook & Dimore Brook. Locations that may be affected include Kemerton, Tewkesbury, Stoke Orchard, Uckington, Churchdown, Upton St Leonards, Cheltenham, Horsebere and Brookthorpe. The Horsbere flood storage area may become  operational. 
+We are closely monitoring the situation and monitoring River levels 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
+
 - Flood alert: Little Avon catchment and the Vale of Berkeley
 - High river levels today may lead to flooding. Flooding is possible on 17 December 2025. Flooding is forecast to affect locations near the Little Avon, with low lying land and roads expected to be most affected, particularly around Areas most at risk include the Little Avon River and other rivers and streams in the Vale of Berkeley. Further rainfall is forecast on Wednesday and Thursday and this Alert is likely to remain in force. We are monitoring rainfall and river levels and will issue updates as necessary. Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 10:30AM on 18 December 2025 or as the situation changes.
+
+- Flood alert: Rivers in South Worcestershire
+- Forecast rising river levels this evening may lead to flooding. 
+Flooding is possible on 18 December 2025 . 
+Flooding may affect low lying land and roads adjacent to the river from North Littleton to Winchcombe. Other locations that may be affected are Badsey, Childswickham, Broadway, Sedgeberrow, Toddington and the Road at Hinton on the Green bridge. This alert has been issued based on uncertain forecast heavy rainfall that may have significant impact within the community. As the rain has not yet fallen and been observed we are unable to provide any real time peak information. As the situation evolves we will be able to provide more details. 
+We are closely monitoring the situation and monitoring River levels. 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
+
+- Flood alert: Tributaries in Cheltenham and Tewkesbury
+- Forecast rising river levels this evening may lead to flooding. 
+Flooding is possible on 18 December 2025 . 
+Flooding may affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Ashchurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington. 
+We are monitoring rainfall and river levels  
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - Rising river levels may lead to flooding. Flooding is possible on 17 December 2025. 
@@ -125,14 +149,11 @@ We are monitoring rainfall and river levels. Take care and avoid walking, cyclin
 This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- High river levels today may lead to flooding. Flooding is possible on 17 December 2025.  
-
-Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  
-
-Further rainfall is forecast over the next 48 hours. 
-
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
-
+- High river levels today may lead to flooding. 
+Flooding is possible from the evening of 17 December 2025 . 
+Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
@@ -166,15 +187,20 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 19:00 17 December 2025 or as the situation changes.
 
+- Flood alert: River Wye in Herefordshire
+- Rising river levels today may lead to flooding. 
+Flooding is possible from the early hours of 18 December 2025 . 
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:-  Bredwardine 4.9m to 5.4m on 19/12 AM, , Old Wye Bridge 4.3m to 4.8m on 19/12 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
+
 - Flood alert: Rivers in the Forest of Dean
-- High river levels today may lead to flooding. Flooding is possible on 17 December 2025.  
-
-Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.  
-
-Further rainfall is forecast over the next 48 hours, which could cause river levels to rise further. 
-
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water .  
-
+- High river levels this evening may lead to flooding. 
+Flooding is possible from the early hours of 18 December 2025 . 
+Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire

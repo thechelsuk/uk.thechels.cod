@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Missing sigage Bollard for crossing, 17th December :- [8560787](https://www.fixmystreet.com/report/8560787)
+- A pothole in road problem, 17th December :- [8560722](https://www.fixmystreet.com/report/8560722)
+- No bus shelter reinstated since cycle path finished in May 2025, 17th December :- [8560394](https://www.fixmystreet.com/report/8560394)
+- TMC - Defects -CW6 Potholes  problem, 17th December :- [8560341](https://www.fixmystreet.com/report/8560341)
+- TMC - Defects -CW6 Potholes  problem, 17th December :- [8560326](https://www.fixmystreet.com/report/8560326)
 - Surface is damaged problem, 17th December :- [8560133](https://www.fixmystreet.com/report/8560133)
 - Large pothole and poor road near allotment retaining wall, 17th December :- [8559978](https://www.fixmystreet.com/report/8559978)
 - TMC - Defects - Kerbs and Channels problem, 17th December :- [8560139](https://www.fixmystreet.com/report/8560139)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 17th December :- [8559737](https://www.fixmystreet.com/report/8559737)
 - TMC - Defects -CW6 Potholes  problem, 17th December :- [8559736](https://www.fixmystreet.com/report/8559736)
 - TMC - Defects -CW6 Potholes  problem, 17th December :- [8559539](https://www.fixmystreet.com/report/8559539)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8559538](https://www.fixmystreet.com/report/8559538)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8559540](https://www.fixmystreet.com/report/8559540)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8559537](https://www.fixmystreet.com/report/8559537)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8559359](https://www.fixmystreet.com/report/8559359)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8559360](https://www.fixmystreet.com/report/8559360)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 17 December 2025
 
-- The average temperature today is 3.29˚C,
-- With highs of 4.97˚C and lows of 2.04˚C,
-- It may feel like 2.23˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 95%
+- The average temperature today is 5.3˚C,
+- With highs of 6.1˚C and lows of 3.17˚C,
+- It may feel like 1.55˚C with overcast clouds
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 89%
 - The sun will rise at 08:11 and set at 15:57
 
 <!-- weather_marker ends -->

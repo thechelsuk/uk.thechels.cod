@@ -25,11 +25,13 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. Flooding remains possible.
 
-Flooding of low lying land and roads is expected to continue tonight, 17 December 2025, along the River Churn around Cerney Wick. Heavy overnight rain is forecast tonight, 17 December 2025, with further heavy rain forecast on 18 December 2025. Levels along the River Churn are currently high but stable. Levels are expected to remain high over the coming days, and may rise further in response to forecasted rainfall over the coming 36 hours.
+Flooding of low lying land and roads is expected to continue today, 18 December 2025, along the River Churn around Cerney Wick. Levels along the River Churn are currently high but stable. Heavy rain is forecast today, 18 December 2025, with a chance of further heavy showers tomorrow and through the weekend. We expect river levels to remain high over the next few days. 
 
-We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
+We are closely monitoring the situation. 
 
-This message will be updated by 09:00AM on the 18 December 2025 or as the situation changes.
+Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
+
+This message will be updated by 07:00PM on 18 December 2025 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - Rising river levels may lead to flooding. 
@@ -118,45 +120,13 @@ This message will be updated by 10:00AM on 18 December 2025 or as the situation 
 - Rising river levels today may lead to flooding. Flooding is possible from 18 December 2025. Flooding may affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Ashchurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington.  We are monitoring rainfall and river levels   Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 19 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- Rising river levels may lead to flooding. Flooding is possible on 17 December 2025. 
-
-Flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. Severn Ham, Tewkesbury starts to fill. 
-
-Predicted peaks:- 
-
-Mythe 3.5m to 3.7m on 17/12/25 PM 
-
-Haw Bridge 4.4m to 4.6m on 17/12/25 PM 
-
-Sandhurst 2.9m to 3.1m on 17/12/25 PM 
-
-Gloucester 2.7m to 3.0m on 17/12/25 PM. 
-
-Further rainfall is forecast from Wednesday evening into Thursday, and this may cause river levels to rise again. 
-
-We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. 
-
-This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
+- Rising river levels may lead to flooding. Flooding is possible from 18 December 2025 over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe 3.6m to 4.1m on 20/12/25 PM Haw Bridge 4.6m to 5.1m on 20/12/25 PM. Further rainfall is forecast over the next 24 hours, and this may cause river levels to rise again. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 19 December 2025 or as the situation changes
 
 - Flood alert: River Leadon catchment
 - Rising river levels today may lead to flooding. Flooding is possible from the 18 December 2025 . Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 19 December 2025 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- Rising river levels may lead to flooding. Flooding is possible on 17 December 2025. 
-
-Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubilee Bridge to Fladbury is impacted. 
-
-Peaks:- 
-
-Evesham is peaking today at 1.93m, but river levels could rise again following rainfall on Wednesday evening into Thursday. 
-
-Bredon 2.7m to 3.1m on 18/12 PM.  
-
-Further rainfall is forecast over the next 48 hours. 
-
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
+- Rising river levels today may lead to flooding. Flooding is possible from 18 December 2025 for the next few days. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubilee Bridge to Fladbury may be impacted. Peaks:- Evesham 2.4m - 2.8m Friday AM,  Bredon 2.3m to 2.5m overnight Thursday 18/12 PM.  Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 10:00AM on 19 December 2025 or as the situation changes.
 
 - Flood alert: Bristol Frome catchment
 - High river levels today may lead to flooding. Flooding is possible on 17 December 2025. Flooding is forecast to affect locations near the Bristol Frome, Bristol Floating Harbour, with low lying land and roads expected to be most affected, particularly around Areas most at risk include St John's Way in Chipping Sodbury and Damson Bridge. Further rainfall is forecast on Wednesday and Thursday and this Alert is likely to remain in force. We are monitoring rainfall and river levels and will issue updates as necessary. Avoid using low lying footpaths and any bridges near local watercourses. The road may be flooded at Damson Bridge. This message will be updated by 10:30AM on 18 December 2025 or as the situation changes.
@@ -207,21 +177,7 @@ We are closely monitoring the situation. Take care and avoid walking, cycling 
 This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
-- Rising river levels are expected to cause flooding today.  
-
-Flooding is expected on 17 December 2025. 
-
-Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. 
-
-Predicted peak:- 
-
-Mythe 3.5m to 3.7m on 17/12/25 PM. 
- 
-We are monitoring rainfall and river levels. 
-
-Monitor local water levels and weather conditions.  
-
-This message will be updated by 10:00AM on 18 December 2025 or as the situation changes.
+- Rising river levels are expected to cause flooding today.  Flooding is expected from 18 December 2025 over the next few days. Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peak:- Mythe 3.6m to 4.1m on 20/12/25 PM.  We are monitoring rainfall and river levels. Monitor local water levels and weather conditions.  This message will be updated by 10:00AM on 19 December 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->

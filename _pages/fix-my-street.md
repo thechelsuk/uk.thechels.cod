@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large tree growing outside house and lifting the pavement substantially. Roots possibly going under house and causing damage, 18th December :- [8562694](https://www.fixmystreet.com/report/8562694)
+- East verge of bays hill road covered in thick piles of leaves, 18th December :- [8562561](https://www.fixmystreet.com/report/8562561)
+- Abandoned shopping trolley full of rubbish, 18th December :- [8562475](https://www.fixmystreet.com/report/8562475)
+- Large pothole which although driving slowly as I had just turned the corner, ripped front near side tyre, 18th December :- [8562438](https://www.fixmystreet.com/report/8562438)
 - A pothole in road problem, 17th December :- [8561956](https://www.fixmystreet.com/report/8561956)
 - Deep pothole, 17th December :- [8561883](https://www.fixmystreet.com/report/8561883)
 - Sign about road closure from Run Cheltenham event in September, 17th December :- [8561874](https://www.fixmystreet.com/report/8561874)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 17th December :- [8560326](https://www.fixmystreet.com/report/8560326)
 - Surface is damaged problem, 17th December :- [8560133](https://www.fixmystreet.com/report/8560133)
 - Large pothole and poor road near allotment retaining wall, 17th December :- [8559978](https://www.fixmystreet.com/report/8559978)
-- TMC - Defects - Kerbs and Channels problem, 17th December :- [8560139](https://www.fixmystreet.com/report/8560139)
-- Massive potholes all over the road, already damaged cars needs a new length of tarmac, 17th December :- [8559763](https://www.fixmystreet.com/report/8559763)
-- TMC - Defects -CW10 Potholes problem, 17th December :- [8559914](https://www.fixmystreet.com/report/8559914)
-- TMC - Defects -CW10 Potholes problem, 17th December :- [8559913](https://www.fixmystreet.com/report/8559913)
 
 <!-- fix_marker ends -->

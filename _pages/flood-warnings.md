@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. River levels are high and rising. Further rainfall (5 to 12mm) is expected tomorrow, the 21st December and will keep river levels high. We are closely monitoring the situation and will update this message by 11:30AM on 19 December 2025, or as the situation changes.
+- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. River levels remain high but the situation is improving slowly. The forecast for further rain over the weekend is looking much better with smaller totals now expected. We will update this message again today, the 19th December 2025.
 
 - Flood alert: River Churn and its tributaries
 - High river levels today may lead to flooding. 
@@ -91,7 +91,7 @@ Avoid low lying roads near rivers, which may be flooded.
 This message will be updated by 19:00 19 Dec 2025 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
-- River levels are generally steady or falling today (18/12/2025), but may rise again overnight in response to further forecast rainfall this afternoon and evening.  Flooding is possible on 19 December 2025.  Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 11:00AM on 19 December 2025 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 19/12/2025. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 11:00AM on 20/12/2025 or as the situation changes.
 
 - Warning no longer in force: Tributaries in Gloucester
 - The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 
@@ -100,13 +100,12 @@ We will continue to monitor the situation and will issue further alerts or warni
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
-- Flood alert: River Stour in South Warwickshire
-- Forecast rising river levels this evening may lead to flooding. 
-Flooding is possible on 18 December 2025 . 
-Flooding may affect low lying land and roads around Shipston on Stour, Tredington, Halford, Newbold on Stour, Crimscote, Wimpstone and Clifford Chambers. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 19 December 2025 or as the situation changes.
+- Warning no longer in force: River Stour in South Warwickshire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: Rivers Frome and Cam
 - High river levels today may lead to flooding.  Flooding is possible from the afternoon of 18 December 2025 and may continue over a few days.  Flooding may affect low lying land and roads adjacent the river from Elmore to Sharpness. Other locations that may be affected include Chalford, Leonard Stanley and Cambridge.  We are monitoring rainfall and river levels .  Further rainfall is forecast overnight Saturday 20/12. Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 20 December 2025 or as the situation changes.
@@ -169,7 +168,7 @@ This message will be updated by 19:00 19 December 2025 or as the situation chang
 - High river levels today may lead to flooding.  Flooding is possible on 19 December 2025.  Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.7m to 3.8m 19/12 PM, Lydbrook 4.3m to 4.4m 19/12 PM.  We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 10:00AM on 20 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- High river levels today may lead to flooding. Flooding is possible from the afternoon of 18 December 2025over the next few days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Bewdley 2.8 - 3.3m 20/12 PM, Worcester 3.9 to 4.2m on 21/12, Diglis 3.5 to 4.0m on 21/12, Kempsey Yacht Club 5.7m to 6.0m on 21/12. Further rainfall is forecast Sunday 21/12. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 20 December 2025 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible from the afternoon of 18 December 2025 and over the next few days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Bewdley 2.8 - 3.3m 20/12 PM, Worcester 3.9 to 4.2m on 21/12, Diglis 3.5 to 4.0m on 21/12, Kempsey Yacht Club 5.7m to 6.0m on 21/12, Saxons Lode 4.5 to 4.7m on 19/12. Further rainfall is forecast Sunday 21/12. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 20 December 2025 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - Rising river levels are expected to cause flooding today.  Flooding is expected from 18 December 2025 over the next few days. Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Further rainfall is forecast on Sunday 21/12.  Predicted peak:- Mythe 3.8m to 4.1m on 21/12/25 PM.  We are monitoring rainfall and river levels. Monitor local water levels and weather conditions.  This message will be updated by 11:00AM on 20 December 2025 or as the situation changes.

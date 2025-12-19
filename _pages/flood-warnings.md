@@ -20,7 +20,9 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. River levels remain high but the situation is improving slowly. The forecast for further rain over the weekend is looking much better with smaller totals now expected. We will update this message again today, the 19th December 2025.
+- High river levels may cause flooding today 19 December 2025. River levels remain high but are now beginning to fall at the Fosseway, Brokenborough and Great Somerford gauges.
+Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Generally drier conditions are forecast in the coming days but with some rain on Saturday and Sunday. We are closely monitoring the situation and will issue updates as necessary. Take care and avoid walking, cycling or driving through flood water.
+This message will be updated by 10:30 AM on 20 December 2025 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels today may lead to flooding. 
@@ -161,8 +163,12 @@ This message will be updated by 19:00 19 December 2025 or as the situation chang
 - Flood alert: River Wye in Herefordshire
 - High river levels today may lead to flooding. Flooding is possible on 19 December 2025. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Peaks:- Hay on Wye 2.35m on 18/12 AM, Bredwardine 4.22m 18/12 PM, Belmont 4.32m on 18/12 PM, Old Wye Bridge 3.73m on 18/12 PM, Mordiford 4.22m on 18/12 PM, Ross on Wye 3.7m to 3.8m on 19/12 PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 20 December 2025 or as the situation changes.
 
-- Flood alert: Rivers in the Forest of Dean
-- High river levels today may lead to flooding. Flooding is possible from the afternoon of 18 December 2025 . Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. We are closely monitoring the situation . Further rain is forecast overnight Saturday 20/12. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 20 December 2025 or as the situation changes.
+- Warning no longer in force: Rivers in the Forest of Dean
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Wye in Gloucestershire
 - High river levels today may lead to flooding.  Flooding is possible on 19 December 2025.  Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.7m to 3.8m 19/12 PM, Lydbrook 4.3m to 4.4m 19/12 PM.  We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 10:00AM on 20 December 2025 or as the situation changes.

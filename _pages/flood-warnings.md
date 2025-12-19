@@ -213,12 +213,5 @@ This message will be updated by 11:00AM on 20 December 2025 or as the situation 
 - Flood warning: River Avon at Strensham and Bredon
 - High river levels are expected to cause flooding on Saturday.  Flooding is expected on 20 December 2025 .  Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham 2.4m to 2.8m on 19/11 PM Bredon 2.5m to 2.8m on 20/12. Further rainfall is forecast on 21/12.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 11:00AM on 20 December 2025 or as the situation changes.
 
-- Warning no longer in force: Daniels Brook at Lower Tuffley
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Weather conditions are expected to improve and no further flooding is expected. Further heavy rain is forecast for Saturday night into Sunday 21/12. 
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 
 <!-- flood_marker ends -->

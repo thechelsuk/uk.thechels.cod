@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large tree branches showing cracks, 20th December :- [8575080](https://www.fixmystreet.com/report/8575080)
 - Deep potholes along Bayshill Road dangerous for motorbikes also pedestrians at the crossing outside the Ladies College, 20th December :- [8574662](https://www.fixmystreet.com/report/8574662)
 - Deep potholes along Bayshill Road dangerous for motorbikes also pedestrians at the crossing outside the Ladies College, 20th December :- [8574661](https://www.fixmystreet.com/report/8574661)
 - Three potholes, 20th December :- [8574629](https://www.fixmystreet.com/report/8574629)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - URGENT large pothole right on top of railway bridge. Dangerous as hard to straddle it due to oncoming traffic, 20th December :- [8573129](https://www.fixmystreet.com/report/8573129)
 - Huge pothole on side of road hard to see when full of water when raining, 20th December :- [8573115](https://www.fixmystreet.com/report/8573115)
 - A pothole in road problem, 20th December :- [8573066](https://www.fixmystreet.com/report/8573066)
-- Smashed bottle by bike racks, 20th December :- [8572943](https://www.fixmystreet.com/report/8572943)
 
 <!-- fix_marker ends -->

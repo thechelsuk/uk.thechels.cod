@@ -29,79 +29,91 @@ This message will be updated by 10:30AM on 21 December 2025 or as the situation 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. Flooding remains possible.
 
-Flooding of low lying land and roads is expected to continue today, 20 December 2025, river levels along the River Churn remain high, particularly in South Cerney and Cerney Wick.  The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the next few days. 
+Flooding of low lying land and roads is expected to continue today, 20 December 2025. 
+
+River levels along the River Churn remain high, particularly in South Cerney and Cerney Wick.  The forecast is for it to be dry today and overnight with further rain on Sunday and Monday. We expect river levels to remain high over the next few days. 
 
 We are closely monitoring the situation. 
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 20 December 2025 or as the situation changes.
+This message will be updated by 09:00 21 December 2025 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
-- High river levels may lead to flooding. 
+- High river levels may lead to flooding. Flooding remains possible.
 
-Flooding of low lying land and roads is expected to continue today, 20 December 2025. River levels have risen but are now stable at Bourton on the Water, Witney, Standlake and Newbridge areas. The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the next few days. 
+Flooding of low lying land and roads is expected to continue today, 20 December 2025. River levels have risen but are now stable at Bourton on the Water, Witney, Standlake and Newbridge areas. The forecast is for it to be dry today and overnight with further rain on Sunday and Monday. 
+
+We expect river levels to remain high over the next few days. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 20 December 2025 or as the situation changes.
+This message will be updated by 09:00 21 December 2025 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected to continue today, 20 December 2025, especially close to the river between Moreton in Marsh and Shipton Under Wychwood on the River Evenlode and on  the River Glyme at Woodstock. The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the next few days.  
+Flooding of low lying land and roads is expected to continue today, 20 December 2025, especially in areas  close to the river between Moreton in Marsh and Shipton Under Wychwood on the River Evenlode and on the River Glyme at Woodstock. The forecast is for it to be dry today and overnight with further rain on Sunday and Monday. 
+
+We expect river levels to remain high over the next few days although river levels are starting to stabilise and fall.  
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 20 December 2025 or as the situation changes.
+This message will be updated by 09:00 21 December 2025 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- High river levels may lead to flooding. Flooding remains possible .
+- High river levels may lead to flooding. Flooding remains possible.
 
-Flooding of low lying land and roads is expected to continue today, 20 December 2025, along the River Thames, especially in the Kempsford area. The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the next few days. 
+Flooding of low lying land and roads is expected to continue today, 20 December 2025, along the River Thames, especially in the Kempsford area. The forecast is for it to be dry today and overnight with further rain on Sunday and Monday. 
+
+We expect river levels to remain high over the next few days but they have started to stabilise. 
 
 We are closely monitoring the situation. 
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 20 December 2025 or as the situation changes.
+This message will be updated by 09:00 21 December 2025 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-Flooding of low lying land and roads remains possible today, 20 December 2025, especially in the Bourton on the Water area. The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the coming days.
+Flooding of low lying land and roads remains possible today, 20 December 2025, especially in the Bourton on the Water area. The forecast is for it to be dry today and overnight with further rain on Sunday and Monday. 
+
+We expect river levels to remain high over the coming days although they are stabilising.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 20 December 2025 or as the situation changes.
+This message will be updated by 09:00 21 December 2025 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
-- High river levels may lead to flooding.
+- High river levels may lead to flooding. Flooding remains possible.
 
-Flooding of low lying land and roads is expected to continue today, 20 December 2025, especially in the Lechlade area where river levels have risen following recent rainfall. The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is expected to continue today, 20 December 2025, especially in the Lechlade area where river levels have risen following recent rainfall. The forecast is for it to be dry today and overnight with further rain on Sunday and Monday.
+
+We expect river levels to remain high over the next few days.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 20 December 2025 or as the situation changes.
+This message will be updated by 09:00 21 December 2025 or as the situation changes.
 
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
 - High river levels may lead to flooding.
 
-Flooding of low lying land and roads is possible today, 20 December 2025, especially close to the Swill Brook in the Oaksey area.  The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads remains possible today, 20 December 2025, especially close to the Swill Brook in the Oaksey area.  The forecast is for it to be dry today and overnight with further rain on Sunday and Monday. We expect river levels to remain high over the next few days.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 20 December 2025 or as the situation changes.
+This message will be updated by 09:00 21 December 2025 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
 - River levels remain high but are falling, therefore the risk of flooding remains today, 20/12/2025. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 11:00AM on 21/12/2025 or as the situation changes.
@@ -121,13 +133,15 @@ This message will be updated by 19:00 20 December 2025 or as the situation chang
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected today, 20 December 2025, particularly along the River Thames between Lechlade and Oxford. River levels are rising slowly in response to recent rainfall along much of the Upper Thames. The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the coming days.
+Flooding of low lying land and roads is expected to continue today, 20 December 2025, particularly along the River Thames between Lechlade and Oxford. River levels are rising slowly in response to recent rainfall along much of the Upper Thames. The forecast is for it to be dry today and overnight with further rain on Sunday and Monday.
+
+We expect river levels to remain high over the coming days.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 20 December 2025 or as the situation changes.
+This message will be updated by 09:00 21 December 2025 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - High tides today may lead to flooding. 
@@ -178,12 +192,15 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - High river levels are expected to cause flooding today. Flooding is expected on 20 December 2025 and may continue over the next few days . Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham peaked 2.84m on 19/11, Bredon 2.85m to 2.95m on 20/12. Further rainfall is forecast on Saturday and Sunday. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 21 December 2025 or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 20 December 2025 . 
-Flooding of low lying land and roads is expected on the River Coln especially around Fosse Bridge and Bibury. The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the next few days. 
-We are closely monitoring the situation . 
-Avoid low lying roads near rivers, which may be flooded . 
-This message will be updated by 7:00PM on 20 December 2025 or as the situation changes.
+- Rising river levels may lead to flooding. 
+
+Flooding of low lying land and roads is expected on the River Coln especially around Fosse Bridge and Bibury. The forecast is for it to be dry today and overnight with further rain on Sunday and Monday. We expect river levels to remain high over the next few days. 
+
+We are monitoring rainfall and river levels. 
+
+Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
+
+This message will be updated by 09:00 21 December 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->

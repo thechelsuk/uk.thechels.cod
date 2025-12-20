@@ -20,9 +20,11 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels may cause flooding today 19 December 2025. River levels remain high but are now beginning to fall at the Fosseway, Brokenborough and Great Somerford gauges.
-Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Generally drier conditions are forecast in the coming days but with some rain on Saturday and Sunday. We are closely monitoring the situation and will issue updates as necessary. Take care and avoid walking, cycling or driving through flood water.
-This message will be updated by 10:30 AM on 20 December 2025 or as the situation changes.
+- High river levels may cause flooding today, 20 December 2025.
+River levels are now beginning to fall but remain higher than usual, particularly through Chippenham and Melksham. 
+Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. 
+Some light rainfall is forecast over the weekend, but levels are expected to continue falling. We are closely monitoring the situation and will issue updates as necessary. Take care and avoid walking, cycling or driving through flood water.
+This message will be updated by 10:30AM on 21 December 2025 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. Flooding remains possible.
@@ -102,7 +104,7 @@ Avoid low lying roads near rivers, which may be flooded.
 This message will be updated by 19:00 20 December 2025 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
-- High river levels today may lead to flooding. Flooding is possible on 19/12/2025. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 11:00AM on 20/12/2025 or as the situation changes.
+- River levels remain high but are falling, therefore the risk of flooding remains today, 20/12/2025. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 11:00AM on 21/12/2025 or as the situation changes.
 
 - Warning no longer in force: River Stour in South Warwickshire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -114,13 +116,6 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood alert: Rivers Frome and Cam
 - High river levels today may lead to flooding. Flooding is possible from the 20 December 2025 and may continue over a few days. Flooding may affect low lying land and roads adjacent the river from Elmore to Sharpness. Other locations that may be affected include Chalford, Leonard Stanley and Cambridge. We are monitoring rainfall and river levels . Further rainfall is forecast on Saturday 20/12 and Sunday. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 21 December 2025 or as the situation changes.
 
-- Warning no longer in force: Little Avon catchment and the Vale of Berkeley
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Severn in Gloucestershire
 - High river levels may lead to flooding. Flooding is possible on 20 December 2025 over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe is peaking now at 4.1m on 20/12, Haw Bridge 4.9m to 5.1 on 20/12/25. Further rainfall is forecast on Saturday and Sunday. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 21 December 2025 or as the situation changes.
 
@@ -129,13 +124,6 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 - Flood alert: River Avon in Worcestershire
 - High river levels today may lead to flooding. Flooding is possible on 20 December 2025 over the next few days. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubilee Bridge to Fladbury may be impacted. Peaks:- Evesham peaked AT 2.8M 19/12 , Bredon 2.85m to 2.95m Saturday AM.  Further rainfall is forecast Saturday and Sunday overnight. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 10:00AM on 21 December 2025 or as the situation changes.
-
-- Warning no longer in force: Bristol Frome catchment
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
@@ -184,11 +172,23 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood warning: River Severn at Abbots Court, Deerhurst
 - High river levels are expected to cause flooding today. Flooding is expected on 20 December 2025 and may continue over the next few days. Flooding may affect Abbots Court, Deerhurst. Predicted peak at Haw Bridge 4.9m to 5.1m on 20/12 evening.  We are closely monitoring the situation. This message will be updated by 11:00AM on 21 December 2025 or as the situation changes.
 
-- Flood alert: Lower Bristol Avon area
-- High river levels today may lead to flooding, many of the small tributaries have now peaked and are falling but the levels on the Avon remain high. Flooding is possible on 19 December 2025. Flooding is forecast to affect locations near the Bristol Avon, Broadmead Brook, River Boyd, with low lying land and roads expected to be most affected, particularly low lying land at Hanham Lock and the floodplain upstream of Bath. Drier conditions are forecast on Friday 19 December 2025 and levels will begin to recede through the day. We are closely monitoring the situation and will issue updates and warnings as necessary. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:30AM on 20 December 2025 or as the situation changes.
+- Warning no longer in force: Lower Bristol Avon area
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood warning: River Avon at Strensham and Bredon
 - High river levels are expected to cause flooding today. Flooding is expected on 20 December 2025 and may continue over the next few days . Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham peaked 2.84m on 19/11, Bredon 2.85m to 2.95m on 20/12. Further rainfall is forecast on Saturday and Sunday. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 21 December 2025 or as the situation changes.
+
+- Flood alert: River Coln and its tributaries
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 20 December 2025 . 
+Flooding of low lying land and roads is expected on the River Coln especially around Fosse Bridge and Bibury. The forecast is for a dry day with further rain on Sunday and Monday. We expect river levels to remain high over the next few days. 
+We are closely monitoring the situation . 
+Avoid low lying roads near rivers, which may be flooded . 
+This message will be updated by 7:00PM on 20 December 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->

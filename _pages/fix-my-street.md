@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water emerging from drain implying blockage in pipework, 20th December :- [8573237](https://www.fixmystreet.com/report/8573237)
+- An area about 6 foot long creating multiple potholes getting bigger every day. Very dangerous cannot avoid them unless you pull into opposite side of the road., 20th December :- [8573157](https://www.fixmystreet.com/report/8573157)
+- Large part of the road broken up forming a large deep pothole, 20th December :- [8573142](https://www.fixmystreet.com/report/8573142)
+- URGENT large pothole right on top of railway bridge. Dangerous as hard to straddle it due to oncoming traffic, 20th December :- [8573129](https://www.fixmystreet.com/report/8573129)
+- Huge pothole on side of road hard to see when full of water when raining, 20th December :- [8573115](https://www.fixmystreet.com/report/8573115)
+- A pothole in road problem, 20th December :- [8573066](https://www.fixmystreet.com/report/8573066)
+- Smashed bottle by bike racks, 20th December :- [8572943](https://www.fixmystreet.com/report/8572943)
 - All 3 drains are blocked, 20th December :- [8572726](https://www.fixmystreet.com/report/8572726)
 - 2 street lights are permanently out around Pittville circus, 19th December :- [8572412](https://www.fixmystreet.com/report/8572412)
 - Pothole which is deep and large in area., 19th December :- [8572081](https://www.fixmystreet.com/report/8572081)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - 14 inch pothole in Church Road opposite “Quality in Design” by house named Broadwell, 19th December :- [8571219](https://www.fixmystreet.com/report/8571219)
 - 3 massive potholes on Gloucester Road, 19th December :- [8571055](https://www.fixmystreet.com/report/8571055)
 - TMC - Defects - Other problem, 19th December :- [8570969](https://www.fixmystreet.com/report/8570969)
-- Pothole, 19th December :- [8570558](https://www.fixmystreet.com/report/8570558)
-- Non dropped kerb being used danger to traffic, 19th December :- [8570545](https://www.fixmystreet.com/report/8570545)
-- Pot hole, 19th December :- [8570508](https://www.fixmystreet.com/report/8570508)
-- Broken hanging light, 19th December :- [8570486](https://www.fixmystreet.com/report/8570486)
-- TMC - Defects -CW6 Potholes  problem, 19th December :- [8570372](https://www.fixmystreet.com/report/8570372)
-- TMC - Defects -CW6 Potholes  problem, 19th December :- [8570371](https://www.fixmystreet.com/report/8570371)
-- TMC - Defects - Vegetation problem, 19th December :- [8570374](https://www.fixmystreet.com/report/8570374)
 
 <!-- fix_marker ends -->

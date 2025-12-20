@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 20th December :- [8574168](https://www.fixmystreet.com/report/8574168)
+- Pothole on harp hill, 20th December :- [8574118](https://www.fixmystreet.com/report/8574118)
 - Flytipped item, 20th December :- [8573714](https://www.fixmystreet.com/report/8573714)
 - Flytipped items, 20th December :- [8573702](https://www.fixmystreet.com/report/8573702)
 - Flytipped in phone box, 20th December :- [8573698](https://www.fixmystreet.com/report/8573698)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 2 street lights are permanently out around Pittville circus, 19th December :- [8572412](https://www.fixmystreet.com/report/8572412)
 - Pothole which is deep and large in area., 19th December :- [8572081](https://www.fixmystreet.com/report/8572081)
 - Must be a burst pipe which has been going on & off for a few months. Today looked like a serious loss of water., 19th December :- [8572018](https://www.fixmystreet.com/report/8572018)
-- Flooding on corner bullfinch way, 19th December :- [8571971](https://www.fixmystreet.com/report/8571971)
-- Pothole in the road after new bus route started, 19th December :- [8571536](https://www.fixmystreet.com/report/8571536)
 
 <!-- fix_marker ends -->

@@ -129,6 +129,15 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 19:00 20 December 2025 or as the situation changes.
 
+- Flood alert: Severn estuary from Gloucester to Sharpness
+- High tides today may lead to flooding. 
+Flooding is possible from 09:30 PM to 11:30 PM on 20 December 2025. 
+Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next day. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.5m on 20/12 10:15PM. 
+We are closely monitoring the situation . 
+Avoid coastal roads, which may be flooded . 
+This message will be updated by 10:00AM on 21 December 2025 or as the situation changes.
+
+
 - Warning no longer in force: River Wye in Herefordshire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
 Further rainfall is forecast but no further flooding is expected.   

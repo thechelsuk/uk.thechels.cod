@@ -106,13 +106,6 @@ This message will be updated by 19:00 20 December 2025 or as the situation chang
 - Flood alert: Middle Avon Rugby to Bidford
 - River levels remain high but are falling, therefore the risk of flooding remains today, 20/12/2025. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 11:00AM on 21/12/2025 or as the situation changes.
 
-- Warning no longer in force: River Stour in South Warwickshire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: Rivers Frome and Cam
 - High river levels today may lead to flooding. Flooding is possible from the 20 December 2025 and may continue over a few days. Flooding may affect low lying land and roads adjacent the river from Elmore to Sharpness. Other locations that may be affected include Chalford, Leonard Stanley and Cambridge. We are monitoring rainfall and river levels . Further rainfall is forecast on Saturday 20/12 and Sunday. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 21 December 2025 or as the situation changes.
 

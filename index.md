@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 20 December 2025
 
-- The average temperature today is 7.56˚C,
-- With highs of 7.94˚C and lows of 7.19˚C,
-- It may feel like 4.94˚C with few clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 89%
+- The average temperature today is 8.52˚C,
+- With highs of 9.26˚C and lows of 8.16˚C,
+- It may feel like 5.48˚C with few clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 85%
 - The sun will rise at 08:13 and set at 15:58
 
 <!-- weather_marker ends -->

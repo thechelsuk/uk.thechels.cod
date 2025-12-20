@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped item, 20th December :- [8573714](https://www.fixmystreet.com/report/8573714)
+- Flytipped items, 20th December :- [8573702](https://www.fixmystreet.com/report/8573702)
+- Flytipped in phone box, 20th December :- [8573698](https://www.fixmystreet.com/report/8573698)
+- Very large pothole instantly punctured my tyre driving along the a436, 20th December :- [8573599](https://www.fixmystreet.com/report/8573599)
+- Broken ash tree branch overhanging road, 20th December :- [8573573](https://www.fixmystreet.com/report/8573573)
+- Several Potholes outside 4/5 Newdawn Place, 20th December :- [8573517](https://www.fixmystreet.com/report/8573517)
+- Potholes ignored in recent repair, 20th December :- [8573479](https://www.fixmystreet.com/report/8573479)
 - Water emerging from drain implying blockage in pipework, 20th December :- [8573237](https://www.fixmystreet.com/report/8573237)
 - An area about 6 foot long creating multiple potholes getting bigger every day. Very dangerous cannot avoid them unless you pull into opposite side of the road., 20th December :- [8573157](https://www.fixmystreet.com/report/8573157)
 - Large part of the road broken up forming a large deep pothole, 20th December :- [8573142](https://www.fixmystreet.com/report/8573142)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Must be a burst pipe which has been going on & off for a few months. Today looked like a serious loss of water., 19th December :- [8572018](https://www.fixmystreet.com/report/8572018)
 - Flooding on corner bullfinch way, 19th December :- [8571971](https://www.fixmystreet.com/report/8571971)
 - Pothole in the road after new bus route started, 19th December :- [8571536](https://www.fixmystreet.com/report/8571536)
-- Deep pothole, 19th December :- [8571296](https://www.fixmystreet.com/report/8571296)
-- Deep pothole, 19th December :- [8571280](https://www.fixmystreet.com/report/8571280)
-- Deep potholes, 19th December :- [8571250](https://www.fixmystreet.com/report/8571250)
-- Every drain/gully on east side of slope of bridge over M5 on Fiddington lane, both north and south sides of the carriageway, 19th December :- [8571234](https://www.fixmystreet.com/report/8571234)
-- 14 inch pothole in Church Road opposite “Quality in Design” by house named Broadwell, 19th December :- [8571219](https://www.fixmystreet.com/report/8571219)
-- 3 massive potholes on Gloucester Road, 19th December :- [8571055](https://www.fixmystreet.com/report/8571055)
-- TMC - Defects - Other problem, 19th December :- [8570969](https://www.fixmystreet.com/report/8570969)
 
 <!-- fix_marker ends -->

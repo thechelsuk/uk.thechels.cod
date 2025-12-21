@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rectangular Pothole at ramp, 21st December :- [8577341](https://www.fixmystreet.com/report/8577341)
 - Bus stop needs cleaning, 21st December :- [8577055](https://www.fixmystreet.com/report/8577055)
 - Numerous potholes alomg this strethch of road, 21st December :- [8576987](https://www.fixmystreet.com/report/8576987)
 - Flytipped items, 21st December :- [8576930](https://www.fixmystreet.com/report/8576930)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Bridge flooded again on Thursday evening., 21st December :- [8575763](https://www.fixmystreet.com/report/8575763)
 - Large tree branches showing cracks, 20th December :- [8575080](https://www.fixmystreet.com/report/8575080)
 - Deep potholes along Bayshill Road dangerous for motorbikes also pedestrians at the crossing outside the Ladies College, 20th December :- [8574662](https://www.fixmystreet.com/report/8574662)
-- Deep potholes along Bayshill Road dangerous for motorbikes also pedestrians at the crossing outside the Ladies College, 20th December :- [8574661](https://www.fixmystreet.com/report/8574661)
 
 <!-- fix_marker ends -->

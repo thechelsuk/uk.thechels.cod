@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped mattress, 21st December :- [8576824](https://www.fixmystreet.com/report/8576824)
+- Flytipped items, 21st December :- [8576813](https://www.fixmystreet.com/report/8576813)
+- Flytipped item, 21st December :- [8576757](https://www.fixmystreet.com/report/8576757)
+- Flytipped item, 21st December :- [8576751](https://www.fixmystreet.com/report/8576751)
+- Abandoned road works sign, 21st December :- [8576585](https://www.fixmystreet.com/report/8576585)
 - Pot hole in middle of road, 21st December :- [8576361](https://www.fixmystreet.com/report/8576361)
 - Red barrier appears abandoned leaning against bus stop, 21st December :- [8576239](https://www.fixmystreet.com/report/8576239)
 - Drain blocked. Pedestrians getting soaked by traffic., 21st December :- [8576211](https://www.fixmystreet.com/report/8576211)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Flytipped item, 20th December :- [8573714](https://www.fixmystreet.com/report/8573714)
 - Flytipped items, 20th December :- [8573702](https://www.fixmystreet.com/report/8573702)
 - Flytipped in phone box, 20th December :- [8573698](https://www.fixmystreet.com/report/8573698)
-- Very large pothole instantly punctured my tyre driving along the a436, 20th December :- [8573599](https://www.fixmystreet.com/report/8573599)
-- Broken ash tree branch overhanging road, 20th December :- [8573573](https://www.fixmystreet.com/report/8573573)
-- Several Potholes outside 4/5 Newdawn Place, 20th December :- [8573517](https://www.fixmystreet.com/report/8573517)
-- Potholes ignored in recent repair, 20th December :- [8573479](https://www.fixmystreet.com/report/8573479)
-- Water emerging from drain implying blockage in pipework, 20th December :- [8573237](https://www.fixmystreet.com/report/8573237)
 
 <!-- fix_marker ends -->

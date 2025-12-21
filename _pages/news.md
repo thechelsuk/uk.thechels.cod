@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Final outing for historic rail tour company ([8 hours ago](https://www.bbc.com/news/articles/cgexv995dvdo?at_medium=RSS&at_campaign=rss))
-- Mayor of Cheltenham thanks racegoers for their generosity ([9 hours ago](https://www.cheltenham.gov.uk/news/article/3081/mayor_of_cheltenham_thanks_racegoers_for_their_generosity))
-- Heavy rainfall helps West recover from dry spell ([12 hours ago](https://www.bbc.com/news/articles/ce8qmdj585eo?at_medium=RSS&at_campaign=rss))
-- Charity 12-hour sleepout to highlight homelessness ([15 hours ago](https://www.bbc.com/news/articles/clykpk08017o?at_medium=RSS&at_campaign=rss))
-- 'Delays amid 12-mile diversion' and 'dangerous footpath upgrade' ([15 hours ago](https://www.bbc.com/news/articles/cm2v5jr7432o?at_medium=RSS&at_campaign=rss))
+- Final outing for historic rail tour company ([11 hours ago](https://www.bbc.com/news/articles/cgexv995dvdo?at_medium=RSS&at_campaign=rss))
+- Mayor of Cheltenham thanks racegoers for their generosity ([11 hours ago](https://www.cheltenham.gov.uk/news/article/3081/mayor_of_cheltenham_thanks_racegoers_for_their_generosity))
+- Heavy rainfall helps West recover from dry spell ([14 hours ago](https://www.bbc.com/news/articles/ce8qmdj585eo?at_medium=RSS&at_campaign=rss))
+- Charity 12-hour sleepout to highlight homelessness ([17 hours ago](https://www.bbc.com/news/articles/clykpk08017o?at_medium=RSS&at_campaign=rss))
+- 'Delays amid 12-mile diversion' and 'dangerous footpath upgrade' ([18 hours ago](https://www.bbc.com/news/articles/cm2v5jr7432o?at_medium=RSS&at_campaign=rss))
 - Ex-police officer guilty of raping sleeping woman ([1 days ago](https://www.bbc.com/news/articles/cy952glrzleo?at_medium=RSS&at_campaign=rss))
 - MI6 conman told to repay £125,000 to fraud victim ([1 days ago](https://www.bbc.com/news/articles/c075v0ykv0xo?at_medium=RSS&at_campaign=rss))
 - Men distracted workers to steal £20k of jewellery ([1 days ago](https://www.bbc.com/news/articles/cy072nw31dgo?at_medium=RSS&at_campaign=rss))

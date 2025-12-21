@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dinner plate size pothole just past junction for Robert’s Road, 21st December :- [8578171](https://www.fixmystreet.com/report/8578171)
 - Potholes and uneven surface from juntion 10 m5 to past Junc 9, 21st December :- [8577832](https://www.fixmystreet.com/report/8577832)
 - Flytipping, 21st December :- [8577781](https://www.fixmystreet.com/report/8577781)
 - Deep pothole, 21st December :- [8577747](https://www.fixmystreet.com/report/8577747)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned street signs, 21st December :- [8576529](https://www.fixmystreet.com/report/8576529)
 - Pot hole in middle of road, 21st December :- [8576361](https://www.fixmystreet.com/report/8576361)
 - Red barrier appears abandoned leaning against bus stop, 21st December :- [8576239](https://www.fixmystreet.com/report/8576239)
-- Drain blocked. Pedestrians getting soaked by traffic., 21st December :- [8576211](https://www.fixmystreet.com/report/8576211)
 
 <!-- fix_marker ends -->

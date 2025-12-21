@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'No plans' to change bin collections says council ([3 hours ago](https://www.bbc.com/news/articles/c87l22yr3l7o?at_medium=RSS&at_campaign=rss))
-- Flood concerns spark calls for housing rethink ([11 hours ago](https://www.bbc.com/news/articles/cd0kr9mz24no?at_medium=RSS&at_campaign=rss))
-- In Pictures: 'Bears spread joy' and 'Wookey Witch' ([12 hours ago](https://www.bbc.com/news/articles/cpvdxk2x7z8o?at_medium=RSS&at_campaign=rss))
+- CCTV appeal after alleged racist remarks made ([1 hours ago](https://www.bbc.com/news/articles/clyx711577vo?at_medium=RSS&at_campaign=rss))
+- 'No plans' to change bin collections says council ([5 hours ago](https://www.bbc.com/news/articles/c87l22yr3l7o?at_medium=RSS&at_campaign=rss))
+- Flood concerns spark calls for housing rethink ([13 hours ago](https://www.bbc.com/news/articles/cd0kr9mz24no?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Bears spread joy' and 'Wookey Witch' ([13 hours ago](https://www.bbc.com/news/articles/cpvdxk2x7z8o?at_medium=RSS&at_campaign=rss))
 - Final outing for historic rail tour company ([1 days ago](https://www.bbc.com/news/articles/cgexv995dvdo?at_medium=RSS&at_campaign=rss))
 - Mayor of Cheltenham thanks racegoers for their generosity ([1 days ago](https://www.cheltenham.gov.uk/news/article/3081/mayor_of_cheltenham_thanks_racegoers_for_their_generosity))
 - Heavy rainfall helps West recover from dry spell ([1 days ago](https://www.bbc.com/news/articles/ce8qmdj585eo?at_medium=RSS&at_campaign=rss))
@@ -32,8 +33,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Teenagers appear in court over man's murder ([2 days ago](https://www.bbc.com/news/articles/cy4x2pp7ve9o?at_medium=RSS&at_campaign=rss))
 - Council may go 'bust' if politics not put aside ([2 days ago](https://www.bbc.com/news/articles/c4g49www9llo?at_medium=RSS&at_campaign=rss))
 - 'Norris misses top award' and 'man in hospital after wood in curry' ([2 days ago](https://www.bbc.com/news/articles/c7735dpmjzro?at_medium=RSS&at_campaign=rss))
-- How volunteers are spreading joy this Christmas ([2 days ago](https://www.bbc.com/news/articles/c3d0zxxr99go?at_medium=RSS&at_campaign=rss))
-- Two teenage boys charged in connection with Cheltenham murder ([2 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
+- Two teenage boys charged in connection with Cheltenham murder ([3 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
 - Local charity Cobalt appeals for used Christmas cards to support vital medical services ([3 days ago](https://gloucesternewscentre.co.uk/local-charity-cobalt-appeals-for-used-christmas-cards-to-support-vital-medical-services/))
 - 'Much-loved' café to close despite rise in customers ([3 days ago](https://www.bbc.com/news/articles/cly08jnm3mmo?at_medium=RSS&at_campaign=rss))
 - Three further arrests following murder in Cheltenham yesterday ([4 days ago](https://gloucesternewscentre.co.uk/three-further-arrests-following-murder-in-cheltenham-yesterday/))

@@ -14,7 +14,7 @@ seo: Menu
 - With highs of 9.75˚C and lows of 8.49˚C,
 - It may feel like 7.21˚C with light rain
 - The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 88%
+- The pressure is 1005hPa and humidity is 90%
 - The sun will rise at 08:13 and set at 15:59
 
 <!-- weather_marker ends -->

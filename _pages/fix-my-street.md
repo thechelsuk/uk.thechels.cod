@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes and uneven surface from juntion 10 m5 to past Junc 9, 21st December :- [8577832](https://www.fixmystreet.com/report/8577832)
+- Flytipping, 21st December :- [8577781](https://www.fixmystreet.com/report/8577781)
+- Deep pothole, 21st December :- [8577747](https://www.fixmystreet.com/report/8577747)
+- Large deep potholes on Undercliff Avenue just inside the turning from Leckhampton Road, 21st December :- [8577730](https://www.fixmystreet.com/report/8577730)
 - Rectangular Pothole at ramp, 21st December :- [8577341](https://www.fixmystreet.com/report/8577341)
 - Bus stop needs cleaning, 21st December :- [8577055](https://www.fixmystreet.com/report/8577055)
 - Numerous potholes alomg this strethch of road, 21st December :- [8576987](https://www.fixmystreet.com/report/8576987)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Pot hole in middle of road, 21st December :- [8576361](https://www.fixmystreet.com/report/8576361)
 - Red barrier appears abandoned leaning against bus stop, 21st December :- [8576239](https://www.fixmystreet.com/report/8576239)
 - Drain blocked. Pedestrians getting soaked by traffic., 21st December :- [8576211](https://www.fixmystreet.com/report/8576211)
-- Potholes, 21st December :- [8576204](https://www.fixmystreet.com/report/8576204)
-- Bridge flooded again on Thursday evening., 21st December :- [8575763](https://www.fixmystreet.com/report/8575763)
-- Large tree branches showing cracks, 20th December :- [8575080](https://www.fixmystreet.com/report/8575080)
-- Deep potholes along Bayshill Road dangerous for motorbikes also pedestrians at the crossing outside the Ladies College, 20th December :- [8574662](https://www.fixmystreet.com/report/8574662)
 
 <!-- fix_marker ends -->

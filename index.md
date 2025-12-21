@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 21 December 2025
 
-- The average temperature today is 8.58˚C,
-- With highs of 8.87˚C and lows of 8.15˚C,
-- It may feel like 6.2˚C with broken clouds
-- The wind speed is 4.12m/s and visibility is 8000m
-- The pressure is 1007hPa and humidity is 94%
+- The average temperature today is 9.5˚C,
+- With highs of 9.82˚C and lows of 8.17˚C,
+- It may feel like 8.18˚C with broken clouds
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 91%
 - The sun will rise at 08:13 and set at 15:59
 
 <!-- weather_marker ends -->

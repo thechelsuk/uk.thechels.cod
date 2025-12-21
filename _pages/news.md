@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Flood concerns spark calls for housing rethink ([1 hours ago](https://www.bbc.com/news/articles/cd0kr9mz24no?at_medium=RSS&at_campaign=rss))
-- In Pictures: 'Bears spread joy' and 'Wookey Witch' ([2 hours ago](https://www.bbc.com/news/articles/cpvdxk2x7z8o?at_medium=RSS&at_campaign=rss))
-- Final outing for historic rail tour company ([18 hours ago](https://www.bbc.com/news/articles/cgexv995dvdo?at_medium=RSS&at_campaign=rss))
-- Mayor of Cheltenham thanks racegoers for their generosity ([19 hours ago](https://www.cheltenham.gov.uk/news/article/3081/mayor_of_cheltenham_thanks_racegoers_for_their_generosity))
-- Heavy rainfall helps West recover from dry spell ([22 hours ago](https://www.bbc.com/news/articles/ce8qmdj585eo?at_medium=RSS&at_campaign=rss))
+- Flood concerns spark calls for housing rethink ([3 hours ago](https://www.bbc.com/news/articles/cd0kr9mz24no?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Bears spread joy' and 'Wookey Witch' ([3 hours ago](https://www.bbc.com/news/articles/cpvdxk2x7z8o?at_medium=RSS&at_campaign=rss))
+- Final outing for historic rail tour company ([20 hours ago](https://www.bbc.com/news/articles/cgexv995dvdo?at_medium=RSS&at_campaign=rss))
+- Mayor of Cheltenham thanks racegoers for their generosity ([21 hours ago](https://www.cheltenham.gov.uk/news/article/3081/mayor_of_cheltenham_thanks_racegoers_for_their_generosity))
+- Heavy rainfall helps West recover from dry spell ([1 days ago](https://www.bbc.com/news/articles/ce8qmdj585eo?at_medium=RSS&at_campaign=rss))
 - Charity 12-hour sleepout to highlight homelessness ([1 days ago](https://www.bbc.com/news/articles/clykpk08017o?at_medium=RSS&at_campaign=rss))
 - 'Delays amid 12-mile diversion' and 'dangerous footpath upgrade' ([1 days ago](https://www.bbc.com/news/articles/cm2v5jr7432o?at_medium=RSS&at_campaign=rss))
 - Ex-police officer guilty of raping sleeping woman ([1 days ago](https://www.bbc.com/news/articles/cy952glrzleo?at_medium=RSS&at_campaign=rss))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New campaign highlights the silent danger of sleeping in bins ([16 days ago](https://gloucesternewscentre.co.uk/new-campaign-highlights-the-silent-danger-of-sleeping-in-bins/))
 - Cheltenham man conquers 900km Camino de Santiago in memory of wife ([16 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-conquers-900km-camino-de-santiago-in-memory-of-wife/))
 - Cheltenham sexual entertainment venue plans approved ([16 days ago](https://gloucesternewscentre.co.uk/cheltenham-sexual-entertainment-venue-plans-approved/))
-- Christmas and New Year waste and recycling collections ([16 days ago](https://www.cheltenham.gov.uk/news/article/3079/christmas_and_new_year_waste_and_recycling_collections))
+- Christmas and New Year waste and recycling collections ([17 days ago](https://www.cheltenham.gov.uk/news/article/3079/christmas_and_new_year_waste_and_recycling_collections))
 - Wychwood Festival crowned ‘Family Festival of the Year’ ([17 days ago](https://gloucesternewscentre.co.uk/wychwood-festival-crowned-family-festival-of-the-year/))
 - Gloucestershire Hospitals NHS Trust first in UK to adopt wristband for patients with difficult intravenous access ([18 days ago](https://gloucesternewscentre.co.uk/gloucestershire-hospitals-nhs-trust-first-in-uk-to-adopt-wristband-for-patients-with-difficult-intravenous-access/))
 - Help shape the future: share your views on new research for the strategic and local plan ([19 days ago](https://www.cheltenham.gov.uk/news/article/3078/help_shape_the_future_share_your_views_on_new_research_for_the_strategic_and_local_plan))
@@ -61,8 +61,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Safer Streets Winter launches in Cheltenham following successful summer crackdown ([22 days ago](https://www.cheltenham.gov.uk/news/article/3076/safer_streets_winter_launches_in_cheltenham_following_successful_summer_crackdown))
 - Media release: Exciting new flagship development is breaking ground ([23 days ago](https://www.cheltenham.gov.uk/news/article/3075/media_release_exciting_new_flagship_development_is_breaking_ground))
 - 12 businesses awarded with CheltenhamZero business grant ([23 days ago](https://www.cheltenham.gov.uk/news/article/3074/12_businesses_awarded_with_cheltenhamzero_business_grant))
-- Cheltenham Borough Council supports two councils for Gloucestershire ([23 days ago](https://www.cheltenham.gov.uk/news/article/3073/cheltenham_borough_council_supports_two_councils_for_gloucestershire))
+- Cheltenham Borough Council supports two councils for Gloucestershire ([24 days ago](https://www.cheltenham.gov.uk/news/article/3073/cheltenham_borough_council_supports_two_councils_for_gloucestershire))
 - 16 Days of Activism launches in Cheltenham as a push for safer spaces for women and girls ([25 days ago](https://www.cheltenham.gov.uk/news/article/3072/16_days_of_activism_launches_in_cheltenham_as_a_push_for_safer_spaces_for_women_and_girls))
-- High school students and Leckhampton Rovers score goal with new sustainability trail app ([26 days ago](https://www.cheltenham.gov.uk/news/article/3071/high_school_students_and_leckhampton_rovers_score_goal_with_new_sustainability_trail_app))
+- High school students and Leckhampton Rovers score goal with new sustainability trail app ([27 days ago](https://www.cheltenham.gov.uk/news/article/3071/high_school_students_and_leckhampton_rovers_score_goal_with_new_sustainability_trail_app))
 
 <!-- news_marker ends -->

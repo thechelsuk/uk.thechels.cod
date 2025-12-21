@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Flood concerns spark calls for housing rethink ([6 hours ago](https://www.bbc.com/news/articles/cd0kr9mz24no?at_medium=RSS&at_campaign=rss))
-- In Pictures: 'Bears spread joy' and 'Wookey Witch' ([6 hours ago](https://www.bbc.com/news/articles/cpvdxk2x7z8o?at_medium=RSS&at_campaign=rss))
-- Final outing for historic rail tour company ([22 hours ago](https://www.bbc.com/news/articles/cgexv995dvdo?at_medium=RSS&at_campaign=rss))
-- Mayor of Cheltenham thanks racegoers for their generosity ([23 hours ago](https://www.cheltenham.gov.uk/news/article/3081/mayor_of_cheltenham_thanks_racegoers_for_their_generosity))
+- Flood concerns spark calls for housing rethink ([7 hours ago](https://www.bbc.com/news/articles/cd0kr9mz24no?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Bears spread joy' and 'Wookey Witch' ([7 hours ago](https://www.bbc.com/news/articles/cpvdxk2x7z8o?at_medium=RSS&at_campaign=rss))
+- Final outing for historic rail tour company ([1 days ago](https://www.bbc.com/news/articles/cgexv995dvdo?at_medium=RSS&at_campaign=rss))
+- Mayor of Cheltenham thanks racegoers for their generosity ([1 days ago](https://www.cheltenham.gov.uk/news/article/3081/mayor_of_cheltenham_thanks_racegoers_for_their_generosity))
 - Heavy rainfall helps West recover from dry spell ([1 days ago](https://www.bbc.com/news/articles/ce8qmdj585eo?at_medium=RSS&at_campaign=rss))
 - Charity 12-hour sleepout to highlight homelessness ([1 days ago](https://www.bbc.com/news/articles/clykpk08017o?at_medium=RSS&at_campaign=rss))
 - 'Delays amid 12-mile diversion' and 'dangerous footpath upgrade' ([1 days ago](https://www.bbc.com/news/articles/cm2v5jr7432o?at_medium=RSS&at_campaign=rss))
@@ -27,7 +27,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Men jailed after they admitted to stealing nearly £20,000-worth of jewellery in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/men-jailed-after-they-admitted-to-stealing-nearly-20000-worth-of-jewellery-in-cheltenham/))
 - Traffic disruption concerns over roadworks plan ([1 days ago](https://gloucesternewscentre.co.uk/traffic-disruption-concerns-over-roadworks-plan/))
 - New junction opens after months of closures ([1 days ago](https://www.bbc.com/news/articles/c39p24gr21po?at_medium=RSS&at_campaign=rss))
-- Bird flu at poultry farm leads to protection zone ([1 days ago](https://www.bbc.com/news/articles/ce3zpzllwego?at_medium=RSS&at_campaign=rss))
+- Bird flu at poultry farm leads to protection zone ([2 days ago](https://www.bbc.com/news/articles/ce3zpzllwego?at_medium=RSS&at_campaign=rss))
 - Teenagers appear in court over man's murder ([2 days ago](https://www.bbc.com/news/articles/cy4x2pp7ve9o?at_medium=RSS&at_campaign=rss))
 - Council may go 'bust' if politics not put aside ([2 days ago](https://www.bbc.com/news/articles/c4g49www9llo?at_medium=RSS&at_campaign=rss))
 - 'Norris misses top award' and 'man in hospital after wood in curry' ([2 days ago](https://www.bbc.com/news/articles/c7735dpmjzro?at_medium=RSS&at_campaign=rss))

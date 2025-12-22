@@ -20,12 +20,12 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. 
-Flooding is possible on 21 December 2025 . 
-River levels on the Bristol Avon, Tetbury Avon, Sherston Avon and Dauntsey Brook remain high but are slowly dropping today, Sunday the 21th December 2025. Limited rain expected today so we are not expecting flood warning thresholds to be reached to be met today. The weather outlook shows further showers next week but no significant rainstorms. 
-We are closely monitoring the situation . 
-Avoid using low lying footpaths and any bridges near local watercourses .Avoid low lying roads near rivers, which may be flooded 
-This message will be updated by 11:50AM on 22 December 2025 or as the situation changes.
+- High river levels today may lead to flooding. 
+Flooding is possible on 22 December 2025  
+River levels on the Bristol Avon, Tetbury Avon, Sherston Avon and Dauntsey Brook remain high but are slowly dropping today.  Areas most at risk include low lying land and roads around Tetbury, Badminton, Brook End at Luckington, Corsham and roads near Reybridge. This Flood Alert will be in force today; we are not expecting any new flood warnings for the Upper Avon at this time. The weather outlook currently shows more showers for the week ahead but no significant rain storms. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:27AM on 23 December 2025 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. Flooding remains possible.

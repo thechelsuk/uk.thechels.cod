@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- CCTV appeal after alleged racist remarks made ([6 hours ago](https://www.bbc.com/news/articles/clyx711577vo?at_medium=RSS&at_campaign=rss))
-- 'No plans' to change bin collections says council ([9 hours ago](https://www.bbc.com/news/articles/c87l22yr3l7o?at_medium=RSS&at_campaign=rss))
-- Flood concerns spark calls for housing rethink ([18 hours ago](https://www.bbc.com/news/articles/cd0kr9mz24no?at_medium=RSS&at_campaign=rss))
-- In Pictures: 'Bears spread joy' and 'Wookey Witch' ([18 hours ago](https://www.bbc.com/news/articles/cpvdxk2x7z8o?at_medium=RSS&at_campaign=rss))
+- CCTV appeal after alleged racist remarks made ([8 hours ago](https://www.bbc.com/news/articles/clyx711577vo?at_medium=RSS&at_campaign=rss))
+- 'No plans' to change bin collections says council ([11 hours ago](https://www.bbc.com/news/articles/c87l22yr3l7o?at_medium=RSS&at_campaign=rss))
+- Flood concerns spark calls for housing rethink ([20 hours ago](https://www.bbc.com/news/articles/cd0kr9mz24no?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Bears spread joy' and 'Wookey Witch' ([20 hours ago](https://www.bbc.com/news/articles/cpvdxk2x7z8o?at_medium=RSS&at_campaign=rss))
 - Final outing for historic rail tour company ([1 days ago](https://www.bbc.com/news/articles/cgexv995dvdo?at_medium=RSS&at_campaign=rss))
 - Mayor of Cheltenham thanks racegoers for their generosity ([1 days ago](https://www.cheltenham.gov.uk/news/article/3081/mayor_of_cheltenham_thanks_racegoers_for_their_generosity))
 - Heavy rainfall helps West recover from dry spell ([1 days ago](https://www.bbc.com/news/articles/ce8qmdj585eo?at_medium=RSS&at_campaign=rss))

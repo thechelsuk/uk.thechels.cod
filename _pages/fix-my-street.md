@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain cover Is making a noise everytime a vehicle passes and we live right by the bypass so hear it all day and night, 23rd December :- [8587278](https://www.fixmystreet.com/report/8587278)
 - Pavement covered in mud, 23rd December :- [8586754](https://www.fixmystreet.com/report/8586754)
 - Grass verge covered in gravel, 23rd December :- [8586745](https://www.fixmystreet.com/report/8586745)
 - Large pot hole adjacent access chamber in road, 23rd December :- [8586664](https://www.fixmystreet.com/report/8586664)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585655](https://www.fixmystreet.com/report/8585655)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585481](https://www.fixmystreet.com/report/8585481)
 - Potholes on roundabout, 23rd December :- [8585382](https://www.fixmystreet.com/report/8585382)
-- More failed repairs pot hole again, 23rd December :- [8585375](https://www.fixmystreet.com/report/8585375)
 
 <!-- fix_marker ends -->

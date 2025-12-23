@@ -20,12 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. 
-Flooding is possible on 22 December 2025  
-River levels on the Bristol Avon, Tetbury Avon, Sherston Avon and Dauntsey Brook remain high but are slowly dropping today.  Areas most at risk include low lying land and roads around Tetbury, Badminton, Brook End at Luckington, Corsham and roads near Reybridge. This Flood Alert will be in force today; we are not expecting any new flood warnings for the Upper Avon at this time. The weather outlook currently shows more showers for the week ahead but no significant rain storms. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:27AM on 23 December 2025 or as the situation changes.
+- River levels on the Bristol Avon, Tetbury Avon, Sherston Avon and Dauntsey Brook remain high but are slowly dropping today. Areas most at risk include low lying land and roads around Tetbury, Badminton, Brook End at Luckington, Corsham and roads near Reybridge. This Flood Alert will be removed tomorrow. The weather outlook currently shows more showers for the week ahead but no significant rain storms.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:27AM on 24 December 2025 or as the situation changes
 
 - Flood alert: River Churn and its tributaries
 - Flooding remains possible. Flooding of low lying land and roads is expected to continue as river levels along the River Churn remain high, particularly in Cerney Wick. The weather forecast is dry for Tuesday and Wednesday. We expect river levels to remain high over the next few days. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels. This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.

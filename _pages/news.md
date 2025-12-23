@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Cowboy builder jailed for 14 years for £1.25m fraud ([9 hours ago](https://www.bbc.com/news/articles/c5yj3rvgeg1o?at_medium=RSS&at_campaign=rss))
-- Timetable changes for festive bin collections ([10 hours ago](https://www.bbc.com/news/articles/c773ey4gexno?at_medium=RSS&at_campaign=rss))
-- Man sentenced for rape and false imprisonment ([13 hours ago](https://www.bbc.com/news/articles/cqjg1p84z18o?at_medium=RSS&at_campaign=rss))
-- Murder charge teenagers back in court in February ([13 hours ago](https://www.bbc.com/news/articles/ce86l2k6l46o?at_medium=RSS&at_campaign=rss))
-- 'Winter solstice' and 'Strictly winner' ([16 hours ago](https://www.bbc.com/news/articles/clydx764m3ko?at_medium=RSS&at_campaign=rss))
-- Plea to 'use right NHS service' as pressure mounts ([21 hours ago](https://www.bbc.com/news/articles/ce3wxre26l3o?at_medium=RSS&at_campaign=rss))
+- Cowboy builder jailed for 14 years for £1.25m fraud ([10 hours ago](https://www.bbc.com/news/articles/c5yj3rvgeg1o?at_medium=RSS&at_campaign=rss))
+- Timetable changes for festive bin collections ([12 hours ago](https://www.bbc.com/news/articles/c773ey4gexno?at_medium=RSS&at_campaign=rss))
+- Man sentenced for rape and false imprisonment ([15 hours ago](https://www.bbc.com/news/articles/cqjg1p84z18o?at_medium=RSS&at_campaign=rss))
+- Murder charge teenagers back in court in February ([15 hours ago](https://www.bbc.com/news/articles/ce86l2k6l46o?at_medium=RSS&at_campaign=rss))
+- 'Winter solstice' and 'Strictly winner' ([18 hours ago](https://www.bbc.com/news/articles/clydx764m3ko?at_medium=RSS&at_campaign=rss))
+- Plea to 'use right NHS service' as pressure mounts ([22 hours ago](https://www.bbc.com/news/articles/ce3wxre26l3o?at_medium=RSS&at_campaign=rss))
 - CCTV appeal after alleged racist remarks made ([1 days ago](https://www.bbc.com/news/articles/clyx711577vo?at_medium=RSS&at_campaign=rss))
 - 'No plans' to change bin collections says council ([1 days ago](https://www.bbc.com/news/articles/c87l22yr3l7o?at_medium=RSS&at_campaign=rss))
 - Flood concerns spark calls for housing rethink ([1 days ago](https://www.bbc.com/news/articles/cd0kr9mz24no?at_medium=RSS&at_campaign=rss))

@@ -86,7 +86,7 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 
 - Flood alert: River Severn in Gloucestershire
-- River levels are falling but remain high, therefore the risk of flooding continues on 23 December and over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe peaked at 4.13m on 21/12, Haw Bridge peaked at 4.97m 21/12. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 24 December 2025 or as the situation changes.
+- River levels are falling but remain high, therefore the risk of flooding continues on 24 December and over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe peaked at 4.13m on 21/12, Haw Bridge peaked at 4.97m 21/12. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 25 December 2025 or as the situation changes.
 
 - Warning no longer in force: River Avon in Worcestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

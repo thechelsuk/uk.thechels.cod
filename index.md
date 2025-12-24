@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 24 December 2025
 
-- The average temperature today is 3.96˚C,
-- With highs of 4.99˚C and lows of 3.16˚C,
-- It may feel like 1.91˚C with clear sky
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1035hPa and humidity is 81%
+- The average temperature today is 3.95˚C,
+- With highs of 4.42˚C and lows of 3.25˚C,
+- It may feel like -0.55˚C with clear sky
+- The wind speed is 6.26m/s and visibility is 10000m
+- The pressure is 1034hPa and humidity is 75%
 - The sun will rise at 08:15 and set at 16:00
 
 <!-- weather_marker ends -->

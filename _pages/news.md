@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man completes Christmas wheelbarrow marathon ([5 hours ago](https://www.bbc.com/news/articles/czxpzkwyyxlo?at_medium=RSS&at_campaign=rss))
-- Business to shut down after more than 100 years ([11 hours ago](https://www.bbc.com/news/articles/cgr1v505w50o?at_medium=RSS&at_campaign=rss))
-- Princess Anne to attend official campus opening ([14 hours ago](https://www.bbc.com/news/articles/c20kjv124nxo?at_medium=RSS&at_campaign=rss))
-- Christmas climbers to raise money for cancer charity ([14 hours ago](https://www.bbc.com/news/articles/cd9zv3wp979o?at_medium=RSS&at_campaign=rss))
+- Man completes Christmas wheelbarrow marathon ([7 hours ago](https://www.bbc.com/news/articles/czxpzkwyyxlo?at_medium=RSS&at_campaign=rss))
+- Business to shut down after more than 100 years ([13 hours ago](https://www.bbc.com/news/articles/cgr1v505w50o?at_medium=RSS&at_campaign=rss))
+- Princess Anne to attend official campus opening ([16 hours ago](https://www.bbc.com/news/articles/c20kjv124nxo?at_medium=RSS&at_campaign=rss))
+- Christmas climbers to raise money for cancer charity ([16 hours ago](https://www.bbc.com/news/articles/cd9zv3wp979o?at_medium=RSS&at_campaign=rss))
 - Go-ahead for Prinbox Works redevelopment ([1 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-prinbox-works-redevelopment/))
 - Council to protect services as funding is cut ([1 days ago](https://gloucesternewscentre.co.uk/council-to-protect-services-as-funding-is-cut/))
 - Further arrest made in connection with Cheltenham murder investigation ([1 days ago](https://gloucesternewscentre.co.uk/further-arrest-made-in-connection-with-cheltenham-murder-investigation/))

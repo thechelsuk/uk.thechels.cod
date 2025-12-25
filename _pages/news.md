@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- From 13st dog to tallest donkey: the amazing animals of 2025 ([12 hours ago](https://www.bbc.com/news/articles/c5ydl4j213zo?at_medium=RSS&at_campaign=rss))
-- The West's end of year news quiz ([13 hours ago](https://www.bbc.com/news/articles/clydjl0x488o?at_medium=RSS&at_campaign=rss))
+- From 13st dog to tallest donkey: the amazing animals of 2025 ([14 hours ago](https://www.bbc.com/news/articles/c5ydl4j213zo?at_medium=RSS&at_campaign=rss))
+- The West's end of year news quiz ([15 hours ago](https://www.bbc.com/news/articles/clydjl0x488o?at_medium=RSS&at_campaign=rss))
 - Man completes Christmas wheelbarrow marathon ([1 days ago](https://www.bbc.com/news/articles/czxpzkwyyxlo?at_medium=RSS&at_campaign=rss))
 - Business to shut down after more than 100 years ([1 days ago](https://www.bbc.com/news/articles/cgr1v505w50o?at_medium=RSS&at_campaign=rss))
 - Princess Anne to attend official campus opening ([1 days ago](https://www.bbc.com/news/articles/c20kjv124nxo?at_medium=RSS&at_campaign=rss))

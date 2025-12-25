@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- River levels on the Bristol Avon, Tetbury Avon, Sherston Avon and Dauntsey Brook remain high but are slowly dropping.  Areas most at risk include low lying land and roads around Tetbury, Badminton, Brook End at Luckington, Corsham and roads near Reybridge. The weather outlook currently shows dry weather for the next few days. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 6:00PM on 25 December 2025 or as the situation changes
+- River levels on the Bristol Avon, Tetbury Avon, Sherston Avon and Dauntsey Brook remain high but are slowly dropping. Areas most at risk include low lying land and roads around Tetbury, Badminton, Brook End at Luckington, Corsham and roads near Reybridge. The weather outlook currently shows dry weather for the next few days. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 6:00PM on 26 December 2025 or as the situation changes
 
 - Flood alert: River Churn and its tributaries
 - Flooding remains possible.

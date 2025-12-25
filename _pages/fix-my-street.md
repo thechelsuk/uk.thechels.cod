@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A tree has fallen across the bridge across the small stream, 25th December :- [8590809](https://www.fixmystreet.com/report/8590809)
 - Tree has fallen right across the path (Cotswold Way), 25th December :- [8590799](https://www.fixmystreet.com/report/8590799)
 - Trees require maintenance, 25th December :- [8590772](https://www.fixmystreet.com/report/8590772)
 - Multiple large potholes junction, 25th December :- [8590743](https://www.fixmystreet.com/report/8590743)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Several potholes - deteriorating tarmac, 23rd December :- [8587290](https://www.fixmystreet.com/report/8587290)
 - Drain cover Is making a noise everytime a vehicle passes and we live right by the bypass so hear it all day and night, 23rd December :- [8587278](https://www.fixmystreet.com/report/8587278)
 - Pavement covered in mud, 23rd December :- [8586754](https://www.fixmystreet.com/report/8586754)
-- Grass verge covered in gravel, 23rd December :- [8586745](https://www.fixmystreet.com/report/8586745)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Button not working at crossing, only stays on if another button is pressed at a seperate crossing, 25th December :- [8590396](https://www.fixmystreet.com/report/8590396)
 - Middle of the road, 25th December :- [8590347](https://www.fixmystreet.com/report/8590347)
 - Dangerous flooding across road, 24th December :- [8590197](https://www.fixmystreet.com/report/8590197)
 - Old roadworks refill has sunk, 24th December :- [8590122](https://www.fixmystreet.com/report/8590122)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large hole in road, on left hand edging going towards Badgeworth Road, opposite entrance to Elm Farm entrance, 23rd December :- [8586254](https://www.fixmystreet.com/report/8586254)
 - Pothole repair is broken, 23rd December :- [8585941](https://www.fixmystreet.com/report/8585941)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585992](https://www.fixmystreet.com/report/8585992)
-- TMC - Defects - Other problem, 23rd December :- [8585989](https://www.fixmystreet.com/report/8585989)
 
 <!-- fix_marker ends -->

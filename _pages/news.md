@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- The West's end of year news quiz ([2 minutes ago](https://www.bbc.com/news/articles/clydjl0x488o?at_medium=RSS&at_campaign=rss))
-- Man completes Christmas wheelbarrow marathon ([15 hours ago](https://www.bbc.com/news/articles/czxpzkwyyxlo?at_medium=RSS&at_campaign=rss))
-- Business to shut down after more than 100 years ([21 hours ago](https://www.bbc.com/news/articles/cgr1v505w50o?at_medium=RSS&at_campaign=rss))
+- The West's end of year news quiz ([2 hours ago](https://www.bbc.com/news/articles/clydjl0x488o?at_medium=RSS&at_campaign=rss))
+- Man completes Christmas wheelbarrow marathon ([17 hours ago](https://www.bbc.com/news/articles/czxpzkwyyxlo?at_medium=RSS&at_campaign=rss))
+- Business to shut down after more than 100 years ([23 hours ago](https://www.bbc.com/news/articles/cgr1v505w50o?at_medium=RSS&at_campaign=rss))
 - Princess Anne to attend official campus opening ([1 days ago](https://www.bbc.com/news/articles/c20kjv124nxo?at_medium=RSS&at_campaign=rss))
 - Christmas climbers to raise money for cancer charity ([1 days ago](https://www.bbc.com/news/articles/cd9zv3wp979o?at_medium=RSS&at_campaign=rss))
 - Go-ahead for Prinbox Works redevelopment ([1 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-prinbox-works-redevelopment/))
@@ -25,7 +25,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Third teenager arrested in connection to murder ([1 days ago](https://www.bbc.com/news/articles/c4g931j4ywlo?at_medium=RSS&at_campaign=rss))
 - Cheltenham Borough Council launches consultation on draft 2026/27 budget ([1 days ago](https://www.cheltenham.gov.uk/news/article/3082/cheltenham_borough_council_launches_consultation_on_draft_202627_budget))
 - 'Rogue builder' and 'Cycle link to cost £600k' ([1 days ago](https://www.bbc.com/news/articles/cr4d973vgpko?at_medium=RSS&at_campaign=rss))
-- Businesses in 'limbo' amid M5 junction funding gap ([1 days ago](https://www.bbc.com/news/articles/ckgmd0kppj5o?at_medium=RSS&at_campaign=rss))
+- Businesses in 'limbo' amid M5 junction funding gap ([2 days ago](https://www.bbc.com/news/articles/ckgmd0kppj5o?at_medium=RSS&at_campaign=rss))
 - Boy, 7, walking 1km a day in memory of grandmother ([2 days ago](https://www.bbc.com/news/articles/ce3wgyy69q2o?at_medium=RSS&at_campaign=rss))
 - Cowboy builder jailed for 14 years for £1.25m fraud ([2 days ago](https://www.bbc.com/news/articles/c5yj3rvgeg1o?at_medium=RSS&at_campaign=rss))
 - Timetable changes for festive bin collections ([2 days ago](https://www.bbc.com/news/articles/c773ey4gexno?at_medium=RSS&at_campaign=rss))

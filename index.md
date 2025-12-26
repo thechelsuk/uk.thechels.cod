@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 26 December 2025
 
-- The average temperature today is 2.75˚C,
-- With highs of 2.75˚C and lows of 2.75˚C,
-- It may feel like -1.08˚C with clear sky
-- The wind speed is 4.29m/s and visibility is 10000m
-- The pressure is 1028hPa and humidity is 80%
+- The average temperature today is 2.69˚C,
+- With highs of 2.69˚C and lows of 2.69˚C,
+- It may feel like -0.45˚C with clear sky
+- The wind speed is 3.23m/s and visibility is 10000m
+- The pressure is 1029hPa and humidity is 84%
 - The sun will rise at 08:15 and set at 16:02
 
 <!-- weather_marker ends -->

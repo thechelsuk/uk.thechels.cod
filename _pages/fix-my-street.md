@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tables, 26th December :- [8591284](https://www.fixmystreet.com/report/8591284)
+- Scaffold and debris, 26th December :- [8591279](https://www.fixmystreet.com/report/8591279)
 - Flags mounted on public infrastructure, 26th December :- [8591223](https://www.fixmystreet.com/report/8591223)
 - A tree has fallen across the bridge across the small stream, 25th December :- [8590809](https://www.fixmystreet.com/report/8590809)
 - Tree has fallen right across the path (Cotswold Way), 25th December :- [8590799](https://www.fixmystreet.com/report/8590799)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Broken Glass, 24th December :- [8588246](https://www.fixmystreet.com/report/8588246)
 - Dumped chest freezer outside 11 Goldsmith Road, 24th December :- [8587965](https://www.fixmystreet.com/report/8587965)
 - Holes around drain, 23rd December :- [8587405](https://www.fixmystreet.com/report/8587405)
-- Several potholes - deteriorating tarmac, 23rd December :- [8587290](https://www.fixmystreet.com/report/8587290)
-- Drain cover Is making a noise everytime a vehicle passes and we live right by the bypass so hear it all day and night, 23rd December :- [8587278](https://www.fixmystreet.com/report/8587278)
 
 <!-- fix_marker ends -->

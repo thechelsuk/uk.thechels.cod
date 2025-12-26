@@ -88,13 +88,6 @@ Avoid low lying roads near rivers, which may be flooded. Go to River levels onli
 
 This message will be updated by 12:00, midday, on the 27 December 2025 or as the situation changes.
 
-- Warning no longer in force: River Severn in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
-
-
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels have led to flooding of land close to the river.
 

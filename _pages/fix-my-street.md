@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 10 inch, deeply sunken pothole on the left of the road, 26th December :- [8592763](https://www.fixmystreet.com/report/8592763)
 - Blocked drain with growth, 26th December :- [8592261](https://www.fixmystreet.com/report/8592261)
 - Traffic lights not working, 26th December :- [8592238](https://www.fixmystreet.com/report/8592238)
 - Traffic lights not working, 26th December :- [8592237](https://www.fixmystreet.com/report/8592237)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Old roadworks refill has sunk, 24th December :- [8590122](https://www.fixmystreet.com/report/8590122)
 - Deep pothole, 24th December :- [8589699](https://www.fixmystreet.com/report/8589699)
 - Large deep pothole unavoidable, 24th December :- [8589691](https://www.fixmystreet.com/report/8589691)
-- Large stretch of badly deformed road causing risk to PTWs, bicycles and pedestrians, 24th December :- [8589344](https://www.fixmystreet.com/report/8589344)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 27 December 2025
 
-- The average temperature today is 0.99˚C,
-- With highs of 1.08˚C and lows of -0.16˚C,
-- It may feel like -0.37˚C with few clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1034hPa and humidity is 93%
+- The average temperature today is 0.25˚C,
+- With highs of 2.38˚C and lows of -0.72˚C,
+- It may feel like 0.25˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1035hPa and humidity is 94%
 - The sun will rise at 08:15 and set at 16:02
 
 <!-- weather_marker ends -->

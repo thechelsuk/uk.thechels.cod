@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned shopping trolley, 27th December :- [8594414](https://www.fixmystreet.com/report/8594414)
 - Broken glass, 27th December :- [8593916](https://www.fixmystreet.com/report/8593916)
 - Dog mess on pavement, 27th December :- [8593871](https://www.fixmystreet.com/report/8593871)
 - Pot hole in road, 27th December :- [8593050](https://www.fixmystreet.com/report/8593050)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Trees require maintenance, 25th December :- [8590772](https://www.fixmystreet.com/report/8590772)
 - Multiple large potholes junction, 25th December :- [8590743](https://www.fixmystreet.com/report/8590743)
 - Rubbish bags left on driveway at No. 10, 25th December :- [8590707](https://www.fixmystreet.com/report/8590707)
-- Tree blocking road, 25th December :- [8590679](https://www.fixmystreet.com/report/8590679)
 
 <!-- fix_marker ends -->

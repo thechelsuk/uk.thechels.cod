@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge amount of rubbish in the lay-by and beyond, 27th December :- [8594787](https://www.fixmystreet.com/report/8594787)
+- Rotary washing line and bin bag dumped, 27th December :- [8594581](https://www.fixmystreet.com/report/8594581)
+- Chipboard 4’x8’ left outside my house, 27th December :- [8594547](https://www.fixmystreet.com/report/8594547)
+- Quite deep pothole just outside my driveway, it keeps getting filled but within a few days it is back, 27th December :- [8594533](https://www.fixmystreet.com/report/8594533)
 - Abandoned shopping trolley, 27th December :- [8594414](https://www.fixmystreet.com/report/8594414)
 - Broken glass, 27th December :- [8593916](https://www.fixmystreet.com/report/8593916)
 - Dog mess on pavement, 27th December :- [8593871](https://www.fixmystreet.com/report/8593871)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Scaffold and debris, 26th December :- [8591279](https://www.fixmystreet.com/report/8591279)
 - Flags mounted on public infrastructure, 26th December :- [8591223](https://www.fixmystreet.com/report/8591223)
 - A tree has fallen across the bridge across the small stream, 25th December :- [8590809](https://www.fixmystreet.com/report/8590809)
-- Tree has fallen right across the path (Cotswold Way), 25th December :- [8590799](https://www.fixmystreet.com/report/8590799)
-- Trees require maintenance, 25th December :- [8590772](https://www.fixmystreet.com/report/8590772)
-- Multiple large potholes junction, 25th December :- [8590743](https://www.fixmystreet.com/report/8590743)
-- Rubbish bags left on driveway at No. 10, 25th December :- [8590707](https://www.fixmystreet.com/report/8590707)
 
 <!-- fix_marker ends -->

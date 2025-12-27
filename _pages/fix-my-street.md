@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside St James church, 27th December :- [8595201](https://www.fixmystreet.com/report/8595201)
+- A small patch was done last week but it failed to address 3metres of problem., 27th December :- [8595176](https://www.fixmystreet.com/report/8595176)
+- Pothole around drain on corner of road, 27th December :- [8595156](https://www.fixmystreet.com/report/8595156)
 - Perspex windows missing on shelter, 27th December :- [8594898](https://www.fixmystreet.com/report/8594898)
 - Huge amount of rubbish in the lay-by and beyond, 27th December :- [8594787](https://www.fixmystreet.com/report/8594787)
 - Rotary washing line and bin bag dumped, 27th December :- [8594581](https://www.fixmystreet.com/report/8594581)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Traffic lights not working, 26th December :- [8592238](https://www.fixmystreet.com/report/8592238)
 - Traffic lights not working, 26th December :- [8592237](https://www.fixmystreet.com/report/8592237)
 - Gulley is rattling again!!!! This has only recently repaired again, 26th December :- [8591832](https://www.fixmystreet.com/report/8591832)
-- Tables, 26th December :- [8591284](https://www.fixmystreet.com/report/8591284)
-- Scaffold and debris, 26th December :- [8591279](https://www.fixmystreet.com/report/8591279)
-- Flags mounted on public infrastructure, 26th December :- [8591223](https://www.fixmystreet.com/report/8591223)
 
 <!-- fix_marker ends -->

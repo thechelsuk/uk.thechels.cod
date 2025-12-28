@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 27 December 2025
+## On Sunday, 28 December 2025
 
-- The average temperature today is 6.64˚C,
-- With highs of 6.96˚C and lows of 5.71˚C,
-- It may feel like 3.42˚C with overcast clouds
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1035hPa and humidity is 85%
-- The sun will rise at 08:15 and set at 16:02
+- The average temperature today is 6.09˚C,
+- With highs of 6.64˚C and lows of 5.71˚C,
+- It may feel like 4.85˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1035hPa and humidity is 91%
+- The sun will rise at 08:15 and set at 16:03
 
 <!-- weather_marker ends -->
 

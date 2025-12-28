@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive potholes near the junction on Whaddon Road as pictures shown., 28th December :- [8597531](https://www.fixmystreet.com/report/8597531)
+- Over 6' foot long 18'" wide, 28th December :- [8597422](https://www.fixmystreet.com/report/8597422)
 - Blocked drain, 28th December :- [8596993](https://www.fixmystreet.com/report/8596993)
 - Blocked drain, 28th December :- [8596952](https://www.fixmystreet.com/report/8596952)
 - Blocked drain, 28th December :- [8596945](https://www.fixmystreet.com/report/8596945)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Defective resurfacing: uneven surface and loose stones, 28th December :- [8596264](https://www.fixmystreet.com/report/8596264)
 - Water ponding, 28th December :- [8595960](https://www.fixmystreet.com/report/8595960)
 - Pothole, 28th December :- [8595956](https://www.fixmystreet.com/report/8595956)
-- Pothole, 28th December :- [8595954](https://www.fixmystreet.com/report/8595954)
-- Pothole, 28th December :- [8595953](https://www.fixmystreet.com/report/8595953)
 
 <!-- fix_marker ends -->

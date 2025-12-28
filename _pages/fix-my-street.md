@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water ponding, 28th December :- [8595960](https://www.fixmystreet.com/report/8595960)
+- Pothole, 28th December :- [8595956](https://www.fixmystreet.com/report/8595956)
+- Pothole, 28th December :- [8595954](https://www.fixmystreet.com/report/8595954)
+- Pothole, 28th December :- [8595953](https://www.fixmystreet.com/report/8595953)
+- Pollard misding, 28th December :- [8595949](https://www.fixmystreet.com/report/8595949)
 - Outside St James church, 27th December :- [8595201](https://www.fixmystreet.com/report/8595201)
 - A small patch was done last week but it failed to address 3metres of problem., 27th December :- [8595176](https://www.fixmystreet.com/report/8595176)
 - Pothole around drain on corner of road, 27th December :- [8595156](https://www.fixmystreet.com/report/8595156)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Pot holes in road, 27th December :- [8593046](https://www.fixmystreet.com/report/8593046)
 - Pothole in road, 27th December :- [8593044](https://www.fixmystreet.com/report/8593044)
 - Pothole, 26th December :- [8592920](https://www.fixmystreet.com/report/8592920)
-- 10 inch, deeply sunken pothole on the left of the road, 26th December :- [8592763](https://www.fixmystreet.com/report/8592763)
-- Blocked drain with growth, 26th December :- [8592261](https://www.fixmystreet.com/report/8592261)
-- Traffic lights not working, 26th December :- [8592238](https://www.fixmystreet.com/report/8592238)
-- Traffic lights not working, 26th December :- [8592237](https://www.fixmystreet.com/report/8592237)
-- Gulley is rattling again!!!! This has only recently repaired again, 26th December :- [8591832](https://www.fixmystreet.com/report/8591832)
 
 <!-- fix_marker ends -->

@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Mother and two children die in Boxing Day blaze ([2 hours ago](https://www.bbc.com/news/articles/c0mpmw42jx4o?at_medium=RSS&at_campaign=rss))
-- Group close to raising £200k to buy community hub ([14 hours ago](https://www.bbc.com/news/articles/cg7ve2vej8lo?at_medium=RSS&at_campaign=rss))
-- Film to highlight changing face of the Cotswolds ([14 hours ago](https://www.bbc.com/news/articles/cr7l3xj3n5vo?at_medium=RSS&at_campaign=rss))
-- What can I do with my tree after Christmas? ([14 hours ago](https://www.bbc.com/news/articles/cvgqw19ppjeo?at_medium=RSS&at_campaign=rss))
+- Campaigning mum recognised in New Year Honours ([24 minutes ago](https://www.bbc.com/news/articles/c5ydyk5d31qo?at_medium=RSS&at_campaign=rss))
+- Mother and two children die in Boxing Day blaze ([4 hours ago](https://www.bbc.com/news/articles/c0mpmw42jx4o?at_medium=RSS&at_campaign=rss))
+- Group close to raising £200k to buy community hub ([16 hours ago](https://www.bbc.com/news/articles/cg7ve2vej8lo?at_medium=RSS&at_campaign=rss))
+- Film to highlight changing face of the Cotswolds ([16 hours ago](https://www.bbc.com/news/articles/cr7l3xj3n5vo?at_medium=RSS&at_campaign=rss))
+- What can I do with my tree after Christmas? ([16 hours ago](https://www.bbc.com/news/articles/cvgqw19ppjeo?at_medium=RSS&at_campaign=rss))
 - Charity fundraiser dies from MND ([1 days ago](https://www.bbc.com/news/articles/cwyl80pex4no?at_medium=RSS&at_campaign=rss))
 - Giant community mural is nearly finished ([1 days ago](https://www.bbc.com/news/articles/cre31gdrxd9o?at_medium=RSS&at_campaign=rss))
 - Plans on track for natural outdoor swimming spot ([1 days ago](https://www.bbc.com/news/articles/c04vvv1x3vdo?at_medium=RSS&at_campaign=rss))
@@ -27,7 +28,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Volunteers boost children's enjoyment of reading ([3 days ago](https://www.bbc.com/news/articles/c1lrql916ggo?at_medium=RSS&at_campaign=rss))
 - Got an e-scooter for Christmas? Here's what you should know ([3 days ago](https://www.bbc.com/news/articles/cn098gezdkeo?at_medium=RSS&at_campaign=rss))
 - Colourful new artwork brightens children’s hospital visits ([4 days ago](https://gloucesternewscentre.co.uk/colourful-new-artwork-brightens-childrens-hospital-visits/))
-- From 13st dog to tallest donkey: the amazing animals of 2025 ([4 days ago](https://www.bbc.com/news/articles/c5ydl4j213zo?at_medium=RSS&at_campaign=rss))
 - The West's end of year news quiz ([4 days ago](https://www.bbc.com/news/articles/clydjl0x488o?at_medium=RSS&at_campaign=rss))
 - Princess Anne to attend official campus opening ([5 days ago](https://www.bbc.com/news/articles/c20kjv124nxo?at_medium=RSS&at_campaign=rss))
 - Go-ahead for Prinbox Works redevelopment ([6 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-prinbox-works-redevelopment/))

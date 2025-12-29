@@ -53,14 +53,12 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 
 This message will be updated by 12:00, midday, on the 30 December 2025 or as the situation changes.
 
-- Flood alert: River Leach from Northleach to Mill Lane near Lechlade
-- The flood risk remains.
+- Warning no longer in force: River Leach from Northleach to Mill Lane near Lechlade
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
 
-Flooding of low lying land and roads remains possible in the Lechlade area.  The weather forecast is for dry conditions to continue through today, 29 December, overnight and into tomorrow. We expect river levels to remain high over the next few days.
-
-We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
-
-This message will be updated by 12:00, midday, on the 30 December 2025 or as the situation changes.
 
 - Warning no longer in force: River Thames and tributaries from Buscot Wick down to Kings Lock
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

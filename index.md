@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 29 December 2025
 
-- The average temperature today is 5.38˚C,
-- With highs of 5.75˚C and lows of 4.83˚C,
-- It may feel like 1.75˚C with overcast clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1029hPa and humidity is 77%
+- The average temperature today is 5.35˚C,
+- With highs of 5.85˚C and lows of 4.75˚C,
+- It may feel like 2.22˚C with overcast clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1029hPa and humidity is 78%
 - The sun will rise at 08:16 and set at 16:04
 
 <!-- weather_marker ends -->

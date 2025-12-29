@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole in dual carriageway., 29th December :- [8598804](https://www.fixmystreet.com/report/8598804)
+- Flags on lamp posts, 29th December :- [8598799](https://www.fixmystreet.com/report/8598799)
+- Street light flashing on and off, 29th December :- [8598796](https://www.fixmystreet.com/report/8598796)
 - Massive potholes near the junction on Whaddon Road as pictures shown., 28th December :- [8597531](https://www.fixmystreet.com/report/8597531)
 - Over 6' foot long 18'" wide, 28th December :- [8597422](https://www.fixmystreet.com/report/8597422)
 - Blocked drain, 28th December :- [8596993](https://www.fixmystreet.com/report/8596993)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - As you leave Gallagher retail park & turn right with Aldi on your left a pothole on the merging lane, 28th December :- [8596524](https://www.fixmystreet.com/report/8596524)
 - Tarmac needs replacing around drain, 28th December :- [8596407](https://www.fixmystreet.com/report/8596407)
 - Bin over flowing, 28th December :- [8596365](https://www.fixmystreet.com/report/8596365)
-- Defective resurfacing: uneven surface and loose stones, 28th December :- [8596264](https://www.fixmystreet.com/report/8596264)
-- Water ponding, 28th December :- [8595960](https://www.fixmystreet.com/report/8595960)
-- Pothole, 28th December :- [8595956](https://www.fixmystreet.com/report/8595956)
 
 <!-- fix_marker ends -->

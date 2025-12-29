@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Charity fundraiser dies from MND ([14 hours ago](https://www.bbc.com/news/articles/cwyl80pex4no?at_medium=RSS&at_campaign=rss))
-- Giant community mural is nearly finished ([20 hours ago](https://www.bbc.com/news/articles/cre31gdrxd9o?at_medium=RSS&at_campaign=rss))
-- Plans on track for natural outdoor swimming spot ([20 hours ago](https://www.bbc.com/news/articles/c04vvv1x3vdo?at_medium=RSS&at_campaign=rss))
+- Charity fundraiser dies from MND ([16 hours ago](https://www.bbc.com/news/articles/cwyl80pex4no?at_medium=RSS&at_campaign=rss))
+- Giant community mural is nearly finished ([21 hours ago](https://www.bbc.com/news/articles/cre31gdrxd9o?at_medium=RSS&at_campaign=rss))
+- Plans on track for natural outdoor swimming spot ([21 hours ago](https://www.bbc.com/news/articles/c04vvv1x3vdo?at_medium=RSS&at_campaign=rss))
 - Three still missing after Boxing Day house fire ([1 days ago](https://www.bbc.com/news/articles/cp9kdxrv9ngo?at_medium=RSS&at_campaign=rss))
 - Changes to weekend rail journeys in January ([1 days ago](https://www.bbc.com/news/articles/c79xy3ry9geo?at_medium=RSS&at_campaign=rss))
 - Memories recaptured through live performances ([1 days ago](https://www.bbc.com/news/articles/c39pw11rn00o?at_medium=RSS&at_campaign=rss))

@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Mother and two children die in Boxing Day blaze ([55 minutes ago](https://www.bbc.com/news/articles/c0mpmw42jx4o?at_medium=RSS&at_campaign=rss))
-- Group close to raising £200k to buy community hub ([12 hours ago](https://www.bbc.com/news/articles/cg7ve2vej8lo?at_medium=RSS&at_campaign=rss))
-- Film to highlight changing face of the Cotswolds ([12 hours ago](https://www.bbc.com/news/articles/cr7l3xj3n5vo?at_medium=RSS&at_campaign=rss))
-- What can I do with my tree after Christmas? ([12 hours ago](https://www.bbc.com/news/articles/cvgqw19ppjeo?at_medium=RSS&at_campaign=rss))
+- Mother and two children die in Boxing Day blaze ([2 hours ago](https://www.bbc.com/news/articles/c0mpmw42jx4o?at_medium=RSS&at_campaign=rss))
+- Group close to raising £200k to buy community hub ([14 hours ago](https://www.bbc.com/news/articles/cg7ve2vej8lo?at_medium=RSS&at_campaign=rss))
+- Film to highlight changing face of the Cotswolds ([14 hours ago](https://www.bbc.com/news/articles/cr7l3xj3n5vo?at_medium=RSS&at_campaign=rss))
+- What can I do with my tree after Christmas? ([14 hours ago](https://www.bbc.com/news/articles/cvgqw19ppjeo?at_medium=RSS&at_campaign=rss))
 - Charity fundraiser dies from MND ([1 days ago](https://www.bbc.com/news/articles/cwyl80pex4no?at_medium=RSS&at_campaign=rss))
 - Giant community mural is nearly finished ([1 days ago](https://www.bbc.com/news/articles/cre31gdrxd9o?at_medium=RSS&at_campaign=rss))
 - Plans on track for natural outdoor swimming spot ([1 days ago](https://www.bbc.com/news/articles/c04vvv1x3vdo?at_medium=RSS&at_campaign=rss))
@@ -39,7 +39,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham 2026 elections could be postponed due to local government reorganisation ([10 days ago](https://gloucesternewscentre.co.uk/cheltenham-2026-elections-could-be-postponed-due-to-local-government-reorganisation/))
 - Men jailed after they admitted to stealing nearly £20,000-worth of jewellery in Cheltenham ([10 days ago](https://gloucesternewscentre.co.uk/men-jailed-after-they-admitted-to-stealing-nearly-20000-worth-of-jewellery-in-cheltenham/))
 - Traffic disruption concerns over roadworks plan ([10 days ago](https://gloucesternewscentre.co.uk/traffic-disruption-concerns-over-roadworks-plan/))
-- Two teenage boys charged in connection with Cheltenham murder ([10 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
+- Two teenage boys charged in connection with Cheltenham murder ([11 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
 - Local charity Cobalt appeals for used Christmas cards to support vital medical services ([11 days ago](https://gloucesternewscentre.co.uk/local-charity-cobalt-appeals-for-used-christmas-cards-to-support-vital-medical-services/))
 - Three further arrests following murder in Cheltenham yesterday ([12 days ago](https://gloucesternewscentre.co.uk/three-further-arrests-following-murder-in-cheltenham-yesterday/))
 - Duracell E-Charge launches first UK ultra-rapid charging hub in Cheltenham ([12 days ago](https://gloucesternewscentre.co.uk/duracell-e-charge-launches-first-uk-ultra-rapid-charging-hub-in-cheltenham/))

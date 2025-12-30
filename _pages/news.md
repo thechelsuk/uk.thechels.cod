@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Campaigning mum recognised in New Year Honours ([4 hours ago](https://www.bbc.com/news/articles/c5ydyk5d31qo?at_medium=RSS&at_campaign=rss))
-- Mother and two children die in Boxing Day blaze ([9 hours ago](https://www.bbc.com/news/articles/c0mpmw42jx4o?at_medium=RSS&at_campaign=rss))
-- Group close to raising £200k to buy community hub ([20 hours ago](https://www.bbc.com/news/articles/cg7ve2vej8lo?at_medium=RSS&at_campaign=rss))
-- Film to highlight changing face of the Cotswolds ([20 hours ago](https://www.bbc.com/news/articles/cr7l3xj3n5vo?at_medium=RSS&at_campaign=rss))
-- What can I do with my tree after Christmas? ([21 hours ago](https://www.bbc.com/news/articles/cvgqw19ppjeo?at_medium=RSS&at_campaign=rss))
+- Campaigning mum recognised in New Year Honours ([6 hours ago](https://www.bbc.com/news/articles/c5ydyk5d31qo?at_medium=RSS&at_campaign=rss))
+- Mother and two children die in Boxing Day blaze ([10 hours ago](https://www.bbc.com/news/articles/c0mpmw42jx4o?at_medium=RSS&at_campaign=rss))
+- Group close to raising £200k to buy community hub ([22 hours ago](https://www.bbc.com/news/articles/cg7ve2vej8lo?at_medium=RSS&at_campaign=rss))
+- Film to highlight changing face of the Cotswolds ([22 hours ago](https://www.bbc.com/news/articles/cr7l3xj3n5vo?at_medium=RSS&at_campaign=rss))
+- What can I do with my tree after Christmas? ([22 hours ago](https://www.bbc.com/news/articles/cvgqw19ppjeo?at_medium=RSS&at_campaign=rss))
 - Charity fundraiser dies from MND ([1 days ago](https://www.bbc.com/news/articles/cwyl80pex4no?at_medium=RSS&at_campaign=rss))
 - Giant community mural is nearly finished ([1 days ago](https://www.bbc.com/news/articles/cre31gdrxd9o?at_medium=RSS&at_campaign=rss))
 - Plans on track for natural outdoor swimming spot ([1 days ago](https://www.bbc.com/news/articles/c04vvv1x3vdo?at_medium=RSS&at_campaign=rss))

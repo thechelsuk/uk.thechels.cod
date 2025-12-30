@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,78 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 30th December</title>
+<link>https://www.fixmystreet.com/report/8604705</link>
+<description>15MDB&amp;#10;CWPH &amp;#10;400 X 300.X 41MM&amp;#10;NOT MARKED (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8604705&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8604705</guid>
+<pubDate>Tue, 30 Dec 2025 10:15:23 +0000</pubDate>
+<georss:point>51.864653 -1.94876439999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other problem, 30th December</title>
+<link>https://www.fixmystreet.com/report/8604697</link>
+<description>15MDB &amp;#10;PLANNINGS REQUIRED &amp;#10;CW OVERIDING&amp;#10;5000 X 500 X 60MM&amp;#10;NOT MARKED (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8604697&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8604697</guid>
+<pubDate>Tue, 30 Dec 2025 10:09:10 +0000</pubDate>
+<georss:point>51.870792 -1.9488309</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 30th December</title>
+<link>https://www.fixmystreet.com/report/8604696</link>
+<description>15MDB&amp;#10;CWPH &amp;#10;300 X 300.X 41MM&amp;#10;NOT MARKED (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8604696&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8604696</guid>
+<pubDate>Tue, 30 Dec 2025 10:09:00 +0000</pubDate>
+<georss:point>51.8725272 -1.94948370000002</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other problem, 30th December</title>
+<link>https://www.fixmystreet.com/report/8604695</link>
+<description>15MDB &amp;#10;PLANNINGS REQUIRED &amp;#10;CW OVERIDING&amp;#10;4000 X 500 X 60MM&amp;#10;NOT MARKED (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8604695&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8604695</guid>
+<pubDate>Tue, 30 Dec 2025 10:08:49 +0000</pubDate>
+<georss:point>51.8726158 -1.94951350000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 30th December</title>
+<link>https://www.fixmystreet.com/report/8604690</link>
+<description>Perm repair raised for temp already completed&amp;#10;Pothole CW&amp;#10;1000x500x40mm approx&amp;#10;Road closure&amp;#10;Unable to mark, measure or take a picture due to location and line working (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8604690&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8604690</guid>
+<pubDate>Tue, 30 Dec 2025 09:49:28 +0000</pubDate>
+<georss:point>51.8843583571075 -2.14256656757192</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 30th December</title>
+<link>https://www.fixmystreet.com/report/8604328</link>
+<description>ENWD&amp;#10;1000x600x80mm&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8604328&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8604328</guid>
+<pubDate>Tue, 30 Dec 2025 09:23:18 +0000</pubDate>
+<georss:point>51.9116272 -2.14163389999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 30th December</title>
+<link>https://www.fixmystreet.com/report/8604327</link>
+<description>ENWD&amp;#10;900x600x80mm&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8604327&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8604327</guid>
+<pubDate>Tue, 30 Dec 2025 09:23:18 +0000</pubDate>
+<georss:point>51.9116134 -2.1415981</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 30th December</title>
+<link>https://www.fixmystreet.com/report/8604323</link>
+<description>Please cut hedge back to safe, obscuring FW&amp;#10;Standard TM with temp FW closure&amp;#10;5m (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8604323&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8604323</guid>
+<pubDate>Tue, 30 Dec 2025 09:07:07 +0000</pubDate>
+<georss:point>51.9159683 -2.11910560000001</georss:point>
+</item>
 <item>
 <title>Pot holes reappeared around fixed areas, 30th December</title>
 <link>https://www.fixmystreet.com/report/8604010</link>
@@ -121,78 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8601693</guid>
 <pubDate>Mon, 29 Dec 2025 14:26:39 +0000</pubDate>
 <georss:point>51.8858306 -2.10540080000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th December</title>
-<link>https://www.fixmystreet.com/report/8601692</link>
-<description>Pothole CW&amp;#10;800x500x50mm approx&amp;#10;Road closure &amp;#10;Not marked or measured due to location (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8601692&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8601692</guid>
-<pubDate>Mon, 29 Dec 2025 14:24:12 +0000</pubDate>
-<georss:point>51.8857923 -2.10584319999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th December</title>
-<link>https://www.fixmystreet.com/report/8601689</link>
-<description>Pothole CW&amp;#10;400x400x40mm&amp;#10;Road closure&amp;#10;No parking cones required before starting work. (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8601689&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8601689</guid>
-<pubDate>Mon, 29 Dec 2025 14:12:45 +0000</pubDate>
-<georss:point>51.892051 -2.08674270000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th December</title>
-<link>https://www.fixmystreet.com/report/8601691</link>
-<description>Pothole CW&amp;#10;500x300x40mm&amp;#10;Road closure&amp;#10;X 1 NSD&amp;#10;No parking cones required before starting work. (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8601691&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8601691</guid>
-<pubDate>Mon, 29 Dec 2025 14:12:45 +0000</pubDate>
-<georss:point>51.8920418 -2.08676079999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th December</title>
-<link>https://www.fixmystreet.com/report/8601690</link>
-<description>Pothole CW&amp;#10;600x500x40mm&amp;#10;Road closure&amp;#10;No parking cones required before work (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8601690&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8601690</guid>
-<pubDate>Mon, 29 Dec 2025 14:12:45 +0000</pubDate>
-<georss:point>51.8920479 -2.0867557</georss:point>
-</item>
-<item>
-<title>TMC - Defects -FW6 Potholes problem, 29th December</title>
-<link>https://www.fixmystreet.com/report/8601679</link>
-<description>Pothole FW 600mm  x  300mm  x 200mm &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Outside Kimberley &amp;#10;Stats required &amp;#10;Enquiry raised for AHR to investigate cause. (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8601679&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8601679</guid>
-<pubDate>Mon, 29 Dec 2025 13:59:54 +0000</pubDate>
-<georss:point>51.8775851 -2.05267999999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 29th December</title>
-<link>https://www.fixmystreet.com/report/8601677</link>
-<description>Rocking slab. &amp;#10;Please lift and relay x 1 750x600mm rocking slab &amp;#10;Standard TM with temp FW closure&amp;#10;Stats (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8601677&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8601677</guid>
-<pubDate>Mon, 29 Dec 2025 13:58:18 +0000</pubDate>
-<georss:point>51.8946867 -2.08297449999999</georss:point>
-</item>
-<item>
-<title>A pothole in road problem, 29th December</title>
-<link>https://www.fixmystreet.com/report/8601451</link>
-<description>Customer reporting deep pothole in the c/way&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8601451&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8601451</guid>
-<pubDate>Mon, 29 Dec 2025 13:55:40 +0000</pubDate>
-<georss:point>51.84959 -2.081244</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 29th December</title>
-<link>https://www.fixmystreet.com/report/8601460</link>
-<description>15DB &amp;#10;Pothole CW  1300mm  x 580mm  x 41mm &amp;#10;Give and take TM &amp;#10;Opposite 122&amp;#10;Narrow lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8601460&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8601460</guid>
-<pubDate>Mon, 29 Dec 2025 13:49:04 +0000</pubDate>
-<georss:point>51.8805054 -2.05182259999999</georss:point>
 </item>
 </channel>
 </rss>

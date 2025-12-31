@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Request to put yellow lines on Shakespeare road to help bus route, 31st December :- [8611292](https://www.fixmystreet.com/report/8611292)
+- Pot hole caused damage to my front left tyre, 31st December :- [8611246](https://www.fixmystreet.com/report/8611246)
 - Potholes at the entrance to the McDonalds trading centre, 31st December :- [8611150](https://www.fixmystreet.com/report/8611150)
 - Over 12”, large stones which hit cars and has caused damage, 31st December :- [8610966](https://www.fixmystreet.com/report/8610966)
 - Electrical cable dangling, 31st December :- [8610604](https://www.fixmystreet.com/report/8610604)
@@ -18,16 +20,14 @@ permalink: /fix-my-street
 - Abandoned Van., 31st December :- [8609836](https://www.fixmystreet.com/report/8609836)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609878](https://www.fixmystreet.com/report/8609878)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609877](https://www.fixmystreet.com/report/8609877)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609854](https://www.fixmystreet.com/report/8609854)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609852](https://www.fixmystreet.com/report/8609852)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609856](https://www.fixmystreet.com/report/8609856)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609855](https://www.fixmystreet.com/report/8609855)
+- TMC - Defects -CW10 Potholes problem, 31st December :- [8609852](https://www.fixmystreet.com/report/8609852)
+- TMC - Defects -CW10 Potholes problem, 31st December :- [8609854](https://www.fixmystreet.com/report/8609854)
+- TMC - Defects -CW10 Potholes problem, 31st December :- [8609856](https://www.fixmystreet.com/report/8609856)
 - Large multiple potholes in road at entrance to mill lane., 31st December :- [8609675](https://www.fixmystreet.com/report/8609675)
 - Volunteer litter pick bags ready for collection, 31st December :- [8609636](https://www.fixmystreet.com/report/8609636)
 - TMC - Defects - Vegetation problem, 31st December :- [8609690](https://www.fixmystreet.com/report/8609690)
 - TMC - Defects -CW6 Potholes  problem, 31st December :- [8609688](https://www.fixmystreet.com/report/8609688)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609512](https://www.fixmystreet.com/report/8609512)
-- Blocked drain causing flooding, 31st December :- [8609422](https://www.fixmystreet.com/report/8609422)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609509](https://www.fixmystreet.com/report/8609509)
 
 <!-- fix_marker ends -->

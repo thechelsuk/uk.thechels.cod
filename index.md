@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 31 December 2025
 
-- The average temperature today is -0.66˚C,
-- With highs of -0.02˚C and lows of -2.31˚C,
-- It may feel like -0.66˚C with few clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1032hPa and humidity is 97%
+- The average temperature today is 0.47˚C,
+- With highs of 2.14˚C and lows of -0.25˚C,
+- It may feel like -0.96˚C with few clouds
+- The wind speed is 1.34m/s and visibility is 9000m
+- The pressure is 1031hPa and humidity is 96%
 - The sun will rise at 08:16 and set at 16:06
 
 <!-- weather_marker ends -->

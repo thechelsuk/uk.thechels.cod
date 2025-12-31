@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large deep pothole, 31st December :- [8608456](https://www.fixmystreet.com/report/8608456)
 - 3 x pot holes, 30th December :- [8607973](https://www.fixmystreet.com/report/8607973)
 - Multiple potholes located going down the bridge slope heading towards ‘the reddings’, 30th December :- [8607941](https://www.fixmystreet.com/report/8607941)
 - Abandoned warning sign, 30th December :- [8607468](https://www.fixmystreet.com/report/8607468)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 20 inch in diameter and at steepest point of camber is deeper than a tennis ball., 30th December :- [8606201](https://www.fixmystreet.com/report/8606201)
 - TMC - Defects -CW6 Potholes  problem, 30th December :- [8606280](https://www.fixmystreet.com/report/8606280)
 - TMC - Defects -CW6 Potholes  problem, 30th December :- [8606273](https://www.fixmystreet.com/report/8606273)
-- TMC - Defects -CW6 Potholes  problem, 30th December :- [8606272](https://www.fixmystreet.com/report/8606272)
 
 <!-- fix_marker ends -->

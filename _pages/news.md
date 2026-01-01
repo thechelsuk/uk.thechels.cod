@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man completes 52 half marathons for charity ([3 hours ago](https://www.bbc.com/news/articles/cx2gynkk0npo?at_medium=RSS&at_campaign=rss))
-- Dad pays tribute to 'wonderful family' killed in Boxing Day fire ([8 hours ago](https://www.bbc.com/news/articles/c14r88ylvl1o?at_medium=RSS&at_campaign=rss))
-- Father and son left homeless after rental scam ([13 hours ago](https://www.bbc.com/news/articles/cvgj0qqeqw3o?at_medium=RSS&at_campaign=rss))
-- Major changes planned for Gloucestershire in 2026 ([13 hours ago](https://www.bbc.com/news/articles/c8xd7x889xno?at_medium=RSS&at_campaign=rss))
+- Man completes 52 half marathons for charity ([5 hours ago](https://www.bbc.com/news/articles/cx2gynkk0npo?at_medium=RSS&at_campaign=rss))
+- Dad pays tribute to 'wonderful family' killed in Boxing Day fire ([10 hours ago](https://www.bbc.com/news/articles/c14r88ylvl1o?at_medium=RSS&at_campaign=rss))
+- Father and son left homeless after rental scam ([15 hours ago](https://www.bbc.com/news/articles/cvgj0qqeqw3o?at_medium=RSS&at_campaign=rss))
+- Major changes planned for Gloucestershire in 2026 ([15 hours ago](https://www.bbc.com/news/articles/c8xd7x889xno?at_medium=RSS&at_campaign=rss))
 - Woman in her 60s dies following crash ([1 days ago](https://www.bbc.com/news/articles/clygn180pe1o?at_medium=RSS&at_campaign=rss))
 - 'Boxing history' and 'Free Christmas dinners' ([1 days ago](https://www.bbc.com/news/articles/cje12dngk2xo?at_medium=RSS&at_campaign=rss))
 - New ambulances rolled out to ease winter pressures ([1 days ago](https://www.bbc.com/news/articles/c4grzj97r6eo?at_medium=RSS&at_campaign=rss))

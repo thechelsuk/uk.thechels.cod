@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cattle ruining path, 1st January :- [8614199](https://www.fixmystreet.com/report/8614199)
 - Unsafe double rim--more likely to hit hand/head, 1st January :- [8613947](https://www.fixmystreet.com/report/8613947)
 - Leaves and litter at the edge, 1st January :- [8613919](https://www.fixmystreet.com/report/8613919)
 - No markings, 1st January :- [8613912](https://www.fixmystreet.com/report/8613912)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Multiple holes from 45 to 67 Malden Road, 31st December :- [8611700](https://www.fixmystreet.com/report/8611700)
 - The gate was tied with a knot we could not undo so I cut it out. But the gate lock area was deliberately infilled with thorny bush offcuts we had to cut out first. It was a deliberate act to prevent access., 31st December :- [8611509](https://www.fixmystreet.com/report/8611509)
 - Request to put yellow lines on Shakespeare road to help bus route, 31st December :- [8611292](https://www.fixmystreet.com/report/8611292)
-- Pot hole caused damage to my front left tyre, 31st December :- [8611246](https://www.fixmystreet.com/report/8611246)
 
 <!-- fix_marker ends -->

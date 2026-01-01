@@ -12,18 +12,18 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Father and son left homeless after rental scam ([1 hours ago](https://www.bbc.com/news/articles/cvgj0qqeqw3o?at_medium=RSS&at_campaign=rss))
-- Major changes planned for Gloucestershire in 2026 ([1 hours ago](https://www.bbc.com/news/articles/c8xd7x889xno?at_medium=RSS&at_campaign=rss))
-- Tributes to mum and kids who died in Boxing Day fire ([17 hours ago](https://www.bbc.com/news/articles/cd7z34y085wo?at_medium=RSS&at_campaign=rss))
-- Woman in her 60s dies following crash ([21 hours ago](https://www.bbc.com/news/articles/clygn180pe1o?at_medium=RSS&at_campaign=rss))
-- 'Boxing history' and 'Free Christmas dinners' ([21 hours ago](https://www.bbc.com/news/articles/cje12dngk2xo?at_medium=RSS&at_campaign=rss))
-- New ambulances rolled out to ease winter pressures ([23 hours ago](https://www.bbc.com/news/articles/c4grzj97r6eo?at_medium=RSS&at_campaign=rss))
+- Dad pays tribute to 'wonderful family' killed in Boxing Day fire ([9 minutes ago](https://www.bbc.com/news/articles/c14r88ylvl1o?at_medium=RSS&at_campaign=rss))
+- Father and son left homeless after rental scam ([3 hours ago](https://www.bbc.com/news/articles/cvgj0qqeqw3o?at_medium=RSS&at_campaign=rss))
+- Major changes planned for Gloucestershire in 2026 ([3 hours ago](https://www.bbc.com/news/articles/c8xd7x889xno?at_medium=RSS&at_campaign=rss))
+- Woman in her 60s dies following crash ([23 hours ago](https://www.bbc.com/news/articles/clygn180pe1o?at_medium=RSS&at_campaign=rss))
+- 'Boxing history' and 'Free Christmas dinners' ([23 hours ago](https://www.bbc.com/news/articles/cje12dngk2xo?at_medium=RSS&at_campaign=rss))
+- New ambulances rolled out to ease winter pressures ([1 days ago](https://www.bbc.com/news/articles/c4grzj97r6eo?at_medium=RSS&at_campaign=rss))
 - Abandoned phone box highlights 'rich' local history ([1 days ago](https://www.bbc.com/news/articles/cgex0nelr91o?at_medium=RSS&at_campaign=rss))
 - Picture round-up of the best moments in 2025 ([1 days ago](https://www.bbc.com/news/articles/cgqzl32177do?at_medium=RSS&at_campaign=rss))
 - Concerns new town could create 'traffic corridor' ([1 days ago](https://www.bbc.com/news/articles/cdxwxvke1wno?at_medium=RSS&at_campaign=rss))
 - Man sexually assaulted teenage girl on Cheltenham bus ([1 days ago](https://gloucesternewscentre.co.uk/man-sexually-assaulted-teenage-girl-on-cheltenham-bus/))
 - Girl sexually assaulted by man on bus ([1 days ago](https://www.bbc.com/news/articles/c1kpk9w8x71o?at_medium=RSS&at_campaign=rss))
-- 'Darts success' and 'memorial plan for war veteran' ([1 days ago](https://www.bbc.com/news/articles/cn4d4kv82v3o?at_medium=RSS&at_campaign=rss))
+- 'Darts success' and 'memorial plan for war veteran' ([2 days ago](https://www.bbc.com/news/articles/cn4d4kv82v3o?at_medium=RSS&at_campaign=rss))
 - Key bridges set to reopen in 2026 ([2 days ago](https://www.bbc.com/news/articles/c78vz3d7vexo?at_medium=RSS&at_campaign=rss))
 - Christmas funding crises for West councils ([2 days ago](https://www.bbc.com/news/articles/cjdr8y5ke5jo?at_medium=RSS&at_campaign=rss))
 - Bereaved mum who is campaigning for law change appointed MBE ([2 days ago](https://www.bbc.com/news/articles/c5ydyk5d31qo?at_medium=RSS&at_campaign=rss))
@@ -57,6 +57,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire community unites for Sue Ryder’s annual Celebrate a Life event ([23 days ago](https://gloucesternewscentre.co.uk/gloucestershire-community-unites-for-sue-ryders-annual-celebrate-a-life-event/))
 - Views sought on future of university building amid £14m maintenance backlog ([23 days ago](https://gloucesternewscentre.co.uk/views-sought-on-future-of-university-building-amid-14m-maintenance-backlog/))
 - Housing development on former car park to provide discounted flats ([26 days ago](https://gloucesternewscentre.co.uk/housing-development-on-former-car-park-to-provide-discounted-flats/))
-- Christmas and New Year waste and recycling collections ([27 days ago](https://www.cheltenham.gov.uk/news/article/3079/christmas_and_new_year_waste_and_recycling_collections))
+- Christmas and New Year waste and recycling collections ([28 days ago](https://www.cheltenham.gov.uk/news/article/3079/christmas_and_new_year_waste_and_recycling_collections))
 
 <!-- news_marker ends -->

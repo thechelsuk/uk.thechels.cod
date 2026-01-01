@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Wednesday, 31 December 2025
+## On Thursday, 01 January 2026
 
-- The average temperature today is 1.46˚C,
-- With highs of 1.65˚C and lows of 0.94˚C,
-- It may feel like -1.46˚C with few clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 85%
-- The sun will rise at 08:16 and set at 16:06
+- The average temperature today is 2.25˚C,
+- With highs of 2.69˚C and lows of 2.05˚C,
+- It may feel like -0.1˚C with scattered clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 82%
+- The sun will rise at 08:15 and set at 16:07
 
 <!-- weather_marker ends -->
 

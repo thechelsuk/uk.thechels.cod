@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -133,15 +133,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 31st December</title>
-<link>https://www.fixmystreet.com/report/8609855</link>
-<description>C/W Pothole - 700mm x 7 00mm x 40mm - 0.49m2 - 3 way lights - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8609855&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8609855</guid>
-<pubDate>Wed, 31 Dec 2025 12:06:42 +0000</pubDate>
-<georss:point>51.8752510282354 -2.06470611713032</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 31st December</title>
 <link>https://www.fixmystreet.com/report/8609856</link>
 <description>C/W Pothole - 400mm x 4 00mm x 40mm - 0.16m2 - 3 way lights - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8609856&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW10 Potholes</category>
@@ -151,12 +142,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 31st December</title>
-<link>https://www.fixmystreet.com/report/8609852</link>
-<description>C/W Pothole - 400mm x 500mm x 40mm - 0.20m2 - 3 way lights - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8609852&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/8609855</link>
+<description>C/W Pothole - 700mm x 7 00mm x 40mm - 0.49m2 - 3 way lights - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8609855&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8609852</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8609855</guid>
 <pubDate>Wed, 31 Dec 2025 12:06:42 +0000</pubDate>
-<georss:point>51.8752698370101 -2.06476703197398</georss:point>
+<georss:point>51.8752510282354 -2.06470611713032</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW10 Potholes problem, 31st December</title>
@@ -166,6 +157,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8609854</guid>
 <pubDate>Wed, 31 Dec 2025 12:06:42 +0000</pubDate>
 <georss:point>51.8752557701194 -2.06478011206266</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 31st December</title>
+<link>https://www.fixmystreet.com/report/8609852</link>
+<description>C/W Pothole - 400mm x 500mm x 40mm - 0.20m2 - 3 way lights - 28 days (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8609852&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8609852</guid>
+<pubDate>Wed, 31 Dec 2025 12:06:42 +0000</pubDate>
+<georss:point>51.8752698370101 -2.06476703197398</georss:point>
 </item>
 <item>
 <title>Large multiple potholes in road at entrance to mill lane., 31st December</title>

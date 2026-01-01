@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working, 1st January :- [8613454](https://www.fixmystreet.com/report/8613454)
+- Firework rubbish in park, 1st January :- [8613337](https://www.fixmystreet.com/report/8613337)
+- Flytipped items, 1st January :- [8613122](https://www.fixmystreet.com/report/8613122)
+- Flytipped items, 1st January :- [8613090](https://www.fixmystreet.com/report/8613090)
+- Flytipped item, 1st January :- [8613076](https://www.fixmystreet.com/report/8613076)
 - Pothole around drain outside 78 Gretton Road, 1st January :- [8612852](https://www.fixmystreet.com/report/8612852)
 - Drain blocked again by mud and detritus. Road drainage team never alight from vehicle to examine or clear manually. A common and oft repeated blockage., 1st January :- [8612633](https://www.fixmystreet.com/report/8612633)
 - Water sitting on grass verge next to manhole cover, 1st January :- [8612549](https://www.fixmystreet.com/report/8612549)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8610704](https://www.fixmystreet.com/report/8610704)
 - The drain is blocked problem, 31st December :- [8610168](https://www.fixmystreet.com/report/8610168)
 - 14 inch pothole as you turn in to Well Place from Douro Road., 31st December :- [8609914](https://www.fixmystreet.com/report/8609914)
-- Abandoned Van., 31st December :- [8609836](https://www.fixmystreet.com/report/8609836)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609878](https://www.fixmystreet.com/report/8609878)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609877](https://www.fixmystreet.com/report/8609877)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609852](https://www.fixmystreet.com/report/8609852)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609856](https://www.fixmystreet.com/report/8609856)
 
 <!-- fix_marker ends -->

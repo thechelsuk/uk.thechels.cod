@@ -1,81 +1,606 @@
 {
-    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
-    "meta": {
-        "publisher": "Environment Agency",
-        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
-        "version": "0.9",
-        "comment": "Status: Beta service",
-        "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
-        ]
-    },
-    "items": [
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF02Churn",
-            "description": "River Churn and its tributaries",
-            "eaAreaName": "Thames",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF02Churn",
-                "county": "Gloucestershire, Wiltshire",
-                "notation": "061WAF02Churn",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF02Churn/polygon",
-                "riverOrSea": "River Churn, Hilcot Brook, Daglingworth Stream, Gumstool Brook"
-            },
-            "floodAreaID": "061WAF02Churn",
-            "isTidal": false,
-            "message": "The flood risk remains.\n\nFlooding of low lying land and roads is expected to continue. River levels are high, but falling very slowly, along the River Churn, near Cerney Wick. The weather forecast is for a few showers on Thursday 1 January, Another band of  rain will pass through the area on Friday but is not expected to cause any impacts. We expect river levels to remain high but continue a slow fall over the coming days.\n\nWe are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.\n\nThis message will be updated by 12:00, midday, on the 2nd January 2026 or as the situation changes.\n",
-            "severity": "Flood alert",
-            "severityLevel": 3,
-            "timeMessageChanged": "2026-01-01T10:16:00",
-            "timeRaised": "2026-01-01T10:16:59",
-            "timeSeverityChanged": "2025-12-01T20:58:00"
-        },
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF10Windrush",
-            "description": "River Windrush from Bourton to Newbridge",
-            "eaAreaName": "Thames",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Windrush",
-                "county": "Gloucestershire, Oxfordshire",
-                "notation": "061WAF10Windrush",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Windrush/polygon",
-                "riverOrSea": "River Windrush"
-            },
-            "floodAreaID": "061WAF10Windrush",
-            "isTidal": false,
-            "message": "The flood risk remains.\n\nFlooding of low lying land and roads is expected to continue as river levels along the River Windrush remain high, particularly in Bourton on the Water and Newbridge areas. The weather forecast is for a few showers on Thursday 1 January, Another band of rain will pass through the area on Friday but is not expected to cause any impacts. We expect river levels to remain high but continue a slow fall over the coming days.\n\nWe are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.\n\nThis message will be updated by 12:00, midday, on the 2 January 2026 or as the situation changes.\n",
-            "severity": "Flood alert",
-            "severityLevel": 3,
-            "timeMessageChanged": "2026-01-01T10:19:00",
-            "timeRaised": "2026-01-01T10:19:00",
-            "timeSeverityChanged": "2025-12-05T19:05:00"
-        },
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF10Dikler",
-            "description": "River Dikler from Condicote to Little Rissington",
-            "eaAreaName": "Thames",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Dikler",
-                "county": "Gloucestershire",
-                "notation": "061WAF10Dikler",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Dikler/polygon",
-                "riverOrSea": "River Dikler"
-            },
-            "floodAreaID": "061WAF10Dikler",
-            "isTidal": false,
-            "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\u00a0\nWeather conditions are expected to improve and no further flooding is expected.  \u00a0\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \u00a0\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.  \u00a0\n\n",
-            "severity": "Warning no longer in force",
-            "severityLevel": 4,
-            "timeMessageChanged": "2026-01-01T10:11:00",
-            "timeRaised": "2026-01-01T10:11:52",
-            "timeSeverityChanged": "2026-01-01T10:11:00"
-        }
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF02Churn",
+      "description": "River Churn and its tributaries",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF02Churn",
+        "county": "Gloucestershire, Wiltshire",
+        "notation": "061WAF02Churn",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF02Churn/polygon",
+        "riverOrSea": "River Churn, Hilcot Brook, Daglingworth Stream, Gumstool Brook"
+      },
+      "floodAreaID": "061WAF02Churn",
+      "isTidal": false,
+      "message": "The flood risk remains.\n\nFlooding of low lying land and roads is expected to continue. River levels are high, but falling very slowly, along the River Churn, near Cerney Wick. The weather forecast is for a few showers on Thursday 1 January, Another band of  rain will pass through the area on Friday but is not expected to cause any impacts. We expect river levels to remain high but continue a slow fall over the coming days.\n\nWe are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.\n\nThis message will be updated by 12:00, midday, on the 2nd January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T10:16:00",
+      "timeRaised": "2026-01-01T10:16:59",
+      "timeSeverityChanged": "2025-12-01T20:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF10Windrush",
+      "description": "River Windrush from Bourton to Newbridge",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Windrush",
+        "county": "Gloucestershire, Oxfordshire",
+        "notation": "061WAF10Windrush",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Windrush/polygon",
+        "riverOrSea": "River Windrush"
+      },
+      "floodAreaID": "061WAF10Windrush",
+      "isTidal": false,
+      "message": "The flood risk remains.\n\nFlooding of low lying land and roads is expected to continue as river levels along the River Windrush remain high, particularly in Bourton on the Water and Newbridge areas. The weather forecast is for a few showers on Thursday 1 January, Another band of rain will pass through the area on Friday but is not expected to cause any impacts. We expect river levels to remain high but continue a slow fall over the coming days.\n\nWe are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.\n\nThis message will be updated by 12:00, midday, on the 2 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T10:19:00",
+      "timeRaised": "2026-01-01T10:19:00",
+      "timeSeverityChanged": "2025-12-05T19:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF10Dikler",
+      "description": "River Dikler from Condicote to Little Rissington",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Dikler",
+        "county": "Gloucestershire",
+        "notation": "061WAF10Dikler",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Dikler/polygon",
+        "riverOrSea": "River Dikler"
+      },
+      "floodAreaID": "061WAF10Dikler",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-01-01T10:11:00",
+      "timeRaised": "2026-01-01T10:11:52",
+      "timeSeverityChanged": "2026-01-01T10:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
+      "description": "Lower Frome and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
+        "county": "Dorset Council",
+        "notation": "111WAFFROL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
+        "riverOrSea": "River Frome"
+      },
+      "floodAreaID": "111WAFFROL",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-01-01T12:24:00",
+      "timeRaised": "2026-01-01T12:24:52",
+      "timeSeverityChanged": "2026-01-01T12:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "Tide locking, where high tides restrict normal drainage of the river out to sea, today may lead to flooding. \nFlooding is possible today Thursday 1 January 2026 and over the next few days. \nWe expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning.  River levels will remain high over the next few days. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T14:02:00",
+      "timeRaised": "2026-01-01T14:02:38",
+      "timeSeverityChanged": "2026-01-01T14:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "Tide locking, where high tides restrict normal drainage of the river out to sea, this afternoon may lead to flooding. \nFlooding is possible Flooding is possible from 5:45pm on Thursday 1st January to 10:30pm on Friday 2nd January 2026. \nWe expect to see high water levels in Brundall and Reedham riverside areas. River levels will remain high over the next few days. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T14:50:00",
+      "timeRaised": "2026-01-01T14:50:11",
+      "timeSeverityChanged": "2026-01-01T14:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "Tide locking, where high tides restrict normal drainage of the river out to sea, this afternoon may lead to flooding. \nFlooding is possible Flooding is possible from 4:00pm on Thursday 1st January to 11:00pm on Friday 2nd January 2026 \nWe expect to see high water levels at Beccles Quay. River levels will remain high over the next few days. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T14:59:00",
+      "timeRaised": "2026-01-01T14:59:17",
+      "timeSeverityChanged": "2026-01-01T14:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
+      "description": "The Suffolk coast at Southwold",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C",
+        "county": "Suffolk",
+        "notation": "054WACDV3C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3C",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves this evening may lead to flooding. \nFlooding is possible between 6:15pm and 8:15pm tonight, 1st January and 6:15am and 8:15am tomorrow, 2nd January. \nWe expect high tide levels at the harbourside in Southwold. The detailed forecast is for a peak level at  Lowestoft of 1.92mAODN at 7:15pm, on Thursday 1st January 2026, which is 1.06m above tide tables, Wind Force 8, North Westerly. Additional Flood Alert with peak level at Lowestoft of 2.03mAODN at 7:15am, on Friday 2nd January 2026, which is 1.06m above tide tables, Wind Force 6, Westerly.  The low pressure system across the North Sea will continue to keep higher than usual tides over the next few days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T15:18:00",
+      "timeRaised": "2026-01-01T15:18:26",
+      "timeSeverityChanged": "2026-01-01T15:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
+      "description": "The tidal Deben estuary",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A",
+        "county": "Suffolk",
+        "notation": "054WACDV4A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A/polygon",
+        "riverOrSea": "River Deben, North Sea"
+      },
+      "floodAreaID": "054WACDV4A",
+      "isTidal": true,
+      "message": "High tides this evening may lead to flooding. \nFlooding is possible 9pm and 11pm, today Thursday 1st January and 09:30am and 11:30am, tomorrow Friday 2nd January. \nTide levels will be high around the boat yard in Felixstowe Ferry hamlet at the end of Ferry Road, and along riverside areas in Woodbridge and Waldringfield, as well as in surrounding marshland. The detailed forecast is for a peak level at  Harwich of 2.77mAODN at 10pm, today Thursday 1st January, which is 1.11m above tide tables, Wind Force 6, westerly. There is another peak of 2.72m at 10:30am, tomorrow Friday 2nd January, which is 0.92m above tide tables, Wind Force 6, north-westerly. Tides will remain high over the next couple of days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 1:00PM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T14:37:00",
+      "timeRaised": "2026-01-01T14:37:11",
+      "timeSeverityChanged": "2026-01-01T14:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
+      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
+        "county": "North Yorkshire, Redcar and Cleveland",
+        "notation": "122WAC952",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC952",
+      "isTidal": true,
+      "message": "High tides today may lead to flooding. \n\nFlooding is possible from  04:15 to 05:30 on 02/02/2026. \n\nLocations most affected will be coastal roads and footpaths. \n\nWe are closely monitoring the situation . this is due to high tides and surges overtopping. \n\nTake care and avoid walking, cycling or driving through flood water . \n\nThis message will be updated by 9:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T20:38:00",
+      "timeRaised": "2026-01-01T20:38:40",
+      "timeSeverityChanged": "2026-01-01T12:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
+      "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B",
+        "county": "Essex, Suffolk",
+        "notation": "054WACDV4B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B/polygon",
+        "riverOrSea": "North Sea, River Orwell, River Deben"
+      },
+      "floodAreaID": "054WACDV4B",
+      "isTidal": true,
+      "message": "High tides this evening may lead to flooding. \nFlooding is possible between 9pm and 11pm tonight, 1st January and between 9:30 and 11:30 tomorrow morning, 2nd January. \nThe flood gates at Felixstowe seafront will be closed. The waterfront at Pin Mill, and The Strand at Wherstead under the Orwell Bridge may be flooded. Water may be on the quay at Mistley. The detailed forecast is for a peak level at  Harwich of 2.77mAODN at 10pm, today Thursday 1st January, which is 1.11m above tide tables, Wind Force 6, westerly. There is another peak of 2.72m at 10:30am, tomorrow Friday 2nd January, which is 0.92m above tide tables, Wind Force 6, north-westerly. Tides will remain high over the next couple of days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 1:00PM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T14:34:00",
+      "timeRaised": "2026-01-01T14:34:53",
+      "timeSeverityChanged": "2026-01-01T14:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
+      "description": "North Sea coast at Hornsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
+        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
+      },
+      "floodAreaID": "122FWC003",
+      "isTidal": true,
+      "message": "High tides are expected to cause flooding tomorrow morning. \nFlooding is expected from 04:30 to 07:30 on 02/01/2026. \nLocations most affected will be coastal footpaths and roads \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 8:00AM on 02 January 2026 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-01-01T19:52:00",
+      "timeRaised": "2026-01-01T19:52:38",
+      "timeSeverityChanged": "2026-01-01T19:52:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
+      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC955",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC955",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves tomorrow morning may lead to flooding.  Flooding is possible from 04:30 to 07:30 on Friday, 02/01/2026.  Locations most affected will be coastal roads and footpaths.  We are closely monitoring the situation .  Avoid coastal roads, footpaths and carparks, which may be flooded .  This message will be updated by 8:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T20:04:00",
+      "timeRaised": "2026-01-01T20:04:49",
+      "timeSeverityChanged": "2026-01-01T19:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions may lead to flooding. Flooding is possible tomorrow 02/01/2026 between 03:15-06:30 . Locations most affected will be low lying land and roads near rivers or on the coast. We are closely monitoring the situation . Further alerts or warnings may be issued in the next few days Coastal alerts are due to overtopping as a result of tidal surge. Avoid beaches and coastal promenades, which may be flooded . This message will be updated by 9:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T20:38:00",
+      "timeRaised": "2026-01-01T20:38:34",
+      "timeSeverityChanged": "2025-12-31T19:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC921",
+      "description": "Northumberland coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921",
+        "county": "Northumberland",
+        "notation": "121WAC921",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC921",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 11:00PM on 01/01/2026 to 02:30AM on 02/01/2026. \nFlooding is due to a combination of high tide and wave conditions. \nLocations most affected will be coastal roads and footpaths. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T19:03:00",
+      "timeRaised": "2026-01-01T19:03:36",
+      "timeSeverityChanged": "2026-01-01T19:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "High tides this evening may lead to flooding. \nFlooding is possible between 8:45pm and 10:45 tonight, 1st January. \nClacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast is for a peak level at Clacton of 2.75mAODN at 9:45pm, today Thursday 1st January, which is 0.99m above tide tables, Wind Force 6, westerly. The low pressure system across the North Sea will continue to keep higher than usual tides over the next few days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T14:49:00",
+      "timeRaised": "2026-01-01T14:49:19",
+      "timeSeverityChanged": "2026-01-01T14:49:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves tomorrow morning may lead to flooding. Flooding is possible from 02:15am to 06:15am on 02.01.2026.\n\nAreas most at risk are around Hunstanton seafront. Flood gates in the area will be closed by the Local Authority which will make access difficult. The detailed forecast is for a peak level at King's Lynn of 3.75mAODN at 04:15 on 02 January 2026, Wind Force 7, North Westerly. Tides will remain high over the next couple of days.\n\nWe are closely monitoring the situation. Avoid beaches and coastal promenades, which may be flooded. This message will be updated by 10am on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T19:38:00",
+      "timeRaised": "2026-01-01T19:38:09",
+      "timeSeverityChanged": "2026-01-01T10:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
+      },
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions may lead to flooding. Flooding is possible tomorrow 02/01/2026 between 04:15-05:30. Locations most affected will be coastal roads and footpaths. We are closely monitoring the situation . Further alerts or warnings may be issued in the next few days. Coastal alerts are due to overtopping as a result of tidal surge. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 9:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T20:38:00",
+      "timeRaised": "2026-01-01T20:38:29",
+      "timeSeverityChanged": "2025-12-31T19:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGWDGW",
+      "description": "Groundwater flooding in the West of Dorset",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW",
+        "county": "Dorset Council",
+        "notation": "111FAGWDGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FAGWDGW",
+      "isTidal": false,
+      "message": "High groundwater levels may lead to flooding. Flooding is possible in the West Dorset area. Groundwater levels are high in response to heavy rainfall earlier in December. Levels are slowly falling but remain high, and flooding of fields and roads is still possible. No significant rainfall is forecast for the next few days. Where groundwater is near the surface, intense rainfall will lead to surface water flooding. We are closely monitoring the situation. Residents are advised to prepare property resilience measures and ensure that pumps are working where they have been installed. This message will be updated by 4:00PM on 6 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-12-30T14:45:00",
+      "timeRaised": "2025-12-30T14:45:41",
+      "timeSeverityChanged": "2025-12-10T15:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV4A1",
+      "description": "Bawdsey Quay and Felixstowe Ferry",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4A1",
+        "county": "Suffolk",
+        "notation": "054FWCDV4A1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4A1/polygon",
+        "riverOrSea": "River Deben, North Sea"
+      },
+      "floodAreaID": "054FWCDV4A1",
+      "isTidal": true,
+      "message": "Higher than normal tides are expected to cause flooding this evening. \nFlooding is expected between 9pm and 11pm tonight, Thursday 1 January. \nAreas most at risk are Bawdsey Quay and in front of the flood defences at Felixstowe Ferry hamlet. The detailed forecast is for a peak level at  Harwich of 2.77mAODN at 10pm, today Thursday 1 January, which is 1.11m above tide tables, Wind Force 6, westerly. The low pressure system across the North Sea will continue to keep higher than usual tides over the next few days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-01-01T13:56:00",
+      "timeRaised": "2026-01-01T13:56:56",
+      "timeSeverityChanged": "2026-01-01T13:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3B",
+      "description": "The Suffolk coast from Lowestoft to Bawdsey",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B",
+        "county": "Suffolk",
+        "notation": "054WACDV3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3B",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves this afternoon may lead to flooding. \nFlooding is possible between 6:15pm and 8:15pm on Thursday 1st January and 6:15am and 8:15am on Friday 2nd January. \nWe expect to see high water levels in Lake Lothing in Lowestoft as well as high sea levels along the Suffolk Coast, impacting on beach access points. The detailed forecast is for a peak level at  Lowestoft of 1.92mAODN at 7:15pm, on Thursday 1st January 2026, which is 1.06m above tide tables, Wind Force 8, North Westerly. Additional Flood Alert with peak level at Lowestoft of 2.03mAODN at 7:15am, on Friday 2nd January 2026, which is 1.06m above tide tables, Wind Force 6, Westerly. The low pressure system across the North Sea will continue to keep higher than usual tides over the next few days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T15:15:00",
+      "timeRaised": "2026-01-01T15:15:44",
+      "timeSeverityChanged": "2026-01-01T15:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFPIDD",
+      "description": "River Piddle and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFPIDD",
+        "county": "Dorset Council",
+        "notation": "111WAFPIDD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFPIDD/polygon",
+        "riverOrSea": "River Piddle, River Trent"
+      },
+      "floodAreaID": "111WAFPIDD",
+      "isTidal": false,
+      "message": "River levels are steady but remain high. Flooding of roads and low lying land is still possible. Flooding could still affect locations near the River Piddle, with low lying land and roads expected to be most affected, particularly around tributaries between Alton Pancras and Wareham. There is no significant rain forecast for today or tomorrow. We are monitoring rainfall and river levels. Please avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. People in this area should continue to monitor local water levels and weather conditions. This message will be updated by 03:00 PM on 2 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T12:26:00",
+      "timeRaised": "2026-01-01T12:26:49",
+      "timeSeverityChanged": "2025-12-08T14:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3A",
+      "description": "The Norfolk coast from Caister to Gorleston, including Great Yarmouth",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A",
+        "county": "Norfolk",
+        "notation": "054WACDV3A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3A",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves this evening may lead to flooding. \nFlooding is possible between 6pm and 8pm tonight, 1st January and between 4:30am and 6:30am tomorrow, 2nd January. \nWe expect high tide levels at Gorleston-on-Sea and water on towpaths and quaysides throughout Great Yarmouth. The detailed forecast is for a peak level at  Great Yarmouth of 1.93mAODN at 7pm, on Thursday  1 January 2026, which is 1.12m above tide tables, Wind Force 8, North Westerly. Additional Flood Alert with peak level at Great Yarmouth of 2.01mAODN at 5:30am, on Friday 2 January 2026, which is 1.19m above tide tables, Wind Force 6, North Westerly. The low pressure system across the North Sea will continue to keep higher than usual tides over the next few days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T15:03:00",
+      "timeRaised": "2026-01-01T15:03:46",
+      "timeSeverityChanged": "2026-01-01T15:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWTBT3B",
+      "description": "Isolated low lying properties along the tidal River Waveney",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT3B",
+        "county": "Norfolk, Suffolk",
+        "notation": "054FWTBT3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT3B/polygon",
+        "riverOrSea": "River Waveney"
+      },
+      "floodAreaID": "054FWTBT3B",
+      "isTidal": true,
+      "message": "Tide locking, where high tides restrict normal drainage of the river out to sea, is expected to cause flooding throughout the evening.  \nFlooding is expected from 7:00pm, 1 January to 10:30am, 2 January  \nAreas most at risk are in St Olaves, Somerleyton, Burgh St Peter, Oulton Broad and Beccles. Roads likely to be affected include Beccles Road at St Olaves, Geldeston Lock Lane, Gillingham Dam and Fen Lane in Beccles. River levels will remain high over the next couple of days.  \nWe are closely monitoring the situation .  \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals .  \nThis message will be updated by 10:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-01-01T14:10:00",
+      "timeRaised": "2026-01-01T14:10:03",
+      "timeSeverityChanged": "2026-01-01T14:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC036",
+      "description": "North Sea at Sandsend",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC036",
+        "county": "North Yorkshire",
+        "notation": "122FWC036",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC036/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC036",
+      "isTidal": true,
+      "message": "High tides are expected to cause flooding tomorrow morning. \nFlooding is expected from 03:15 to 06:30 on 02/01/2026. \nLocations most affected will be coastal footpaths and roads \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 8:00AM on 02 January 2026 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-01-01T19:53:00",
+      "timeRaised": "2026-01-01T19:53:05",
+      "timeSeverityChanged": "2026-01-01T19:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC953",
+      "description": "North Sea coast from Whitby to Filey",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAC953",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC953",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves tomorrow morning may lead to flooding.  Flooding is possible from 02:30 to 07:30 on Friday, 02/01/2026.  Locations most affected will be coastal roads and footpaths.  We are closely monitoring the situation .  Avoid coastal roads, footpaths and carparks, which may be flooded .  This message will be updated by 8:00AM on 02 January 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-01-01T20:02:00",
+      "timeRaised": "2026-01-01T20:02:49",
+      "timeSeverityChanged": "2026-01-01T19:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC006",
+      "description": "North Sea coast at Withernsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC006",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC006",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC006/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC006",
+      "isTidal": true,
+      "message": "High tides are expected to cause flooding tomorrow morning. \nFlooding is expected from 03:30 to 04:30 on 02/01/2026. \nLocations most affected will be coastal footpaths and roads \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 8:00AM on 02 January 2026 or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-01-01T19:53:00",
+      "timeRaised": "2026-01-01T19:53:11",
+      "timeSeverityChanged": "2026-01-01T19:52:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGSWV1",
+      "description": "Groundwater flooding for the South Winterbourne Valley",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGSWV1",
+        "county": "Dorset Council",
+        "notation": "111FWGSWV1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGSWV1/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FWGSWV1",
+      "isTidal": false,
+      "message": "High groundwater levels are still expected to cause flooding. Flooding is still expected from 30th December 2025 onwards. Groundwater levels in West Dorset remain high. Areas that could be affected include: Winterbourne Abbas, Winterbourne Steepleton, Martinstown, Winterbourne Monkton, Winterbourne Herringston and Winterbourne Came. The groundwater level at the Kingston Russell borehole has fallen to 117.88m, and is expected to fall further over the next few days. Residents may experience inundation of septic tanks and sewer systems. Properties may experience flooding in cellars in affected areas. Flooding of roads is expected. Roads may be damaged by floodwater. Any intense rainfall will lead to surface water flooding. We are closely monitoring the situation. If you have a pump, make sure it is working and switched on. Think about alternative power sources in case of power cuts. This message will be updated by 3:00PM on 6 January 2026, or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-12-30T14:35:00",
+      "timeRaised": "2025-12-30T14:35:35",
+      "timeSeverityChanged": "2025-12-19T16:49:00"
+    }
+  ]
 }

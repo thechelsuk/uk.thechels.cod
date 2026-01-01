@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unsafe double rim--more likely to hit hand/head, 1st January :- [8613947](https://www.fixmystreet.com/report/8613947)
+- Leaves and litter at the edge, 1st January :- [8613919](https://www.fixmystreet.com/report/8613919)
+- No markings, 1st January :- [8613912](https://www.fixmystreet.com/report/8613912)
 - A broken babies car seat has been dumped on the grass verge, 1st January :- [8613731](https://www.fixmystreet.com/report/8613731)
 - The potholes that were supposed to be fixed are in fact not fixed at all. One pothole has been filled in. There are multiple more potholes that need filling as a matter of urgency, 1st January :- [8613720](https://www.fixmystreet.com/report/8613720)
 - Multiple potholes on this road, 1st January :- [8613688](https://www.fixmystreet.com/report/8613688)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The gate was tied with a knot we could not undo so I cut it out. But the gate lock area was deliberately infilled with thorny bush offcuts we had to cut out first. It was a deliberate act to prevent access., 31st December :- [8611509](https://www.fixmystreet.com/report/8611509)
 - Request to put yellow lines on Shakespeare road to help bus route, 31st December :- [8611292](https://www.fixmystreet.com/report/8611292)
 - Pot hole caused damage to my front left tyre, 31st December :- [8611246](https://www.fixmystreet.com/report/8611246)
-- Potholes at the entrance to the McDonalds trading centre, 31st December :- [8611150](https://www.fixmystreet.com/report/8611150)
-- Over 12”, large stones which hit cars and has caused damage, 31st December :- [8610966](https://www.fixmystreet.com/report/8610966)
-- Electrical cable dangling, 31st December :- [8610604](https://www.fixmystreet.com/report/8610604)
 
 <!-- fix_marker ends -->

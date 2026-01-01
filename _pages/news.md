@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man completes 52 half marathons for charity ([1 hours ago](https://www.bbc.com/news/articles/cx2gynkk0npo?at_medium=RSS&at_campaign=rss))
-- Dad pays tribute to 'wonderful family' killed in Boxing Day fire ([6 hours ago](https://www.bbc.com/news/articles/c14r88ylvl1o?at_medium=RSS&at_campaign=rss))
-- Father and son left homeless after rental scam ([11 hours ago](https://www.bbc.com/news/articles/cvgj0qqeqw3o?at_medium=RSS&at_campaign=rss))
-- Major changes planned for Gloucestershire in 2026 ([11 hours ago](https://www.bbc.com/news/articles/c8xd7x889xno?at_medium=RSS&at_campaign=rss))
+- Man completes 52 half marathons for charity ([3 hours ago](https://www.bbc.com/news/articles/cx2gynkk0npo?at_medium=RSS&at_campaign=rss))
+- Dad pays tribute to 'wonderful family' killed in Boxing Day fire ([8 hours ago](https://www.bbc.com/news/articles/c14r88ylvl1o?at_medium=RSS&at_campaign=rss))
+- Father and son left homeless after rental scam ([13 hours ago](https://www.bbc.com/news/articles/cvgj0qqeqw3o?at_medium=RSS&at_campaign=rss))
+- Major changes planned for Gloucestershire in 2026 ([13 hours ago](https://www.bbc.com/news/articles/c8xd7x889xno?at_medium=RSS&at_campaign=rss))
 - Woman in her 60s dies following crash ([1 days ago](https://www.bbc.com/news/articles/clygn180pe1o?at_medium=RSS&at_campaign=rss))
 - 'Boxing history' and 'Free Christmas dinners' ([1 days ago](https://www.bbc.com/news/articles/cje12dngk2xo?at_medium=RSS&at_campaign=rss))
 - New ambulances rolled out to ease winter pressures ([1 days ago](https://www.bbc.com/news/articles/c4grzj97r6eo?at_medium=RSS&at_campaign=rss))
@@ -40,7 +40,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham 2026 elections could be postponed due to local government reorganisation ([13 days ago](https://gloucesternewscentre.co.uk/cheltenham-2026-elections-could-be-postponed-due-to-local-government-reorganisation/))
 - Men jailed after they admitted to stealing nearly £20,000-worth of jewellery in Cheltenham ([13 days ago](https://gloucesternewscentre.co.uk/men-jailed-after-they-admitted-to-stealing-nearly-20000-worth-of-jewellery-in-cheltenham/))
 - Traffic disruption concerns over roadworks plan ([13 days ago](https://gloucesternewscentre.co.uk/traffic-disruption-concerns-over-roadworks-plan/))
-- Two teenage boys charged in connection with Cheltenham murder ([13 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
+- Two teenage boys charged in connection with Cheltenham murder ([14 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
 - Local charity Cobalt appeals for used Christmas cards to support vital medical services ([14 days ago](https://gloucesternewscentre.co.uk/local-charity-cobalt-appeals-for-used-christmas-cards-to-support-vital-medical-services/))
 - Three further arrests following murder in Cheltenham yesterday ([15 days ago](https://gloucesternewscentre.co.uk/three-further-arrests-following-murder-in-cheltenham-yesterday/))
 - Duracell E-Charge launches first UK ultra-rapid charging hub in Cheltenham ([15 days ago](https://gloucesternewscentre.co.uk/duracell-e-charge-launches-first-uk-ultra-rapid-charging-hub-in-cheltenham/))

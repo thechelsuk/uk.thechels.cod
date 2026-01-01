@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 01 January 2026
 
-- The average temperature today is 2.25˚C,
-- With highs of 2.69˚C and lows of 2.05˚C,
-- It may feel like -0.1˚C with scattered clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 82%
+- The average temperature today is 3.31˚C,
+- With highs of 3.86˚C and lows of 2.69˚C,
+- It may feel like 0.74˚C with broken clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 79%
 - The sun will rise at 08:15 and set at 16:07
 
 <!-- weather_marker ends -->

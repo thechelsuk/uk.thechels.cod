@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Tributes to mum and kids who died in Boxing Day fire ([9 hours ago](https://www.bbc.com/news/articles/cd7z34y085wo?at_medium=RSS&at_campaign=rss))
-- Woman in her 60s dies following crash ([13 hours ago](https://www.bbc.com/news/articles/clygn180pe1o?at_medium=RSS&at_campaign=rss))
-- 'Boxing history' and 'Free Christmas dinners' ([14 hours ago](https://www.bbc.com/news/articles/cje12dngk2xo?at_medium=RSS&at_campaign=rss))
-- New ambulances rolled out to ease winter pressures ([16 hours ago](https://www.bbc.com/news/articles/c4grzj97r6eo?at_medium=RSS&at_campaign=rss))
-- Abandoned phone box highlights 'rich' local history ([19 hours ago](https://www.bbc.com/news/articles/cgex0nelr91o?at_medium=RSS&at_campaign=rss))
-- Picture round-up of the best moments in 2025 ([19 hours ago](https://www.bbc.com/news/articles/cgqzl32177do?at_medium=RSS&at_campaign=rss))
+- Tributes to mum and kids who died in Boxing Day fire ([12 hours ago](https://www.bbc.com/news/articles/cd7z34y085wo?at_medium=RSS&at_campaign=rss))
+- Woman in her 60s dies following crash ([15 hours ago](https://www.bbc.com/news/articles/clygn180pe1o?at_medium=RSS&at_campaign=rss))
+- 'Boxing history' and 'Free Christmas dinners' ([16 hours ago](https://www.bbc.com/news/articles/cje12dngk2xo?at_medium=RSS&at_campaign=rss))
+- New ambulances rolled out to ease winter pressures ([18 hours ago](https://www.bbc.com/news/articles/c4grzj97r6eo?at_medium=RSS&at_campaign=rss))
+- Abandoned phone box highlights 'rich' local history ([21 hours ago](https://www.bbc.com/news/articles/cgex0nelr91o?at_medium=RSS&at_campaign=rss))
+- Picture round-up of the best moments in 2025 ([21 hours ago](https://www.bbc.com/news/articles/cgqzl32177do?at_medium=RSS&at_campaign=rss))
 - Concerns new town could create 'traffic corridor' ([1 days ago](https://www.bbc.com/news/articles/cdxwxvke1wno?at_medium=RSS&at_campaign=rss))
 - Man sexually assaulted teenage girl on Cheltenham bus ([1 days ago](https://gloucesternewscentre.co.uk/man-sexually-assaulted-teenage-girl-on-cheltenham-bus/))
 - Girl sexually assaulted by man on bus ([1 days ago](https://www.bbc.com/news/articles/c1kpk9w8x71o?at_medium=RSS&at_campaign=rss))

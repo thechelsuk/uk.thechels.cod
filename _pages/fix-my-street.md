@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes, 2nd January :- [8618057](https://www.fixmystreet.com/report/8618057)
+- Two pot holes, 2nd January :- [8617664](https://www.fixmystreet.com/report/8617664)
+- A5 Sized pothole on Paygrove Lane, 2nd January :- [8617611](https://www.fixmystreet.com/report/8617611)
 - Falling branches on carriageway and pavement from Ash tree.Danger to traffic and pedestrians., 2nd January :- [8617547](https://www.fixmystreet.com/report/8617547)
 - Pedestrian crossing lights in Ermine Street changing every 2mins without human intervention., 2nd January :- [8617319](https://www.fixmystreet.com/report/8617319)
 - Fridge and other things have been there for weeks., 2nd January :- [8617079](https://www.fixmystreet.com/report/8617079)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - PLEASE NOTE, this is a possible burst water main or, natural spring working to the surface, 2nd January :- [8616278](https://www.fixmystreet.com/report/8616278)
 - Signs and cones left behind, 2nd January :- [8616157](https://www.fixmystreet.com/report/8616157)
 - Sunken road repair deep., 2nd January :- [8616111](https://www.fixmystreet.com/report/8616111)
-- Large pothole on speedbump, 2nd January :- [8616013](https://www.fixmystreet.com/report/8616013)
-- Dead domestic cat, under the bridge at this location, 2nd January :- [8615753](https://www.fixmystreet.com/report/8615753)
-- More flytipping, 2nd January :- [8615570](https://www.fixmystreet.com/report/8615570)
 
 <!-- fix_marker ends -->

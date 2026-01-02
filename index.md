@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 02 January 2026
 
-- The average temperature today is 1.34˚C,
-- With highs of 2.2˚C and lows of 0.29˚C,
-- It may feel like -1.5˚C with clear sky
-- The wind speed is 2.57m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 74%
+- The average temperature today is 1.21˚C,
+- With highs of 2.06˚C and lows of 0.38˚C,
+- It may feel like -2.52˚C with few clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 78%
 - The sun will rise at 08:15 and set at 16:08
 
 <!-- weather_marker ends -->

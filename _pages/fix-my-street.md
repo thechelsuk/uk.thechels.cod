@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Two large potholes on junction, 2nd January :- [8615090](https://www.fixmystreet.com/report/8615090)
+- Fly tipping, 2nd January :- [8614978](https://www.fixmystreet.com/report/8614978)
+- TMC - Defects -CW6 Potholes  problem, 2nd January :- [8615007](https://www.fixmystreet.com/report/8615007)
+- TMC - Defects - Other FW6  Surface problem, 2nd January :- [8614821](https://www.fixmystreet.com/report/8614821)
+- Flags insecurely tied and inappropriately flown, either side of railway bridge, 2nd January :- [8614669](https://www.fixmystreet.com/report/8614669)
+- Tree is damaged problem, 2nd January :- [8614681](https://www.fixmystreet.com/report/8614681)
 - Cattle ruining path, 1st January :- [8614199](https://www.fixmystreet.com/report/8614199)
 - Unsafe double rim--more likely to hit hand/head, 1st January :- [8613947](https://www.fixmystreet.com/report/8613947)
 - Leaves and litter at the edge, 1st January :- [8613919](https://www.fixmystreet.com/report/8613919)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Flytipped item, 1st January :- [8613076](https://www.fixmystreet.com/report/8613076)
 - Pothole around drain outside 78 Gretton Road, 1st January :- [8612852](https://www.fixmystreet.com/report/8612852)
 - Drain blocked again by mud and detritus. Road drainage team never alight from vehicle to examine or clear manually. A common and oft repeated blockage., 1st January :- [8612633](https://www.fixmystreet.com/report/8612633)
-- Water sitting on grass verge next to manhole cover, 1st January :- [8612549](https://www.fixmystreet.com/report/8612549)
-- TV set dumped on the side of the road, 1st January :- [8612093](https://www.fixmystreet.com/report/8612093)
-- There is no bus shelter and access to bus is standing on grass verge which is muddy and overgrown, 1st January :- [8612084](https://www.fixmystreet.com/report/8612084)
-- Multiple holes from 45 to 67 Malden Road, 31st December :- [8611700](https://www.fixmystreet.com/report/8611700)
-- The gate was tied with a knot we could not undo so I cut it out. But the gate lock area was deliberately infilled with thorny bush offcuts we had to cut out first. It was a deliberate act to prevent access., 31st December :- [8611509](https://www.fixmystreet.com/report/8611509)
-- Request to put yellow lines on Shakespeare road to help bus route, 31st December :- [8611292](https://www.fixmystreet.com/report/8611292)
 
 <!-- fix_marker ends -->

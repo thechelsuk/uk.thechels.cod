@@ -37,12 +37,5 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 
 This message will be updated by 12:00, midday, on the 3 January 2026 or as the situation changes.
 
-- Warning no longer in force: River Dikler from Condicote to Little Rissington
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
-
-
 
 <!-- flood_marker ends -->

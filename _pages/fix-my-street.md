@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Signs and cones left behind, 2nd January :- [8616157](https://www.fixmystreet.com/report/8616157)
+- Sunken road repair deep., 2nd January :- [8616111](https://www.fixmystreet.com/report/8616111)
+- Large pothole on speedbump, 2nd January :- [8616013](https://www.fixmystreet.com/report/8616013)
+- Dead domestic cat, under the bridge at this location, 2nd January :- [8615753](https://www.fixmystreet.com/report/8615753)
+- More flytipping, 2nd January :- [8615570](https://www.fixmystreet.com/report/8615570)
+- TMC - Defects - Covers, Gratings & Frames problem, 2nd January :- [8615590](https://www.fixmystreet.com/report/8615590)
+- Wall has collapsed after being hit by car, 2nd January :- [8615363](https://www.fixmystreet.com/report/8615363)
 - Two large potholes on junction, 2nd January :- [8615090](https://www.fixmystreet.com/report/8615090)
 - Fly tipping, 2nd January :- [8614978](https://www.fixmystreet.com/report/8614978)
 - TMC - Defects -CW6 Potholes  problem, 2nd January :- [8615007](https://www.fixmystreet.com/report/8615007)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - A broken babies car seat has been dumped on the grass verge, 1st January :- [8613731](https://www.fixmystreet.com/report/8613731)
 - The potholes that were supposed to be fixed are in fact not fixed at all. One pothole has been filled in. There are multiple more potholes that need filling as a matter of urgency, 1st January :- [8613720](https://www.fixmystreet.com/report/8613720)
 - Multiple potholes on this road, 1st January :- [8613688](https://www.fixmystreet.com/report/8613688)
-- Street light not working, 1st January :- [8613454](https://www.fixmystreet.com/report/8613454)
-- Firework rubbish in park, 1st January :- [8613337](https://www.fixmystreet.com/report/8613337)
-- Flytipped items, 1st January :- [8613122](https://www.fixmystreet.com/report/8613122)
-- Flytipped items, 1st January :- [8613090](https://www.fixmystreet.com/report/8613090)
-- Flytipped item, 1st January :- [8613076](https://www.fixmystreet.com/report/8613076)
-- Pothole around drain outside 78 Gretton Road, 1st January :- [8612852](https://www.fixmystreet.com/report/8612852)
-- Drain blocked again by mud and detritus. Road drainage team never alight from vehicle to examine or clear manually. A common and oft repeated blockage., 1st January :- [8612633](https://www.fixmystreet.com/report/8612633)
 
 <!-- fix_marker ends -->

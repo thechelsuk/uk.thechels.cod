@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Weather warnings extended as snow and ice blanket parts of UK ([5 hours ago](https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss))
-- Urgent reform needed for Send 'crisis' ([11 hours ago](https://www.bbc.com/news/articles/c5y9yg1ee74o?at_medium=RSS&at_campaign=rss))
-- How to recycle your Christmas tree from your doorstep ([16 hours ago](https://www.bbc.com/news/articles/cd9e8e59n7wo?at_medium=RSS&at_campaign=rss))
-- 'Half marathon returns' and 'rare eagle spotted' ([16 hours ago](https://www.bbc.com/news/articles/clyml2elxn5o?at_medium=RSS&at_campaign=rss))
-- Digital support scheme expands into homes ([20 hours ago](https://www.bbc.com/news/articles/c9qed8r848lo?at_medium=RSS&at_campaign=rss))
-- West traditions we have to look forward to in 2026 ([20 hours ago](https://www.bbc.com/news/articles/c0jedx4lew8o?at_medium=RSS&at_campaign=rss))
+- Weather warnings extended as snow and ice blanket parts of UK ([7 hours ago](https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss))
+- Urgent reform needed for Send 'crisis' ([13 hours ago](https://www.bbc.com/news/articles/c5y9yg1ee74o?at_medium=RSS&at_campaign=rss))
+- How to recycle your Christmas tree from your doorstep ([17 hours ago](https://www.bbc.com/news/articles/cd9e8e59n7wo?at_medium=RSS&at_campaign=rss))
+- 'Half marathon returns' and 'rare eagle spotted' ([18 hours ago](https://www.bbc.com/news/articles/clyml2elxn5o?at_medium=RSS&at_campaign=rss))
+- Digital support scheme expands into homes ([22 hours ago](https://www.bbc.com/news/articles/c9qed8r848lo?at_medium=RSS&at_campaign=rss))
+- West traditions we have to look forward to in 2026 ([22 hours ago](https://www.bbc.com/news/articles/c0jedx4lew8o?at_medium=RSS&at_campaign=rss))
 - Man completes 52 half marathons for charity ([1 days ago](https://www.bbc.com/news/articles/cx2gynkk0npo?at_medium=RSS&at_campaign=rss))
 - Dad pays tribute to 'wonderful family' killed in Boxing Day fire ([1 days ago](https://www.bbc.com/news/articles/c14r88ylvl1o?at_medium=RSS&at_campaign=rss))
 - Father and son left homeless after rental scam ([1 days ago](https://www.bbc.com/news/articles/cvgj0qqeqw3o?at_medium=RSS&at_campaign=rss))

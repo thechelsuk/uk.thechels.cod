@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- SUGGESTION : Could you add 'hoods' to the green traffic lights at the new bus stop ?, 3rd January :- [8618798](https://www.fixmystreet.com/report/8618798)
 - Cable/pipe repair work damaged surgace, 2nd January :- [8618308](https://www.fixmystreet.com/report/8618308)
 - Subsidence, 2nd January :- [8618135](https://www.fixmystreet.com/report/8618135)
 - Street light not working, 2nd January :- [8618097](https://www.fixmystreet.com/report/8618097)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 2 bags next to litter bin 478 on Lobleys Drive, before the motorway bridge, 2nd January :- [8616583](https://www.fixmystreet.com/report/8616583)
 - 4 potholes in a line, 2nd January :- [8616465](https://www.fixmystreet.com/report/8616465)
 - 2 deep potholes at edge of road. No kerb to support tarmac. Just before blind bend., 2nd January :- [8616401](https://www.fixmystreet.com/report/8616401)
-- Low overhanging street tree branches catching vehicles using driveway and wood falling on drive, 2nd January :- [8616351](https://www.fixmystreet.com/report/8616351)
 
 <!-- fix_marker ends -->

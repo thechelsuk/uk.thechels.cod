@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Object stuck in drain, 3rd January :- [8620424](https://www.fixmystreet.com/report/8620424)
+- Graffiti tag on wall, 3rd January :- [8620422](https://www.fixmystreet.com/report/8620422)
+- Graffiti tag on wall, 3rd January :- [8620420](https://www.fixmystreet.com/report/8620420)
+- Upside down flags, 3rd January :- [8620272](https://www.fixmystreet.com/report/8620272)
 - Potholes on Blacksmiths Lane, 3rd January :- [8620085](https://www.fixmystreet.com/report/8620085)
 - Bollard cover completely off, 3rd January :- [8619653](https://www.fixmystreet.com/report/8619653)
 - Graffiti, 3rd January :- [8619460](https://www.fixmystreet.com/report/8619460)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large quantity of gas canisters dumped, 2nd January :- [8617072](https://www.fixmystreet.com/report/8617072)
 - 2 potholes in close proximity, 2nd January :- [8617045](https://www.fixmystreet.com/report/8617045)
 - 2 potholes in close proximity, 2nd January :- [8617022](https://www.fixmystreet.com/report/8617022)
-- Pothole roughly 30x16x5 cm, 2nd January :- [8616989](https://www.fixmystreet.com/report/8616989)
-- Dumped items left at entrance to park, 2nd January :- [8616713](https://www.fixmystreet.com/report/8616713)
-- 12 inch pothole about 4 inches deep outside No.34 Shaw Green Lane, 2nd January :- [8616654](https://www.fixmystreet.com/report/8616654)
-- Drain blocked, 2nd January :- [8616615](https://www.fixmystreet.com/report/8616615)
 
 <!-- fix_marker ends -->

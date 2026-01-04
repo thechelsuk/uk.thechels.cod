@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 03 January 2026
+## On Sunday, 04 January 2026
 
-- The average temperature today is -3.06˚C,
-- With highs of -1.69˚C and lows of -4.71˚C,
-- It may feel like -3.06˚C with clear sky
+- The average temperature today is -3.43˚C,
+- With highs of -1.75˚C and lows of -4.62˚C,
+- It may feel like -3.43˚C with clear sky
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 88%
-- The sun will rise at 08:15 and set at 16:09
+- The pressure is 1014hPa and humidity is 90%
+- The sun will rise at 08:15 and set at 16:10
 
 <!-- weather_marker ends -->
 

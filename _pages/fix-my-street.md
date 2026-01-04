@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Inadequate street lighting in Mill Street Prestbury Cheltenham, 3rd January :- [8622266](https://www.fixmystreet.com/report/8622266)
 - Pot hole in centre of road, 3rd January :- [8621835](https://www.fixmystreet.com/report/8621835)
 - Multiple pot holes. Road needs resurface, 3rd January :- [8621828](https://www.fixmystreet.com/report/8621828)
 - Water and ice on road adjacent to Harmony house, Mill Lane, Prestbury GL52, 3rd January :- [8621551](https://www.fixmystreet.com/report/8621551)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Cable/pipe repair work damaged surgace, 2nd January :- [8618308](https://www.fixmystreet.com/report/8618308)
 - Subsidence, 2nd January :- [8618135](https://www.fixmystreet.com/report/8618135)
 - Street light not working, 2nd January :- [8618097](https://www.fixmystreet.com/report/8618097)
-- Multiple potholes, 2nd January :- [8618057](https://www.fixmystreet.com/report/8618057)
 
 <!-- fix_marker ends -->

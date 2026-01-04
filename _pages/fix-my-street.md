@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fairview Road puddles since resurfacing, 4th January :- [8623498](https://www.fixmystreet.com/report/8623498)
+- Damaged verge and pavement, 4th January :- [8623227](https://www.fixmystreet.com/report/8623227)
+- Large and deep pothole getting more so everyday as traffic terrible on this rat run, 4th January :- [8623165](https://www.fixmystreet.com/report/8623165)
 - Large pothole in the middle of the road on manor road headhunting towards the roundabout, 4th January :- [8622921](https://www.fixmystreet.com/report/8622921)
 - There are a few potholes on the junction, 4th January :- [8622903](https://www.fixmystreet.com/report/8622903)
 - Inadequate street lighting in Mill Street Prestbury Cheltenham, 3rd January :- [8622266](https://www.fixmystreet.com/report/8622266)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Potholes on Blacksmiths Lane, 3rd January :- [8620085](https://www.fixmystreet.com/report/8620085)
 - Bollard cover completely off, 3rd January :- [8619653](https://www.fixmystreet.com/report/8619653)
 - Graffiti, 3rd January :- [8619460](https://www.fixmystreet.com/report/8619460)
-- 12 inch very deep pothole on the left of the road going towards Prestbury but after the Ellenborough Hotel, 3rd January :- [8618975](https://www.fixmystreet.com/report/8618975)
-- SUGGESTION : Could you add 'hoods' to the green traffic lights at the new bus stop ?, 3rd January :- [8618798](https://www.fixmystreet.com/report/8618798)
-- Cable/pipe repair work damaged surgace, 2nd January :- [8618308](https://www.fixmystreet.com/report/8618308)
 
 <!-- fix_marker ends -->

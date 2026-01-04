@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned metal sign on Honeybourne path, 4th January :- [8625237](https://www.fixmystreet.com/report/8625237)
+- Six abandoned road signs on verge within 100 metres, 4th January :- [8625031](https://www.fixmystreet.com/report/8625031)
 - Public footpath no longer visible or maintained., 4th January :- [8624859](https://www.fixmystreet.com/report/8624859)
 - Lots of flytipped rubbish on side of lane, 4th January :- [8624401](https://www.fixmystreet.com/report/8624401)
 - Bird droppings on pavement, 4th January :- [8624246](https://www.fixmystreet.com/report/8624246)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Caravan, 3rd January :- [8621054](https://www.fixmystreet.com/report/8621054)
 - This car has been parked and therefore blocking the use of an EV bay since mid December. It had 3 parking tickets on 19th Dec but even the traffic wardens seem to have stopped issuing parking tickets. I think it has been ambandomed, but even if not it is preventing the use of 25% of the EV bays Sherborne Street Cheltenham, 3rd January :- [8620885](https://www.fixmystreet.com/report/8620885)
 - Object stuck in drain, 3rd January :- [8620424](https://www.fixmystreet.com/report/8620424)
-- Graffiti tag on wall, 3rd January :- [8620422](https://www.fixmystreet.com/report/8620422)
-- Graffiti tag on wall, 3rd January :- [8620420](https://www.fixmystreet.com/report/8620420)
 
 <!-- fix_marker ends -->

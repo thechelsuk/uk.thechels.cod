@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Next to the traffic calming measure there are lots of potholes, 5th January :- [8632088](https://www.fixmystreet.com/report/8632088)
+- Street Light Out At Zura Avenue, 5th January :- [8631921](https://www.fixmystreet.com/report/8631921)
 - No street sign for Inkerman Lane, 5th January :- [8630855](https://www.fixmystreet.com/report/8630855)
 - Light on zura avenue out for a few weeks, bad visibility, 5th January :- [8630851](https://www.fixmystreet.com/report/8630851)
 - 15 inch pothole after turn into Cooper's Hill, 5th January :- [8630747](https://www.fixmystreet.com/report/8630747)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 5th January :- [8629879](https://www.fixmystreet.com/report/8629879)
 - TMC - Defects -CW6 Potholes  problem, 5th January :- [8629878](https://www.fixmystreet.com/report/8629878)
 - TMC - Defects -CW6 Potholes  problem, 5th January :- [8629587](https://www.fixmystreet.com/report/8629587)
-- Mattress Dumped on corner of Queens Close Hucclecote, 5th January :- [8629389](https://www.fixmystreet.com/report/8629389)
-- TMC - Defects -CW6 Potholes  problem, 5th January :- [8629576](https://www.fixmystreet.com/report/8629576)
 
 <!-- fix_marker ends -->

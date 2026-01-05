@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Christmas trees chipped for local charities ([9 hours ago](https://www.bbc.com/news/articles/c78ed2mmpp8o?at_medium=RSS&at_campaign=rss))
-- Tributes paid to 'deeply loved mum' killed in crash ([17 hours ago](https://www.bbc.com/news/articles/ce3ky4nr5gdo?at_medium=RSS&at_campaign=rss))
-- War veteran could be honoured with new memorial ([20 hours ago](https://www.bbc.com/news/articles/c93n33eqrw9o?at_medium=RSS&at_campaign=rss))
-- 2026 festival guide: Everything you need to know ([20 hours ago](https://www.bbc.com/news/articles/ckg94vww3r0o?at_medium=RSS&at_campaign=rss))
+- Christmas trees chipped for local charities ([11 hours ago](https://www.bbc.com/news/articles/c78ed2mmpp8o?at_medium=RSS&at_campaign=rss))
+- Tributes paid to 'deeply loved mum' killed in crash ([19 hours ago](https://www.bbc.com/news/articles/ce3ky4nr5gdo?at_medium=RSS&at_campaign=rss))
+- War veteran could be honoured with new memorial ([21 hours ago](https://www.bbc.com/news/articles/c93n33eqrw9o?at_medium=RSS&at_campaign=rss))
+- 2026 festival guide: Everything you need to know ([22 hours ago](https://www.bbc.com/news/articles/ckg94vww3r0o?at_medium=RSS&at_campaign=rss))
 - Family walks length of UK in daughter's memory ([1 days ago](https://www.bbc.com/news/articles/c9dvy392dpdo?at_medium=RSS&at_campaign=rss))
 - Weather warnings in place as snow and ice blanket parts of UK ([1 days ago](https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss))
 - Hunt for e-bike rider accused of abusing van driver ([1 days ago](https://www.bbc.com/news/articles/cr4kl6v145no?at_medium=RSS&at_campaign=rss))

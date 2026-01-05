@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No street sign for Inkerman Lane, 5th January :- [8630855](https://www.fixmystreet.com/report/8630855)
+- Light on zura avenue out for a few weeks, bad visibility, 5th January :- [8630851](https://www.fixmystreet.com/report/8630851)
 - 15 inch pothole after turn into Cooper's Hill, 5th January :- [8630747](https://www.fixmystreet.com/report/8630747)
 - RTI not working, 5th January :- [8630737](https://www.fixmystreet.com/report/8630737)
 - Traffic reflection mirror has been broken off, 5th January :- [8630420](https://www.fixmystreet.com/report/8630420)
@@ -22,12 +24,10 @@ permalink: /fix-my-street
 - Filter light not working, 5th January :- [8629893](https://www.fixmystreet.com/report/8629893)
 - Stoplines faded, 5th January :- [8629842](https://www.fixmystreet.com/report/8629842)
 - Stoplines faded, 5th January :- [8629791](https://www.fixmystreet.com/report/8629791)
-- TMC - Defects -CW6 Potholes  problem, 5th January :- [8629878](https://www.fixmystreet.com/report/8629878)
 - TMC - Defects -CW6 Potholes  problem, 5th January :- [8629879](https://www.fixmystreet.com/report/8629879)
+- TMC - Defects -CW6 Potholes  problem, 5th January :- [8629878](https://www.fixmystreet.com/report/8629878)
 - TMC - Defects -CW6 Potholes  problem, 5th January :- [8629587](https://www.fixmystreet.com/report/8629587)
 - Mattress Dumped on corner of Queens Close Hucclecote, 5th January :- [8629389](https://www.fixmystreet.com/report/8629389)
 - TMC - Defects -CW6 Potholes  problem, 5th January :- [8629576](https://www.fixmystreet.com/report/8629576)
-- TMC - Defects -CW6 Potholes  problem, 5th January :- [8629348](https://www.fixmystreet.com/report/8629348)
-- Two drains opposite the school are full of leaves - causing flooding, 5th January :- [8629150](https://www.fixmystreet.com/report/8629150)
 
 <!-- fix_marker ends -->

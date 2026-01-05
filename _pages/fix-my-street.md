@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen leaves in gutters and on pavement, 5th January :- [8626689](https://www.fixmystreet.com/report/8626689)
+- Abandoned Caravan, 5th January :- [8626665](https://www.fixmystreet.com/report/8626665)
+- Several broken slaps, 5th January :- [8626641](https://www.fixmystreet.com/report/8626641)
 - Tree roots causing trip hazard on pavement, 5th January :- [8626143](https://www.fixmystreet.com/report/8626143)
 - Pothole, 5th January :- [8626135](https://www.fixmystreet.com/report/8626135)
 - Water consistently running down this road. Now lethal as turned to ice, 4th January :- [8625673](https://www.fixmystreet.com/report/8625673)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Inadequate street lighting in Mill Street Prestbury Cheltenham, 3rd January :- [8622266](https://www.fixmystreet.com/report/8622266)
 - Pot hole in centre of road, 3rd January :- [8621835](https://www.fixmystreet.com/report/8621835)
 - Multiple pot holes. Road needs resurface, 3rd January :- [8621828](https://www.fixmystreet.com/report/8621828)
-- Water and ice on road adjacent to Harmony house, Mill Lane, Prestbury GL52, 3rd January :- [8621551](https://www.fixmystreet.com/report/8621551)
-- Evidence of burst water main, 3rd January :- [8621300](https://www.fixmystreet.com/report/8621300)
-- Potholes on Blacksmiths Lane, The Leigh, 3rd January :- [8621260](https://www.fixmystreet.com/report/8621260)
 
 <!-- fix_marker ends -->

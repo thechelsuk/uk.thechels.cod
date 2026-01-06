@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -other CW6 problem, 6th January :- [8633405](https://www.fixmystreet.com/report/8633405)
+- TMC - Defects -CW6 Potholes  problem, 6th January :- [8633400](https://www.fixmystreet.com/report/8633400)
+- Tree is damaged problem, 6th January :- [8633382](https://www.fixmystreet.com/report/8633382)
+- TMC - Defects -CW6 Potholes  problem, 6th January :- [8633399](https://www.fixmystreet.com/report/8633399)
+- TMC - Defects -CW6 Potholes  problem, 6th January :- [8632887](https://www.fixmystreet.com/report/8632887)
+- TMC - Defects -CW6 Potholes  problem, 6th January :- [8632886](https://www.fixmystreet.com/report/8632886)
 - Next to the traffic calming measure there are lots of potholes, 5th January :- [8632088](https://www.fixmystreet.com/report/8632088)
 - Street Light Out At Zura Avenue, 5th January :- [8631921](https://www.fixmystreet.com/report/8631921)
 - No street sign for Inkerman Lane, 5th January :- [8630855](https://www.fixmystreet.com/report/8630855)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Pot hole in the road, 5th January :- [8630054](https://www.fixmystreet.com/report/8630054)
 - Stoplines faded, 5th January :- [8630034](https://www.fixmystreet.com/report/8630034)
 - Stoplines faded, 5th January :- [8629989](https://www.fixmystreet.com/report/8629989)
-- Filter light not working, 5th January :- [8629893](https://www.fixmystreet.com/report/8629893)
-- Stoplines faded, 5th January :- [8629842](https://www.fixmystreet.com/report/8629842)
-- Stoplines faded, 5th January :- [8629791](https://www.fixmystreet.com/report/8629791)
-- TMC - Defects -CW6 Potholes  problem, 5th January :- [8629879](https://www.fixmystreet.com/report/8629879)
-- TMC - Defects -CW6 Potholes  problem, 5th January :- [8629878](https://www.fixmystreet.com/report/8629878)
-- TMC - Defects -CW6 Potholes  problem, 5th January :- [8629587](https://www.fixmystreet.com/report/8629587)
 
 <!-- fix_marker ends -->

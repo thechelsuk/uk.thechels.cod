@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,6 +14,96 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Blocking visibility on road/junction (Grass/verge) problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638646</link>
+<description>Cars parking on grass verge random areas damaged grass verge i have raised jobs for new top soil  on several occasions but has been driven on and now destroyed again  can this be looked at please again as to how we can stop this  &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638646&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Blocking visibility on road/junction (Grass/verge)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638646</guid>
+<pubDate>Wed, 07 Jan 2026 08:09:18 +0000</pubDate>
+<georss:point>51.905513 -2.114464</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638650</link>
+<description>Carriage way pothole x1  28 day with 2 way stop and go 400x350x40mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638650&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638650</guid>
+<pubDate>Wed, 07 Jan 2026 08:01:52 +0000</pubDate>
+<georss:point>51.8906954515317 -2.09361274946556</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638651</link>
+<description>Carriage way pothole x1  28 day with 2 way stop and go 500x400x42mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638651&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638651</guid>
+<pubDate>Wed, 07 Jan 2026 08:01:52 +0000</pubDate>
+<georss:point>51.8905178 -2.09344599999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638649</link>
+<description>Footway aburt level difference  28 day  give an take  400x300x20mm tarmac parch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638649&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638649</guid>
+<pubDate>Wed, 07 Jan 2026 08:01:52 +0000</pubDate>
+<georss:point>51.8906886 -2.093848</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638648</link>
+<description>Carriage way pothole x1  28 day with 2 way stop and go 400x300x50mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638648&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638648</guid>
+<pubDate>Wed, 07 Jan 2026 08:01:52 +0000</pubDate>
+<georss:point>51.8907308 -2.09388979999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638652</link>
+<description>Footway aburt level difference  28 day  give an take  1000x230x22mm tarmac parch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638652&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638652</guid>
+<pubDate>Wed, 07 Jan 2026 08:01:52 +0000</pubDate>
+<georss:point>51.8904262 -2.09324880000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638647</link>
+<description>Carriage way pothole x1  28 day with 2 way stop and go 1800x400x40mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638647&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638647</guid>
+<pubDate>Wed, 07 Jan 2026 08:01:52 +0000</pubDate>
+<georss:point>51.8906834 -2.09379910000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638473</link>
+<description>Carriage way pothole x1  28 day with 2 way stop and go 3500x600x40mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638473&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638473</guid>
+<pubDate>Wed, 07 Jan 2026 07:46:45 +0000</pubDate>
+<georss:point>51.89016 -2.0989935</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638472</link>
+<description>Carriage way pothole x1  28 day with 2 way stop and go 600x600x40mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638472&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638472</guid>
+<pubDate>Wed, 07 Jan 2026 07:46:45 +0000</pubDate>
+<georss:point>51.8903611 -2.09876789999998</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8638471</link>
+<description>Carriage way pothole x1  28 day with 2 way stop and go 1000x900x40mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8638471&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8638471</guid>
+<pubDate>Wed, 07 Jan 2026 07:46:45 +0000</pubDate>
+<georss:point>51.8902292 -2.09889069999999</georss:point>
+</item>
 <item>
 <title>Lots of dog poo back on pavements on way up to school, 7th January</title>
 <link>https://www.fixmystreet.com/report/8638225</link>
@@ -103,96 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8636602</guid>
 <pubDate>Tue, 06 Jan 2026 16:17:08 +0000</pubDate>
 <georss:point>51.887185 -2.180854</georss:point>
-</item>
-<item>
-<title>Road has a large lump in it following road works, 6th January</title>
-<link>https://www.fixmystreet.com/report/8636390</link>
-<description>Where the Roseleigh development on Stoke Road installed the estate entrance the contractors dug a trench across the road. This has been filled in poorly leaving and is raised above the height of the road on both sides but more pronounced on the side travelling towards Bishops Cleeve&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Stoke Road, Stoke Orchard, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8636390&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Poor repairs (reinstatement)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8636390</guid>
-<pubDate>Tue, 06 Jan 2026 15:59:00 +0000</pubDate>
-<georss:point>51.951659 -2.108349</georss:point>
-</item>
-<item>
-<title>Sofa, 6th January</title>
-<link>https://www.fixmystreet.com/report/8636266</link>
-<description>Someone has dumped a single seated sofa here.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 121, St Peters Close, Kingsditch, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8636266&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8636266</guid>
-<pubDate>Tue, 06 Jan 2026 15:42:06 +0000</pubDate>
-<georss:point>51.90998 -2.095624</georss:point>
-</item>
-<item>
-<title>Broken Slab under street bin, 6th January</title>
-<link>https://www.fixmystreet.com/report/8636176</link>
-<description>In front of the Everyman Theatre. To the left of the front of house.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 12, Regent Street, Montpellier, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8636176&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Missing/broken/rocking/unstable slab</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8636176</guid>
-<pubDate>Tue, 06 Jan 2026 15:39:33 +0000</pubDate>
-<georss:point>51.899564 -2.075434</georss:point>
-</item>
-<item>
-<title>A pothole in pavement problem, 6th January</title>
-<link>https://www.fixmystreet.com/report/8636225</link>
-<description>Pothole&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8636225&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8636225</guid>
-<pubDate>Tue, 06 Jan 2026 15:00:37 +0000</pubDate>
-<georss:point>51.909326 -2.11865</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 6th January</title>
-<link>https://www.fixmystreet.com/report/8636004</link>
-<description>raised  slab 28 day  lift and relay x1 600x600x25mm footway closure (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8636004&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8636004</guid>
-<pubDate>Tue, 06 Jan 2026 15:00:23 +0000</pubDate>
-<georss:point>51.8999808 -2.11761709999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 6th January</title>
-<link>https://www.fixmystreet.com/report/8635998</link>
-<description>Carriage way pothole x1    give and take  28 day 400x300x70mm tarmac parch number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8635998&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8635998</guid>
-<pubDate>Tue, 06 Jan 2026 14:59:58 +0000</pubDate>
-<georss:point>51.9026698 -2.095419</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 6th January</title>
-<link>https://www.fixmystreet.com/report/8635997</link>
-<description>NWD Carriage way pothole x1    give and take 400x300x70mm tarmac parch number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8635997&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8635997</guid>
-<pubDate>Tue, 06 Jan 2026 14:59:58 +0000</pubDate>
-<georss:point>51.9026576 -2.09549299999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 6th January</title>
-<link>https://www.fixmystreet.com/report/8635995</link>
-<description>15DB 28DAY (ASAP)&amp;#10;CW POTHOLE APPROX 600 X 600 X 60MM &amp;#10;3 WAY STOP AND GO TM (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8635995&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8635995</guid>
-<pubDate>Tue, 06 Jan 2026 14:58:44 +0000</pubDate>
-<georss:point>51.8745863 -2.1673238</georss:point>
-</item>
-<item>
-<title>A pothole in road problem, 6th January</title>
-<link>https://www.fixmystreet.com/report/8635980</link>
-<description>Pothole(s)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8635980&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8635980</guid>
-<pubDate>Tue, 06 Jan 2026 14:57:20 +0000</pubDate>
-<georss:point>51.90954 -2.119309</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 6th January</title>
-<link>https://www.fixmystreet.com/report/8635994</link>
-<description>15DB CW: Edge deteration &amp;#10;2600mmx600mmx85mm&amp;#10;TM: temporary road closure &amp;#10;ENWD &amp;#10;Use pinpoint (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8635994&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8635994</guid>
-<pubDate>Tue, 06 Jan 2026 14:56:47 +0000</pubDate>
-<georss:point>51.9043235 -2.14527570000001</georss:point>
 </item>
 </channel>
 </rss>

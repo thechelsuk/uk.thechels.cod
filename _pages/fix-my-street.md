@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocking visibility on road/junction (Grass/verge) problem, 7th January :- [8638646](https://www.fixmystreet.com/report/8638646)
+- TMC - Defects -CW6 Potholes  problem, 7th January :- [8638650](https://www.fixmystreet.com/report/8638650)
+- TMC - Defects -CW6 Potholes  problem, 7th January :- [8638651](https://www.fixmystreet.com/report/8638651)
+- TMC - Defects - Other FW6  Surface problem, 7th January :- [8638649](https://www.fixmystreet.com/report/8638649)
+- TMC - Defects -CW6 Potholes  problem, 7th January :- [8638648](https://www.fixmystreet.com/report/8638648)
+- TMC - Defects - Other FW6  Surface problem, 7th January :- [8638652](https://www.fixmystreet.com/report/8638652)
+- TMC - Defects -CW6 Potholes  problem, 7th January :- [8638647](https://www.fixmystreet.com/report/8638647)
+- TMC - Defects -CW6 Potholes  problem, 7th January :- [8638473](https://www.fixmystreet.com/report/8638473)
+- TMC - Defects -CW6 Potholes  problem, 7th January :- [8638472](https://www.fixmystreet.com/report/8638472)
+- TMC - Defects -CW6 Potholes  problem, 7th January :- [8638471](https://www.fixmystreet.com/report/8638471)
 - Lots of dog poo back on pavements on way up to school, 7th January :- [8638225](https://www.fixmystreet.com/report/8638225)
 - Large deep pothole, 7th January :- [8638118](https://www.fixmystreet.com/report/8638118)
 - There are two sets of temp traffic lights by golden vale and the coop on Parton Road. They are causing chaos, 6th January :- [8637917](https://www.fixmystreet.com/report/8637917)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - There is still water leaking, 6th January :- [8636937](https://www.fixmystreet.com/report/8636937)
 - Large pothole on Left had side coming down the hill, 6th January :- [8636732](https://www.fixmystreet.com/report/8636732)
 - Light sensor is not detecting vehicles problem, 6th January :- [8636602](https://www.fixmystreet.com/report/8636602)
-- Road has a large lump in it following road works, 6th January :- [8636390](https://www.fixmystreet.com/report/8636390)
-- Sofa, 6th January :- [8636266](https://www.fixmystreet.com/report/8636266)
-- Broken Slab under street bin, 6th January :- [8636176](https://www.fixmystreet.com/report/8636176)
-- A pothole in pavement problem, 6th January :- [8636225](https://www.fixmystreet.com/report/8636225)
-- TMC - Defects - Footways Slabs problem, 6th January :- [8636004](https://www.fixmystreet.com/report/8636004)
-- TMC - Defects -CW6 Potholes  problem, 6th January :- [8635998](https://www.fixmystreet.com/report/8635998)
-- TMC - Defects -CW6 Potholes  problem, 6th January :- [8635997](https://www.fixmystreet.com/report/8635997)
-- TMC - Defects -CW10 Potholes problem, 6th January :- [8635995](https://www.fixmystreet.com/report/8635995)
-- A pothole in road problem, 6th January :- [8635980](https://www.fixmystreet.com/report/8635980)
-- TMC - Defects -other CW6 problem, 6th January :- [8635994](https://www.fixmystreet.com/report/8635994)
 
 <!-- fix_marker ends -->

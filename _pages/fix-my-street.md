@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 8th January :- [8647345](https://www.fixmystreet.com/report/8647345)
 - Series of Dropped service drains, 8th January :- [8647127](https://www.fixmystreet.com/report/8647127)
 - Large pot hole before the bus stop on the left hand side, 8th January :- [8647024](https://www.fixmystreet.com/report/8647024)
 - Pothole near centre of road, midway between the junction with Nine Elms Road and number 1 Liddington Road., 8th January :- [8646690](https://www.fixmystreet.com/report/8646690)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 5 streetlights out on Pittville Circus, 7th January :- [8644427](https://www.fixmystreet.com/report/8644427)
 - Reinstatement across the road has sunk significantly., 7th January :- [8643852](https://www.fixmystreet.com/report/8643852)
 - Pothole appearing at side of road, 7th January :- [8643730](https://www.fixmystreet.com/report/8643730)
-- Sinking drain cover, 7th January :- [8643701](https://www.fixmystreet.com/report/8643701)
 
 <!-- fix_marker ends -->

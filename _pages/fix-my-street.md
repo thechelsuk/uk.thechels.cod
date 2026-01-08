@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light sensor is not detecting vehicles problem, 8th January :- [8645633](https://www.fixmystreet.com/report/8645633)
+- Fly tipping of toilet, 8th January :- [8645405](https://www.fixmystreet.com/report/8645405)
+- Light sensor is not detecting vehicles problem, 8th January :- [8645124](https://www.fixmystreet.com/report/8645124)
 - In the road, 8th January :- [8644822](https://www.fixmystreet.com/report/8644822)
 - Do NOT fell tree please, 8th January :- [8644818](https://www.fixmystreet.com/report/8644818)
 - Temp lights by Hare & Hounds junction, 8th January :- [8644711](https://www.fixmystreet.com/report/8644711)
@@ -24,10 +27,7 @@ permalink: /fix-my-street
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 7th January :- [8642445](https://www.fixmystreet.com/report/8642445)
 - A pothole in road problem, 7th January :- [8642444](https://www.fixmystreet.com/report/8642444)
 - 2 metre by 1.5 metre pothole on Ermin Park GL34DD, 7th January :- [8641977](https://www.fixmystreet.com/report/8641977)
-- TMC - Defects -CW6 Potholes  problem, 7th January :- [8641901](https://www.fixmystreet.com/report/8641901)
 - TMC - Defects -CW6 Potholes  problem, 7th January :- [8641902](https://www.fixmystreet.com/report/8641902)
-- TMC - Defects -CW6 Potholes  problem, 7th January :- [8641899](https://www.fixmystreet.com/report/8641899)
 - TMC - Defects -CW6 Potholes  problem, 7th January :- [8641903](https://www.fixmystreet.com/report/8641903)
-- TMC - Defects - Covers, Gratings & Frames problem, 7th January :- [8641896](https://www.fixmystreet.com/report/8641896)
 
 <!-- fix_marker ends -->

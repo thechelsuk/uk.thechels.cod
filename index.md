@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 08 January 2026
 
-- The average temperature today is 4.94˚C,
-- With highs of 5.29˚C and lows of 3.8˚C,
-- It may feel like 4.94˚C with fog
-- The wind speed is 1.03m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 97%
+- The average temperature today is 4.67˚C,
+- With highs of 5.16˚C and lows of 4.26˚C,
+- It may feel like 1.7˚C with fog
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 999hPa and humidity is 94%
 - The sun will rise at 08:13 and set at 16:15
 
 <!-- weather_marker ends -->

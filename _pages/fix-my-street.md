@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge pothole. Would potentially cause significant damage to a bike., 8th January :- [8649678](https://www.fixmystreet.com/report/8649678)
+- Blocked drain, 8th January :- [8649639](https://www.fixmystreet.com/report/8649639)
+- Drain is blocked (has been for over a year now), every time it rains one side of Douro Road is unusable, 8th January :- [8649499](https://www.fixmystreet.com/report/8649499)
+- Another pot hole on the bridge, 8th January :- [8649491](https://www.fixmystreet.com/report/8649491)
+- Multiple potholes on both sides of road, 8th January :- [8649190](https://www.fixmystreet.com/report/8649190)
+- Very large pothole on side of road, 8th January :- [8649064](https://www.fixmystreet.com/report/8649064)
+- Drain blocked, 8th January :- [8648991](https://www.fixmystreet.com/report/8648991)
 - There are several AWFUL potholes around the garage and at the lights in the Lansdown Road / Hatherley Road junction/ traffic lights, 8th January :- [8648388](https://www.fixmystreet.com/report/8648388)
 - Tree is damaged problem, 8th January :- [8648495](https://www.fixmystreet.com/report/8648495)
 - Pothole on the side driving from Tewkesbury to Bishops Cleeve, 8th January :- [8648276](https://www.fixmystreet.com/report/8648276)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Street Light Outage Opposite to 2 Cromwell Road, Innsworth, GL3 1FG, 8th January :- [8646125](https://www.fixmystreet.com/report/8646125)
 - Over grown with Ivy, 8th January :- [8646106](https://www.fixmystreet.com/report/8646106)
 - The drain is blocked problem, 8th January :- [8646381](https://www.fixmystreet.com/report/8646381)
-- TMC - Defects - Other problem, 8th January :- [8646389](https://www.fixmystreet.com/report/8646389)
-- Light sensor is not detecting vehicles problem, 8th January :- [8645633](https://www.fixmystreet.com/report/8645633)
-- Fly tipping of toilet, 8th January :- [8645405](https://www.fixmystreet.com/report/8645405)
-- Light sensor is not detecting vehicles problem, 8th January :- [8645124](https://www.fixmystreet.com/report/8645124)
-- In the road, 8th January :- [8644822](https://www.fixmystreet.com/report/8644822)
-- Do NOT fell tree please, 8th January :- [8644818](https://www.fixmystreet.com/report/8644818)
-- Temp lights by Hare & Hounds junction, 8th January :- [8644711](https://www.fixmystreet.com/report/8644711)
 
 <!-- fix_marker ends -->

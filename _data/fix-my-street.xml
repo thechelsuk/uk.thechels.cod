@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -160,21 +160,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
-<link>https://www.fixmystreet.com/report/8641890</link>
-<description>Carriage way pothole x1  28 day with 2 way stop and go 600x400x50mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8641890&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8641890</guid>
-<pubDate>Wed, 07 Jan 2026 14:07:44 +0000</pubDate>
-<georss:point>51.9154276777515 -2.09272775612028</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
 <link>https://www.fixmystreet.com/report/8641891</link>
 <description>Carriage way pothole x1  28 day with 4 way stop and go 600x400x60mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8641891&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8641891</guid>
 <pubDate>Wed, 07 Jan 2026 14:07:44 +0000</pubDate>
 <georss:point>51.9163598 -2.09365169999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th January</title>
+<link>https://www.fixmystreet.com/report/8641890</link>
+<description>Carriage way pothole x1  28 day with 2 way stop and go 600x400x50mm tarmac parch number 1 size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8641890&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8641890</guid>
+<pubDate>Wed, 07 Jan 2026 14:07:44 +0000</pubDate>
+<georss:point>51.9154276777515 -2.09272775612028</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 7th January</title>

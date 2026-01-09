@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes in Woodlands Road, Warden Hill., 9th January :- [8659540](https://www.fixmystreet.com/report/8659540)
+- Deep pot hole just past bus stop, 9th January :- [8659411](https://www.fixmystreet.com/report/8659411)
 - 3 deep pot holes, 9th January :- [8659055](https://www.fixmystreet.com/report/8659055)
 - Large section of top layer of asphalt is missing. Unavoidable without crossing onto southbound carriageway, 9th January :- [8658990](https://www.fixmystreet.com/report/8658990)
 - Large section of top layer of asphalt is missing. Unavoidable without crossing onto southbound carriageway, 9th January :- [8658983](https://www.fixmystreet.com/report/8658983)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th January :- [8657493](https://www.fixmystreet.com/report/8657493)
 - Pothole, 9th January :- [8657428](https://www.fixmystreet.com/report/8657428)
 - Pot hole in road by keep clear markings, 9th January :- [8657407](https://www.fixmystreet.com/report/8657407)
-- Large deep pothole in road (previously repaired), 9th January :- [8657361](https://www.fixmystreet.com/report/8657361)
-- Tree is damaged problem, 9th January :- [8657490](https://www.fixmystreet.com/report/8657490)
 
 <!-- fix_marker ends -->

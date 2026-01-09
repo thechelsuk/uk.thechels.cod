@@ -33,6 +33,14 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 
 This message will be updated by 12:00 PM, midday, on the 10 January 2026 or as the situation changes.
 
+- Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
+- High river levels today may lead to flooding. 
+Flooding is possible from the morning of 09 January 2026 . 
+Flooding of low lying land and roads is expected on the River Evenlode, especially near the Evenlode and Broadwell areas. The forecast is for dry weather from midday today, remaining dry on Saturday 10 January. We expect river levels to rise through today. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . Go to River levels online for updates on current river levels. 
+This message will be updated by 6:00PM on 09 January 2026 or as the situation changes.
+
 - Flood alert: River Leadon catchment
 - Rising river levels today may lead to flooding.  Flooding is possible on 09 January 2026 and may continue over the next few days .  Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 10 January 2026 or as the situation changes.
 

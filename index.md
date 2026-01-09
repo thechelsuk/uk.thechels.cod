@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 09 January 2026
 
-- The average temperature today is 2.7˚C,
-- With highs of 3.3˚C and lows of 2.38˚C,
-- It may feel like -2.1˚C with broken clouds
-- The wind speed is 6.17m/s and visibility is 9000m
-- The pressure is 995hPa and humidity is 92%
+- The average temperature today is 3.78˚C,
+- With highs of 3.87˚C and lows of 2.94˚C,
+- It may feel like -0.5˚C with broken clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 997hPa and humidity is 90%
 - The sun will rise at 08:13 and set at 16:17
 
 <!-- weather_marker ends -->

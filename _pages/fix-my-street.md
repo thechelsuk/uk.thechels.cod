@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Half a dozen drains blocked due to mud coming down road, 9th January :- [8653783](https://www.fixmystreet.com/report/8653783)
+- Fly tipping, 9th January :- [8653776](https://www.fixmystreet.com/report/8653776)
+- More fly tipping, 9th January :- [8653652](https://www.fixmystreet.com/report/8653652)
+- Road surface broken down over wide area, 9th January :- [8653604](https://www.fixmystreet.com/report/8653604)
+- Serious pothole, 9th January :- [8653390](https://www.fixmystreet.com/report/8653390)
 - A pothole in road problem, 9th January :- [8651804](https://www.fixmystreet.com/report/8651804)
 - Blocked drain on Station Road under railway bridge., 8th January :- [8651467](https://www.fixmystreet.com/report/8651467)
 - Pot hole on Malleson road, 8th January :- [8651144](https://www.fixmystreet.com/report/8651144)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - There are several AWFUL potholes around the garage and at the lights in the Lansdown Road / Hatherley Road junction/ traffic lights, 8th January :- [8648388](https://www.fixmystreet.com/report/8648388)
 - Tree is damaged problem, 8th January :- [8648495](https://www.fixmystreet.com/report/8648495)
 - Pothole on the side driving from Tewkesbury to Bishops Cleeve, 8th January :- [8648276](https://www.fixmystreet.com/report/8648276)
-- Area keeps flooding g due to poor road surface, 8th January :- [8648207](https://www.fixmystreet.com/report/8648207)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 8th January :- [8647345](https://www.fixmystreet.com/report/8647345)
-- Series of Dropped service drains, 8th January :- [8647127](https://www.fixmystreet.com/report/8647127)
-- Large pot hole before the bus stop on the left hand side, 8th January :- [8647024](https://www.fixmystreet.com/report/8647024)
-- Pothole near centre of road, midway between the junction with Nine Elms Road and number 1 Liddington Road., 8th January :- [8646690](https://www.fixmystreet.com/report/8646690)
 
 <!-- fix_marker ends -->

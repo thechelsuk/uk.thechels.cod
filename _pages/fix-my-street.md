@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 9th January :- [8651804](https://www.fixmystreet.com/report/8651804)
+- Blocked drain on Station Road under railway bridge., 8th January :- [8651467](https://www.fixmystreet.com/report/8651467)
 - Pot hole on Malleson road, 8th January :- [8651144](https://www.fixmystreet.com/report/8651144)
 - Photo taken at 3pm with only light drizzle. No significant rain in last hours and pooling water., 8th January :- [8650507](https://www.fixmystreet.com/report/8650507)
 - The drain is prone to blocking and flooding., 8th January :- [8650118](https://www.fixmystreet.com/report/8650118)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Series of Dropped service drains, 8th January :- [8647127](https://www.fixmystreet.com/report/8647127)
 - Large pot hole before the bus stop on the left hand side, 8th January :- [8647024](https://www.fixmystreet.com/report/8647024)
 - Pothole near centre of road, midway between the junction with Nine Elms Road and number 1 Liddington Road., 8th January :- [8646690](https://www.fixmystreet.com/report/8646690)
-- Road Markings on approach to roundabout from A40 need review, 8th January :- [8646558](https://www.fixmystreet.com/report/8646558)
-- The drain is blocked problem, 8th January :- [8646622](https://www.fixmystreet.com/report/8646622)
 
 <!-- fix_marker ends -->

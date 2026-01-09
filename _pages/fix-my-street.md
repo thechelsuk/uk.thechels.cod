@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Serious collection of potholes with sections of tarmac on pavement, 9th January :- [8659758](https://www.fixmystreet.com/report/8659758)
+- The general condition of this road is very poor and potentially dangerous., 9th January :- [8659728](https://www.fixmystreet.com/report/8659728)
+- Crass turning to sludge due to cars parking on grass causing my child to slip on the pathway to my garden gate, 9th January :- [8659717](https://www.fixmystreet.com/report/8659717)
+- Considerable size pothole, 9th January :- [8659638](https://www.fixmystreet.com/report/8659638)
 - Potholes in Woodlands Road, Warden Hill., 9th January :- [8659540](https://www.fixmystreet.com/report/8659540)
 - Deep pot hole just past bus stop, 9th January :- [8659411](https://www.fixmystreet.com/report/8659411)
 - 3 deep pot holes, 9th January :- [8659055](https://www.fixmystreet.com/report/8659055)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 9th January :- [8657776](https://www.fixmystreet.com/report/8657776)
 - TMC - Defects - Other problem, 9th January :- [8657774](https://www.fixmystreet.com/report/8657774)
 - Pothole, 9th January :- [8657446](https://www.fixmystreet.com/report/8657446)
-- TMC - Defects -CW6 Potholes  problem, 9th January :- [8657494](https://www.fixmystreet.com/report/8657494)
-- TMC - Defects -CW6 Potholes  problem, 9th January :- [8657493](https://www.fixmystreet.com/report/8657493)
-- Pothole, 9th January :- [8657428](https://www.fixmystreet.com/report/8657428)
-- Pot hole in road by keep clear markings, 9th January :- [8657407](https://www.fixmystreet.com/report/8657407)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 10th January :- [8662312](https://www.fixmystreet.com/report/8662312)
+- Deep long pothole, 10th January :- [8662190](https://www.fixmystreet.com/report/8662190)
+- Huge numerous potholes, 10th January :- [8662154](https://www.fixmystreet.com/report/8662154)
+- A pothole in road problem, 10th January :- [8662202](https://www.fixmystreet.com/report/8662202)
+- Pedestrian crossing phase glitches, 10th January :- [8662012](https://www.fixmystreet.com/report/8662012)
 - Large pothole, 10th January :- [8661675](https://www.fixmystreet.com/report/8661675)
 - Flytipped items, 10th January :- [8661632](https://www.fixmystreet.com/report/8661632)
 - Flytipped item, 10th January :- [8661630](https://www.fixmystreet.com/report/8661630)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - The general condition of this road is very poor and potentially dangerous., 9th January :- [8659728](https://www.fixmystreet.com/report/8659728)
 - Crass turning to sludge due to cars parking on grass causing my child to slip on the pathway to my garden gate, 9th January :- [8659717](https://www.fixmystreet.com/report/8659717)
 - Considerable size pothole, 9th January :- [8659638](https://www.fixmystreet.com/report/8659638)
-- Potholes in Woodlands Road, Warden Hill., 9th January :- [8659540](https://www.fixmystreet.com/report/8659540)
-- Deep pot hole just past bus stop, 9th January :- [8659411](https://www.fixmystreet.com/report/8659411)
-- 3 deep pot holes, 9th January :- [8659055](https://www.fixmystreet.com/report/8659055)
-- Large section of top layer of asphalt is missing. Unavoidable without crossing onto southbound carriageway, 9th January :- [8658990](https://www.fixmystreet.com/report/8658990)
-- Large section of top layer of asphalt is missing. Unavoidable without crossing onto southbound carriageway, 9th January :- [8658983](https://www.fixmystreet.com/report/8658983)
 
 <!-- fix_marker ends -->

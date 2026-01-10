@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A speed indication sign that you installed a year ago or more still isn't working. Nor is the equivalent sign the other side of the road. Traffic regularly exceeds the speed limit here at extreme risk to pedestrians on the narrow pavement. Please bring these signs into use., 10th January :- [8662894](https://www.fixmystreet.com/report/8662894)
+- Broken tree across road, 10th January :- [8662829](https://www.fixmystreet.com/report/8662829)
+- Massive and deep pothole. Emergency, 10th January :- [8662764](https://www.fixmystreet.com/report/8662764)
+- Massive pot hole outside Robinia close, 10th January :- [8662747](https://www.fixmystreet.com/report/8662747)
+- Dead tree in ready to fall, 10th January :- [8662731](https://www.fixmystreet.com/report/8662731)
+- Pedestrian crossing light faulty, 10th January :- [8662674](https://www.fixmystreet.com/report/8662674)
+- Horsbere Brook bank collapsing, 10th January :- [8662586](https://www.fixmystreet.com/report/8662586)
+- Multiple potholes along Marsland Road, 10th January :- [8662474](https://www.fixmystreet.com/report/8662474)
+- Burst Water Main, 10th January :- [8662388](https://www.fixmystreet.com/report/8662388)
+- Road has sunk and has been potholes it’s becoming dangerous due to heavy traffic use, 10th January :- [8662371](https://www.fixmystreet.com/report/8662371)
 - Volunteer litter pick bags ready for collection, 10th January :- [8662312](https://www.fixmystreet.com/report/8662312)
 - Deep long pothole, 10th January :- [8662190](https://www.fixmystreet.com/report/8662190)
 - Huge numerous potholes, 10th January :- [8662154](https://www.fixmystreet.com/report/8662154)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Flytipped item, 10th January :- [8661630](https://www.fixmystreet.com/report/8661630)
 - Flytipped items, 10th January :- [8661621](https://www.fixmystreet.com/report/8661621)
 - 4way traffic lights installed, BG have 8 days of works. Not permitted, 10th January :- [8661336](https://www.fixmystreet.com/report/8661336)
-- Large pothole on Brooklyn Road opposite Kipling Road, 10th January :- [8660748](https://www.fixmystreet.com/report/8660748)
-- Bridge not replaced yet, 10th January :- [8660704](https://www.fixmystreet.com/report/8660704)
-- Fly tipping block a public footpath, 10th January :- [8660567](https://www.fixmystreet.com/report/8660567)
-- Push Button stuck on Pedestrian Crossing. Regularly stopping traffic when there are no pedestrians, 10th January :- [8660303](https://www.fixmystreet.com/report/8660303)
-- Pot Holes All Over Whittington Road, 10th January :- [8660178](https://www.fixmystreet.com/report/8660178)
-- 2 potholes on Hatherley Road, 10th January :- [8660004](https://www.fixmystreet.com/report/8660004)
-- Serious collection of potholes with sections of tarmac on pavement, 9th January :- [8659758](https://www.fixmystreet.com/report/8659758)
-- The general condition of this road is very poor and potentially dangerous., 9th January :- [8659728](https://www.fixmystreet.com/report/8659728)
-- Crass turning to sludge due to cars parking on grass causing my child to slip on the pathway to my garden gate, 9th January :- [8659717](https://www.fixmystreet.com/report/8659717)
-- Considerable size pothole, 9th January :- [8659638](https://www.fixmystreet.com/report/8659638)
 
 <!-- fix_marker ends -->

@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Friday, 09 January 2026
+## On Saturday, 10 January 2026
 
-- The average temperature today is 1.91˚C,
-- With highs of 3.3˚C and lows of 0.94˚C,
-- It may feel like 1.91˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 91%
-- The sun will rise at 08:13 and set at 16:17
+- The average temperature today is 1.58˚C,
+- With highs of 3.3˚C and lows of 0.39˚C,
+- It may feel like 1.58˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 93%
+- The sun will rise at 08:12 and set at 16:18
 
 <!-- weather_marker ends -->
 

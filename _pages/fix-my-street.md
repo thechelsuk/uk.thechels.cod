@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 potholes on Hatherley Road, 10th January :- [8660004](https://www.fixmystreet.com/report/8660004)
 - Serious collection of potholes with sections of tarmac on pavement, 9th January :- [8659758](https://www.fixmystreet.com/report/8659758)
 - The general condition of this road is very poor and potentially dangerous., 9th January :- [8659728](https://www.fixmystreet.com/report/8659728)
 - Crass turning to sludge due to cars parking on grass causing my child to slip on the pathway to my garden gate, 9th January :- [8659717](https://www.fixmystreet.com/report/8659717)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 9th January :- [8657773](https://www.fixmystreet.com/report/8657773)
 - TMC - Defects - Kerbs and Channels problem, 9th January :- [8657776](https://www.fixmystreet.com/report/8657776)
 - TMC - Defects - Other problem, 9th January :- [8657774](https://www.fixmystreet.com/report/8657774)
-- Pothole, 9th January :- [8657446](https://www.fixmystreet.com/report/8657446)
 
 <!-- fix_marker ends -->

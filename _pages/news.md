@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In pictures: 'Cold snap' and 'FA Cup heroes' ([1 hours ago](https://www.bbc.com/news/articles/cx2k5340yd5o?at_medium=RSS&at_campaign=rss))
-- TV drama being made about bereaved mum's fight ([1 hours ago](https://www.bbc.com/news/articles/ce3zze07qk7o?at_medium=RSS&at_campaign=rss))
-- Final plans submitted for Golden Valley project ([18 hours ago](https://www.bbc.com/news/articles/cpwnzyrqjljo?at_medium=RSS&at_campaign=rss))
-- New NHS dental surgery to open in city ([18 hours ago](https://www.bbc.com/news/articles/cx2x5p4g0zno?at_medium=RSS&at_campaign=rss))
+- In pictures: 'Cold snap' and 'FA Cup heroes' ([3 hours ago](https://www.bbc.com/news/articles/cx2k5340yd5o?at_medium=RSS&at_campaign=rss))
+- TV drama being made about bereaved mum's fight ([3 hours ago](https://www.bbc.com/news/articles/ce3zze07qk7o?at_medium=RSS&at_campaign=rss))
+- Final plans submitted for Golden Valley project ([20 hours ago](https://www.bbc.com/news/articles/cpwnzyrqjljo?at_medium=RSS&at_campaign=rss))
+- New NHS dental surgery to open in city ([20 hours ago](https://www.bbc.com/news/articles/cx2x5p4g0zno?at_medium=RSS&at_campaign=rss))
 - 'Palm tree planning row' and 'Wolf moon' ([1 days ago](https://www.bbc.com/news/articles/c24g7gygg6do?at_medium=RSS&at_campaign=rss))
 - Record number of callouts for air ambulance charity ([1 days ago](https://www.bbc.com/news/articles/cg4e5329rp3o?at_medium=RSS&at_campaign=rss))
 - New fleet of bin lorries to be fuelled by cooking oil ([1 days ago](https://www.bbc.com/news/articles/c62nz607vyeo?at_medium=RSS&at_campaign=rss))

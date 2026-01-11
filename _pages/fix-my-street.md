@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous broken up road, 11th January :- [8665135](https://www.fixmystreet.com/report/8665135)
+- Temporary traffic lights with no permit, 11th January :- [8665073](https://www.fixmystreet.com/report/8665073)
+- Tumble dryer dumped, 11th January :- [8665022](https://www.fixmystreet.com/report/8665022)
+- Pot hole towards edge of road, regularly full of water, 11th January :- [8664839](https://www.fixmystreet.com/report/8664839)
+- Traffic light broken, 11th January :- [8664809](https://www.fixmystreet.com/report/8664809)
+- Large pot hole, 11th January :- [8664740](https://www.fixmystreet.com/report/8664740)
 - Large hole, North Road West, left hand edging heading towards Badgeworth Road, just before Elm Farm entrance on other side of road., 11th January :- [8664541](https://www.fixmystreet.com/report/8664541)
 - A couple of pot holes together getting bigger daily, 11th January :- [8664391](https://www.fixmystreet.com/report/8664391)
 - Pothole getting bigger by the day, 11th January :- [8664384](https://www.fixmystreet.com/report/8664384)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Massive pot hole outside Robinia close, 10th January :- [8662747](https://www.fixmystreet.com/report/8662747)
 - Dead tree in ready to fall, 10th January :- [8662731](https://www.fixmystreet.com/report/8662731)
 - Pedestrian crossing light faulty, 10th January :- [8662674](https://www.fixmystreet.com/report/8662674)
-- Horsbere Brook bank collapsing, 10th January :- [8662586](https://www.fixmystreet.com/report/8662586)
-- Multiple potholes along Marsland Road, 10th January :- [8662474](https://www.fixmystreet.com/report/8662474)
-- Burst Water Main, 10th January :- [8662388](https://www.fixmystreet.com/report/8662388)
-- Road has sunk and has been potholes it’s becoming dangerous due to heavy traffic use, 10th January :- [8662371](https://www.fixmystreet.com/report/8662371)
-- Volunteer litter pick bags ready for collection, 10th January :- [8662312](https://www.fixmystreet.com/report/8662312)
-- Deep long pothole, 10th January :- [8662190](https://www.fixmystreet.com/report/8662190)
 
 <!-- fix_marker ends -->

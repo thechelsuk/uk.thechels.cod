@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pot hole on turning, 11th January :- [8668645](https://www.fixmystreet.com/report/8668645)
+- Road is breaking up, 11th January :- [8668631](https://www.fixmystreet.com/report/8668631)
+- Pot hole near bushes under left tyre, 11th January :- [8668619](https://www.fixmystreet.com/report/8668619)
+- 2 x potholes in road on the junction, 11th January :- [8668517](https://www.fixmystreet.com/report/8668517)
+- Pothole, 1 of many nearby, 11th January :- [8668485](https://www.fixmystreet.com/report/8668485)
 - 60cm wide pothole, 11th January :- [8668454](https://www.fixmystreet.com/report/8668454)
 - 60cm wide pothole, 11th January :- [8668422](https://www.fixmystreet.com/report/8668422)
 - Large pot hole by shicane, 11th January :- [8668419](https://www.fixmystreet.com/report/8668419)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Kerb wedges, 11th January :- [8667553](https://www.fixmystreet.com/report/8667553)
 - Various holes in the road, need repair as trip hazard and causing damage to vehicles, 11th January :- [8667437](https://www.fixmystreet.com/report/8667437)
 - Large deep pothole, 11th January :- [8667337](https://www.fixmystreet.com/report/8667337)
-- Uneven moving slab, 11th January :- [8667228](https://www.fixmystreet.com/report/8667228)
-- Large amount of flytipped building/garden waste, 11th January :- [8667164](https://www.fixmystreet.com/report/8667164)
-- Fly tipping on bank of Horsbere Brook by Paygrove Lane Play Area, 11th January :- [8667161](https://www.fixmystreet.com/report/8667161)
-- 3 large potholes, 11th January :- [8667082](https://www.fixmystreet.com/report/8667082)
-- 2 potholes appeared after a burst water pipe. Severn Trent fixed the pipe under the pavement but not the road., 11th January :- [8667071](https://www.fixmystreet.com/report/8667071)
 
 <!-- fix_marker ends -->

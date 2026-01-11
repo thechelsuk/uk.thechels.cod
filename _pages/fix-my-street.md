@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large long pothole, 11th January :- [8664244](https://www.fixmystreet.com/report/8664244)
 - Abandoned road repairs from Redmarley Road block paving repairs 2 months ago, 10th January :- [8663854](https://www.fixmystreet.com/report/8663854)
 - Blocked Drain, 10th January :- [8663654](https://www.fixmystreet.com/report/8663654)
 - Drainage blocked by house causing dangerous driving, 10th January :- [8663580](https://www.fixmystreet.com/report/8663580)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 10th January :- [8662202](https://www.fixmystreet.com/report/8662202)
 - Pedestrian crossing phase glitches, 10th January :- [8662012](https://www.fixmystreet.com/report/8662012)
 - Large pothole, 10th January :- [8661675](https://www.fixmystreet.com/report/8661675)
-- Flytipped items, 10th January :- [8661632](https://www.fixmystreet.com/report/8661632)
 
 <!-- fix_marker ends -->

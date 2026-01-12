@@ -9,7 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlight is out, 12th January :- [8675364](https://www.fixmystreet.com/report/8675364)
+- Poplar tree with crack at the base, 12th January :- [8675137](https://www.fixmystreet.com/report/8675137)
+- Streetlight out, 12th January :- [8674967](https://www.fixmystreet.com/report/8674967)
+- Dog waste not picked up, 12th January :- [8674903](https://www.fixmystreet.com/report/8674903)
 - The drain is blocked problem, 12th January :- [8674687](https://www.fixmystreet.com/report/8674687)
+- Large, deep pothole, which cannot be avoided because of the traffic island, 12th January :- [8674308](https://www.fixmystreet.com/report/8674308)
 - Road markings severely faded, 12th January :- [8674043](https://www.fixmystreet.com/report/8674043)
 - Roadworks causing 45 minute delays and lights are not detecting cars, 12th January :- [8673939](https://www.fixmystreet.com/report/8673939)
 - Large crater/danergous road, 12th January :- [8673909](https://www.fixmystreet.com/report/8673909)
@@ -23,11 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Signs & Street Furniture problem, 12th January :- [8673800](https://www.fixmystreet.com/report/8673800)
 - TMC - Defects -CW6 Potholes  problem, 12th January :- [8673791](https://www.fixmystreet.com/report/8673791)
 - Drain blocked since first reported Nov 2023, 12th January :- [8673388](https://www.fixmystreet.com/report/8673388)
-- TMC - Defects -CW6 Potholes  problem, 12th January :- [8673482](https://www.fixmystreet.com/report/8673482)
 - TMC - Defects -CW6 Potholes  problem, 12th January :- [8673483](https://www.fixmystreet.com/report/8673483)
-- TMC - Defects -CW6 Potholes  problem, 12th January :- [8673481](https://www.fixmystreet.com/report/8673481)
-- TMC - Defects -CW6 Potholes  problem, 12th January :- [8673479](https://www.fixmystreet.com/report/8673479)
-- TMC - Defects -CW6 Potholes  problem, 12th January :- [8673480](https://www.fixmystreet.com/report/8673480)
-- Series of dangerous pot holes on this road, 12th January :- [8673316](https://www.fixmystreet.com/report/8673316)
 
 <!-- fix_marker ends -->

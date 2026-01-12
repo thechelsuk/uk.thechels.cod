@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Thousands of fish introduced to West waterways ([8 hours ago](https://www.bbc.com/news/articles/c0507gm7yy4o?at_medium=RSS&at_campaign=rss))
-- Appeal after person struck with bicycle chain ([11 hours ago](https://www.bbc.com/news/articles/cp87k8zygero?at_medium=RSS&at_campaign=rss))
-- In pictures: 'Cold snap' and 'FA Cup heroes' ([17 hours ago](https://www.bbc.com/news/articles/cx2k5340yd5o?at_medium=RSS&at_campaign=rss))
-- TV drama being made about bereaved mum's fight ([18 hours ago](https://www.bbc.com/news/articles/ce3zze07qk7o?at_medium=RSS&at_campaign=rss))
+- Thousands of fish introduced to West waterways ([10 hours ago](https://www.bbc.com/news/articles/c0507gm7yy4o?at_medium=RSS&at_campaign=rss))
+- Appeal after person struck with bicycle chain ([13 hours ago](https://www.bbc.com/news/articles/cp87k8zygero?at_medium=RSS&at_campaign=rss))
+- In pictures: 'Cold snap' and 'FA Cup heroes' ([19 hours ago](https://www.bbc.com/news/articles/cx2k5340yd5o?at_medium=RSS&at_campaign=rss))
+- TV drama being made about bereaved mum's fight ([20 hours ago](https://www.bbc.com/news/articles/ce3zze07qk7o?at_medium=RSS&at_campaign=rss))
 - Final plans submitted for Golden Valley project ([1 days ago](https://www.bbc.com/news/articles/cpwnzyrqjljo?at_medium=RSS&at_campaign=rss))
 - New NHS dental surgery to open in city ([1 days ago](https://www.bbc.com/news/articles/cx2x5p4g0zno?at_medium=RSS&at_campaign=rss))
 - 'Palm tree planning row' and 'Wolf moon' ([1 days ago](https://www.bbc.com/news/articles/c24g7gygg6do?at_medium=RSS&at_campaign=rss))

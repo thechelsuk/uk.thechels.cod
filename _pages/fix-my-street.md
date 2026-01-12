@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 12th January :- [8676496](https://www.fixmystreet.com/report/8676496)
+- Dog dirt, 12th January :- [8676425](https://www.fixmystreet.com/report/8676425)
 - Poorly repair pot hole, 12th January :- [8676132](https://www.fixmystreet.com/report/8676132)
 - Deep pot hole, 12th January :- [8676050](https://www.fixmystreet.com/report/8676050)
 - Road regularly floods, 12th January :- [8676001](https://www.fixmystreet.com/report/8676001)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th January :- [8674092](https://www.fixmystreet.com/report/8674092)
 - Large craters in road, 12th January :- [8673878](https://www.fixmystreet.com/report/8673878)
 - Craters in the road, 12th January :- [8673865](https://www.fixmystreet.com/report/8673865)
-- Fly tipping - children’s basket ball hoop, food bin, plastic basket and a lot of litter in bushes, 12th January :- [8673714](https://www.fixmystreet.com/report/8673714)
-- TMC - Defects -CW6 Potholes  problem, 12th January :- [8673792](https://www.fixmystreet.com/report/8673792)
 
 <!-- fix_marker ends -->

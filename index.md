@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 12 January 2026
 
-- The average temperature today is 9.91˚C,
-- With highs of 10.53˚C and lows of 8.8˚C,
-- It may feel like 7.69˚C with overcast clouds
-- The wind speed is 4.47m/s and visibility is 10000m
-- The pressure is 1000hPa and humidity is 86%
+- The average temperature today is 9.77˚C,
+- With highs of 9.98˚C and lows of 8.8˚C,
+- It may feel like 8.16˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 85%
 - The sun will rise at 08:11 and set at 16:21
 
 <!-- weather_marker ends -->

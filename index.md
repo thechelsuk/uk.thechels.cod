@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 13 January 2026
 
-- The average temperature today is 8.69˚C,
-- With highs of 9.43˚C and lows of 8.15˚C,
-- It may feel like 7.86˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1003hPa and humidity is 90%
+- The average temperature today is 8.56˚C,
+- With highs of 8.87˚C and lows of 8.15˚C,
+- It may feel like 7.31˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 9338m
+- The pressure is 1003hPa and humidity is 91%
 - The sun will rise at 08:10 and set at 16:22
 
 <!-- weather_marker ends -->

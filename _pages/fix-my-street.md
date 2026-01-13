@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 13th January :- [8683027](https://www.fixmystreet.com/report/8683027)
+- Deep pothole and manhole cover, 13th January :- [8682903](https://www.fixmystreet.com/report/8682903)
+- Poor road surface, 13th January :- [8682585](https://www.fixmystreet.com/report/8682585)
 - The entire street beyond terrible state of the road, 13th January :- [8682158](https://www.fixmystreet.com/report/8682158)
 - Fly tipping , house hold waste strewn in guttering (blind), 13th January :- [8682016](https://www.fixmystreet.com/report/8682016)
 - Flytipping just before entrance to fields, 13th January :- [8681996](https://www.fixmystreet.com/report/8681996)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 13th January :- [8681431](https://www.fixmystreet.com/report/8681431)
 - Traffic is crazy. Awful TM, 13th January :- [8681165](https://www.fixmystreet.com/report/8681165)
 - A pothole in road problem, 13th January :- [8681209](https://www.fixmystreet.com/report/8681209)
-- A pothole in road problem, 13th January :- [8681208](https://www.fixmystreet.com/report/8681208)
-- Huge pot hole in the road, cause me to have a puncture this morning, 13th January :- [8681072](https://www.fixmystreet.com/report/8681072)
-- TMC - Defects - Other FW6  Surface problem, 13th January :- [8681218](https://www.fixmystreet.com/report/8681218)
 
 <!-- fix_marker ends -->

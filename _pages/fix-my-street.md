@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 14th January :- [8683841](https://www.fixmystreet.com/report/8683841)
+- TMC - Defects -CW6 Potholes  problem, 14th January :- [8683840](https://www.fixmystreet.com/report/8683840)
 - Ditch right across road, 13th January :- [8683554](https://www.fixmystreet.com/report/8683554)
 - Multiple large pot holes, 13th January :- [8683330](https://www.fixmystreet.com/report/8683330)
 - Many potholes - photos attached., 13th January :- [8683320](https://www.fixmystreet.com/report/8683320)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Sink hole starting!!!, 13th January :- [8681592](https://www.fixmystreet.com/report/8681592)
 - Pothole (drain) after island, 13th January :- [8681538](https://www.fixmystreet.com/report/8681538)
 - Multiple potholes on Woodlands Road, 13th January :- [8681459](https://www.fixmystreet.com/report/8681459)
-- Multiple potholes in disintegrating tarmac surface. Danger to cyclists. Whole area needs repaving as existing patching not working., 13th January :- [8681411](https://www.fixmystreet.com/report/8681411)
-- Large collection of deep potholes, 13th January :- [8681388](https://www.fixmystreet.com/report/8681388)
 
 <!-- fix_marker ends -->

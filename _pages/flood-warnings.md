@@ -36,13 +36,6 @@ This message will be updated by 12:00 pm, midday, on the 15 January 2026 or as t
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high today. Flooding may continue on 14 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe 3.8m to 3.9m on 14/01 PM, Haw Bridge 4.7m to 4.9m on 14/01 PM, Sandhurst 3.0m to 3.2m on 14/01 PM. We are closely monitoring the situation. Further rainfall is forecast for Thursday 15/01. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 15 January 2026 or as the situation changes.
 
-- Warning no longer in force: River Leadon catchment
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
-
-
 - Flood alert: River Avon in Worcestershire
 - High river levels today may lead to flooding. Flooding is possible on 14 January 2026 . Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Bredon 2.3m to 2.4m on 14/01 AM. Flooding is not expected at other gauge locations. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 15 January 2026 or as the situation changes.
 

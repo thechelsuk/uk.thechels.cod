@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 15 January 2026
 
-- The average temperature today is 8.14˚C,
-- With highs of 8.88˚C and lows of 7.6˚C,
-- It may feel like 6.82˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 89%
+- The average temperature today is 7.45˚C,
+- With highs of 7.76˚C and lows of 6.83˚C,
+- It may feel like 6.42˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1001hPa and humidity is 92%
 - The sun will rise at 08:09 and set at 16:25
 
 <!-- weather_marker ends -->

@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tippeds settee, 15th January :- [8692513](https://www.fixmystreet.com/report/8692513)
+- A pothole in road problem, 15th January :- [8692595](https://www.fixmystreet.com/report/8692595)
+- A pothole in road problem, 15th January :- [8692594](https://www.fixmystreet.com/report/8692594)
+- TMC - Defects -CW10 Potholes problem, 15th January :- [8692320](https://www.fixmystreet.com/report/8692320)
+- 3 x slabs broken and raise, 15th January :- [8692194](https://www.fixmystreet.com/report/8692194)
+- A pothole in road problem, 15th January :- [8692314](https://www.fixmystreet.com/report/8692314)
+- TMC - Defects -other CW10 problem, 15th January :- [8692333](https://www.fixmystreet.com/report/8692333)
+- Road Surface Under the Bridge Failing - Lots of Pot Holes, 15th January :- [8692033](https://www.fixmystreet.com/report/8692033)
+- The pot holes in Hearne Road GL53 8RE are getting dangerous but need to be patched quickly due to extra traffic., 15th January :- [8691982](https://www.fixmystreet.com/report/8691982)
+- Various graffiti tags, 15th January :- [8691796](https://www.fixmystreet.com/report/8691796)
+- TMC - Defects - Footways Slabs problem, 15th January :- [8691769](https://www.fixmystreet.com/report/8691769)
+- TMC - Defects -CW10 Potholes problem, 15th January :- [8691765](https://www.fixmystreet.com/report/8691765)
 - The street light has been out of action for 1 week now., 15th January :- [8691399](https://www.fixmystreet.com/report/8691399)
 - Large deep pot hole, 15th January :- [8691388](https://www.fixmystreet.com/report/8691388)
 - Un even road, 15th January :- [8691311](https://www.fixmystreet.com/report/8691311)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 15th January :- [8691292](https://www.fixmystreet.com/report/8691292)
 - TMC - Defects - Covers, Gratings & Frames problem, 15th January :- [8691293](https://www.fixmystreet.com/report/8691293)
 - You recently fixed a sink hole and had to stop traffic for days. It’s outside number 17., 14th January :- [8690372](https://www.fixmystreet.com/report/8690372)
-- Fly tipping along The Runnings, 14th January :- [8689999](https://www.fixmystreet.com/report/8689999)
-- Pothole cluster, 14th January :- [8689921](https://www.fixmystreet.com/report/8689921)
-- Gl54 4hq, 14th January :- [8689855](https://www.fixmystreet.com/report/8689855)
-- Roughly 12inches diameter and depth of 20 plus cms deep, 14th January :- [8689643](https://www.fixmystreet.com/report/8689643)
-- A number of potholes along frog furlong lane my car was pushed over the road by a speeding car today casing me to hit one of the potholes damaging both left hand tyres on my car, 14th January :- [8689588](https://www.fixmystreet.com/report/8689588)
-- Pothole, 14th January :- [8689296](https://www.fixmystreet.com/report/8689296)
-- Uneven paving slabs, 14th January :- [8689124](https://www.fixmystreet.com/report/8689124)
-- At junction, 14th January :- [8689014](https://www.fixmystreet.com/report/8689014)
-- Large pothole, 14th January :- [8688799](https://www.fixmystreet.com/report/8688799)
-- Annoying plastic road barriers left since Oct 2025 - please remove, 14th January :- [8688582](https://www.fixmystreet.com/report/8688582)
-- See attached photograph of recurring pothole area: roughly 30cm X70cm X 7cmm, 14th January :- [8688456](https://www.fixmystreet.com/report/8688456)
-- There is a big pothole that has been patched multiple times but keeps recurring. Water also accumulates here whenever it rains, 14th January :- [8688375](https://www.fixmystreet.com/report/8688375)
 
 <!-- fix_marker ends -->

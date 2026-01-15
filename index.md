@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Wednesday, 14 January 2026
+## On Thursday, 15 January 2026
 
-- The average temperature today is 7.32˚C,
-- With highs of 7.75˚C and lows of 6.27˚C,
-- It may feel like 5.51˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 94%
-- The sun will rise at 08:09 and set at 16:24
+- The average temperature today is 7.55˚C,
+- With highs of 7.76˚C and lows of 6.27˚C,
+- It may feel like 4.98˚C with overcast clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1003hPa and humidity is 89%
+- The sun will rise at 08:09 and set at 16:25
 
 <!-- weather_marker ends -->
 

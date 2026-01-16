@@ -20,14 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. 
-Flooding is possible on 15 January 2026 . 
-River levels are rising due to Thursday’s rain and are expected to peak over night.
-Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge
-Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water .  Avoid using low lying footpaths and any bridges near local watercourses. 
-This message will be updated by 12:00AM on 16 January 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 16 January 2026 . River levels are stable or falling. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is forecast for over night Friday into Saturday which may cause river levels to rise again.  We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 17 January 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - River levels are high, on parts of the River Churn. Therefore flooding of low lying land and roads remains possible today, especially near Cerney Wick. Isolated showers, which may be heavy in places, are expected today (16/01/26), with more rain possible overnight. We expect river levels to remain high over the coming days.

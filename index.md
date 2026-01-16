@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 16 January 2026
 
-- The average temperature today is 7.64˚C,
-- With highs of 8.31˚C and lows of 6.75˚C,
-- It may feel like 5.32˚C with few clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 88%
+- The average temperature today is 7.18˚C,
+- With highs of 7.75˚C and lows of 6.96˚C,
+- It may feel like 4.76˚C with scattered clouds
+- The wind speed is 3.6m/s and visibility is 8000m
+- The pressure is 1007hPa and humidity is 91%
 - The sun will rise at 08:08 and set at 16:27
 
 <!-- weather_marker ends -->

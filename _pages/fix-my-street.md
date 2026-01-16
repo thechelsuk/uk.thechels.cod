@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple large pothole damage over on a junction, 16th January :- [8706029](https://www.fixmystreet.com/report/8706029)
+- Multiple pot holes along this stretch of road. Previous repairs have undone and the road surface is very uneven. This is has been made worse by temporary traffic lights and works that has taken place in the last week. The problem is worse on the left hand lane of the road next to the grass / houses., 16th January :- [8705884](https://www.fixmystreet.com/report/8705884)
+- Multiple Pot Holes, 16th January :- [8705876](https://www.fixmystreet.com/report/8705876)
 - No Priority Ever Given to Green Arrow, 16th January :- [8705573](https://www.fixmystreet.com/report/8705573)
 - Fly tipping, 16th January :- [8705421](https://www.fixmystreet.com/report/8705421)
 - Fly tipping, 16th January :- [8705408](https://www.fixmystreet.com/report/8705408)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole in Dog Lane, 16th January :- [8703949](https://www.fixmystreet.com/report/8703949)
 - Pot hole in road adjacent to sign to The Uplands, 16th January :- [8703911](https://www.fixmystreet.com/report/8703911)
 - Tagging, 16th January :- [8703791](https://www.fixmystreet.com/report/8703791)
-- A pothole in road problem, 16th January :- [8703839](https://www.fixmystreet.com/report/8703839)
-- A pothole in road problem, 16th January :- [8703838](https://www.fixmystreet.com/report/8703838)
-- A pothole in road problem, 16th January :- [8703837](https://www.fixmystreet.com/report/8703837)
 
 <!-- fix_marker ends -->

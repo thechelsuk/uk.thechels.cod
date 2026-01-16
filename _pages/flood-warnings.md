@@ -71,6 +71,14 @@ This message will be updated by 12:00 pm on 17 January 2026 or as the situation 
 - Flood alert: River Avon in Worcestershire
 - River levels remain high and flooding is possible today 16 January 2026 . Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 17 January 2026 or as the situation changes.
 
+- Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 16 January 2026 . 
+Flooding of low lying land and roads is possible, especially in areas close to the river near Rushey Lock. River levels are high due to persistent heavy rain yesterday. Further isolated showers are expected today, Friday, and further rain is likely overnight. We expect river levels to rise slowly as water moves through the catchment, and to remain high over the weekend. 
+We are monitoring rainfall and river levels . 
+Avoid using low lying footpaths and any bridges near local watercourses . Go to River levels online for updates on current river levels. 
+This message will be updated by 12:00PM on 17 January 2026 or as the situation changes.
+
 - Flood alert: River Severn in Worcestershire
 - River levels remain high and flooding may continue today 16 January 2026. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 17 January 2026 or as the situation changes
 

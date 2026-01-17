@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of pot holes in 5meter radius, 17th January :- [8707383](https://www.fixmystreet.com/report/8707383)
+- 300mm x 50mm pothope, 17th January :- [8707361](https://www.fixmystreet.com/report/8707361)
+- Every time there is any rain , the road becomes blocked by surface water which has not drained away, 17th January :- [8707359](https://www.fixmystreet.com/report/8707359)
+- This pothole is getting bigger each day and needs to be addressed, 17th January :- [8707330](https://www.fixmystreet.com/report/8707330)
+- Dangerous rotting tree over footbridge and footpath which appears to be slowly sinking further towards the bridge, 17th January :- [8707299](https://www.fixmystreet.com/report/8707299)
+- Numerous items of offensive graffiti on bus in play area, 17th January :- [8707285](https://www.fixmystreet.com/report/8707285)
+- 25cm pothole slightly away from kerb, and directly in primary tyre track given narrowness of road. Heavy rainfall and minimal street lighting makes hole impossible to see in the dark. Given traffic volume on road at peak times, the narrowness (i.e. the insufficient lateral space to avoid hole with oncoming traffic), 17th January :- [8707212](https://www.fixmystreet.com/report/8707212)
+- Pothole in road, 17th January :- [8707179](https://www.fixmystreet.com/report/8707179)
+- Potholes and debris in road, 17th January :- [8707154](https://www.fixmystreet.com/report/8707154)
 - Repeated flooding at this location. Drain appears not to work, 17th January :- [8706690](https://www.fixmystreet.com/report/8706690)
 - Water flowing out of drain, 17th January :- [8706399](https://www.fixmystreet.com/report/8706399)
 - Missing metal cover on drainage deep and wide without any indication of the issue on road, 17th January :- [8706346](https://www.fixmystreet.com/report/8706346)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 16th January :- [8705408](https://www.fixmystreet.com/report/8705408)
 - Around drainage cover, 16th January :- [8705301](https://www.fixmystreet.com/report/8705301)
 - Large pothole on bend towards edge of road, 16th January :- [8705138](https://www.fixmystreet.com/report/8705138)
-- Large deep pothole, 16th January :- [8704750](https://www.fixmystreet.com/report/8704750)
-- Cluster of deep and wide potholes, 16th January :- [8704600](https://www.fixmystreet.com/report/8704600)
-- Sunken drainage grid at passing place on Dog Lane, 16th January :- [8704258](https://www.fixmystreet.com/report/8704258)
-- Blocked drain with flow of water breaking up previous repair to road, 16th January :- [8704168](https://www.fixmystreet.com/report/8704168)
-- Pedestrian crossing light STILL FAULTY!, 16th January :- [8704156](https://www.fixmystreet.com/report/8704156)
-- Pothole alongside Willowbank on Dog Lane, 16th January :- [8704085](https://www.fixmystreet.com/report/8704085)
-- A pothole in road problem, 16th January :- [8704162](https://www.fixmystreet.com/report/8704162)
-- Pothole on Dog Lane between The Kneelings and The Uplands fields, 16th January :- [8704013](https://www.fixmystreet.com/report/8704013)
-- Fly Tip in Mill Lane (Ham Road end), 16th January :- [8703985](https://www.fixmystreet.com/report/8703985)
 
 <!-- fix_marker ends -->

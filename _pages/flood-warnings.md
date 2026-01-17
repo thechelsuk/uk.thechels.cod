@@ -86,14 +86,11 @@ We will continue to monitor the situation and will issue further alerts or warni
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
 
 
-- Flood warning: River Severn at Severn Ham, Tewkesbury
-- River levels remain high and flooding is expected today 16 January 2026 . Flooding may affect Gabb Lane at Apperley and local caravan parks. Further rain is forecast today 16 January 2026. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 17 January 2026 or as the situation changes.
-
-- Warning no longer in force: River Severn at Apperley and The Leigh
+- Warning no longer in force: River Severn at Severn Ham, Tewkesbury
 - The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Further rainfall is forecast but no further flooding is expected.   
+Weather conditions are expected to improve and no further flooding is expected.   
 We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  
 
 
 

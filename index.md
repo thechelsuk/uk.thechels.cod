@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 17 January 2026
 
-- The average temperature today is 6.06˚C,
-- With highs of 7.2˚C and lows of 4.82˚C,
-- It may feel like 5.37˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 95%
+- The average temperature today is 6.03˚C,
+- With highs of 7.19˚C and lows of 4.83˚C,
+- It may feel like 6.03˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 95%
 - The sun will rise at 08:07 and set at 16:29
 
 <!-- weather_marker ends -->

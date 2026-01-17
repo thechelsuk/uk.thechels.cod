@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Missing metal cover on drainage deep and wide without any indication of the issue on road, 17th January :- [8706346](https://www.fixmystreet.com/report/8706346)
 - Multiple large pothole damage over on a junction, 16th January :- [8706029](https://www.fixmystreet.com/report/8706029)
 - Multiple pot holes along this stretch of road. Previous repairs have undone and the road surface is very uneven. This is has been made worse by temporary traffic lights and works that has taken place in the last week. The problem is worse on the left hand lane of the road next to the grass / houses., 16th January :- [8705884](https://www.fixmystreet.com/report/8705884)
 - Multiple Pot Holes, 16th January :- [8705876](https://www.fixmystreet.com/report/8705876)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly Tip in Mill Lane (Ham Road end), 16th January :- [8703985](https://www.fixmystreet.com/report/8703985)
 - Pothole in Dog Lane, 16th January :- [8703949](https://www.fixmystreet.com/report/8703949)
 - Pot hole in road adjacent to sign to The Uplands, 16th January :- [8703911](https://www.fixmystreet.com/report/8703911)
-- Tagging, 16th January :- [8703791](https://www.fixmystreet.com/report/8703791)
 
 <!-- fix_marker ends -->

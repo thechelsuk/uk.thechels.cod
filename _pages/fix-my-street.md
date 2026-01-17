@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 17th January :- [8710850](https://www.fixmystreet.com/report/8710850)
+- Damaged cones littering the verges, 17th January :- [8710729](https://www.fixmystreet.com/report/8710729)
+- Huge potholes by the bridge badgeworth lane and the Redding’s., 17th January :- [8710722](https://www.fixmystreet.com/report/8710722)
+- Deep pothole on the approach to Whaley Farm, shredded my Marie’s from tyre, 17th January :- [8710564](https://www.fixmystreet.com/report/8710564)
+- Black bollard knocked over, 17th January :- [8710501](https://www.fixmystreet.com/report/8710501)
 - Potholes along the stretch of road, 17th January :- [8710391](https://www.fixmystreet.com/report/8710391)
 - Pothole on Yarnolds deepened in last week, 17th January :- [8710105](https://www.fixmystreet.com/report/8710105)
 - Trip hazard telephone manhole cover on pavement., 17th January :- [8709630](https://www.fixmystreet.com/report/8709630)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Pothole directly after speed bump travelling towards PE Way, 17th January :- [8709081](https://www.fixmystreet.com/report/8709081)
 - Surface disintegrating, 17th January :- [8709035](https://www.fixmystreet.com/report/8709035)
 - Surface disintegrating, 17th January :- [8709025](https://www.fixmystreet.com/report/8709025)
-- Deep pothole, 17th January :- [8708850](https://www.fixmystreet.com/report/8708850)
-- Quite wide potholes, 17th January :- [8708847](https://www.fixmystreet.com/report/8708847)
-- Volunteer litter pick bags ready for collection, 17th January :- [8708846](https://www.fixmystreet.com/report/8708846)
-- Very large pot hole on churchdown lane, 17th January :- [8708811](https://www.fixmystreet.com/report/8708811)
-- Path totally blocked by overgrown vegetation, 17th January :- [8708777](https://www.fixmystreet.com/report/8708777)
 
 <!-- fix_marker ends -->

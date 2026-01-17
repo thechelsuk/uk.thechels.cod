@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Group assaults man and leaves him with broken jaw ([4 hours ago](https://www.bbc.com/news/articles/c3ed7p5v2npo?at_medium=RSS&at_campaign=rss))
-- Grieving mum suing TikTok says hearing was 'painful' ([9 hours ago](https://www.bbc.com/news/articles/c20gvp3pzpwo?at_medium=RSS&at_campaign=rss))
-- 'Drug-user turns life around' and 'school standoff' ([11 hours ago](https://www.bbc.com/news/articles/c62r75ygr1vo?at_medium=RSS&at_campaign=rss))
-- Everything you need to know about wassailing ([11 hours ago](https://www.bbc.com/news/articles/cm2yz9zyr0lo?at_medium=RSS&at_campaign=rss))
+- Group assaults man and leaves him with broken jaw ([6 hours ago](https://www.bbc.com/news/articles/c3ed7p5v2npo?at_medium=RSS&at_campaign=rss))
+- Grieving mum suing TikTok says hearing was 'painful' ([11 hours ago](https://www.bbc.com/news/articles/c20gvp3pzpwo?at_medium=RSS&at_campaign=rss))
+- 'Drug-user turns life around' and 'school standoff' ([13 hours ago](https://www.bbc.com/news/articles/c62r75ygr1vo?at_medium=RSS&at_campaign=rss))
+- Everything you need to know about wassailing ([13 hours ago](https://www.bbc.com/news/articles/cm2yz9zyr0lo?at_medium=RSS&at_campaign=rss))
 - Have your say on Cheltenham’s housing budget for 2026/27 ([1 days ago](https://www.cheltenham.gov.uk/news/article/3086/have_your_say_on_cheltenhams_housing_budget_for_202627))
 - Princess Anne opens new university campus ([1 days ago](https://www.bbc.com/news/articles/c62r7ern3k2o?at_medium=RSS&at_campaign=rss))
 - Long‑awaited review of sexual entertainment rules announced following Cheltenham campaign ([1 days ago](https://www.cheltenham.gov.uk/news/article/3087/long%E2%80%91awaited_review_of_sexual_entertainment_rules_announced_following_cheltenham_campaign))
@@ -58,6 +58,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham 2026 elections could be postponed due to local government reorganisation ([29 days ago](https://gloucesternewscentre.co.uk/cheltenham-2026-elections-could-be-postponed-due-to-local-government-reorganisation/))
 - Men jailed after they admitted to stealing nearly £20,000-worth of jewellery in Cheltenham ([29 days ago](https://gloucesternewscentre.co.uk/men-jailed-after-they-admitted-to-stealing-nearly-20000-worth-of-jewellery-in-cheltenham/))
 - Traffic disruption concerns over roadworks plan ([29 days ago](https://gloucesternewscentre.co.uk/traffic-disruption-concerns-over-roadworks-plan/))
-- Two teenage boys charged in connection with Cheltenham murder ([29 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
 
 <!-- news_marker ends -->

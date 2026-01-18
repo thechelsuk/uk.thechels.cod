@@ -9,6 +9,19 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Long pothole along kerb & broken collapsed kerb due to people parking on the verge. Note pothole at kerb in front of gate of 71 causes car to jump slip on reversing in gate. At some point a vehicle is likely to slip & take out a gate post & that’s a 4K cost., 18th January :- [8715560](https://www.fixmystreet.com/report/8715560)
+- Large pothole damaging cars, 18th January :- [8715553](https://www.fixmystreet.com/report/8715553)
+- Multiple potholes at jumction, 18th January :- [8715454](https://www.fixmystreet.com/report/8715454)
+- 2 deep potholes on narrow rd, 18th January :- [8715443](https://www.fixmystreet.com/report/8715443)
+- Several potholes in road growing in size with bad weather, 18th January :- [8715394](https://www.fixmystreet.com/report/8715394)
+- Pothole and breaking up surface, 18th January :- [8715387](https://www.fixmystreet.com/report/8715387)
+- Pothole adjacent to utility cover in middle of road, 18th January :- [8715382](https://www.fixmystreet.com/report/8715382)
+- Pot holes and, 18th January :- [8715376](https://www.fixmystreet.com/report/8715376)
+- Deep pothole in east bound carriageway, 18th January :- [8715249](https://www.fixmystreet.com/report/8715249)
+- Deep pothole on Goldsmith Road, 18th January :- [8715183](https://www.fixmystreet.com/report/8715183)
+- Extremely dangerous, 18th January :- [8715103](https://www.fixmystreet.com/report/8715103)
+- Post hole on dual carriageway which is a 70 mph stretch of road, 18th January :- [8714984](https://www.fixmystreet.com/report/8714984)
+- Dangerous pothole unavoidable when driving trough the village, 18th January :- [8714825](https://www.fixmystreet.com/report/8714825)
 - Several large potholes and road surface breaking ip, 18th January :- [8714786](https://www.fixmystreet.com/report/8714786)
 - Large potpoke, 18th January :- [8714768](https://www.fixmystreet.com/report/8714768)
 - Very deep large pothole, 18th January :- [8714755](https://www.fixmystreet.com/report/8714755)
@@ -16,18 +29,5 @@ permalink: /fix-my-street
 - Long deep pothole, 18th January :- [8714734](https://www.fixmystreet.com/report/8714734)
 - Why no bus numbers at bus stops, 18th January :- [8714693](https://www.fixmystreet.com/report/8714693)
 - Redundant bus stop, 18th January :- [8714664](https://www.fixmystreet.com/report/8714664)
-- Repeated fly tipping A38 lay-by Priors Norton, 18th January :- [8714557](https://www.fixmystreet.com/report/8714557)
-- Massive pothole in middle of road .repair from 1 month failed already .pothole is increasing in size everday, 18th January :- [8713836](https://www.fixmystreet.com/report/8713836)
-- Minibus parking and ruining the grass, 18th January :- [8713833](https://www.fixmystreet.com/report/8713833)
-- Flytipped washing machine off Market Street, 18th January :- [8713829](https://www.fixmystreet.com/report/8713829)
-- Large pothole on nearside of vicarge lane as if you were facing cheltenham direction, 18th January :- [8713811](https://www.fixmystreet.com/report/8713811)
-- Flytipped furniture & packaging between Festival Way & Honeybourne Line, 18th January :- [8713802](https://www.fixmystreet.com/report/8713802)
-- 7 potholes that were fixed in dec have all come back in exactly the same location.several deep and wide potholes .growing bigger everday .impossible to avoid, 18th January :- [8713799](https://www.fixmystreet.com/report/8713799)
-- Large pothole in centre of carriage way approaching traffic lights from Tesco, 18th January :- [8713713](https://www.fixmystreet.com/report/8713713)
-- Two potholes on Eastbound carriageway at 112 Charlton Lane entrance, 18th January :- [8713707](https://www.fixmystreet.com/report/8713707)
-- Eastbound side of Charlton Lane -114 entrance. Pothole., 18th January :- [8713688](https://www.fixmystreet.com/report/8713688)
-- Two 25 cm diam holes close together at entrance to No 14 Greenhills Road, 18th January :- [8713633](https://www.fixmystreet.com/report/8713633)
-- All along the length of Cold Pool lane the Verge is degraded due traffic, 18th January :- [8713626](https://www.fixmystreet.com/report/8713626)
-- Water streaming across A40- ice hazard, 18th January :- [8712923](https://www.fixmystreet.com/report/8712923)
 
 <!-- fix_marker ends -->

@@ -77,13 +77,6 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 18 January 2026 or as the situation changes.
 
-- Warning no longer in force: River Severn in Worcestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
-
-
 - Warning no longer in force: River Severn at Severn Ham, Tewkesbury
 - The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
 Weather conditions are expected to improve and no further flooding is expected.   

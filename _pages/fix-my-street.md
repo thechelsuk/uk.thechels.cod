@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This is a very poor repair of a pothole. If you study the picture there have been gouges made in the original surface to which the new tarmac should abut. It does not. No decent compaction or edging resulting in rapid deterioration of repair. Tarmac saving and poor effort. The same has happened with a similar repair up the road. Do you not carry out quality control?!, 18th January :- [8711588](https://www.fixmystreet.com/report/8711588)
+- Extensive tagging, 18th January :- [8711507](https://www.fixmystreet.com/report/8711507)
+- Previous repair around metal inspection cover is failing, 18th January :- [8711505](https://www.fixmystreet.com/report/8711505)
 - Potholes, 17th January :- [8710850](https://www.fixmystreet.com/report/8710850)
 - Damaged cones littering the verges, 17th January :- [8710729](https://www.fixmystreet.com/report/8710729)
 - Huge potholes by the bridge badgeworth lane and the Redding’s., 17th January :- [8710722](https://www.fixmystreet.com/report/8710722)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Continued parking on double yellow lines, 17th January :- [8709246](https://www.fixmystreet.com/report/8709246)
 - Damaged road surface, 17th January :- [8709227](https://www.fixmystreet.com/report/8709227)
 - Pothole in road, near kerb, 17th January :- [8709105](https://www.fixmystreet.com/report/8709105)
-- Pothole directly after speed bump travelling towards PE Way, 17th January :- [8709081](https://www.fixmystreet.com/report/8709081)
-- Surface disintegrating, 17th January :- [8709035](https://www.fixmystreet.com/report/8709035)
-- Surface disintegrating, 17th January :- [8709025](https://www.fixmystreet.com/report/8709025)
 
 <!-- fix_marker ends -->

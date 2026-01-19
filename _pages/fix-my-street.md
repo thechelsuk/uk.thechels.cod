@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fence panel broken and rubbish dumped, 19th January :- [8717312](https://www.fixmystreet.com/report/8717312)
+- Potholes in lane 2 on Lansdown Rd, 19th January :- [8717137](https://www.fixmystreet.com/report/8717137)
+- Series of potholes on Lansdown Rd, 19th January :- [8717107](https://www.fixmystreet.com/report/8717107)
+- TMC - Defects -CW6 Potholes  problem, 19th January :- [8717135](https://www.fixmystreet.com/report/8717135)
+- Pothole on jn of Roman Rd and Rowanfield Rd, 19th January :- [8717056](https://www.fixmystreet.com/report/8717056)
+- Large Pothole on Northbound Side near Star College, 19th January :- [8717041](https://www.fixmystreet.com/report/8717041)
+- TMC - Defects -CW6 Potholes  problem, 19th January :- [8717132](https://www.fixmystreet.com/report/8717132)
+- TMC - Defects -CW6 Potholes  problem, 19th January :- [8717130](https://www.fixmystreet.com/report/8717130)
+- TMC - Defects -CW6 Potholes  problem, 19th January :- [8717133](https://www.fixmystreet.com/report/8717133)
+- TMC - Defects -CW6 Potholes  problem, 19th January :- [8717131](https://www.fixmystreet.com/report/8717131)
 - 50cm x 30cm, full with water, 18th January :- [8716427](https://www.fixmystreet.com/report/8716427)
 - Approximately 7.5 inches deep outside 167 Ermin Street., 18th January :- [8716347](https://www.fixmystreet.com/report/8716347)
 - Multiple pot holes hear, 18th January :- [8716325](https://www.fixmystreet.com/report/8716325)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - The road drain is blocked but i've seen water coming out the drain so believe the main pipe for the ditch drain is blocked leading to all the water that should go into the river ending up blocking the road., 18th January :- [8715660](https://www.fixmystreet.com/report/8715660)
 - Pot hole, 18th January :- [8715657](https://www.fixmystreet.com/report/8715657)
 - Long pothole along kerb & broken collapsed kerb due to people parking on the verge. Note pothole at kerb in front of gate of 71 causes car to jump slip on reversing in gate. At some point a vehicle is likely to slip & take out a gate post & that’s a 4K cost., 18th January :- [8715560](https://www.fixmystreet.com/report/8715560)
-- Large pothole damaging cars, 18th January :- [8715553](https://www.fixmystreet.com/report/8715553)
-- Multiple potholes at jumction, 18th January :- [8715454](https://www.fixmystreet.com/report/8715454)
-- 2 deep potholes on narrow rd, 18th January :- [8715443](https://www.fixmystreet.com/report/8715443)
-- Several potholes in road growing in size with bad weather, 18th January :- [8715394](https://www.fixmystreet.com/report/8715394)
-- Pothole and breaking up surface, 18th January :- [8715387](https://www.fixmystreet.com/report/8715387)
-- Pothole adjacent to utility cover in middle of road, 18th January :- [8715382](https://www.fixmystreet.com/report/8715382)
-- Pot holes and, 18th January :- [8715376](https://www.fixmystreet.com/report/8715376)
-- Deep pothole in east bound carriageway, 18th January :- [8715249](https://www.fixmystreet.com/report/8715249)
-- Deep pothole on Goldsmith Road, 18th January :- [8715183](https://www.fixmystreet.com/report/8715183)
-- Extremely dangerous, 18th January :- [8715103](https://www.fixmystreet.com/report/8715103)
 
 <!-- fix_marker ends -->

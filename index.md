@@ -14,7 +14,7 @@ seo: Menu
 - With highs of 7.69˚C and lows of 5.93˚C,
 - It may feel like 6.35˚C with overcast clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 98%
+- The pressure is 1012hPa and humidity is 98%
 - The sun will rise at 08:05 and set at 16:32
 
 <!-- weather_marker ends -->

@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Dog rescued from cliff after exploring went wrong ([6 hours ago](https://www.bbc.com/news/articles/c8013l4m7jpo?at_medium=RSS&at_campaign=rss))
-- 'Shy' 11-year-old gets role in Oscar-tipped Hamnet ([13 hours ago](https://www.bbc.com/news/articles/cz9vkzy10plo?at_medium=RSS&at_campaign=rss))
-- 'You don't need to be in a relationship to make the most of life' ([17 hours ago](https://www.bbc.com/news/articles/cjrz77yyzgpo?at_medium=RSS&at_campaign=rss))
-- In pictures: 'Cold snap' and 'Concorde coin' ([18 hours ago](https://www.bbc.com/news/articles/cevn0p3lx4jo?at_medium=RSS&at_campaign=rss))
+- Dog rescued from cliff after exploring went wrong ([8 hours ago](https://www.bbc.com/news/articles/c8013l4m7jpo?at_medium=RSS&at_campaign=rss))
+- 'Shy' 11-year-old gets role in Oscar-tipped Hamnet ([15 hours ago](https://www.bbc.com/news/articles/cz9vkzy10plo?at_medium=RSS&at_campaign=rss))
+- 'You don't need to be in a relationship to make the most of life' ([20 hours ago](https://www.bbc.com/news/articles/cjrz77yyzgpo?at_medium=RSS&at_campaign=rss))
+- In pictures: 'Cold snap' and 'Concorde coin' ([20 hours ago](https://www.bbc.com/news/articles/cevn0p3lx4jo?at_medium=RSS&at_campaign=rss))
 - Group assaults man and leaves him with broken jaw ([1 days ago](https://www.bbc.com/news/articles/c3ed7p5v2npo?at_medium=RSS&at_campaign=rss))
 - Grieving mum suing TikTok says hearing was 'painful' ([1 days ago](https://www.bbc.com/news/articles/c20gvp3pzpwo?at_medium=RSS&at_campaign=rss))
 - 'Drug-user turns life around' and 'school standoff' ([1 days ago](https://www.bbc.com/news/articles/c62r75ygr1vo?at_medium=RSS&at_campaign=rss))

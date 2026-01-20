@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside house on kayte lane, 20th January :- [8731699](https://www.fixmystreet.com/report/8731699)
+- Abandoned Caravan, 20th January :- [8731673](https://www.fixmystreet.com/report/8731673)
+- Deep pothole between numbers 19 and 21 on the left as you drive up the road. Looks less deep as the gravel that’s come out of it has part refilled it., 20th January :- [8731569](https://www.fixmystreet.com/report/8731569)
+- Tree overgrown, roots lifting pavement causing damage and pedestrians having accidents, 20th January :- [8731544](https://www.fixmystreet.com/report/8731544)
+- Whole road surface is missing, 20th January :- [8731516](https://www.fixmystreet.com/report/8731516)
 - 2 new very deep pot holes appeared next to one that was repaired, 20th January :- [8731481](https://www.fixmystreet.com/report/8731481)
 - Large pothole on first stretch of Westbury road. Been there ages, 20th January :- [8731351](https://www.fixmystreet.com/report/8731351)
 - Large pot hole causing cars to swerve out, 20th January :- [8731349](https://www.fixmystreet.com/report/8731349)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - This pothole in the middle of the road had got much worse.., 20th January :- [8730731](https://www.fixmystreet.com/report/8730731)
 - A pothole in road problem, 20th January :- [8730619](https://www.fixmystreet.com/report/8730619)
 - Pothole near historic repair, 20th January :- [8730489](https://www.fixmystreet.com/report/8730489)
-- Multiple potholes in failed road repair, 20th January :- [8730487](https://www.fixmystreet.com/report/8730487)
-- From side to side, 20th January :- [8730389](https://www.fixmystreet.com/report/8730389)
-- Pothole near the junction of Acomb Crescent from Glenfall Way, 20th January :- [8730358](https://www.fixmystreet.com/report/8730358)
-- Long pothole, 20th January :- [8730107](https://www.fixmystreet.com/report/8730107)
-- Street lamp opposite watermead field has been off for over a month now, 20th January :- [8730085](https://www.fixmystreet.com/report/8730085)
 
 <!-- fix_marker ends -->

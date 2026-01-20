@@ -57,13 +57,6 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 20 January 2026 or as the situation changes.
 
-- Warning no longer in force: Middle Avon Rugby to Bidford
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high but are falling slowly today 20 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 21 January 2026 or as the situation changes.
 

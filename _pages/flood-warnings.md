@@ -65,10 +65,10 @@ If you have been evacuated only return to your property once the emergency servi
 
 
 - Flood alert: River Severn in Gloucestershire
-- River levels remain high but are falling slowly today 19 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 20 January 2026 or as the situation changes.
+- River levels remain high but are falling slowly today 20 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 21 January 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- River levels are rising and flooding will continue today 19 January 2026. Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 20 January 2026 or as the situation changes.
+- River levels are rising and flooding will continue today 20 January 2026. Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 21 January 2026 or as the situation changes.
 
 - Warning no longer in force: River Avon in Worcestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 20 January 2026
 
-- The average temperature today is 8.11˚C,
-- With highs of 8.62˚C and lows of 6.83˚C,
-- It may feel like 6.45˚C with broken clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 91%
+- The average temperature today is 7.66˚C,
+- With highs of 8.07˚C and lows of 6.83˚C,
+- It may feel like 5.12˚C with overcast clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 89%
 - The sun will rise at 08:04 and set at 16:34
 
 <!-- weather_marker ends -->

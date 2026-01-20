@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Extra funding secured for motorway improvements ([3 hours ago](https://www.bbc.com/news/articles/clymzk8xypyo?at_medium=RSS&at_campaign=rss))
-- Council considers ANPR cameras to 'improve safety' ([7 hours ago](https://www.bbc.com/news/articles/ce3kxp1gzrpo?at_medium=RSS&at_campaign=rss))
-- Carer who gave wrong drugs to man who died sentenced ([10 hours ago](https://www.bbc.com/news/articles/cg4e3e13l56o?at_medium=RSS&at_campaign=rss))
-- More than 50 blue badges confiscated from drivers ([12 hours ago](https://www.bbc.com/news/articles/cd0y4ynln9jo?at_medium=RSS&at_campaign=rss))
-- Escalating row over election delay request ([18 hours ago](https://www.bbc.com/news/articles/cdx401gd4llo?at_medium=RSS&at_campaign=rss))
-- Call for AI rules after fake video of mayor made ([19 hours ago](https://www.bbc.com/news/articles/cgl8n7y7rd5o?at_medium=RSS&at_campaign=rss))
+- Extra funding secured for motorway improvements ([5 hours ago](https://www.bbc.com/news/articles/clymzk8xypyo?at_medium=RSS&at_campaign=rss))
+- Council considers ANPR cameras to 'improve safety' ([9 hours ago](https://www.bbc.com/news/articles/ce3kxp1gzrpo?at_medium=RSS&at_campaign=rss))
+- Carer who gave wrong drugs to man who died sentenced ([12 hours ago](https://www.bbc.com/news/articles/cg4e3e13l56o?at_medium=RSS&at_campaign=rss))
+- More than 50 blue badges confiscated from drivers ([14 hours ago](https://www.bbc.com/news/articles/cd0y4ynln9jo?at_medium=RSS&at_campaign=rss))
+- Escalating row over election delay request ([21 hours ago](https://www.bbc.com/news/articles/cdx401gd4llo?at_medium=RSS&at_campaign=rss))
+- Call for AI rules after fake video of mayor made ([21 hours ago](https://www.bbc.com/news/articles/cgl8n7y7rd5o?at_medium=RSS&at_campaign=rss))
 - Dog rescued from cliff after exploring went wrong ([1 days ago](https://www.bbc.com/news/articles/c8013l4m7jpo?at_medium=RSS&at_campaign=rss))
 - 'Shy' 11-year-old appears in Oscar-tipped Hamnet ([1 days ago](https://www.bbc.com/news/articles/cz9vkzy10plo?at_medium=RSS&at_campaign=rss))
 - 'You don't need to be in a relationship to make the most of life' ([1 days ago](https://www.bbc.com/news/articles/cjrz77yyzgpo?at_medium=RSS&at_campaign=rss))

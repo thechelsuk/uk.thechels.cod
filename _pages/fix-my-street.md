@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Numerous deep potholes exacerbated by heavy traffic diverting around A40 closure, 20th January :- [8730958](https://www.fixmystreet.com/report/8730958)
+- Over the winter there are many more potholes and there is much more road debris around them which is becoming more and more dangerous each day., 20th January :- [8730736](https://www.fixmystreet.com/report/8730736)
+- This pothole in the middle of the road had got much worse.., 20th January :- [8730731](https://www.fixmystreet.com/report/8730731)
+- A pothole in road problem, 20th January :- [8730619](https://www.fixmystreet.com/report/8730619)
+- Pothole near historic repair, 20th January :- [8730489](https://www.fixmystreet.com/report/8730489)
+- Multiple potholes in failed road repair, 20th January :- [8730487](https://www.fixmystreet.com/report/8730487)
+- From side to side, 20th January :- [8730389](https://www.fixmystreet.com/report/8730389)
+- Pothole near the junction of Acomb Crescent from Glenfall Way, 20th January :- [8730358](https://www.fixmystreet.com/report/8730358)
 - Long pothole, 20th January :- [8730107](https://www.fixmystreet.com/report/8730107)
 - Street lamp opposite watermead field has been off for over a month now, 20th January :- [8730085](https://www.fixmystreet.com/report/8730085)
 - Big pothole in the road before traffic lights, 20th January :- [8729900](https://www.fixmystreet.com/report/8729900)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 20th January :- [8729787](https://www.fixmystreet.com/report/8729787)
 - Large pothole, 20th January :- [8729281](https://www.fixmystreet.com/report/8729281)
 - Push button not working on crossing, 20th January :- [8729262](https://www.fixmystreet.com/report/8729262)
-- Two large holes in the middle of North Road West, 20th January :- [8729197](https://www.fixmystreet.com/report/8729197)
-- TMC - Defects - Covers, Gratings & Frames problem, 20th January :- [8729272](https://www.fixmystreet.com/report/8729272)
-- TMC - Defects -CW6 Potholes  problem, 20th January :- [8729271](https://www.fixmystreet.com/report/8729271)
-- TMC - Defects -CW6 Potholes  problem, 20th January :- [8729270](https://www.fixmystreet.com/report/8729270)
-- TMC - Defects -CW6 Potholes  problem, 20th January :- [8729269](https://www.fixmystreet.com/report/8729269)
-- TMC - Defects -CW6 Potholes  problem, 20th January :- [8729033](https://www.fixmystreet.com/report/8729033)
-- Large deep pothole, 20th January :- [8728935](https://www.fixmystreet.com/report/8728935)
-- Numerous potholes near the speed bump outside properties number 50 and 41., 20th January :- [8728843](https://www.fixmystreet.com/report/8728843)
 
 <!-- fix_marker ends -->

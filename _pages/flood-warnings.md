@@ -70,5 +70,13 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 21 January 2026 or as the situation changes.
 
+- Flood alert: Rivers in the Forest of Dean
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible from the morning of 21 January 2026 . 
+Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+We are monitoring rainfall and river levels  
+Avoid using low lying footpaths and any bridges near local watercourses . 
+This message will be updated by 10:00AM on 21 January 2026 or as the situation changes.
+
 
 <!-- flood_marker ends -->

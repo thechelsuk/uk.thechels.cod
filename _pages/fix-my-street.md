@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic lights from Hucclecote to brockworth only allowing 4 cars to pass before changing to red causing huge traffic backlog at 8am today and yesterday other directions seem ok, 21st January :- [8732828](https://www.fixmystreet.com/report/8732828)
+- A pothole in road problem, 21st January :- [8732727](https://www.fixmystreet.com/report/8732727)
 - Outside house on kayte lane, 20th January :- [8731699](https://www.fixmystreet.com/report/8731699)
 - Abandoned Caravan, 20th January :- [8731673](https://www.fixmystreet.com/report/8731673)
 - Deep pothole between numbers 19 and 21 on the left as you drive up the road. Looks less deep as the gravel that’s come out of it has part refilled it., 20th January :- [8731569](https://www.fixmystreet.com/report/8731569)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Deep pothole on entry to Swindon Road Fromm Windyridge Road and entering the bridge is dangerous, 20th January :- [8730834](https://www.fixmystreet.com/report/8730834)
 - Over the winter there are many more potholes and there is much more road debris around them which is becoming more and more dangerous each day., 20th January :- [8730736](https://www.fixmystreet.com/report/8730736)
 - This pothole in the middle of the road had got much worse.., 20th January :- [8730731](https://www.fixmystreet.com/report/8730731)
-- A pothole in road problem, 20th January :- [8730619](https://www.fixmystreet.com/report/8730619)
-- Pothole near historic repair, 20th January :- [8730489](https://www.fixmystreet.com/report/8730489)
 
 <!-- fix_marker ends -->

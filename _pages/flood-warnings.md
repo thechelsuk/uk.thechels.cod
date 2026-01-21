@@ -58,10 +58,10 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00 pm on 21 January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels remain high but are falling slowly today 20 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 21 January 2026 or as the situation changes.
+- River levels are falling slowly but may rise again following forecast rainfall later today 21 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 22 January 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- River levels are rising and flooding will continue today 20 January 2026. Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 21 January 2026 or as the situation changes.
+- River levels continue to rise and flooding will continue today 21 January 2026. Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 22 January 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today, especially in areas between Shifford and Eynsham. A band of rain is expected this afternoon (20/01/26), with widespread rain expected tomorrow. River levels are expected to remain high over the coming days. 
@@ -70,13 +70,12 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 21 January 2026 or as the situation changes.
 
-- Flood alert: Rivers in the Forest of Dean
-- Forecast rising river levels overnight may lead to flooding. 
-Flooding is possible from the morning of 21 January 2026 . 
-Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
-We are monitoring rainfall and river levels  
-Avoid using low lying footpaths and any bridges near local watercourses . 
-This message will be updated by 10:00AM on 21 January 2026 or as the situation changes.
+- Warning no longer in force: Rivers in the Forest of Dean
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
+
 
 
 <!-- flood_marker ends -->

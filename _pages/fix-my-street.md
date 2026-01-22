@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Small pile of asbestos roofing, 21st January :- [8739499](https://www.fixmystreet.com/report/8739499)
+- Deep pothole at the top of Badgeworth bridge, 21st January :- [8739480](https://www.fixmystreet.com/report/8739480)
+- Deep pothole on Grovefield way at pedestrian crossing, 21st January :- [8739466](https://www.fixmystreet.com/report/8739466)
+- Huge gigantic big crater, 21st January :- [8739449](https://www.fixmystreet.com/report/8739449)
+- Series of potholes on Badgeworth bridge, 21st January :- [8739445](https://www.fixmystreet.com/report/8739445)
 - Flooding highway culvert on footpath, 21st January :- [8739279](https://www.fixmystreet.com/report/8739279)
 - Impossible to avoid huge pothole in carriagway on bridge, 21st January :- [8739146](https://www.fixmystreet.com/report/8739146)
 - Length of cycle path down B4063 very muddy, 21st January :- [8739038](https://www.fixmystreet.com/report/8739038)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Huge pothole over the railway bridge, which caused my tire to punchure, 21st January :- [8738286](https://www.fixmystreet.com/report/8738286)
 - Many deep potholes getter worse, 21st January :- [8738168](https://www.fixmystreet.com/report/8738168)
 - Potholes and broken road surface, 21st January :- [8738138](https://www.fixmystreet.com/report/8738138)
-- Large dangerous deep pothole within section of traffic lights, 21st January :- [8738091](https://www.fixmystreet.com/report/8738091)
-- A pothole in road problem, 21st January :- [8738183](https://www.fixmystreet.com/report/8738183)
-- Large pothole on 70mph road not visible in the dark. Still not fixed, 21st January :- [8737909](https://www.fixmystreet.com/report/8737909)
-- New pot hole , big bang from wheel no street lighting, 21st January :- [8737903](https://www.fixmystreet.com/report/8737903)
-- This is a verey dangerous stretch of potholes, especially if you dont know the road. there will be an accident before long. get it sorted asap, 21st January :- [8737847](https://www.fixmystreet.com/report/8737847)
 
 <!-- fix_marker ends -->

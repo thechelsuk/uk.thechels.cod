@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Two large 50cm deep pot holes, 22nd January :- [8739866](https://www.fixmystreet.com/report/8739866)
+- Drain blocked solid, 22nd January :- [8739815](https://www.fixmystreet.com/report/8739815)
+- Now becoming impossible to pass and if you hit this will cause damage to vehicle, 22nd January :- [8739784](https://www.fixmystreet.com/report/8739784)
 - Small pile of asbestos roofing, 21st January :- [8739499](https://www.fixmystreet.com/report/8739499)
 - Deep pothole at the top of Badgeworth bridge, 21st January :- [8739480](https://www.fixmystreet.com/report/8739480)
 - Deep pothole on Grovefield way at pedestrian crossing, 21st January :- [8739466](https://www.fixmystreet.com/report/8739466)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flooding/ Poor road surface, 21st January :- [8738598](https://www.fixmystreet.com/report/8738598)
 - A pothole in road problem, 21st January :- [8738525](https://www.fixmystreet.com/report/8738525)
 - Multiple pothole on Mill Lane and Vicarage lane junction, 21st January :- [8738288](https://www.fixmystreet.com/report/8738288)
-- Huge pothole over the railway bridge, which caused my tire to punchure, 21st January :- [8738286](https://www.fixmystreet.com/report/8738286)
-- Many deep potholes getter worse, 21st January :- [8738168](https://www.fixmystreet.com/report/8738168)
-- Potholes and broken road surface, 21st January :- [8738138](https://www.fixmystreet.com/report/8738138)
 
 <!-- fix_marker ends -->

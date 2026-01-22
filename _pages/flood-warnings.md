@@ -95,5 +95,23 @@ This message will be updated by 12:00 pm on 23 January 2026 or as the situation 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - High tides today may lead to flooding. Flooding is possible from 12am to 2am 23/01/2026 and from 12pm to 2pm on 23/01/2026.  Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next few days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.6m at 00:15am 23/01 and 3.3m to 3.6m at 12:30pm 23/01. We are not currently expecting flooding at other gauge locations. We are closely monitoring the situation. Avoid coastal roads and low lying roads near rivers, which may be flooded. This message will be updated by 2:00PM on 23 January 2026 or as the situation changes.
 
+- Flood alert: River Wye in Herefordshire
+- Rising river levels overnight may lead to flooding. 
+Flooding is possible on 22 January 2026 . 
+Rising river levels this evening may lead to flooding. 
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks Ross on Wye 3.2m to 3.5m 23/01, AM, no other gauges are forecast at this time. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 23 January 2026 or as the situation changes.
+
+- Flood alert: River Wye in Gloucestershire
+- High river levels overnight may lead to flooding. 
+Flooding is possible on 22 January 2026 . 
+Flooding may affect low lying land and roads along the River Wye. 
+Predicted peaks:- Ross on Wye 3.2m to 3.5m 23/01 AM 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 23 January 2026 or as the situation changes.
+
 
 <!-- flood_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 22 January 2026
 
-- The average temperature today is 9.08˚C,
-- With highs of 9.41˚C and lows of 8.49˚C,
-- It may feel like 7.33˚C with light rain
-- The wind speed is 3.13m/s and visibility is 2747m
-- The pressure is 986hPa and humidity is 92%
+- The average temperature today is 9.26˚C,
+- With highs of 9.75˚C and lows of 8.49˚C,
+- It may feel like 6.42˚C with broken clouds
+- The wind speed is 5.66m/s and visibility is 8000m
+- The pressure is 987hPa and humidity is 92%
 - The sun will rise at 08:01 and set at 16:37
 
 <!-- weather_marker ends -->

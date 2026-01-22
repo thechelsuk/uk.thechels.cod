@@ -20,63 +20,64 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- River levels are slowly rising. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain as forecast for Wednesday afternoon and for the rest of the week. River levels are expected to rise further in response to this rain. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 22 January 2026 or as the situation changes.
+- River levels have stabilised at the Fosseway and Great Somerford gauges. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is forecast Thursday and Friday. River levels are expected to rise further in response to this rain. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 23 January 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
-- River levels are high on parts of the River Churn. Therefore flooding of low lying land and roads remains possible today, especially near Cerney Wick. Widespread rain is expected today (21/01/26), and for much of tomorrow. River levels are expected to remain high over the coming days. 
+- River levels are high on parts of the River Churn. Therefore flooding of low lying land and roads remains possible today (22.01.26), especially near Cerney Wick. Further bands of rain are expected today (22.01.26) and tomorrow.  River levels are expected to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 22 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 23 January 2026 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
-- River levels are high on parts of the River Windrush. Therefore flooding of low lying land and roads is expected to continue today, especially in the Newbridge area. Widespread rain is expected today (21/01/26), and for much of tomorrow. River levels are expected to remain high over the coming days. 
+- River levels are high on parts of the River Windrush. Therefore flooding of low lying land and roads is expected to continue today, especially in the Newbridge area. Further bands of rain are expected today (22.01.26) and tomorrow.  River levels are expected to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 22 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 23 January 2026 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- River levels remain high on parts of the River Evenlode. Therefore flooding of low lying land and roads remains possible today, especially in the Woodstock area. Widespread rain is expected today (21/01/26), and for much of tomorrow. River levels are expected to remain high over the coming days. 
+- River levels remain high on parts of the River Evenlode and Glyme. Therefore flooding of low lying land and roads remains possible today, especially in the Woodstock area. Further bands of rain are expected today (22.01.26) and tomorrow.  River levels are expected to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 22 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 23 January 2026 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today, especially near Hannington Bridge. Widespread rain is expected today (21/01/26), and for much of tomorrow. River levels are expected to remain high over the coming days. 
+- River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today, especially near Hannington Bridge. Further bands of rain are expected today (22.01.26) and tomorrow.  River levels are expected to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 22 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 23 January 2026 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
-- River levels are high on parts of the River Dikler. Therefore flooding of low lying land and roads remains possible today, especially in areas of Bourton on the Water close to the River Dikler. Widespread rain is expected today (21/01/26), and for much of tomorrow. River levels are expected to remain high over the coming days. 
+- River levels are high on parts of the River Dikler. Therefore flooding of low lying land and roads remains possible today, especially in areas of Bourton on the Water close to the River Dikler. Further bands of rain are expected today (22.01.26) and tomorrow.  River levels are expected to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 22 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 23 January 2026 or as the situation changes.
 
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
-- High river levels overnight may lead to flooding. 
-Flooding is possible from the early hours of 22 January 2026 . 
-Flooding of low lying land and roads is expected, especially close to the Swill Brook in the Oaksey area. Further rainfall is forecast tomorrow morning. We expect river levels to remain high over the next few days. 
-We are monitoring rainfall and river levels . 
-Avoid low lying roads near rivers, which may be flooded . 
-This message will be updated by 12:00PM on 22 January 2026 or as the situation changes.
+- River levels are high on parts of the Swill Brook. Therefore flooding of low lying land and roads remains possible today, especially near Oaksey. Further bands of rain are expected today (22.01.26) and tomorrow. River levels are rising slowly is response to recent rainfall.  
+
+We are monitoring rainfall and river levels. 
+
+Avoid low lying roads near rivers, which may be flooded. 
+
+This message will be updated by 12:00 pm on 23 January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels are falling slowly but may rise again following forecast rainfall later today 21 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 22 January 2026 or as the situation changes.
+- River levels are rising slowly due to persistent rainfall. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 7:00PM on 22 January 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- River levels continue to rise and flooding will continue today 21 January 2026. Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 22 January 2026 or as the situation changes.
+- River levels remain high today 22 January 2026. Locations most affected will be low lying land and roads near rivers. Further rain is forecast today 22 January 2026. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 23 January 2026 or as the situation changes
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
-- River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today, especially in the Eynsham area. Widespread rain is expected today (21/01/26), and for much of tomorrow. River levels are expected to remain high over the coming days. 
+- River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today near the river.  Further bands of rain are expected today (22.01.26) and tomorrow.  River levels are expected to increase over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 22 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 23 January 2026 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - High tides today may lead to flooding. 

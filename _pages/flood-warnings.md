@@ -82,8 +82,12 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 24 January 2026 or as the situation changes.
 
-- Flood alert: Severn estuary from Gloucester to Sharpness
-- High tides today may lead to flooding. Flooding is possible from 12am to 2am 23/01/2026 and from 12pm to 2pm on 23/01/2026.  Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next few days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.6m at 00:15am 23/01 and 3.3m to 3.6m at 12:30pm 23/01. We are not currently expecting flooding at other gauge locations. We are closely monitoring the situation. Avoid coastal roads and low lying roads near rivers, which may be flooded. This message will be updated by 2:00PM on 23 January 2026 or as the situation changes.
+- Warning no longer in force: Severn estuary from Gloucester to Sharpness
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Tidal conditions are expected to improve and no flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
+
 
 - Flood alert: River Wye in Herefordshire
 - High river levels today may lead to continued flooding.  Flooding is possible on 23rd January 2026.   Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force.
@@ -104,6 +108,14 @@ Lydbrook 3.8m to 4.1m 24/01 AM,
 
 We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  
 This message will be updated by 10:00AM on 24th January 2026 or as the situation changes.
+
+- Flood alert: River Severn in Worcestershire
+- High river levels today may lead to flooding. 
+Flooding is possible on 23 January 2026 . 
+Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Diglis 2.8m to 3.1m on Saturday 24/01 PM, Kempsey Yacht Club 5.0m to 5.3m on Saturday 24/01 PM, Saxons Lode 3.8m to 4.1m on Saturday 24/01 PM 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 24 January 2026 or as the situation changes.
 
 
 <!-- flood_marker ends -->

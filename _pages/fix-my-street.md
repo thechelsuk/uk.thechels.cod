@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple Pot Holes, 23rd January :- [8748234](https://www.fixmystreet.com/report/8748234)
 - Massive new pothole, 23rd January :- [8748063](https://www.fixmystreet.com/report/8748063)
 - Fly tipping, 23rd January :- [8748057](https://www.fixmystreet.com/report/8748057)
 - Fly tipping, 23rd January :- [8748053](https://www.fixmystreet.com/report/8748053)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Persistent flooding due to lack of drain, 22nd January :- [8747138](https://www.fixmystreet.com/report/8747138)
 - Mini clubman left on the main road for at least 5 days by aldi, 22nd January :- [8747121](https://www.fixmystreet.com/report/8747121)
 - Mini clubman left on the main road for at least 5 days by aldi, 22nd January :- [8747120](https://www.fixmystreet.com/report/8747120)
-- Street light not working, 22nd January :- [8746918](https://www.fixmystreet.com/report/8746918)
 
 <!-- fix_marker ends -->

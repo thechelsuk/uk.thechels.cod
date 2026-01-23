@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in carriageway nr 27 Gretton Road Winchcombe, 23rd January :- [8754410](https://www.fixmystreet.com/report/8754410)
+- Inside and outside school, 23rd January :- [8754314](https://www.fixmystreet.com/report/8754314)
+- Cracked pavement, 23rd January :- [8754310](https://www.fixmystreet.com/report/8754310)
+- H marking not redone by contractor, 23rd January :- [8754106](https://www.fixmystreet.com/report/8754106)
+- Pothole nearly as deep as a duck pond outside near25 Hearne road, 23rd January :- [8754034](https://www.fixmystreet.com/report/8754034)
 - Flytipped waste, 23rd January :- [8753905](https://www.fixmystreet.com/report/8753905)
 - Pothole, 23rd January :- [8753859](https://www.fixmystreet.com/report/8753859)
 - Multiple deep potholes, 23rd January :- [8753835](https://www.fixmystreet.com/report/8753835)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Flooded gutters, 23rd January :- [8752989](https://www.fixmystreet.com/report/8752989)
 - Large hole, 23rd January :- [8752911](https://www.fixmystreet.com/report/8752911)
 - Numerous potholes along Swindon lane, 23rd January :- [8752828](https://www.fixmystreet.com/report/8752828)
-- Deep 30x60cm pothole danger to cyclists, 23rd January :- [8752807](https://www.fixmystreet.com/report/8752807)
-- Pothole before junction to Evesham road, 23rd January :- [8752791](https://www.fixmystreet.com/report/8752791)
-- TMC - Defects -CW10 Potholes problem, 23rd January :- [8752942](https://www.fixmystreet.com/report/8752942)
-- TMC - Defects -CW10 Potholes problem, 23rd January :- [8752943](https://www.fixmystreet.com/report/8752943)
-- TMC - Defects -CW10 Potholes problem, 23rd January :- [8752941](https://www.fixmystreet.com/report/8752941)
 
 <!-- fix_marker ends -->

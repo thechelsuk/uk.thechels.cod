@@ -11,10 +11,10 @@ seo: Menu
 ## On Friday, 23 January 2026
 
 - The average temperature today is 7.76˚C,
-- With highs of 8.3˚C and lows of 6.83˚C,
-- It may feel like 4˚C with scattered clouds
-- The wind speed is 7.2m/s and visibility is 10000m
-- The pressure is 982hPa and humidity is 79%
+- With highs of 8.07˚C and lows of 7.6˚C,
+- It may feel like 4.73˚C with broken clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 983hPa and humidity is 82%
 - The sun will rise at 08:00 and set at 16:39
 
 <!-- weather_marker ends -->

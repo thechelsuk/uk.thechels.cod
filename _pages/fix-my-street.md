@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Double yellow lines barely visible, 24th January :- [8757506](https://www.fixmystreet.com/report/8757506)
+- Several large potholes in area, 24th January :- [8757274](https://www.fixmystreet.com/report/8757274)
+- Pothole, 24th January :- [8757263](https://www.fixmystreet.com/report/8757263)
+- Cracks in tree branches, 24th January :- [8757086](https://www.fixmystreet.com/report/8757086)
+- Deep, unavoidable, dangerous pot holes, 24th January :- [8756929](https://www.fixmystreet.com/report/8756929)
 - Traffic Cone left by Severn Trent, 24th January :- [8756783](https://www.fixmystreet.com/report/8756783)
 - Litter all the way along a40 Cheltenham direction, 24th January :- [8756617](https://www.fixmystreet.com/report/8756617)
 - Deep pothole in road, 24th January :- [8756600](https://www.fixmystreet.com/report/8756600)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Multiple pot holes, 24th January :- [8755838](https://www.fixmystreet.com/report/8755838)
 - Sign is faded 117982, 24th January :- [8755684](https://www.fixmystreet.com/report/8755684)
 - The box junction markings are worn, 24th January :- [8755634](https://www.fixmystreet.com/report/8755634)
-- Dangerous pothole on newly surfaced road, 23rd January :- [8755589](https://www.fixmystreet.com/report/8755589)
-- Extensive damage to road surface, 23rd January :- [8755425](https://www.fixmystreet.com/report/8755425)
-- Lots of deep pot holes. Can’t even drive round them. Very dangerous, 23rd January :- [8755396](https://www.fixmystreet.com/report/8755396)
-- Growing pothole, 23rd January :- [8755258](https://www.fixmystreet.com/report/8755258)
-- Large pothole, 23rd January :- [8755253](https://www.fixmystreet.com/report/8755253)
 
 <!-- fix_marker ends -->

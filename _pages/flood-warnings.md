@@ -44,11 +44,11 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00 pm on 25 January 2026 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today, especially near Hannington Bridge. Further bands of rain are expected this morning (23.01.26), followed by showers and then another band this evening. River levels are expected to remain high over the coming days. 
+- River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today, especially near Hannington Bridge.  Rain is expected later today (24.01.26) and will continue though most of the evening. The rain is expected to be mostly light, but levels, currently falling, may respond to the rainfall. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 24 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 25 January 2026 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - River levels are high on parts of the River Dikler. Therefore flooding of low lying land and roads remains possible today, especially in areas of Bourton on the Water close to the River Dikler. Rain is expected later today (24.01.26) and will continue though most of the evening. The rain is expected to be mostly light, but levels, which are currently falling, may respond to the rainfall. 
@@ -57,14 +57,12 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 25 January 2026 or as the situation changes.
 
-- Flood alert: Tributaries on the Upper River Thames above Cricklade
-- River levels are high on parts of the Swill Brook. Therefore flooding of low lying land and roads remains possible today, especially near Oaksey. Further bands of rain are expected this morning (23.01.26), followed by showers and then another band this evening. River levels are falling slowly in response to recent rainfall.  
+- Warning no longer in force: Tributaries on the Upper River Thames above Cricklade
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
 
-We are monitoring rainfall and river levels. 
-
-Avoid low lying roads near rivers, which may be flooded. 
-
-This message will be updated by 12:00 pm on 24 January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - High river levels today may lead to flooding today 24 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. Predicted peaks:- Mythe 3.5m to 3.8m on Monday 26 January 2026. We are closely monitoring the situation . Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded This message will be updated by 10:00AM on 25 January 2026 or as the situation changes
@@ -76,11 +74,11 @@ This message will be updated by 12:00 pm on 24 January 2026 or as the situation 
 - High river levels today may lead to flooding today 24 January 2026 . Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks: Bredon 2.2m to 2.4m on Monday 26 January 2026. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 25 January 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
-- River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today near the river and especially in the Eynsham area. Further bands of rain are expected this morning (23.01.26), followed by showers and then another band this evening. River levels are expected to increase over the coming days. 
+- River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today near the river between Buscot Lock and Eynsham Lock.  Rain is expected later today (24.01.26) and will continue though most of the evening. The rain is expected to be mostly light. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 24 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 25 January 2026 or as the situation changes.
 
 - Warning no longer in force: Severn estuary from Gloucester to Sharpness
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

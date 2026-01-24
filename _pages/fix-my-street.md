@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic Cone left by Severn Trent, 24th January :- [8756783](https://www.fixmystreet.com/report/8756783)
+- Litter all the way along a40 Cheltenham direction, 24th January :- [8756617](https://www.fixmystreet.com/report/8756617)
+- Deep pothole in road, 24th January :- [8756600](https://www.fixmystreet.com/report/8756600)
+- 10” pothole drain grid on road, 24th January :- [8756556](https://www.fixmystreet.com/report/8756556)
+- Barriers left on grass, 24th January :- [8756509](https://www.fixmystreet.com/report/8756509)
+- A lot of pot holes all over this road into the estate., 24th January :- [8756500](https://www.fixmystreet.com/report/8756500)
+- Approx 1ft by 1ft - Near the end of the T junction, 24th January :- [8756432](https://www.fixmystreet.com/report/8756432)
+- Another patio slab damaged, 24th January :- [8756359](https://www.fixmystreet.com/report/8756359)
+- Large quantity of leaves causing slip hazard, 24th January :- [8756331](https://www.fixmystreet.com/report/8756331)
+- Large pothole developed outside 21 Harvey’s Lane constantly hit as pull on to driveway, 24th January :- [8756197](https://www.fixmystreet.com/report/8756197)
+- As said by fellow user of this road I have lost count over the years that the odd pot hole has been sprayed and poorly filled. Now it has got to the point the road is dangerous and completely unsafe. Huge holes everywhere so uneven it’s basically a fair ground ride going through especially in the dark, if there is one road you want to drive through to knacker your car come to Hayden Lane, this road is not fit for purpose and if you come out and stay a few lines around a whole your just laughable even a child can see how bad It is. South Glos council resurface smaller and less used roads than this so what’s your problem. Close it for a month and repair it properly before someone gets hurt., 24th January :- [8756189](https://www.fixmystreet.com/report/8756189)
 - Potholes in the road, 24th January :- [8755924](https://www.fixmystreet.com/report/8755924)
 - Multiple pot holes, 24th January :- [8755838](https://www.fixmystreet.com/report/8755838)
 - Sign is faded 117982, 24th January :- [8755684](https://www.fixmystreet.com/report/8755684)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Lots of deep pot holes. Can’t even drive round them. Very dangerous, 23rd January :- [8755396](https://www.fixmystreet.com/report/8755396)
 - Growing pothole, 23rd January :- [8755258](https://www.fixmystreet.com/report/8755258)
 - Large pothole, 23rd January :- [8755253](https://www.fixmystreet.com/report/8755253)
-- Street light completely out meaning that area is in complete darkness, 23rd January :- [8755101](https://www.fixmystreet.com/report/8755101)
-- Series of potholes & damage to road, 23rd January :- [8755086](https://www.fixmystreet.com/report/8755086)
-- Series of potholes, 23rd January :- [8755078](https://www.fixmystreet.com/report/8755078)
-- Litter at J11 of M5. Really bad!, 23rd January :- [8754870](https://www.fixmystreet.com/report/8754870)
-- Damaged Sign, 23rd January :- [8754758](https://www.fixmystreet.com/report/8754758)
-- Pothole at top end of Shelburne Road, 23rd January :- [8754692](https://www.fixmystreet.com/report/8754692)
-- Pothole in carriageway nr 27 Gretton Road Winchcombe, 23rd January :- [8754410](https://www.fixmystreet.com/report/8754410)
-- Inside and outside school, 23rd January :- [8754314](https://www.fixmystreet.com/report/8754314)
-- Cracked pavement, 23rd January :- [8754310](https://www.fixmystreet.com/report/8754310)
-- H marking not redone by contractor, 23rd January :- [8754106](https://www.fixmystreet.com/report/8754106)
-- Pothole nearly as deep as a duck pond outside near25 Hearne road, 23rd January :- [8754034](https://www.fixmystreet.com/report/8754034)
 
 <!-- fix_marker ends -->

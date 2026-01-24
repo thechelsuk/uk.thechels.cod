@@ -80,13 +80,6 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 25 January 2026 or as the situation changes.
 
-- Warning no longer in force: Severn estuary from Gloucester to Sharpness
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Tidal conditions are expected to improve and no flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
-
-
 - Flood alert: River Wye in Herefordshire
 - High river levels today may lead to flooding. 
 Flooding is possible on 24 January 2026 . 

@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Selection of very large pot holes in close proximity - urgently in need of repair, 25th January :- [8765288](https://www.fixmystreet.com/report/8765288)
+- Massive pot hole which poses damage risk to a car. Makes a load bang noise when driven over, 25th January :- [8765270](https://www.fixmystreet.com/report/8765270)
+- 7 inch wide pothole in centre of road. Has got very deep over just 2 weeks., 25th January :- [8764784](https://www.fixmystreet.com/report/8764784)
+- Entire road not fit, 25th January :- [8764779](https://www.fixmystreet.com/report/8764779)
+- Hole in road, 25th January :- [8764699](https://www.fixmystreet.com/report/8764699)
+- Hole in road, 25th January :- [8764698](https://www.fixmystreet.com/report/8764698)
+- Utility cover sinking, 25th January :- [8764692](https://www.fixmystreet.com/report/8764692)
 - Litter between Elmbridge Court Roundabout and Junction 10 M5, 25th January :- [8764577](https://www.fixmystreet.com/report/8764577)
 - Dumped sofa, 25th January :- [8764362](https://www.fixmystreet.com/report/8764362)
 - Collapsed repair on warden hill road nr junction with Bournside close, 25th January :- [8764309](https://www.fixmystreet.com/report/8764309)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Pothole very deep outside 114 Greenhills Road. Caused a burst tyre . This road is disintegrating and needs resurfacing , not just patching up, 25th January :- [8764088](https://www.fixmystreet.com/report/8764088)
 - Section of road with may pot holes, 25th January :- [8764087](https://www.fixmystreet.com/report/8764087)
 - Another couple of potholes on warden hill Road at Warren close junction, 25th January :- [8764052](https://www.fixmystreet.com/report/8764052)
-- Pothole on warden hill Road at junction of Warren close, 25th January :- [8764037](https://www.fixmystreet.com/report/8764037)
-- Stretch of road with potholes deeper than tennis Ball, 25th January :- [8764023](https://www.fixmystreet.com/report/8764023)
-- 20 metre stretch of road with potholes deeper than tennis Ball, 25th January :- [8763992](https://www.fixmystreet.com/report/8763992)
-- 3ft pot holes - multiple which also cause flooding, 25th January :- [8763968](https://www.fixmystreet.com/report/8763968)
-- Previously patched area degrading on either side outside number 108 warden hill road, 25th January :- [8763894](https://www.fixmystreet.com/report/8763894)
-- Woodlands Road pot holes, 25th January :- [8763666](https://www.fixmystreet.com/report/8763666)
-- One traffic light head has rotated round so not particularly visible from the road, 25th January :- [8763640](https://www.fixmystreet.com/report/8763640)
 
 <!-- fix_marker ends -->

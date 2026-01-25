@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Previously reported road damage getting much worse - trip hazard, 25th January :- [8761085](https://www.fixmystreet.com/report/8761085)
+- Pot hole is right in the junction, 25th January :- [8761071](https://www.fixmystreet.com/report/8761071)
+- 8345616 previous case number and this got worse - it posses a trip hazard to pedestrians with no foot path here, 25th January :- [8761048](https://www.fixmystreet.com/report/8761048)
 - Large pothole on Green Street, 25th January :- [8760681](https://www.fixmystreet.com/report/8760681)
 - Lots of potholes across the whole side if road as approaching the roundabout. Makes driving extremely dangerous, 24th January :- [8760534](https://www.fixmystreet.com/report/8760534)
 - Several Starting One there that Bottoms my rear suspention out, 24th January :- [8760250](https://www.fixmystreet.com/report/8760250)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Double yellow lines barely visible, 24th January :- [8757506](https://www.fixmystreet.com/report/8757506)
 - Several large potholes in area, 24th January :- [8757274](https://www.fixmystreet.com/report/8757274)
 - Pothole, 24th January :- [8757263](https://www.fixmystreet.com/report/8757263)
-- Cracks in tree branches, 24th January :- [8757086](https://www.fixmystreet.com/report/8757086)
-- Deep, unavoidable, dangerous pot holes, 24th January :- [8756929](https://www.fixmystreet.com/report/8756929)
-- Traffic Cone left by Severn Trent, 24th January :- [8756783](https://www.fixmystreet.com/report/8756783)
 
 <!-- fix_marker ends -->

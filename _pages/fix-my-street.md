@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge pothole. Can stand in with still half a metre space, 25th January :- [8765803](https://www.fixmystreet.com/report/8765803)
+- Following the water leak the road is like a farm track. You have to pick which pothole you think will cause the least damsge fir about 100 yards. There is a trench in the midfle. Needs temporary lighrs back until its fixed, 25th January :- [8765638](https://www.fixmystreet.com/report/8765638)
+- Very large pothole. very deep is well. Hard to see at night especially with water and rain, 25th January :- [8765496](https://www.fixmystreet.com/report/8765496)
+- Multiple potholes in road, 25th January :- [8765433](https://www.fixmystreet.com/report/8765433)
 - Selection of very large pot holes in close proximity - urgently in need of repair, 25th January :- [8765288](https://www.fixmystreet.com/report/8765288)
 - Massive pot hole which poses damage risk to a car. Makes a load bang noise when driven over, 25th January :- [8765270](https://www.fixmystreet.com/report/8765270)
 - 7 inch wide pothole in centre of road. Has got very deep over just 2 weeks., 25th January :- [8764784](https://www.fixmystreet.com/report/8764784)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Number of potholes, 25th January :- [8764245](https://www.fixmystreet.com/report/8764245)
 - Very deep potholes on warden hill Road outside number 83, 25th January :- [8764169](https://www.fixmystreet.com/report/8764169)
 - Covers are either missing or heavily squashed, 25th January :- [8764168](https://www.fixmystreet.com/report/8764168)
-- Whole section of road littered with pot holes, 25th January :- [8764110](https://www.fixmystreet.com/report/8764110)
-- Pothole very deep outside 114 Greenhills Road. Caused a burst tyre . This road is disintegrating and needs resurfacing , not just patching up, 25th January :- [8764088](https://www.fixmystreet.com/report/8764088)
-- Section of road with may pot holes, 25th January :- [8764087](https://www.fixmystreet.com/report/8764087)
-- Another couple of potholes on warden hill Road at Warren close junction, 25th January :- [8764052](https://www.fixmystreet.com/report/8764052)
 
 <!-- fix_marker ends -->

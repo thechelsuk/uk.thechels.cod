@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 25 January 2026
 
-- The average temperature today is 6.43˚C,
-- With highs of 6.64˚C and lows of 5.95˚C,
-- It may feel like 6.43˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 997hPa and humidity is 87%
+- The average temperature today is 5.73˚C,
+- With highs of 6.09˚C and lows of 5.39˚C,
+- It may feel like 4.44˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 999hPa and humidity is 89%
 - The sun will rise at 07:58 and set at 16:42
 
 <!-- weather_marker ends -->

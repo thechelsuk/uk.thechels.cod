@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 26th January :- [8767083](https://www.fixmystreet.com/report/8767083)
+- TMC - Defects -CW6 Potholes  problem, 26th January :- [8767067](https://www.fixmystreet.com/report/8767067)
+- TMC - Defects -CW6 Potholes  problem, 26th January :- [8767068](https://www.fixmystreet.com/report/8767068)
+- Smashed up kerb, 26th January :- [8766817](https://www.fixmystreet.com/report/8766817)
+- TMC - Defects - Other FW6  Surface problem, 26th January :- [8766841](https://www.fixmystreet.com/report/8766841)
+- TMC - Defects -CW6 Potholes  problem, 26th January :- [8766835](https://www.fixmystreet.com/report/8766835)
+- TMC - Defects - Other FW6  Surface problem, 26th January :- [8766843](https://www.fixmystreet.com/report/8766843)
+- TMC - Defects - Other FW6  Surface problem, 26th January :- [8766842](https://www.fixmystreet.com/report/8766842)
+- TMC - Defects - Footways Slabs problem, 26th January :- [8766840](https://www.fixmystreet.com/report/8766840)
+- TMC - Defects - Covers, Gratings & Frames problem, 26th January :- [8766845](https://www.fixmystreet.com/report/8766845)
+- TMC - Defects - Covers, Gratings & Frames problem, 26th January :- [8766844](https://www.fixmystreet.com/report/8766844)
+- Large pothole - can’t be avoided and growing, 26th January :- [8766702](https://www.fixmystreet.com/report/8766702)
 - Excessive littering, 26th January :- [8766589](https://www.fixmystreet.com/report/8766589)
 - Repeat report as potholes NOT repaired before and after roaf crossing, 26th January :- [8766506](https://www.fixmystreet.com/report/8766506)
 - Road now needs sweepong after works, 26th January :- [8766505](https://www.fixmystreet.com/report/8766505)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - Tarmac around manhole is missing, 25th January :- [8766279](https://www.fixmystreet.com/report/8766279)
 - Large pothole Churchdown lane, 25th January :- [8766093](https://www.fixmystreet.com/report/8766093)
 - Large pothole near Churchdown lane sign as seen in photo, 25th January :- [8766083](https://www.fixmystreet.com/report/8766083)
-- Huge pothole. Can stand in with still half a metre space, 25th January :- [8765803](https://www.fixmystreet.com/report/8765803)
-- Following the water leak the road is like a farm track. You have to pick which pothole you think will cause the least damsge fir about 100 yards. There is a trench in the midfle. Needs temporary lighrs back until its fixed, 25th January :- [8765638](https://www.fixmystreet.com/report/8765638)
-- Very large pothole. very deep is well. Hard to see at night especially with water and rain, 25th January :- [8765496](https://www.fixmystreet.com/report/8765496)
-- Multiple potholes in road, 25th January :- [8765433](https://www.fixmystreet.com/report/8765433)
-- Selection of very large pot holes in close proximity - urgently in need of repair, 25th January :- [8765288](https://www.fixmystreet.com/report/8765288)
-- Massive pot hole which poses damage risk to a car. Makes a load bang noise when driven over, 25th January :- [8765270](https://www.fixmystreet.com/report/8765270)
-- 7 inch wide pothole in centre of road. Has got very deep over just 2 weeks., 25th January :- [8764784](https://www.fixmystreet.com/report/8764784)
-- Entire road not fit, 25th January :- [8764779](https://www.fixmystreet.com/report/8764779)
-- Hole in road, 25th January :- [8764699](https://www.fixmystreet.com/report/8764699)
-- Hole in road, 25th January :- [8764698](https://www.fixmystreet.com/report/8764698)
-- Utility cover sinking, 25th January :- [8764692](https://www.fixmystreet.com/report/8764692)
-- Litter between Elmbridge Court Roundabout and Junction 10 M5, 25th January :- [8764577](https://www.fixmystreet.com/report/8764577)
 
 <!-- fix_marker ends -->

@@ -118,17 +118,13 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00 pm on 27 January 2026 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
-- River levels today are high but steady. Flooding is possible on 26th January 2026. Heavy rainfall is forecast over the next 24 hours which will likely lead to further river rises overnight into tomorrow.
-
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force.
-
-Obersved Peaks:- 
-Mordiford 3.9m 25/01 PM,  
-Ross on Wye 3.45m 26/01 AM,
-
-We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water. 
-
-This message will be updated by 10:00AM on 27th January 2026 or as the situation changes.
+- Rising river levels overnight may lead to flooding. 
+Flooding is possible on 26 January 2026 . 
+River levels are forecast to rise tonight and throughout tomorrow as a result of forecast persistent heavy rain over the next 24 hours. Peak information will provided once we have more confidence in the rainfall totals. 
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 27 January 2026 or as the situation changes.
 
 - Flood alert: Rivers in the Forest of Dean
 - High river levels overnight may lead to flooding. 
@@ -139,19 +135,13 @@ Avoid using low lying footpaths and any bridges near local watercourses . 
 This message will be updated by 10:00AM on 27 January 2026 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- River levels today are high but steady. Flooding is possible on 26th January 2026. Heavy rainfall is forecast over the next 24 hours which will likely lead to further river rises overnight into tomorrow.
-
+- Rising river levels overnight may lead to flooding. 
+Flooding is possible on 26 January 2026 . 
+River levels are forecast to rise tonight and throughout tomorrow as a result of forecast persistent heavy rain over the next 24 hours. Peak information will provided once we have more confidence in the rainfall totals. 
 Flooding may affect low lying land and roads along the River Wye. 
-
-Observed Peaks:- 
-Ross on Wye 3.45m 26/01 AM,  
-
-Predicted peaks:-
-Lydbrook 4.2m 26/01 AM, 
-
-We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 10:00AM on 27th January 2026 or as the situation changes.
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 27 January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels remain high but steady today 26 January 2026 and flooding is possible. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Heavy rain is forecast over the next 24 hours which may lead to river levels rising further overnight and into tomorrow. We are closely monitoring the situation. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on Tuesday 27 January 2026 or as the situation changes.

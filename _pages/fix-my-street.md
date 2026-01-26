@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Excessive littering, 26th January :- [8766589](https://www.fixmystreet.com/report/8766589)
 - Repeat report as potholes NOT repaired before and after roaf crossing, 26th January :- [8766506](https://www.fixmystreet.com/report/8766506)
 - Road now needs sweepong after works, 26th January :- [8766505](https://www.fixmystreet.com/report/8766505)
 - Repeat report as case closed without action, 26th January :- [8766503](https://www.fixmystreet.com/report/8766503)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Hole in road, 25th January :- [8764698](https://www.fixmystreet.com/report/8764698)
 - Utility cover sinking, 25th January :- [8764692](https://www.fixmystreet.com/report/8764692)
 - Litter between Elmbridge Court Roundabout and Junction 10 M5, 25th January :- [8764577](https://www.fixmystreet.com/report/8764577)
-- Dumped sofa, 25th January :- [8764362](https://www.fixmystreet.com/report/8764362)
 
 <!-- fix_marker ends -->

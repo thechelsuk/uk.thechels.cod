@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water leaking from manhole centre of main tewkesbury road, 26th January :- [8766427](https://www.fixmystreet.com/report/8766427)
+- Tarmac around manhole is missing, 25th January :- [8766279](https://www.fixmystreet.com/report/8766279)
 - Large pothole Churchdown lane, 25th January :- [8766093](https://www.fixmystreet.com/report/8766093)
 - Large pothole near Churchdown lane sign as seen in photo, 25th January :- [8766083](https://www.fixmystreet.com/report/8766083)
 - Huge pothole. Can stand in with still half a metre space, 25th January :- [8765803](https://www.fixmystreet.com/report/8765803)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Collapsed repair on warden hill road nr junction with Bournside close, 25th January :- [8764309](https://www.fixmystreet.com/report/8764309)
 - Very deep pot hole on warden hill road nr junction of castanum court, 25th January :- [8764293](https://www.fixmystreet.com/report/8764293)
 - Very large and deep pothole outside number 10 warden hill road, 25th January :- [8764279](https://www.fixmystreet.com/report/8764279)
-- Pothole on warden hill Road outside number 9, 25th January :- [8764253](https://www.fixmystreet.com/report/8764253)
-- Number of potholes, 25th January :- [8764245](https://www.fixmystreet.com/report/8764245)
 
 <!-- fix_marker ends -->

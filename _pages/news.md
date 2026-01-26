@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man in hospital with serious injuries after crash ([6 hours ago](https://www.bbc.com/news/articles/c9wxqp5v2e4o?at_medium=RSS&at_campaign=rss))
-- Five arrested after e-scooter rider seriously injured ([6 hours ago](https://www.bbc.com/news/articles/c150dgnq45wo?at_medium=RSS&at_campaign=rss))
-- Silent protestors gather in solidarity with Iran ([6 hours ago](https://www.bbc.com/news/articles/cy4g1me23x7o?at_medium=RSS&at_campaign=rss))
-- Bereaved parents fear delays to social media ban could harm children ([12 hours ago](https://www.bbc.com/news/articles/cp825p2g2rgo?at_medium=RSS&at_campaign=rss))
-- Owner says microchipped dog wrongly sent to pound ([15 hours ago](https://www.bbc.com/news/articles/czx17pe80dvo?at_medium=RSS&at_campaign=rss))
-- In Pictures: 'Sun sculpture' and 'royalty on wheels' ([15 hours ago](https://www.bbc.com/news/articles/cjw1ypnj12do?at_medium=RSS&at_campaign=rss))
+- Man in hospital with serious injuries after crash ([8 hours ago](https://www.bbc.com/news/articles/c9wxqp5v2e4o?at_medium=RSS&at_campaign=rss))
+- Five arrested after e-scooter rider seriously injured ([8 hours ago](https://www.bbc.com/news/articles/c150dgnq45wo?at_medium=RSS&at_campaign=rss))
+- Silent protestors gather in solidarity with Iran ([9 hours ago](https://www.bbc.com/news/articles/cy4g1me23x7o?at_medium=RSS&at_campaign=rss))
+- Bereaved parents fear delays to social media ban could harm children ([14 hours ago](https://www.bbc.com/news/articles/cp825p2g2rgo?at_medium=RSS&at_campaign=rss))
+- Owner says microchipped dog wrongly sent to pound ([18 hours ago](https://www.bbc.com/news/articles/czx17pe80dvo?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Sun sculpture' and 'royalty on wheels' ([18 hours ago](https://www.bbc.com/news/articles/cjw1ypnj12do?at_medium=RSS&at_campaign=rss))
 - Police hunt wanted man who escaped custody ([1 days ago](https://www.bbc.com/news/articles/crkr8880z04o?at_medium=RSS&at_campaign=rss))
 - Exhibition celebrates imagination of toy maker ([1 days ago](https://www.bbc.com/news/articles/cx2ldlp5lpro?at_medium=RSS&at_campaign=rss))
 - 'Overwhelming' support as community centre reopens ([1 days ago](https://www.bbc.com/news/articles/cn566k4n4wyo?at_medium=RSS&at_campaign=rss))
@@ -52,8 +52,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Volunteers help residents get confident online ([17 days ago](https://www.bbc.co.uk/sounds/play/p0mst4pw?at_medium=RSS&at_campaign=rss))
 - Christmas Day climbing event raises nearly £4,000 for cancer charity ([19 days ago](https://gloucesternewscentre.co.uk/christmas-day-climbing-event-raises-nearly-4000-for-cancer-charity/))
 - Business manager of Cheltenham McDonald’s wins prestigious global accolade ([20 days ago](https://gloucesternewscentre.co.uk/business-manager-of-cheltenham-mcdonalds-wins-prestigious-global-accolade/))
-- The Big Cases ([24 days ago](https://www.bbc.co.uk/iplayer/episode/p0g9z2dc?at_medium=RSS&at_campaign=rss))
-- The Big Cases ([24 days ago](https://www.bbc.co.uk/iplayer/episode/p0gz4ppl?at_medium=RSS&at_campaign=rss))
+- The Big Cases ([25 days ago](https://www.bbc.co.uk/iplayer/episode/p0g9z2dc?at_medium=RSS&at_campaign=rss))
+- The Big Cases ([25 days ago](https://www.bbc.co.uk/iplayer/episode/p0gz4ppl?at_medium=RSS&at_campaign=rss))
 - Man sexually assaulted teenage girl on Cheltenham bus ([26 days ago](https://gloucesternewscentre.co.uk/man-sexually-assaulted-teenage-girl-on-cheltenham-bus/))
 
 <!-- news_marker ends -->

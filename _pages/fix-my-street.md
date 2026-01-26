@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Repeat report as potholes NOT repaired before and after roaf crossing, 26th January :- [8766506](https://www.fixmystreet.com/report/8766506)
+- Road now needs sweepong after works, 26th January :- [8766505](https://www.fixmystreet.com/report/8766505)
+- Repeat report as case closed without action, 26th January :- [8766503](https://www.fixmystreet.com/report/8766503)
 - Water leaking from manhole centre of main tewkesbury road, 26th January :- [8766427](https://www.fixmystreet.com/report/8766427)
 - Tarmac around manhole is missing, 25th January :- [8766279](https://www.fixmystreet.com/report/8766279)
 - Large pothole Churchdown lane, 25th January :- [8766093](https://www.fixmystreet.com/report/8766093)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Utility cover sinking, 25th January :- [8764692](https://www.fixmystreet.com/report/8764692)
 - Litter between Elmbridge Court Roundabout and Junction 10 M5, 25th January :- [8764577](https://www.fixmystreet.com/report/8764577)
 - Dumped sofa, 25th January :- [8764362](https://www.fixmystreet.com/report/8764362)
-- Collapsed repair on warden hill road nr junction with Bournside close, 25th January :- [8764309](https://www.fixmystreet.com/report/8764309)
-- Very deep pot hole on warden hill road nr junction of castanum court, 25th January :- [8764293](https://www.fixmystreet.com/report/8764293)
-- Very large and deep pothole outside number 10 warden hill road, 25th January :- [8764279](https://www.fixmystreet.com/report/8764279)
 
 <!-- fix_marker ends -->

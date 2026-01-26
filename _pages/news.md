@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man in hospital with serious injuries after crash ([10 hours ago](https://www.bbc.com/news/articles/c9wxqp5v2e4o?at_medium=RSS&at_campaign=rss))
-- Five arrested after e-scooter rider seriously injured ([11 hours ago](https://www.bbc.com/news/articles/c150dgnq45wo?at_medium=RSS&at_campaign=rss))
-- Silent protestors gather in solidarity with Iran ([11 hours ago](https://www.bbc.com/news/articles/cy4g1me23x7o?at_medium=RSS&at_campaign=rss))
-- Bereaved parents fear delays to social media ban could harm children ([16 hours ago](https://www.bbc.com/news/articles/cp825p2g2rgo?at_medium=RSS&at_campaign=rss))
-- Owner says microchipped dog wrongly sent to pound ([20 hours ago](https://www.bbc.com/news/articles/czx17pe80dvo?at_medium=RSS&at_campaign=rss))
-- In Pictures: 'Sun sculpture' and 'royalty on wheels' ([20 hours ago](https://www.bbc.com/news/articles/cjw1ypnj12do?at_medium=RSS&at_campaign=rss))
+- Man in hospital with serious injuries after crash ([12 hours ago](https://www.bbc.com/news/articles/c9wxqp5v2e4o?at_medium=RSS&at_campaign=rss))
+- Five arrested after e-scooter rider seriously injured ([12 hours ago](https://www.bbc.com/news/articles/c150dgnq45wo?at_medium=RSS&at_campaign=rss))
+- Silent protestors gather in solidarity with Iran ([12 hours ago](https://www.bbc.com/news/articles/cy4g1me23x7o?at_medium=RSS&at_campaign=rss))
+- Bereaved parents fear delays to social media ban could harm children ([18 hours ago](https://www.bbc.com/news/articles/cp825p2g2rgo?at_medium=RSS&at_campaign=rss))
+- Owner says microchipped dog wrongly sent to pound ([21 hours ago](https://www.bbc.com/news/articles/czx17pe80dvo?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Sun sculpture' and 'royalty on wheels' ([21 hours ago](https://www.bbc.com/news/articles/cjw1ypnj12do?at_medium=RSS&at_campaign=rss))
 - Police hunt wanted man who escaped custody ([1 days ago](https://www.bbc.com/news/articles/crkr8880z04o?at_medium=RSS&at_campaign=rss))
 - Exhibition celebrates imagination of toy maker ([1 days ago](https://www.bbc.com/news/articles/cx2ldlp5lpro?at_medium=RSS&at_campaign=rss))
 - 'Overwhelming' support as community centre reopens ([1 days ago](https://www.bbc.com/news/articles/cn566k4n4wyo?at_medium=RSS&at_campaign=rss))

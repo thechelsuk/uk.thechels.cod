@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of potholes and road surface breaking up, 27th January :- [8782932](https://www.fixmystreet.com/report/8782932)
+- Many potholes, 27th January :- [8782821](https://www.fixmystreet.com/report/8782821)
+- 2 potholes, 27th January :- [8782527](https://www.fixmystreet.com/report/8782527)
 - Pothole oh the left side as you turn the corner towards London Road, 27th January :- [8782332](https://www.fixmystreet.com/report/8782332)
 - Large accumulation of potholes across the road, 27th January :- [8782244](https://www.fixmystreet.com/report/8782244)
 - Nasty deep pothole in front of bus stop, 27th January :- [8782135](https://www.fixmystreet.com/report/8782135)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - By the bus stop and barrier to the footpath, 27th January :- [8780641](https://www.fixmystreet.com/report/8780641)
 - A long gash outside No 48 Swindon Lane, 27th January :- [8780592](https://www.fixmystreet.com/report/8780592)
 - Broken street name sign, 27th January :- [8780189](https://www.fixmystreet.com/report/8780189)
-- A pothole in road problem, 27th January :- [8780432](https://www.fixmystreet.com/report/8780432)
-- A pothole in road problem, 27th January :- [8780431](https://www.fixmystreet.com/report/8780431)
-- TMC - Defects -CW6 Potholes  problem, 27th January :- [8780446](https://www.fixmystreet.com/report/8780446)
 
 <!-- fix_marker ends -->

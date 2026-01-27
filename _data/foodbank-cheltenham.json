@@ -23,6 +23,8 @@
     "registration_id": "251549",
     "register_url": "https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=251549&subid=0"
   },
+  "delivery_address": "",
+  "delivery_lat_lng": null,
   "locations": [
     {
       "id": "224613ac-c91e-4531-8a23-d8220086e9b9",

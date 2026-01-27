@@ -23,6 +23,8 @@
     "registration_id": "1063434",
     "register_url": "https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1063434&subid=0"
   },
+  "delivery_address": "",
+  "delivery_lat_lng": null,
   "locations": [],
   "donationpoints": [
     {

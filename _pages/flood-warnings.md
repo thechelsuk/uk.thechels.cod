@@ -64,6 +64,14 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 28 January 2026 or as the situation changes.
 
+- Flood alert: Middle Avon Rugby to Bidford
+- High river levels today may lead to flooding. 
+Flooding is possible on 28 January 2026 . 
+Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 29 January 2026 or as the situation changes.
+
 - Warning no longer in force: Tributaries in Gloucester
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
 Weather conditions are expected to improve and no further flooding is expected.   
@@ -98,7 +106,15 @@ Take care and avoid walking, cycling or driving through flood water .
 This message will be updated by 10:00AM on 28 January 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- Rising river levels may lead to flooding.  Flooding is possible today 27 January 2026 .  Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  We are closely monitoring the situation .  Avoid using low lying footpaths and any bridges near local watercourses .  This message will be updated by 10:00AM on 28 January 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible 28 January 2026.
+
+Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.
+
+We are closely monitoring the situation.
+
+Avoid using low lying footpaths and any bridges near local watercourses.
+
+This message will be updated by 10:00AM on 29 January 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
 - High river levels today may lead to flooding. 
@@ -155,6 +171,14 @@ Flooding may affect property and roads in and around Severn Ham and access to Ab
 We are closely monitoring the situation . 
 Avoid using low lying footpaths and any bridges near local watercourses . 
 This message will be updated by 10:00AM on 28 January 2026 or as the situation changes. 
+
+- Flood warning: River Severn at Apperley and The Leigh
+- Rising river levels are expected to cause flooding this morning. 
+Flooding is expected on 28 January 2026 . 
+Flooding may affect the B4213 at Haw Bridge. Predicted peak at Haw Bridge 4.7m to 4.9m on 28/01 PM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 29 January 2026 or as the situation changes. 
 
 - Flood alert: Lower Bristol Avon area
 - Rising river levels this afternoon may lead to flooding. 

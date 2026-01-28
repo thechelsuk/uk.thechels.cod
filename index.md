@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 28 January 2026
 
-- The average temperature today is 5.21˚C,
-- With highs of 6.08˚C and lows of 3.8˚C,
-- It may feel like 4.4˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 989hPa and humidity is 85%
+- The average temperature today is 3.38˚C,
+- With highs of 5.16˚C and lows of 2.04˚C,
+- It may feel like 3.38˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 990hPa and humidity is 89%
 - The sun will rise at 07:54 and set at 16:48
 
 <!-- weather_marker ends -->

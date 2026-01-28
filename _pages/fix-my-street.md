@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned caravan, 28th January :- [8783394](https://www.fixmystreet.com/report/8783394)
+- This is developing into a major pothole, 28th January :- [8783392](https://www.fixmystreet.com/report/8783392)
 - Series of potholes and road surface breaking up, 27th January :- [8782932](https://www.fixmystreet.com/report/8782932)
 - Many potholes, 27th January :- [8782821](https://www.fixmystreet.com/report/8782821)
 - 2 potholes, 27th January :- [8782527](https://www.fixmystreet.com/report/8782527)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large pothole, 27th January :- [8781024](https://www.fixmystreet.com/report/8781024)
 - Deep pothole, 27th January :- [8780966](https://www.fixmystreet.com/report/8780966)
 - By the bus stop and barrier to the footpath, 27th January :- [8780641](https://www.fixmystreet.com/report/8780641)
-- A long gash outside No 48 Swindon Lane, 27th January :- [8780592](https://www.fixmystreet.com/report/8780592)
-- Broken street name sign, 27th January :- [8780189](https://www.fixmystreet.com/report/8780189)
 
 <!-- fix_marker ends -->

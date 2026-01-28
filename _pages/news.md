@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Major incident declared as floods hit homes and roads ([5 hours ago](https://www.bbc.com/news/articles/cvgpzl87v8xo?at_medium=RSS&at_campaign=rss))
-- Why celebrities keep moving to the Cotswolds - as new star buys mansion ([7 hours ago](https://www.bbc.com/news/articles/c0lx26kl915o?at_medium=RSS&at_campaign=rss))
-- 'My brother's tinnitus was a brain tumour' ([11 hours ago](https://www.bbc.com/news/articles/cy7m20lv132o?at_medium=RSS&at_campaign=rss))
-- Four Covid era temporary courts made permanent ([18 hours ago](https://www.bbc.com/news/articles/c62vrzy0660o?at_medium=RSS&at_campaign=rss))
-- High Court challenge over home birth suspension ([21 hours ago](https://www.bbc.com/news/articles/c3veed2139qo?at_medium=RSS&at_campaign=rss))
-- New officers recruited to teach kids 'hard truths' ([21 hours ago](https://www.bbc.com/news/articles/cql44054rd3o?at_medium=RSS&at_campaign=rss))
+- Major incident declared as floods hit homes and roads ([7 hours ago](https://www.bbc.com/news/articles/cvgpzl87v8xo?at_medium=RSS&at_campaign=rss))
+- Why celebrities keep moving to the Cotswolds - as new star buys mansion ([8 hours ago](https://www.bbc.com/news/articles/c0lx26kl915o?at_medium=RSS&at_campaign=rss))
+- 'My brother's tinnitus was a brain tumour' ([12 hours ago](https://www.bbc.com/news/articles/cy7m20lv132o?at_medium=RSS&at_campaign=rss))
+- Four Covid era temporary courts made permanent ([20 hours ago](https://www.bbc.com/news/articles/c62vrzy0660o?at_medium=RSS&at_campaign=rss))
+- High Court challenge over home birth suspension ([22 hours ago](https://www.bbc.com/news/articles/c3veed2139qo?at_medium=RSS&at_campaign=rss))
+- New officers recruited to teach kids 'hard truths' ([22 hours ago](https://www.bbc.com/news/articles/cql44054rd3o?at_medium=RSS&at_campaign=rss))
 - 'Silicon Valley of the UK can now happen' ([1 days ago](https://www.bbc.com/news/articles/c74wvk14nxko?at_medium=RSS&at_campaign=rss))
 - Police chief 'welcomes' merging of forces ([1 days ago](https://www.bbc.com/news/articles/clymrk207j3o?at_medium=RSS&at_campaign=rss))
 - Man aged 18 dies following collision involving e-scooter and car in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/man-aged-18-dies-following-collision-involving-e-scooter-and-car-in-cheltenham/))

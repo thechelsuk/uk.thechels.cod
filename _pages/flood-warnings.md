@@ -83,13 +83,6 @@ This message will be updated by 12:00PM on 29 January 2026 or as the situation c
 Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.
 This message will be updated by 11:00AM on 29 January 2026 or as the situation changes.
 
-- Warning no longer in force: Tributaries in Gloucester
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Warning no longer in force: River Stour in South Warwickshire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
 Weather conditions are expected to improve and no further flooding is expected.   
@@ -100,13 +93,6 @@ If you have been evacuated only return to your property once the emergency servi
 - Warning no longer in force: Rivers in South Worcestershire
 - The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 
 Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: Tributaries in Cheltenham and Tewkesbury
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
 We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 

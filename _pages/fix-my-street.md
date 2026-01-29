@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole, 29th January :- [8797557](https://www.fixmystreet.com/report/8797557)
+- Top of green lane, 29th January :- [8797361](https://www.fixmystreet.com/report/8797361)
+- Many potholes causing very broken and uneven road surface at junction with Ashtree Mews, 29th January :- [8797122](https://www.fixmystreet.com/report/8797122)
 - 3 large potholes getting larger daily due to increased school traffic ., 29th January :- [8796905](https://www.fixmystreet.com/report/8796905)
 - 15 inch pothole down to sub gravel base., 29th January :- [8796861](https://www.fixmystreet.com/report/8796861)
 - Fridge freezer on pavement, 29th January :- [8796672](https://www.fixmystreet.com/report/8796672)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Line of potholes after crossing, 29th January :- [8796239](https://www.fixmystreet.com/report/8796239)
 - It's a reverse pothole... but still dangerous, 29th January :- [8796221](https://www.fixmystreet.com/report/8796221)
 - Two very deep potholes outside 108 Salisbury Avenue, 29th January :- [8796185](https://www.fixmystreet.com/report/8796185)
-- Long collection of potholes in a row, 29th January :- [8796183](https://www.fixmystreet.com/report/8796183)
-- Tree root growing under path on bridge will lead to path and structural damage to the bridge., 29th January :- [8796161](https://www.fixmystreet.com/report/8796161)
-- Failed pothole turning into another dangerous double, 29th January :- [8796124](https://www.fixmystreet.com/report/8796124)
 
 <!-- fix_marker ends -->

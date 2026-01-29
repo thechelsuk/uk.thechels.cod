@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Boundary fence being moved, is council land being illegally taken?, 29th January :- [8791932](https://www.fixmystreet.com/report/8791932)
 - All street lights out on orchard Avenue, 29th January :- [8791885](https://www.fixmystreet.com/report/8791885)
 - All street lights have been out since Monday, 29th January :- [8791884](https://www.fixmystreet.com/report/8791884)
 - Street cleaning needed, 28th January :- [8791694](https://www.fixmystreet.com/report/8791694)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street lighting out in Tamar road Cheltenham, 28th January :- [8790302](https://www.fixmystreet.com/report/8790302)
 - A pothole in road problem, 28th January :- [8790260](https://www.fixmystreet.com/report/8790260)
 - Temp metal road sign left on grass verge., 28th January :- [8790098](https://www.fixmystreet.com/report/8790098)
-- Another pot hole after bridge, 28th January :- [8789969](https://www.fixmystreet.com/report/8789969)
 
 <!-- fix_marker ends -->

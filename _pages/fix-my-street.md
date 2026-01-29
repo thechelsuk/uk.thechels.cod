@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Crater at edge of road, 29th January :- [8792557](https://www.fixmystreet.com/report/8792557)
+- Large Pothole towards edge of road, 29th January :- [8792380](https://www.fixmystreet.com/report/8792380)
+- Over flowing bin, 29th January :- [8792301](https://www.fixmystreet.com/report/8792301)
+- Pothole that is VERY uncomfortable/dangerous to cycle over/through., 29th January :- [8792088](https://www.fixmystreet.com/report/8792088)
+- Very deep and long hole, 29th January :- [8792065](https://www.fixmystreet.com/report/8792065)
+- Road verges are covered in litter, 29th January :- [8792053](https://www.fixmystreet.com/report/8792053)
 - Boundary fence being moved, is council land being illegally taken?, 29th January :- [8791932](https://www.fixmystreet.com/report/8791932)
 - All street lights out on orchard Avenue, 29th January :- [8791885](https://www.fixmystreet.com/report/8791885)
 - All street lights have been out since Monday, 29th January :- [8791884](https://www.fixmystreet.com/report/8791884)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - The temporary lights have been placed 25 yards from a signalled road junction, cars are jumping the junction lights in order to go through the temporary lights when on green. Prioviously road works sround north upton labe gave resulted in 4 way lightc to includevthe Greenways traffic junction. This is now not the case, so when exiting Greenways on a green light cars are constantly having near misses with cars not stoppingat a red light on barnwood road. Wales and west refuse to accept there is a safety issue. The tempirary lights need to be moved to the junction of Greenways and have the main junction light tutned off to allow safe exit for Greenway residents, 28th January :- [8790935](https://www.fixmystreet.com/report/8790935)
 - Dangerous slab is a hazard to pedestrians, 28th January :- [8790809](https://www.fixmystreet.com/report/8790809)
 - Hope by drain, 28th January :- [8790759](https://www.fixmystreet.com/report/8790759)
-- Hope in speed bump, 28th January :- [8790753](https://www.fixmystreet.com/report/8790753)
-- Large tree/roots causing a mound in the pavement, 28th January :- [8790641](https://www.fixmystreet.com/report/8790641)
-- Repair effected just after Christmas has once again failed, 28th January :- [8790624](https://www.fixmystreet.com/report/8790624)
-- Street lighting out in Tamar road Cheltenham, 28th January :- [8790302](https://www.fixmystreet.com/report/8790302)
-- A pothole in road problem, 28th January :- [8790260](https://www.fixmystreet.com/report/8790260)
-- Temp metal road sign left on grass verge., 28th January :- [8790098](https://www.fixmystreet.com/report/8790098)
 
 <!-- fix_marker ends -->

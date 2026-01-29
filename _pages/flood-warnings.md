@@ -83,20 +83,6 @@ This message will be updated by 12:00PM on 29 January 2026 or as the situation c
 Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.
 This message will be updated by 11:00AM on 29 January 2026 or as the situation changes.
 
-- Warning no longer in force: River Stour in South Warwickshire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: Rivers in South Worcestershire
-- The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Severn in Gloucestershire
 - High river levels today may lead to flooding. Flooding is possible on 28 January 2026 . Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. Predicted peaks:- Mythe 3.9m to 4.1m on Wednesday 28 January 2026, Haw Bridge 4.8m to 5.0m on Wednesday 28 January 2026. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 29 January 2026 or as the situation changes.
 
@@ -141,13 +127,6 @@ We are closely monitoring the situation.  Take care and avoid walking, cycling o
 
 This message will be updated by 11:00AM on 29th January 2026 or as the situation changes.
 
-- Warning no longer in force: Rivers in the Forest of Dean
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Wye in Gloucestershire
 - River levels are rising as a response to the recent rainfall and may continue to cause flooding. Flooding is possible on 28th January 2026. Further rainfall is forecast over the next 24 hours.
 Flooding may affect low lying land and roads along the River Wye. 
@@ -158,18 +137,13 @@ We are closely monitoring the situation. Take care and avoid walking, cycling or
 This message will be updated by 11:00AM on 29th January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- High river levels today may lead to flooding. Flooding is possible on 28 January 2026 . Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Worcester 3.9m to 4.1m this morning Wednesday 28 January 2026, Diglis 3.8m to 4m this morning Wednesday 28 January 2026, Kempsey Yacht Club 6m to 6.2m this morning Wednesday 28 January 2026 and Saxons Lode 4.5m to 4.7m this afternoon on Wednesday 28 January 2026. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 29 January 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 29 January 2026 . Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Worcester peaked at 4.01m on 28/01/26 Diglis peaked at 3.87m on 28/01/26, Kempsey Yacht Club peaked at 6.05m on 28/01/26 and Saxons Lode 4.6m to 4.7m this morning on Thursday 29 January 2026. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 30 January 2026 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
-- High river levels are expected to cause flooding today.  Flooding is expected on 28 January 2026 .  Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe 3.9m to 4.1m on 28/01 PM, Upper Pound 3.9m to 4.1m on 28/01 PM.  We are closely monitoring the situation .  Avoid using low lying footpaths and any bridges near local watercourses .  This message will be updated by 10:00AM on 29 January 2026 or as the situation changes.
+- High river levels are expected to cause flooding today. Flooding is expected on 29 January 2026 . Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe 4.0m to 4.1m on 29/01 AM, Upper Pound 4.0m to 4.1m on 29/01 AM. We are closely monitoring the situation . Avoid using low lying footpaths and any bridges near local watercourses . This message will be updated by 10:00AM on 30 January 2026 or as the situation changes.
 
 - Flood warning: River Severn at Apperley and The Leigh
-- Rising river levels are expected to cause flooding this morning. 
-Flooding is expected on 28 January 2026 . 
-Flooding may affect the B4213 at Haw Bridge. Predicted peak at Haw Bridge 4.7m to 4.9m on 28/01 PM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 29 January 2026 or as the situation changes. 
+- Rising river levels are expected to cause flooding this today.  Flooding is expected on 29 January 2026 .  Flooding may affect the B4213 at Haw Bridge. Predicted peak at Haw Bridge 4.9m to 4.95m on 29/01 AM.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 30 January 2026 or as the situation changes.
 
 - Warning no longer in force: Lower Bristol Avon area
 - The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 

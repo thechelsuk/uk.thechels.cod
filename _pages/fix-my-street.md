@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep trench across the lane so can’t avoid., 29th January :- [8797914](https://www.fixmystreet.com/report/8797914)
+- Large pothole, 29th January :- [8797838](https://www.fixmystreet.com/report/8797838)
 - Pot hole, 29th January :- [8797557](https://www.fixmystreet.com/report/8797557)
 - Top of green lane, 29th January :- [8797361](https://www.fixmystreet.com/report/8797361)
 - Many potholes causing very broken and uneven road surface at junction with Ashtree Mews, 29th January :- [8797122](https://www.fixmystreet.com/report/8797122)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Previous repair failing AGAIN, 29th January :- [8796280](https://www.fixmystreet.com/report/8796280)
 - The verge has been badly damaged by a recently jack knifed lorry which got stuck on it causing ruts and muddy surface where there was grass,., 29th January :- [8796243](https://www.fixmystreet.com/report/8796243)
 - Line of potholes after crossing, 29th January :- [8796239](https://www.fixmystreet.com/report/8796239)
-- It's a reverse pothole... but still dangerous, 29th January :- [8796221](https://www.fixmystreet.com/report/8796221)
-- Two very deep potholes outside 108 Salisbury Avenue, 29th January :- [8796185](https://www.fixmystreet.com/report/8796185)
 
 <!-- fix_marker ends -->

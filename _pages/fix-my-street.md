@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Square 8" pothole, 29th January :- [8798622](https://www.fixmystreet.com/report/8798622)
 - Deep trench across the lane so can’t avoid., 29th January :- [8797914](https://www.fixmystreet.com/report/8797914)
 - Large pothole, 29th January :- [8797838](https://www.fixmystreet.com/report/8797838)
 - Pot hole, 29th January :- [8797557](https://www.fixmystreet.com/report/8797557)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large pothole, centre of the road north bound, 29th January :- [8796300](https://www.fixmystreet.com/report/8796300)
 - Previous repair failing AGAIN, 29th January :- [8796280](https://www.fixmystreet.com/report/8796280)
 - The verge has been badly damaged by a recently jack knifed lorry which got stuck on it causing ruts and muddy surface where there was grass,., 29th January :- [8796243](https://www.fixmystreet.com/report/8796243)
-- Line of potholes after crossing, 29th January :- [8796239](https://www.fixmystreet.com/report/8796239)
 
 <!-- fix_marker ends -->

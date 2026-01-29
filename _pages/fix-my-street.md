@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street cleaning needed, 28th January :- [8791694](https://www.fixmystreet.com/report/8791694)
 - Street name plate has been hit and the frame is mangled, 28th January :- [8791438](https://www.fixmystreet.com/report/8791438)
 - Several pot holes from the umbrella public house along orchard way towards princess Eliza Beth way., 28th January :- [8791342](https://www.fixmystreet.com/report/8791342)
 - Pothole forming in road, 28th January :- [8791282](https://www.fixmystreet.com/report/8791282)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Another pot hole after bridge, 28th January :- [8789969](https://www.fixmystreet.com/report/8789969)
 - Sandbag from temp Road sign left at foot of lamp post/bus stop sign., 28th January :- [8789947](https://www.fixmystreet.com/report/8789947)
 - Metal frame for temporary road sign left on top of waste bin., 28th January :- [8789837](https://www.fixmystreet.com/report/8789837)
-- Contractors road sign left beind, 28th January :- [8789820](https://www.fixmystreet.com/report/8789820)
 
 <!-- fix_marker ends -->

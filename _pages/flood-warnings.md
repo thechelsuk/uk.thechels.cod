@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- River levels are now falling at the Fosseway, Brokenborough and Great Somerford gauges. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is forecast for Thursday. River levels are expected to rise slightly in response to this rain. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 29 January 2026 or as the situation changes.
+- River levels are now falling at the Fosseway, Brokenborough and Great Somerford gauges. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is forecast for Friday. River levels are expected to rise slightly in response to this rain. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 30 January 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -77,9 +77,12 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This messages will be updated by 12pm on 30 Jan 2026 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
-- High river levels remain today at the Bidford gauge, which may lead to flooding. Flooding is possible on 28 January 2026.
-Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.
-This message will be updated by 11:00AM on 29 January 2026 or as the situation changes.
+- High river levels today may lead to flooding. 
+Flooding is possible on 29 January 2026 . 
+Further rainfall is forecast overnight. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
+We are monitoring rainfall and river levels . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 30 January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - High river levels today may lead to flooding. Flooding is possible on 29 January 2026 . Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. Predicted peaks:- Mythe 4.0m to 4.1m this morning, Thursday 29 January 2026, Haw Bridge 4.9m to 4.95m this morning, Thursday 29 January 2026, Sandhurst 3.18m to 3.2m this morning, Thursday 29 January 2026. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 30 January 2026 or as the situation changes.
@@ -137,13 +140,6 @@ This message will be updated by 11:00AM on 30th January 2026 or as the situation
 
 - Flood warning: River Severn at Apperley and The Leigh
 - Rising river levels are expected to cause flooding this today.  Flooding is expected on 29 January 2026 .  Flooding may affect the B4213 at Haw Bridge. Predicted peak at Haw Bridge 4.9m to 4.95m on 29/01 AM.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 30 January 2026 or as the situation changes.
-
-- Warning no longer in force: Lower Bristol Avon area
-- The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 

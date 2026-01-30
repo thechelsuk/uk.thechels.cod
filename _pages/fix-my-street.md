@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes, 30th January :- [8799032](https://www.fixmystreet.com/report/8799032)
+- Surfacing has broken up, 30th January :- [8799017](https://www.fixmystreet.com/report/8799017)
 - Pothole in road close to kerb, 30th January :- [8798934](https://www.fixmystreet.com/report/8798934)
 - A serious of huge potholes extending for 1 mile up the road, 29th January :- [8798789](https://www.fixmystreet.com/report/8798789)
 - There are 2 potholes in the road. One has been imperfectly mended with tarmac, leaving some of the hole unfilled. The other hasn't been repaired at all., 29th January :- [8798781](https://www.fixmystreet.com/report/8798781)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tarmac failing around manhole cover, 29th January :- [8796422](https://www.fixmystreet.com/report/8796422)
 - Long pothole in centre of carriageway, 29th January :- [8796399](https://www.fixmystreet.com/report/8796399)
 - 3 potholes, surface below exposed, 29th January :- [8796386](https://www.fixmystreet.com/report/8796386)
-- Two potholes joined into one, 29th January :- [8796375](https://www.fixmystreet.com/report/8796375)
-- Manhole cover surrounded by large pothole, 29th January :- [8796327](https://www.fixmystreet.com/report/8796327)
 
 <!-- fix_marker ends -->

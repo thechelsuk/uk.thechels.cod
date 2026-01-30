@@ -10,17 +10,17 @@ permalink: /foodbank
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2026-01-06
+Last updated: 2026-01-30
 
-- Toilet Rolls
+- Cereal
 - Deodorant
 - Tinned Cold Meat
-- Cereal
 - Adult Toothpaste
+- Cuppa Soups Or Tinned Soups
 - Washing Up Liquid
 - UHT Milk
 - Fruit Juice / Squash
-- Cuppa Soups Or Tinned Soups
+- Toilet Rolls
 <!-- summary1_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)

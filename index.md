@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 30 January 2026
 
-- The average temperature today is 7.94˚C,
-- With highs of 8.3˚C and lows of 7.38˚C,
-- It may feel like 4.23˚C with scattered clouds
-- The wind speed is 7.2m/s and visibility is 8000m
-- The pressure is 982hPa and humidity is 93%
+- The average temperature today is 7.11˚C,
+- With highs of 7.75˚C and lows of 6.27˚C,
+- It may feel like 5.61˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 982hPa and humidity is 86%
 - The sun will rise at 07:51 and set at 16:51
 
 <!-- weather_marker ends -->

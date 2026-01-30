@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 street lamps on Hillview avenue not working and haven’t been for a long time, 30th January :- [8805262](https://www.fixmystreet.com/report/8805262)
+- Pothole by speed bump, 30th January :- [8804980](https://www.fixmystreet.com/report/8804980)
+- Severe pothole, 30th January :- [8804915](https://www.fixmystreet.com/report/8804915)
 - Big pothole in left hand lane going up Birdlip Hill from the Air balloon Roundabout., 30th January :- [8804845](https://www.fixmystreet.com/report/8804845)
 - At least 10 potholes in one area!, 30th January :- [8804771](https://www.fixmystreet.com/report/8804771)
 - With ally way light gone and the second ligh really dull, 30th January :- [8804731](https://www.fixmystreet.com/report/8804731)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Red 2 metre sign left by council, 30th January :- [8803218](https://www.fixmystreet.com/report/8803218)
 - Single pothole, 30th January :- [8803188](https://www.fixmystreet.com/report/8803188)
 - Large number of potholes and uneven surface on eastbound carriage way just before Kilham Lane, 30th January :- [8803113](https://www.fixmystreet.com/report/8803113)
-- Multiple potholes on the entrance to Coriander Drive, 30th January :- [8802972](https://www.fixmystreet.com/report/8802972)
-- Large pothole, mid carriageway heading toward PEW, 30th January :- [8802864](https://www.fixmystreet.com/report/8802864)
-- Lots of potholes, 30th January :- [8802826](https://www.fixmystreet.com/report/8802826)
 
 <!-- fix_marker ends -->

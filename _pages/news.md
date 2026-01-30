@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Community cafe closing after battle to stay open ([1 hours ago](https://www.bbc.com/news/articles/cly9ry36740o?at_medium=RSS&at_campaign=rss))
-- Plans for new £5m GP surgery and homes to go ahead ([4 hours ago](https://www.bbc.com/news/articles/cddgj406196o?at_medium=RSS&at_campaign=rss))
-- Trail celebrates workers who built WW2 aircraft ([6 hours ago](https://www.bbc.com/news/articles/cgrdkrp1zzro?at_medium=RSS&at_campaign=rss))
-- Cheltenham Festivals looks to widen participation ([12 hours ago](https://www.bbc.com/news/articles/c2k9ypl53wzo?at_medium=RSS&at_campaign=rss))
-- New stretch of road to open on A417 Missing Link ([12 hours ago](https://www.bbc.com/news/videos/cje1gzqkkkqo?at_medium=RSS&at_campaign=rss))
-- Tourette's film nominated for six BAFTA awards ([22 hours ago](https://www.bbc.com/news/articles/cqj21egx8qvo?at_medium=RSS&at_campaign=rss))
+- Community cafe closing after battle to stay open ([3 hours ago](https://www.bbc.com/news/articles/cly9ry36740o?at_medium=RSS&at_campaign=rss))
+- Plans for new £5m GP surgery and homes to go ahead ([6 hours ago](https://www.bbc.com/news/articles/cddgj406196o?at_medium=RSS&at_campaign=rss))
+- Trail celebrates workers who built WW2 aircraft ([8 hours ago](https://www.bbc.com/news/articles/cgrdkrp1zzro?at_medium=RSS&at_campaign=rss))
+- Cheltenham Festivals looks to widen participation ([14 hours ago](https://www.bbc.com/news/articles/c2k9ypl53wzo?at_medium=RSS&at_campaign=rss))
+- New stretch of road to open on A417 Missing Link ([14 hours ago](https://www.bbc.com/news/videos/cje1gzqkkkqo?at_medium=RSS&at_campaign=rss))
+- Tourette's film nominated for six BAFTA awards ([1 days ago](https://www.bbc.com/news/articles/cqj21egx8qvo?at_medium=RSS&at_campaign=rss))
 - Taxi licence revoked over illegal number plate ([1 days ago](https://www.bbc.com/news/articles/cwywdxz0l6ro?at_medium=RSS&at_campaign=rss))
 - Dust from stone-crushing site sparks health concerns ([1 days ago](https://www.bbc.com/news/articles/c14ryp0nxd7o?at_medium=RSS&at_campaign=rss))
 - Cheltenham community praised for generosity in Salvation Army’s Christmas Appeal ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-praised-for-generosity-in-salvation-armys-christmas-appeal/))

@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Caravan dumped in layby, 30th January :- [8805537](https://www.fixmystreet.com/report/8805537)
+- Rectangular pothole in road, 30th January :- [8805535](https://www.fixmystreet.com/report/8805535)
+- Road in an awful state, 30th January :- [8805514](https://www.fixmystreet.com/report/8805514)
+- Road in an awful state, 30th January :- [8805511](https://www.fixmystreet.com/report/8805511)
+- Potholes, 30th January :- [8805499](https://www.fixmystreet.com/report/8805499)
+- Awful potholes again, 30th January :- [8805482](https://www.fixmystreet.com/report/8805482)
+- Pavement blocked by building rubble, 30th January :- [8805414](https://www.fixmystreet.com/report/8805414)
+- 2 pothole on the inside carrieway opposite the small layby when your going toward Cheltenham from Gloucester, 30th January :- [8805361](https://www.fixmystreet.com/report/8805361)
 - 3 street lamps on Hillview avenue not working and haven’t been for a long time, 30th January :- [8805262](https://www.fixmystreet.com/report/8805262)
 - Pothole by speed bump, 30th January :- [8804980](https://www.fixmystreet.com/report/8804980)
 - Severe pothole, 30th January :- [8804915](https://www.fixmystreet.com/report/8804915)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Large pothole, 30th January :- [8804091](https://www.fixmystreet.com/report/8804091)
 - A couple of potholes along the road., 30th January :- [8804089](https://www.fixmystreet.com/report/8804089)
 - Court Road on the left side opposite st George's hall, 30th January :- [8804002](https://www.fixmystreet.com/report/8804002)
-- Pothole in area called laybe at the bottom of 39 Green Street, 30th January :- [8803872](https://www.fixmystreet.com/report/8803872)
-- Two/three potholes in same place which have been repaired previously., 30th January :- [8803588](https://www.fixmystreet.com/report/8803588)
-- Dumped pallet, 30th January :- [8803534](https://www.fixmystreet.com/report/8803534)
-- Green or amber traffic light is not working problem, 30th January :- [8803722](https://www.fixmystreet.com/report/8803722)
-- Potholes out side 44 and 48 clyde rd, 30th January :- [8803299](https://www.fixmystreet.com/report/8803299)
-- Red 2 metre sign left by council, 30th January :- [8803218](https://www.fixmystreet.com/report/8803218)
-- Single pothole, 30th January :- [8803188](https://www.fixmystreet.com/report/8803188)
-- Large number of potholes and uneven surface on eastbound carriage way just before Kilham Lane, 30th January :- [8803113](https://www.fixmystreet.com/report/8803113)
 
 <!-- fix_marker ends -->

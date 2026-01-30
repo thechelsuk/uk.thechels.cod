@@ -34,20 +34,20 @@ This message will be updated by 12:00 on 31 Jan 2026 or as the situation changes
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Windrush. Flooding of low lying land and roads is expected to continue today, 29 Jan 2026, especially in the Bourton on the Water, Witney, and Newbridge areas. The forecast is predominantly dry today (29 Jan 2026), with widespread light rain expected overnight and into tomorrow morning. River levels are high but stable. We expect river levels to remain high over the coming days. 
+River levels are high on parts of the River Windrush. Flooding of low lying land and roads is expected to continue today, 30 Jan 2026, especially in the Bourton on the Water, Witney, and Newbridge areas. Further rainfall is expected today and tomorrow. River levels are high but stable. We expect river levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12pm on 30 Jan 2026 or as the situation changes.
+This message will be updated by 12:00 on 31 Jan 2026 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Windrush and River Glyme. Flooding of low lying land and roads is expected to continue today, 29 Jan 2026, especially in the Shipton under Wychwood and Woodstock areas. The forecast is predominantly dry today (29 Jan 2026), with widespread light rain expected overnight and into tomorrow morning. We expect river levels to remain high over the coming days. 
+River levels are high on parts of the River Evenlode from Moreton-in-Marsh to Cassington and also the River Glyme at Wootton and Woodstock. Flooding of low lying land and roads is expected to continue today, 30 Jan 2026, especially in the Woodstock area. Further rainfall is expected today and tomorrow. We expect river levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12pm on 30 Jan 2026 or as the situation changes.
+This message will be updated by 12:00 on 31 Jan 2026 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - High river levels may lead to flooding. 
@@ -61,20 +61,20 @@ This message will be updated by 12:00 on 31 Jan 2026 or as the situation changes
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Dikler. Flooding of low lying land and roads is expected to continue today, 29 Jan 2026, especially in the Bourton on the Water area. The forecast is predominantly dry today (29 Jan 2026), with widespread light rain expected overnight and into tomorrow morning. River levels are high but stable. We expect river levels to remain high over the coming days. 
+River levels are high on parts of the River Dikler. Flooding of low lying land and roads is expected to continue today, 30 Jan 2026, especially in the Bourton on the Water area. Further rainfall is expected today and tomorrow. River levels are high but stable. We expect river levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This messages will be updated by 12pm on 30 Jan 2026 or as the situation changes.
+This message will be updated by 12:00 on 31 Jan 2026 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Leach. Flooding of low lying land and roads is expected to continue today, 29 Jan 2026, especially in the Lechlade upon Thames area. The forecast is predominantly dry today (29 Jan 2026), with widespread light rain expected overnight and into tomorrow morning. River levels are expected to rise slowly today, and to remain high over the coming days. 
+River levels are high on parts of the River Leach. Flooding of low lying land and roads is expected to continue today, 30 Jan 2026, especially in the Lechlade-on-Thames area. Further rainfall is expected today and tomorrow. River levels are expected to rise slowly today, and to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This messages will be updated by 12pm on 30 Jan 2026 or as the situation changes.
+This message will be updated by 12:00 on 31 Jan 2026 or as the situation changes.
 
 - Warning no longer in force: Middle Avon Rugby to Bidford
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -87,7 +87,12 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - High river levels today may lead to flooding. Flooding is possible on 30 January 2026 . Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. Predicted peaks:- Mythe peaked at 4.06m on 29/01/26, Haw Bridge peaked at 4.94m on 29/01/26, Sandhurst peaked 3.19m on 29/01/26. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 31 January 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- High, but falling river levels today may lead to flooding. Flooding is possible 30 January 2026. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 10:00AM on 31 January 2026 or as the situation changes.
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 30 January 2026 . 
+Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. Further rainfall is forecast over the next 24 hours. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 31 January 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
 - River levels are falling but remain high today, 30 January 2026. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubilee Bridge to Fladbury is impacted. 
@@ -136,11 +141,11 @@ Further rainfall is forecast over the next 24 hours. We are closely monitoring t
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Coln. Flooding of low lying land and roads is expected to continue today, 29 Jan 2026, especially in the Fossebridge area. The forecast is predominantly dry today (29 Jan 26), with widespread light rain expected overnight and into tomorrow morning. River levels are expected to rise slowly today, and to remain high over the coming days. 
+River levels are high on parts of the River Coln. Flooding of low lying land and roads is expected to continue today, 30 Jan 2026, especially in the Fossebridge area. Further rainfall is expected today and tomorrow. River levels are expected to rise slowly today, and to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This messages will be updated by 12pm on 30 Jan 2026 or as the situation changes.
+This message will be updated by 12:00 on 31 Jan 2026 or as the situation changes.
 
 
 <!-- flood_marker ends -->

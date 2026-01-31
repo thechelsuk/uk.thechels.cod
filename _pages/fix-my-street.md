@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Right near cattle grid, 31st January :- [8810557](https://www.fixmystreet.com/report/8810557)
+- Very wide and deep pothole, 31st January :- [8810554](https://www.fixmystreet.com/report/8810554)
+- Multiple pot holes on this area of road. Some very deep, 31st January :- [8810547](https://www.fixmystreet.com/report/8810547)
+- Very large pothole, 31st January :- [8810545](https://www.fixmystreet.com/report/8810545)
+- Multiple pole holes. One huge one that is sure to damage cars., 31st January :- [8810536](https://www.fixmystreet.com/report/8810536)
+- Tarmac missing around drain is now dangerous especially for motorcycle or cyclist., 31st January :- [8810298](https://www.fixmystreet.com/report/8810298)
 - Many potholes along Tewkesbury road near the railway bridge, 31st January :- [8810102](https://www.fixmystreet.com/report/8810102)
 - Many potholes along Argyll Road where there's parked cars, 31st January :- [8810088](https://www.fixmystreet.com/report/8810088)
 - Pothole, 31st January :- [8810058](https://www.fixmystreet.com/report/8810058)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Lorry's parking on pavement, destroying the pavement and putting additional stress on the coal vaults under the pavement., 31st January :- [8809323](https://www.fixmystreet.com/report/8809323)
 - Pothole surrounding raised ironwork of drain at edge of road, 31st January :- [8809216](https://www.fixmystreet.com/report/8809216)
 - Usual water soluble substance needed again, 31st January :- [8809134](https://www.fixmystreet.com/report/8809134)
-- Multiple deep potholes, 31st January :- [8808822](https://www.fixmystreet.com/report/8808822)
-- Rubbish Strewn, 31st January :- [8808811](https://www.fixmystreet.com/report/8808811)
-- Lots of potholes around village, 31st January :- [8808803](https://www.fixmystreet.com/report/8808803)
-- Deep pothole supporting a surface drain grid. Large pieces of tarmac loose on road could cause damage to vehicles., 31st January :- [8808796](https://www.fixmystreet.com/report/8808796)
-- Flytipped items, 31st January :- [8808777](https://www.fixmystreet.com/report/8808777)
-- Flytipped items, 31st January :- [8808774](https://www.fixmystreet.com/report/8808774)
 
 <!-- fix_marker ends -->

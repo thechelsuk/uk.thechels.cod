@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 31 January 2026
 
-- The average temperature today is 7.66˚C,
-- With highs of 8.3˚C and lows of 6.83˚C,
-- It may feel like 6.26˚C with broken clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1000hPa and humidity is 90%
+- The average temperature today is 7.39˚C,
+- With highs of 7.75˚C and lows of 7.05˚C,
+- It may feel like 6.87˚C with broken clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 91%
 - The sun will rise at 07:49 and set at 16:53
 
 <!-- weather_marker ends -->

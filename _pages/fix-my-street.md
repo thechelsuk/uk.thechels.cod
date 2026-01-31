@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hatherley Road - opposite Clean l, 31st January :- [8806939](https://www.fixmystreet.com/report/8806939)
+- Broken Perspex & timetable case, 31st January :- [8806828](https://www.fixmystreet.com/report/8806828)
+- Large pothole in road, 31st January :- [8806744](https://www.fixmystreet.com/report/8806744)
+- Pothole on Hewlett Road, outside pharmacy, 31st January :- [8806657](https://www.fixmystreet.com/report/8806657)
+- Second large pothole on keynsham street, 31st January :- [8806585](https://www.fixmystreet.com/report/8806585)
+- Large pothole on keynsham street, 31st January :- [8806577](https://www.fixmystreet.com/report/8806577)
+- TMC - Defects -CW10 Potholes problem, 31st January :- [8806359](https://www.fixmystreet.com/report/8806359)
+- TMC - Defects -CW10 Potholes problem, 31st January :- [8806358](https://www.fixmystreet.com/report/8806358)
+- TMC - Defects -CW10 Potholes problem, 31st January :- [8806357](https://www.fixmystreet.com/report/8806357)
+- TMC - Defects -CW10 Potholes problem, 31st January :- [8806356](https://www.fixmystreet.com/report/8806356)
 - Pothole on Stoke Orchard Road, 31st January :- [8805960](https://www.fixmystreet.com/report/8805960)
 - Caravan dumped in layby, 30th January :- [8805537](https://www.fixmystreet.com/report/8805537)
 - Rectangular pothole in road, 30th January :- [8805535](https://www.fixmystreet.com/report/8805535)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Pavement blocked by building rubble, 30th January :- [8805414](https://www.fixmystreet.com/report/8805414)
 - 2 pothole on the inside carrieway opposite the small layby when your going toward Cheltenham from Gloucester, 30th January :- [8805361](https://www.fixmystreet.com/report/8805361)
 - 3 street lamps on Hillview avenue not working and haven’t been for a long time, 30th January :- [8805262](https://www.fixmystreet.com/report/8805262)
-- Pothole by speed bump, 30th January :- [8804980](https://www.fixmystreet.com/report/8804980)
-- Severe pothole, 30th January :- [8804915](https://www.fixmystreet.com/report/8804915)
-- Big pothole in left hand lane going up Birdlip Hill from the Air balloon Roundabout., 30th January :- [8804845](https://www.fixmystreet.com/report/8804845)
-- At least 10 potholes in one area!, 30th January :- [8804771](https://www.fixmystreet.com/report/8804771)
-- With ally way light gone and the second ligh really dull, 30th January :- [8804731](https://www.fixmystreet.com/report/8804731)
-- Tenants at 36 gwernant road have driven on the grass and have broken the public path and turned the grass to a swamp., 30th January :- [8804468](https://www.fixmystreet.com/report/8804468)
-- Multiple potholes and run off gravel., 30th January :- [8804161](https://www.fixmystreet.com/report/8804161)
-- Heap of sticks and twigs next to tree on Saint Luke’s Road, 30th January :- [8804129](https://www.fixmystreet.com/report/8804129)
-- Large pothole, 30th January :- [8804091](https://www.fixmystreet.com/report/8804091)
-- A couple of potholes along the road., 30th January :- [8804089](https://www.fixmystreet.com/report/8804089)
 
 <!-- fix_marker ends -->

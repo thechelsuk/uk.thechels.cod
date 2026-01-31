@@ -97,8 +97,12 @@ This message will be updated by 12:00 on 01 Feb 2026 or as the situation changes
 - Flood alert: River Severn in Worcestershire
 - River levels are falling but remain high which may lead to some flooding. Flooding is possible on 31 January 2026. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Measured peaks:- Worcester peaked at 4.01m at 18:45, Wednesday 28 January 2026, Diglis peaked at 3.87m at 18:30, Wednesday 28 January 2026, Kempsey Yacht Club peaked at 6.05m at 18:45, Wednesday 28 January 2026, and Saxons Lode peaked 4.63m at 07:00, Thursday 29 January 2026. Further rainfall is forecast over the next few days. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 1 February 2026 or as the situation changes.
 
-- Flood warning: River Severn at Severn Ham, Tewkesbury
-- River levels remain high today which cause flooding today. Flooding is expected on 31 January 2026 . Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe peaked at 4.06m on 29/01/26, Upper Pound peaked at 4.07m on 29/01/26. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 10:00AM on 01 February 2026 or as the situation changes.
+- Warning no longer in force: River Severn at Severn Ham, Tewkesbury
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Warning no longer in force: River Severn at Apperley and The Leigh
 - The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 

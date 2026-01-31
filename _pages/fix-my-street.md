@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- More fly tipping, 31st January :- [8810805](https://www.fixmystreet.com/report/8810805)
+- Pot hole repair by pavement failed. Cars crossing white line to avoid the pothole and almost crashing into cars turning on to church road from Collum End Rise, 31st January :- [8810711](https://www.fixmystreet.com/report/8810711)
+- Pot hole repair by pavement failed. Cars crossing white line to avoid the pothole and almost crashing into cars turning on to church road from Collum End Rise, 31st January :- [8810710](https://www.fixmystreet.com/report/8810710)
+- Patched road now big pothole, 31st January :- [8810635](https://www.fixmystreet.com/report/8810635)
+- Pothole that had previously been filled has now returned, 31st January :- [8810561](https://www.fixmystreet.com/report/8810561)
 - Right near cattle grid, 31st January :- [8810557](https://www.fixmystreet.com/report/8810557)
 - Very wide and deep pothole, 31st January :- [8810554](https://www.fixmystreet.com/report/8810554)
 - Multiple pot holes on this area of road. Some very deep, 31st January :- [8810547](https://www.fixmystreet.com/report/8810547)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Large Pothole in Kidnappers Lane, 31st January :- [8809606](https://www.fixmystreet.com/report/8809606)
 - Several potholes near road gutter, 31st January :- [8809581](https://www.fixmystreet.com/report/8809581)
 - In rain this week, water flowing from tarmac of old now subsided repair, 31st January :- [8809560](https://www.fixmystreet.com/report/8809560)
-- Large series of potholes, 31st January :- [8809362](https://www.fixmystreet.com/report/8809362)
-- Pothole, 31st January :- [8809328](https://www.fixmystreet.com/report/8809328)
-- Lorry's parking on pavement, destroying the pavement and putting additional stress on the coal vaults under the pavement., 31st January :- [8809323](https://www.fixmystreet.com/report/8809323)
-- Pothole surrounding raised ironwork of drain at edge of road, 31st January :- [8809216](https://www.fixmystreet.com/report/8809216)
-- Usual water soluble substance needed again, 31st January :- [8809134](https://www.fixmystreet.com/report/8809134)
 
 <!-- fix_marker ends -->

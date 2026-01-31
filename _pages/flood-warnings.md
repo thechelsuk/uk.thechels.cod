@@ -52,7 +52,7 @@ This message will be updated by 12:00 on 01 Feb 2026 or as the situation changes
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Thames and its tributaires from Calcutt to Lechlade. Flooding of low lying land and roads is possible today, 31 Jan 2026, especially in the Kempsford area. Further rainfall is expected today and tomorrow. River levels are high, but steady. We expect river levels to remain high over the coming days.
+River levels are high on parts of the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is possible today, 31 Jan 2026, especially in the Kempsford area. Further rainfall is expected today and tomorrow. River levels are high, but steady. We expect river levels to remain high over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 

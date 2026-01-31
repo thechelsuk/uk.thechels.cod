@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on Stoke Orchard Road, 31st January :- [8805960](https://www.fixmystreet.com/report/8805960)
 - Caravan dumped in layby, 30th January :- [8805537](https://www.fixmystreet.com/report/8805537)
 - Rectangular pothole in road, 30th January :- [8805535](https://www.fixmystreet.com/report/8805535)
 - Road in an awful state, 30th January :- [8805514](https://www.fixmystreet.com/report/8805514)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Heap of sticks and twigs next to tree on Saint Luke’s Road, 30th January :- [8804129](https://www.fixmystreet.com/report/8804129)
 - Large pothole, 30th January :- [8804091](https://www.fixmystreet.com/report/8804091)
 - A couple of potholes along the road., 30th January :- [8804089](https://www.fixmystreet.com/report/8804089)
-- Court Road on the left side opposite st George's hall, 30th January :- [8804002](https://www.fixmystreet.com/report/8804002)
 
 <!-- fix_marker ends -->

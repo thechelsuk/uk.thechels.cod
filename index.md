@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 31 January 2026
+## On Sunday, 01 February 2026
 
-- The average temperature today is 6.13˚C,
-- With highs of 6.96˚C and lows of 5.38˚C,
-- It may feel like 6.13˚C with broken clouds
+- The average temperature today is 5.9˚C,
+- With highs of 6.58˚C and lows of 5.38˚C,
+- It may feel like 5.9˚C with broken clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 93%
-- The sun will rise at 07:49 and set at 16:53
+- The pressure is 1001hPa and humidity is 95%
+- The sun will rise at 07:48 and set at 16:55
 
 <!-- weather_marker ends -->
 

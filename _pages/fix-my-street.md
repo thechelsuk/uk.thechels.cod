@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Just past old richians turning, 1st February :- [8811005](https://www.fixmystreet.com/report/8811005)
+- Number of potholes on approach to mini roundabout on church road and old Cheltenham road, near church, 31st January :- [8810986](https://www.fixmystreet.com/report/8810986)
+- Several large pot holes on left hand side driving from Down Hatherley lane to innsworth lane, 31st January :- [8810898](https://www.fixmystreet.com/report/8810898)
 - More fly tipping, 31st January :- [8810805](https://www.fixmystreet.com/report/8810805)
 - Pot hole repair by pavement failed. Cars crossing white line to avoid the pothole and almost crashing into cars turning on to church road from Collum End Rise, 31st January :- [8810711](https://www.fixmystreet.com/report/8810711)
 - Pot hole repair by pavement failed. Cars crossing white line to avoid the pothole and almost crashing into cars turning on to church road from Collum End Rise, 31st January :- [8810710](https://www.fixmystreet.com/report/8810710)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole, 31st January :- [8810004](https://www.fixmystreet.com/report/8810004)
 - Pedestrian crossing turning off. When the pedestrian crossing button it pressed it doesn't always activate a crossing and the light goes off. This happens very often leading to pedestrians crossing on a red light due to the issue., 31st January :- [8809677](https://www.fixmystreet.com/report/8809677)
 - 2 massive potholes on Bethesda Street, 31st January :- [8809645](https://www.fixmystreet.com/report/8809645)
-- Large Pothole in Kidnappers Lane, 31st January :- [8809606](https://www.fixmystreet.com/report/8809606)
-- Several potholes near road gutter, 31st January :- [8809581](https://www.fixmystreet.com/report/8809581)
-- In rain this week, water flowing from tarmac of old now subsided repair, 31st January :- [8809560](https://www.fixmystreet.com/report/8809560)
 
 <!-- fix_marker ends -->

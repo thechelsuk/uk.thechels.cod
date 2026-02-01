@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cars parking causing obstruction, 1st February :- [8816433](https://www.fixmystreet.com/report/8816433)
+- New yellow lines - unable to get off driveway, 1st February :- [8816424](https://www.fixmystreet.com/report/8816424)
+- Introduction of Double yellow lines mean i cant get off my driveway, 1st February :- [8816418](https://www.fixmystreet.com/report/8816418)
+- Tarmac missing, 1st February :- [8816409](https://www.fixmystreet.com/report/8816409)
+- Street lights not on, 1st February :- [8816403](https://www.fixmystreet.com/report/8816403)
+- On speed bump, 1st February :- [8816289](https://www.fixmystreet.com/report/8816289)
+- Hole in road on pe way, 1st February :- [8816281](https://www.fixmystreet.com/report/8816281)
+- Unacceptable surface water on road & up driveway, 1st February :- [8816255](https://www.fixmystreet.com/report/8816255)
+- Corner of Postlip Way with Coberley Road, 1st February :- [8816230](https://www.fixmystreet.com/report/8816230)
+- Pothole on the road, 1st February :- [8816018](https://www.fixmystreet.com/report/8816018)
+- Several potholes on Lipson rd., 1st February :- [8816003](https://www.fixmystreet.com/report/8816003)
 - Leaf sludge on road, 1st February :- [8815700](https://www.fixmystreet.com/report/8815700)
 - Pot hole, 1st February :- [8815468](https://www.fixmystreet.com/report/8815468)
 - Appalling state of the road, 1st February :- [8815456](https://www.fixmystreet.com/report/8815456)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Dropped curb, 1st February :- [8815088](https://www.fixmystreet.com/report/8815088)
 - Cyclist crossing button doesn't work, 1st February :- [8814974](https://www.fixmystreet.com/report/8814974)
 - Pothole in road, depression filled with water, 1st February :- [8814889](https://www.fixmystreet.com/report/8814889)
-- Potholes, 1st February :- [8814876](https://www.fixmystreet.com/report/8814876)
-- Surface deteriating to pot hole status, 1st February :- [8814866](https://www.fixmystreet.com/report/8814866)
-- 6 potholes, 1st February :- [8814855](https://www.fixmystreet.com/report/8814855)
-- 2 holes breaking up, 1st February :- [8814839](https://www.fixmystreet.com/report/8814839)
-- Pothole just after pedestrian crossing, 1st February :- [8814829](https://www.fixmystreet.com/report/8814829)
-- 3 pothole, 1st February :- [8814826](https://www.fixmystreet.com/report/8814826)
-- Pothole opened leaving exposed concrete, 1st February :- [8814811](https://www.fixmystreet.com/report/8814811)
-- Deep pothole, 1st February :- [8814765](https://www.fixmystreet.com/report/8814765)
-- Deep pothole, 1st February :- [8814733](https://www.fixmystreet.com/report/8814733)
-- Litter, 1st February :- [8814644](https://www.fixmystreet.com/report/8814644)
-- Multiple potholes, 1st February :- [8814629](https://www.fixmystreet.com/report/8814629)
 
 <!-- fix_marker ends -->

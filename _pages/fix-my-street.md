@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Leaf sludge on road, 1st February :- [8815700](https://www.fixmystreet.com/report/8815700)
+- Pot hole, 1st February :- [8815468](https://www.fixmystreet.com/report/8815468)
+- Appalling state of the road, 1st February :- [8815456](https://www.fixmystreet.com/report/8815456)
+- Blocked culvert at side of road in Bushcombe Lane just above Butts Lane, 1st February :- [8815295](https://www.fixmystreet.com/report/8815295)
+- Very deep pot hole on elm street, 1st February :- [8815216](https://www.fixmystreet.com/report/8815216)
 - Pots holes all over the turning and along shelbourne road, 1st February :- [8815174](https://www.fixmystreet.com/report/8815174)
 - Dropped curb, 1st February :- [8815088](https://www.fixmystreet.com/report/8815088)
 - Cyclist crossing button doesn't work, 1st February :- [8814974](https://www.fixmystreet.com/report/8814974)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Deep pothole, 1st February :- [8814733](https://www.fixmystreet.com/report/8814733)
 - Litter, 1st February :- [8814644](https://www.fixmystreet.com/report/8814644)
 - Multiple potholes, 1st February :- [8814629](https://www.fixmystreet.com/report/8814629)
-- Multiple potholes and generally poor surface, 1st February :- [8814615](https://www.fixmystreet.com/report/8814615)
-- Multiple potholes on Oak Avenue, 1st February :- [8814601](https://www.fixmystreet.com/report/8814601)
-- Large pothole on Churchill Gardens, 1st February :- [8814587](https://www.fixmystreet.com/report/8814587)
-- Large pothole outside Howdens, 1st February :- [8814573](https://www.fixmystreet.com/report/8814573)
-- Large pothole adjacent to property on Hales Road / Athleney Way, 1st February :- [8814564](https://www.fixmystreet.com/report/8814564)
 
 <!-- fix_marker ends -->

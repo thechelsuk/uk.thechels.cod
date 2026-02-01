@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in road, 1st February :- [8816819](https://www.fixmystreet.com/report/8816819)
 - Cars parking causing obstruction, 1st February :- [8816433](https://www.fixmystreet.com/report/8816433)
 - New yellow lines - unable to get off driveway, 1st February :- [8816424](https://www.fixmystreet.com/report/8816424)
 - Introduction of Double yellow lines mean i cant get off my driveway, 1st February :- [8816418](https://www.fixmystreet.com/report/8816418)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pots holes all over the turning and along shelbourne road, 1st February :- [8815174](https://www.fixmystreet.com/report/8815174)
 - Dropped curb, 1st February :- [8815088](https://www.fixmystreet.com/report/8815088)
 - Cyclist crossing button doesn't work, 1st February :- [8814974](https://www.fixmystreet.com/report/8814974)
-- Pothole in road, depression filled with water, 1st February :- [8814889](https://www.fixmystreet.com/report/8814889)
 
 <!-- fix_marker ends -->

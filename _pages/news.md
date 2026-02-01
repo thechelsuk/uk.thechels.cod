@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Six-bed home becoming care home for one approved ([9 hours ago](https://www.bbc.com/news/articles/ce3k4d3z57lo?at_medium=RSS&at_campaign=rss))
-- Roman mosaic returns home after 200 years ([17 hours ago](https://www.bbc.com/news/articles/cvgj581dmkyo?at_medium=RSS&at_campaign=rss))
-- 'Widespread flooding' and 'reward for lost £10m art' ([18 hours ago](https://www.bbc.com/news/articles/cwyr0pewnqxo?at_medium=RSS&at_campaign=rss))
+- Six-bed home becoming care home for one approved ([12 hours ago](https://www.bbc.com/news/articles/ce3k4d3z57lo?at_medium=RSS&at_campaign=rss))
+- Roman mosaic returns home after 200 years ([20 hours ago](https://www.bbc.com/news/articles/cvgj581dmkyo?at_medium=RSS&at_campaign=rss))
+- 'Widespread flooding' and 'reward for lost £10m art' ([20 hours ago](https://www.bbc.com/news/articles/cwyr0pewnqxo?at_medium=RSS&at_campaign=rss))
 - Community cafe closing after battle to stay open ([1 days ago](https://www.bbc.com/news/articles/cly9ry36740o?at_medium=RSS&at_campaign=rss))
 - Plans for new £5m GP surgery and homes to go ahead ([1 days ago](https://www.bbc.com/news/articles/cddgj406196o?at_medium=RSS&at_campaign=rss))
 - Trail celebrates workers who built WW2 aircraft ([1 days ago](https://www.bbc.com/news/articles/cgrdkrp1zzro?at_medium=RSS&at_campaign=rss))

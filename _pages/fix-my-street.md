@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Quite a big pot hole right outside the turning to old Richians rfc however the whole of the sandyleaze road is covered in a lot of deep pot holes that need fixing as can cause damage to cars, 1st February :- [8811064](https://www.fixmystreet.com/report/8811064)
 - Just past old richians turning, 1st February :- [8811005](https://www.fixmystreet.com/report/8811005)
 - Number of potholes on approach to mini roundabout on church road and old Cheltenham road, near church, 31st January :- [8810986](https://www.fixmystreet.com/report/8810986)
 - Several large pot holes on left hand side driving from Down Hatherley lane to innsworth lane, 31st January :- [8810898](https://www.fixmystreet.com/report/8810898)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole, 31st January :- [8810058](https://www.fixmystreet.com/report/8810058)
 - Pothole, 31st January :- [8810004](https://www.fixmystreet.com/report/8810004)
 - Pedestrian crossing turning off. When the pedestrian crossing button it pressed it doesn't always activate a crossing and the light goes off. This happens very often leading to pedestrians crossing on a red light due to the issue., 31st January :- [8809677](https://www.fixmystreet.com/report/8809677)
-- 2 massive potholes on Bethesda Street, 31st January :- [8809645](https://www.fixmystreet.com/report/8809645)
 
 <!-- fix_marker ends -->

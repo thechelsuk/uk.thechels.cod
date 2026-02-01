@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pot holes on Ashcot Mews, 1st February :- [8811416](https://www.fixmystreet.com/report/8811416)
+- Abandonded Caravan, 1st February :- [8811365](https://www.fixmystreet.com/report/8811365)
+- Multiple large potholes, 1st February :- [8811355](https://www.fixmystreet.com/report/8811355)
+- Multiple potholes on Sandyleaze Road, 1st February :- [8811308](https://www.fixmystreet.com/report/8811308)
 - Large potholes on both sides of road, 1st February :- [8811169](https://www.fixmystreet.com/report/8811169)
 - Quite a big pot hole right outside the turning to old Richians rfc however the whole of the sandyleaze road is covered in a lot of deep pot holes that need fixing as can cause damage to cars, 1st February :- [8811064](https://www.fixmystreet.com/report/8811064)
 - Just past old richians turning, 1st February :- [8811005](https://www.fixmystreet.com/report/8811005)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Very large pothole, 31st January :- [8810545](https://www.fixmystreet.com/report/8810545)
 - Multiple pole holes. One huge one that is sure to damage cars., 31st January :- [8810536](https://www.fixmystreet.com/report/8810536)
 - Tarmac missing around drain is now dangerous especially for motorcycle or cyclist., 31st January :- [8810298](https://www.fixmystreet.com/report/8810298)
-- Many potholes along Tewkesbury road near the railway bridge, 31st January :- [8810102](https://www.fixmystreet.com/report/8810102)
-- Many potholes along Argyll Road where there's parked cars, 31st January :- [8810088](https://www.fixmystreet.com/report/8810088)
-- Pothole, 31st January :- [8810058](https://www.fixmystreet.com/report/8810058)
-- Pothole, 31st January :- [8810004](https://www.fixmystreet.com/report/8810004)
 
 <!-- fix_marker ends -->

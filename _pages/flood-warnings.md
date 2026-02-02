@@ -94,13 +94,21 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
-- High river levels may lead to flooding. 
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 02 February 2026 . 
+River levels are high on parts of the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 02 Feb 2026, especially in the Eynsham area. Further rainfall is expected today and tomorrow. We expect river levels to rise until tomorrow morning, 03 Feb 2026. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . Go to River levels online for updates on current river levels. 
+This message will be updated by 12:00PM on 03 February 2026 or as the situation changes.
 
-River levels are high on parts of the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 02 Feb 2026, especially in the Eynsham area. Further rainfall is expected today and tomorrow. We expect river levels to rise until tomorrow morning, 03 Feb 2026.
+- Flood alert: Severn estuary from Gloucester to Sharpness
+- High tides this evening may lead to flooding. 
+Flooding is possible from Monday 02/02 to Thursday 05/02. 
+Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next four days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.4m to 3.6m Monday 02/02 at 10:15PM, and 3.5m to 3.8m tomorrow morning Tuesday 03/02 10:30AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 12:00PM on 03 February 2026 or as the situation changes.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
-
-This message will be updated by 12:00 on 03 Feb 2026 or as the situation changes.
 
 - Warning no longer in force: River Severn in Worcestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

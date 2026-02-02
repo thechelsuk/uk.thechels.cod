@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pot hole, 2nd February :- [8825363](https://www.fixmystreet.com/report/8825363)
+- Flytipped cardboard box, 2nd February :- [8825189](https://www.fixmystreet.com/report/8825189)
+- All street lights out emergency, 2nd February :- [8825079](https://www.fixmystreet.com/report/8825079)
+- All street lights bottom of orchard avenue have been out for over a week now it’s dangerous, 2nd February :- [8825063](https://www.fixmystreet.com/report/8825063)
+- The man hole has started to sink into the ground exposing sharp corners, 2nd February :- [8825034](https://www.fixmystreet.com/report/8825034)
+- Pothole, 2nd February :- [8824846](https://www.fixmystreet.com/report/8824846)
+- Pothole, 2nd February :- [8824833](https://www.fixmystreet.com/report/8824833)
+- Wait button not working on post 5., 2nd February :- [8824817](https://www.fixmystreet.com/report/8824817)
+- The entire street of Tamar road and the end of Clyde Crescent are all out and been not working for days now, 2nd February :- [8824721](https://www.fixmystreet.com/report/8824721)
+- About 9 very deep very large potholes and one in particular is incredibly deep and right in the middle of the road, 2nd February :- [8824713](https://www.fixmystreet.com/report/8824713)
+- Sunken chamber cover-outside Hedgerows GL51 6RL, 2nd February :- [8824136](https://www.fixmystreet.com/report/8824136)
+- Obvious pothole at traffic lights at bottom of Berkley Street., 2nd February :- [8823660](https://www.fixmystreet.com/report/8823660)
 - A pothole in road problem, 2nd February :- [8823204](https://www.fixmystreet.com/report/8823204)
 - Road appears to be sinking again but further down road, 2nd February :- [8822998](https://www.fixmystreet.com/report/8822998)
 - It’s shocking again !, 2nd February :- [8822977](https://www.fixmystreet.com/report/8822977)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822644](https://www.fixmystreet.com/report/8822644)
 - TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822643](https://www.fixmystreet.com/report/8822643)
 - TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822640](https://www.fixmystreet.com/report/8822640)
-- TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822641](https://www.fixmystreet.com/report/8822641)
-- Grass verge has been destroyed by cars driving over it. It is now a mud pile. During rain the mud washes into the two nearby drains, blocks them, causing water to be channelled down nearby driveways often flooding the drives. Pavement, road junctions at nos. 49 and 51 are permanently muddy., 2nd February :- [8822362](https://www.fixmystreet.com/report/8822362)
-- Pothole on the bend of Little Normans - again, 2nd February :- [8822317](https://www.fixmystreet.com/report/8822317)
-- TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822338](https://www.fixmystreet.com/report/8822338)
-- TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822337](https://www.fixmystreet.com/report/8822337)
-- Pothole near center line of road, 2nd February :- [8822052](https://www.fixmystreet.com/report/8822052)
-- Overflowing dog bin, 2nd February :- [8822032](https://www.fixmystreet.com/report/8822032)
-- TMC - Defects - Signs & Street Furniture problem, 2nd February :- [8821981](https://www.fixmystreet.com/report/8821981)
-- Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 2nd February :- [8821947](https://www.fixmystreet.com/report/8821947)
-- The drain is blocked problem, 2nd February :- [8822331](https://www.fixmystreet.com/report/8822331)
-- TMC - Defects -CW6 Potholes  problem, 2nd February :- [8821966](https://www.fixmystreet.com/report/8821966)
-- TMC - Defects -CW6 Potholes  problem, 2nd February :- [8821962](https://www.fixmystreet.com/report/8821962)
 
 <!-- fix_marker ends -->

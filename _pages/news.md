@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man dies in crash with car transporter ([11 hours ago](https://www.bbc.com/news/articles/c8x9k8z9795o?at_medium=RSS&at_campaign=rss))
-- Last call for railway-related community projects ([17 hours ago](https://www.bbc.com/news/articles/cm2yqlrzn81o?at_medium=RSS&at_campaign=rss))
-- 'I only did two 120m ski jumps before Olympic debut' - Eddie the Eagle ([19 hours ago](https://www.bbc.com/sport/articles/c8rm8zp2n0po?at_medium=RSS&at_campaign=rss))
-- 'The loneliness of village life made me a recluse' ([20 hours ago](https://www.bbc.com/news/articles/clymmkpxpn5o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Flooding and faraway galaxies ([20 hours ago](https://www.bbc.com/news/articles/c0lx2460yelo?at_medium=RSS&at_campaign=rss))
+- Man dies in crash with car transporter ([13 hours ago](https://www.bbc.com/news/articles/c8x9k8z9795o?at_medium=RSS&at_campaign=rss))
+- Last call for railway-related community projects ([18 hours ago](https://www.bbc.com/news/articles/cm2yqlrzn81o?at_medium=RSS&at_campaign=rss))
+- 'I only did two 120m ski jumps before Olympic debut' - Eddie the Eagle ([21 hours ago](https://www.bbc.com/sport/articles/c8rm8zp2n0po?at_medium=RSS&at_campaign=rss))
+- 'The loneliness of village life made me a recluse' ([21 hours ago](https://www.bbc.com/news/articles/clymmkpxpn5o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Flooding and faraway galaxies ([22 hours ago](https://www.bbc.com/news/articles/c0lx2460yelo?at_medium=RSS&at_campaign=rss))
 - Six-bed home becoming care home for one approved ([1 days ago](https://www.bbc.com/news/articles/ce3k4d3z57lo?at_medium=RSS&at_campaign=rss))
 - Roman mosaic returns home after 200 years ([1 days ago](https://www.bbc.com/news/articles/cvgj581dmkyo?at_medium=RSS&at_campaign=rss))
 - 'Widespread flooding' and 'reward for lost £10m art' ([1 days ago](https://www.bbc.com/news/articles/cwyr0pewnqxo?at_medium=RSS&at_campaign=rss))

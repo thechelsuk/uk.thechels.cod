@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Road closed after double-decker bus crash ([4 hours ago](https://www.bbc.com/news/articles/ckgn88yvpvro?at_medium=RSS&at_campaign=rss))
-- Woman in serious condition after man dies in crash ([11 hours ago](https://www.bbc.com/news/articles/c0q4xy87npgo?at_medium=RSS&at_campaign=rss))
-- Woman banned from giving birth at closest hospital ([16 hours ago](https://www.bbc.com/news/articles/c98p2l83ymmo?at_medium=RSS&at_campaign=rss))
-- Women affected by pension changes 'not going away' ([16 hours ago](https://www.bbc.com/news/articles/c93v237lk40o?at_medium=RSS&at_campaign=rss))
+- Road closed after double-decker bus crash ([7 hours ago](https://www.bbc.com/news/articles/ckgn88yvpvro?at_medium=RSS&at_campaign=rss))
+- Woman in serious condition after man dies in crash ([14 hours ago](https://www.bbc.com/news/articles/c0q4xy87npgo?at_medium=RSS&at_campaign=rss))
+- Woman banned from giving birth at closest hospital ([19 hours ago](https://www.bbc.com/news/articles/c98p2l83ymmo?at_medium=RSS&at_campaign=rss))
+- Women affected by pension changes 'not going away' ([19 hours ago](https://www.bbc.com/news/articles/c93v237lk40o?at_medium=RSS&at_campaign=rss))
 - Families take legal action as British tourists die ([1 days ago](https://www.bbc.com/news/articles/c3015q8jqero?at_medium=RSS&at_campaign=rss))
 - Man dies in crash with car transporter ([1 days ago](https://www.bbc.com/news/articles/c8x9k8z9795o?at_medium=RSS&at_campaign=rss))
 - Last call for railway-related community projects ([1 days ago](https://www.bbc.com/news/articles/cm2yqlrzn81o?at_medium=RSS&at_campaign=rss))

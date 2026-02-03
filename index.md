@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 03 February 2026
 
-- The average temperature today is 3.48˚C,
-- With highs of 3.87˚C and lows of 2.75˚C,
-- It may feel like -0.63˚C with light rain
-- The wind speed is 5.14m/s and visibility is 7000m
-- The pressure is 993hPa and humidity is 91%
+- The average temperature today is 2.86˚C,
+- With highs of 3.31˚C and lows of 2.06˚C,
+- It may feel like -0.14˚C with light rain
+- The wind speed is 3.09m/s and visibility is 7000m
+- The pressure is 993hPa and humidity is 93%
 - The sun will rise at 07:45 and set at 16:59
 
 <!-- weather_marker ends -->

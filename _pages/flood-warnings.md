@@ -85,6 +85,14 @@ This message will be updated by 12:00 on 04 Feb 2026 or as the situation changes
 - Flood alert: River Severn in Gloucestershire
 - River levels continue to fall but remain high. Flooding is possible on 3 February 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 4 February 2026 or as the situation changes.
 
+- Flood alert: River Leadon catchment
+- Rising river levels today may lead to flooding. 
+Flooding is possible from overnight on 03 February 2026 and over the next few days. 
+Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 04 February 2026 or as the situation changes.
+
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
 

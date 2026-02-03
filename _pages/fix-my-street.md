@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree limb half split through and hung up on other limb, 3rd February :- [8826601](https://www.fixmystreet.com/report/8826601)
+- Big pot hole damaged my car tyre, 3rd February :- [8826573](https://www.fixmystreet.com/report/8826573)
+- Large pothole, 3rd February :- [8826301](https://www.fixmystreet.com/report/8826301)
+- Dog poo, 3rd February :- [8826273](https://www.fixmystreet.com/report/8826273)
+- Massive potholes all the way down North Road West, 3rd February :- [8825983](https://www.fixmystreet.com/report/8825983)
+- Pothole getting deeper right by the pedestrian zebra crossing walk, 3rd February :- [8825973](https://www.fixmystreet.com/report/8825973)
 - Street lights out, 3rd February :- [8825776](https://www.fixmystreet.com/report/8825776)
 - Large pot hole, 2nd February :- [8825363](https://www.fixmystreet.com/report/8825363)
 - Flytipped cardboard box, 2nd February :- [8825189](https://www.fixmystreet.com/report/8825189)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Sunken chamber cover-outside Hedgerows GL51 6RL, 2nd February :- [8824136](https://www.fixmystreet.com/report/8824136)
 - Obvious pothole at traffic lights at bottom of Berkley Street., 2nd February :- [8823660](https://www.fixmystreet.com/report/8823660)
 - A pothole in road problem, 2nd February :- [8823204](https://www.fixmystreet.com/report/8823204)
-- Road appears to be sinking again but further down road, 2nd February :- [8822998](https://www.fixmystreet.com/report/8822998)
-- It’s shocking again !, 2nd February :- [8822977](https://www.fixmystreet.com/report/8822977)
-- No street sign for Inkerman Lane, 2nd February :- [8822887](https://www.fixmystreet.com/report/8822887)
-- Dog poo bin overflowing, 2nd February :- [8822855](https://www.fixmystreet.com/report/8822855)
-- TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822644](https://www.fixmystreet.com/report/8822644)
-- TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822643](https://www.fixmystreet.com/report/8822643)
 
 <!-- fix_marker ends -->

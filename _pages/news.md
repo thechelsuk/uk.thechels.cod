@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Restoration of canal walkway amid £16m funding boost ([47 minutes ago](https://www.bbc.com/news/articles/cp873mnp1rgo?at_medium=RSS&at_campaign=rss))
-- Teachers strike over 'abusive' pupil behaviour ([5 hours ago](https://www.bbc.com/news/articles/cq5ynn00032o?at_medium=RSS&at_campaign=rss))
-- Cancer survivor turns trauma into art in short film ([12 hours ago](https://www.bbc.com/news/articles/crkr3yg2zpko?at_medium=RSS&at_campaign=rss))
-- Hundreds oppose plans for new Forest of Dean town ([12 hours ago](https://www.bbc.com/news/articles/cqxyn385rrxo?at_medium=RSS&at_campaign=rss))
+- King Charles' home hosts World Cancer Day event ([1 hours ago](https://www.bbc.com/news/articles/cwyw058g99lo?at_medium=RSS&at_campaign=rss))
+- Restoration of canal walkway amid £16m funding boost ([2 hours ago](https://www.bbc.com/news/articles/cp873mnp1rgo?at_medium=RSS&at_campaign=rss))
+- Teachers strike over 'abusive' pupil behaviour ([7 hours ago](https://www.bbc.com/news/articles/cq5ynn00032o?at_medium=RSS&at_campaign=rss))
+- Cancer survivor turns trauma into art in short film ([14 hours ago](https://www.bbc.com/news/articles/crkr3yg2zpko?at_medium=RSS&at_campaign=rss))
+- Hundreds oppose plans for new Forest of Dean town ([14 hours ago](https://www.bbc.com/news/articles/cqxyn385rrxo?at_medium=RSS&at_campaign=rss))
 - Hunt for man over alleged stalking and assaults ([1 days ago](https://www.bbc.com/news/articles/cgl8wgd1z0eo?at_medium=RSS&at_campaign=rss))
 - Pop-up market closes ahead of bridge demolition ([1 days ago](https://www.bbc.com/news/articles/c4g4dylke22o?at_medium=RSS&at_campaign=rss))
 - 'Effervescent' FKA Twigs' journey to Grammy success ([1 days ago](https://www.bbc.com/news/articles/cx2k8rnx80do?at_medium=RSS&at_campaign=rss))
@@ -28,7 +29,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Women affected by pension changes 'not going away' ([2 days ago](https://www.bbc.com/news/articles/c93v237lk40o?at_medium=RSS&at_campaign=rss))
 - Families take legal action as British tourists die ([3 days ago](https://www.bbc.com/news/articles/c3015q8jqero?at_medium=RSS&at_campaign=rss))
 - 'I only did two 120m ski jumps before Olympic debut' - Eddie the Eagle ([3 days ago](https://www.bbc.com/sport/articles/c8rm8zp2n0po?at_medium=RSS&at_campaign=rss))
-- In Pictures: Flooding and faraway galaxies ([3 days ago](https://www.bbc.com/news/articles/c0lx2460yelo?at_medium=RSS&at_campaign=rss))
 - Cheltenham community praised for generosity in Salvation Army’s Christmas Appeal ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-praised-for-generosity-in-salvation-armys-christmas-appeal/))
 - Lib Dems plan council tax and parking hike for Gloucestershire ([6 days ago](https://gloucesternewscentre.co.uk/lib-dems-plan-council-tax-and-parking-hike-for-gloucestershire/))
 - Taxi licence revoked after ‘ghost plates’ found during Cheltenham race meet ([6 days ago](https://gloucesternewscentre.co.uk/taxi-licence-revoked-after-ghost-plates-found-during-cheltenham-race-meet/))

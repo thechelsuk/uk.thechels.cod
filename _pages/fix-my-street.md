@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Badly cracked and damaged pavement, 4th February :- [8840913](https://www.fixmystreet.com/report/8840913)
+- About a foot long, 4th February :- [8840423](https://www.fixmystreet.com/report/8840423)
+- Pothole near drain cover, 4th February :- [8840397](https://www.fixmystreet.com/report/8840397)
 - Multiple pot holes it’s dangerous, 4th February :- [8840384](https://www.fixmystreet.com/report/8840384)
 - More than 1 pothole, 4th February :- [8840361](https://www.fixmystreet.com/report/8840361)
 - 10 x 10 inches - approx, 4th February :- [8840234](https://www.fixmystreet.com/report/8840234)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th February :- [8838317](https://www.fixmystreet.com/report/8838317)
 - TMC - Defects -CW6 Potholes  problem, 4th February :- [8838318](https://www.fixmystreet.com/report/8838318)
 - TMC - Defects -CW6 Potholes  problem, 4th February :- [8838315](https://www.fixmystreet.com/report/8838315)
-- TMC - Defects -CW6 Potholes  problem, 4th February :- [8838314](https://www.fixmystreet.com/report/8838314)
-- TMC - Defects -CW6 Potholes  problem, 4th February :- [8838313](https://www.fixmystreet.com/report/8838313)
-- TMC - Defects -CW6 Potholes  problem, 4th February :- [8838312](https://www.fixmystreet.com/report/8838312)
 
 <!-- fix_marker ends -->

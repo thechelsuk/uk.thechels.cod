@@ -109,6 +109,14 @@ This message will be updated by 12:00PM on 04 February 2026 or as the situation 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - A series of high tides over the next few days may lead to flooding.  Flooding is possible from Monday 02/02 to Friday 06/02.  Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next four days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.5m to 3.8m Tuesday 03/02 at 10:45 PM, and 3.5m to 3.9m tomorrow morning Wednesday 04/02 at  11:00 AM. Sharpness 9.4m - 9.7m Wednesday at 9:30 AM. We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 12:00PM on 04 February 2026 or as the situation changes.
 
+- Flood alert: River Severn in Worcestershire
+- Rising river levels today may lead to flooding. 
+Flooding is possible from the morning of 04 February 2026 . 
+Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Bewdley 2.4m - 2.6m Wednesday PM, Worcester 2.9m - 3.1m Wednesday PM, Diglis 2.8m - 3.0m Wednesday PM, Kempsey Yacht Club 4.9m - 5.1m Wednesday PM and Saxons Lode 3.9m - 4.1m Wednesday PM. 
+We are closely monitoring the situation . 
+Consider activating any flood protection products you may have . Take care and avoid walking, cycling or driving through flood water 
+This message will be updated by 10:00AM on 05 February 2026 or as the situation changes.
+
 - Flood alert: Wye Estuary in Gloucestershire
 - High tides tomorrow morning may lead to flooding. 
 Flooding is possible from Wednesday 04/02 to Friday 06/02 

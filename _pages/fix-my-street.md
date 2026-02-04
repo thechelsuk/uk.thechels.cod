@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot Hole Alley, 4th February :- [8841300](https://www.fixmystreet.com/report/8841300)
+- Leaning traffic light after hit from vehicle, 4th February :- [8841121](https://www.fixmystreet.com/report/8841121)
 - Badly cracked and damaged pavement, 4th February :- [8840913](https://www.fixmystreet.com/report/8840913)
 - About a foot long, 4th February :- [8840423](https://www.fixmystreet.com/report/8840423)
 - Pothole near drain cover, 4th February :- [8840397](https://www.fixmystreet.com/report/8840397)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 4th February :- [8838898](https://www.fixmystreet.com/report/8838898)
 - Huge potholes turning left onto moorend road, 4th February :- [8838286](https://www.fixmystreet.com/report/8838286)
 - 40cm pothole and numerous others in Brandon Terrace Lane GL50 2BT, 4th February :- [8838236](https://www.fixmystreet.com/report/8838236)
-- TMC - Defects -CW6 Potholes  problem, 4th February :- [8838317](https://www.fixmystreet.com/report/8838317)
 - TMC - Defects -CW6 Potholes  problem, 4th February :- [8838318](https://www.fixmystreet.com/report/8838318)
-- TMC - Defects -CW6 Potholes  problem, 4th February :- [8838315](https://www.fixmystreet.com/report/8838315)
 
 <!-- fix_marker ends -->

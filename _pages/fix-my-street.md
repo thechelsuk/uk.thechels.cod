@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Parts of the road sign are missing and some are rotated, 3rd February :- [8832945](https://www.fixmystreet.com/report/8832945)
+- Large pothole just after bridge., 3rd February :- [8832919](https://www.fixmystreet.com/report/8832919)
+- Very deep pothole; caused puncture to front passenger tyre and wheel damage, 3rd February :- [8832868](https://www.fixmystreet.com/report/8832868)
 - A pothole in road problem, 3rd February :- [8832636](https://www.fixmystreet.com/report/8832636)
 - A pothole in road problem, 3rd February :- [8832408](https://www.fixmystreet.com/report/8832408)
 - Manhole loose when driving over it, 3rd February :- [8832265](https://www.fixmystreet.com/report/8832265)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830633](https://www.fixmystreet.com/report/8830633)
 - TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830632](https://www.fixmystreet.com/report/8830632)
 - TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830631](https://www.fixmystreet.com/report/8830631)
-- TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830630](https://www.fixmystreet.com/report/8830630)
-- TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830629](https://www.fixmystreet.com/report/8830629)
-- TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830628](https://www.fixmystreet.com/report/8830628)
 
 <!-- fix_marker ends -->

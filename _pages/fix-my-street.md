@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A436 pothole in eastbound carriageway -, 5th February :- [8848356](https://www.fixmystreet.com/report/8848356)
 - Street lighting is not working, 5th February :- [8848188](https://www.fixmystreet.com/report/8848188)
 - Potholes down whole of albert road, 5th February :- [8847977](https://www.fixmystreet.com/report/8847977)
 - Large pothole by zebra crossing, 5th February :- [8847962](https://www.fixmystreet.com/report/8847962)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - No lighting on the drive between Griffith Ave and The Knole, 5th February :- [8847177](https://www.fixmystreet.com/report/8847177)
 - The drain is blocked problem, 5th February :- [8847123](https://www.fixmystreet.com/report/8847123)
 - Post or sign leaning slightly (less than 20 degrees) problem, 5th February :- [8847122](https://www.fixmystreet.com/report/8847122)
-- Huge deep pot hole, 5th February :- [8847069](https://www.fixmystreet.com/report/8847069)
 
 <!-- fix_marker ends -->

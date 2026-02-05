@@ -98,10 +98,26 @@ This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - A series of high tides over the next few days may lead to flooding. Flooding is possible until Friday 06/02. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.5m to 3.7m Thursday 05/02 at 12:00 PM, and 3.5m to 3.7m Friday 06/02 at 00:15 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 1:00PM on 6 February 2026 or as the situation changes.
 
+- Flood alert: River Wye in Herefordshire
+- Rising river levels today may lead to flooding. 
+Flooding is possible from the early hours of 06 February 2026 . 
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- , Mordiford 4m to 4.3m on 06/02 PM, Ross on Wye 3.7m to 4.0m on 07/02 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 06 February 2026 or as the situation changes.
+
 - Flood alert: Rivers in the Forest of Dean
 - Rising river levels today may lead to flooding. 
 Flooding is possible on 05 February 2026 . 
 Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 06 February 2026 or as the situation changes.
+
+- Flood alert: River Wye in Gloucestershire
+- Rising river levels today may lead to flooding. 
+Flooding is possible from the early hours of 06 February 2026 . 
+Flooding mat effect low lying land and roads along the River Wye. Predicted peaks:-Ross on Wye 3.7m to 4.0m on 07/02 AM, Lydbrook 4.3m to 4.6m on 07/02 PM. 
 We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 06 February 2026 or as the situation changes.

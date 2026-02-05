@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lighting is not working, 5th February :- [8848188](https://www.fixmystreet.com/report/8848188)
+- Potholes down whole of albert road, 5th February :- [8847977](https://www.fixmystreet.com/report/8847977)
+- Large pothole by zebra crossing, 5th February :- [8847962](https://www.fixmystreet.com/report/8847962)
+- Large/deep pothole on the left side of the road, 5th February :- [8847960](https://www.fixmystreet.com/report/8847960)
+- Pot holes by first chicane if coming down albert road towards town, 5th February :- [8847952](https://www.fixmystreet.com/report/8847952)
+- Large pothole on Evesham Road near the entrance to the sports field. The road is very rough there generally but this hole has appeared over the last few days., 5th February :- [8847939](https://www.fixmystreet.com/report/8847939)
 - Pothole on lane, 5th February :- [8847583](https://www.fixmystreet.com/report/8847583)
 - Pothole and broken edge of lane on the left side from Brockhampton to Sevenhampton, 5th February :- [8847559](https://www.fixmystreet.com/report/8847559)
 - Big pothole on lane left side from Brockhampton to Sevenhampton, 5th February :- [8847434](https://www.fixmystreet.com/report/8847434)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - The drain is blocked problem, 5th February :- [8847123](https://www.fixmystreet.com/report/8847123)
 - Post or sign leaning slightly (less than 20 degrees) problem, 5th February :- [8847122](https://www.fixmystreet.com/report/8847122)
 - Huge deep pot hole, 5th February :- [8847069](https://www.fixmystreet.com/report/8847069)
-- Needless barriers, 5th February :- [8846860](https://www.fixmystreet.com/report/8846860)
-- Post near bus stop, 5th February :- [8846856](https://www.fixmystreet.com/report/8846856)
-- Uneven pavement signs, 5th February :- [8846839](https://www.fixmystreet.com/report/8846839)
-- Barriers and signs still in situ, 5th February :- [8846813](https://www.fixmystreet.com/report/8846813)
-- A pothole in road problem, 5th February :- [8846881](https://www.fixmystreet.com/report/8846881)
-- Three plastic fences left by Ringway, 5th February :- [8846546](https://www.fixmystreet.com/report/8846546)
 
 <!-- fix_marker ends -->

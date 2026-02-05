@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- King Charles' home hosts World Cancer Day event ([5 hours ago](https://www.bbc.com/news/articles/cwyw058g99lo?at_medium=RSS&at_campaign=rss))
-- Restoration of canal walkway amid £16m funding boost ([6 hours ago](https://www.bbc.com/news/articles/cp873mnp1rgo?at_medium=RSS&at_campaign=rss))
-- Teachers strike over 'abusive' pupil behaviour ([12 hours ago](https://www.bbc.com/news/articles/cq5ynn00032o?at_medium=RSS&at_campaign=rss))
-- Cancer survivor turns trauma into art in short film ([18 hours ago](https://www.bbc.com/news/articles/crkr3yg2zpko?at_medium=RSS&at_campaign=rss))
-- Hundreds oppose plans for new Forest of Dean town ([19 hours ago](https://www.bbc.com/news/articles/cqxyn385rrxo?at_medium=RSS&at_campaign=rss))
+- King Charles' home hosts World Cancer Day event ([8 hours ago](https://www.bbc.com/news/articles/cwyw058g99lo?at_medium=RSS&at_campaign=rss))
+- Restoration of canal walkway amid £16m funding boost ([9 hours ago](https://www.bbc.com/news/articles/cp873mnp1rgo?at_medium=RSS&at_campaign=rss))
+- Teachers strike over 'abusive' pupil behaviour ([14 hours ago](https://www.bbc.com/news/articles/cq5ynn00032o?at_medium=RSS&at_campaign=rss))
+- Cancer survivor turns trauma into art in short film ([21 hours ago](https://www.bbc.com/news/articles/crkr3yg2zpko?at_medium=RSS&at_campaign=rss))
+- Hundreds oppose plans for new Forest of Dean town ([21 hours ago](https://www.bbc.com/news/articles/cqxyn385rrxo?at_medium=RSS&at_campaign=rss))
 - Hunt for man over alleged stalking and assaults ([1 days ago](https://www.bbc.com/news/articles/cgl8wgd1z0eo?at_medium=RSS&at_campaign=rss))
 - Pop-up market closes ahead of bridge demolition ([1 days ago](https://www.bbc.com/news/articles/c4g4dylke22o?at_medium=RSS&at_campaign=rss))
 - 'Effervescent' FKA Twigs' journey to Grammy success ([1 days ago](https://www.bbc.com/news/articles/cx2k8rnx80do?at_medium=RSS&at_campaign=rss))

@@ -98,12 +98,20 @@ This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - A series of high tides over the next few days may lead to flooding. Flooding is possible until Friday 06/02. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.5m to 3.7m Thursday 05/02 at 12:00 PM, and 3.5m to 3.7m Friday 06/02 at 00:15 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 1:00PM on 6 February 2026 or as the situation changes.
 
+- Flood alert: Rivers in the Forest of Dean
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 05 February 2026 . 
+Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 06 February 2026 or as the situation changes.
+
 - Flood alert: River Severn in Worcestershire
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 5 February, and in the coming days.  Further rainfall is forecast over the next 24 hours.
 Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Peaks:- Bewdley peaked 2.51m Thursday AM, Worcester peaked 3.15m Thursday AM, Diglis peaked 2.90m Thursday AM, Kempsey Yacht Club peaking at 5.05m Thursday AM and Saxons Lode peaked 3.93m Thursday AM.  We are closely monitoring the situation.  Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 6 February 2026 or as the situation changes.
 
 - Flood alert: Wye Estuary in Gloucestershire
-- High tides today may lead to flooding. Whilst the period of high tides is coming to an end, river levels will remain over the coming days. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 6.9 to 7.2m Thursday 05/02 at 9:45PM. Newport 6.5m to 6.7m Thursday 05/02 at 9:30PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 1:00PM on 6 February 2026 or as the situation changes.
+- High tides may lead to flooding on Thursday evening and Friday morning. Whilst the period of high tides is coming to an end, river levels will remain over the coming days. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 6.9m to 7.2m Thursday 05/02 at 9:45 PM and 6.9m to 7.1m Friday 06/02 at 10:00 AM. Newport 6.5m to 6.7m Thursday 05/02 at 9:30 PM and 6.5m to 6.7m Friday 06/02 at 09:45 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 1:00PM on 6 February 2026 or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 

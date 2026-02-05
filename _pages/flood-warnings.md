@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. Flooding is possible on 04 February 2026 and throughout the week. River levels are now slowly falling at the Great Somerford gauge. Flooding is expected to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook. Low lying land and roads expected to be most affected, particularly in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is expected this week. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses . This message will be updated by 12:00PM on 05 February 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 05 February 2026 and throughout the week. River levels are currently decreasing at the Great Somerford gauge but are expected to rise in response to overnight rainfall. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is expected today and throughout the weekend. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 06 February 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -95,29 +95,15 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
 
-- Warning no longer in force: Tidal River Avon at Bristol, Pill and Shirehampton
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Tidal conditions are expected to improve and no flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
-
-
 - Flood alert: Severn estuary from Gloucester to Sharpness
-- A series of high tides over the next few days may lead to flooding. Flooding is possible until Friday 06/02. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.
-Predicted peaks: Sandhurst 3.6m to 3.8m Wednesday 04/02 at 11:30 PM, and 3.6m to 3.8m tomorrow morning Thursday 05/02 at 11:45 AM.
-We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water.
-This message will be updated by 12:00PM on 05 February 2026 or as the situation changes.
+- A series of high tides over the next few days may lead to flooding. Flooding is possible until Friday 06/02. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.5m to 3.7m Thursday 05/02 at 12:00 PM, and 3.5m to 3.7m Friday 06/02 at 00:15 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 1:00PM on 6 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 5 February, and in the coming days.  Further rainfall is forecast over the next 24 hours.
 Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Peaks:- Bewdley peaked 2.51m Thursday AM, Worcester peaked 3.15m Thursday AM, Diglis peaked 2.90m Thursday AM, Kempsey Yacht Club peaking at 5.05m Thursday AM and Saxons Lode peaked 3.93m Thursday AM.  We are closely monitoring the situation.  Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 6 February 2026 or as the situation changes.
 
 - Flood alert: Wye Estuary in Gloucestershire
-- A series of high tides over the next few days may lead to flooding.  Flooding is possible until Friday 06/02. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow.
-Predicted peaks:- Avonmouth Portbury 7.0m to 7.4m Wednesday 04/02 at 9:15PM and 7.0 to 7.4m Thursday 05/02 at 9:30AM.
-Newport 6.8m to 7.0m Wednesday 04/02 at 9:00PM and 6.8m to 7.0m Thursday 05/02 at 9:00AM.
-We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 12:00PM on 05 February 2026 or as the situation changes.
+- High tides today may lead to flooding. Whilst the period of high tides is coming to an end, river levels will remain over the coming days. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 6.9 to 7.2m Thursday 05/02 at 9:45PM. Newport 6.5m to 6.7m Thursday 05/02 at 9:30PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 1:00PM on 6 February 2026 or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 

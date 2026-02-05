@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown vegetation between The Magnum Ice Cream Company & path, 5th February :- [8842118](https://www.fixmystreet.com/report/8842118)
+- Street light not working. Very dark in area, 5th February :- [8842109](https://www.fixmystreet.com/report/8842109)
 - Pothole on London Road, 5th February :- [8841893](https://www.fixmystreet.com/report/8841893)
 - Pot Hole Alley, 4th February :- [8841300](https://www.fixmystreet.com/report/8841300)
 - Leaning traffic light after hit from vehicle, 4th February :- [8841121](https://www.fixmystreet.com/report/8841121)
@@ -25,9 +27,7 @@ permalink: /fix-my-street
 - Very dangerous large pothole just outside no 19 Greenhills road, 4th February :- [8838547](https://www.fixmystreet.com/report/8838547)
 - A pothole in road problem, 4th February :- [8838875](https://www.fixmystreet.com/report/8838875)
 - Pothole not been repaired as per report. Pothole in middle of road., 4th February :- [8838350](https://www.fixmystreet.com/report/8838350)
-- TMC - Defects - Other problem, 4th February :- [8838897](https://www.fixmystreet.com/report/8838897)
 - TMC - Defects - Other problem, 4th February :- [8838898](https://www.fixmystreet.com/report/8838898)
-- Huge potholes turning left onto moorend road, 4th February :- [8838286](https://www.fixmystreet.com/report/8838286)
-- 40cm pothole and numerous others in Brandon Terrace Lane GL50 2BT, 4th February :- [8838236](https://www.fixmystreet.com/report/8838236)
+- TMC - Defects - Other problem, 4th February :- [8838897](https://www.fixmystreet.com/report/8838897)
 
 <!-- fix_marker ends -->

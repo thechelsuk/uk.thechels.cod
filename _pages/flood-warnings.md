@@ -82,6 +82,14 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 11:00AM on 07 February 2026 or as the situation changes.
 
+- Flood alert: River Stour in South Warwickshire
+- High river levels today have led to flooding. 
+Flooding is possible on 06 February 2026 into the evening. 
+Locations most affected will be low lying land and roads near rivers. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 07 February 2026 or as the situation changes.
+
 - Flood alert: River Severn in Gloucestershire
 - Rising river levels today may lead to flooding. 
 Flooding is possible on 06 February 2026 . 
@@ -162,6 +170,14 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Rising river levels are expected to cause flooding today. 
 Flooding is expected on 06 February 2026 and over the coming days. 
 Flooding may affect Gabb Lane at Apperley and local caravan parks. Predicted peak at Haw Bridge 5.0m to 5.3m on Monday 09/02 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 07 February 2026 or as the situation changes. 
+
+- Flood warning: River Avon at Strensham and Bredon
+- Rising river levels are expected to cause flooding today. 
+Flooding is expected on 06 February 2026 and over the coming days. 
+Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham 2.6m to 2.9m on Sunday 08/02 AM, Bredon 2.8m to 3.1m on Sunday 08/02 AM. 
 We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 07 February 2026 or as the situation changes. 

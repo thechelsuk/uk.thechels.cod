@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole on corner of Moorend Road close to mini roundabout, 6th February :- [8849600](https://www.fixmystreet.com/report/8849600)
+- Large pothole on Oakland St, 6th February :- [8849597](https://www.fixmystreet.com/report/8849597)
 - Loads of dog dirt again, 5th February :- [8849343](https://www.fixmystreet.com/report/8849343)
 - Markings of box junction are worn, 5th February :- [8849301](https://www.fixmystreet.com/report/8849301)
 - Multiple lights not working, 5th February :- [8849263](https://www.fixmystreet.com/report/8849263)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large pothole impossible to avoid because of parked cars opposite, 5th February :- [8847397](https://www.fixmystreet.com/report/8847397)
 - Missing finger sign, 5th February :- [8847374](https://www.fixmystreet.com/report/8847374)
 - A pothole in road problem, 5th February :- [8847369](https://www.fixmystreet.com/report/8847369)
-- Footpath finger sign broken off, 5th February :- [8847344](https://www.fixmystreet.com/report/8847344)
-- There are a number of potholes just as you turn into Folland Ave from the main road, 5th February :- [8847329](https://www.fixmystreet.com/report/8847329)
 
 <!-- fix_marker ends -->

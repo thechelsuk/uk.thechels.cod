@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Continous flooding and now potholes appearing, 6th February :- [8857103](https://www.fixmystreet.com/report/8857103)
+- Massive potholes (several!), 6th February :- [8856764](https://www.fixmystreet.com/report/8856764)
+- Lorry had a tyre off here due to MASSIVE POT HOLES!!, 6th February :- [8856757](https://www.fixmystreet.com/report/8856757)
 - 300+ millimetre diameter deep pothole full of water on outside of eastbound., 6th February :- [8856636](https://www.fixmystreet.com/report/8856636)
 - Pot hole on the speed ramp before the junction, 6th February :- [8856610](https://www.fixmystreet.com/report/8856610)
 - Persistent flooding on Old Gloucester Road (B4634) creating serious danger to road users and pedestrians, 6th February :- [8856534](https://www.fixmystreet.com/report/8856534)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Apologies, not a bollard. Large multi sign frame, 6th February :- [8855500](https://www.fixmystreet.com/report/8855500)
 - Water not getting to the train, 6th February :- [8855410](https://www.fixmystreet.com/report/8855410)
 - Inconsiderate and selfish parking by parents, 6th February :- [8855216](https://www.fixmystreet.com/report/8855216)
-- Wheel sized pothole, 6th February :- [8855203](https://www.fixmystreet.com/report/8855203)
-- 40cm pothole near star of Lesin Rd, 6th February :- [8855144](https://www.fixmystreet.com/report/8855144)
-- Approx 12inches wide x 15 inches long, 6th February :- [8855131](https://www.fixmystreet.com/report/8855131)
 
 <!-- fix_marker ends -->

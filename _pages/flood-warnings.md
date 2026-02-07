@@ -119,12 +119,13 @@ Observed peaks:- Hay-on-Wye 1.54m Friday 06/02 AM. Bredwardine 3.22m Friday 06/0
 We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
 This message will be updated by 10:00AM on 8th February 2026 or as the situation changes.
 
-- Warning no longer in force: Rivers in the Forest of Dean
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
+- Flood alert: Rivers in the Forest of Dean
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 07 February 2026 . 
+Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 08 February 2026 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
 - High river levels today may lead to flooding. Flooding is possible on 7th February 2026. 

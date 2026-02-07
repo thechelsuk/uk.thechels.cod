@@ -140,12 +140,6 @@ Flooding may affect low lying land & roads adjacent to the river from Highley to
 We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water.
 This message will be updated by 10:00AM on 08 February 2026 or as the situation changes.
 
-- Warning no longer in force: Wye Estuary in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Coastal conditions are expected to improve and no flooding is expected. Although this tidal alert is no longer in force, river levels remain high due to recent rainfall. 
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Saturday 07 February, and in the coming days. Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe 4.2m to 4.5m on Sunday 08/02 PM, and Upper Pound 4.3m to 4.7m on Sunday 08/02 PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 08 February 2026 or as the situation changes.
 

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branch has fallen, 6th February :- [8857771](https://www.fixmystreet.com/report/8857771)
 - Potholes, 6th February :- [8857649](https://www.fixmystreet.com/report/8857649)
 - Numerous large Potholes on New Barn Lane, 6th February :- [8857400](https://www.fixmystreet.com/report/8857400)
 - Blocked drain, 6th February :- [8857348](https://www.fixmystreet.com/report/8857348)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Potholes URGENT, 6th February :- [8856144](https://www.fixmystreet.com/report/8856144)
 - Several XL potholes formed, 6th February :- [8856131](https://www.fixmystreet.com/report/8856131)
 - Council need to address the rod asap, 6th February :- [8856116](https://www.fixmystreet.com/report/8856116)
-- Council need to address the rod asap, 6th February :- [8856115](https://www.fixmystreet.com/report/8856115)
 
 <!-- fix_marker ends -->

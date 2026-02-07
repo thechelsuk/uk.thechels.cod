@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Driver avoids prison after fatal crash on A-road ([8 hours ago](https://www.bbc.com/news/articles/c2lgl9dwkglo?at_medium=RSS&at_campaign=rss))
-- Bid could turn forest into 'theme park' group says ([10 hours ago](https://www.bbc.com/news/articles/cm2y24vdn1do?at_medium=RSS&at_campaign=rss))
-- An uplifting night of celebration at the No Child Left Behind Awards 2025 ([11 hours ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
-- Vehicles from UK 'helping save lives' in Ukraine ([16 hours ago](https://www.bbc.com/news/articles/c70lp1x78ndo?at_medium=RSS&at_campaign=rss))
-- 'Outpouring of support' to save hub from closure ([16 hours ago](https://www.bbc.com/news/articles/ce3edge8lk7o?at_medium=RSS&at_campaign=rss))
+- Driver avoids prison after fatal crash on A-road ([10 hours ago](https://www.bbc.com/news/articles/c2lgl9dwkglo?at_medium=RSS&at_campaign=rss))
+- Bid could turn forest into 'theme park' group says ([13 hours ago](https://www.bbc.com/news/articles/cm2y24vdn1do?at_medium=RSS&at_campaign=rss))
+- An uplifting night of celebration at the No Child Left Behind Awards 2025 ([14 hours ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
+- Vehicles from UK 'helping save lives' in Ukraine ([19 hours ago](https://www.bbc.com/news/articles/c70lp1x78ndo?at_medium=RSS&at_campaign=rss))
+- 'Outpouring of support' to save hub from closure ([19 hours ago](https://www.bbc.com/news/articles/ce3edge8lk7o?at_medium=RSS&at_campaign=rss))
 - Village's last pub set to reopen after three-year fight ([1 days ago](https://www.bbc.com/news/articles/c8018j3y7yko?at_medium=RSS&at_campaign=rss))
 - Gloucestershire residents encouraged to share their views on reorganisation of councils ([1 days ago](https://www.cheltenham.gov.uk/news/article/3093/gloucestershire_residents_encouraged_to_share_their_views_on_reorganisation_of_councils))
 - Man who abused six-year-old girls as teen jailed ([1 days ago](https://www.bbc.com/news/articles/c14r3vj72kro?at_medium=RSS&at_campaign=rss))

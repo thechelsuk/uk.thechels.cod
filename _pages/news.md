@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Lost spaniel is found after two weeks in the wild ([1 hours ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
-- Teen to climb Everest equivalent for scout trip ([11 hours ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
-- 'Theme park' and 'stabbed teenager memorial' ([11 hours ago](https://www.bbc.com/news/articles/c87r94y5wnwo?at_medium=RSS&at_campaign=rss))
+- Lost spaniel is found after two weeks in the wild ([3 hours ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
+- Teen to climb Everest equivalent for scout trip ([13 hours ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
+- 'Theme park' and 'stabbed teenager memorial' ([13 hours ago](https://www.bbc.com/news/articles/c87r94y5wnwo?at_medium=RSS&at_campaign=rss))
 - Driver avoids prison after fatal crash on A-road ([1 days ago](https://www.bbc.com/news/articles/c2lgl9dwkglo?at_medium=RSS&at_campaign=rss))
 - Bid could turn forest into 'theme park' group says ([1 days ago](https://www.bbc.com/news/articles/cm2y24vdn1do?at_medium=RSS&at_campaign=rss))
 - An uplifting night of celebration at the No Child Left Behind Awards 2025 ([1 days ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
@@ -26,7 +26,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Keeping empty city office 'costs £132k a year' ([2 days ago](https://www.bbc.com/news/articles/clygl0qmvmmo?at_medium=RSS&at_campaign=rss))
 - Congestion concerns raised ahead of junction work ([2 days ago](https://www.bbc.com/news/articles/c62ryy5zp2eo?at_medium=RSS&at_campaign=rss))
 - New SEND training 'is great news' for students ([2 days ago](https://www.bbc.com/news/articles/c87rvnynl0xo?at_medium=RSS&at_campaign=rss))
-- King Charles' home hosts World Cancer Day event ([2 days ago](https://www.bbc.com/news/articles/cwyw058g99lo?at_medium=RSS&at_campaign=rss))
+- King Charles' home hosts World Cancer Day event ([3 days ago](https://www.bbc.com/news/articles/cwyw058g99lo?at_medium=RSS&at_campaign=rss))
 - Restoration of canal walkway amid £16m funding boost ([3 days ago](https://www.bbc.com/news/articles/cp873mnp1rgo?at_medium=RSS&at_campaign=rss))
 - Teachers strike over 'abusive' pupil behaviour ([3 days ago](https://www.bbc.com/news/articles/cq5ynn00032o?at_medium=RSS&at_campaign=rss))
 - 'I want other cancer patients to realise they are not alone' ([3 days ago](https://www.bbc.com/news/articles/crkr3yg2zpko?at_medium=RSS&at_campaign=rss))

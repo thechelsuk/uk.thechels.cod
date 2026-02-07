@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole 18 inch by 10 inch by at least 6 inch deep, 7th February :- [8862838](https://www.fixmystreet.com/report/8862838)
 - Group of potholes between 38 and 39 carisbrooke road, 7th February :- [8862286](https://www.fixmystreet.com/report/8862286)
 - Large puddle in front of school crossing, 7th February :- [8862203](https://www.fixmystreet.com/report/8862203)
 - The brickwork has sunk below the level of the pavement, which poses a trip hazard, 7th February :- [8862087](https://www.fixmystreet.com/report/8862087)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large pothole in lane, 7th February :- [8861120](https://www.fixmystreet.com/report/8861120)
 - Four very deep potholes. U now have to drive through if u are on one side of the road., 7th February :- [8860990](https://www.fixmystreet.com/report/8860990)
 - Road and drive erosion, 7th February :- [8860911](https://www.fixmystreet.com/report/8860911)
-- Erosion of surface leading to tyres slipping, 7th February :- [8860688](https://www.fixmystreet.com/report/8860688)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road drain blocked with decomposed leaves, 7th February :- [8858376](https://www.fixmystreet.com/report/8858376)
+- Hazard to road users, particularly those on two wheels, 7th February :- [8858277](https://www.fixmystreet.com/report/8858277)
+- Multiple large potholes causing damage to vehicles, 7th February :- [8858251](https://www.fixmystreet.com/report/8858251)
+- Flytipped waste, 7th February :- [8858236](https://www.fixmystreet.com/report/8858236)
 - Blocked drain, 7th February :- [8858083](https://www.fixmystreet.com/report/8858083)
 - Tree branch has fallen, 6th February :- [8857771](https://www.fixmystreet.com/report/8857771)
 - Potholes, 6th February :- [8857649](https://www.fixmystreet.com/report/8857649)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Persistent flooding on Old Gloucester Road (B4634) creating serious danger to road users and pedestrians, 6th February :- [8856534](https://www.fixmystreet.com/report/8856534)
 - Persistent flooding on Old Gloucester Road (B4634) creating serious danger to road users and pedestrians, 6th February :- [8856507](https://www.fixmystreet.com/report/8856507)
 - Water ponding on carriageway, 6th February :- [8856291](https://www.fixmystreet.com/report/8856291)
-- 2 potholes in the car park - one very large!, 6th February :- [8856250](https://www.fixmystreet.com/report/8856250)
-- Fridge fly tipped junction of hillview Road and Wilkes avenue, 6th February :- [8856186](https://www.fixmystreet.com/report/8856186)
-- Potholes URGENT, 6th February :- [8856144](https://www.fixmystreet.com/report/8856144)
-- Several XL potholes formed, 6th February :- [8856131](https://www.fixmystreet.com/report/8856131)
 
 <!-- fix_marker ends -->

@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Lost spaniel is found after two weeks in the wild ([9 hours ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
-- Teen to climb Everest equivalent for scout trip ([20 hours ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
-- 'Theme park' and 'stabbed teenager memorial' ([20 hours ago](https://www.bbc.com/news/articles/c87r94y5wnwo?at_medium=RSS&at_campaign=rss))
+- Lost spaniel is found after two weeks in the wild ([11 hours ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
+- Teen to climb Everest equivalent for scout trip ([22 hours ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
+- 'Theme park' and 'stabbed teenager memorial' ([22 hours ago](https://www.bbc.com/news/articles/c87r94y5wnwo?at_medium=RSS&at_campaign=rss))
 - Driver avoids prison after fatal crash on A-road ([1 days ago](https://www.bbc.com/news/articles/c2lgl9dwkglo?at_medium=RSS&at_campaign=rss))
 - Bid could turn forest into 'theme park' group says ([1 days ago](https://www.bbc.com/news/articles/cm2y24vdn1do?at_medium=RSS&at_campaign=rss))
 - An uplifting night of celebration at the No Child Left Behind Awards 2025 ([1 days ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))

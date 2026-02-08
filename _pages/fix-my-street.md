@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 8th February :- [8866993](https://www.fixmystreet.com/report/8866993)
+- Volunteer litter pick bags ready for collection, 8th February :- [8866760](https://www.fixmystreet.com/report/8866760)
+- Very deep pot just past the bend, 8th February :- [8866635](https://www.fixmystreet.com/report/8866635)
+- Pothole, 8th February :- [8866392](https://www.fixmystreet.com/report/8866392)
+- Pothole, 8th February :- [8866376](https://www.fixmystreet.com/report/8866376)
+- Potholes, 8th February :- [8866359](https://www.fixmystreet.com/report/8866359)
+- Road damage in several places., 8th February :- [8866264](https://www.fixmystreet.com/report/8866264)
+- Flooded road between 141 Village Road & Independent Living Centre, 8th February :- [8866261](https://www.fixmystreet.com/report/8866261)
+- Pothole near junction of Village Road and Hesters Way Road, 8th February :- [8866103](https://www.fixmystreet.com/report/8866103)
 - Abandoned scooter preventing disabled people's access, 8th February :- [8866092](https://www.fixmystreet.com/report/8866092)
 - 1 strand electric fence that can’t be seen, 8th February :- [8866043](https://www.fixmystreet.com/report/8866043)
 - New style put in dangerous and no way for dogs to pass, 8th February :- [8866025](https://www.fixmystreet.com/report/8866025)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th February :- [8866156](https://www.fixmystreet.com/report/8866156)
 - TMC - Defects -CW6 Potholes  problem, 8th February :- [8866155](https://www.fixmystreet.com/report/8866155)
 - TMC - Defects -CW6 Potholes  problem, 8th February :- [8866154](https://www.fixmystreet.com/report/8866154)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8866153](https://www.fixmystreet.com/report/8866153)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8866152](https://www.fixmystreet.com/report/8866152)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8866151](https://www.fixmystreet.com/report/8866151)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8866150](https://www.fixmystreet.com/report/8866150)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8866149](https://www.fixmystreet.com/report/8866149)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8866148](https://www.fixmystreet.com/report/8866148)
-- Potholes on Badgeworth Lane, 8th February :- [8865384](https://www.fixmystreet.com/report/8865384)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8865307](https://www.fixmystreet.com/report/8865307)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8865306](https://www.fixmystreet.com/report/8865306)
 
 <!-- fix_marker ends -->

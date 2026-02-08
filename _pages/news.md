@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In Pictures: 'Pancake Day preparations' and 'dancing at Highgrove' ([1 hours ago](https://www.bbc.com/news/articles/cly1j2yyykdo?at_medium=RSS&at_campaign=rss))
-- Lost spaniel is found after two weeks in the wild ([15 hours ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Pancake Day preparations' and 'dancing at Highgrove' ([3 hours ago](https://www.bbc.com/news/articles/cly1j2yyykdo?at_medium=RSS&at_campaign=rss))
+- Lost spaniel is found after two weeks in the wild ([17 hours ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
 - Teen to climb Everest equivalent for scout trip ([1 days ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
 - 'Theme park' and 'stabbed teenager memorial' ([1 days ago](https://www.bbc.com/news/articles/c87r94y5wnwo?at_medium=RSS&at_campaign=rss))
 - Driver avoids prison after fatal crash on A-road ([1 days ago](https://www.bbc.com/news/articles/c2lgl9dwkglo?at_medium=RSS&at_campaign=rss))
@@ -38,10 +38,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Women blocked from asking health chiefs over home births suspension ([9 days ago](https://gloucesternewscentre.co.uk/women-blocked-from-asking-health-chiefs-over-home-births-suspension/))
 - Private hire driver licence revoked for displaying illegal number plates ([9 days ago](https://www.cheltenham.gov.uk/news/article/3092/private_hire_driver_licence_revoked_for_displaying_illegal_number_plates))
 - Private hire driver license revoked for displaying illegal number plates ([9 days ago](https://www.cheltenham.gov.uk/news/article/3091/private_hire_driver_license_revoked_for_displaying_illegal_number_plates))
-- Gloucestershire Airport - update ([10 days ago](https://www.cheltenham.gov.uk/news/article/3090/gloucestershire_airport_-_update))
+- Gloucestershire Airport - update ([11 days ago](https://www.cheltenham.gov.uk/news/article/3090/gloucestershire_airport_-_update))
 - Man aged 18 dies following collision involving e-scooter and car in Cheltenham ([12 days ago](https://gloucesternewscentre.co.uk/man-aged-18-dies-following-collision-involving-e-scooter-and-car-in-cheltenham/))
 - Cabinet to recommend £697 million budget for Council to approve ([15 days ago](https://gloucesternewscentre.co.uk/cabinet-to-recommend-697-million-budget-for-council-to-approve/))
-- Appeal after report man films up skirt of teenage girl in Cheltenham ([15 days ago](https://gloucesternewscentre.co.uk/appeal-after-report-man-films-up-skirt-of-teenage-girl-in-cheltenham/))
+- Appeal after report man films up skirt of teenage girl in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/appeal-after-report-man-films-up-skirt-of-teenage-girl-in-cheltenham/))
 - Cheltenham elections to be postponed due to council shake-up plans ([16 days ago](https://gloucesternewscentre.co.uk/cheltenham-elections-to-be-postponed-due-to-council-shake-up-plans/))
 - Local election to be postponed ([16 days ago](https://www.cheltenham.gov.uk/news/article/3089/local_election_to_be_postponed))
 - Police Chief wants to raise Council Tax ([16 days ago](https://www.bbc.co.uk/sounds/play/p0mwgdbd?at_medium=RSS&at_campaign=rss))

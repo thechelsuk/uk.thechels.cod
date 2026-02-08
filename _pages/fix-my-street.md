@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes - not driveable, 8th February :- [8864936](https://www.fixmystreet.com/report/8864936)
+- Post starting to lean, 8th February :- [8864919](https://www.fixmystreet.com/report/8864919)
+- Deep pothole, 8th February :- [8864754](https://www.fixmystreet.com/report/8864754)
+- Narrow lanes, 8th February :- [8864753](https://www.fixmystreet.com/report/8864753)
+- Drain filled with leaves, 8th February :- [8864246](https://www.fixmystreet.com/report/8864246)
+- Again another pothole that re-opens in no time, 8th February :- [8864236](https://www.fixmystreet.com/report/8864236)
+- The whole road is a state, 8th February :- [8864232](https://www.fixmystreet.com/report/8864232)
+- Numerous large potholes on mini roundabouts on church road., 8th February :- [8864205](https://www.fixmystreet.com/report/8864205)
 - Traffic light out, 8th February :- [8864028](https://www.fixmystreet.com/report/8864028)
 - Water pooling across path due to uneven surface, 8th February :- [8864008](https://www.fixmystreet.com/report/8864008)
 - Large pothole, 8th February :- [8863612](https://www.fixmystreet.com/report/8863612)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Group of potholes between 38 and 39 carisbrooke road, 7th February :- [8862286](https://www.fixmystreet.com/report/8862286)
 - Large puddle in front of school crossing, 7th February :- [8862203](https://www.fixmystreet.com/report/8862203)
 - The brickwork has sunk below the level of the pavement, which poses a trip hazard, 7th February :- [8862087](https://www.fixmystreet.com/report/8862087)
-- Dumped tyre & wood, 7th February :- [8862059](https://www.fixmystreet.com/report/8862059)
-- Big potholes driving down Leckhampton Road which our hard to avoid due to cars parked on road and oncoming traffic, 7th February :- [8861932](https://www.fixmystreet.com/report/8861932)
-- Big potholes which are hard to avoid as you drive down Leckhampton Road, 7th February :- [8861924](https://www.fixmystreet.com/report/8861924)
-- Big potholes which are hard to avoid as you drive down Leckhampton Road, 7th February :- [8861923](https://www.fixmystreet.com/report/8861923)
-- Large pothole, 7th February :- [8861914](https://www.fixmystreet.com/report/8861914)
-- The cycle path needs sweeping, 7th February :- [8861878](https://www.fixmystreet.com/report/8861878)
-- Large potholes outside 219 Hatherley Road, 7th February :- [8861413](https://www.fixmystreet.com/report/8861413)
-- Street light not working, 7th February :- [8861167](https://www.fixmystreet.com/report/8861167)
 
 <!-- fix_marker ends -->

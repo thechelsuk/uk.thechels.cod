@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole, 8th February :- [8863612](https://www.fixmystreet.com/report/8863612)
+- Multipke pot holes of varying depths and widths along manor road towards the roundabout near salvation army shop. Some are at least 4inchs deep and over 40cm wide duevto the number of pot holes and where they are in the road you are having to drive eirher very close to the pavement or on the other side of the riad to miss them to prevent damaging a car, 7th February :- [8863542](https://www.fixmystreet.com/report/8863542)
 - Whole road is a disgrace. Littered with potholes., 7th February :- [8863372](https://www.fixmystreet.com/report/8863372)
 - Multiple very deep pot holes on west bound lane., 7th February :- [8863318](https://www.fixmystreet.com/report/8863318)
 - Leaning sign, 7th February :- [8863114](https://www.fixmystreet.com/report/8863114)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street light not working, 7th February :- [8861167](https://www.fixmystreet.com/report/8861167)
 - Large pothole, 7th February :- [8861153](https://www.fixmystreet.com/report/8861153)
 - Large pothole in road, 7th February :- [8861147](https://www.fixmystreet.com/report/8861147)
-- Drain is blocked, 7th February :- [8861145](https://www.fixmystreet.com/report/8861145)
-- Large pothole in road, 7th February :- [8861140](https://www.fixmystreet.com/report/8861140)
 
 <!-- fix_marker ends -->

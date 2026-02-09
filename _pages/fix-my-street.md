@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep potholes forming along the middle of the road, 9th February :- [8871558](https://www.fixmystreet.com/report/8871558)
+- Pot hole, 9th February :- [8871457](https://www.fixmystreet.com/report/8871457)
+- Pot hole in road right by junction, 9th February :- [8871439](https://www.fixmystreet.com/report/8871439)
+- TMC - Defects -CW6 Potholes  problem, 9th February :- [8871381](https://www.fixmystreet.com/report/8871381)
+- Pothole in the road, opposite #38 Great Western Terrace, 9th February :- [8871013](https://www.fixmystreet.com/report/8871013)
+- Pothole in the road opposite #32 Great Western Terrace, 9th February :- [8871002](https://www.fixmystreet.com/report/8871002)
+- Pothole, 9th February :- [8870946](https://www.fixmystreet.com/report/8870946)
 - 49 Green street, 9th February :- [8870848](https://www.fixmystreet.com/report/8870848)
 - 12 inches in, 9th February :- [8870800](https://www.fixmystreet.com/report/8870800)
 - Several potholes on Harry Yates Way, after roundabout and up towards Thistledown Close, 8th February :- [8870541](https://www.fixmystreet.com/report/8870541)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 8th February :- [8870033](https://www.fixmystreet.com/report/8870033)
 - Potholes, 8th February :- [8869807](https://www.fixmystreet.com/report/8869807)
 - Broken Road Edge, Narrow Lane, 8th February :- [8869731](https://www.fixmystreet.com/report/8869731)
-- The flooding at this location is getting worse, 8th February :- [8869721](https://www.fixmystreet.com/report/8869721)
-- Pothole in entrance to Manor Park, 8th February :- [8869339](https://www.fixmystreet.com/report/8869339)
-- Several huge potholes, 8th February :- [8869213](https://www.fixmystreet.com/report/8869213)
-- Sunken Drain, 8th February :- [8869146](https://www.fixmystreet.com/report/8869146)
-- Footpath ruined, 8th February :- [8868979](https://www.fixmystreet.com/report/8868979)
-- Pathway flooded and surface damaged, 8th February :- [8868937](https://www.fixmystreet.com/report/8868937)
-- Pothole, 8th February :- [8868569](https://www.fixmystreet.com/report/8868569)
 
 <!-- fix_marker ends -->

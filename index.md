@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 09 February 2026
 
-- The average temperature today is 8.36˚C,
-- With highs of 8.75˚C and lows of 7.38˚C,
-- It may feel like 5.28˚C with broken clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 999hPa and humidity is 91%
+- The average temperature today is 9.26˚C,
+- With highs of 9.75˚C and lows of 8.25˚C,
+- It may feel like 6.61˚C with scattered clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 998hPa and humidity is 88%
 - The sun will rise at 07:34 and set at 17:10
 
 <!-- weather_marker ends -->

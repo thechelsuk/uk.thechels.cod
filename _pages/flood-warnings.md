@@ -74,6 +74,14 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 on 10 February 2026 or as the situation changes.
 
+- Flood alert: Tributaries on the Upper River Thames above Cricklade
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 09 February 2026 . 
+Locations most affected will be low lying land and roads near rivers. Flooding of low lying land and roads is possible from the Swill Brook, especially in the Oaksey area. Property flooding is not currently expected. Showers are forecast for today (09.02.26), with more prolonged rain this evening. There will then be further showers overnight. We expect river levels to rise through today 09/02/2026. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 12:00AM on 10 February 2026 or as the situation changes.
+
 - Flood alert: Middle Avon Rugby to Bidford
 - High river levels this morning may lead to flooding. 
 Flooding is possible on 09 February 2026 . 

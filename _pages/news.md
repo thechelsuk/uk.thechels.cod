@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Call for views on 'once-in-a-generation' changes ([3 hours ago](https://www.bbc.com/news/articles/cp3z31pkj7vo?at_medium=RSS&at_campaign=rss))
-- Sinkhole on residential street causes road closures ([16 hours ago](https://www.bbc.com/news/articles/c0lj84ld9ezo?at_medium=RSS&at_campaign=rss))
-- Tax bill hike for police budget amid plan to put more bobbies on the beat ([20 hours ago](https://gloucesternewscentre.co.uk/tax-bill-hike-for-police-budget-amid-plan-to-put-more-bobbies-on-the-beat/))
-- Tax bills rise by 5.7% to cover policing shortfall ([20 hours ago](https://www.bbc.com/news/articles/cp8r1kvxvmro?at_medium=RSS&at_campaign=rss))
+- Call for views on 'once-in-a-generation' changes ([5 hours ago](https://www.bbc.com/news/articles/cp3z31pkj7vo?at_medium=RSS&at_campaign=rss))
+- Sinkhole on residential street causes road closures ([18 hours ago](https://www.bbc.com/news/articles/c0lj84ld9ezo?at_medium=RSS&at_campaign=rss))
+- Tax bill hike for police budget amid plan to put more bobbies on the beat ([22 hours ago](https://gloucesternewscentre.co.uk/tax-bill-hike-for-police-budget-amid-plan-to-put-more-bobbies-on-the-beat/))
+- Tax bills rise by 5.7% to cover policing shortfall ([22 hours ago](https://www.bbc.com/news/articles/cp8r1kvxvmro?at_medium=RSS&at_campaign=rss))
 - In Pictures: 'Pancake Day preparations' and 'dancing at Highgrove' ([1 days ago](https://www.bbc.com/news/articles/cly1j2yyykdo?at_medium=RSS&at_campaign=rss))
 - Lost spaniel is found after two weeks in the wild ([1 days ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
 - Teen to climb Everest equivalent for scout trip ([2 days ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
@@ -39,7 +39,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Women blocked from asking health chiefs over home births suspension ([10 days ago](https://gloucesternewscentre.co.uk/women-blocked-from-asking-health-chiefs-over-home-births-suspension/))
 - Private hire driver licence revoked for displaying illegal number plates ([10 days ago](https://www.cheltenham.gov.uk/news/article/3092/private_hire_driver_licence_revoked_for_displaying_illegal_number_plates))
 - Private hire driver license revoked for displaying illegal number plates ([10 days ago](https://www.cheltenham.gov.uk/news/article/3091/private_hire_driver_license_revoked_for_displaying_illegal_number_plates))
-- Gloucestershire Airport - update ([11 days ago](https://www.cheltenham.gov.uk/news/article/3090/gloucestershire_airport_-_update))
+- Gloucestershire Airport - update ([12 days ago](https://www.cheltenham.gov.uk/news/article/3090/gloucestershire_airport_-_update))
 - Man aged 18 dies following collision involving e-scooter and car in Cheltenham ([13 days ago](https://gloucesternewscentre.co.uk/man-aged-18-dies-following-collision-involving-e-scooter-and-car-in-cheltenham/))
 - Cabinet to recommend £697 million budget for Council to approve ([16 days ago](https://gloucesternewscentre.co.uk/cabinet-to-recommend-697-million-budget-for-council-to-approve/))
 - Appeal after report man films up skirt of teenage girl in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/appeal-after-report-man-films-up-skirt-of-teenage-girl-in-cheltenham/))

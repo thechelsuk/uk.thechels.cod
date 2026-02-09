@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole that is getting bigger, 9th February :- [8880178](https://www.fixmystreet.com/report/8880178)
+- 12" pothole right outside my house, 9th February :- [8880113](https://www.fixmystreet.com/report/8880113)
+- A 350-400mm square sinkage in the road due to poor backfill of a drain repair, 9th February :- [8880094](https://www.fixmystreet.com/report/8880094)
+- Castle Street, Winchcombe, 9th February :- [8880080](https://www.fixmystreet.com/report/8880080)
+- Blocked Drain, 9th February :- [8880059](https://www.fixmystreet.com/report/8880059)
+- Large numbers of large potholes the length of Frogfurlong Lane, 9th February :- [8879984](https://www.fixmystreet.com/report/8879984)
+- Blocked drain - water not draining away, 9th February :- [8879918](https://www.fixmystreet.com/report/8879918)
+- Various deep pot holes off the roundabout onto manor road, 9th February :- [8879900](https://www.fixmystreet.com/report/8879900)
+- Pot hole adjacent to a utility cover, 9th February :- [8879820](https://www.fixmystreet.com/report/8879820)
 - Whole road needs resurfacing, 9th February :- [8879524](https://www.fixmystreet.com/report/8879524)
 - There are numerous large potholes on Tobyfield Road near the turning in to Tobyfield Clise, 9th February :- [8879506](https://www.fixmystreet.com/report/8879506)
 - 3 potholes in danger of joining up, 9th February :- [8879462](https://www.fixmystreet.com/report/8879462)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Back Lane, 9th February :- [8878843](https://www.fixmystreet.com/report/8878843)
 - TMC - Defects -CW10 Potholes problem, 9th February :- [8878964](https://www.fixmystreet.com/report/8878964)
 - Potholes by Arlington on Douro Rd, 9th February :- [8878545](https://www.fixmystreet.com/report/8878545)
-- Pothole by Rutland Court on Douro Rd, 9th February :- [8878489](https://www.fixmystreet.com/report/8878489)
-- 2 potholes outside Douro Court on Douro Road, 9th February :- [8878451](https://www.fixmystreet.com/report/8878451)
-- Pothole and extensive asociated surface damage, 9th February :- [8878411](https://www.fixmystreet.com/report/8878411)
-- Large trench pothole on Douro Road, 9th February :- [8878368](https://www.fixmystreet.com/report/8878368)
-- Several potholes along Ashwood Way, 9th February :- [8878295](https://www.fixmystreet.com/report/8878295)
-- Long 'trough' pothole and extensive damage on Douro Road, 9th February :- [8878231](https://www.fixmystreet.com/report/8878231)
-- Pothole on edge of road, size 12 boot in photo, 9th February :- [8878201](https://www.fixmystreet.com/report/8878201)
-- 5-6 cm deep pothole as per photo, 9th February :- [8878188](https://www.fixmystreet.com/report/8878188)
-- 2 potholes need fixing, 9th February :- [8878174](https://www.fixmystreet.com/report/8878174)
 
 <!-- fix_marker ends -->

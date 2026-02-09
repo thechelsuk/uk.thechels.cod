@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes on Harry Yates Way, after roundabout and up towards Thistledown Close, 8th February :- [8870541](https://www.fixmystreet.com/report/8870541)
 - Pothole next to brick hump, 8th February :- [8870369](https://www.fixmystreet.com/report/8870369)
 - Pothole just north of mini round about, 8th February :- [8870354](https://www.fixmystreet.com/report/8870354)
 - Pothole on side of road, 8th February :- [8870345](https://www.fixmystreet.com/report/8870345)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole, 8th February :- [8868569](https://www.fixmystreet.com/report/8868569)
 - Developing pothole , material being expelled on pavement, 8th February :- [8868457](https://www.fixmystreet.com/report/8868457)
 - Flytipped items, 8th February :- [8868235](https://www.fixmystreet.com/report/8868235)
-- 2 x pavement potholes, approx 12 inch diameter, between 103 and 105 Ciren Road, 8th February :- [8868013](https://www.fixmystreet.com/report/8868013)
 
 <!-- fix_marker ends -->

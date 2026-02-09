@@ -141,12 +141,12 @@ We are closely monitoring the situation. Take care and avoid walking, cycling or
 
 This message will be updated by 10:00AM on 10th February 2026 or as the situation changes.
 
-- Flood alert: Rivers in the Forest of Dean
-- River levels remain high in response to the recent rainfall. Flooding is possible today, Monday 09 February, and in the coming days.  
+- Warning no longer in force: Rivers in the Forest of Dean
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
 
-Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 11:00AM on 10 February 2026 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
 - High river levels today may lead to flooding. Flooding is possible on 9th February 2026. 

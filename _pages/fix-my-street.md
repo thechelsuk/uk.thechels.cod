@@ -9,7 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Whole road needs resurfacing, 9th February :- [8879524](https://www.fixmystreet.com/report/8879524)
+- There are numerous large potholes on Tobyfield Road near the turning in to Tobyfield Clise, 9th February :- [8879506](https://www.fixmystreet.com/report/8879506)
+- 3 potholes in danger of joining up, 9th February :- [8879462](https://www.fixmystreet.com/report/8879462)
+- Three large potholes, two of which have eroded through all the older tarmac, 9th February :- [8879269](https://www.fixmystreet.com/report/8879269)
+- Therr is a pothole next to a drain cover in the middle of Vhsncel Wsy which has exposed a sharp corner of the drain cover that can damage tyres if hit, 9th February :- [8879181](https://www.fixmystreet.com/report/8879181)
+- Small but deep pothole making your car judder, 9th February :- [8878990](https://www.fixmystreet.com/report/8878990)
+- Pothole in centre of carriageway, 9th February :- [8878925](https://www.fixmystreet.com/report/8878925)
+- Series of potholes in road, 9th February :- [8878911](https://www.fixmystreet.com/report/8878911)
 - Back Lane, 9th February :- [8878843](https://www.fixmystreet.com/report/8878843)
+- TMC - Defects -CW10 Potholes problem, 9th February :- [8878964](https://www.fixmystreet.com/report/8878964)
 - Potholes by Arlington on Douro Rd, 9th February :- [8878545](https://www.fixmystreet.com/report/8878545)
 - Pothole by Rutland Court on Douro Rd, 9th February :- [8878489](https://www.fixmystreet.com/report/8878489)
 - 2 potholes outside Douro Court on Douro Road, 9th February :- [8878451](https://www.fixmystreet.com/report/8878451)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Pothole on edge of road, size 12 boot in photo, 9th February :- [8878201](https://www.fixmystreet.com/report/8878201)
 - 5-6 cm deep pothole as per photo, 9th February :- [8878188](https://www.fixmystreet.com/report/8878188)
 - 2 potholes need fixing, 9th February :- [8878174](https://www.fixmystreet.com/report/8878174)
-- Deep and wide Pothole on Pennine Road, 9th February :- [8877947](https://www.fixmystreet.com/report/8877947)
-- A pothole in road problem, 9th February :- [8878074](https://www.fixmystreet.com/report/8878074)
-- A pothole in road problem, 9th February :- [8878073](https://www.fixmystreet.com/report/8878073)
-- Large pot hole, 9th February :- [8877743](https://www.fixmystreet.com/report/8877743)
-- You said it has been fixed - no work been done, 9th February :- [8877721](https://www.fixmystreet.com/report/8877721)
-- Dangerous parkong, 9th February :- [8877716](https://www.fixmystreet.com/report/8877716)
-- Over 20 pot holes within a couple of doors of mine, 9th February :- [8877676](https://www.fixmystreet.com/report/8877676)
-- Drainage gulley is blocked, 9th February :- [8877534](https://www.fixmystreet.com/report/8877534)
-- All of the sandyleaze road from the premier shop down to the school is covered in really dangerous pot holes that have been reported several times and had nothing done and could cause serious damage to cars, 9th February :- [8877210](https://www.fixmystreet.com/report/8877210)
 
 <!-- fix_marker ends -->

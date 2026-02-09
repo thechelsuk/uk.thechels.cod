@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man seriously injured in stabbing attack ([2 hours ago](https://www.bbc.com/news/articles/c4g0vm7xe7mo?at_medium=RSS&at_campaign=rss))
-- Road to remain closed after sinkhole appears ([4 hours ago](https://www.bbc.com/news/articles/cy9ge3jql4zo?at_medium=RSS&at_campaign=rss))
-- 'Anxious' residents prepare for more flooding ([4 hours ago](https://www.bbc.com/news/articles/cj3256nel0go?at_medium=RSS&at_campaign=rss))
-- Call for views on 'once-in-a-generation' changes ([13 hours ago](https://www.bbc.com/news/articles/cp3z31pkj7vo?at_medium=RSS&at_campaign=rss))
+- Man seriously injured in stabbing attack ([4 hours ago](https://www.bbc.com/news/articles/c4g0vm7xe7mo?at_medium=RSS&at_campaign=rss))
+- Road to remain closed after sinkhole appears ([5 hours ago](https://www.bbc.com/news/articles/cy9ge3jql4zo?at_medium=RSS&at_campaign=rss))
+- 'Anxious' residents prepare for more flooding ([6 hours ago](https://www.bbc.com/news/articles/cj3256nel0go?at_medium=RSS&at_campaign=rss))
+- Call for views on 'once-in-a-generation' changes ([15 hours ago](https://www.bbc.com/news/articles/cp3z31pkj7vo?at_medium=RSS&at_campaign=rss))
 - Sinkhole on residential street causes road closures ([1 days ago](https://www.bbc.com/news/articles/c0lj84ld9ezo?at_medium=RSS&at_campaign=rss))
 - Tax bill hike for police budget amid plan to put more bobbies on the beat ([1 days ago](https://gloucesternewscentre.co.uk/tax-bill-hike-for-police-budget-amid-plan-to-put-more-bobbies-on-the-beat/))
 - Tax bills rise by 5.7% to cover policing shortfall ([1 days ago](https://www.bbc.com/news/articles/cp8r1kvxvmro?at_medium=RSS&at_campaign=rss))

@@ -106,20 +106,10 @@ Locations most affected will be low lying land and roads near rivers. Flooding m
 This message will be updated by 10:00AM on 10 February 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- River levels remain high in response to the recent rainfall. Flooding is possible today, Monday 09 February, and in the coming days.  
-
-Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 10:00AM on 10 February 2026 or as the situation changes.
+- River levels are falling slowly  but remain high in response to the recent rainfall. Flooding is possible today, Tuesday 10 February, and in the coming days.  Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 11 February 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- River levels remain high in response to the recent rainfall. Flooding is possible today, Monday 09 February, and in the coming days.  
-
-Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Evesham peaked at 2.85m on Saturday 07/02 at 7:30PM, Bredon peaked at 3.09m Sunday 08/02 11:15PM. 
-
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 10:00AM on 10 February 2026 or as the situation changes.
+- River levels are falling slowly but remain high in response to the recent rainfall. Flooding is possible today, Tuesday 10 February, and in the coming days.  Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Evesham peaked at 2.85m on Saturday 07/02 at 7:30PM, Bredon peaked at 3.09m Sunday 08/02 11:15PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 11 February 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
@@ -160,13 +150,7 @@ We are closely monitoring the situation. Take care and avoid walking, cycling or
 This message will be updated by 10:00AM on 10th February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- River levels remain high in response to the recent rainfall. Flooding is possible today, Monday 09 February, and in the coming days.  
-
-Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Peak information:- Bewdley peaked at 3.49m on Sunday 08/02 at 12:45AM, Worcester peaked at 4.90m on Sunday 08/02 at 07:30AM, Diglis peaked at 4.70m on Sunday 08/02 at 07:30AM, Kempsey Yacht Club peaked at 6.85m on Sunday 08/02 at 05:15AM, and Saxons Lode peaked at 5.15m on Monday 09/02 12:30AM. 
-
-We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. 
-
-This message will be updated by 10:00AM on 10 February 2026 or as the situation changes.
+- River levels are falling slowly but  remain high in response to the recent rainfall. Flooding is possible today, Tuesday 10 February, and in the coming days.  Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Peak information:- Bewdley peaked at 3.49m on Sunday 08/02 at 12:45AM, Worcester peaked at 4.90m on Sunday 08/02 at 07:30AM, Diglis peaked at 4.70m on Sunday 08/02 at 07:30AM, Kempsey Yacht Club peaked at 6.85m on Sunday 08/02 at 05:15AM, and Saxons Lode peaked at 5.15m on Monday 09/02 12:30AM. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 11 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Sandhurst and Maisemore
 - Rising river levels are expected to cause flooding today. 
@@ -177,11 +161,7 @@ Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 11:00AM on 10 February 2026 or as the situation changes. 
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
-- River levels remain high in response to the recent rainfall. Flooding is possible today, Monday 09 February, and in the coming days.  
-
-Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Peak information:- Mythe peaked at 4.33m on Monday 09/02 06:30AM, and Upper Pound peaked at 4.34m on Monday 09/02 02:45AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 10:00AM on 10 February 2026 or as the situation changes.
+- River levels are falling slowly but remain high in response to the recent rainfall. Flooding is possible today, Tuesday 10 February, and in the coming days.  Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Peak information:- Mythe peaked at 4.33m on Monday 09/02 06:30AM, and Upper Pound peaked at 4.34m on Monday 09/02 02:45AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 11 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Apperley and The Leigh
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Monday 09 February, and in the coming days.  

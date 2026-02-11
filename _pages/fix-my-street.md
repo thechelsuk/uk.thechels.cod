@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on the pavement south side of Hayden Road, 11th February :- [8897182](https://www.fixmystreet.com/report/8897182)
+- Grass verge has been destroyed by repeated parking. It is now mud which is spilling on to the pavement which children are walking through to school. The mud is slippery presenting a danger. The grass does not recover and remains unsightly and not in keeping with the rest of the area., 11th February :- [8897148](https://www.fixmystreet.com/report/8897148)
+- Multiple potholes been there for ages, 11th February :- [8897134](https://www.fixmystreet.com/report/8897134)
+- Very deep pothole full of water so can't be seen. Delivery drivers are also complaining about this one and all the others., 11th February :- [8897093](https://www.fixmystreet.com/report/8897093)
+- Deformed road that now causes issues of wheels touching the ground but transmission sits/scrapes on the centre of the road. A structural survey needs to be reviewed as the drain into the hedge is now becoming higher than the sides of the road., 11th February :- [8897069](https://www.fixmystreet.com/report/8897069)
+- Blocked drain, 11th February :- [8896883](https://www.fixmystreet.com/report/8896883)
+- Pavement is blocked with collapsed wall., 11th February :- [8896842](https://www.fixmystreet.com/report/8896842)
+- Flytipping, 11th February :- [8896485](https://www.fixmystreet.com/report/8896485)
+- Flytipping, 11th February :- [8896443](https://www.fixmystreet.com/report/8896443)
+- Public footpath sign broken, 11th February :- [8896428](https://www.fixmystreet.com/report/8896428)
+- Several items of furniture, 11th February :- [8896335](https://www.fixmystreet.com/report/8896335)
 - 3rd time reporting this!!!!!, 11th February :- [8896265](https://www.fixmystreet.com/report/8896265)
 - Road is in an appalling state and is now difficult to drive on. Has been repaired recently but to a very poor standard, you may as well not have bothered., 11th February :- [8896261](https://www.fixmystreet.com/report/8896261)
 - This drain is completely blocked and a lot of water cascades down this road from the flooded field, 11th February :- [8896008](https://www.fixmystreet.com/report/8896008)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Pot hole in road along service trench, 11th February :- [8895429](https://www.fixmystreet.com/report/8895429)
 - Sign/waymarker is damaged problem, 11th February :- [8895549](https://www.fixmystreet.com/report/8895549)
 - TMC - Defects -CW6 Potholes  problem, 11th February :- [8895565](https://www.fixmystreet.com/report/8895565)
-- TMC - Defects -other CW6 problem, 11th February :- [8895566](https://www.fixmystreet.com/report/8895566)
-- Sign/waymarker is damaged problem, 11th February :- [8895548](https://www.fixmystreet.com/report/8895548)
-- TMC - Defects -CW6 Potholes  problem, 11th February :- [8895564](https://www.fixmystreet.com/report/8895564)
-- TMC - Defects -CW6 Potholes  problem, 11th February :- [8895563](https://www.fixmystreet.com/report/8895563)
-- TMC - Defects -CW6 Potholes  problem, 11th February :- [8895562](https://www.fixmystreet.com/report/8895562)
-- TMC - Defects -CW6 Potholes  problem, 11th February :- [8895561](https://www.fixmystreet.com/report/8895561)
-- TMC - Defects -CW6 Potholes  problem, 11th February :- [8895560](https://www.fixmystreet.com/report/8895560)
-- TMC - Defects -CW6 Potholes  problem, 11th February :- [8895559](https://www.fixmystreet.com/report/8895559)
-- TMC - Defects -CW6 Potholes  problem, 11th February :- [8895558](https://www.fixmystreet.com/report/8895558)
-- Further update on 22097528, 11th February :- [8895286](https://www.fixmystreet.com/report/8895286)
-- TMC - Defects -CW6 Potholes  problem, 11th February :- [8895557](https://www.fixmystreet.com/report/8895557)
 
 <!-- fix_marker ends -->

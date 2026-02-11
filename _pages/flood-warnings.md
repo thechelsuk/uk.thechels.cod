@@ -113,20 +113,6 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 on 12 Feb 2026 or as the situation changes.
 
-- Warning no longer in force: River Wye in Herefordshire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: River Wye in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Severn in Worcestershire
 - River levels are falling slowly but remain high in response to the recent rainfall. Flooding is possible today, Wednesday 11 February, and in the coming days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. 
 Peak information:- Bewdley peaked at 3.49m on Sunday 08/02 at 12:45AM, Worcester peaked at 4.90m on Sunday 08/02 at 07:30AM, Diglis peaked at 4.70m on Sunday 08/02 at 07:30AM, Kempsey Yacht Club peaked at 6.85m on Sunday 08/02 at 05:15AM, and Saxons Lode peaked at 5.15m on Monday 09/02 12:30AM. 
@@ -180,15 +166,15 @@ This message will be updated by 12:00 on 12 Feb 2026 or as the situation changes
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Wednesday 11 February, and in the coming days.  Flooding may affect properties and roads in and around Ashleworth, Apperley and the Leigh. Ashleworth Flood Alleviation Scheme may be overtopping. Peak informtaion: Haw Bridge peaked at 5.20m on Monday 09/02 at 8:00PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 12 February 2026 or as the situation changes.
 
 - Flood warning: River Coln from Fossebridge to Quennington
-- Rising river levels may cause flooding. 
+- High river levels on the River Coln may cause flooding. 
 
-Flooding of property and roads is possible, especially nearest the River Coln in the Fossebridge area. Rain is forecast this evening and overnight. We expect river levels to continue to rise slowly through today 11/02/2026. 
+Flooding of property and roads is possible, especially nearest the River Coln in the Fossebridge area. This evening and overnight is forecast to be mainly dry with light rain showers. Further rain is forecast across the region tomorrow. We expect river levels to continue slowly rising overnight and remain high over coming days. River levels will remain sensitive to further rainfall. 
 
-We are closely monitoring the situation. We are liaising with emergency services and local authorities. 
+We are closely monitoring the situation. 
 
-Activate any flood protection products you may have. Go to River levels online for updates on current river levels.
+Activate any flood protection products you may have. Go to River levels online for updates on current river levels. Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
 
-This message will be updated by 17:00 on 11 Feb 2026 , or as the situation changes.
+This message will be updated by 11:00AM on 12 February 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

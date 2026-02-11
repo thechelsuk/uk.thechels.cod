@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 11 February 2026
 
-- The average temperature today is 11.92˚C,
-- With highs of 12.38˚C and lows of 11.5˚C,
-- It may feel like 11.15˚C with scattered clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 980hPa and humidity is 76%
+- The average temperature today is 9.86˚C,
+- With highs of 10.54˚C and lows of 9.26˚C,
+- It may feel like 9.21˚C with few clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 978hPa and humidity is 76%
 - The sun will rise at 07:31 and set at 17:14
 
 <!-- weather_marker ends -->

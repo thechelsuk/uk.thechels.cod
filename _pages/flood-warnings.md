@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. Flooding is possible on 10 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges are currently falling. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rainfall is forecast for later today and tomorrow and river levels may rise again in response. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 11 February 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 11 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges are high but are expected to fall today. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rainfall is forecast for today and tomorrow and river levels may rise again in response. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 12 February 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -83,8 +83,12 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 on 12 Feb 2026 or as the situation changes
 
-- Flood alert: Middle Avon Rugby to Bidford
-- High river levels on Monday have led to flooding. Flooding is possible on 10 February 2026 . Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 11 February 2026 or as the situation changes.
+- Warning no longer in force: Middle Avon Rugby to Bidford
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Warning no longer in force: Rivers in South Worcestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

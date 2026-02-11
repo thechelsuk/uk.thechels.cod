@@ -143,8 +143,12 @@ We are closely monitoring the situation. Take care and avoid walking, cycling or
 - Flood warning: River Severn at Abbots Court, Deerhurst
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Wednesday 11 February, and in the coming days.  Flooding may affect Abbots Court, Deerhurst. Haw Bridge is peaked at 5.2m on Monday 9 February at 8PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 12 February 2026 or as the situation changes
 
-- Flood warning: River Avon at Strensham and Bredon
-- River levels are falling slowly but remain high in response to the recent rainfall. Flooding is possible today, Wednesday 11 February, and in the coming days.  Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Peak information:- Evesham peaked at 2.85m on Saturday 07/02 at 7:30PM, Bredon peaked at 3.09m Sunday 08/02 11:15PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 11:00AM on 12 February 2026 or as the situation changes.
+- Warning no longer in force: River Avon at Strensham and Bredon
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Warning no longer in force: River Avon at Twyning
 - The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
@@ -162,8 +166,12 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 on 12 Feb 2026 or as the situation changes.
 
-- Flood warning: River Severn at Ashleworth
-- River levels remain high in response to the recent rainfall. Flooding is possible today, Wednesday 11 February, and in the coming days.  Flooding may affect properties and roads in and around Ashleworth, Apperley and the Leigh. Ashleworth Flood Alleviation Scheme may be overtopping. Peak informtaion: Haw Bridge peaked at 5.20m on Monday 09/02 at 8:00PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 12 February 2026 or as the situation changes.
+- Warning no longer in force: River Severn at Ashleworth
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 

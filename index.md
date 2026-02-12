@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 12 February 2026
 
-- The average temperature today is 8.86˚C,
-- With highs of 9.43˚C and lows of 8.16˚C,
-- It may feel like 6.32˚C with broken clouds
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 985hPa and humidity is 93%
+- The average temperature today is 9.46˚C,
+- With highs of 9.75˚C and lows of 8.8˚C,
+- It may feel like 6.5˚C with broken clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 987hPa and humidity is 83%
 - The sun will rise at 07:29 and set at 17:15
 
 <!-- weather_marker ends -->

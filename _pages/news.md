@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Exhibition celebrates Britain's longest river ([3 hours ago](https://www.bbc.com/news/articles/cvg17e9e2j5o?at_medium=RSS&at_campaign=rss))
-- Ex-police officer jailed for raping sleeping woman ([6 hours ago](https://www.bbc.com/news/articles/c1w5nwxwezjo?at_medium=RSS&at_campaign=rss))
-- Calls for 'independent' check of council finances ([6 hours ago](https://www.bbc.com/news/articles/c5y4xx81z2jo?at_medium=RSS&at_campaign=rss))
-- Golden Valley’s nature-led design wins support ([12 hours ago](https://www.cheltenham.gov.uk/news/article/3096/golden_valleys_nature-led_design_wins_support))
-- Refurbished CrossCountry Voyager train revealed ([15 hours ago](https://www.bbc.com/news/articles/c3wlpz8vj4po?at_medium=RSS&at_campaign=rss))
-- Couple 'spent life savings' on puppy's vet bill ([16 hours ago](https://www.bbc.com/news/articles/cg5g5dzvjzmo?at_medium=RSS&at_campaign=rss))
+- Exhibition celebrates Britain's longest river ([5 hours ago](https://www.bbc.com/news/articles/cvg17e9e2j5o?at_medium=RSS&at_campaign=rss))
+- Ex-police officer jailed for raping sleeping woman ([8 hours ago](https://www.bbc.com/news/articles/c1w5nwxwezjo?at_medium=RSS&at_campaign=rss))
+- Calls for 'independent' check of council finances ([9 hours ago](https://www.bbc.com/news/articles/c5y4xx81z2jo?at_medium=RSS&at_campaign=rss))
+- Golden Valley’s nature-led design wins support ([14 hours ago](https://www.cheltenham.gov.uk/news/article/3096/golden_valleys_nature-led_design_wins_support))
+- Refurbished CrossCountry Voyager train revealed ([17 hours ago](https://www.bbc.com/news/articles/c3wlpz8vj4po?at_medium=RSS&at_campaign=rss))
+- Couple 'spent life savings' on puppy's vet bill ([19 hours ago](https://www.bbc.com/news/articles/cg5g5dzvjzmo?at_medium=RSS&at_campaign=rss))
 - Nazi artefact auction cancelled after backlash ([1 days ago](https://www.bbc.com/news/articles/c363141lnrgo?at_medium=RSS&at_campaign=rss))
 - Passenger numbers rise on National Express services in Gloucestershire ([1 days ago](https://gloucesternewscentre.co.uk/passenger-numbers-rise-on-national-express-services-in-gloucestershire/))
 - Festival announces line-up amid expansion plans ([1 days ago](https://www.bbc.com/news/articles/crleln7xed3o?at_medium=RSS&at_campaign=rss))

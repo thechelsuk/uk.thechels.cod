@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Still flooded badly, 11th February :- [8898568](https://www.fixmystreet.com/report/8898568)
+- Dangerous potholes east-bound, 11th February :- [8898565](https://www.fixmystreet.com/report/8898565)
+- Negligent behaviour, dangerous potholes, 11th February :- [8898558](https://www.fixmystreet.com/report/8898558)
 - 18 inch wide x 3 inch deep in the road, near GL2 0HE by the hair dressers., 11th February :- [8898180](https://www.fixmystreet.com/report/8898180)
 - Large pot hole, 11th February :- [8898084](https://www.fixmystreet.com/report/8898084)
 - Very poor road surface and worsening., 11th February :- [8897796](https://www.fixmystreet.com/report/8897796)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pavement is blocked with collapsed wall., 11th February :- [8896842](https://www.fixmystreet.com/report/8896842)
 - Flytipping, 11th February :- [8896485](https://www.fixmystreet.com/report/8896485)
 - Flytipping, 11th February :- [8896443](https://www.fixmystreet.com/report/8896443)
-- Public footpath sign broken, 11th February :- [8896428](https://www.fixmystreet.com/report/8896428)
-- Several items of furniture, 11th February :- [8896335](https://www.fixmystreet.com/report/8896335)
-- 3rd time reporting this!!!!!, 11th February :- [8896265](https://www.fixmystreet.com/report/8896265)
 
 <!-- fix_marker ends -->

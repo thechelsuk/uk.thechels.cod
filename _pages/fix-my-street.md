@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overflowing bin, 12th February :- [8906550](https://www.fixmystreet.com/report/8906550)
+- Single fridge dumped outside Nazeby Court Cromwell Road Cheltenham, 12th February :- [8906425](https://www.fixmystreet.com/report/8906425)
+- A double sized mattress dumped in Prestbury Rd, 12th February :- [8906392](https://www.fixmystreet.com/report/8906392)
 - Fallen tree blocking stile, 12th February :- [8906312](https://www.fixmystreet.com/report/8906312)
 - Items dumped on pavement, 12th February :- [8906262](https://www.fixmystreet.com/report/8906262)
 - Drain is NOT draining water away, 12th February :- [8906223](https://www.fixmystreet.com/report/8906223)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Large pot hole on road outside my drive. Causing bigger pot hole., 12th February :- [8905493](https://www.fixmystreet.com/report/8905493)
 - Unpermitted roadworks problem, 12th February :- [8905498](https://www.fixmystreet.com/report/8905498)
 - Pothole, 12th February :- [8905233](https://www.fixmystreet.com/report/8905233)
-- Big hole in the road, 12th February :- [8905160](https://www.fixmystreet.com/report/8905160)
-- Pothole, 12th February :- [8904990](https://www.fixmystreet.com/report/8904990)
-- Pothole, 12th February :- [8904971](https://www.fixmystreet.com/report/8904971)
 
 <!-- fix_marker ends -->

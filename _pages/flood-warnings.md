@@ -124,13 +124,6 @@ This message will be updated by 12:00PM on the 13 February 2026, or as the situa
 - Flood warning: River Severn at Abbots Court, Deerhurst
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 12 February, and in the coming days.  Flooding may affect Abbots Court, Deerhurst. Haw Bridge peaked at 5.2m on Monday 9 February at 8PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 13 February 2026 or as the situation changes
 
-- Warning no longer in force: River Avon at Strensham and Bredon
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington. 
 
@@ -139,13 +132,6 @@ River levels are high on parts of the River Coln. Flooding of low lying land and
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels online for updates on current river levels. 
 
 This message will be updated by 12:00PM on 13 February 2026, or as the situation changes.
-
-- Warning no longer in force: River Severn at Ashleworth
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 - Flood warning: River Coln from Fossebridge to Quennington
 - Rising river levels on the River Coln may cause flooding. 

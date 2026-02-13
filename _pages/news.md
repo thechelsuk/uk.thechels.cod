@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- One-off diversion takes 30 minutes off train journey ([6 hours ago](https://www.bbc.com/news/articles/ckgzl9qe2z9o?at_medium=RSS&at_campaign=rss))
-- Men leave restaurant without paying £329 bill ([7 hours ago](https://www.bbc.com/news/articles/crl4n1lex4no?at_medium=RSS&at_campaign=rss))
-- Family pay tribute to 'loving father' after crash ([13 hours ago](https://www.bbc.com/news/articles/cx28dw0qg3jo?at_medium=RSS&at_campaign=rss))
-- 'Mum might still be alive without Tui errors' ([15 hours ago](https://www.bbc.com/news/articles/cn0e32y2ywxo?at_medium=RSS&at_campaign=rss))
-- Supersized dump fire risk report kept from public ([18 hours ago](https://www.bbc.com/news/articles/c78x966g75xo?at_medium=RSS&at_campaign=rss))
-- Safe space launched for young people to socialise ([19 hours ago](https://www.bbc.com/news/articles/cn4gvx34ppno?at_medium=RSS&at_campaign=rss))
+- One-off diversion takes 30 minutes off train journey ([9 hours ago](https://www.bbc.com/news/articles/ckgzl9qe2z9o?at_medium=RSS&at_campaign=rss))
+- Men leave restaurant without paying £329 bill ([10 hours ago](https://www.bbc.com/news/articles/crl4n1lex4no?at_medium=RSS&at_campaign=rss))
+- Family pay tribute to 'loving father' after crash ([15 hours ago](https://www.bbc.com/news/articles/cx28dw0qg3jo?at_medium=RSS&at_campaign=rss))
+- 'Mum might still be alive without Tui errors' ([17 hours ago](https://www.bbc.com/news/articles/cn0e32y2ywxo?at_medium=RSS&at_campaign=rss))
+- Supersized dump fire risk report kept from public ([20 hours ago](https://www.bbc.com/news/articles/c78x966g75xo?at_medium=RSS&at_campaign=rss))
+- Safe space launched for young people to socialise ([21 hours ago](https://www.bbc.com/news/articles/cn4gvx34ppno?at_medium=RSS&at_campaign=rss))
 - Exhibition celebrates Britain's longest river ([1 days ago](https://www.bbc.com/news/articles/cvg17e9e2j5o?at_medium=RSS&at_campaign=rss))
 - Ex-police officer jailed for raping sleeping woman ([1 days ago](https://www.bbc.com/news/articles/c1w5nwxwezjo?at_medium=RSS&at_campaign=rss))
 - Calls for 'independent' check of council finances ([1 days ago](https://www.bbc.com/news/articles/c5y4xx81z2jo?at_medium=RSS&at_campaign=rss))

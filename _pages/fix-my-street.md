@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 13th February :- [8908581](https://www.fixmystreet.com/report/8908581)
+- Post or sign leaning slightly (less than 20 degrees) problem, 13th February :- [8908529](https://www.fixmystreet.com/report/8908529)
+- 4 ich deep pothole, 13th February :- [8908511](https://www.fixmystreet.com/report/8908511)
+- Bus stop being misused as bus stand, 13th February :- [8908121](https://www.fixmystreet.com/report/8908121)
+- Pothole poorly repaired., 13th February :- [8908115](https://www.fixmystreet.com/report/8908115)
 - 2 potholes in front of 36 Cudnall Street, getting larger and filled with water, 13th February :- [8908029](https://www.fixmystreet.com/report/8908029)
 - Pothole not repaired properly, 13th February :- [8907993](https://www.fixmystreet.com/report/8907993)
 - Very deep crater on junction with roundabout, 13th February :- [8907676](https://www.fixmystreet.com/report/8907676)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Drain is NOT draining water away, 12th February :- [8906223](https://www.fixmystreet.com/report/8906223)
 - 10 inch pothole on Lansdown Place Lane, 12th February :- [8906222](https://www.fixmystreet.com/report/8906222)
 - Large pothole, 12th February :- [8906151](https://www.fixmystreet.com/report/8906151)
-- Illuminated bollard on island not lit, 12th February :- [8906114](https://www.fixmystreet.com/report/8906114)
-- Drain is blocked in a flood prone area, 12th February :- [8906105](https://www.fixmystreet.com/report/8906105)
-- A large pothole that has been repaired twice this year already has reappeared larger than before and full of water, 12th February :- [8906102](https://www.fixmystreet.com/report/8906102)
-- Another load of dog mess on pavement, 12th February :- [8906083](https://www.fixmystreet.com/report/8906083)
-- Several potholes already repaired twice recently have returned bigger and deeper than before, 12th February :- [8906071](https://www.fixmystreet.com/report/8906071)
 
 <!-- fix_marker ends -->

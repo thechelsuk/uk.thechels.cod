@@ -25,20 +25,20 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-River levels are high on parts of the River Churn. Flooding of low lying land and roads is expected to continue today, 12 February 2026, especially near Cerney Wick. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect levels to remain high over the coming days. 
+River levels are high on parts of the River Churn. Flooding of low lying land and roads is expected to continue today, 13 February 2026, especially near Cerney Wick. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect levels to remain high over the coming days. 
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 13 February 2026, or as the situation changes.
+This message will be updated by 12:00 on 14 Feb 2026 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Windrush. Flooding of low lying land and roads is expected to continue today, 12 February 2026, including areas around Bourton on the Water, Witney, and Newbridge. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to continue to rise slowly and remain high over the coming days.
+River levels are high on parts of the River Windrush. Flooding of low lying land and roads is expected to continue today, 13 February 2026, including areas around Bourton on the Water, Witney, and Newbridge. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to remain high over the coming days.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 13 February 2026, or as the situation changes.
+This message will be updated by 12:00PM on 14 February 2026 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding. 
@@ -59,20 +59,20 @@ This message will be updated by 12:00PM on the 13 February 2026, or as the situa
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-River levels are high on the River Dikler. Flooding of low lying land and roads is expected to continue today, 12 February 2026, including around Bourton on the Water. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to remain high over the coming days. 
+River levels are high on the River Dikler. Flooding of low lying land and roads is expected to continue today, 13 February 2026, including around Bourton on the Water. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to remain high over the coming days. 
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 13 February 2026, or as the situation changes.
+This message will be updated by 12:00pm on 14 February 2026 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding. 
 
-River levels are still high on parts of the River Leach. Flooding of low lying land and roads is possible today, 12 February 2026, especially in the Lechlade-on-Thames area. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to continue to rise slowly and remain high over the coming days.
+River levels are still high on parts of the River Leach. Flooding of low lying land and roads is possible today, 13 February 2026, especially in the Lechlade-on-Thames area. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to remain high over the coming days.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 13 February 2026, or as the situation changes.
+This message will be updated by 12:00 on 14 February 2026 or as the situation changes.
 
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
 - High river levels may lead to flooding.
@@ -125,24 +125,24 @@ This message will be updated by 12:00PM on the 13 February 2026, or as the situa
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 12 February, and in the coming days.  Flooding may affect Abbots Court, Deerhurst. Haw Bridge peaked at 5.2m on Monday 9 February at 8PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 13 February 2026 or as the situation changes
 
 - Flood alert: River Coln and its tributaries
-- High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington. 
+- High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington
 
-River levels are high on parts of the River Coln. Flooding of low lying land and roads is expected to continue today, 12 February 2026, especially in the Fossebridge area. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to continue to rise slowly and remain high over the coming days. 
+River levels are high on parts of the River Coln. Flooding of low lying land and roads is expected to continue today, 13 February 2026, especially in the Fossebridge area. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to remain high over the coming days. 
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 13 February 2026, or as the situation changes.
+This message will be updated by 12:00 on 14 Feb 2026 or as the situation changes.
 
 - Flood warning: River Coln from Fossebridge to Quennington
 - Rising river levels on the River Coln may cause flooding. 
 
-River levels are slowly rising on the River Coln. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge area. Further rain is forecast this evening and overnight, which has the potential to be heavy at times.  We expect river levels to continue slowly rising overnight and wil remain high over coming days. River levels will remain sensitive to further rainfall. 
+River levels are slowly rising on the River Coln. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge area. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times.  We expect river levels to continue slowly rising throughout today and will remain high over coming days. River levels will remain sensitive to further rainfall. 
 
 We are closely monitoring the situation. 
 
 Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
 
-This message will be updated by 11:00AM on 13 Feb 2026 , or as the situation changes.
+This message will be updated by 18:00PM on 13 Feb 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 13 February 2026
 
-- The average temperature today is 6.6˚C,
-- With highs of 7.21˚C and lows of 4.97˚C,
-- It may feel like 3.51˚C with light rain
-- The wind speed is 4.63m/s and visibility is 8000m
-- The pressure is 990hPa and humidity is 94%
+- The average temperature today is 5.88˚C,
+- With highs of 6.58˚C and lows of 5.38˚C,
+- It may feel like 1.95˚C with broken clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 991hPa and humidity is 93%
 - The sun will rise at 07:27 and set at 17:17
 
 <!-- weather_marker ends -->

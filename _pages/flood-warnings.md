@@ -25,20 +25,20 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-River levels are high on parts of the River Churn. Flooding of low lying land and roads is expected to continue today, 13 February 2026, especially near Cerney Wick. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect levels to remain high over the coming days. 
+River levels are high on parts of the River Churn. Flooding of low lying land and roads is expected to continue today, 14 February 2026, especially near Cerney Wick. Today is forecast to be dry, however further rain is forecast overnight and Sunday. We expect levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00 on 14 Feb 2026 or as the situation changes.
+This message will be updated by 12:00PM on 15 February 2026 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Windrush. Flooding of low lying land and roads is expected to continue today, 13 February 2026, including areas around Bourton on the Water, Witney, and Newbridge. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to remain high over the coming days.
+River levels are high on parts of the River Windrush. Flooding of low lying land and roads is expected to continue today, 14 February 2026, including areas around Bourton on the Water, Witney, and Newbridge. Today is forecast to be dry, however further rain is forecast overnight and Sunday. We expect river levels to remain high over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 14 February 2026 or as the situation changes.
+This message will be updated by 12:00PM on 15 February 2026 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding. 
@@ -59,20 +59,20 @@ This message will be updated by 12:00PM on the 14 February 2026, or as the situa
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-River levels are high on the River Dikler. Flooding of low lying land and roads is expected to continue today, 13 February 2026, including around Bourton on the Water. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to remain high over the coming days. 
+River levels are high on the River Dikler. Flooding of low lying land and roads is expected to continue today, 14 February 2026, including around Bourton on the Water. Today is forecast to be dry, however further rain is forecast overnight and Sunday. We expect river levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00pm on 14 February 2026 or as the situation changes.
+This message will be updated by 12:00PM on 15 February 2026 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding. 
 
-River levels are still high on parts of the River Leach. Flooding of low lying land and roads is possible today, 13 February 2026, especially in the Lechlade-on-Thames area. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to remain high over the coming days.
+River levels are still high on parts of the River Leach. Flooding of low lying land and roads is expected to continue today, 14 February 2026, especially in the Lechlade-on-Thames area. Today is forecast to be dry, however further rain is forecast overnight and Sunday. We expect river levels to remain high over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00 on 14 February 2026 or as the situation changes.
+This message will be updated by 12:00PM on 15 February 2026 or as the situation changes.
 
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
 - High river levels may lead to flooding.
@@ -91,13 +91,12 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
 
-- Flood alert: River Stour in South Warwickshire
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 13 February 2026 . 
-Flooding may affect low lying land and roads around Shipston on Stour, Tredington, Halford, Newbold on Stour, Crimscote, Wimpstone and Clifford Chambers. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
+- Warning no longer in force: River Stour in South Warwickshire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: Little Avon catchment and the Vale of Berkeley
 - High river levels overnight may lead to flooding. 
@@ -107,28 +106,21 @@ We are closely monitoring the situation and will issue further alerts and warnin
 Consider activating any flood protection products you may have and avoid using low lying footpaths and bridges near local watercourses. 
 This message will be updated by 12:00PM on 14 February 2026 or as the situation changes.
 
-- Flood alert: Rivers in South Worcestershire
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 13 February 2026 and over the next few days. 
-Flooding may affect low lying land and roads adjacent to the river from North Littleton to Winchcombe. Other locations that may be affected are Badsey, Childswickham, Broadway, Sedgeberrow, Toddington and the Road at Hinton on the Green bridge. Predicted peaks:- Sedgeberrow 2.3m to 2.7m on Friday 13/02 PM, Hinton on the Green 2.7m to 3.1m on Friday 13/02 PM. 
-We are closely monitoring the situation . 
-Avoid low lying roads near rivers, which may be flooded . 
-This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
+- Warning no longer in force: Rivers in South Worcestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Severn in Gloucestershire
-- River levels are expected to remain high over the next few days. Flooding is possible today, Friday 13 February, and in the coming days. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
-
-Peak information: - Mythe peaked at 4.33m on Monday 09/02 at 06:30AM, and Haw Bridge peaked at 5.2m on Tuesday 10/02 PM. 
-
-Further rainfall is expected. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
-
-This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.
+- River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Saturday 14 February, and in the coming days. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:-  Mythe 4.2 - 4.3m Monday 16/02 PM,  Haw Bridge 5.1 - 5.2m Monday 16/02 PM. Further rainfall is forecast overnight Saturday into Sunday. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 February 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
 - River levels remain high due to recent rainfall. Flooding is possible today, 14 February 2026. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. Further rainfall is expected. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 February 2026 or as the situation changes
 
 - Flood alert: River Avon in Worcestershire
-- River levels remain high and may rise again today in response to the recent rainfall. Flooding is possible today, Friday 13 February, and in the coming days. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Evesham peaked at 2.85m on Saturday 07/02 at 7:30PM, Bredon peaked at 3.09m Sunday 08/02 11:15PM. Further rain is forecast which may result in further rises on the River. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.
+- River levels are rising in response to recent rainfall. Flooding is possible today, Saturday 14 February, and over the coming days. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Evesham 2.5 - 2.7m  Saturday 14/02 PM, Bredon 2.8 - 3.0m Sunday 15/02 PM. Further rain is forecast Saturday overnight into Sunday. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 February 2026 or as the situation changes.
 
 - Flood alert: Bristol Frome catchment
 - High river levels overnight may lead to flooding. 
@@ -151,71 +143,45 @@ This message will be updated by 12:00PM on the 14 February 2026, or as the situa
 - Rising river levels and forecast rainfall this evening Saturday 14/02 may lead to flooding.  Flooding is possible on 15 February 2026 and over the next few days.  Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.  We are closely monitoring the situation .  Avoid low lying roads near rivers, which may be flooded .  This message will be updated by 11:00AM on 15 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- River levels remain high and may rise again in response to the recent rainfall. Flooding is possible today, Friday 13 February, and in the coming days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Peak information:- Bewdley peaked at 3.49m on Sunday 08/02 at 12:45AM, Worcester peaked at 4.90m on Sunday 08/02 at 07:30AM, Diglis peaked at 4.70m on Sunday 08/02 at 07:30AM, Kempsey Yacht Club peaked at 6.85m on Sunday 08/02 at 05:15AM, and Saxons Lode peaked at 5.15m on Monday 09/02 12:30AM. Further rain is forecast which may result in further rises on the river. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.
+- River levels are rising in response to the recent rainfall. Flooding is possible today, Saturday 14 February, and over the coming days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn. Predicted peaks:- Bewdley 3.2 - 3.7m  Sunday 15/02 PM, Worcester 4.3 - 4.8m Sunday 15/02 PM, Diglis 4.0 - 4.4m Monday 16/02 AM, Kempsey Yacht Club 6.2 - 6.6m Monday 16/02 AM, and Saxons Lode 4.7 - 5.0m Monday 16/02 PM. Further rain is forecast Saturday overnight into Sunday. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Sandhurst and Maisemore
-- Rising river levels remain high in response to recent rainfall. Further rainfall is forecast. 
-
-Flooding is expected on 13th February. 
-
-Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 Over to Maisemore (fluvial and tidal). Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. 
-Sandhurst is peaked at 4.32m on 10 February 2026 at 9 AM. 
-
-We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
+- River levels remain high in response to recent rainfall. Further rainfall is forecast. Flooding is expected today, 14 February. Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 Over to Maisemore (fluvial and tidal). Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted Peaks: Sandhurst 3.7m-4.1m on Tuesday 17 February. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 15 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
-- River levels remain high in response to the recent rainfall. Flooding is possible today, Friday 13 February, and in the coming days.  Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Peak information:- Mythe peaked at 4.33m on Monday 09/02 06:30AM, and Upper Pound peaked at 4.34m on Monday 09/02 02:45AM. Further rain is forecast which may result in further rises on the river . We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.
+- River levels remain high in response to the recent rainfall. Flooding is possible today, Saturday 14 February, and in the coming days.  Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted Peak:- Mythe between 4.2m and 4.3m on Monday evening 16 February. Upper Pound between 4.1m and 4.3m on Monday evening 16 February. Further rain is forecast which may result in further rises on the river . We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Apperley and The Leigh
-- River levels remain high in response to the recent rainfall. Further rainfall is forecast. 
-Flooding is possible today, Friday 13th February, and in the coming days.  
-Flooding may affect Gabb Lane at Apperley and local caravan parks. Peak information: Haw Bridge peaked at 5.20m on Monday 09/02 at 8:00PM. 
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.
+- River levels remain high in response to the recent rainfall. Further rainfall is forecast. Flooding is possible today, Saturday 14 February, and in the coming days.  Flooding may affect Gabb Lane at Apperley and local caravan parks. Predicted Peak: Haw Bridge between 5.1m and 5.2m on Monday evening 16 February. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Chaceley and Haw Bridge
-- River levels remain high in response to the recent rainfall. Further rainfall is forecast. 
-
-Flooding is possible today, Friday 13th February, and in the coming days. Flooding may affect properties and roads in and around Tirley and Chaceley, including the B4213 Church Road and B4213 Haw Bridge Road at Wainlodes Junction. 
-
-Peak information:- Haw Bridge peaked at 5.2m on Tuesday 10/02 PM. 
-
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
+- River levels remain high in response to the recent rainfall. Further rainfall is forecast. Flooding is possible today, 14th February, and in the coming days. Flooding may affect properties and roads in and around Tirley and Chaceley, including the B4213 Church Road and B4213 Haw Bridge Road at Wainlodes Junction. Predicted Peak:- Haw Bridge between 5.1m - 5.2m on Monday evening, 16th February. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 15 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Abbots Court, Deerhurst
-- River levels remain high in response to the recent rainfall. Further rainfall is forecast. 
-Flooding is possible today, Friday 13th February, and in the coming days.  Flooding may affect Abbots Court, Deerhurst.
-
-Haw Bridge peaked at 5.2m on Monday 9 February at 8PM. 
-
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 14 February 2026 or as the situation changes
+- River levels remain high in response to the recent rainfall. Further rainfall is forecast. Flooding is possible today, 14 February, and in the coming days.  Flooding may affect Abbots Court, Deerhurst. Predicted Peaks:  Haw Bridge between 5.1m - 5.2m on Monday evening, 16th February. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 15 February 2026 or as the situation changes
 
 - Flood warning: River Avon at Strensham and Bredon
-- Rising river levels are expected to cause flooding this evening. 
-Flooding is expected on 13 February 2026 and over the next few days. 
-Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham 2.6m to 2.9m on 13/02 PM, Bredon 3.0m to 3.4m on 15/02 PM. Evesham will have an initial peak overnight tonight 13/02 followed by a second peak overnight on Saturday 14/02. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 14 February 2026 or as the situation changes. 
+- River levels remain high in response to recent rainfall. Flooding is expected today 14 February 2026 and over the next few days.  Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham 2.5m to 2.7m on Saturday evening, 14 February, Bredon 2.8m to 3m on Saturday evening, 14 February. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 15 February 2026 or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington
 
-River levels are high on parts of the River Coln. Flooding of low lying land and roads is expected to continue today, 13 February 2026, especially in the Fossebridge area. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times. We expect river levels to remain high over the coming days. 
+River levels are high on parts of the River Coln. Flooding of low lying land and roads is expected to continue today, 14 February 2026, especially in the Fossebridge area. Today is forecast to be dry, however further rain is forecast overnight and Sunday. We expect river levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00 on 14 Feb 2026 or as the situation changes.
+This message will be updated by 12:00PM on 15 February 2026 or as the situation changes.
 
 - Flood warning: River Coln from Fossebridge to Quennington
-- Rising river levels on the River Coln may cause flooding. 
+- High river levels on the River Coln may cause flooding. 
 
-River levels are slowly rising on the River Coln. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge and Bibury areas. Further rain is forecast this evening and overnight, which has the potential to be heavy at times. Tomorrow is forecast to be mainly dry. We expect river levels to continue slowly rising overnight and will remain high over the coming days. River levels will remain sensitive to further rainfall. 
+River levels are high but starting to slowly fall on the River Coln. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge and Bibury areas. Today is forecast to be dry, however further rain is forecast overnight and Sunday. We expect river levels to continue slowly falling today, but levels will remain high and sensitive to further rainfall over the coming days.  
 
 We are closely monitoring the situation. 
 
-Activate any flood protection products you may have. Go to River Levels Online for updates on current river levels. Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
+Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
 
-This message will be updated by 11:00AM on the 14 February 2026, or as the situation changes.
+This message will be updated by 06:00PM on the 14 February 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The footpath past the driveway is sunken, 14th February :- [8916399](https://www.fixmystreet.com/report/8916399)
 - Light is dim on 171827 on roundabout Hathery Lane, Cheltenham, 14th February :- [8915974](https://www.fixmystreet.com/report/8915974)
 - Lights out on unnumbered speed limit sign Churchdown Road, Cheltenham, 14th February :- [8915969](https://www.fixmystreet.com/report/8915969)
 - Speed limit sign lights out next to KFC Hatherley Lane, Cheltenham, 14th February :- [8915963](https://www.fixmystreet.com/report/8915963)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - How has this road not been sorted yet? It’s been like this for months this road is now dangerous I’ve be involved and witnessed accidents on this road where cars go onto the over side of the road to avoid all th potholes what are unavoidable and likely cause damage to our cars this road if needs to be needs temp lights re tarmac the one side of the road going away from the racecourse to Tommy Taylor’s, 13th February :- [8914948](https://www.fixmystreet.com/report/8914948)
 - Large porthole, 13th February :- [8914646](https://www.fixmystreet.com/report/8914646)
 - Very large potholes, 13th February :- [8914456](https://www.fixmystreet.com/report/8914456)
-- Graffiti at bus stop, 13th February :- [8914387](https://www.fixmystreet.com/report/8914387)
 
 <!-- fix_marker ends -->

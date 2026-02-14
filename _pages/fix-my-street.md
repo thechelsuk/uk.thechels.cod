@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A very large pothole down beeches road, 14th February :- [8918708](https://www.fixmystreet.com/report/8918708)
+- Pothole, 14th February :- [8918656](https://www.fixmystreet.com/report/8918656)
+- This drain has sunken an poses a risk especially to cyclists. It is also blocked an has been for a long time. I noticed 2 other reports on this and these have been closed wit no apparent action taken or explanation why not., 14th February :- [8918639](https://www.fixmystreet.com/report/8918639)
+- Pothole, 14th February :- [8918619](https://www.fixmystreet.com/report/8918619)
+- Pedestrian crossing button not working, 14th February :- [8918609](https://www.fixmystreet.com/report/8918609)
+- Pothole, 14th February :- [8918605](https://www.fixmystreet.com/report/8918605)
+- Lage pothole, 14th February :- [8918593](https://www.fixmystreet.com/report/8918593)
+- Pothole, 14th February :- [8918576](https://www.fixmystreet.com/report/8918576)
+- Volunteer litter pick bags ready for collection, 14th February :- [8918395](https://www.fixmystreet.com/report/8918395)
 - Pothole, 14th February :- [8917483](https://www.fixmystreet.com/report/8917483)
 - Potholes reopened 2 weeks after filling, 14th February :- [8917437](https://www.fixmystreet.com/report/8917437)
 - Four large potholes outside number 17, 14th February :- [8917319](https://www.fixmystreet.com/report/8917319)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Opposite number 1, 14th February :- [8916582](https://www.fixmystreet.com/report/8916582)
 - Huge deep pothole, 14th February :- [8916518](https://www.fixmystreet.com/report/8916518)
 - The footpath past the driveway is sunken, 14th February :- [8916399](https://www.fixmystreet.com/report/8916399)
-- Light is dim on 171827 on roundabout Hathery Lane, Cheltenham, 14th February :- [8915974](https://www.fixmystreet.com/report/8915974)
-- Lights out on unnumbered speed limit sign Churchdown Road, Cheltenham, 14th February :- [8915969](https://www.fixmystreet.com/report/8915969)
-- Speed limit sign lights out next to KFC Hatherley Lane, Cheltenham, 14th February :- [8915963](https://www.fixmystreet.com/report/8915963)
-- The road surface on the A40 London Road, Cheltenham, from Sixways junction to Madra Veterinary Clinic is generally deteriorating, 14th February :- [8915826](https://www.fixmystreet.com/report/8915826)
-- Pothole in Road in Charlton Court Road, Cheltenham, 14th February :- [8915821](https://www.fixmystreet.com/report/8915821)
-- Potholes in road, 14th February :- [8915815](https://www.fixmystreet.com/report/8915815)
-- This drain and (adjacent ones?) is blocked somewhere underground. tattemps at gully cleaning have failed. Needs in depth invetigation. Cllr Whyborn, 13th February :- [8915733](https://www.fixmystreet.com/report/8915733)
-- This darin is blocked somewhere underground. Repeated attemps at gulley cleaning have failed. Needs in depth invetigation. Cllr Whyborn, 13th February :- [8915711](https://www.fixmystreet.com/report/8915711)
-- Sign permanently on - flashing. Also 20 mph sign plate wording is inappropriate now that the location is in a 20 mph speed limit area., 13th February :- [8915692](https://www.fixmystreet.com/report/8915692)
 
 <!-- fix_marker ends -->

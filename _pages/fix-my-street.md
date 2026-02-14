@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The road surface on the A40 London Road, Cheltenham, from Sixways junction to Madra Veterinary Clinic is generally deteriorating, 14th February :- [8915826](https://www.fixmystreet.com/report/8915826)
+- Pothole in Road in Charlton Court Road, Cheltenham, 14th February :- [8915821](https://www.fixmystreet.com/report/8915821)
+- Potholes in road, 14th February :- [8915815](https://www.fixmystreet.com/report/8915815)
+- This drain and (adjacent ones?) is blocked somewhere underground. tattemps at gully cleaning have failed. Needs in depth invetigation. Cllr Whyborn, 13th February :- [8915733](https://www.fixmystreet.com/report/8915733)
+- This darin is blocked somewhere underground. Repeated attemps at gulley cleaning have failed. Needs in depth invetigation. Cllr Whyborn, 13th February :- [8915711](https://www.fixmystreet.com/report/8915711)
+- Sign permanently on - flashing. Also 20 mph sign plate wording is inappropriate now that the location is in a 20 mph speed limit area., 13th February :- [8915692](https://www.fixmystreet.com/report/8915692)
+- Barriers around Utility defect have been left in place for 6 weeks during which defect left unrepaired., 13th February :- [8915673](https://www.fixmystreet.com/report/8915673)
 - Whole width of the road is cratered and very dangerous if the severity of the damagenot seen in the dark, 13th February :- [8915422](https://www.fixmystreet.com/report/8915422)
 - Big pothole damaged tyre, 13th February :- [8915329](https://www.fixmystreet.com/report/8915329)
 - Pothole on road, 13th February :- [8915312](https://www.fixmystreet.com/report/8915312)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Large pothole near the junction in middle of the road adjoining pub, 13th February :- [8914374](https://www.fixmystreet.com/report/8914374)
 - Pothole, 13th February :- [8914363](https://www.fixmystreet.com/report/8914363)
 - No street sign on Tutor Court, 13th February :- [8914357](https://www.fixmystreet.com/report/8914357)
-- Pothole next to speed bump, 13th February :- [8914355](https://www.fixmystreet.com/report/8914355)
-- It’s time to stop messing around and to resurface the whole width of the road from lamp column 3 to LC8 or preferably LC9, making sure to include the bellmouth of Parabola Road., 13th February :- [8914228](https://www.fixmystreet.com/report/8914228)
-- Massive pothole on Hatherley Road near the entrance to Windermere Road, 13th February :- [8914112](https://www.fixmystreet.com/report/8914112)
-- Large deep pothole, 13th February :- [8914056](https://www.fixmystreet.com/report/8914056)
-- Major pot hole's over road and speed bumps, 13th February :- [8913838](https://www.fixmystreet.com/report/8913838)
-- 60cm pothole on Albert Road near Pittville School, 13th February :- [8913837](https://www.fixmystreet.com/report/8913837)
-- Series of pot holes along the end of Grove Street on narrow road., 13th February :- [8913736](https://www.fixmystreet.com/report/8913736)
 
 <!-- fix_marker ends -->

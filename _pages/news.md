@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Driver jailed after causing crash that killed two ([9 hours ago](https://www.bbc.com/news/articles/c3ew3vp8dlzo?at_medium=RSS&at_campaign=rss))
-- A-road to close overnight for several weeks ([16 hours ago](https://www.bbc.com/news/articles/cedz9zgzjy5o?at_medium=RSS&at_campaign=rss))
-- Bid to ban coaches from 'Venice of the Cotswolds' ([21 hours ago](https://www.bbc.com/news/articles/c309pnenp6no?at_medium=RSS&at_campaign=rss))
-- Century-old teddy bear goes up for auction ([21 hours ago](https://www.bbc.com/news/articles/cx2dgxlpjx3o?at_medium=RSS&at_campaign=rss))
+- Driver jailed after causing crash that killed two ([11 hours ago](https://www.bbc.com/news/articles/c3ew3vp8dlzo?at_medium=RSS&at_campaign=rss))
+- A-road to close overnight for several weeks ([18 hours ago](https://www.bbc.com/news/articles/cedz9zgzjy5o?at_medium=RSS&at_campaign=rss))
+- Bid to ban coaches from 'Venice of the Cotswolds' ([22 hours ago](https://www.bbc.com/news/articles/c309pnenp6no?at_medium=RSS&at_campaign=rss))
+- Century-old teddy bear goes up for auction ([22 hours ago](https://www.bbc.com/news/articles/cx2dgxlpjx3o?at_medium=RSS&at_campaign=rss))
 - One-off diversion takes 30 minutes off train journey ([1 days ago](https://www.bbc.com/news/articles/ckgzl9qe2z9o?at_medium=RSS&at_campaign=rss))
 - Men leave restaurant without paying £329 bill ([1 days ago](https://www.bbc.com/news/articles/crl4n1lex4no?at_medium=RSS&at_campaign=rss))
 - Family pay tribute to 'loving father' after crash ([1 days ago](https://www.bbc.com/news/articles/cx28dw0qg3jo?at_medium=RSS&at_campaign=rss))

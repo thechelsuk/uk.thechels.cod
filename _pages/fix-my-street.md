@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Orchard avenue, 14th February :- [8920008](https://www.fixmystreet.com/report/8920008)
+- Car parked too close to junction, 14th February :- [8919863](https://www.fixmystreet.com/report/8919863)
+- Long deep pothole on St Stephen’s Riad, 14th February :- [8919718](https://www.fixmystreet.com/report/8919718)
+- Tarmac is breaking up around road grate as vehicles attempt to avoid grate., 14th February :- [8919553](https://www.fixmystreet.com/report/8919553)
+- Signs, barriers or materials left by contractor, 14th February :- [8919542](https://www.fixmystreet.com/report/8919542)
 - Signs left by contractors, 14th February :- [8919527](https://www.fixmystreet.com/report/8919527)
 - Signs misaligned an not readable, 14th February :- [8919520](https://www.fixmystreet.com/report/8919520)
 - Deeper than tennis ball pothole over 12” wide, 14th February :- [8919505](https://www.fixmystreet.com/report/8919505)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - This drain has sunken an poses a risk especially to cyclists. It is also blocked an has been for a long time. I noticed 2 other reports on this and these have been closed wit no apparent action taken or explanation why not., 14th February :- [8918639](https://www.fixmystreet.com/report/8918639)
 - Pothole, 14th February :- [8918619](https://www.fixmystreet.com/report/8918619)
 - Pedestrian crossing button not working, 14th February :- [8918609](https://www.fixmystreet.com/report/8918609)
-- Pothole, 14th February :- [8918605](https://www.fixmystreet.com/report/8918605)
-- Lage pothole, 14th February :- [8918593](https://www.fixmystreet.com/report/8918593)
-- Pothole, 14th February :- [8918576](https://www.fixmystreet.com/report/8918576)
-- Volunteer litter pick bags ready for collection, 14th February :- [8918395](https://www.fixmystreet.com/report/8918395)
-- Pothole, 14th February :- [8917483](https://www.fixmystreet.com/report/8917483)
 
 <!-- fix_marker ends -->

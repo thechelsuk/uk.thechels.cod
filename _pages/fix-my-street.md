@@ -14,6 +14,7 @@ permalink: /fix-my-street
 - Its loads of potholes, 15th February :- [8926599](https://www.fixmystreet.com/report/8926599)
 - Drain completely blocked with silt causing significant water on road and flowing down the road, 15th February :- [8926446](https://www.fixmystreet.com/report/8926446)
 - Dog fouling on pavement near church car park., 15th February :- [8926433](https://www.fixmystreet.com/report/8926433)
+- Very deep large pothole, caused blowout and damage to CV joint on car, 15th February :- [8926382](https://www.fixmystreet.com/report/8926382)
 - Very deep pot hole on leckhampton lane approaching the church, 15th February :- [8926219](https://www.fixmystreet.com/report/8926219)
 - Large hole you filled a few months ago waste of time, 15th February :- [8926153](https://www.fixmystreet.com/report/8926153)
 - Another large pot hole please do something about the pot holes in this road, 15th February :- [8925649](https://www.fixmystreet.com/report/8925649)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Massive pothole punctured my tyre and damaged my wheel rim, 15th February :- [8924985](https://www.fixmystreet.com/report/8924985)
 - Deep pothole in the road, near pedestrian refuge, 15th February :- [8924897](https://www.fixmystreet.com/report/8924897)
 - Manhole cover on cycle path overflowing - guessing blocked downstream, 15th February :- [8924895](https://www.fixmystreet.com/report/8924895)
-- Length- Appropriately 170cm Depth - Approximately 7cm, 15th February :- [8924842](https://www.fixmystreet.com/report/8924842)
 
 <!-- fix_marker ends -->

@@ -90,6 +90,14 @@ This message will be updated by 12:00PM on the 16 February 2026, or as the situa
 - Flood alert: Middle Avon Rugby to Bidford
 - River levels have fallen but are forecast to cross the Flood Alert threshold level again this afternoon/evening as a result of today's forecast rainfall. Flooding is expected on 15 and 16 February 2026. Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 16 February 2026 or as the situation changes.
 
+- Flood alert: River Stour in South Warwickshire
+- High river levels today may lead to flooding. 
+Flooding is possible on 15 February 2026 and possibly overnight into 16 February 2026. 
+Locations most affected will be low lying land and roads near rivers. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 16 February 2026 or as the situation changes.
+
 - Flood alert: River Severn in Gloucestershire
 - River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Sunday 15th February, and in the coming days. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe 4.2 - 4.3m Monday 16/02 PM, Haw Bridge 5.1 - 5.2m Monday 16/02 PM. Further rainfall is forecast overnight Saturday into Sunday. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 16 February 2026 or as the situation changes.
 

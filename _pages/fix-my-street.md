@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Persistent flooding on Old Gloucester Road (B4634) creating serious danger to road users and pedestrians - unresolved, 15th February :- [8921702](https://www.fixmystreet.com/report/8921702)
+- The road is in an awful state, with multiple potholes, uneven surface and broken speed bumps. It’s extremely difficult to drive down and its likely to cause damage to cars now., 15th February :- [8921699](https://www.fixmystreet.com/report/8921699)
+- Numerous potholes & speed bumps with chunks missing, 15th February :- [8921676](https://www.fixmystreet.com/report/8921676)
 - Bridge surface is slippery when wet, 15th February :- [8921254](https://www.fixmystreet.com/report/8921254)
 - 120cm long 125mm deep (at least ) pothole absolutely destroyed the wheel and tyre of my car! 5 minutes later another car hit this pothole and broke down at the same lay-by as me (30m away). This needs to be sorted ASAP before a motorcyclist hits this and it will kill them !!, 15th February :- [8921041](https://www.fixmystreet.com/report/8921041)
 - Damaged railings, 14th February :- [8920734](https://www.fixmystreet.com/report/8920734)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Deeper than tennis ball pothole over 12” wide, 14th February :- [8919505](https://www.fixmystreet.com/report/8919505)
 - Water flowing out of field, 14th February :- [8919496](https://www.fixmystreet.com/report/8919496)
 - Flytipped furniture, 14th February :- [8919402](https://www.fixmystreet.com/report/8919402)
-- Flytipped items, 14th February :- [8919324](https://www.fixmystreet.com/report/8919324)
-- Long line of deep potholes, 14th February :- [8919272](https://www.fixmystreet.com/report/8919272)
-- Illuminated bollards are missing on The Park, 14th February :- [8919271](https://www.fixmystreet.com/report/8919271)
 
 <!-- fix_marker ends -->

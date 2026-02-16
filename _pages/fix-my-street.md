@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roadside gully blocked, 16th February :- [8928089](https://www.fixmystreet.com/report/8928089)
+- Pot hole deeper than a golf ball, 16th February :- [8928083](https://www.fixmystreet.com/report/8928083)
+- Flytipped items, 16th February :- [8927833](https://www.fixmystreet.com/report/8927833)
+- In-between school car park entrance and slow sign printed on road, 16th February :- [8927749](https://www.fixmystreet.com/report/8927749)
+- Road surface has completely failed, much wider than a dinner plate, more like a banquet, 16th February :- [8927606](https://www.fixmystreet.com/report/8927606)
+- The pavement and kerb outside no 21 is badly damaged and worn creating a trip hazard for elderly pedestrians of which there are a good number, as well as you g children, 16th February :- [8927597](https://www.fixmystreet.com/report/8927597)
 - Broken glass, 16th February :- [8927409](https://www.fixmystreet.com/report/8927409)
 - A series of potholes down the centre of the road., 16th February :- [8927094](https://www.fixmystreet.com/report/8927094)
 - Drain surround has broken down again, 15th February :- [8927087](https://www.fixmystreet.com/report/8927087)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Large hole you filled a few months ago waste of time, 15th February :- [8926153](https://www.fixmystreet.com/report/8926153)
 - Another large pot hole please do something about the pot holes in this road, 15th February :- [8925649](https://www.fixmystreet.com/report/8925649)
 - Footparh sign on south side of the road is broken., 15th February :- [8925566](https://www.fixmystreet.com/report/8925566)
-- Blocked up drain at the end of Townsend street, Cheltenham., 15th February :- [8925564](https://www.fixmystreet.com/report/8925564)
-- Footpath sign totally missing, 15th February :- [8925544](https://www.fixmystreet.com/report/8925544)
-- Drain blocked on Hatherley Court Road, 15th February :- [8925310](https://www.fixmystreet.com/report/8925310)
-- Works sign down at lamp 48 Shurdington Road, 15th February :- [8925273](https://www.fixmystreet.com/report/8925273)
-- Two newly planted trees have been snapped, 15th February :- [8925192](https://www.fixmystreet.com/report/8925192)
-- Drain is now completely blocked outside 25/27 Alexandra Street, 15th February :- [8925134](https://www.fixmystreet.com/report/8925134)
 
 <!-- fix_marker ends -->

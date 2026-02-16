@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass, 16th February :- [8927409](https://www.fixmystreet.com/report/8927409)
 - A series of potholes down the centre of the road., 16th February :- [8927094](https://www.fixmystreet.com/report/8927094)
 - Drain surround has broken down again, 15th February :- [8927087](https://www.fixmystreet.com/report/8927087)
 - Pothole by drain cover very dangerous, 15th February :- [8927001](https://www.fixmystreet.com/report/8927001)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Works sign down at lamp 48 Shurdington Road, 15th February :- [8925273](https://www.fixmystreet.com/report/8925273)
 - Two newly planted trees have been snapped, 15th February :- [8925192](https://www.fixmystreet.com/report/8925192)
 - Drain is now completely blocked outside 25/27 Alexandra Street, 15th February :- [8925134](https://www.fixmystreet.com/report/8925134)
-- Drain just before pedestrian crossing blocked, 15th February :- [8925003](https://www.fixmystreet.com/report/8925003)
 
 <!-- fix_marker ends -->

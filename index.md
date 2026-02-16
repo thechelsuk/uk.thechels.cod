@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 16 February 2026
 
-- The average temperature today is 6.09˚C,
-- With highs of 6.66˚C and lows of 5.16˚C,
-- It may feel like 3.19˚C with scattered clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 997hPa and humidity is 85%
+- The average temperature today is 5.73˚C,
+- With highs of 6.66˚C and lows of 4.83˚C,
+- It may feel like 1.9˚C with broken clouds
+- The wind speed is 5.81m/s and visibility is 10000m
+- The pressure is 995hPa and humidity is 82%
 - The sun will rise at 07:21 and set at 17:23
 
 <!-- weather_marker ends -->

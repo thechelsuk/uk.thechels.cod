@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Views needed on beloved beauty spot's future ([8 hours ago](https://www.bbc.com/news/articles/ckgz7enp9kzo?at_medium=RSS&at_campaign=rss))
-- Rail stations showcase 25 years of carnival in photos ([15 hours ago](https://www.bbc.com/news/articles/c89kvqg7e9wo?at_medium=RSS&at_campaign=rss))
-- In pictures: Charity cold water dip and pupils help the homeless ([15 hours ago](https://www.bbc.com/news/articles/clyx3zn3rd1o?at_medium=RSS&at_campaign=rss))
+- Views needed on beloved beauty spot's future ([10 hours ago](https://www.bbc.com/news/articles/ckgz7enp9kzo?at_medium=RSS&at_campaign=rss))
+- Rail stations showcase 25 years of carnival in photos ([18 hours ago](https://www.bbc.com/news/articles/c89kvqg7e9wo?at_medium=RSS&at_campaign=rss))
+- In pictures: Charity cold water dip and pupils help the homeless ([18 hours ago](https://www.bbc.com/news/articles/clyx3zn3rd1o?at_medium=RSS&at_campaign=rss))
 - Cheltenham publican hits out at Lib Dems for lack of help ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-publican-hits-out-at-lib-dems-for-lack-of-help/))
 - Walk for Cobalt with Cheltenham Mayor ([1 days ago](https://gloucesternewscentre.co.uk/walk-for-cobalt-with-cheltenham-mayor/))
 - Bowman heartbroken after case with ashes goes missing ([1 days ago](https://www.bbc.com/news/articles/cn0z8p05l7no?at_medium=RSS&at_campaign=rss))

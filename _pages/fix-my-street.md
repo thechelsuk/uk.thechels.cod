@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mutlple potholes in Folland Ave just after the turning from Hucclecote Road where the cars park, 16th February :- [8929413](https://www.fixmystreet.com/report/8929413)
+- Uncollected Road Closed Works Sign, 16th February :- [8929217](https://www.fixmystreet.com/report/8929217)
+- Pot hole in road on Pennsylvania Avenue, 16th February :- [8929207](https://www.fixmystreet.com/report/8929207)
+- This van is from building works at 48 Ermin Street opposite. it is parked on this bank everyday, 16th February :- [8929201](https://www.fixmystreet.com/report/8929201)
+- Multiple blocked drains, 16th February :- [8929083](https://www.fixmystreet.com/report/8929083)
+- Along the kerb where cyclists ride bikes, 16th February :- [8929025](https://www.fixmystreet.com/report/8929025)
 - Roadside gully blocked, 16th February :- [8928089](https://www.fixmystreet.com/report/8928089)
 - Pot hole deeper than a golf ball, 16th February :- [8928083](https://www.fixmystreet.com/report/8928083)
 - Flytipped items, 16th February :- [8927833](https://www.fixmystreet.com/report/8927833)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Road gulley blocked causing dangerous road & footpath flooding, 15th February :- [8926617](https://www.fixmystreet.com/report/8926617)
 - Its loads of potholes, 15th February :- [8926599](https://www.fixmystreet.com/report/8926599)
 - Drain completely blocked with silt causing significant water on road and flowing down the road, 15th February :- [8926446](https://www.fixmystreet.com/report/8926446)
-- Dog fouling on pavement near church car park., 15th February :- [8926433](https://www.fixmystreet.com/report/8926433)
-- Very deep large pothole, caused blowout and damage to CV joint on car, 15th February :- [8926382](https://www.fixmystreet.com/report/8926382)
-- Very deep pot hole on leckhampton lane approaching the church, 15th February :- [8926219](https://www.fixmystreet.com/report/8926219)
-- Large hole you filled a few months ago waste of time, 15th February :- [8926153](https://www.fixmystreet.com/report/8926153)
-- Another large pot hole please do something about the pot holes in this road, 15th February :- [8925649](https://www.fixmystreet.com/report/8925649)
-- Footparh sign on south side of the road is broken., 15th February :- [8925566](https://www.fixmystreet.com/report/8925566)
 
 <!-- fix_marker ends -->

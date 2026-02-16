@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple Potholes and broken up road surface, is unavoidable, 16th February :- [8934426](https://www.fixmystreet.com/report/8934426)
 - Rubbish bin destroyed, 16th February :- [8934318](https://www.fixmystreet.com/report/8934318)
 - Road surface breaking up / pothole, 16th February :- [8934124](https://www.fixmystreet.com/report/8934124)
 - Pothole, 16th February :- [8934106](https://www.fixmystreet.com/report/8934106)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Very Large Pothole on Gloucester Road towards Kilkenny - hit this morning blew tyre immediately, 16th February :- [8933122](https://www.fixmystreet.com/report/8933122)
 - A pothole in road problem, 16th February :- [8933167](https://www.fixmystreet.com/report/8933167)
 - Driving/parking on verges, turning them to mud., 16th February :- [8933073](https://www.fixmystreet.com/report/8933073)
-- Sharp deep pothole in road - right angle edge, 16th February :- [8933054](https://www.fixmystreet.com/report/8933054)
 
 <!-- fix_marker ends -->

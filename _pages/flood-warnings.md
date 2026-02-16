@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. Flooding is possible on 15 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges are expected to rise in response to today’s rainfall. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further wet weather is forecast in the coming week and river levels are expected to respond to any rainfall received. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 16 February 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 16 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges remain high but are currently stable or falling. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Light rainfall is possible on Monday and Tuesday but conditions may worsen on Wednesday and Thursday. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 17 February 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -79,11 +79,11 @@ This message will be updated by 12:00PM on the 17 February 2026, or as the situa
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
 - High river levels may lead to flooding.
 
-River levels are high but currently slowly falling on the Swill Brook. Flooding of low lying land and roads is expected to continue today, especially in the Oaksey area. Further rain is forecast today, 15 February 2026, which has the potential to be heavy at times. River levels are expected to rise again today in response to forecasted rainfall. Levels will then remain high and responsive to further rainfall over next couple of days.
+River levels have risen on the Swill Brook following recent rainfall. Flooding of low lying land and roads is expected to continue today, 16 February 2026, especially in the Oaksey area. Today is forecast to be predominantly dry with a few scattered showers, some of which may be heavy. River levels will remain high and responsive to any further rainfall over next couple of days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on the 16 February 2026, or as the situation changes.
+This message will be updated by 12:00PM on the 17 February 2026, or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
 - High river levels today has led to flooding. 
@@ -117,6 +117,22 @@ River levels are high on the River Thames and its tributaries from Buscot Wick d
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
 This message will be updated by 12:00PM on 17 February 2026 or as the situation changes.
+
+- Flood alert: River Wye in Herefordshire
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 16 February 2026 . 
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 17 February 2026 or as the situation changes.
+
+- Flood alert: River Wye in Gloucestershire
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 16 February 2026 . 
+Flooding may affect low lying land and roads along the River Wye. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 17 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels remain high today in response to the recent rainfall. Flooding is possible today, Monday 16th February. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn. Predicted peaks:- Diglis 4.0 - 4.2m Monday 16/02 AM, Kempsey Yacht Club 6.1 - 6.2m Monday 16/02 AM, and Saxons Lode 4.7 - 4.9m Monday 16/02 PM. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 16 February 2026 or as the situation changes.

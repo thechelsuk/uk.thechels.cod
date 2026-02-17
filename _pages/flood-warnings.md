@@ -101,13 +101,27 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 
 - Flood alert: River Severn in Gloucestershire
-- River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Monday 16th February. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe 4.2 - 4.3m Monday 16/02 PM, Haw Bridge 5.1 - 5.2m Monday 16/02 PM. Further scattered showers are forecast over the coming days. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 17February 2026 or as the situation changes.
+- River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Tuesday 17th February. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill.  
+
+Predicted peaks:- Mythe 4.2 - 4.3m on Tuesday 17/02, Haw Bridge 5.1 - 5.2m Tuesday 17/02. 
+
+Further scattered showers are forecast over the coming days. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
+
+This message will be updated by 10:00AM on 18 February 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- River levels remain high due to recent rainfall. Flooding is possible today, Monday 16th February 2026. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 17 February 2026 or as the situation changes
+- River levels remain high due to recent rainfall. Flooding is possible today, Tuesday 17th February 2026. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  
+
+We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 10:00AM on 18 February 2026 or as the situation changes
 
 - Flood alert: River Avon in Worcestershire
-- River levels remain high in response to recent rainfall. Flooding is possible today, Monday 16th February. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Bredon 2.9m - 3.1m overnight on Monday 16th February. Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 17 February 2026 or as the situation changes.
+- River levels remain high in response to recent rainfall. Flooding is possible today, Tuesday 17th February. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Bredon currently peaking 2.9m - 3.0m this morning on Tuesday 17th February.  
+
+Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 10:00AM on 18 February 2026 or as the situation
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
@@ -135,7 +149,13 @@ Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 11:00AM on 17 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- River levels remain high today in response to the recent rainfall. Flooding is possible today, Monday 16th February. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn. Predicted peaks:- Diglis 4.0 - 4.2m Monday 16/02 AM, Kempsey Yacht Club 6.1 - 6.2m Monday 16/02 AM, and Saxons Lode 4.7 - 4.9m Monday 16/02 PM. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 16 February 2026 or as the situation changes.
+- River levels remain high today in response to the recent rainfall. Flooding is possible today, Tuesday 17th February. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn.  
+
+Peaks:- Diglis peaked at 4.08m on Monday 16/02, Kempsey Yacht Club peaked at 6.16m on Monday 16/02, and Saxons Lode peaked at 4.80m on Monday 16/02 PM.  
+
+We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 10:00AM on 18 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Sandhurst and Maisemore
 - High river levels are expected to cause flooding today, Monday 16th February 2026 .  Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 Over to Maisemore (fluvial and tidal). Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted Peaks: Sandhurst 4m - 4.2m on Monday afternoon, 16th February.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 17 February 2026 or as the situation changes.
@@ -167,13 +187,13 @@ This message will be updated by 12:00PM on the 17 February 2026, or as the situa
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 
 
-River levels are high on the River Coln following recent rainfall. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge area. Further showers of rain are possible overnight. Tomorrow is forecast to be predominantly dry. River levels are expected to remain high and sensitve to any further rain over the coming days.
+River levels are high but stable on the River Coln following recent rainfall. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge area. Today and overnight is forecast to be predominantly dry, followed by further rain tomorrow. River levels are expected to remain high and sensitve to any further rain over the coming days.
 
 We are closely monitoring the situation. 
 
 Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
 
-This message will be updated by 11:00AM on the 17 February 2026, or as the situation changes.
+This message will be updated by 18:00PM on the 17 February 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

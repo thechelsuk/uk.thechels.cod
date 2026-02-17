@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. Flooding is possible on 16 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges remain high but are currently stable or falling. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Light rainfall is possible on Monday and Tuesday but conditions may worsen on Wednesday and Thursday. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 17 February 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 17 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges are currently falling. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Forecast rainfall on Wednesday may cause levels to increase again. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 18 February 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -52,11 +52,11 @@ Avoid low lying roads near rivers, which may be flooded. Go to River Levels Onli
 This message will be updated by 12:00PM on 18 February 2026, or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- River levels are high on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 16 February 2026, especially in the Kempsford area. Today is forecast to be predominantly dry with a few scattered showers, some of which may be heavy. River levels have stabilised overnight but levels will remain high and responsive to further rainfall over next couple of days.
+- River levels are high but slowly falling on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 17 February 2026, especially in the Kempsford area. Today and overnight are forecasted to be predominantly dry, followed by further rain tomorrow. River levels are expected to continue slowly falling today, but levels will remain high and responsive to further rainfall over next couple of days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 17 February 2026 or as the situation changes.
+This message will be updated by 12:00PM on 18 February 2026, or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
@@ -119,11 +119,11 @@ This message will be updated by 10:00AM on 18 February 2026 or as the situation
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
 
-River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock, especially in the Eynsham area. Flooding of low lying land and roads is expected to continue today, 16 February 2026. Today is forecast to be predominantly dry with a few scattered showers, some of which may be heavy. Levels have stabilised in the area but are expected to remain high and sensitive to further rainfall over the coming days. 
+River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock, especially in the Eynsham area. Flooding of low lying land and roads is expected to continue today, 17 February 2026. Today and overnight are forecasted to be predominantly dry, followed by further rain tomorrow. Levels are stabilising in the area but are expected to remain high and sensitive to further rainfall over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 17 February 2026 or as the situation changes.
+This message will be updated by 12:00PM on 18 February 2026, or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
 - River levels remain high. Flooding is possible on 17th February 2026.

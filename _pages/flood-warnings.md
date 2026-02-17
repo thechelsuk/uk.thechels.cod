@@ -125,6 +125,15 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00PM on 18 February 2026, or as the situation changes.
 
+- Flood alert: Severn estuary from Gloucester to Sharpness
+- High tides today may lead to flooding. 
+Flooding is possible from 21:00 to 23:00 on 17/02/2026 and 09:00 to 11:00 on 18/02/2026 
+Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Gloucester 3.5m to 3.7m during this evenings high tides 17/02/26, and 3.4m to 3.6m during tomorrow mornings high tides, 18/02/26. 
+We are closely monitoring the situation . 
+Avoid coastal roads and low lying roads near rivers, which may be flooded . 
+This message will be updated by 12:00PM on 18 February 2026 or as the situation changes.
+
+
 - Flood alert: River Wye in Herefordshire
 - River levels remain high. Flooding is possible on 17th February 2026.
 
@@ -201,13 +210,13 @@ This message will be updated by 12:00PM on 18 February 2026 or as the situation 
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 
 
-River levels are high but stable on the River Coln following recent rainfall. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge area. Today and overnight is forecast to be predominantly dry, followed by further rain tomorrow. River levels are expected to remain high and sensitve to any further rain over the coming days.
+River levels are high but currently slowly falling on the River Coln following recent rainfall. Flooding of property and roads is expected today, 17 February 2026, especially nearest the River Coln in the Fossebridge area. This evening and overnight is forecasted to be predominantly dry, followed by further rain tomorrow, which has the potential to be heavy at times. River levels are expected to continue slowly falling overnight. However, levels will remain high and sensitive to any further rain over the coming days.
 
 We are closely monitoring the situation. 
 
-Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
+Activate any flood protection products you may have. Go to River Levels Online for updates on current river levels. Stay away from flood water - it contains hidden dangers such as open manhole covers, sewage and chemicals.  
 
-This message will be updated by 18:00PM on the 17 February 2026, or as the situation changes.
+This message will be updated by 11:00AM on 18 February 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

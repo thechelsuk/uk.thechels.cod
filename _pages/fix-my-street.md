@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Extra large pot holes, 16th February :- [8935604](https://www.fixmystreet.com/report/8935604)
+- Several potholes in Yarnolds making it very difficult to drive around them, 16th February :- [8935563](https://www.fixmystreet.com/report/8935563)
+- Street lamp is out, 16th February :- [8935474](https://www.fixmystreet.com/report/8935474)
+- Three street lights out in one area, 16th February :- [8935290](https://www.fixmystreet.com/report/8935290)
+- Damage to the verges, 16th February :- [8935171](https://www.fixmystreet.com/report/8935171)
+- Previous patchwork repair fix failed!, 16th February :- [8935112](https://www.fixmystreet.com/report/8935112)
+- Road floods in heavy rain sending a torrent of dirty water down my driveway and blocking my drains, 16th February :- [8935111](https://www.fixmystreet.com/report/8935111)
 - Multiple Potholes and broken up road surface, is unavoidable, 16th February :- [8934426](https://www.fixmystreet.com/report/8934426)
 - Rubbish bin destroyed, 16th February :- [8934318](https://www.fixmystreet.com/report/8934318)
 - Road surface breaking up / pothole, 16th February :- [8934124](https://www.fixmystreet.com/report/8934124)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 16th February :- [8933631](https://www.fixmystreet.com/report/8933631)
 - Big pothole, 16th February :- [8933409](https://www.fixmystreet.com/report/8933409)
 - Light flashes randomly, sometimes all night, 16th February :- [8933382](https://www.fixmystreet.com/report/8933382)
-- A pothole in road problem, 16th February :- [8933423](https://www.fixmystreet.com/report/8933423)
-- Large pot hole in road, 16th February :- [8933248](https://www.fixmystreet.com/report/8933248)
-- Painted on the side of 28 new street, 16th February :- [8933232](https://www.fixmystreet.com/report/8933232)
-- Huge pot hole right by someone's drive, 16th February :- [8933225](https://www.fixmystreet.com/report/8933225)
-- Very Large Pothole on Gloucester Road towards Kilkenny - hit this morning blew tyre immediately, 16th February :- [8933122](https://www.fixmystreet.com/report/8933122)
-- A pothole in road problem, 16th February :- [8933167](https://www.fixmystreet.com/report/8933167)
-- Driving/parking on verges, turning them to mud., 16th February :- [8933073](https://www.fixmystreet.com/report/8933073)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 17 February 2026
 
-- The average temperature today is 4.12˚C,
-- With highs of 4.6˚C and lows of 3.72˚C,
-- It may feel like 1.7˚C with clear sky
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 79%
+- The average temperature today is 3.01˚C,
+- With highs of 3.49˚C and lows of 2.19˚C,
+- It may feel like 0.01˚C with scattered clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 76%
 - The sun will rise at 07:19 and set at 17:25
 
 <!-- weather_marker ends -->

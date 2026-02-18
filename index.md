@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 18 February 2026
 
-- The average temperature today is 4.95˚C,
-- With highs of 5.4˚C and lows of 4.75˚C,
-- It may feel like 0.76˚C with broken clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 996hPa and humidity is 77%
+- The average temperature today is 4.69˚C,
+- With highs of 5.55˚C and lows of 4.27˚C,
+- It may feel like 0.65˚C with overcast clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 993hPa and humidity is 78%
 - The sun will rise at 07:17 and set at 17:27
 
 <!-- weather_marker ends -->

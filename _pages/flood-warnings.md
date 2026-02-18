@@ -90,6 +90,14 @@ We will continue to monitor the situation and will issue further alerts or warni
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
+- Flood alert: River Stour in South Warwickshire
+- Forecast high river levels overnight may lead to flooding. 
+Flooding is possible from the evening of 18 February 2026 . 
+Flooding may affect low lying land and roads around Shipston on Stour, Tredington, Halford, Newbold on Stour, Crimscote, Wimpstone and Clifford Chambers. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . Avoid low lying roads near rivers, which may be flooded. 
+This message will be updated by 11:00AM on 19 February 2026 or as the situation changes.
+
 - Flood alert: River Severn in Gloucestershire
 - River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Wednesday 18th February 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill.  
 
@@ -213,10 +221,14 @@ This message will be updated by 12:00pm on 19 February 2026, or as the situation
 
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 
-River levels are high but steady on the River Coln following recent rainfall. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge and Coln St Dennis areas. Predominantly light rain is expected this afternoon and overnight, which may be heavy at times. River levels are expected to remain high and sensitive to any further rain over the coming days.
+
+River levels are high but steady on the River Coln following recent rainfall. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge and Coln St Dennis areas. Rain is expected this evening and overnight, which may be heavy at times. River levels are expected to remain high and sensitive to any further rain over the coming days.
+
 We are closely monitoring the situation. 
+
 Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open manhole covers, sewage and chemicals.  
-This message will be updated by 6pm on the 18 February 2026, or as the situation changes.
+
+This message will be updated by 11am on the 19 February 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

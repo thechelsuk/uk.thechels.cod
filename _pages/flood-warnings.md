@@ -101,18 +101,18 @@ Further scattered showers are forecast over the coming days. We are closely moni
 This message will be updated by 10:00AM on 18 February 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- River levels remain high due to recent rainfall. Flooding is possible today, Tuesday 17th February 2026. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  
+- River levels remain high due to recent rainfall. Flooding is possible today, Wednesday 18th February 2026. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  
 
 We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 10:00AM on 18 February 2026 or as the situation changes
+This message will be updated by 10:00AM on 19 February 2026 or as the situation changes
 
 - Flood alert: River Avon in Worcestershire
-- River levels remain high in response to recent rainfall. Flooding is possible today, Tuesday 17th February. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Bredon currently peaking 2.9m - 3.0m this morning on Tuesday 17th February.  
+- River levels remain high in response to recent rainfall. Flooding is possible today, Wednesday 18th February. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Bredon peaked at 2.87m on Tuesday 17th February.  
 
 Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 10:00AM on 18 February 2026 or as the situation
+This message will be updated by 10:00AM on 19 February 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
@@ -132,38 +132,28 @@ Avoid coastal roads and low lying roads near rivers, which may be flooded . 
 This message will be updated by 12:00PM on 18 February 2026 or as the situation changes.
 
 
-- Flood alert: River Wye in Herefordshire
-- River levels remain high. Flooding is possible on 17th February 2026.
+- Warning no longer in force: River Wye in Herefordshire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force.  
 
-Predicted peaks:- Ross on Wye 3.1m to 3.5m Tuesday 17/02 PM.
+- Warning no longer in force: River Wye in Gloucestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses.
-
-This message will be updated by 11:00AM on 18th February 2026 or as the situation changes.
-
-- Flood alert: River Wye in Gloucestershire
-- High river levels today may lead to flooding.  Flooding is possible on 17th February 2026. 
-
-Flooding may affect low lying land and roads along the River Wye.  We are closely monitoring the situation.  
-
-Predicted peaks:- Ross on Wye 3.1m to 3.5m Tuesday 17/02 PM.
-
-Observed peaks:- Lydbrook 4.11m Tuesday 17/02 AM.
- 
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses.
-
-This message will be updated by 11:00AM on 18th February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- River levels remain high today in response to the recent rainfall. Flooding is possible today, Tuesday 17th February. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn.  
+- River levels remain high today in response to the recent rainfall. Flooding is possible today, Wednesday 18th February. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn.  
 
-Peaks:- Diglis peaked at 4.08m on Monday 16/02, Kempsey Yacht Club peaked at 6.16m on Monday 16/02, and Saxons Lode peaked at 4.80m on Monday 16/02 PM.  
+Peaks:- Diglis peaked at 4.08m on Monday 16/02, Kempsey Yacht Club peaked 6.16m on Monday 16/02, and Saxons Lode 4.80m on Monday 16/02 PM.  
 
 We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 10:00AM on 18 February 2026 or as the situation changes.
+This messag
 
 - Flood warning: River Severn at Sandhurst and Maisemore
 - High river levels are expected to cause flooding today, Tuesday 17th February 2026 . Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 over to Maisemore.  Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted Peaks: Sandhurst 4.0m - 4.1m on Tuesday 17th February. 
@@ -190,11 +180,12 @@ This message will be updated by 11:00AM on 18 February 2026 or as the situation 
 We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
 This message will be updated by 11:00AM on 18 February 2026 or as the situation changes
 
-- Flood warning: River Avon at Strensham and Bredon
-- River levels remain high in response to recent rainfall. Flooding is possible today, Tuesday 17th February 2026. Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham peaked 2.61m at 4.45pm on Monday 16 February, Bredon currently peaking 2.9m - 3.0m this morning on Tuesday 17th February.
+- Warning no longer in force: River Avon at Strensham and Bredon
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
-This message will be updated by 11:00AM on 18 February 2026 or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington.

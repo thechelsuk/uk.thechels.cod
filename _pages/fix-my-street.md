@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Significant litter both sides of thre road, 18th February :- [8944241](https://www.fixmystreet.com/report/8944241)
+- Several large potholes, 18th February :- [8944180](https://www.fixmystreet.com/report/8944180)
+- Tarmac broken away around drain., 18th February :- [8944116](https://www.fixmystreet.com/report/8944116)
+- Large pothole from edge of kerb into the middle of road, 18th February :- [8944101](https://www.fixmystreet.com/report/8944101)
 - Multiple deep large potholes, 18th February :- [8944087](https://www.fixmystreet.com/report/8944087)
 - Pothole on road causing risk to damage or injury, 18th February :- [8944074](https://www.fixmystreet.com/report/8944074)
 - Proceed in direction indicated by the arrow sign pointing wrong way, 18th February :- [8944045](https://www.fixmystreet.com/report/8944045)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 17th February :- [8943003](https://www.fixmystreet.com/report/8943003)
 - Massive disintegration, 17th February :- [8942842](https://www.fixmystreet.com/report/8942842)
 - Two Potholes deeper than tennis balls on Gambles Lane, 17th February :- [8942773](https://www.fixmystreet.com/report/8942773)
-- Road full of pot holes been reported do you job, 17th February :- [8942506](https://www.fixmystreet.com/report/8942506)
-- Waste outside property worsening vermin issue, 17th February :- [8942232](https://www.fixmystreet.com/report/8942232)
-- Multiple pot holes, 17th February :- [8941479](https://www.fixmystreet.com/report/8941479)
-- Two large potholes, rubble being pushed onto the pavement by vehicles, 17th February :- [8941433](https://www.fixmystreet.com/report/8941433)
 
 <!-- fix_marker ends -->

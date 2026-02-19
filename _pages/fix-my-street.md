@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole in road by entrance/exit to garage. Was previously repaired but has reappeared. Cars swerving when entering garage., 19th February :- [8959240](https://www.fixmystreet.com/report/8959240)
+- 2 feet diameter on Old Bath Rd. near curb, 19th February :- [8959130](https://www.fixmystreet.com/report/8959130)
+- Pothole which has become wider and deeper., 19th February :- [8958897](https://www.fixmystreet.com/report/8958897)
 - 100mm deep pothole, 19th February :- [8958800](https://www.fixmystreet.com/report/8958800)
 - 110mm deep pothole x2, 19th February :- [8958789](https://www.fixmystreet.com/report/8958789)
 - Sunken iron works, 19th February :- [8958773](https://www.fixmystreet.com/report/8958773)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - 18 marle hill rd, 19th February :- [8957356](https://www.fixmystreet.com/report/8957356)
 - A pothole in road problem, 19th February :- [8957295](https://www.fixmystreet.com/report/8957295)
 - A pothole in road problem, 19th February :- [8957292](https://www.fixmystreet.com/report/8957292)
-- Old damaged street lamp needs removing, 19th February :- [8956860](https://www.fixmystreet.com/report/8956860)
-- A pothole in road problem, 19th February :- [8956960](https://www.fixmystreet.com/report/8956960)
-- Large pothole next to speed hump, 19th February :- [8956832](https://www.fixmystreet.com/report/8956832)
 
 <!-- fix_marker ends -->

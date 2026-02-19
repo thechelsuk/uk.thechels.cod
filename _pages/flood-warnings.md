@@ -82,12 +82,12 @@ Flooding may affect low lying land and roads adjacent to Horsbere Brook, Wotton 
 We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 11:00AM on 20 February 2026 or as the situation changes.
 
-- Flood alert: River Stour in South Warwickshire
-- River levels remain high. Flooding is possible today 19 February 2026.
-Flooding may affect low lying land and roads around Shipston on Stour, Tredington, Halford, Newbold on Stour, Crimscote, Wimpstone and Clifford Chambers. 
-We are closely monitoring the situation . 
-Avoid using low lying footpaths and any bridges near local watercourses . Avoid low lying roads near rivers, which may be flooded. 
-This message will be updated by 11:00AM on 20 February 2026 or as the situation changes.
+- Warning no longer in force: River Stour in South Warwickshire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: Rivers in South Worcestershire
 - Rising river levels today may lead to flooding, Thursday 19th February 2026. 

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 19 February 2026
 
-- The average temperature today is 3.59˚C,
-- With highs of 4.43˚C and lows of 3.16˚C,
-- It may feel like -0.5˚C with broken clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 92%
+- The average temperature today is 4.28˚C,
+- With highs of 4.99˚C and lows of 3.72˚C,
+- It may feel like 0.62˚C with broken clouds
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 90%
 - The sun will rise at 07:15 and set at 17:28
 
 <!-- weather_marker ends -->

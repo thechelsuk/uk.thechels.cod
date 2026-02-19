@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light is out on Camera sign numbered 117918. Jctn of High Street and Clarence Street, Cheltenham, 19th February :- [8951449](https://www.fixmystreet.com/report/8951449)
+- Sign has been turned, another is illegible on sign numbered 117932 in High Street, Cheltenham, 19th February :- [8951441](https://www.fixmystreet.com/report/8951441)
+- Light out on unnumbered Roundabout ahead sign on west side of Ambrose Street, Cheltenham, 19th February :- [8951417](https://www.fixmystreet.com/report/8951417)
+- Light out on 2-way traffic ahead sign numbered x09780 in the middle of Ambrose Street, Cheltenham, 19th February :- [8951406](https://www.fixmystreet.com/report/8951406)
+- Light out on unnumbered Turn left sign in the middle of Ambrose Street, Cheltenham opposite the junction with New Street, 19th February :- [8951401](https://www.fixmystreet.com/report/8951401)
+- Light out on guardian angel numbered 109783 in the middle of Ambrose Street, Cheltenham, 18th February :- [8951385](https://www.fixmystreet.com/report/8951385)
 - Drainage blocked, holding water & full of mud making it difficult for pedestrians to cross, 18th February :- [8951096](https://www.fixmystreet.com/report/8951096)
 - Large pothole in road in Selborne Road, Bishop’s Cleeve, 18th February :- [8950911](https://www.fixmystreet.com/report/8950911)
 - 3 large potholes in the pavement outside Old Forge Cottages, 18th February :- [8950895](https://www.fixmystreet.com/report/8950895)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - There are 8 verying depth and length pot holes along Brockhampton Lane, 18th February :- [8950539](https://www.fixmystreet.com/report/8950539)
 - Risk to life - Huge Pot holes endangering road users, 18th February :- [8950538](https://www.fixmystreet.com/report/8950538)
 - Extreme Fatal risk to cyclists - Large Pot holes, 18th February :- [8950514](https://www.fixmystreet.com/report/8950514)
-- Pothole going up leckhampton road just before roundabout, 18th February :- [8950333](https://www.fixmystreet.com/report/8950333)
-- New bus stop markings, 18th February :- [8950212](https://www.fixmystreet.com/report/8950212)
-- Road problem, 18th February :- [8950191](https://www.fixmystreet.com/report/8950191)
-- Potholes, unacceptable road maintenance, 18th February :- [8950153](https://www.fixmystreet.com/report/8950153)
-- Blocked street drain, 18th February :- [8950096](https://www.fixmystreet.com/report/8950096)
-- Cromwell Road from 17 down to the corner at 11 seems to be rapidly disintegrating. I am baffled as to why you recently came to repair one pothole but did not bother with the rest of them. There are plenty to chose from. They are deep. One is in the middle of the road. Others nearer the pavement and constantly ejecting large stones. Dangerous to people and property. Your repairs never seem to last very long. I have in the last year had 3 tyres destroyed by Gloucestershire potholes (£750+) and I'm a little fed up of it. I suspect the constant and ludicrously heavy lorries from Mira thundering up and down the street at the crack of dawn do not help. They literally shake my house when they go past. Please get this sorted. Now., 18th February :- [8950082](https://www.fixmystreet.com/report/8950082)
 
 <!-- fix_marker ends -->

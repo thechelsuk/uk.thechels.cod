@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 100mm deep pothole, 19th February :- [8958800](https://www.fixmystreet.com/report/8958800)
+- 110mm deep pothole x2, 19th February :- [8958789](https://www.fixmystreet.com/report/8958789)
+- Sunken iron works, 19th February :- [8958773](https://www.fixmystreet.com/report/8958773)
+- Potholes on side of speed hump, 19th February :- [8958528](https://www.fixmystreet.com/report/8958528)
+- Pothole near corner of Brooklyn Road and orchard Avenue, 19th February :- [8958495](https://www.fixmystreet.com/report/8958495)
+- A pothole in road problem, 19th February :- [8958444](https://www.fixmystreet.com/report/8958444)
 - Water not flowing drain blocked, 19th February :- [8958307](https://www.fixmystreet.com/report/8958307)
 - Several potholes near centre of Delavale Road, 19th February :- [8958180](https://www.fixmystreet.com/report/8958180)
 - Multiple potholes on left side of rd from Cirencester rd, 19th February :- [8958170](https://www.fixmystreet.com/report/8958170)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Old damaged street lamp needs removing, 19th February :- [8956860](https://www.fixmystreet.com/report/8956860)
 - A pothole in road problem, 19th February :- [8956960](https://www.fixmystreet.com/report/8956960)
 - Large pothole next to speed hump, 19th February :- [8956832](https://www.fixmystreet.com/report/8956832)
-- Fly tipped Christmas Trees, 19th February :- [8956816](https://www.fixmystreet.com/report/8956816)
-- The drain is blocked problem, 19th February :- [8956958](https://www.fixmystreet.com/report/8956958)
-- Drain is consistently blocked, even when reports have been closed., 19th February :- [8956602](https://www.fixmystreet.com/report/8956602)
-- LARGE pothole, 19th February :- [8956349](https://www.fixmystreet.com/report/8956349)
-- TMC - Defects - Other problem, 19th February :- [8956402](https://www.fixmystreet.com/report/8956402)
-- LARGE pothole, 19th February :- [8956325](https://www.fixmystreet.com/report/8956325)
 
 <!-- fix_marker ends -->

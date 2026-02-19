@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous Potholes, 19th February :- [8951823](https://www.fixmystreet.com/report/8951823)
+- Whenever heavy rain flooding in this location half way across road focussed round the entrance to chapel carpark as in the location what three words ///rates.melon.certified, 19th February :- [8951676](https://www.fixmystreet.com/report/8951676)
 - Light is out on Camera sign numbered 117918. Jctn of High Street and Clarence Street, Cheltenham, 19th February :- [8951449](https://www.fixmystreet.com/report/8951449)
 - Sign has been turned, another is illegible on sign numbered 117932 in High Street, Cheltenham, 19th February :- [8951441](https://www.fixmystreet.com/report/8951441)
 - Light out on unnumbered Roundabout ahead sign on west side of Ambrose Street, Cheltenham, 19th February :- [8951417](https://www.fixmystreet.com/report/8951417)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain is completely full of mud, 18th February :- [8950744](https://www.fixmystreet.com/report/8950744)
 - The drain is full of mud, despite being repotedly cleaned late last year. It always floods when it rains and has done so, getting worse, for the last few years. Please see close up photo of level of mud., 18th February :- [8950704](https://www.fixmystreet.com/report/8950704)
 - There are 8 verying depth and length pot holes along Brockhampton Lane, 18th February :- [8950539](https://www.fixmystreet.com/report/8950539)
-- Risk to life - Huge Pot holes endangering road users, 18th February :- [8950538](https://www.fixmystreet.com/report/8950538)
-- Extreme Fatal risk to cyclists - Large Pot holes, 18th February :- [8950514](https://www.fixmystreet.com/report/8950514)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water not flowing drain blocked, 19th February :- [8958307](https://www.fixmystreet.com/report/8958307)
+- Several potholes near centre of Delavale Road, 19th February :- [8958180](https://www.fixmystreet.com/report/8958180)
+- Multiple potholes on left side of rd from Cirencester rd, 19th February :- [8958170](https://www.fixmystreet.com/report/8958170)
+- Near the centre of the road, 19th February :- [8958038](https://www.fixmystreet.com/report/8958038)
+- 2 massive pot holes, 19th February :- [8957735](https://www.fixmystreet.com/report/8957735)
+- Broken grate over drain gully. When the drains were cleaned in Nov 25 they left traffic cone to show hazard. Please repair, 19th February :- [8957679](https://www.fixmystreet.com/report/8957679)
+- Outside No 14 in the middle of the carriageway. It is now deep and getting wider. It will cause serious damage to a car wheel and even more serious for cyclists, 19th February :- [8957639](https://www.fixmystreet.com/report/8957639)
 - Deep pothole with sharp edge (destroyed 2 of my tyres), 19th February :- [8957559](https://www.fixmystreet.com/report/8957559)
 - 18 marle hill rd, 19th February :- [8957356](https://www.fixmystreet.com/report/8957356)
 - A pothole in road problem, 19th February :- [8957295](https://www.fixmystreet.com/report/8957295)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - LARGE pothole, 19th February :- [8956349](https://www.fixmystreet.com/report/8956349)
 - TMC - Defects - Other problem, 19th February :- [8956402](https://www.fixmystreet.com/report/8956402)
 - LARGE pothole, 19th February :- [8956325](https://www.fixmystreet.com/report/8956325)
-- TMC - Defects -CW6 Potholes  problem, 19th February :- [8956399](https://www.fixmystreet.com/report/8956399)
-- TMC - Defects -CW6 Potholes  problem, 19th February :- [8956398](https://www.fixmystreet.com/report/8956398)
-- TMC - Defects -CW6 Potholes  problem, 19th February :- [8956397](https://www.fixmystreet.com/report/8956397)
-- TMC - Defects -CW6 Potholes  problem, 19th February :- [8956396](https://www.fixmystreet.com/report/8956396)
-- TMC - Defects -CW6 Potholes  problem, 19th February :- [8956395](https://www.fixmystreet.com/report/8956395)
-- TMC - Defects -CW6 Potholes  problem, 19th February :- [8956394](https://www.fixmystreet.com/report/8956394)
-- TMC - Defects -CW6 Potholes  problem, 19th February :- [8956391](https://www.fixmystreet.com/report/8956391)
 
 <!-- fix_marker ends -->

@@ -130,17 +130,12 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12pm on 20 February 2026, or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
-- High tides today may lead to flooding.   
-
-Flooding is possible today, Wednesday 18th February 2026. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.  
-
-Predicted Peaks: Gloucester 3.4m to 3.6m during this mornings high tides 18/02/26, 3.2m to 3.7m during in this evenings high tides 18/02/26, and 3.1m to 3.6m during tomorrow mornings high tides 19/02/26.  
-
-Sandhurst 3.9m to 4.2m during this mornings and evenings high tides 18/02/26, and 3.8m to 4.1m during tomorrow mornings high tides 19/02/26. 
-
-We are closely monitoring the situation. Avoid coastal roads and low lying roads near rivers, which may be flooded.   
-
-This message will be updated by 13:00PM on 19 February 2026 or as the situation changes.
+- High tides today may lead to flooding.  
+Flooding is possible today, Thursday 19th February 2026. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. 
+Predicted Peaks: Gloucester 3.4m to 3.7m during this mornings high tides 19/02/26, 3.4m to 3.6m during in this evenings high tides 19/02/26.
+Sandhurst 3.8m to 4.0m during this mornings high tides 19/02/26, 3.75m to 3.95m during in this evenings high tides.
+We are closely monitoring the situation. Avoid coastal roads and low lying roads near rivers, which may be flooded.  
+This message will be updated by 13:00PM on 20 February 2026 or as the situation changes.
 
 - Flood alert: Rivers in the Forest of Dean
 - River levels remain high due to recent rainfall. Flooding is possible today, Thursday 19th February 2026. 
@@ -156,13 +151,13 @@ We are closely monitoring the situation. Consider activating any flood protectio
 This message will be updated by 10:00AM on 20 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Sandhurst and Maisemore
-- High river levels combined with high tides are expected to cause flooding today, Wednesday 18th February 2026. Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 over to Maisemore.  Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted Peaks: Gloucester 3.4m to 3.6m during this mornings high tides 18/02/26, 3.2m to 3.7m during in this evenings high tides 18/02/26, and 3.1m to 3.6m during tomorrow mornings high tides 19/02/26.  
+- High river levels combined with high tides are expected to cause flooding today, Thursday 19th February 2026. Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 over to Maisemore.  Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. 
 
-Sandhurst 3.9m to 4.2m during this mornings and evenings high tides 18/02/26, and 3.8m to 4.1m during tomorrow mornings high tides 19/02/26. 
+Predicted Peaks: Gloucester 3.4m to 3.7m during this mornings high tides 19/02/26, 3.4m to 3.6m during in this evenings high tides 19/02/26.
+Sandhurst 3.8m to 4.0m during this mornings high tides 19/02/26, 3.75m to 3.95m during in this evenings high tides.
 
-We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 13:00PM on 19 February 2026 or as the situation changes.
+We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
+This message will be updated by 13:00PM on 20 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 19th February 2026. Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Peaks:- Mythe and Upper Pound river gauges peaked at 4.11m on Wednesday 18/02.

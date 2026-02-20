@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. Flooding is possible on 19 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges are stable but remaining high after yesterday's rain, further small rain totals are expected today. Currently no flood warnings expected for the Upper catchment. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.  We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 20 February 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 20 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges are stable but remaining high after yesterday's rain, further small rain totals are expected today and on Saturday. Currently no flood warnings expected for the Upper catchment. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 21 February 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -34,38 +34,36 @@ This message will be updated by 12:00PM on 21 February 2026 or as the situation 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding. 
 
-River levels are high on the River Windrush. Flooding of low lying land and roads is expected to continue today, 19 February 2026, including areas around Bourton on the Water, Witney, and Newbridge. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. We expect river levels to remain high and sensitive to further rainfall over the coming days.
+River levels are high on the River Windrush. Flooding of low lying land and roads is expected to continue today, 20 February 2026, including areas around Bourton on the Water, Witney, and Newbridge. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. We expect river levels to remain high and sensitive to further rainfall over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12pm on 20 February 2026, or as the situation changes.
+This message will be updated by 12pm on 21 February 2026, or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected, especially in the Woodstock areas. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. River levels on the River Evenlode are rising but are expected to stabilise today. Levels on the River Glyme remain high. River levels will be sensitive to further rainfall.
+River levels are high on the Rivers Evenlode and Glyme. Flooding of low lying land and roads is expected to continue today, 20 February 2026, especially in the Woodstock area. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. We expect river levels to remain high and sensitive to further rainfall over the coming days.
 
-We are monitoring rainfall and river levels. 
+We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
-
-This message will be updated by 12pm on 20 February 2026, or as the situation changes.
+This message will be updated by 12pm on 21 February 2026, or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- River levels are high on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 19 February 2026, especially in the Kempsford area. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. River levels are expected to remain high and responsive to further rainfall over the coming days.
+- River levels are high on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 20 February 2026, especially in the Kempsford area. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. River levels are expected to remain high and responsive to further rainfall over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12pm on 20 February 2026, or as the situation changes.
+This message will be updated by 12pm on 21 February 2026, or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-River levels are high on the River Dikler. Flooding of low lying land and roads is expected to continue today, 19 February 2026, including around Bourton on the Water. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. We expect river levels to remain high and sensitive to further rainfall over the coming days. 
+River levels are high on the River Dikler. Flooding of low lying land and roads is expected to continue today, 20 February 2026, including around Bourton on the Water. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. We expect river levels to remain high and sensitive to further rainfall over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12pm on 20 February 2026, or as the situation changes.
+This message will be updated by 12pm on 21 February 2026, or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding. 
@@ -126,12 +124,12 @@ This message will be updated by 10:00AM on 21 February 2026 or as the situation 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
 
-River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock, especially in the Eynsham area. Flooding of low lying land and roads is expected to continue today, 19 February 2026. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. River levels are expected to remain high and responsive to further rainfall over the coming days.
+River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock, especially in the Eynsham area. Flooding of low lying land and roads is expected to continue today, 20 February 2026. Predominantly light rain is expected over the next 48 hours, which may be heavy at times. River levels are expected to remain high and responsive to further rainfall over the coming days.
 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12pm on 20 February 2026, or as the situation changes.
+This message will be updated by 12pm on 21 February 2026, or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - High tides today may lead to flooding.  

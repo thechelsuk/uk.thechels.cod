@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Prisoner died after vape caused cell fire ([8 hours ago](https://www.bbc.com/news/articles/cvgj7y02nddo?at_medium=RSS&at_campaign=rss))
-- Residents oppose 'absolute mad' plans for new town ([8 hours ago](https://www.bbc.com/news/articles/cvg8p02el0po?at_medium=RSS&at_campaign=rss))
-- ‘Dangerous’ state of roads blasted as private hire driver’s car is damaged ([10 hours ago](https://gloucesternewscentre.co.uk/dangerous-state-of-roads-blasted-as-private-hire-drivers-car-is-damaged/))
-- Council tax rise will fund introduction of 20mph zones ([15 hours ago](https://www.bbc.com/news/articles/cd9glq1d3jjo?at_medium=RSS&at_campaign=rss))
-- Woman learns to ice skate for 100-mile race ([21 hours ago](https://www.bbc.com/news/articles/cgjzl4q2gnwo?at_medium=RSS&at_campaign=rss))
-- Apprentice with world champion racing ambition ([21 hours ago](https://www.bbc.com/news/articles/cz6ejlezdx6o?at_medium=RSS&at_campaign=rss))
+- Prisoner died after vape caused cell fire ([9 hours ago](https://www.bbc.com/news/articles/cvgj7y02nddo?at_medium=RSS&at_campaign=rss))
+- Residents oppose 'absolute mad' plans for new town ([10 hours ago](https://www.bbc.com/news/articles/cvg8p02el0po?at_medium=RSS&at_campaign=rss))
+- ‘Dangerous’ state of roads blasted as private hire driver’s car is damaged ([12 hours ago](https://gloucesternewscentre.co.uk/dangerous-state-of-roads-blasted-as-private-hire-drivers-car-is-damaged/))
+- Council tax rise will fund introduction of 20mph zones ([17 hours ago](https://www.bbc.com/news/articles/cd9glq1d3jjo?at_medium=RSS&at_campaign=rss))
+- Woman learns to ice skate for 100-mile race ([23 hours ago](https://www.bbc.com/news/articles/cgjzl4q2gnwo?at_medium=RSS&at_campaign=rss))
+- Apprentice with world champion racing ambition ([23 hours ago](https://www.bbc.com/news/articles/cz6ejlezdx6o?at_medium=RSS&at_campaign=rss))
 - Mira Showers raises more than £72,000 for charity ([1 days ago](https://gloucesternewscentre.co.uk/mira-showers-raises-more-than-72000-for-charity/))
 - Ex-MP makes case for East-West council split for county ([1 days ago](https://gloucesternewscentre.co.uk/ex-mp-makes-case-for-east-west-council-split-for-county/))
 - Prolific shoplifter jailed following investigation ([1 days ago](https://gloucesternewscentre.co.uk/prolific-shoplifter-jailed-following-investigation/))

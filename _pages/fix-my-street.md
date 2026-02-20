@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Second pothole on Cowper Road outside number 11 driveway entrance, 20th February :- [8960229](https://www.fixmystreet.com/report/8960229)
+- Pothole on Hewlett Road opposite St Anne's Road junction, 20th February :- [8960174](https://www.fixmystreet.com/report/8960174)
+- Loose manhole cover very noisy when vehicles pass over, 20th February :- [8960043](https://www.fixmystreet.com/report/8960043)
 - 2 large pot holes when coming downhill by Pilgrove cottage, 20th February :- [8959703](https://www.fixmystreet.com/report/8959703)
 - There are many potholes throughout the lane, 20th February :- [8959628](https://www.fixmystreet.com/report/8959628)
 - 6-8 inch pothole on Malvern Road by pedestrian crossing, 19th February :- [8959375](https://www.fixmystreet.com/report/8959375)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes on left side of rd from Cirencester rd, 19th February :- [8958170](https://www.fixmystreet.com/report/8958170)
 - Near the centre of the road, 19th February :- [8958038](https://www.fixmystreet.com/report/8958038)
 - 2 massive pot holes, 19th February :- [8957735](https://www.fixmystreet.com/report/8957735)
-- Broken grate over drain gully. When the drains were cleaned in Nov 25 they left traffic cone to show hazard. Please repair, 19th February :- [8957679](https://www.fixmystreet.com/report/8957679)
-- Outside No 14 in the middle of the carriageway. It is now deep and getting wider. It will cause serious damage to a car wheel and even more serious for cyclists, 19th February :- [8957639](https://www.fixmystreet.com/report/8957639)
-- Deep pothole with sharp edge (destroyed 2 of my tyres), 19th February :- [8957559](https://www.fixmystreet.com/report/8957559)
 
 <!-- fix_marker ends -->

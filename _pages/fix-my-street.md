@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tons of holes and uneven crumbling ground, 20th February :- [8966163](https://www.fixmystreet.com/report/8966163)
+- Lipson road is a disgrace, 20th February :- [8966152](https://www.fixmystreet.com/report/8966152)
+- A sizeable pot hole in the middle of the road., 20th February :- [8966134](https://www.fixmystreet.com/report/8966134)
+- Bus stop flag missing, 20th February :- [8966106](https://www.fixmystreet.com/report/8966106)
+- Bus stop flag missing, 20th February :- [8966098](https://www.fixmystreet.com/report/8966098)
 - Many potholes, more potholes than road, 20th February :- [8965832](https://www.fixmystreet.com/report/8965832)
 - Abandoned caravan, 20th February :- [8965707](https://www.fixmystreet.com/report/8965707)
 - Pothole, on swindon road just near entrance to swindon close., 20th February :- [8965700](https://www.fixmystreet.com/report/8965700)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Storm drain is blocked and has been reported previously. This is causing large amounts of water to travel down the length of the road, 20th February :- [8964692](https://www.fixmystreet.com/report/8964692)
 - The temporary traffic lights have been left on Mill Lane, Brockworth despite the roadworks being finished. As it is near the sports clubs this will create havoc over the weekend Please can you arrange for them to be removed urgently Thank you, 20th February :- [8964546](https://www.fixmystreet.com/report/8964546)
 - Tree branch obstructing highway, 20th February :- [8964334](https://www.fixmystreet.com/report/8964334)
-- A pothole in road problem, 20th February :- [8964438](https://www.fixmystreet.com/report/8964438)
-- Road closed signs remain in place but road not closed, 20th February :- [8963986](https://www.fixmystreet.com/report/8963986)
-- Road closed signs remain 1 week after flooding has eases, 20th February :- [8963968](https://www.fixmystreet.com/report/8963968)
-- A pothole in road problem, 20th February :- [8963929](https://www.fixmystreet.com/report/8963929)
-- Deep pothole left lane Stoke Orchard Road just after exit of roundabout, 20th February :- [8963156](https://www.fixmystreet.com/report/8963156)
 
 <!-- fix_marker ends -->

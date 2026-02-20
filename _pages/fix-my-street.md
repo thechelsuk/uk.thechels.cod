@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Many potholes, more potholes than road, 20th February :- [8965832](https://www.fixmystreet.com/report/8965832)
+- Abandoned caravan, 20th February :- [8965707](https://www.fixmystreet.com/report/8965707)
+- Pothole, on swindon road just near entrance to swindon close., 20th February :- [8965700](https://www.fixmystreet.com/report/8965700)
+- Ruined road, 20th February :- [8965690](https://www.fixmystreet.com/report/8965690)
+- Flood, 20th February :- [8965681](https://www.fixmystreet.com/report/8965681)
+- This is very large and would cause a motorcycle to crash, 20th February :- [8965599](https://www.fixmystreet.com/report/8965599)
+- This is very large and would cause a motorcycle to crash, 20th February :- [8965586](https://www.fixmystreet.com/report/8965586)
 - Blocked drain, 20th February :- [8965175](https://www.fixmystreet.com/report/8965175)
 - Flytipped items, 20th February :- [8965158](https://www.fixmystreet.com/report/8965158)
 - Very deep pothole - blowing out tyres, 20th February :- [8964944](https://www.fixmystreet.com/report/8964944)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Road closed signs remain 1 week after flooding has eases, 20th February :- [8963968](https://www.fixmystreet.com/report/8963968)
 - A pothole in road problem, 20th February :- [8963929](https://www.fixmystreet.com/report/8963929)
 - Deep pothole left lane Stoke Orchard Road just after exit of roundabout, 20th February :- [8963156](https://www.fixmystreet.com/report/8963156)
-- A pothole in road problem, 20th February :- [8963558](https://www.fixmystreet.com/report/8963558)
-- TMC - Defects -CW6 Potholes  problem, 20th February :- [8963560](https://www.fixmystreet.com/report/8963560)
-- Blocked drain, 20th February :- [8963050](https://www.fixmystreet.com/report/8963050)
-- Drain blocked opposite entrance to Cheltenham Ladies College Sports Hall, 20th February :- [8963016](https://www.fixmystreet.com/report/8963016)
-- Drain at bottem of lane blocked, 20th February :- [8962963](https://www.fixmystreet.com/report/8962963)
-- Deeper than a tennis ball, 5 metres, 20th February :- [8962813](https://www.fixmystreet.com/report/8962813)
-- TMC - Defects -CW6 Potholes  problem, 20th February :- [8962778](https://www.fixmystreet.com/report/8962778)
 
 <!-- fix_marker ends -->

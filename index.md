@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 20 February 2026
 
-- The average temperature today is 9.86˚C,
-- With highs of 10.55˚C and lows of 9.26˚C,
-- It may feel like 7.56˚C with scattered clouds
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 77%
+- The average temperature today is 9.09˚C,
+- With highs of 9.99˚C and lows of 8.71˚C,
+- It may feel like 7.94˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 80%
 - The sun will rise at 07:13 and set at 17:30
 
 <!-- weather_marker ends -->

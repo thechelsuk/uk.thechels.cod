@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 6-8 inch pothole on Malvern Road by pedestrian crossing, 19th February :- [8959375](https://www.fixmystreet.com/report/8959375)
 - Large pothole in road by entrance/exit to garage. Was previously repaired but has reappeared. Cars swerving when entering garage., 19th February :- [8959240](https://www.fixmystreet.com/report/8959240)
 - 2 feet diameter on Old Bath Rd. near curb, 19th February :- [8959130](https://www.fixmystreet.com/report/8959130)
 - Pothole which has become wider and deeper., 19th February :- [8958897](https://www.fixmystreet.com/report/8958897)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Deep pothole with sharp edge (destroyed 2 of my tyres), 19th February :- [8957559](https://www.fixmystreet.com/report/8957559)
 - 18 marle hill rd, 19th February :- [8957356](https://www.fixmystreet.com/report/8957356)
 - A pothole in road problem, 19th February :- [8957295](https://www.fixmystreet.com/report/8957295)
-- A pothole in road problem, 19th February :- [8957292](https://www.fixmystreet.com/report/8957292)
 
 <!-- fix_marker ends -->

@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Kelly Holmes surprises people at town's Parkrun ([2 hours ago](https://www.bbc.com/news/articles/c2d159ggjl2o?at_medium=RSS&at_campaign=rss))
-- Pedestrian seriously injured after being hit by car ([5 hours ago](https://www.bbc.com/news/articles/crk82yr4p04o?at_medium=RSS&at_campaign=rss))
-- Tributes to city 'legend' and tax row for van dwellers ([11 hours ago](https://www.bbc.com/news/articles/cgml8gr4dx9o?at_medium=RSS&at_campaign=rss))
+- Kelly Holmes surprises people at town's Parkrun ([6 hours ago](https://www.bbc.com/news/articles/c2d159ggjl2o?at_medium=RSS&at_campaign=rss))
+- Pedestrian seriously injured after being hit by car ([9 hours ago](https://www.bbc.com/news/articles/crk82yr4p04o?at_medium=RSS&at_campaign=rss))
+- Tributes to city 'legend' and tax row for van dwellers ([15 hours ago](https://www.bbc.com/news/articles/cgml8gr4dx9o?at_medium=RSS&at_campaign=rss))
 - Jail's 'obsolete' fire system flagged before death ([1 days ago](https://www.bbc.com/news/articles/cp815z3992wo?at_medium=RSS&at_campaign=rss))
 - Sir Tom Jones to headline rugby stadium concerts ([1 days ago](https://www.bbc.com/news/articles/c4g26eyxz29o?at_medium=RSS&at_campaign=rss))
 - Anger as village streets flooded with sewage ([1 days ago](https://www.bbc.com/news/articles/c5ykx4vw5e6o?at_medium=RSS&at_campaign=rss))
@@ -23,7 +23,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council leader survives motion of no-confidence – by one vote ([1 days ago](https://www.bbc.com/news/articles/cge8g13w702o?at_medium=RSS&at_campaign=rss))
 - Green light given for new homes on former Monkscroft school site ([1 days ago](https://www.cheltenham.gov.uk/news/article/3098/green_light_given_for_new_homes_on_former_monkscroft_school_site))
 - Relief as key route reopens after £1m repairs ([1 days ago](https://www.bbc.com/news/articles/cwyxnjzwglvo?at_medium=RSS&at_campaign=rss))
-- Prisoner died after vape caused cell fire ([1 days ago](https://www.bbc.com/news/articles/cvgj7y02nddo?at_medium=RSS&at_campaign=rss))
+- Prisoner died after vape caused cell fire ([2 days ago](https://www.bbc.com/news/articles/cvgj7y02nddo?at_medium=RSS&at_campaign=rss))
 - Residents oppose 'absolute mad' plans for new town ([2 days ago](https://www.bbc.com/news/articles/cvg8p02el0po?at_medium=RSS&at_campaign=rss))
 - UK has not given US permission to use RAF bases for Iran strikes ([2 days ago](https://www.bbc.com/news/articles/cj98egkl7l1o?at_medium=RSS&at_campaign=rss))
 - ‘Dangerous’ state of roads blasted as private hire driver’s car is damaged ([2 days ago](https://gloucesternewscentre.co.uk/dangerous-state-of-roads-blasted-as-private-hire-drivers-car-is-damaged/))

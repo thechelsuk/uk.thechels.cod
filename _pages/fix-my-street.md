@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned wreck of a caravan, 21st February :- [8966912](https://www.fixmystreet.com/report/8966912)
+- Large pothole in Westbury Road, 21st February :- [8966889](https://www.fixmystreet.com/report/8966889)
+- Damaged street sign for Moors Avenue, 21st February :- [8966852](https://www.fixmystreet.com/report/8966852)
+- Outside 85, 21st February :- [8966724](https://www.fixmystreet.com/report/8966724)
 - Numerous potholes on Horsefair Street between junction of Lyefield Road West and St Mary’s Church., 21st February :- [8966604](https://www.fixmystreet.com/report/8966604)
 - Large pothole round road drain nest too previous repair, 21st February :- [8966600](https://www.fixmystreet.com/report/8966600)
 - Large pothole on Mini Roundabout, 21st February :- [8966595](https://www.fixmystreet.com/report/8966595)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Ruined road, 20th February :- [8965690](https://www.fixmystreet.com/report/8965690)
 - Flood, 20th February :- [8965681](https://www.fixmystreet.com/report/8965681)
 - This is very large and would cause a motorcycle to crash, 20th February :- [8965599](https://www.fixmystreet.com/report/8965599)
-- This is very large and would cause a motorcycle to crash, 20th February :- [8965586](https://www.fixmystreet.com/report/8965586)
-- Blocked drain, 20th February :- [8965175](https://www.fixmystreet.com/report/8965175)
-- Flytipped items, 20th February :- [8965158](https://www.fixmystreet.com/report/8965158)
-- Very deep pothole - blowing out tyres, 20th February :- [8964944](https://www.fixmystreet.com/report/8964944)
 
 <!-- fix_marker ends -->

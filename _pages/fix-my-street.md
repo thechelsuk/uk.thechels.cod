@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Debris and mud spread by hedge cutting has reduced the pavement to a dangerously narrow way for pedestrians., 21st February :- [8970219](https://www.fixmystreet.com/report/8970219)
+- Loads of pot holes near the council nurserys, 21st February :- [8970103](https://www.fixmystreet.com/report/8970103)
 - Overflowing bin, 21st February :- [8969439](https://www.fixmystreet.com/report/8969439)
 - Large puddle outside 43 45 47 Nine Elms after road has been resurfaced, 21st February :- [8969388](https://www.fixmystreet.com/report/8969388)
 - A pothole in road problem, 21st February :- [8969216](https://www.fixmystreet.com/report/8969216)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Billbrook Road Hucclecote opposite number five, 21st February :- [8967654](https://www.fixmystreet.com/report/8967654)
 - Mulitiple potholes on East Approach Drive the largest of which I have identified here. There are at least 6 more of varying sizes the worst two being near the start of the road and the worst one up near the entrance to the park., 21st February :- [8967612](https://www.fixmystreet.com/report/8967612)
 - Way Marker and post leaning into hedgerow, 21st February :- [8967007](https://www.fixmystreet.com/report/8967007)
-- Multiple massive potholes in the road, 21st February :- [8966997](https://www.fixmystreet.com/report/8966997)
-- Abandoned wreck of a caravan, 21st February :- [8966912](https://www.fixmystreet.com/report/8966912)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 21 February 2026
 
-- The average temperature today is 11.95˚C,
-- With highs of 12.77˚C and lows of 11.27˚C,
-- It may feel like 11.6˚C with light rain
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 92%
+- The average temperature today is 11.55˚C,
+- With highs of 12.21˚C and lows of 10.71˚C,
+- It may feel like 11.14˚C with overcast clouds
+- The wind speed is 4.02m/s and visibility is 286m
+- The pressure is 1018hPa and humidity is 91%
 - The sun will rise at 07:11 and set at 17:32
 
 <!-- weather_marker ends -->

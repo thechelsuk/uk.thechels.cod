@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Way Marker and post leaning into hedgerow, 21st February :- [8967007](https://www.fixmystreet.com/report/8967007)
+- Multiple massive potholes in the road, 21st February :- [8966997](https://www.fixmystreet.com/report/8966997)
 - Abandoned wreck of a caravan, 21st February :- [8966912](https://www.fixmystreet.com/report/8966912)
 - Large pothole in Westbury Road, 21st February :- [8966889](https://www.fixmystreet.com/report/8966889)
 - Damaged street sign for Moors Avenue, 21st February :- [8966852](https://www.fixmystreet.com/report/8966852)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Abandoned caravan, 20th February :- [8965707](https://www.fixmystreet.com/report/8965707)
 - Pothole, on swindon road just near entrance to swindon close., 20th February :- [8965700](https://www.fixmystreet.com/report/8965700)
 - Ruined road, 20th February :- [8965690](https://www.fixmystreet.com/report/8965690)
-- Flood, 20th February :- [8965681](https://www.fixmystreet.com/report/8965681)
-- This is very large and would cause a motorcycle to crash, 20th February :- [8965599](https://www.fixmystreet.com/report/8965599)
 
 <!-- fix_marker ends -->

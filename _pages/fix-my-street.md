@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overflowing bin, 21st February :- [8969439](https://www.fixmystreet.com/report/8969439)
+- Large puddle outside 43 45 47 Nine Elms after road has been resurfaced, 21st February :- [8969388](https://www.fixmystreet.com/report/8969388)
+- A pothole in road problem, 21st February :- [8969216](https://www.fixmystreet.com/report/8969216)
+- A pothole in road problem, 21st February :- [8969215](https://www.fixmystreet.com/report/8969215)
 - 10m from traffic lights a deep hole on nearside., 21st February :- [8969020](https://www.fixmystreet.com/report/8969020)
 - Large deep pot hole in Dark Lane adjacent to entrance to The Cottage ., 21st February :- [8968965](https://www.fixmystreet.com/report/8968965)
 - Volunteer litter pick bags ready for collection, 21st February :- [8968865](https://www.fixmystreet.com/report/8968865)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Way Marker and post leaning into hedgerow, 21st February :- [8967007](https://www.fixmystreet.com/report/8967007)
 - Multiple massive potholes in the road, 21st February :- [8966997](https://www.fixmystreet.com/report/8966997)
 - Abandoned wreck of a caravan, 21st February :- [8966912](https://www.fixmystreet.com/report/8966912)
-- Large pothole in Westbury Road, 21st February :- [8966889](https://www.fixmystreet.com/report/8966889)
-- Damaged street sign for Moors Avenue, 21st February :- [8966852](https://www.fixmystreet.com/report/8966852)
-- Outside 85, 21st February :- [8966724](https://www.fixmystreet.com/report/8966724)
-- Numerous potholes on Horsefair Street between junction of Lyefield Road West and St Mary’s Church., 21st February :- [8966604](https://www.fixmystreet.com/report/8966604)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several very large potholes reopened in this location, 21st February :- [8968274](https://www.fixmystreet.com/report/8968274)
+- Large double pothole (repeat issue), 21st February :- [8968266](https://www.fixmystreet.com/report/8968266)
+- Multiple Large Potholes, 21st February :- [8968171](https://www.fixmystreet.com/report/8968171)
+- Whaddon road playing park, 21st February :- [8968060](https://www.fixmystreet.com/report/8968060)
+- Very large broken branch overhanging Honeybourne cycle path, 21st February :- [8967956](https://www.fixmystreet.com/report/8967956)
+- 12 inch pothole in road at ///only.outer.spider, 21st February :- [8967734](https://www.fixmystreet.com/report/8967734)
+- Billbrook Road Hucclecote opposite number five, 21st February :- [8967654](https://www.fixmystreet.com/report/8967654)
+- Mulitiple potholes on East Approach Drive the largest of which I have identified here. There are at least 6 more of varying sizes the worst two being near the start of the road and the worst one up near the entrance to the park., 21st February :- [8967612](https://www.fixmystreet.com/report/8967612)
 - Way Marker and post leaning into hedgerow, 21st February :- [8967007](https://www.fixmystreet.com/report/8967007)
 - Multiple massive potholes in the road, 21st February :- [8966997](https://www.fixmystreet.com/report/8966997)
 - Abandoned wreck of a caravan, 21st February :- [8966912](https://www.fixmystreet.com/report/8966912)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Warning sign of 2-way traffic ahead is missing on 126167, 21st February :- [8966577](https://www.fixmystreet.com/report/8966577)
 - Bloced drain, 20th February :- [8966271](https://www.fixmystreet.com/report/8966271)
 - Tons of holes and uneven crumbling ground, 20th February :- [8966163](https://www.fixmystreet.com/report/8966163)
-- Lipson road is a disgrace, 20th February :- [8966152](https://www.fixmystreet.com/report/8966152)
-- A sizeable pot hole in the middle of the road., 20th February :- [8966134](https://www.fixmystreet.com/report/8966134)
-- Bus stop flag missing, 20th February :- [8966106](https://www.fixmystreet.com/report/8966106)
-- Bus stop flag missing, 20th February :- [8966098](https://www.fixmystreet.com/report/8966098)
-- Many potholes, more potholes than road, 20th February :- [8965832](https://www.fixmystreet.com/report/8965832)
-- Abandoned caravan, 20th February :- [8965707](https://www.fixmystreet.com/report/8965707)
-- Pothole, on swindon road just near entrance to swindon close., 20th February :- [8965700](https://www.fixmystreet.com/report/8965700)
-- Ruined road, 20th February :- [8965690](https://www.fixmystreet.com/report/8965690)
 
 <!-- fix_marker ends -->

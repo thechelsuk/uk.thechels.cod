@@ -101,11 +101,15 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12pm on 22 February 2026, or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
-- High tides today may lead to flooding.  
-Flooding is possible today, Friday 20th February 2026. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. 
-Predicted Peaks: Gloucester 3.4m to 3.7m during this mornings high tides 20/02/26, Sandhurst 3.8m to 4.0m during this mornings high tides 20/02/26, and 3.7m to 3.9m during in this evenings high tides 20/02/26.
-We are closely monitoring the situation. Avoid coastal roads and low lying roads near rivers, which may be flooded.  
-This message will be updated by 13:00PM on 21 February 2026 or as the situation changes.
+- High tides today may lead to flooding.   
+
+Flooding is possible today, Saturday 21st February 2026. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.  
+
+Predicted Peaks: Gloucester 3.3m to 3.6m during this evenings high tides 21/02/26, Sandhurst 3.6m to 3.8m during in this evenings high tides 21/02/26. 
+
+We are closely monitoring the situation. Avoid coastal roads and low lying roads near rivers, which may be flooded.   
+
+This message will be updated by 13:00PM on 22 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels remain high today in response to the recent rainfall. Flooding is possible today, Saturday 21st February 2026. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn. 
@@ -114,9 +118,11 @@ Further scattered showers are forecast. We are closely monitoring the situation.
 This message will be updated by 10:00AM on 22 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Sandhurst and Maisemore
-- High river levels combined with high tides are expected to cause flooding today, Friday 20th February 2026. Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 over to Maisemore.  Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted Peaks: Gloucester 3.4m to 3.7m during this mornings high tides 20/02/26, Sandhurst 3.8m to 4.0m during this mornings high tides 20/02/26, and 3.7m to 3.9m during in this evenings high tides 20/02/26.
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
-This message will be updated by 13:00PM on 21 February 2026 or as the situation changes.
+- High river levels combined with high tides are expected to cause flooding today, Saturday 21st February 2026. Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 over to Maisemore.  Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted Peaks:  Sandhurst 3.6m to 3.8m during in this evenings high tides 21/02/26. 
+
+Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 13:00PM on 22 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Saturday 21st February 2026. Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Peaks:- Mythe and Upper Pound river gauges peaked at 4.11m on Wednesday 18/02.

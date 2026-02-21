@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Numerous potholes on Horsefair Street between junction of Lyefield Road West and St Mary’s Church., 21st February :- [8966604](https://www.fixmystreet.com/report/8966604)
+- Large pothole round road drain nest too previous repair, 21st February :- [8966600](https://www.fixmystreet.com/report/8966600)
+- Large pothole on Mini Roundabout, 21st February :- [8966595](https://www.fixmystreet.com/report/8966595)
+- Warning sign of 2-way traffic ahead is missing on 126167, 21st February :- [8966577](https://www.fixmystreet.com/report/8966577)
 - Bloced drain, 20th February :- [8966271](https://www.fixmystreet.com/report/8966271)
 - Tons of holes and uneven crumbling ground, 20th February :- [8966163](https://www.fixmystreet.com/report/8966163)
 - Lipson road is a disgrace, 20th February :- [8966152](https://www.fixmystreet.com/report/8966152)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Blocked drain, 20th February :- [8965175](https://www.fixmystreet.com/report/8965175)
 - Flytipped items, 20th February :- [8965158](https://www.fixmystreet.com/report/8965158)
 - Very deep pothole - blowing out tyres, 20th February :- [8964944](https://www.fixmystreet.com/report/8964944)
-- Gully blocked, 20th February :- [8964935](https://www.fixmystreet.com/report/8964935)
-- Blocked drain and muddy water coming onto road by bridge on Albert Road, 20th February :- [8964883](https://www.fixmystreet.com/report/8964883)
-- Storm drain is blocked and has been reported previously. This is causing large amounts of water to travel down the length of the road, 20th February :- [8964692](https://www.fixmystreet.com/report/8964692)
-- The temporary traffic lights have been left on Mill Lane, Brockworth despite the roadworks being finished. As it is near the sports clubs this will create havoc over the weekend Please can you arrange for them to be removed urgently Thank you, 20th February :- [8964546](https://www.fixmystreet.com/report/8964546)
 
 <!-- fix_marker ends -->

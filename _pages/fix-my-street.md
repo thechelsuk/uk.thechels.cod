@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 10m from traffic lights a deep hole on nearside., 21st February :- [8969020](https://www.fixmystreet.com/report/8969020)
+- Large deep pot hole in Dark Lane adjacent to entrance to The Cottage ., 21st February :- [8968965](https://www.fixmystreet.com/report/8968965)
+- Volunteer litter pick bags ready for collection, 21st February :- [8968865](https://www.fixmystreet.com/report/8968865)
+- In middle of road .3 in a row !!!, 21st February :- [8968850](https://www.fixmystreet.com/report/8968850)
+- Large sofas dumped in lay-by just off A40 (on the east bound side), 21st February :- [8968538](https://www.fixmystreet.com/report/8968538)
 - Several very large potholes reopened in this location, 21st February :- [8968274](https://www.fixmystreet.com/report/8968274)
 - Large double pothole (repeat issue), 21st February :- [8968266](https://www.fixmystreet.com/report/8968266)
 - Multiple Large Potholes, 21st February :- [8968171](https://www.fixmystreet.com/report/8968171)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Damaged street sign for Moors Avenue, 21st February :- [8966852](https://www.fixmystreet.com/report/8966852)
 - Outside 85, 21st February :- [8966724](https://www.fixmystreet.com/report/8966724)
 - Numerous potholes on Horsefair Street between junction of Lyefield Road West and St Mary’s Church., 21st February :- [8966604](https://www.fixmystreet.com/report/8966604)
-- Large pothole round road drain nest too previous repair, 21st February :- [8966600](https://www.fixmystreet.com/report/8966600)
-- Large pothole on Mini Roundabout, 21st February :- [8966595](https://www.fixmystreet.com/report/8966595)
-- Warning sign of 2-way traffic ahead is missing on 126167, 21st February :- [8966577](https://www.fixmystreet.com/report/8966577)
-- Bloced drain, 20th February :- [8966271](https://www.fixmystreet.com/report/8966271)
-- Tons of holes and uneven crumbling ground, 20th February :- [8966163](https://www.fixmystreet.com/report/8966163)
 
 <!-- fix_marker ends -->

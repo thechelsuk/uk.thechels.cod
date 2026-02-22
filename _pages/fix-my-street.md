@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very uneven with lots of small potholes coming form kinsditch to the roundabout, 22nd February :- [8976157](https://www.fixmystreet.com/report/8976157)
+- There is a previous repair by a utility company which is subsiding, This is now as wide as the trench and about 1 m in length, The subsidence is getting worse as the filling compacts. The aggregate was not tamped down sufficiently when the repair was made, 22nd February :- [8976092](https://www.fixmystreet.com/report/8976092)
+- Freezer has been dumped, 22nd February :- [8976048](https://www.fixmystreet.com/report/8976048)
+- Drain blocked, 22nd February :- [8975970](https://www.fixmystreet.com/report/8975970)
+- Large pot hole outside 143 Hatherely Road, 22nd February :- [8975898](https://www.fixmystreet.com/report/8975898)
+- Stretch of potholes, 22nd February :- [8975773](https://www.fixmystreet.com/report/8975773)
 - Grass verge after bus stop, 22nd February :- [8975691](https://www.fixmystreet.com/report/8975691)
 - Long wide pothole, 22nd February :- [8975641](https://www.fixmystreet.com/report/8975641)
 - Pothole on road traveling north west, 22nd February :- [8975603](https://www.fixmystreet.com/report/8975603)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Previous repair, now falling apart., 22nd February :- [8975289](https://www.fixmystreet.com/report/8975289)
 - Several pot holes together, just before width restriction on left., 22nd February :- [8975271](https://www.fixmystreet.com/report/8975271)
 - Hole in the road, 22nd February :- [8975251](https://www.fixmystreet.com/report/8975251)
-- Pothole getting worse, 22nd February :- [8974961](https://www.fixmystreet.com/report/8974961)
-- Deep pothole on old Bath Road, 22nd February :- [8974919](https://www.fixmystreet.com/report/8974919)
-- Big deep pothole (s), 22nd February :- [8974903](https://www.fixmystreet.com/report/8974903)
-- Multiple potholes running across the whole road, 22nd February :- [8974775](https://www.fixmystreet.com/report/8974775)
-- On corner of road, 22nd February :- [8974578](https://www.fixmystreet.com/report/8974578)
-- Large Pothole that has recently been repaired, 22nd February :- [8974480](https://www.fixmystreet.com/report/8974480)
 
 <!-- fix_marker ends -->

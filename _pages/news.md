@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Art studio unable to operate after pipe burst ([4 hours ago](https://www.bbc.com/news/articles/cvg14w3rpq9o?at_medium=RSS&at_campaign=rss))
-- Attempted murder arrests after crash led to fight ([6 hours ago](https://www.bbc.com/news/articles/cgrzxqkdr2do?at_medium=RSS&at_campaign=rss))
-- Two key elections heralding big changes ([11 hours ago](https://www.bbc.com/news/articles/cqxd495w707o?at_medium=RSS&at_campaign=rss))
-- In Pictures: City lights up and wild boar spotted ([11 hours ago](https://www.bbc.com/news/articles/cd6zjvx239vo?at_medium=RSS&at_campaign=rss))
+- Art studio unable to operate after pipe burst ([6 hours ago](https://www.bbc.com/news/articles/cvg14w3rpq9o?at_medium=RSS&at_campaign=rss))
+- Attempted murder arrests after crash led to fight ([8 hours ago](https://www.bbc.com/news/articles/cgrzxqkdr2do?at_medium=RSS&at_campaign=rss))
+- Two key elections heralding big changes ([13 hours ago](https://www.bbc.com/news/articles/cqxd495w707o?at_medium=RSS&at_campaign=rss))
+- In Pictures: City lights up and wild boar spotted ([13 hours ago](https://www.bbc.com/news/articles/cd6zjvx239vo?at_medium=RSS&at_campaign=rss))
 - Kelly Holmes surprises people at town's Parkrun ([1 days ago](https://www.bbc.com/news/articles/c2d159ggjl2o?at_medium=RSS&at_campaign=rss))
 - Pedestrian seriously injured after being hit by car ([1 days ago](https://www.bbc.com/news/articles/crk82yr4p04o?at_medium=RSS&at_campaign=rss))
 - Tributes to city 'legend' and tax row for van dwellers ([1 days ago](https://www.bbc.com/news/articles/cgml8gr4dx9o?at_medium=RSS&at_campaign=rss))
@@ -27,7 +27,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council leader survives motion of no-confidence – by one vote ([2 days ago](https://www.bbc.com/news/articles/cge8g13w702o?at_medium=RSS&at_campaign=rss))
 - Green light given for new homes on former Monkscroft school site ([2 days ago](https://www.cheltenham.gov.uk/news/article/3098/green_light_given_for_new_homes_on_former_monkscroft_school_site))
 - Relief as key route reopens after £1m repairs ([2 days ago](https://www.bbc.com/news/articles/cwyxnjzwglvo?at_medium=RSS&at_campaign=rss))
-- Prisoner died after vape caused cell fire ([2 days ago](https://www.bbc.com/news/articles/cvgj7y02nddo?at_medium=RSS&at_campaign=rss))
+- Prisoner died after vape caused cell fire ([3 days ago](https://www.bbc.com/news/articles/cvgj7y02nddo?at_medium=RSS&at_campaign=rss))
 - UK has not given US permission to use RAF bases for Iran strikes ([3 days ago](https://www.bbc.com/news/articles/cj98egkl7l1o?at_medium=RSS&at_campaign=rss))
 - ‘Dangerous’ state of roads blasted as private hire driver’s car is damaged ([3 days ago](https://gloucesternewscentre.co.uk/dangerous-state-of-roads-blasted-as-private-hire-drivers-car-is-damaged/))
 - Council tax rise will fund introduction of 20mph zones ([3 days ago](https://www.bbc.com/news/articles/cd9glq1d3jjo?at_medium=RSS&at_campaign=rss))

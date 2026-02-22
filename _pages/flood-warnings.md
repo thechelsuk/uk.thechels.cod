@@ -106,13 +106,13 @@ This message will be updated by 12pm on 23 February 2026, or as the situation ch
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - High tides today may lead to flooding.   
 
-Flooding is possible today, Saturday 21st February 2026. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.  
+Flooding is possible today, Sunday 22nd February 2026. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.  
 
-Predicted Peaks: Gloucester 3.3m to 3.6m during this evenings high tides 21/02/26, Sandhurst 3.6m to 3.8m during in this evenings high tides 21/02/26. 
+Predicted Peaks: Sandhurst 3.5m to 3.7m during in this evenings high tides 22/02/26, and 3.4m to 3.6m for Monday morning tides 23/02/26 
 
 We are closely monitoring the situation. Avoid coastal roads and low lying roads near rivers, which may be flooded.   
 
-This message will be updated by 13:00PM on 22 February 2026 or as the situation changes.
+This message will be updated by 13:00PM on 23 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels remain high today in response to the recent rainfall. Flooding is possible today, Sunday 22nd February 2026. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn. 
@@ -120,12 +120,12 @@ Peaks: Diglis peaked at 3.73m on Thursday evening 19/02, Kempsey Yacht Club peak
 Further scattered showers are forecast. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. 
 This message will be updated by 10:00AM on 23 February 2026 or as the situation changes.
 
-- Flood warning: River Severn at Sandhurst and Maisemore
-- High river levels combined with high tides are expected to cause flooding today, Saturday 21st February 2026. Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 over to Maisemore.  Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted Peaks:  Sandhurst 3.6m to 3.8m during in this evenings high tides 21/02/26. 
+- Warning no longer in force: River Severn at Sandhurst and Maisemore
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
-
-This message will be updated by 13:00PM on 22 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Sunday 22nd February 2026. Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Peaks:- Mythe and Upper Pound river gauges peaked at 4.11m on Wednesday 18/02.
@@ -163,13 +163,13 @@ This message will be updated by 12:00PM on 23 February 2026, or as the situation
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 
 
-River levels are high but steady on the River Coln following recent rainfall. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge and Coln St Dennis areas.  Predominantly light rain is expected over the next 48 hours, which may be heavy at times. River levels are expected to remain high and sensitive to any further rain over the coming days.
+River levels are high but steady on the River Coln following recent rainfall. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge and Coln St Dennis areas.  The forecast is predominantly dry with some light rain. River levels are expected to remain high and sensitive to any further rain over the coming days.
 
 We are closely monitoring the situation. 
 
 Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open manhole covers, sewage and chemicals.  
 
-This message will be updated by 6pm on the 22 February 2026, or as the situation changes.
+This message will be updated by 11am on the 23 February 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

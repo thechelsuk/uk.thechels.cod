@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Kelly Holmes surprises people at town's Parkrun ([9 hours ago](https://www.bbc.com/news/articles/c2d159ggjl2o?at_medium=RSS&at_campaign=rss))
-- Pedestrian seriously injured after being hit by car ([12 hours ago](https://www.bbc.com/news/articles/crk82yr4p04o?at_medium=RSS&at_campaign=rss))
-- Tributes to city 'legend' and tax row for van dwellers ([17 hours ago](https://www.bbc.com/news/articles/cgml8gr4dx9o?at_medium=RSS&at_campaign=rss))
+- Kelly Holmes surprises people at town's Parkrun ([11 hours ago](https://www.bbc.com/news/articles/c2d159ggjl2o?at_medium=RSS&at_campaign=rss))
+- Pedestrian seriously injured after being hit by car ([14 hours ago](https://www.bbc.com/news/articles/crk82yr4p04o?at_medium=RSS&at_campaign=rss))
+- Tributes to city 'legend' and tax row for van dwellers ([20 hours ago](https://www.bbc.com/news/articles/cgml8gr4dx9o?at_medium=RSS&at_campaign=rss))
 - Jail's 'obsolete' fire system flagged before death ([1 days ago](https://www.bbc.com/news/articles/cp815z3992wo?at_medium=RSS&at_campaign=rss))
 - Sir Tom Jones to headline rugby stadium concerts ([1 days ago](https://www.bbc.com/news/articles/c4g26eyxz29o?at_medium=RSS&at_campaign=rss))
 - Anger as village streets flooded with sewage ([1 days ago](https://www.bbc.com/news/articles/c5ykx4vw5e6o?at_medium=RSS&at_campaign=rss))

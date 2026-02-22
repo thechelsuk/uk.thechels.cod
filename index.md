@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 22 February 2026
 
-- The average temperature today is 9.43˚C,
+- The average temperature today is 9.42˚C,
 - With highs of 9.99˚C and lows of 8.72˚C,
-- It may feel like 8.71˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 87%
+- It may feel like 7.49˚C with broken clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 86%
 - The sun will rise at 07:09 and set at 17:34
 
 <!-- weather_marker ends -->

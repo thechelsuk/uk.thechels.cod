@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole around manhole cover, 22nd February :- [8976418](https://www.fixmystreet.com/report/8976418)
 - Very uneven with lots of small potholes coming form kinsditch to the roundabout, 22nd February :- [8976157](https://www.fixmystreet.com/report/8976157)
 - There is a previous repair by a utility company which is subsiding, This is now as wide as the trench and about 1 m in length, The subsidence is getting worse as the filling compacts. The aggregate was not tamped down sufficiently when the repair was made, 22nd February :- [8976092](https://www.fixmystreet.com/report/8976092)
 - Freezer has been dumped, 22nd February :- [8976048](https://www.fixmystreet.com/report/8976048)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 2 foot wide and 9 inch deep sink hole by bus shelter, 22nd February :- [8975404](https://www.fixmystreet.com/report/8975404)
 - Previous repair, now falling apart., 22nd February :- [8975289](https://www.fixmystreet.com/report/8975289)
 - Several pot holes together, just before width restriction on left., 22nd February :- [8975271](https://www.fixmystreet.com/report/8975271)
-- Hole in the road, 22nd February :- [8975251](https://www.fixmystreet.com/report/8975251)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive pothole in middle of road, debris everywhere, it’s getting a joke now, 22nd February :- [8971230](https://www.fixmystreet.com/report/8971230)
 - Numerous previous repairs to gulley have failed causing the situation in the attached photos the gulley is also blocked and floods when it rains, 21st February :- [8970929](https://www.fixmystreet.com/report/8970929)
 - Sign left by contractor, 21st February :- [8970862](https://www.fixmystreet.com/report/8970862)
 - Fly tipping, 21st February :- [8970852](https://www.fixmystreet.com/report/8970852)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection, 21st February :- [8968865](https://www.fixmystreet.com/report/8968865)
 - In middle of road .3 in a row !!!, 21st February :- [8968850](https://www.fixmystreet.com/report/8968850)
 - Large sofas dumped in lay-by just off A40 (on the east bound side), 21st February :- [8968538](https://www.fixmystreet.com/report/8968538)
-- Several very large potholes reopened in this location, 21st February :- [8968274](https://www.fixmystreet.com/report/8968274)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Parking review required, 22nd February :- [8972203](https://www.fixmystreet.com/report/8972203)
+- Cracks 15 ins wide, 22nd February :- [8972031](https://www.fixmystreet.com/report/8972031)
+- The busses do not stop as there is no sign., 22nd February :- [8971999](https://www.fixmystreet.com/report/8971999)
+- Large, deep, unmarked potholes, additional photos added due to duplicate image in previous report. Over 10cm deep leading to a face that protrudes 8cm above the water level - this road needs attention, 22nd February :- [8971865](https://www.fixmystreet.com/report/8971865)
+- Large, deep, unmarked potholes. Previous reports inc. 8616465 02/01, 8809606. Ironically the latter report was closed 18/02 as pothole does not meet criteria for urgent repair, yet on 06/02 I hit said pothole blowing one tyre and damaging another., 22nd February :- [8971790](https://www.fixmystreet.com/report/8971790)
+- Village Directional Signs Missing, 22nd February :- [8971689](https://www.fixmystreet.com/report/8971689)
 - Bayshill road pelecan crossing going uphill has pot hole, 22nd February :- [8971425](https://www.fixmystreet.com/report/8971425)
 - Massive pothole in middle of road, debris everywhere, it’s getting a joke now, 22nd February :- [8971230](https://www.fixmystreet.com/report/8971230)
 - Numerous previous repairs to gulley have failed causing the situation in the attached photos the gulley is also blocked and floods when it rains, 21st February :- [8970929](https://www.fixmystreet.com/report/8970929)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Loads of pot holes near the council nurserys, 21st February :- [8970103](https://www.fixmystreet.com/report/8970103)
 - Overflowing bin, 21st February :- [8969439](https://www.fixmystreet.com/report/8969439)
 - Large puddle outside 43 45 47 Nine Elms after road has been resurfaced, 21st February :- [8969388](https://www.fixmystreet.com/report/8969388)
-- A pothole in road problem, 21st February :- [8969216](https://www.fixmystreet.com/report/8969216)
-- A pothole in road problem, 21st February :- [8969215](https://www.fixmystreet.com/report/8969215)
-- 10m from traffic lights a deep hole on nearside., 21st February :- [8969020](https://www.fixmystreet.com/report/8969020)
-- Large deep pot hole in Dark Lane adjacent to entrance to The Cottage ., 21st February :- [8968965](https://www.fixmystreet.com/report/8968965)
-- Volunteer litter pick bags ready for collection, 21st February :- [8968865](https://www.fixmystreet.com/report/8968865)
-- In middle of road .3 in a row !!!, 21st February :- [8968850](https://www.fixmystreet.com/report/8968850)
 
 <!-- fix_marker ends -->

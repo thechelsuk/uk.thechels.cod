@@ -105,13 +105,13 @@ This message will be updated by 12:00PM on 24 February 2026, or as the situation
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - High tides today may lead to flooding.   
 
-Flooding is possible today, Sunday 22nd February 2026. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.  
+Flooding is possible today, Monday 23rd February 2026. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.  
 
-Predicted Peaks: Sandhurst 3.5m to 3.7m during in this evenings high tides 22/02/26, and 3.4m to 3.6m for Monday morning tides 23/02/26 
+Predicted Peaks: Sandhurst 3.3m to 3.5m during in this evenings high tides 23/02/26. 
 
 We are closely monitoring the situation. Avoid coastal roads and low lying roads near rivers, which may be flooded.   
 
-This message will be updated by 13:00PM on 23 February 2026 or as the situation changes.
+This message will be updated by 15:00PM on 23 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels remain high today in response to the recent rainfall. Flooding is possible today, Monday 23rd February 2026. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn.  
@@ -122,12 +122,12 @@ Further scattered showers are forecast. We are closely monitoring the situation.
 
 This message will be updated by 10:00AM on 24th February 2026 or as the situation changes.
 
-- Warning no longer in force: River Severn at Sandhurst and Maisemore
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+- Flood warning: River Severn at Sandhurst and Maisemore
+- High river levels combined with high tides are expected to cause flooding today, Monday 23nd February 2026. Flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 over to Maisemore.  Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted Peaks:  Sandhurst 3.3m to 3.5m during in this evenings high tides 23/02/26. 
 
+Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 15:00PM on 23 February 2026 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Monday 23rd February 2026. Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Peaks:- Mythe and Upper Pound river gauges peaked at 4.11m on Wednesday 18/02. 

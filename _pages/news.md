@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Art studio unable to operate after pipe burst ([12 hours ago](https://www.bbc.com/news/articles/cvg14w3rpq9o?at_medium=RSS&at_campaign=rss))
-- Attempted murder arrests after crash led to fight ([14 hours ago](https://www.bbc.com/news/articles/cgrzxqkdr2do?at_medium=RSS&at_campaign=rss))
-- Two key elections heralding big changes ([19 hours ago](https://www.bbc.com/news/articles/cqxd495w707o?at_medium=RSS&at_campaign=rss))
-- In Pictures: City lights up and wild boar spotted ([20 hours ago](https://www.bbc.com/news/articles/cd6zjvx239vo?at_medium=RSS&at_campaign=rss))
+- Art studio unable to operate after pipe burst ([14 hours ago](https://www.bbc.com/news/articles/cvg14w3rpq9o?at_medium=RSS&at_campaign=rss))
+- Attempted murder arrests after crash led to fight ([16 hours ago](https://www.bbc.com/news/articles/cgrzxqkdr2do?at_medium=RSS&at_campaign=rss))
+- Two key elections heralding big changes ([21 hours ago](https://www.bbc.com/news/articles/cqxd495w707o?at_medium=RSS&at_campaign=rss))
+- In Pictures: City lights up and wild boar spotted ([21 hours ago](https://www.bbc.com/news/articles/cd6zjvx239vo?at_medium=RSS&at_campaign=rss))
 - Kelly Holmes surprises people at town's Parkrun ([1 days ago](https://www.bbc.com/news/articles/c2d159ggjl2o?at_medium=RSS&at_campaign=rss))
 - Pedestrian seriously injured after being hit by car ([1 days ago](https://www.bbc.com/news/articles/crk82yr4p04o?at_medium=RSS&at_campaign=rss))
 - Tributes to city 'legend' and tax row for van dwellers ([1 days ago](https://www.bbc.com/news/articles/cgml8gr4dx9o?at_medium=RSS&at_campaign=rss))

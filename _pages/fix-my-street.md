@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees located on College Road and Orrisdale Terrace, 23rd February :- [8979062](https://www.fixmystreet.com/report/8979062)
+- Trees on footpath overhanging into garden, 23rd February :- [8978810](https://www.fixmystreet.com/report/8978810)
+- Manhole cover is sunken, 23rd February :- [8978655](https://www.fixmystreet.com/report/8978655)
+- TMC - Defects - Kerbs and Channels problem, 23rd February :- [8978897](https://www.fixmystreet.com/report/8978897)
+- TMC - Defects -CW6 Potholes  problem, 23rd February :- [8978879](https://www.fixmystreet.com/report/8978879)
+- TMC - Defects -CW6 Potholes  problem, 23rd February :- [8978877](https://www.fixmystreet.com/report/8978877)
+- TMC - Defects -CW6 Potholes  problem, 23rd February :- [8978878](https://www.fixmystreet.com/report/8978878)
+- TMC - Defects - Signs & Street Furniture problem, 23rd February :- [8978900](https://www.fixmystreet.com/report/8978900)
+- TMC - Defects -FW6 Potholes problem, 23rd February :- [8978873](https://www.fixmystreet.com/report/8978873)
+- TMC - Defects -CW6 Potholes  problem, 23rd February :- [8978876](https://www.fixmystreet.com/report/8978876)
+- The drain is blocked problem, 23rd February :- [8978492](https://www.fixmystreet.com/report/8978492)
+- A pothole in road problem, 23rd February :- [8978491](https://www.fixmystreet.com/report/8978491)
 - TMC - Defects - Other FW6  Surface problem, 23rd February :- [8977861](https://www.fixmystreet.com/report/8977861)
 - Tree is damaged problem, 23rd February :- [8977842](https://www.fixmystreet.com/report/8977842)
 - Large pothole located on road, 23rd February :- [8977666](https://www.fixmystreet.com/report/8977666)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - 3 x large potholes. At least 1ft wide each, 23rd February :- [8977619](https://www.fixmystreet.com/report/8977619)
 - TMC - Defects -CW6 Potholes  problem, 23rd February :- [8977500](https://www.fixmystreet.com/report/8977500)
 - Several potholes, 23rd February :- [8977057](https://www.fixmystreet.com/report/8977057)
-- Drain cover is making a clicking noise every time someone drives over it, 23rd February :- [8976955](https://www.fixmystreet.com/report/8976955)
-- Pothole around manhole cover, 22nd February :- [8976418](https://www.fixmystreet.com/report/8976418)
-- Very uneven with lots of small potholes coming form kinsditch to the roundabout, 22nd February :- [8976157](https://www.fixmystreet.com/report/8976157)
-- There is a previous repair by a utility company which is subsiding, This is now as wide as the trench and about 1 m in length, The subsidence is getting worse as the filling compacts. The aggregate was not tamped down sufficiently when the repair was made, 22nd February :- [8976092](https://www.fixmystreet.com/report/8976092)
-- Freezer has been dumped, 22nd February :- [8976048](https://www.fixmystreet.com/report/8976048)
-- Drain blocked, 22nd February :- [8975970](https://www.fixmystreet.com/report/8975970)
-- Large pot hole outside 143 Hatherely Road, 22nd February :- [8975898](https://www.fixmystreet.com/report/8975898)
-- Stretch of potholes, 22nd February :- [8975773](https://www.fixmystreet.com/report/8975773)
-- Grass verge after bus stop, 22nd February :- [8975691](https://www.fixmystreet.com/report/8975691)
-- Long wide pothole, 22nd February :- [8975641](https://www.fixmystreet.com/report/8975641)
-- Pothole on road traveling north west, 22nd February :- [8975603](https://www.fixmystreet.com/report/8975603)
-- Very wide pothole on road, 22nd February :- [8975584](https://www.fixmystreet.com/report/8975584)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 23 February 2026
 
-- The average temperature today is 9.3˚C,
-- With highs of 9.99˚C and lows of 8.72˚C,
-- It may feel like 8.18˚C with few clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 86%
+- The average temperature today is 9.33˚C,
+- With highs of 9.97˚C and lows of 8.49˚C,
+- It may feel like 7.91˚C with broken clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 85%
 - The sun will rise at 07:07 and set at 17:36
 
 <!-- weather_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole, 23rd February :- [8984495](https://www.fixmystreet.com/report/8984495)
 - Ryeworth Road lamppost 20 permanently out, opposite 124, 23rd February :- [8984375](https://www.fixmystreet.com/report/8984375)
 - Road Disintegration, 23rd February :- [8984256](https://www.fixmystreet.com/report/8984256)
 - Tree litter and debris on cycle path, 23rd February :- [8984243](https://www.fixmystreet.com/report/8984243)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Abandoned road sign, 23rd February :- [8983617](https://www.fixmystreet.com/report/8983617)
 - Two large potholes, next to each other., 23rd February :- [8983577](https://www.fixmystreet.com/report/8983577)
 - A pothole in road problem, 23rd February :- [8983581](https://www.fixmystreet.com/report/8983581)
-- Deep wide pothole a couple of hundred yards before the railway bridge. There are many potholes along this stretch of road but this one is the worst. The sides are steep and almost impossible to miss if there’s oncoming traffic. Will cause damage to vehicles, 23rd February :- [8983240](https://www.fixmystreet.com/report/8983240)
 
 <!-- fix_marker ends -->

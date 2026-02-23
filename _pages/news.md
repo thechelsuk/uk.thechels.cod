@@ -12,10 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man loses battle over illegal farm flats ([7 hours ago](https://www.bbc.com/news/articles/cx2dj4dg7l0o?at_medium=RSS&at_campaign=rss))
-- 'I've counted 150 potholes in 200 yards' ([7 hours ago](https://www.bbc.com/news/articles/cn0ewpg9k3lo?at_medium=RSS&at_campaign=rss))
-- Village's last pub being restored after three-year fight ([7 hours ago](https://www.bbc.com/news/videos/crrxzzljlwzo?at_medium=RSS&at_campaign=rss))
-- Art studio unable to operate after pipe burst ([22 hours ago](https://www.bbc.com/news/articles/cvg14w3rpq9o?at_medium=RSS&at_campaign=rss))
+- Man sustains serious injuries in collision in Cheltenham ([1 hours ago](https://gloucesternewscentre.co.uk/man-sustains-serious-injuries-in-collision-in-cheltenham/))
+- County Council trials innovative Gully Monitoring System ([1 hours ago](https://gloucesternewscentre.co.uk/county-council-trials-innovative-gully-monitoring-system/))
+- Man loses battle over illegal farm flats ([8 hours ago](https://www.bbc.com/news/articles/cx2dj4dg7l0o?at_medium=RSS&at_campaign=rss))
+- 'I've counted 150 potholes in 200 yards' ([8 hours ago](https://www.bbc.com/news/articles/cn0ewpg9k3lo?at_medium=RSS&at_campaign=rss))
+- Village's last pub being restored after three-year fight ([8 hours ago](https://www.bbc.com/news/videos/crrxzzljlwzo?at_medium=RSS&at_campaign=rss))
+- Art studio unable to operate after pipe burst ([1 days ago](https://www.bbc.com/news/articles/cvg14w3rpq9o?at_medium=RSS&at_campaign=rss))
 - Attempted murder arrests after crash led to fight ([1 days ago](https://www.bbc.com/news/articles/cgrzxqkdr2do?at_medium=RSS&at_campaign=rss))
 - Two key elections heralding big changes ([1 days ago](https://www.bbc.com/news/articles/cqxd495w707o?at_medium=RSS&at_campaign=rss))
 - In Pictures: City lights up and wild boar spotted ([1 days ago](https://www.bbc.com/news/articles/cd6zjvx239vo?at_medium=RSS&at_campaign=rss))
@@ -55,8 +57,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Taxi licence revoked after ‘ghost plates’ found during Cheltenham race meet ([24 days ago](https://gloucesternewscentre.co.uk/taxi-licence-revoked-after-ghost-plates-found-during-cheltenham-race-meet/))
 - 270 Climbing Park marks first year of trading following £7m investment ([24 days ago](https://gloucesternewscentre.co.uk/270-climbing-park-marks-first-year-of-trading-following-7m-investment/))
 - Women blocked from asking health chiefs over home births suspension ([24 days ago](https://gloucesternewscentre.co.uk/women-blocked-from-asking-health-chiefs-over-home-births-suspension/))
-- Private hire driver licence revoked for displaying illegal number plates ([24 days ago](https://www.cheltenham.gov.uk/news/article/3092/private_hire_driver_licence_revoked_for_displaying_illegal_number_plates))
-- Private hire driver license revoked for displaying illegal number plates ([24 days ago](https://www.cheltenham.gov.uk/news/article/3091/private_hire_driver_license_revoked_for_displaying_illegal_number_plates))
+- Private hire driver licence revoked for displaying illegal number plates ([25 days ago](https://www.cheltenham.gov.uk/news/article/3092/private_hire_driver_licence_revoked_for_displaying_illegal_number_plates))
+- Private hire driver license revoked for displaying illegal number plates ([25 days ago](https://www.cheltenham.gov.uk/news/article/3091/private_hire_driver_license_revoked_for_displaying_illegal_number_plates))
 - Gloucestershire Airport - update ([26 days ago](https://www.cheltenham.gov.uk/news/article/3090/gloucestershire_airport_-_update))
 - Man aged 18 dies following collision involving e-scooter and car in Cheltenham ([27 days ago](https://gloucesternewscentre.co.uk/man-aged-18-dies-following-collision-involving-e-scooter-and-car-in-cheltenham/))
 

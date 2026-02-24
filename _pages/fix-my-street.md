@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge Stretch of Potholes, 24th February :- [8992690](https://www.fixmystreet.com/report/8992690)
 - Fly tipping including abandoned mattresses, 24th February :- [8992434](https://www.fixmystreet.com/report/8992434)
 - Leckhampton Footpath 20 dug up and now left in ruins, 24th February :- [8992390](https://www.fixmystreet.com/report/8992390)
 - Large Pothole on Previously 'Repaired' Pothole, 24th February :- [8992199](https://www.fixmystreet.com/report/8992199)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 24th February :- [8990545](https://www.fixmystreet.com/report/8990545)
 - Deep pothole, 24th February :- [8990109](https://www.fixmystreet.com/report/8990109)
 - Outside of Regents Court St Stephens Road, 24th February :- [8989941](https://www.fixmystreet.com/report/8989941)
-- A series of potholes have opened up on a previously attempted repair, 24th February :- [8989934](https://www.fixmystreet.com/report/8989934)
 
 <!-- fix_marker ends -->

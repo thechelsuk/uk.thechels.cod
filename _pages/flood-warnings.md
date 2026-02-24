@@ -102,13 +102,6 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00PM on 25 February 2026, or as the situation changes.
 
-- Warning no longer in force: Severn estuary from Gloucester to Sharpness
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Severn in Worcestershire
 - River levels remain high today in response to the recent rainfall. Flooding is possible today, Tuesday 24th February 2026. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate & Waterside gates closed at Upton upon Severn.  
 
@@ -117,13 +110,6 @@ Peaks: Diglis peaked at 3.73m on Thursday evening 19/02, Kempsey Yacht Club peak
 Further scattered showers are forecast. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water.  
 
 This message will be updated by 10:00AM on 25th February 2026 or as the situation changes.
-
-- Warning no longer in force: River Severn at Sandhurst and Maisemore
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 - Warning no longer in force: River Severn at Severn Ham, Tewkesbury
 - The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 

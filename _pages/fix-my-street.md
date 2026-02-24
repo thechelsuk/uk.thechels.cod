@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 24th February :- [8991714](https://www.fixmystreet.com/report/8991714)
+- Large hole in road on the entrance to In2print, 24th February :- [8991503](https://www.fixmystreet.com/report/8991503)
+- Flytipped items, 24th February :- [8991435](https://www.fixmystreet.com/report/8991435)
+- Flytipped bricks, 24th February :- [8991415](https://www.fixmystreet.com/report/8991415)
+- Potholes, 24th February :- [8991285](https://www.fixmystreet.com/report/8991285)
 - Dangerous potholes in lay-by, 24th February :- [8990805](https://www.fixmystreet.com/report/8990805)
 - Very uneven tarmac path outside 85 moorend road, 24th February :- [8990610](https://www.fixmystreet.com/report/8990610)
 - Lots of potholes end of hall road, 24th February :- [8990587](https://www.fixmystreet.com/report/8990587)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 24th February :- [8990074](https://www.fixmystreet.com/report/8990074)
 - TMC - Defects - Footways Slabs problem, 24th February :- [8989815](https://www.fixmystreet.com/report/8989815)
 - TMC - Defects -FW6 Potholes problem, 24th February :- [8989809](https://www.fixmystreet.com/report/8989809)
-- TMC - Defects - Footways Slabs problem, 24th February :- [8989532](https://www.fixmystreet.com/report/8989532)
-- TMC - Defects - Road Markings problem, 24th February :- [8989533](https://www.fixmystreet.com/report/8989533)
-- Lifting/loose kerb stone in Brookfield Lane Churchdown, 24th February :- [8989418](https://www.fixmystreet.com/report/8989418)
-- TMC - Defects -CW6 Potholes  problem, 24th February :- [8989523](https://www.fixmystreet.com/report/8989523)
-- TMC - Defects -CW6 Potholes  problem, 24th February :- [8989521](https://www.fixmystreet.com/report/8989521)
 
 <!-- fix_marker ends -->

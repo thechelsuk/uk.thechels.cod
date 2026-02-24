@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Car parking on road dangerous, 24th February :- [8985382](https://www.fixmystreet.com/report/8985382)
+- Potholes, 24th February :- [8985288](https://www.fixmystreet.com/report/8985288)
 - Deep pothole, 23rd February :- [8984495](https://www.fixmystreet.com/report/8984495)
 - Ryeworth Road lamppost 20 permanently out, opposite 124, 23rd February :- [8984375](https://www.fixmystreet.com/report/8984375)
 - Road Disintegration, 23rd February :- [8984256](https://www.fixmystreet.com/report/8984256)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Outside Cook Shop 248 Bath Rd: v dangerous slab raised & broken raisec slab. Person fell on slabs Outside Cook Shop, 23rd February :- [8983686](https://www.fixmystreet.com/report/8983686)
 - Big hole among smaller holes in this stretch what3words ///florists.mocking.tinsel, 23rd February :- [8983645](https://www.fixmystreet.com/report/8983645)
 - Abandoned road sign, 23rd February :- [8983617](https://www.fixmystreet.com/report/8983617)
-- Two large potholes, next to each other., 23rd February :- [8983577](https://www.fixmystreet.com/report/8983577)
-- A pothole in road problem, 23rd February :- [8983581](https://www.fixmystreet.com/report/8983581)
 
 <!-- fix_marker ends -->

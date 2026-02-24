@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous potholes in lay-by, 24th February :- [8990805](https://www.fixmystreet.com/report/8990805)
+- Very uneven tarmac path outside 85 moorend road, 24th February :- [8990610](https://www.fixmystreet.com/report/8990610)
+- Lots of potholes end of hall road, 24th February :- [8990587](https://www.fixmystreet.com/report/8990587)
+- Behind Barbers in Glenville Parade and next to 104 Hucclecote Road, Neverland Childcare, 24th February :- [8990483](https://www.fixmystreet.com/report/8990483)
+- TMC - Defects -CW6 Potholes  problem, 24th February :- [8990547](https://www.fixmystreet.com/report/8990547)
+- TMC - Defects -CW6 Potholes  problem, 24th February :- [8990545](https://www.fixmystreet.com/report/8990545)
+- Deep pothole, 24th February :- [8990109](https://www.fixmystreet.com/report/8990109)
 - Outside of Regents Court St Stephens Road, 24th February :- [8989941](https://www.fixmystreet.com/report/8989941)
 - A series of potholes have opened up on a previously attempted repair, 24th February :- [8989934](https://www.fixmystreet.com/report/8989934)
 - On the juntion of St Stephens Road and Andover Road, 24th February :- [8989915](https://www.fixmystreet.com/report/8989915)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Lifting/loose kerb stone in Brookfield Lane Churchdown, 24th February :- [8989418](https://www.fixmystreet.com/report/8989418)
 - TMC - Defects -CW6 Potholes  problem, 24th February :- [8989523](https://www.fixmystreet.com/report/8989523)
 - TMC - Defects -CW6 Potholes  problem, 24th February :- [8989521](https://www.fixmystreet.com/report/8989521)
-- TMC - Defects -CW6 Potholes  problem, 24th February :- [8989520](https://www.fixmystreet.com/report/8989520)
-- TMC - Defects -CW6 Potholes  problem, 24th February :- [8989221](https://www.fixmystreet.com/report/8989221)
-- TMC - Defects -CW6 Potholes  problem, 24th February :- [8989208](https://www.fixmystreet.com/report/8989208)
-- TMC - Defects -CW6 Potholes  problem, 24th February :- [8989207](https://www.fixmystreet.com/report/8989207)
-- Big pothole in Pilley Lane, 24th February :- [8989097](https://www.fixmystreet.com/report/8989097)
-- TMC - Defects - Other FW6  Surface problem, 24th February :- [8989227](https://www.fixmystreet.com/report/8989227)
-- TMC - Defects - Other FW6  Surface problem, 24th February :- [8989228](https://www.fixmystreet.com/report/8989228)
 
 <!-- fix_marker ends -->

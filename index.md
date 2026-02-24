@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 24 February 2026
 
-- The average temperature today is 15.32˚C,
-- With highs of 16.1˚C and lows of 14.36˚C,
-- It may feel like 14.66˚C with few clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 67%
+- The average temperature today is 13.09˚C,
+- With highs of 13.75˚C and lows of 12.38˚C,
+- It may feel like 12.44˚C with few clouds
+- The wind speed is 6.69m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 76%
 - The sun will rise at 07:05 and set at 17:38
 
 <!-- weather_marker ends -->

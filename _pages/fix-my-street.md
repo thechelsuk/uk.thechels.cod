@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 24th February :- [8986259](https://www.fixmystreet.com/report/8986259)
+- 'Emergency fix' not a fix, 24th February :- [8986061](https://www.fixmystreet.com/report/8986061)
+- Multiple large potholes outside 22 Whittington Road, 24th February :- [8986043](https://www.fixmystreet.com/report/8986043)
+- TMC - Defects -CW6 Potholes  problem, 24th February :- [8986235](https://www.fixmystreet.com/report/8986235)
+- Large pot hole has come through., 24th February :- [8985862](https://www.fixmystreet.com/report/8985862)
+- An abandoned road sign, 24th February :- [8985808](https://www.fixmystreet.com/report/8985808)
+- The utility box and the lamppost here are covered in graffiti., 24th February :- [8985781](https://www.fixmystreet.com/report/8985781)
+- More fly tipping, 24th February :- [8985426](https://www.fixmystreet.com/report/8985426)
 - Car parking on road dangerous, 24th February :- [8985382](https://www.fixmystreet.com/report/8985382)
 - Potholes, 24th February :- [8985288](https://www.fixmystreet.com/report/8985288)
 - Deep pothole, 23rd February :- [8984495](https://www.fixmystreet.com/report/8984495)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Drain is leaking water, 23rd February :- [8983960](https://www.fixmystreet.com/report/8983960)
 - Pothole. Previous repair inadequate again, 23rd February :- [8983932](https://www.fixmystreet.com/report/8983932)
 - Pothole quite deep to the edge of a drain near the kerb., 23rd February :- [8983842](https://www.fixmystreet.com/report/8983842)
-- Blocked drain, 23rd February :- [8983798](https://www.fixmystreet.com/report/8983798)
-- Blocked drain, 23rd February :- [8983767](https://www.fixmystreet.com/report/8983767)
-- Blocked drain, 23rd February :- [8983729](https://www.fixmystreet.com/report/8983729)
-- Third time I’ve reported the potholes along Hayden Road in Cheltenham, 23rd February :- [8983719](https://www.fixmystreet.com/report/8983719)
-- Large portion of road eroded leaving surface badly damaged., 23rd February :- [8983694](https://www.fixmystreet.com/report/8983694)
-- Outside Cook Shop 248 Bath Rd: v dangerous slab raised & broken raisec slab. Person fell on slabs Outside Cook Shop, 23rd February :- [8983686](https://www.fixmystreet.com/report/8983686)
-- Big hole among smaller holes in this stretch what3words ///florists.mocking.tinsel, 23rd February :- [8983645](https://www.fixmystreet.com/report/8983645)
-- Abandoned road sign, 23rd February :- [8983617](https://www.fixmystreet.com/report/8983617)
 
 <!-- fix_marker ends -->

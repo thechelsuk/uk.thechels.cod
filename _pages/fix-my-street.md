@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Squirrels causing damage to roof tiles, 25th February :- [8999722](https://www.fixmystreet.com/report/8999722)
+- Pothole, 25th February :- [8999695](https://www.fixmystreet.com/report/8999695)
+- Dumped caravan, 25th February :- [8999468](https://www.fixmystreet.com/report/8999468)
+- Outside 32 and 38 Orchard Way in the road. Large deep potholes, 25th February :- [8999291](https://www.fixmystreet.com/report/8999291)
 - Previous recent bodge repair already failed, 25th February :- [8999042](https://www.fixmystreet.com/report/8999042)
 - There are multiple deep potholes on this road, some opposite each other so you cannot avoid, 25th February :- [8999011](https://www.fixmystreet.com/report/8999011)
 - The missing broken fence and large trees still remain and no one attends to the green area on Keriston Avenue, 25th February :- [8998912](https://www.fixmystreet.com/report/8998912)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Blocking of footpath with no alternative, 25th February :- [8998026](https://www.fixmystreet.com/report/8998026)
 - TMC - Defects - Kerbs and Channels problem, 25th February :- [8997839](https://www.fixmystreet.com/report/8997839)
 - Leaves, tree debris & mud all over parking bays, likely to cause drain blockage., 25th February :- [8997468](https://www.fixmystreet.com/report/8997468)
-- TMC - Defects -CW6 Potholes  problem, 25th February :- [8997798](https://www.fixmystreet.com/report/8997798)
-- Blocked drain water running, 25th February :- [8997284](https://www.fixmystreet.com/report/8997284)
-- Old roads closed sign left here, 25th February :- [8997274](https://www.fixmystreet.com/report/8997274)
-- TMC - Defects -CW6 Potholes  problem, 25th February :- [8997463](https://www.fixmystreet.com/report/8997463)
 
 <!-- fix_marker ends -->

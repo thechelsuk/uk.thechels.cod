@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large deep potholes on kerb side of road, 25th February :- [9000786](https://www.fixmystreet.com/report/9000786)
+- Holes in speed bump, 25th February :- [9000582](https://www.fixmystreet.com/report/9000582)
 - Road Closed/ Diversion sign partially blocking turning onto Malleson Road from Evesham Road, 25th February :- [9000202](https://www.fixmystreet.com/report/9000202)
 - A pothole in road problem, 25th February :- [9000008](https://www.fixmystreet.com/report/9000008)
 - Squirrels causing damage to roof tiles, 25th February :- [8999722](https://www.fixmystreet.com/report/8999722)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - MASSIVE potholes, 25th February :- [8998256](https://www.fixmystreet.com/report/8998256)
 - TMC - Defects -CW6 Potholes  problem, 25th February :- [8998538](https://www.fixmystreet.com/report/8998538)
 - Poor road condition and pot holes on roundabout, 25th February :- [8998168](https://www.fixmystreet.com/report/8998168)
-- Pot hole by garage exit, 25th February :- [8998144](https://www.fixmystreet.com/report/8998144)
-- Blocking of footpath with no alternative, 25th February :- [8998026](https://www.fixmystreet.com/report/8998026)
 
 <!-- fix_marker ends -->

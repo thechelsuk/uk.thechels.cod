@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 25 February 2026
 
-- The average temperature today is 13˚C,
-- With highs of 13.86˚C and lows of 11.83˚C,
-- It may feel like 12.5˚C with few clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 82%
+- The average temperature today is 14.84˚C,
+- With highs of 15.52˚C and lows of 14.05˚C,
+- It may feel like 14.34˚C with scattered clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 75%
 - The sun will rise at 07:03 and set at 17:39
 
 <!-- weather_marker ends -->

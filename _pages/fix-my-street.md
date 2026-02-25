@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road Closed/ Diversion sign partially blocking turning onto Malleson Road from Evesham Road, 25th February :- [9000202](https://www.fixmystreet.com/report/9000202)
+- A pothole in road problem, 25th February :- [9000008](https://www.fixmystreet.com/report/9000008)
 - Squirrels causing damage to roof tiles, 25th February :- [8999722](https://www.fixmystreet.com/report/8999722)
 - Pothole, 25th February :- [8999695](https://www.fixmystreet.com/report/8999695)
 - Dumped caravan, 25th February :- [8999468](https://www.fixmystreet.com/report/8999468)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Poor road condition and pot holes on roundabout, 25th February :- [8998168](https://www.fixmystreet.com/report/8998168)
 - Pot hole by garage exit, 25th February :- [8998144](https://www.fixmystreet.com/report/8998144)
 - Blocking of footpath with no alternative, 25th February :- [8998026](https://www.fixmystreet.com/report/8998026)
-- TMC - Defects - Kerbs and Channels problem, 25th February :- [8997839](https://www.fixmystreet.com/report/8997839)
-- Leaves, tree debris & mud all over parking bays, likely to cause drain blockage., 25th February :- [8997468](https://www.fixmystreet.com/report/8997468)
 
 <!-- fix_marker ends -->

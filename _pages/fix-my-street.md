@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 24 potholes, 26th February :- [9001532](https://www.fixmystreet.com/report/9001532)
+- Hugs potholes, 26th February :- [9001526](https://www.fixmystreet.com/report/9001526)
+- Entire road is riddled with pot hole, 26th February :- [9001474](https://www.fixmystreet.com/report/9001474)
+- Multiple pot holes outside Monkscroft Care Centre, 26th February :- [9001383](https://www.fixmystreet.com/report/9001383)
 - Flytipping and abandoned trolley, 26th February :- [9001123](https://www.fixmystreet.com/report/9001123)
 - Large deep potholes on kerb side of road, 25th February :- [9000786](https://www.fixmystreet.com/report/9000786)
 - Holes in speed bump, 25th February :- [9000582](https://www.fixmystreet.com/report/9000582)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - I do not think the sequencing has been correctly reset following the reopening of the A40.Traffic coming in is being held incorrectly which is backing up past Greville house. Those is the know are strarting to reuse the East End Rat run ,which frankly we residents have had enought of! Could you please investigate and rectify before another Artic gets stuck by the Merryfellow Inn? Thanks, 25th February :- [8998812](https://www.fixmystreet.com/report/8998812)
 - Litter between Jct 5 and 10 on M5 in both directions., 25th February :- [8998672](https://www.fixmystreet.com/report/8998672)
 - Litter between Jct 5 and 10 on M5 in both directions, 25th February :- [8998656](https://www.fixmystreet.com/report/8998656)
-- A pothole in pavement problem, 25th February :- [8998533](https://www.fixmystreet.com/report/8998533)
-- General litter in alleyway, 25th February :- [8998281](https://www.fixmystreet.com/report/8998281)
-- MASSIVE potholes, 25th February :- [8998256](https://www.fixmystreet.com/report/8998256)
-- TMC - Defects -CW6 Potholes  problem, 25th February :- [8998538](https://www.fixmystreet.com/report/8998538)
 
 <!-- fix_marker ends -->

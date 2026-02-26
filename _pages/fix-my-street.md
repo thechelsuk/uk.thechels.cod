@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 26th February :- [9006238](https://www.fixmystreet.com/report/9006238)
+- A pothole in road problem, 26th February :- [9005788](https://www.fixmystreet.com/report/9005788)
+- Streetlight not working, 26th February :- [9005602](https://www.fixmystreet.com/report/9005602)
+- Pothole on Blacksmith`s Lane, The Leigh, 26th February :- [9005567](https://www.fixmystreet.com/report/9005567)
 - Pothole on road, 26th February :- [9005317](https://www.fixmystreet.com/report/9005317)
 - Various points in Kayte Lane Southam/Bishop’s Cleeve- road closed signs left in hedges and sude of road following road closure for flooding., 26th February :- [9005292](https://www.fixmystreet.com/report/9005292)
 - 18 inch pothole, 26th February :- [9005232](https://www.fixmystreet.com/report/9005232)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - The road sign is giving the wrong information about lane choice, 26th February :- [9003412](https://www.fixmystreet.com/report/9003412)
 - Flytipping on Dinas Green, 26th February :- [9003271](https://www.fixmystreet.com/report/9003271)
 - A pothole in road problem, 26th February :- [9003367](https://www.fixmystreet.com/report/9003367)
-- The entire length of Whittington Road is riddled with Potholes, 26th February :- [9002950](https://www.fixmystreet.com/report/9002950)
-- A pothole in road problem, 26th February :- [9003085](https://www.fixmystreet.com/report/9003085)
-- Illegal ramp obstructing road, 26th February :- [9002700](https://www.fixmystreet.com/report/9002700)
-- Fridges and freezers, 26th February :- [9002685](https://www.fixmystreet.com/report/9002685)
 
 <!-- fix_marker ends -->

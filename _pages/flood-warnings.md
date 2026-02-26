@@ -104,7 +104,7 @@ We are closely monitoring the situation.
 
 Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
 
-This message will be updated by 19:00 on the 26 February 2026, or as the situation changes.
+This message will be updated by 12:00 on the 27 February 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light sensor is not detecting vehicles problem, 26th February :- [9002249](https://www.fixmystreet.com/report/9002249)
+- 2 way traffic lights, 26th February :- [9002048](https://www.fixmystreet.com/report/9002048)
+- A pothole in road problem, 26th February :- [9002250](https://www.fixmystreet.com/report/9002250)
+- Temporary traffic lights stick on ref, 26th February :- [9001980](https://www.fixmystreet.com/report/9001980)
+- Temporary traffic lights stuck on red, 26th February :- [9001869](https://www.fixmystreet.com/report/9001869)
+- Very deep pothole, 26th February :- [9001626](https://www.fixmystreet.com/report/9001626)
 - 24 potholes, 26th February :- [9001532](https://www.fixmystreet.com/report/9001532)
 - Hugs potholes, 26th February :- [9001526](https://www.fixmystreet.com/report/9001526)
 - Entire road is riddled with pot hole, 26th February :- [9001474](https://www.fixmystreet.com/report/9001474)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Dumped caravan, 25th February :- [8999468](https://www.fixmystreet.com/report/8999468)
 - Outside 32 and 38 Orchard Way in the road. Large deep potholes, 25th February :- [8999291](https://www.fixmystreet.com/report/8999291)
 - Previous recent bodge repair already failed, 25th February :- [8999042](https://www.fixmystreet.com/report/8999042)
-- There are multiple deep potholes on this road, some opposite each other so you cannot avoid, 25th February :- [8999011](https://www.fixmystreet.com/report/8999011)
-- The missing broken fence and large trees still remain and no one attends to the green area on Keriston Avenue, 25th February :- [8998912](https://www.fixmystreet.com/report/8998912)
-- Pothole, 25th February :- [8998848](https://www.fixmystreet.com/report/8998848)
-- I do not think the sequencing has been correctly reset following the reopening of the A40.Traffic coming in is being held incorrectly which is backing up past Greville house. Those is the know are strarting to reuse the East End Rat run ,which frankly we residents have had enought of! Could you please investigate and rectify before another Artic gets stuck by the Merryfellow Inn? Thanks, 25th February :- [8998812](https://www.fixmystreet.com/report/8998812)
-- Litter between Jct 5 and 10 on M5 in both directions., 25th February :- [8998672](https://www.fixmystreet.com/report/8998672)
-- Litter between Jct 5 and 10 on M5 in both directions, 25th February :- [8998656](https://www.fixmystreet.com/report/8998656)
 
 <!-- fix_marker ends -->

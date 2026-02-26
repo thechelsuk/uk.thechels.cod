@@ -9,7 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish, 26th February :- [9004255](https://www.fixmystreet.com/report/9004255)
+- Blocked drain, 26th February :- [9004169](https://www.fixmystreet.com/report/9004169)
+- Deep pothole at the base of the speed bump, 26th February :- [9004107](https://www.fixmystreet.com/report/9004107)
+- 50 x 700 x 1100 mm pothole outside Ascot Farm House, 26th February :- [9003924](https://www.fixmystreet.com/report/9003924)
+- Road drain completely blocked, 26th February :- [9003873](https://www.fixmystreet.com/report/9003873)
+- Street light STILL out!, 26th February :- [9003865](https://www.fixmystreet.com/report/9003865)
+- Flytipping West end carpark, 26th February :- [9003806](https://www.fixmystreet.com/report/9003806)
+- The road sign is giving the wrong information about lane choice, 26th February :- [9003412](https://www.fixmystreet.com/report/9003412)
 - Flytipping on Dinas Green, 26th February :- [9003271](https://www.fixmystreet.com/report/9003271)
+- A pothole in road problem, 26th February :- [9003367](https://www.fixmystreet.com/report/9003367)
 - The entire length of Whittington Road is riddled with Potholes, 26th February :- [9002950](https://www.fixmystreet.com/report/9002950)
 - A pothole in road problem, 26th February :- [9003085](https://www.fixmystreet.com/report/9003085)
 - Illegal ramp obstructing road, 26th February :- [9002700](https://www.fixmystreet.com/report/9002700)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Pot hole with crumbling road debris, 26th February :- [9002473](https://www.fixmystreet.com/report/9002473)
 - Multiple signs and barriers left on road along Kayte lane, 26th February :- [9002387](https://www.fixmystreet.com/report/9002387)
 - Green or amber traffic light is not working problem, 26th February :- [9002531](https://www.fixmystreet.com/report/9002531)
-- Double yellow lines at Oakland St junction with A 40 London rd in disrepair and partially obliterated by debris, 26th February :- [9002322](https://www.fixmystreet.com/report/9002322)
-- Light sensor is not detecting vehicles problem, 26th February :- [9002249](https://www.fixmystreet.com/report/9002249)
-- 2 way traffic lights, 26th February :- [9002048](https://www.fixmystreet.com/report/9002048)
-- A pothole in road problem, 26th February :- [9002250](https://www.fixmystreet.com/report/9002250)
-- Temporary traffic lights stick on ref, 26th February :- [9001980](https://www.fixmystreet.com/report/9001980)
-- Temporary traffic lights stuck on red, 26th February :- [9001869](https://www.fixmystreet.com/report/9001869)
-- Very deep pothole, 26th February :- [9001626](https://www.fixmystreet.com/report/9001626)
-- 24 potholes, 26th February :- [9001532](https://www.fixmystreet.com/report/9001532)
-- Hugs potholes, 26th February :- [9001526](https://www.fixmystreet.com/report/9001526)
 
 <!-- fix_marker ends -->

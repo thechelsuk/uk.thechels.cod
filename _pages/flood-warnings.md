@@ -50,11 +50,11 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 This message will be updated by 12:00PM on 27 February 2026, or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- River levels are high on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 25 February 2026, especially in the Kempsford area.  The forecast is predominantly dry today with rain tomorrow. River levels are expected to remain high and responsive to further rainfall over the coming days.
+- River levels are high on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 26 February 2026, especially in the Kempsford area.  The forecast is for some rain overnight tonight and further rain tomorrow and into the weekend. River levels are expected to remain high and responsive to further rainfall over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 26 February 2026 or as the situation changes.
+This message will be updated by 12:00PM on 27 February 2026 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
@@ -80,12 +80,12 @@ This message will be updated by 12:00PM on 26 February 2026, or as the situation
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
 
-River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock, especially in the Eynsham area. Flooding of low lying land and roads is expected to continue today, 25 February 2026. The forecast is predominantly dry today with rain tomorrow. River levels are expected to remain high and responsive to further rainfall over the coming days.
+River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 26 February 2026. The forecast is for some rain overnight tonight and further rain tomorrow and into the weekend. River levels are expected to remain high and responsive to further rainfall over the coming days.
 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 26 February 2026 or as the situation changes.
+This message will be updated by 12:00PM on 27 February 2026 or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington.

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping and abandoned trolley, 26th February :- [9001123](https://www.fixmystreet.com/report/9001123)
 - Large deep potholes on kerb side of road, 25th February :- [9000786](https://www.fixmystreet.com/report/9000786)
 - Holes in speed bump, 25th February :- [9000582](https://www.fixmystreet.com/report/9000582)
 - Road Closed/ Diversion sign partially blocking turning onto Malleson Road from Evesham Road, 25th February :- [9000202](https://www.fixmystreet.com/report/9000202)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - General litter in alleyway, 25th February :- [8998281](https://www.fixmystreet.com/report/8998281)
 - MASSIVE potholes, 25th February :- [8998256](https://www.fixmystreet.com/report/8998256)
 - TMC - Defects -CW6 Potholes  problem, 25th February :- [8998538](https://www.fixmystreet.com/report/8998538)
-- Poor road condition and pot holes on roundabout, 25th February :- [8998168](https://www.fixmystreet.com/report/8998168)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trolleys find a new home, 26th February :- [9007633](https://www.fixmystreet.com/report/9007633)
+- Street light has been out for some time now opposite the junction with Tamar Road along with all the street lights on Tamar road., 26th February :- [9007279](https://www.fixmystreet.com/report/9007279)
+- Small hole in manhole cover in pavement. 2 inches in diameter, 26th February :- [9006635](https://www.fixmystreet.com/report/9006635)
 - Blocked drain, 26th February :- [9006238](https://www.fixmystreet.com/report/9006238)
 - A pothole in road problem, 26th February :- [9005788](https://www.fixmystreet.com/report/9005788)
 - Streetlight not working, 26th February :- [9005602](https://www.fixmystreet.com/report/9005602)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Road drain completely blocked, 26th February :- [9003873](https://www.fixmystreet.com/report/9003873)
 - Street light STILL out!, 26th February :- [9003865](https://www.fixmystreet.com/report/9003865)
 - Flytipping West end carpark, 26th February :- [9003806](https://www.fixmystreet.com/report/9003806)
-- The road sign is giving the wrong information about lane choice, 26th February :- [9003412](https://www.fixmystreet.com/report/9003412)
-- Flytipping on Dinas Green, 26th February :- [9003271](https://www.fixmystreet.com/report/9003271)
-- A pothole in road problem, 26th February :- [9003367](https://www.fixmystreet.com/report/9003367)
 
 <!-- fix_marker ends -->

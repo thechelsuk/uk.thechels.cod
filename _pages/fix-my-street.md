@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin by bus shelter overflowing with waste, 26th February :- [9007963](https://www.fixmystreet.com/report/9007963)
+- Pothole in middle of eastern side of the road, 26th February :- [9007916](https://www.fixmystreet.com/report/9007916)
+- 3 potholes near bus stop, 26th February :- [9007904](https://www.fixmystreet.com/report/9007904)
+- Pothole around ironworks drain, 26th February :- [9007901](https://www.fixmystreet.com/report/9007901)
+- 2 previously repaired potholes have sunk & expanded, 26th February :- [9007879](https://www.fixmystreet.com/report/9007879)
 - Trolleys find a new home, 26th February :- [9007633](https://www.fixmystreet.com/report/9007633)
 - Street light has been out for some time now opposite the junction with Tamar Road along with all the street lights on Tamar road., 26th February :- [9007279](https://www.fixmystreet.com/report/9007279)
 - Small hole in manhole cover in pavement. 2 inches in diameter, 26th February :- [9006635](https://www.fixmystreet.com/report/9006635)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Curbs moved and hole made to stream on Stockwell Lane Post office Lane jnction following transport of plant from neighbouring house, 26th February :- [9004700](https://www.fixmystreet.com/report/9004700)
 - Rubbish, 26th February :- [9004255](https://www.fixmystreet.com/report/9004255)
 - Blocked drain, 26th February :- [9004169](https://www.fixmystreet.com/report/9004169)
-- Deep pothole at the base of the speed bump, 26th February :- [9004107](https://www.fixmystreet.com/report/9004107)
-- 50 x 700 x 1100 mm pothole outside Ascot Farm House, 26th February :- [9003924](https://www.fixmystreet.com/report/9003924)
-- Road drain completely blocked, 26th February :- [9003873](https://www.fixmystreet.com/report/9003873)
-- Street light STILL out!, 26th February :- [9003865](https://www.fixmystreet.com/report/9003865)
-- Flytipping West end carpark, 26th February :- [9003806](https://www.fixmystreet.com/report/9003806)
 
 <!-- fix_marker ends -->

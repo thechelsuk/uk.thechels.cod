@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on road, 26th February :- [9005317](https://www.fixmystreet.com/report/9005317)
+- Various points in Kayte Lane Southam/Bishop’s Cleeve- road closed signs left in hedges and sude of road following road closure for flooding., 26th February :- [9005292](https://www.fixmystreet.com/report/9005292)
+- 18 inch pothole, 26th February :- [9005232](https://www.fixmystreet.com/report/9005232)
+- Blocked Drains, 26th February :- [9005190](https://www.fixmystreet.com/report/9005190)
+- The lighting around Beverly Croft gl51 0xd is mostly off. The place is pretty dark., 26th February :- [9005070](https://www.fixmystreet.com/report/9005070)
+- Curbs moved and hole made to stream on Stockwell Lane Post office Lane jnction following transport of plant from neighbouring house, 26th February :- [9004700](https://www.fixmystreet.com/report/9004700)
 - Rubbish, 26th February :- [9004255](https://www.fixmystreet.com/report/9004255)
 - Blocked drain, 26th February :- [9004169](https://www.fixmystreet.com/report/9004169)
 - Deep pothole at the base of the speed bump, 26th February :- [9004107](https://www.fixmystreet.com/report/9004107)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 26th February :- [9003085](https://www.fixmystreet.com/report/9003085)
 - Illegal ramp obstructing road, 26th February :- [9002700](https://www.fixmystreet.com/report/9002700)
 - Fridges and freezers, 26th February :- [9002685](https://www.fixmystreet.com/report/9002685)
-- Incorrect signage, 26th February :- [9002638](https://www.fixmystreet.com/report/9002638)
-- 3 street lights not working, 26th February :- [9002534](https://www.fixmystreet.com/report/9002534)
-- Crumbling pothole, 26th February :- [9002484](https://www.fixmystreet.com/report/9002484)
-- Pot hole with crumbling road debris, 26th February :- [9002473](https://www.fixmystreet.com/report/9002473)
-- Multiple signs and barriers left on road along Kayte lane, 26th February :- [9002387](https://www.fixmystreet.com/report/9002387)
-- Green or amber traffic light is not working problem, 26th February :- [9002531](https://www.fixmystreet.com/report/9002531)
 
 <!-- fix_marker ends -->

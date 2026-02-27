@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlight not working, 27th February :- [9015055](https://www.fixmystreet.com/report/9015055)
+- The whole footpath is an absolute disgrace repeatedly filled in when it needs a complete resurface to make it safe for disabled residents with walking aids, 27th February :- [9015012](https://www.fixmystreet.com/report/9015012)
+- Bus stop appaers to be leaning over, 27th February :- [9014946](https://www.fixmystreet.com/report/9014946)
+- Dropped kerbs all damaged beoken outside 1-5 Ingleborough Mews, 27th February :- [9014836](https://www.fixmystreet.com/report/9014836)
 - Manhole cover on crossroad is really noisy, 27th February :- [9014655](https://www.fixmystreet.com/report/9014655)
 - Pothole has reopened after poor repair, 27th February :- [9014645](https://www.fixmystreet.com/report/9014645)
 - Recurring pothole opposite drive of ‘Woodhay’, 27th February :- [9014536](https://www.fixmystreet.com/report/9014536)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large flooded pothole on Leckhampton Rd, near The Norwood bus stop, 27th February :- [9013165](https://www.fixmystreet.com/report/9013165)
 - Road closed and diversion signs left, 27th February :- [9013045](https://www.fixmystreet.com/report/9013045)
 - Dumped road sign on the hedge, 27th February :- [9013021](https://www.fixmystreet.com/report/9013021)
-- Lots of potholes and ironworks starting to stick up, 27th February :- [9012922](https://www.fixmystreet.com/report/9012922)
-- Pot hole quickly getting worse, 27th February :- [9012851](https://www.fixmystreet.com/report/9012851)
-- 2 large potholes impossible to avoid, 27th February :- [9012805](https://www.fixmystreet.com/report/9012805)
-- Huge potholes narrowing lane significantly, 27th February :- [9012791](https://www.fixmystreet.com/report/9012791)
 
 <!-- fix_marker ends -->

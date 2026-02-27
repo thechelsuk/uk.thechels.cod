@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 27 February 2026
 
-- The average temperature today is 13.74˚C,
-- With highs of 13.75˚C and lows of 12.06˚C,
-- It may feel like 13.31˚C with broken clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 82%
+- The average temperature today is 10.76˚C,
+- With highs of 11.83˚C and lows of 9.82˚C,
+- It may feel like 10.29˚C with mist
+- The wind speed is 2.57m/s and visibility is 5000m
+- The pressure is 1008hPa and humidity is 92%
 - The sun will rise at 06:58 and set at 17:43
 
 <!-- weather_marker ends -->

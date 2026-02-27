@@ -76,6 +76,14 @@ This message will be updated by 12:00PM on 28 February 2026, or as the situation
 - Flood alert: River Severn in Gloucestershire
 - River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Friday 27th February 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Peaks:- Mythe peaked at 4.07m on Friday morning 20th February, and Haw Bridge peaked at 5.06m on Friday morning 20th February. Further rainfall is expected today. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 28th February 2026 or as the situation changes.
 
+- Flood alert: River Avon in Worcestershire
+- Forecast rising river levels today may lead to flooding. 
+Flooding is possible on 28 February 2026 in the early hours of the morning. 
+There is some uncertainty on the amount of rainfall, but there is the potential for flooding. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Evesham 2.61m on 28/03 at 16:45, Bredon 3.00m on 01/03 at 14:00. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 28 February 2026 or as the situation changes.
+
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
 
@@ -85,6 +93,14 @@ River levels are high on the River Thames and its tributaries from Buscot Wick d
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
 This message will be updated by 12:00PM on 28 February 2026 or as the situation changes.
+
+- Flood alert: River Wye in Gloucestershire
+- Forecast high river levels overnight may lead to flooding. 
+Flooding is possible on 27 February 2026 . 
+Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on  3.2m to 3.6m 27/02 PM, Lydbrook 3.8m to 4.1m 27/02 PM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 28 February 2026 or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington.

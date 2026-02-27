@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gulley is block, 27th February :- [9014038](https://www.fixmystreet.com/report/9014038)
+- This is a constant flow of water that is creating further damage to Stockwell Lane. The lane is scheduled for re surfacing between the 16th and 20th of March. It is vital this water is properly drained or it will result in the constant flow and more damage to Stockwell Lane., 27th February :- [9013966](https://www.fixmystreet.com/report/9013966)
 - 30 mph sign on entry to village knocked down into undergrowth, 27th February :- [9013743](https://www.fixmystreet.com/report/9013743)
 - Parking sign knocked over., 27th February :- [9013648](https://www.fixmystreet.com/report/9013648)
 - Graffiti on road sign, 27th February :- [9013381](https://www.fixmystreet.com/report/9013381)
@@ -23,11 +25,9 @@ permalink: /fix-my-street
 - Pot hole quickly getting worse, 27th February :- [9012851](https://www.fixmystreet.com/report/9012851)
 - 2 large potholes impossible to avoid, 27th February :- [9012805](https://www.fixmystreet.com/report/9012805)
 - Huge potholes narrowing lane significantly, 27th February :- [9012791](https://www.fixmystreet.com/report/9012791)
-- TMC - Defects - Vegetation problem, 27th February :- [9012907](https://www.fixmystreet.com/report/9012907)
 - TMC - Defects - Vegetation problem, 27th February :- [9012908](https://www.fixmystreet.com/report/9012908)
+- TMC - Defects - Vegetation problem, 27th February :- [9012907](https://www.fixmystreet.com/report/9012907)
 - Yellow Lines no longer visible, 27th February :- [9012715](https://www.fixmystreet.com/report/9012715)
 - TMC - Defects -FW6 Potholes problem, 27th February :- [9012616](https://www.fixmystreet.com/report/9012616)
-- Pothole on speed bump, 27th February :- [9012553](https://www.fixmystreet.com/report/9012553)
-- On mini roound about, 27th February :- [9012538](https://www.fixmystreet.com/report/9012538)
 
 <!-- fix_marker ends -->

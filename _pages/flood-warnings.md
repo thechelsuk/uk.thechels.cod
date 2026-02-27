@@ -25,11 +25,11 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 25 February 2026, especially near Cerney Wick. The forecast is for some rain overnight tonight and further rain tomorrow and into the weekend. We expect levels to remain high and sensitive to further rainfall over the coming days. 
+River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 27 February 2026, especially near Cerney Wick. The forecast is for rain overnight tonight, which could be heavy at times, and some further rain over the weekend. We expect levels to remain high and sensitive to further rainfall over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 27 February 2026, or as the situation changes.
+This message will be updated by 12:00PM on 28 February 2026, or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding. 
@@ -90,21 +90,22 @@ This message will be updated by 12:00PM on 27 February 2026 or as the situation 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington.
 
-River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 26 February 2026, especially in the areas around Fossebridge, Coln St Dennis, and Bibury. The forecast is predominantly dry today with rain tomorrow. We expect river levels to remain high and sensitive to further rainfall over the coming days.
+River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 27 February 2026, especially in the areas around Fossebridge, Coln St Dennis, and Bibury. The forecast is for rain overnight tonight, which could be heavy at times, and some further rain over the weekend. We expect river levels to remain high and sensitive to further rainfall over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
- This message will be updated by 12:00PM on 27 February 2026, or as the situation changes.
+
+ This message will be updated by 12:00PM on 28 February 2026, or as the situation changes.
 
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 
 
-River levels are high but falling slowly on the River Coln. Flooding of property and roads remains possible, especially nearest the River Coln in the Fossebridge and  Coln St Dennis areas.  The forecast is for some rain overnight tonight, 26 February 2026 and further rain tomorrow and into the weekend. River levels are expected to remain high and sensitve to any further rain over the coming days.
+River levels are high but falling slowly on the River Coln. Flooding of property and roads remains possible, especially nearest the River Coln in the Fossebridge and Coln St Dennis areas. The forecast is for rain overnight tonight, 27 February 2026, which could be heavy at times, and some further rain over the weekend. River levels are expected to remain high and sensitive to any further rain over the coming days.
 
 We are closely monitoring the situation. 
 
-Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
+Activate any flood protection products you may have. Go to River Levels Online for updates on current river levels. Stay away from flood water - it contains hidden dangers such as open manhole covers, sewage and chemicals.  
 
-This message will be updated by 12:00 on the 27 February 2026, or as the situation changes.
+This message will be updated by 07:00PM on the 27 February 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

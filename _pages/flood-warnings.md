@@ -115,6 +115,14 @@ This message will be updated by 12.00 on 29 February 2026 or as the situation ch
 - Flood alert: River Wye in Gloucestershire
 - Forecast high river levels overnight may lead to flooding.  Flooding is possible on 27 February 2026 .  Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.2m to 3.4m 28/02 PM, Lydbrook 4.0m to 4.2m 28/02 AM.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 01 March 2026 or as the situation changes.
 
+- Flood alert: River Severn in Worcestershire
+- Forecast rising river levels today may lead to flooding. 
+Flooding is possible on 28 February 2026 . 
+Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Bewdley 2.72m on 28/02 PM, Worcester 3.80m on 28/02 PM, Diglis 3.34m on 28/02 PM, Kempsey Yacht Club 5.51m on 28/02 PM, Saxons Lode 4.29m on 01/03 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 01 March 2026 or as the situation changes.
+
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington.
 
@@ -126,13 +134,13 @@ This message will be updated by 12.00 on 29 February 2026, or as the situation c
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 
 
-River levels are high but stable on the River Coln. Flooding of property and roads remains possible 28 February 2026, especially nearest the River Coln in the Fossebridge and Coln St Dennis areas. The forecast is for some further light rain over the weekend. River levels are expected to remain high and sensitive to any further rain over the coming days.
+River levels are high but stable on the River Coln. Flooding of property and roads remains possible 28 February 2026, especially nearest the River Coln in the Fossebridge and  Coln St Dennis areas.  The forecast is for some further light rain over the weekend. River levels are expected to remain high and sensitve to any further rain over the coming days.
 
 We are closely monitoring the situation. 
 
-Activate any flood protection products you may have. Go to River levels online for updates on current river levels. Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals. 
+Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
 
-This message will be updated by 19:00 on the 28 February 2026, or as the situation changes.
+This message will be updated by 12:00 on the 29 February 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

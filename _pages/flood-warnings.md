@@ -43,26 +43,27 @@ This message will be updated by 12.00 on 29 February 2026, or as the situation c
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding. 
 
-River levels are high on the River Glyme. Flooding of low lying land and roads is expected to continue today, 27 February 2026, especially in the Woodstock area.  The forecast is for rain overnight tonight, which could be heavy at times and some further rain over the weekend. We expect river levels to remain high and sensitive to further rainfall over the coming days.
+River levels are high on the River Glyme. Flooding of low lying land and roads is expected to continue today, 28 February 2026, especially in the Shipton and Woodstock areas. The forecast is for some further light rain over the weekend. We expect river levels to remain high and sensitive to further rainfall over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00PM on 28 February 2026, or as the situation changes.
+This message will be updated by 12.00 on 29 February 2026, or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- River levels are high on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 27 February 2026, especially in the Kempsford area.  The forecast is for  rain overnight tonight, which could be heavy at times and some further rain over the weekend. River levels are expected to remain high and responsive to further rainfall over the coming days.
+- River levels are high on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 28 February 2026, especially in the Hannington Wick area.  The forecast is for some further light rain over the weekend. River levels are expected to remain high and responsive to further rainfall over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 28 February 2026 or as the situation changes.
+This message will be updated by 12.00 on 29 February 2026 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
-- High river levels today may lead to flooding. 
-Flooding is possible on 27 February 2026 . 
-River levels have risen on the Dikler following recent rainfall. Flooding of low lying land and roads is expected to continue today, 27 February 2026, including around Bourton on the Water.  The forecast is for rain overnight tonight, which could be heavy at times and some further rain over the weekend. We expect river levels to remain high and sensitive to further rainfall over the coming days. 
-We are monitoring rainfall and river levels . 
-Avoid using low lying footpaths and any bridges near local watercourses . Go to River Levels Online for updates on current river levels. 
-This message will be updated by 12:00PM on 28 February 2026 or as the situation changes.
+- High river levels may lead to flooding. 
+
+River levels remain high but are now stable on the Dikler following recent rainfall. Flooding of low lying land and roads is expected to continue today, 28 February 2026, including around Bourton on the Water.  The forecast is for some further light rain over the weekend. We expect river levels to remain high and sensitive to further rainfall over the coming days. 
+
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
+
+This message will be updated by 12.00 on 29 February 2026, or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding. 
@@ -82,7 +83,11 @@ Never drive through flood water,  just 30cm of fast flowing water is enough to m
 This message will be updated by 11:00AM on 01 March 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Friday 27th February 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Peaks:- Mythe peaked at 4.07m on Friday morning 20th February, and Haw Bridge peaked at 5.06m on Friday morning 20th February. Further rainfall is expected today. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 28th February 2026 or as the situation changes.
+- River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Saturday 28th February 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
+Peaks:- Mythe peaked at 4.07m on Friday morning 20th February, and Haw Bridge peaked at 5.06m on Friday morning 20th February.
+
+Further rainfall is forecast overnight. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.
+This message will be updated by 10:00AM on 1st March 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
 - High river levels today may lead to flooding. 
@@ -93,30 +98,22 @@ Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 01 March 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- Forecast rising river levels today may lead to flooding. 
-Flooding is possible on 28 February 2026 in the early hours of the morning. 
-There is some uncertainty on the amount of rainfall, but there is the potential for flooding. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Evesham 2.61m on 28/03 at 16:45, Bredon 3.00m on 01/03 at 14:00. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 28 February 2026 or as the situation changes.
+- Forecast rising river levels today may lead to flooding.  Flooding is possible today, Saturday 28th February 2026. There is some uncertainty on the amount of rainfall, but there is the potential for flooding. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. 
+Predicted peaks:- Evesham 2.43m on 28/02 at 17:15, Bredon 2.66m on 01/03 at 12:00. Further rainfall is forecast overnight. We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  
+This message will be updated by 10:00AM on 1st March 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
 
-River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 27 February 2026. The forecast is for rain overnight tonight, which could be heavy at times and some further rain over the weekend. River levels are expected to remain high and responsive to further rainfall over the coming days.
+River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 28 February 2026. The forecast is for some further light rain over the weekend. River levels are expected to remain high and responsive to further rainfall over the coming days.
 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 28 February 2026 or as the situation changes.
+This message will be updated by 12.00 on 29 February 2026 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- Forecast high river levels overnight may lead to flooding. 
-Flooding is possible on 27 February 2026 . 
-Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on  3.2m to 3.6m 27/02 PM, Lydbrook 3.8m to 4.1m 27/02 PM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 28 February 2026 or as the situation changes.
+- Forecast high river levels overnight may lead to flooding.  Flooding is possible on 27 February 2026 .  Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.2m to 3.4m 28/02 PM, Lydbrook 4.0m to 4.2m 28/02 AM.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 01 March 2026 or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington.

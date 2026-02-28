@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped item, 28th February :- [9016522](https://www.fixmystreet.com/report/9016522)
+- Flytipped items, 28th February :- [9016496](https://www.fixmystreet.com/report/9016496)
+- Rocking manhole cover has been reported every year for now, three years., 28th February :- [9015914](https://www.fixmystreet.com/report/9015914)
+- Thick moss and years worth of debris, vausing slippery conditions for cyclists. Already had two children slip and grab onto parked cars to prevent sliding onto tarmac, 28th February :- [9015825](https://www.fixmystreet.com/report/9015825)
 - Large pothole at crossing. Causing structural vibrations to nearest property, 28th February :- [9015538](https://www.fixmystreet.com/report/9015538)
 - Pothole hasn't been fixed even though you think it has!, 28th February :- [9015503](https://www.fixmystreet.com/report/9015503)
 - Multiple severe potholes all along on greyhound gardens, 28th February :- [9015447](https://www.fixmystreet.com/report/9015447)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Gulley is block, 27th February :- [9014038](https://www.fixmystreet.com/report/9014038)
 - This is a constant flow of water that is creating further damage to Stockwell Lane. The lane is scheduled for re surfacing between the 16th and 20th of March. It is vital this water is properly drained or it will result in the constant flow and more damage to Stockwell Lane., 27th February :- [9013966](https://www.fixmystreet.com/report/9013966)
 - 30 mph sign on entry to village knocked down into undergrowth, 27th February :- [9013743](https://www.fixmystreet.com/report/9013743)
-- Parking sign knocked over., 27th February :- [9013648](https://www.fixmystreet.com/report/9013648)
-- Graffiti on road sign, 27th February :- [9013381](https://www.fixmystreet.com/report/9013381)
-- Large deep pothole in middle of road, 27th February :- [9013355](https://www.fixmystreet.com/report/9013355)
-- Four pot hole in a line on, 27th February :- [9013268](https://www.fixmystreet.com/report/9013268)
 
 <!-- fix_marker ends -->

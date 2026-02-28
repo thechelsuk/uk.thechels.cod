@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement falling apart, 28th February :- [9019561](https://www.fixmystreet.com/report/9019561)
+- There are numerous pot holes due to water erosion caused by run off. Can’t avoid pot hole as either side of the carriage way and also a danger to cyclists, 28th February :- [9019536](https://www.fixmystreet.com/report/9019536)
+- Deep pothole outside school entrance, 28th February :- [9019521](https://www.fixmystreet.com/report/9019521)
+- On Alstone Lane at junction when joined by Devon Avenue. Just on Alstone lane side Give white white Lines as leaving Devon Avenue., 28th February :- [9019434](https://www.fixmystreet.com/report/9019434)
 - Massive deep pothole, 28th February :- [9019269](https://www.fixmystreet.com/report/9019269)
 - Large pothole hit on left side of vehicle. Not visible in the dark. Made loud bang driving over it, 28th February :- [9019255](https://www.fixmystreet.com/report/9019255)
 - Seriously, 28th February :- [9018985](https://www.fixmystreet.com/report/9018985)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Loose metal drain cover in road rocks & bangs each time a vehicle passes over it. The volume has increased & I think that the range of movement has increased to match, there may come a point when it fails. I can hear it clearly day & night at the end of Chatsworth Drive, those living closer must really be disturbed by the constant noise. Also, as the movement increases the likelihood that it will become more of a hazard, damage car tyres or unseating cyclists becomes more likely., 28th February :- [9018264](https://www.fixmystreet.com/report/9018264)
 - Very deep pothole on crest of hill up to cooper's hill, 28th February :- [9018224](https://www.fixmystreet.com/report/9018224)
 - Pothole on side of road on crest of hill up to cooper's, 28th February :- [9018219](https://www.fixmystreet.com/report/9018219)
-- Unpatched pothole on crest of hill up to cooper's hill, 28th February :- [9018214](https://www.fixmystreet.com/report/9018214)
-- Enormous flatscreen TV flight tipped Junction Sussex Avenue and Rowanfield Road, 28th February :- [9018120](https://www.fixmystreet.com/report/9018120)
-- There is a pothole more than 10 inches deep on Whittington Road that caused my car tyre to burst. The hole is extremely large and deep — the worst I have ever seen. Because cars are parked on both sides of the road, it is impossible to avoid driving through it. As a result, three tyres have burst due to this pothole. This is a serious safety hazard and needs urgent repair., 28th February :- [9018102](https://www.fixmystreet.com/report/9018102)
-- Flytipped heater on pavement Albert St, 28th February :- [9018000](https://www.fixmystreet.com/report/9018000)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large number of pot holes and gravel across the road, 28th February :- [9016980](https://www.fixmystreet.com/report/9016980)
+- A series of large potholes in the road, 28th February :- [9016925](https://www.fixmystreet.com/report/9016925)
+- Wide deep pothole on roundabout, 28th February :- [9016747](https://www.fixmystreet.com/report/9016747)
+- Tree outside of my house which was causing subsidence to my property was felled and plugged at the stump is now regrowing. I have contacted many times to report this and nothing has been done., 28th February :- [9016730](https://www.fixmystreet.com/report/9016730)
+- Huge pothole on the side of the road, 28th February :- [9016711](https://www.fixmystreet.com/report/9016711)
 - Flytipped item, 28th February :- [9016522](https://www.fixmystreet.com/report/9016522)
 - Flytipped items, 28th February :- [9016496](https://www.fixmystreet.com/report/9016496)
 - Rocking manhole cover has been reported every year for now, three years., 28th February :- [9015914](https://www.fixmystreet.com/report/9015914)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Dropped kerbs all damaged beoken outside 1-5 Ingleborough Mews, 27th February :- [9014836](https://www.fixmystreet.com/report/9014836)
 - Manhole cover on crossroad is really noisy, 27th February :- [9014655](https://www.fixmystreet.com/report/9014655)
 - Pothole has reopened after poor repair, 27th February :- [9014645](https://www.fixmystreet.com/report/9014645)
-- Recurring pothole opposite drive of ‘Woodhay’, 27th February :- [9014536](https://www.fixmystreet.com/report/9014536)
-- New barn lane covered in gravel, 27th February :- [9014158](https://www.fixmystreet.com/report/9014158)
-- Gulley is block, 27th February :- [9014038](https://www.fixmystreet.com/report/9014038)
-- This is a constant flow of water that is creating further damage to Stockwell Lane. The lane is scheduled for re surfacing between the 16th and 20th of March. It is vital this water is properly drained or it will result in the constant flow and more damage to Stockwell Lane., 27th February :- [9013966](https://www.fixmystreet.com/report/9013966)
-- 30 mph sign on entry to village knocked down into undergrowth, 27th February :- [9013743](https://www.fixmystreet.com/report/9013743)
 
 <!-- fix_marker ends -->

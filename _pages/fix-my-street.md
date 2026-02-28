@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive deep pothole, 28th February :- [9019269](https://www.fixmystreet.com/report/9019269)
+- Large pothole hit on left side of vehicle. Not visible in the dark. Made loud bang driving over it, 28th February :- [9019255](https://www.fixmystreet.com/report/9019255)
 - Seriously, 28th February :- [9018985](https://www.fixmystreet.com/report/9018985)
 - Flying tipping, 28th February :- [9018974](https://www.fixmystreet.com/report/9018974)
 - There has been a no entry sign at the top of the road for well over a year but we are still getting people coming in the no entry part of the road and I fear we are going to have a nasty accident one day, I have reported this previously, when stopping vehicles and telling them they have come through a no entry they tell me they didn't see any signs, they are too small and not facing the correct way for oncoming traffic to see them, 28th February :- [9018939](https://www.fixmystreet.com/report/9018939)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Enormous flatscreen TV flight tipped Junction Sussex Avenue and Rowanfield Road, 28th February :- [9018120](https://www.fixmystreet.com/report/9018120)
 - There is a pothole more than 10 inches deep on Whittington Road that caused my car tyre to burst. The hole is extremely large and deep — the worst I have ever seen. Because cars are parked on both sides of the road, it is impossible to avoid driving through it. As a result, three tyres have burst due to this pothole. This is a serious safety hazard and needs urgent repair., 28th February :- [9018102](https://www.fixmystreet.com/report/9018102)
 - Flytipped heater on pavement Albert St, 28th February :- [9018000](https://www.fixmystreet.com/report/9018000)
-- Pothole increasingly dangerous and growing daily, 28th February :- [9017948](https://www.fixmystreet.com/report/9017948)
-- No yellow lines, 28th February :- [9017917](https://www.fixmystreet.com/report/9017917)
 
 <!-- fix_marker ends -->

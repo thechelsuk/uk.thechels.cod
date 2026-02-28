@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole at crossing. Causing structural vibrations to nearest property, 28th February :- [9015538](https://www.fixmystreet.com/report/9015538)
+- Pothole hasn't been fixed even though you think it has!, 28th February :- [9015503](https://www.fixmystreet.com/report/9015503)
+- Multiple severe potholes all along on greyhound gardens, 28th February :- [9015447](https://www.fixmystreet.com/report/9015447)
+- A string of about 10 portholes outside safran, 28th February :- [9015440](https://www.fixmystreet.com/report/9015440)
 - Fly tipped freezer, 27th February :- [9015095](https://www.fixmystreet.com/report/9015095)
 - Streetlight not working, 27th February :- [9015055](https://www.fixmystreet.com/report/9015055)
 - The whole footpath is an absolute disgrace repeatedly filled in when it needs a complete resurface to make it safe for disabled residents with walking aids, 27th February :- [9015012](https://www.fixmystreet.com/report/9015012)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Graffiti on road sign, 27th February :- [9013381](https://www.fixmystreet.com/report/9013381)
 - Large deep pothole in middle of road, 27th February :- [9013355](https://www.fixmystreet.com/report/9013355)
 - Four pot hole in a line on, 27th February :- [9013268](https://www.fixmystreet.com/report/9013268)
-- TMC - Defects - Other problem, 27th February :- [9013367](https://www.fixmystreet.com/report/9013367)
-- X 2 large potholes & broken drain in grass verge, 27th February :- [9013232](https://www.fixmystreet.com/report/9013232)
-- Large flooded pothole on Leckhampton Rd, near The Norwood bus stop, 27th February :- [9013165](https://www.fixmystreet.com/report/9013165)
-- Road closed and diversion signs left, 27th February :- [9013045](https://www.fixmystreet.com/report/9013045)
 
 <!-- fix_marker ends -->

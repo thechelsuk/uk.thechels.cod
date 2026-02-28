@@ -123,6 +123,14 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 01 March 2026 or as the situation changes.
 
+- Flood warning: River Severn at Severn Ham, Tewkesbury
+- Rising river levels are expected to cause flooding today. 
+Flooding is expected on 28 February 2026 this afternoon and overnight. 
+Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peaks:- at Mythe 3.4m to 3.9m on 01/03 AM  Upper Pound 3.4m to 3.9m on 01/03 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 01 March 2026 or as the situation changes. 
+
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington.
 

@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole increasingly dangerous and growing daily, 28th February :- [9017948](https://www.fixmystreet.com/report/9017948)
+- No yellow lines, 28th February :- [9017917](https://www.fixmystreet.com/report/9017917)
+- Multiple pot holes in main carriageway, 28th February :- [9017896](https://www.fixmystreet.com/report/9017896)
+- Big pothole in the middle of Redgrove Road, 28th February :- [9017736](https://www.fixmystreet.com/report/9017736)
+- Pothole, 28th February :- [9017726](https://www.fixmystreet.com/report/9017726)
+- Pothole, 28th February :- [9017725](https://www.fixmystreet.com/report/9017725)
+- Volunteer litter pick bags ready for collection, 28th February :- [9017588](https://www.fixmystreet.com/report/9017588)
 - Large number of pot holes and gravel across the road, 28th February :- [9016980](https://www.fixmystreet.com/report/9016980)
 - A series of large potholes in the road, 28th February :- [9016925](https://www.fixmystreet.com/report/9016925)
 - Wide deep pothole on roundabout, 28th February :- [9016747](https://www.fixmystreet.com/report/9016747)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Pothole hasn't been fixed even though you think it has!, 28th February :- [9015503](https://www.fixmystreet.com/report/9015503)
 - Multiple severe potholes all along on greyhound gardens, 28th February :- [9015447](https://www.fixmystreet.com/report/9015447)
 - A string of about 10 portholes outside safran, 28th February :- [9015440](https://www.fixmystreet.com/report/9015440)
-- Fly tipped freezer, 27th February :- [9015095](https://www.fixmystreet.com/report/9015095)
-- Streetlight not working, 27th February :- [9015055](https://www.fixmystreet.com/report/9015055)
-- The whole footpath is an absolute disgrace repeatedly filled in when it needs a complete resurface to make it safe for disabled residents with walking aids, 27th February :- [9015012](https://www.fixmystreet.com/report/9015012)
-- Bus stop appaers to be leaning over, 27th February :- [9014946](https://www.fixmystreet.com/report/9014946)
-- Dropped kerbs all damaged beoken outside 1-5 Ingleborough Mews, 27th February :- [9014836](https://www.fixmystreet.com/report/9014836)
-- Manhole cover on crossroad is really noisy, 27th February :- [9014655](https://www.fixmystreet.com/report/9014655)
-- Pothole has reopened after poor repair, 27th February :- [9014645](https://www.fixmystreet.com/report/9014645)
 
 <!-- fix_marker ends -->

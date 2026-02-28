@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipped freezer, 27th February :- [9015095](https://www.fixmystreet.com/report/9015095)
 - Streetlight not working, 27th February :- [9015055](https://www.fixmystreet.com/report/9015055)
 - The whole footpath is an absolute disgrace repeatedly filled in when it needs a complete resurface to make it safe for disabled residents with walking aids, 27th February :- [9015012](https://www.fixmystreet.com/report/9015012)
 - Bus stop appaers to be leaning over, 27th February :- [9014946](https://www.fixmystreet.com/report/9014946)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - X 2 large potholes & broken drain in grass verge, 27th February :- [9013232](https://www.fixmystreet.com/report/9013232)
 - Large flooded pothole on Leckhampton Rd, near The Norwood bus stop, 27th February :- [9013165](https://www.fixmystreet.com/report/9013165)
 - Road closed and diversion signs left, 27th February :- [9013045](https://www.fixmystreet.com/report/9013045)
-- Dumped road sign on the hedge, 27th February :- [9013021](https://www.fixmystreet.com/report/9013021)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 28 February 2026
 
-- The average temperature today is 6.66˚C,
-- With highs of 7.38˚C and lows of 5.94˚C,
-- It may feel like 5.08˚C with light rain
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 93%
+- The average temperature today is 6.31˚C,
+- With highs of 7.38˚C and lows of 5.93˚C,
+- It may feel like 5.11˚C with light rain
+- The wind speed is 1.79m/s and visibility is 6667m
+- The pressure is 1011hPa and humidity is 93%
 - The sun will rise at 06:56 and set at 17:45
 
 <!-- weather_marker ends -->

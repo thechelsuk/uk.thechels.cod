@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping on lane off Alstone Road, 1st March :- [9023869](https://www.fixmystreet.com/report/9023869)
+- Multiple dangerous pothole, 1st March :- [9023846](https://www.fixmystreet.com/report/9023846)
+- Speed bump, 1st March :- [9023668](https://www.fixmystreet.com/report/9023668)
+- The Gloscat traffic lights are turning red for no reason, 1st March :- [9023478](https://www.fixmystreet.com/report/9023478)
+- Pothole in road, 1st March :- [9023472](https://www.fixmystreet.com/report/9023472)
+- Green or amber traffic light is not working problem, 1st March :- [9023234](https://www.fixmystreet.com/report/9023234)
 - A run of potholes at the roadside, 1st March :- [9023153](https://www.fixmystreet.com/report/9023153)
 - A run of potholes in the gutter/verge area, 1st March :- [9023123](https://www.fixmystreet.com/report/9023123)
 - Extensive litter, 1st March :- [9023105](https://www.fixmystreet.com/report/9023105)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Flytipping rear of Hungerford St, 1st March :- [9022668](https://www.fixmystreet.com/report/9022668)
 - Flytipping in lane at the rear of Hungerford St, 1st March :- [9022643](https://www.fixmystreet.com/report/9022643)
 - Flytipped furniture, 1st March :- [9022534](https://www.fixmystreet.com/report/9022534)
-- Multi deep potholes from the mini roundabout turning from Tommy Taylor’s onto Swindon lane all the way down to the railway crossing. Whole area of this road needs completely resurfacing not just filling as they keep reappearing, 1st March :- [9022395](https://www.fixmystreet.com/report/9022395)
-- Fly tipping, 1st March :- [9022262](https://www.fixmystreet.com/report/9022262)
-- Fridge on pavement, 1st March :- [9022151](https://www.fixmystreet.com/report/9022151)
-- Washing machine on pavement, 1st March :- [9022134](https://www.fixmystreet.com/report/9022134)
-- Pothole at entrance to Clavel &Hind Brewery, 1st March :- [9022085](https://www.fixmystreet.com/report/9022085)
-- Significant pothole in road, 1st March :- [9021908](https://www.fixmystreet.com/report/9021908)
 
 <!-- fix_marker ends -->

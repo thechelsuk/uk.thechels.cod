@@ -158,13 +158,13 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 
 
-River levels are high but stable on the River Coln. Flooding of property and roads remains possible on 1 March 2026, especially nearest the River Coln in the Fossebridge and Coln St Dennis areas. The forecast is for further light rain today, 1 March 2026, with a dry day forecast tomorrow. River levels are expected to remain high and sensitive to any further rain over the coming days.
+River levels are high but stable on the River Coln. Flooding of property and roads remains possible on 1 March 2026, especially nearest the River Coln in the Fossebridge and Coln St Dennis areas. The forecast is for a largely dry night tonight, 1 March 2026, with a dry day forecast again tomorrow. River levels are expected to remain high and sensitive to any further rain over the coming days.
 
 We are closely monitoring the situation. 
 
-Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
+Activate any flood protection products you may have. Go to River levels online for updates on current river levels. Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals. 
 
-This message will be updated by 19:00 on the 1 March 2026, or as the situation changes.
+This message will be updated by 12:00 on the 2 March 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

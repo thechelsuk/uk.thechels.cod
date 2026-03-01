@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. Flooding is possible on 28 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges are stable or rising slowly.  Where rivers are rising they are expectedto peak later today. Flooding is likely to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 11:00 AM on 29 February 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 1 March 2026. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges are falling slowly. Flooding is possible at locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. We are closely monitoring the situation. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 11:00 AM on 2 March 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. 

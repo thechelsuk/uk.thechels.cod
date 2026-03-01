@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Upcycling project tackles 50 tonnes of textile waste ([3 hours ago](https://www.bbc.com/news/articles/ckg8z4kknxmo?at_medium=RSS&at_campaign=rss))
-- In pictures: 'Pygmy goats' and 'restored Aston Martin' ([3 hours ago](https://www.bbc.com/news/articles/cn5gegzzl11o?at_medium=RSS&at_campaign=rss))
-- Prison could expand to help overcrowding crisis ([15 hours ago](https://www.bbc.com/news/articles/c4gjpm1j00ko?at_medium=RSS&at_campaign=rss))
+- Upcycling project tackles 50 tonnes of textile waste ([5 hours ago](https://www.bbc.com/news/articles/ckg8z4kknxmo?at_medium=RSS&at_campaign=rss))
+- In pictures: 'Pygmy goats' and 'restored Aston Martin' ([5 hours ago](https://www.bbc.com/news/articles/cn5gegzzl11o?at_medium=RSS&at_campaign=rss))
+- Prison could expand to help overcrowding crisis ([17 hours ago](https://www.bbc.com/news/articles/c4gjpm1j00ko?at_medium=RSS&at_campaign=rss))
 - Volunteer celebrated for helping 7,000 people ([1 days ago](https://www.bbc.com/news/articles/c5y4lnl5zz9o?at_medium=RSS&at_campaign=rss))
 - West festivals release details of summer line-ups ([1 days ago](https://www.bbc.com/news/articles/c1789edplq2o?at_medium=RSS&at_campaign=rss))
 - 'Paramedic boxing champion' and 'bionic arms' ([1 days ago](https://www.bbc.com/news/articles/c627lr57lzro?at_medium=RSS&at_campaign=rss))
@@ -32,7 +32,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Mentor Link Inspires Pupils at Greatfield Park Primary School ([2 days ago](https://gloucesternewscentre.co.uk/mentor-link-inspires-pupils-at-greatfield-park-primary-school/))
 - Cheltenham council ‘not at risk of bankruptcy’, borough chief say amid finances row ([2 days ago](https://gloucesternewscentre.co.uk/cheltenham-council-not-at-risk-of-bankruptcy-borough-chief-say-amid-finances-row/))
 - Co-working space opens in major city redevelopment ([2 days ago](https://www.bbc.com/news/articles/clyzq7y66g1o?at_medium=RSS&at_campaign=rss))
-- Construction reaches 12-month milestone at Wavensmere’s £50m Arkle Court scheme in Cheltenham ([2 days ago](https://www.cheltenham.gov.uk/news/article/3103/construction_reaches_12-month_milestone_at_wavensmeres_50m_arkle_court_scheme_in_cheltenham))
+- Construction reaches 12-month milestone at Wavensmere’s £50m Arkle Court scheme in Cheltenham ([3 days ago](https://www.cheltenham.gov.uk/news/article/3103/construction_reaches_12-month_milestone_at_wavensmeres_50m_arkle_court_scheme_in_cheltenham))
 - Recycling centre closure delayed for a second time ([3 days ago](https://www.bbc.com/news/articles/c7430mde8gro?at_medium=RSS&at_campaign=rss))
 - Sensors added to major roads to spot flooding ([3 days ago](https://www.bbc.com/news/articles/cy57p2nqgx2o?at_medium=RSS&at_campaign=rss))
 - Preparations in place ahead of Cheltenham Festival ([3 days ago](https://gloucesternewscentre.co.uk/preparations-in-place-ahead-of-cheltenham-festival/))
@@ -63,7 +63,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns airport sale is ‘dragging on’ as deadline is missed ([18 days ago](https://gloucesternewscentre.co.uk/concerns-airport-sale-is-dragging-on-as-deadline-is-missed/))
 - Public consultation on council shake-up plans launched ([18 days ago](https://gloucesternewscentre.co.uk/public-consultation-on-council-shake-up-plans-launched/))
 - No Child Left Behind to launch Youth Cafe pilot in Cheltenham town centre ([19 days ago](https://www.cheltenham.gov.uk/news/article/3095/no_child_left_behind_to_launch_youth_cafe_pilot_in_cheltenham_town_centre))
-- An uplifting night of celebration at the No Child Left Behind Awards 2025 ([22 days ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
+- An uplifting night of celebration at the No Child Left Behind Awards 2025 ([23 days ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
 - Gloucestershire residents encouraged to share their views on reorganisation of councils ([23 days ago](https://www.cheltenham.gov.uk/news/article/3093/gloucestershire_residents_encouraged_to_share_their_views_on_reorganisation_of_councils))
 
 <!-- news_marker ends -->

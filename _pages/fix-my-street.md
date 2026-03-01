@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multi deep potholes from the mini roundabout turning from Tommy Taylor’s onto Swindon lane all the way down to the railway crossing. Whole area of this road needs completely resurfacing not just filling as they keep reappearing, 1st March :- [9022395](https://www.fixmystreet.com/report/9022395)
+- Fly tipping, 1st March :- [9022262](https://www.fixmystreet.com/report/9022262)
+- Fridge on pavement, 1st March :- [9022151](https://www.fixmystreet.com/report/9022151)
+- Washing machine on pavement, 1st March :- [9022134](https://www.fixmystreet.com/report/9022134)
+- Pothole at entrance to Clavel &Hind Brewery, 1st March :- [9022085](https://www.fixmystreet.com/report/9022085)
+- Significant pothole in road, 1st March :- [9021908](https://www.fixmystreet.com/report/9021908)
+- Flytipped item, 1st March :- [9021842](https://www.fixmystreet.com/report/9021842)
 - Flytipped item, 1st March :- [9021677](https://www.fixmystreet.com/report/9021677)
 - Pavement parking, 1st March :- [9021602](https://www.fixmystreet.com/report/9021602)
 - Drain blocked, excess water runs into 90 Ashland’s Road and flood garden, 1st March :- [9021474](https://www.fixmystreet.com/report/9021474)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Pothole on the road, 1st March :- [9021102](https://www.fixmystreet.com/report/9021102)
 - Pothole on the road, 1st March :- [9021084](https://www.fixmystreet.com/report/9021084)
 - 2 potholes on the road., 1st March :- [9021068](https://www.fixmystreet.com/report/9021068)
-- Massive pothole on the road., 1st March :- [9021053](https://www.fixmystreet.com/report/9021053)
-- Approx three meter section broken up with multiple potholes., 1st March :- [9021040](https://www.fixmystreet.com/report/9021040)
-- Pothole on the road., 1st March :- [9021029](https://www.fixmystreet.com/report/9021029)
-- Obstruction caused by tree problem, 1st March :- [9021114](https://www.fixmystreet.com/report/9021114)
-- By gateway, 1st March :- [9020891](https://www.fixmystreet.com/report/9020891)
-- No tarmac left, 1st March :- [9020877](https://www.fixmystreet.com/report/9020877)
-- 50” pot hole, 1st March :- [9020864](https://www.fixmystreet.com/report/9020864)
 
 <!-- fix_marker ends -->

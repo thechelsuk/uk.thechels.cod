@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Prison could expand to help overcrowding crisis ([5 hours ago](https://www.bbc.com/news/articles/c4gjpm1j00ko?at_medium=RSS&at_campaign=rss))
-- Volunteer celebrated for helping 7,000 people ([14 hours ago](https://www.bbc.com/news/articles/c5y4lnl5zz9o?at_medium=RSS&at_campaign=rss))
-- West festivals release details of summer line-ups ([18 hours ago](https://www.bbc.com/news/articles/c1789edplq2o?at_medium=RSS&at_campaign=rss))
-- 'Paramedic boxing champion' and 'bionic arms' ([18 hours ago](https://www.bbc.com/news/articles/c627lr57lzro?at_medium=RSS&at_campaign=rss))
+- Prison could expand to help overcrowding crisis ([8 hours ago](https://www.bbc.com/news/articles/c4gjpm1j00ko?at_medium=RSS&at_campaign=rss))
+- Volunteer celebrated for helping 7,000 people ([16 hours ago](https://www.bbc.com/news/articles/c5y4lnl5zz9o?at_medium=RSS&at_campaign=rss))
+- West festivals release details of summer line-ups ([20 hours ago](https://www.bbc.com/news/articles/c1789edplq2o?at_medium=RSS&at_campaign=rss))
+- 'Paramedic boxing champion' and 'bionic arms' ([20 hours ago](https://www.bbc.com/news/articles/c627lr57lzro?at_medium=RSS&at_campaign=rss))
 - Council tax hike approved for city and town ([1 days ago](https://www.bbc.com/news/articles/cewz44dv7nlo?at_medium=RSS&at_campaign=rss))
 - Council tax rise for Cheltenham residents ([1 days ago](https://gloucesternewscentre.co.uk/council-tax-rise-for-cheltenham-residents/))
 - Warning to residents after 12 targeted break-ins ([1 days ago](https://www.bbc.com/news/articles/cly2z80vp5vo?at_medium=RSS&at_campaign=rss))

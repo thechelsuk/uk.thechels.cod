@@ -12,8 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Prison could expand to help overcrowding crisis ([11 hours ago](https://www.bbc.com/news/articles/c4gjpm1j00ko?at_medium=RSS&at_campaign=rss))
-- Volunteer celebrated for helping 7,000 people ([20 hours ago](https://www.bbc.com/news/articles/c5y4lnl5zz9o?at_medium=RSS&at_campaign=rss))
+- Upcycling project tackles 50 tonnes of textile waste ([1 hours ago](https://www.bbc.com/news/articles/ckg8z4kknxmo?at_medium=RSS&at_campaign=rss))
+- In pictures: 'Pygmy goats' and 'restored Aston Martin' ([1 hours ago](https://www.bbc.com/news/articles/cn5gegzzl11o?at_medium=RSS&at_campaign=rss))
+- Prison could expand to help overcrowding crisis ([13 hours ago](https://www.bbc.com/news/articles/c4gjpm1j00ko?at_medium=RSS&at_campaign=rss))
+- Volunteer celebrated for helping 7,000 people ([22 hours ago](https://www.bbc.com/news/articles/c5y4lnl5zz9o?at_medium=RSS&at_campaign=rss))
 - West festivals release details of summer line-ups ([1 days ago](https://www.bbc.com/news/articles/c1789edplq2o?at_medium=RSS&at_campaign=rss))
 - 'Paramedic boxing champion' and 'bionic arms' ([1 days ago](https://www.bbc.com/news/articles/c627lr57lzro?at_medium=RSS&at_campaign=rss))
 - Council tax hike approved for city and town ([1 days ago](https://www.bbc.com/news/articles/cewz44dv7nlo?at_medium=RSS&at_campaign=rss))
@@ -39,8 +41,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Preparations well underway for an enjoyable Cheltenham Festival 2026 ([3 days ago](https://www.cheltenham.gov.uk/news/article/3102/preparations_well_underway_for_an_enjoyable_cheltenham_festival_2026))
 - More acts announced for Wychwood 2026 ([3 days ago](https://gloucesternewscentre.co.uk/more-acts-announced-for-wychwood-2026/))
 - Public invited to learn more about major Coombe Hill development proposals ([3 days ago](https://gloucesternewscentre.co.uk/public-invited-to-learn-more-about-major-coombe-hill-development-proposals/))
-- Century-old teddy sells for four times estimate ([4 days ago](https://www.bbc.com/news/articles/c05ve05pm9mo?at_medium=RSS&at_campaign=rss))
-- Rubbish investigators search fly-tips for clues ([4 days ago](https://www.bbc.com/news/articles/c70nx9pkydpo?at_medium=RSS&at_campaign=rss))
 - Private hire driver loses Crown Court appeal for licence ([4 days ago](https://gloucesternewscentre.co.uk/private-hire-driver-loses-crown-court-appeal-for-licence/))
 - Views sought on creation of new town council for Cheltenham ([4 days ago](https://www.cheltenham.gov.uk/news/article/3100/views_sought_on_creation_of_new_town_council_for_cheltenham))
 - Private hire driver loses Crown Court appeal for licence ([4 days ago](https://www.cheltenham.gov.uk/news/article/3099/private_hire_driver_loses_crown_court_appeal_for_licence))

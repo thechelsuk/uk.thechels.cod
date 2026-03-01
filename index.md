@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 01 March 2026
 
-- The average temperature today is 8.2˚C,
-- With highs of 8.88˚C and lows of 7.38˚C,
-- It may feel like 6.27˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
+- The average temperature today is 8.32˚C,
+- With highs of 8.73˚C and lows of 7.94˚C,
+- It may feel like 6.7˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
 - The pressure is 1014hPa and humidity is 90%
 - The sun will rise at 06:54 and set at 17:47
 

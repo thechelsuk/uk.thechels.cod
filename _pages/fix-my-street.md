@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lantern 110473 is out, 1st March :- [9019716](https://www.fixmystreet.com/report/9019716)
+- This sign has been replaced with the wrong one. It should have the arrows pointing vertically to indicate 2-way traffic straight ahead (not 2-way traffic crossing). Also it should face directly south down North Street, 28th February :- [9019698](https://www.fixmystreet.com/report/9019698)
 - Pavement falling apart, 28th February :- [9019561](https://www.fixmystreet.com/report/9019561)
 - There are numerous pot holes due to water erosion caused by run off. Can’t avoid pot hole as either side of the carriage way and also a danger to cyclists, 28th February :- [9019536](https://www.fixmystreet.com/report/9019536)
 - Deep pothole outside school entrance, 28th February :- [9019521](https://www.fixmystreet.com/report/9019521)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Two very large potholes in middle of junction, 28th February :- [9018503](https://www.fixmystreet.com/report/9018503)
 - 4" deep and large..in road and now impacting on our drive and many cars hitting it, 28th February :- [9018291](https://www.fixmystreet.com/report/9018291)
 - Loose metal drain cover in road rocks & bangs each time a vehicle passes over it. The volume has increased & I think that the range of movement has increased to match, there may come a point when it fails. I can hear it clearly day & night at the end of Chatsworth Drive, those living closer must really be disturbed by the constant noise. Also, as the movement increases the likelihood that it will become more of a hazard, damage car tyres or unseating cyclists becomes more likely., 28th February :- [9018264](https://www.fixmystreet.com/report/9018264)
-- Very deep pothole on crest of hill up to cooper's hill, 28th February :- [9018224](https://www.fixmystreet.com/report/9018224)
-- Pothole on side of road on crest of hill up to cooper's, 28th February :- [9018219](https://www.fixmystreet.com/report/9018219)
 
 <!-- fix_marker ends -->

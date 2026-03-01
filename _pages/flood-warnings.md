@@ -50,11 +50,13 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 This message will be updated by 12.00 on 2 March 2026, or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- River levels are high on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 28 February 2026, especially in the Hannington Wick area.  The forecast is for some further light rain over the weekend. River levels are expected to remain high and responsive to further rainfall over the coming days.
+- High river levels may lead to flooding.
+
+River levels are high on the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 1 March 2026, especially in the Hannington Wick area. The forecast is for further light rain today, 1 March 2026, before a dry day tomorrow. River levels are high and now stabilising. River levels are expected to remain high and responsive to further rainfall over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 29 February 2026 or as the situation changes.
+This message will be updated by 12.00 on 2 March 2026 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
@@ -75,61 +77,74 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12.00 on 2 March 2026, or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
-- Rising river levels today may lead to flooding. 
-Flooding is possible from the morning of 28 February 2026 . Further light rainfall is forecast during Saturday. 
-Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
-We are monitoring rainfall and river levels . 
-Never drive through flood water,  just 30cm of fast flowing water is enough to move your car . Avoid low lying roads near rivers, which may be flooded. 
-This message will be updated by 11:00AM on 01 March 2026 or as the situation changes.
+- River levels remain high but are slowly decreasing at the Rugby, Warwick and Stratford river gauges. Therefore, the risk of flooding will remain throughout Sunday. Some light rainfall is forecast, but no further increases are expected, we expect levels to continue to decrease.
+Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland.
+
+We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
+
+This message will be updated by 11:00 Monday 2 March or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Saturday 28th February 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
+- River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Sunday 1st March 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
 Peaks:- Mythe peaked at 4.07m on Friday morning 20th February, and Haw Bridge peaked at 5.06m on Friday morning 20th February.
-
-Further rainfall is forecast overnight. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.
-This message will be updated by 10:00AM on 1st March 2026 or as the situation changes.
+Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.
+This message will be updated by 10:00AM on 2nd March 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
 - High river levels today may lead to flooding. 
-Flooding is possible on 28 February 2026 for the next 24 hours. 
+Flooding is possible on 01 March 2026 for the next 24 hours. 
 Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. 
 We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 01 March 2026 or as the situation changes.
+This message will be updated by 10:00AM on 02 March 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- Forecast rising river levels today may lead to flooding.  Flooding is possible today, Saturday 28th February 2026. There is some uncertainty on the amount of rainfall, but there is the potential for flooding. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. 
-Predicted peaks:- Evesham 2.43m on 28/02 at 17:15, Bredon 2.66m on 01/03 at 12:00. Further rainfall is forecast overnight. We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  
-This message will be updated by 10:00AM on 1st March 2026 or as the situation changes.
+- High river levels may lead to flooding. Flooding is possible today, Sunday 1st March 2026. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. 
+Peaks: Evesham peaked yesterday 28/02, at 2.3m. Predicted peak: Bredon 2.5m to 2.7m this morning 01/03. 
+Further scattered showers are forecast. We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  
+This message will be updated by 10:00AM on 2nd March 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
 
-River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 28 February 2026. The forecast is for some further light rain over the weekend. River levels are expected to remain high and responsive to further rainfall over the coming days.
+River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 1 March 2026. The forecast is for further light rain today, 1 March 2026, before a dry day tomorrow. River levels are high and rising gradually in response to recent rainfall. River levels are expected to remain high and responsive to further rainfall over the coming days.
 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 29 February 2026 or as the situation changes.
+This message will be updated by 12.00 on 2 March 2026 or as the situation changes.
 
-- Flood alert: River Wye in Gloucestershire
-- Forecast high river levels overnight may lead to flooding.  Flooding is possible on 27 February 2026 .  Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.2m to 3.4m 28/02 PM, Lydbrook 4.0m to 4.2m 28/02 AM.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 01 March 2026 or as the situation changes.
+- Warning no longer in force: River Wye in Gloucestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Severn in Worcestershire
-- Forecast rising river levels today may lead to flooding. 
-Flooding is possible on 28 February 2026 . 
-Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Bewdley 2.72m on 28/02 PM, Worcester 3.80m on 28/02 PM, Diglis 3.34m on 28/02 PM, Kempsey Yacht Club 5.51m on 28/02 PM, Saxons Lode 4.29m on 01/03 AM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 01 March 2026 or as the situation changes.
+- High river levels may lead to flooding. Flooding is possible today Sunday 1st March 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. 
+Peaks: Bewdley peaked at 2.7m on 28/02. Predicted peaks: Worcester 3.6m to 3.7m this afternoon 01/03, Diglis 3.2m to 3.6m this afternoon 01/03, Kempsey yacht club 5.4m to  5.5m this afternoon 01/03 and Saxons Lode 4.3m to 4.5m this afternoon 01/03. 
+Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 02 March 2026 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
+- Flooding is expected for: River Severn at Severn Ham, including Abbey Mill, Upper and Lower Lode and Shakespeare Court 
+ Rising river levels are expected to cause flooding today. 
+ Flooding is expected on 01 March 2026 this afternoon and overnight. 
+ Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peaks:- at Mythe 3.6m to 3.7m on 01/03 AM Upper Pound 3.8m to 3.9m on 01/03 AM. 
+ 
+We are closely monitoring the situation . 
+ 
+Take care and avoid walking, cycling or driving through flood water . 
+ 
+This message will be updated by 10:00AM on 02 March 2026 or as the situation changes.
+
+- Flood warning: River Severn at Apperley and The Leigh
 - Rising river levels are expected to cause flooding today. 
-Flooding is expected on 28 February 2026 this afternoon and overnight. 
-Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peaks:- at Mythe 3.4m to 3.9m on 01/03 AM  Upper Pound 3.4m to 3.9m on 01/03 AM. 
+Flooding is expected on 01 March 2026 . 
+Flooding may affect Gabb Lane at Apperley and local caravan parks. Predicted peak at Haw Bridge 4.7m to 4.8m on 01/03 PM. 
 We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 01 March 2026 or as the situation changes. 
+This message will be updated by 10:00AM on 02 March 2026 or as the situation changes. 
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington.

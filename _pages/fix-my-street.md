@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No tarmac left, 1st March :- [9020877](https://www.fixmystreet.com/report/9020877)
+- 50” pot hole, 1st March :- [9020864](https://www.fixmystreet.com/report/9020864)
+- 50” pot hole, 1st March :- [9020854](https://www.fixmystreet.com/report/9020854)
+- 1m pothole plus it’s friend, 1st March :- [9020839](https://www.fixmystreet.com/report/9020839)
+- 1m pothole, 1st March :- [9020816](https://www.fixmystreet.com/report/9020816)
+- 20”pot hole, 1st March :- [9020794](https://www.fixmystreet.com/report/9020794)
+- Pothole, 1st March :- [9020712](https://www.fixmystreet.com/report/9020712)
+- 2 vans parked on single yellow line, 1st March :- [9020241](https://www.fixmystreet.com/report/9020241)
 - Cones left behind, 1st March :- [9020051](https://www.fixmystreet.com/report/9020051)
 - 3 potholes in a line, 1st March :- [9020026](https://www.fixmystreet.com/report/9020026)
 - Vespa graffiti tags on service boxes, 1st March :- [9019967](https://www.fixmystreet.com/report/9019967)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - On Alstone Lane at junction when joined by Devon Avenue. Just on Alstone lane side Give white white Lines as leaving Devon Avenue., 28th February :- [9019434](https://www.fixmystreet.com/report/9019434)
 - Massive deep pothole, 28th February :- [9019269](https://www.fixmystreet.com/report/9019269)
 - Large pothole hit on left side of vehicle. Not visible in the dark. Made loud bang driving over it, 28th February :- [9019255](https://www.fixmystreet.com/report/9019255)
-- Seriously, 28th February :- [9018985](https://www.fixmystreet.com/report/9018985)
-- Flying tipping, 28th February :- [9018974](https://www.fixmystreet.com/report/9018974)
-- There has been a no entry sign at the top of the road for well over a year but we are still getting people coming in the no entry part of the road and I fear we are going to have a nasty accident one day, I have reported this previously, when stopping vehicles and telling them they have come through a no entry they tell me they didn't see any signs, they are too small and not facing the correct way for oncoming traffic to see them, 28th February :- [9018939](https://www.fixmystreet.com/report/9018939)
-- Massive pot holes that need re surfacing immediately, 28th February :- [9018905](https://www.fixmystreet.com/report/9018905)
-- Large amount of mud, debris and stuff growing in the gutter, 28th February :- [9018850](https://www.fixmystreet.com/report/9018850)
-- Road sweeping needed for gravel, 28th February :- [9018840](https://www.fixmystreet.com/report/9018840)
-- Large pothole entering Cleevelands Drive, 28th February :- [9018827](https://www.fixmystreet.com/report/9018827)
-- Trolley, 28th February :- [9018766](https://www.fixmystreet.com/report/9018766)
 
 <!-- fix_marker ends -->

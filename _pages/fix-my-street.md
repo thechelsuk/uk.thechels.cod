@@ -9,8 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Huge potholes impossible to avoid. Today child’s bike wheel lodged into hole., 1st March :- [9024246](https://www.fixmystreet.com/report/9024246)
+- Very large pothole close to pedestrian crossing, 1st March :- [9024212](https://www.fixmystreet.com/report/9024212)
 - Flytipping on lane off Alstone Road, 1st March :- [9023869](https://www.fixmystreet.com/report/9023869)
 - Multiple dangerous pothole, 1st March :- [9023846](https://www.fixmystreet.com/report/9023846)
+- Drain grills in ditch blocked Greenway lane, 1st March :- [9023802](https://www.fixmystreet.com/report/9023802)
 - Speed bump, 1st March :- [9023668](https://www.fixmystreet.com/report/9023668)
 - The Gloscat traffic lights are turning red for no reason, 1st March :- [9023478](https://www.fixmystreet.com/report/9023478)
 - Pothole in road, 1st March :- [9023472](https://www.fixmystreet.com/report/9023472)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Serval small pots holes with a large 70 cm pothole. before then car dealerahipa, 1st March :- [9022959](https://www.fixmystreet.com/report/9022959)
 - 5cm pothole in middle of road, 1st March :- [9022879](https://www.fixmystreet.com/report/9022879)
 - Large & deep pothole, 1st March :- [9022835](https://www.fixmystreet.com/report/9022835)
-- Flytipping rear of Hungerford St, 1st March :- [9022668](https://www.fixmystreet.com/report/9022668)
-- Flytipping in lane at the rear of Hungerford St, 1st March :- [9022643](https://www.fixmystreet.com/report/9022643)
-- Flytipped furniture, 1st March :- [9022534](https://www.fixmystreet.com/report/9022534)
 
 <!-- fix_marker ends -->

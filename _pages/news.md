@@ -12,11 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- US likely to use RAF Fairford for strikes on Iranian missile sites, BBC understands ([1 hours ago](https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss))
-- Cheltenham residents encouraged to ‘Pop to Cheltenham’ and support local businesses during Cheltenham Festival ([1 hours ago](https://www.cheltenham.gov.uk/news/article/3106/cheltenham_residents_encouraged_to_pop_to_cheltenham_and_support_local_businesses_during_cheltenham_festival))
-- Women connect over sustainable sewing project ([4 hours ago](https://www.bbc.com/news/articles/c3dzp9vly73o?at_medium=RSS&at_campaign=rss))
-- Warning as key route closes overnight for revamp ([4 hours ago](https://www.bbc.com/news/articles/cy4w012n2m0o?at_medium=RSS&at_campaign=rss))
-- Attack suspected after man left with brain bleed ([21 hours ago](https://www.bbc.com/news/articles/c07j5my900vo?at_medium=RSS&at_campaign=rss))
+- Why is RAF Fairford likely to be used in Iran conflict? ([15 minutes ago](https://www.bbc.com/news/articles/c62drgvk263o?at_medium=RSS&at_campaign=rss))
+- US likely to use RAF Fairford for strikes on Iranian missile sites, BBC understands ([56 minutes ago](https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss))
+- Cheltenham residents encouraged to ‘Pop to Cheltenham’ and support local businesses during Cheltenham Festival ([3 hours ago](https://www.cheltenham.gov.uk/news/article/3106/cheltenham_residents_encouraged_to_pop_to_cheltenham_and_support_local_businesses_during_cheltenham_festival))
+- Women connect over sustainable sewing project ([6 hours ago](https://www.bbc.com/news/articles/c3dzp9vly73o?at_medium=RSS&at_campaign=rss))
+- Warning as key route closes overnight for revamp ([6 hours ago](https://www.bbc.com/news/articles/cy4w012n2m0o?at_medium=RSS&at_campaign=rss))
+- Attack suspected after man left with brain bleed ([1 days ago](https://www.bbc.com/news/articles/c07j5my900vo?at_medium=RSS&at_campaign=rss))
 - Upcycling project tackles 50 tonnes of textile waste ([1 days ago](https://www.bbc.com/news/articles/ckg8z4kknxmo?at_medium=RSS&at_campaign=rss))
 - In pictures: 'Pygmy goats' and 'restored Aston Martin' ([1 days ago](https://www.bbc.com/news/articles/cn5gegzzl11o?at_medium=RSS&at_campaign=rss))
 - Prison could expand to help overcrowding crisis ([1 days ago](https://www.bbc.com/news/articles/c4gjpm1j00ko?at_medium=RSS&at_campaign=rss))
@@ -36,8 +37,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Mentor Link Inspires Pupils at Greatfield Park Primary School ([3 days ago](https://gloucesternewscentre.co.uk/mentor-link-inspires-pupils-at-greatfield-park-primary-school/))
 - Cheltenham council ‘not at risk of bankruptcy’, borough chief say amid finances row ([3 days ago](https://gloucesternewscentre.co.uk/cheltenham-council-not-at-risk-of-bankruptcy-borough-chief-say-amid-finances-row/))
 - Co-working space opens in major city redevelopment ([3 days ago](https://www.bbc.com/news/articles/clyzq7y66g1o?at_medium=RSS&at_campaign=rss))
-- Construction reaches 12-month milestone at Wavensmere’s £50m Arkle Court scheme in Cheltenham ([3 days ago](https://www.cheltenham.gov.uk/news/article/3103/construction_reaches_12-month_milestone_at_wavensmeres_50m_arkle_court_scheme_in_cheltenham))
-- Sensors added to major roads to spot flooding ([4 days ago](https://www.bbc.com/news/articles/cy57p2nqgx2o?at_medium=RSS&at_campaign=rss))
+- Construction reaches 12-month milestone at Wavensmere’s £50m Arkle Court scheme in Cheltenham ([4 days ago](https://www.cheltenham.gov.uk/news/article/3103/construction_reaches_12-month_milestone_at_wavensmeres_50m_arkle_court_scheme_in_cheltenham))
 - Preparations in place ahead of Cheltenham Festival ([4 days ago](https://gloucesternewscentre.co.uk/preparations-in-place-ahead-of-cheltenham-festival/))
 - Preparations well underway for an enjoyable Cheltenham Festival 2026 ([4 days ago](https://www.cheltenham.gov.uk/news/article/3102/preparations_well_underway_for_an_enjoyable_cheltenham_festival_2026))
 - More acts announced for Wychwood 2026 ([4 days ago](https://gloucesternewscentre.co.uk/more-acts-announced-for-wychwood-2026/))
@@ -64,7 +64,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Concerns airport sale is ‘dragging on’ as deadline is missed ([19 days ago](https://gloucesternewscentre.co.uk/concerns-airport-sale-is-dragging-on-as-deadline-is-missed/))
 - Public consultation on council shake-up plans launched ([19 days ago](https://gloucesternewscentre.co.uk/public-consultation-on-council-shake-up-plans-launched/))
 - No Child Left Behind to launch Youth Cafe pilot in Cheltenham town centre ([20 days ago](https://www.cheltenham.gov.uk/news/article/3095/no_child_left_behind_to_launch_youth_cafe_pilot_in_cheltenham_town_centre))
-- An uplifting night of celebration at the No Child Left Behind Awards 2025 ([23 days ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
+- An uplifting night of celebration at the No Child Left Behind Awards 2025 ([24 days ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
 - Gloucestershire residents encouraged to share their views on reorganisation of councils ([24 days ago](https://www.cheltenham.gov.uk/news/article/3093/gloucestershire_residents_encouraged_to_share_their_views_on_reorganisation_of_councils))
 
 <!-- news_marker ends -->

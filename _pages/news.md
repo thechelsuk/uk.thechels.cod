@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Attack suspected after man left with brain bleed ([12 hours ago](https://www.bbc.com/news/articles/c07j5my900vo?at_medium=RSS&at_campaign=rss))
-- Upcycling project tackles 50 tonnes of textile waste ([17 hours ago](https://www.bbc.com/news/articles/ckg8z4kknxmo?at_medium=RSS&at_campaign=rss))
-- In pictures: 'Pygmy goats' and 'restored Aston Martin' ([18 hours ago](https://www.bbc.com/news/articles/cn5gegzzl11o?at_medium=RSS&at_campaign=rss))
+- Attack suspected after man left with brain bleed ([14 hours ago](https://www.bbc.com/news/articles/c07j5my900vo?at_medium=RSS&at_campaign=rss))
+- Upcycling project tackles 50 tonnes of textile waste ([20 hours ago](https://www.bbc.com/news/articles/ckg8z4kknxmo?at_medium=RSS&at_campaign=rss))
+- In pictures: 'Pygmy goats' and 'restored Aston Martin' ([20 hours ago](https://www.bbc.com/news/articles/cn5gegzzl11o?at_medium=RSS&at_campaign=rss))
 - Prison could expand to help overcrowding crisis ([1 days ago](https://www.bbc.com/news/articles/c4gjpm1j00ko?at_medium=RSS&at_campaign=rss))
 - Volunteer celebrated for helping 7,000 people ([1 days ago](https://www.bbc.com/news/articles/c5y4lnl5zz9o?at_medium=RSS&at_campaign=rss))
 - West festivals release details of summer line-ups ([1 days ago](https://www.bbc.com/news/articles/c1789edplq2o?at_medium=RSS&at_campaign=rss))

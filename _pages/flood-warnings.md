@@ -37,6 +37,15 @@ Further scattered showers are forecast. We are closely monitoring the situation.
 
 This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
 
+- Flood alert: Severn estuary from Gloucester to Sharpness
+- High tides today may lead to flooding. 
+Flooding is possible from 16:00 and overnight  on Monday 02/03/26 
+Locations most affected will be low lying land and roads near rivers or on the coast. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next couple of days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.5m on 02/03 PM and Gloucester 3.5m to 3.7m on 02/03 PM. 
+We are closely monitoring the situation . 
+Avoid coastal roads, footpaths and carparks, which may be flooded . 
+This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
+
+
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. 
 
@@ -151,8 +160,12 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 
 This message will be updated by 11:00 Monday 2 March or as the situation changes.
 
-- Flood warning: River Severn at Apperley and The Leigh
-- High river levels may cause flooding today. Flooding is expected today 02 March 2026. Flooding may affect Gabb Lane at Apperley and local caravan parks. Peak at Haw Bridge 4.7m on 01/03 PM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
+- Warning no longer in force: River Severn at Apperley and The Leigh
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 

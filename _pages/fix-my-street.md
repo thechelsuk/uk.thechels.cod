@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Beginning to crumble, 2nd March :- [9025609](https://www.fixmystreet.com/report/9025609)
+- The potholes that have formed are very dangerous to the road users as the road is a 50. This road has blown my tyre and also it is very bumpy as you drive across it. The road has recently been fixed but the potholes have resurfaced., 2nd March :- [9025523](https://www.fixmystreet.com/report/9025523)
+- Car park sign post pointing in wrong direction, 2nd March :- [9025243](https://www.fixmystreet.com/report/9025243)
+- Near roundabout on newly surfaced area already crumbling and road surface very rough over several metres., 2nd March :- [9025117](https://www.fixmystreet.com/report/9025117)
+- Series of potholes across road. Recent patch failure, 2nd March :- [9025046](https://www.fixmystreet.com/report/9025046)
+- Severely damaged pavement, 2nd March :- [9025042](https://www.fixmystreet.com/report/9025042)
 - Large pothole next to drain grille, 2nd March :- [9024807](https://www.fixmystreet.com/report/9024807)
 - Huge potholes impossible to avoid. Today child’s bike wheel lodged into hole., 1st March :- [9024246](https://www.fixmystreet.com/report/9024246)
 - Very large pothole close to pedestrian crossing, 1st March :- [9024212](https://www.fixmystreet.com/report/9024212)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - A run of potholes in the gutter/verge area, 1st March :- [9023123](https://www.fixmystreet.com/report/9023123)
 - Extensive litter, 1st March :- [9023105](https://www.fixmystreet.com/report/9023105)
 - Massive hole ruins my tyres, 1st March :- [9023092](https://www.fixmystreet.com/report/9023092)
-- Pothole, 1st March :- [9023036](https://www.fixmystreet.com/report/9023036)
-- Wide 15 inch pothole in marsh lane., 1st March :- [9023031](https://www.fixmystreet.com/report/9023031)
-- Small but deep 5inch ish pothole., 1st March :- [9023017](https://www.fixmystreet.com/report/9023017)
-- 33 inch long pothole on enterance to marsh garden/lane, 1st March :- [9023003](https://www.fixmystreet.com/report/9023003)
-- Serval small pots holes with a large 70 cm pothole. before then car dealerahipa, 1st March :- [9022959](https://www.fixmystreet.com/report/9022959)
-- 5cm pothole in middle of road, 1st March :- [9022879](https://www.fixmystreet.com/report/9022879)
 
 <!-- fix_marker ends -->

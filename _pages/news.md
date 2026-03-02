@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Women connect over sustainable sewing project ([48 minutes ago](https://www.bbc.com/news/articles/c3dzp9vly73o?at_medium=RSS&at_campaign=rss))
-- Warning as key route closes overnight for revamp ([52 minutes ago](https://www.bbc.com/news/articles/cy4w012n2m0o?at_medium=RSS&at_campaign=rss))
-- US likely to use RAF Fairford for strikes on Iranian missile sites, BBC understands ([8 hours ago](https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss))
-- Attack suspected after man left with brain bleed ([18 hours ago](https://www.bbc.com/news/articles/c07j5my900vo?at_medium=RSS&at_campaign=rss))
-- Upcycling project tackles 50 tonnes of textile waste ([23 hours ago](https://www.bbc.com/news/articles/ckg8z4kknxmo?at_medium=RSS&at_campaign=rss))
-- In pictures: 'Pygmy goats' and 'restored Aston Martin' ([23 hours ago](https://www.bbc.com/news/articles/cn5gegzzl11o?at_medium=RSS&at_campaign=rss))
+- US likely to use RAF Fairford for strikes on Iranian missile sites, BBC understands ([1 hours ago](https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss))
+- Women connect over sustainable sewing project ([2 hours ago](https://www.bbc.com/news/articles/c3dzp9vly73o?at_medium=RSS&at_campaign=rss))
+- Warning as key route closes overnight for revamp ([2 hours ago](https://www.bbc.com/news/articles/cy4w012n2m0o?at_medium=RSS&at_campaign=rss))
+- Attack suspected after man left with brain bleed ([19 hours ago](https://www.bbc.com/news/articles/c07j5my900vo?at_medium=RSS&at_campaign=rss))
+- Upcycling project tackles 50 tonnes of textile waste ([1 days ago](https://www.bbc.com/news/articles/ckg8z4kknxmo?at_medium=RSS&at_campaign=rss))
+- In pictures: 'Pygmy goats' and 'restored Aston Martin' ([1 days ago](https://www.bbc.com/news/articles/cn5gegzzl11o?at_medium=RSS&at_campaign=rss))
 - Prison could expand to help overcrowding crisis ([1 days ago](https://www.bbc.com/news/articles/c4gjpm1j00ko?at_medium=RSS&at_campaign=rss))
 - West festivals release details of summer line-ups ([2 days ago](https://www.bbc.com/news/articles/c1789edplq2o?at_medium=RSS&at_campaign=rss))
 - 'Paramedic boxing champion' and 'bionic arms' ([2 days ago](https://www.bbc.com/news/articles/c627lr57lzro?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Big pothole on approach to Robert Burns Ave., 2nd March :- [9032284](https://www.fixmystreet.com/report/9032284)
+- ! Large and lots of potholes on this stretch of road, 2nd March :- [9032262](https://www.fixmystreet.com/report/9032262)
+- Pothole in pavement on Kayte Lane outside Field House, 2nd March :- [9032259](https://www.fixmystreet.com/report/9032259)
+- Extremely large and deep pot hole, multiple along this road, 2nd March :- [9032245](https://www.fixmystreet.com/report/9032245)
+- Pothole in road hit, 2nd March :- [9032030](https://www.fixmystreet.com/report/9032030)
+- Large sharp edge pot hole left hand side of road just after the railway bridge as if going towards Winchcombe direction, 2nd March :- [9031957](https://www.fixmystreet.com/report/9031957)
 - Lots of dead branches from trees/bushes just left hanging over, 2nd March :- [9031548](https://www.fixmystreet.com/report/9031548)
 - Multiple potholes here could cause serious damage to a vehicle, 2nd March :- [9031330](https://www.fixmystreet.com/report/9031330)
 - There are multiple potholes along Brookfield Road. It’s terrible. Cars have to swerve to miss them, 2nd March :- [9031317](https://www.fixmystreet.com/report/9031317)
@@ -21,13 +27,7 @@ permalink: /fix-my-street
 - Manhole cover loose rattling noise, 2nd March :- [9030885](https://www.fixmystreet.com/report/9030885)
 - Uneven and wobbly paving slab outside the entrance to the Co-op store. Dangerous for public., 2nd March :- [9030864](https://www.fixmystreet.com/report/9030864)
 - A pothole in road problem, 2nd March :- [9030948](https://www.fixmystreet.com/report/9030948)
-- TMC - Defects -CW6 Potholes  problem, 2nd March :- [9030633](https://www.fixmystreet.com/report/9030633)
 - TMC - Defects -CW6 Potholes  problem, 2nd March :- [9030634](https://www.fixmystreet.com/report/9030634)
-- TMC - Defects -CW6 Potholes  problem, 2nd March :- [9030632](https://www.fixmystreet.com/report/9030632)
-- TMC - Defects -CW6 Potholes  problem, 2nd March :- [9030628](https://www.fixmystreet.com/report/9030628)
-- TMC - Defects -CW6 Potholes  problem, 2nd March :- [9030627](https://www.fixmystreet.com/report/9030627)
-- TMC - Defects - Covers, Gratings & Frames problem, 2nd March :- [9030626](https://www.fixmystreet.com/report/9030626)
-- A pothole in road problem, 2nd March :- [9030593](https://www.fixmystreet.com/report/9030593)
-- A pothole in road problem, 2nd March :- [9030592](https://www.fixmystreet.com/report/9030592)
+- TMC - Defects -CW6 Potholes  problem, 2nd March :- [9030633](https://www.fixmystreet.com/report/9030633)
 
 <!-- fix_marker ends -->

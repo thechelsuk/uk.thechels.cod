@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unavoidable potholes on left lane, 2nd March :- [9033014](https://www.fixmystreet.com/report/9033014)
+- Small but deep pothole on centre white line, 2nd March :- [9032854](https://www.fixmystreet.com/report/9032854)
+- Large collection of potholes - not fixed - just blown 2 tyres, 2nd March :- [9032614](https://www.fixmystreet.com/report/9032614)
 - Big pothole on approach to Robert Burns Ave., 2nd March :- [9032284](https://www.fixmystreet.com/report/9032284)
 - ! Large and lots of potholes on this stretch of road, 2nd March :- [9032262](https://www.fixmystreet.com/report/9032262)
 - Pothole in pavement on Kayte Lane outside Field House, 2nd March :- [9032259](https://www.fixmystreet.com/report/9032259)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - From Gotherington crossroads on main Chelt to Evesham Road going towards the travellers site., 2nd March :- [9030896](https://www.fixmystreet.com/report/9030896)
 - Manhole cover loose rattling noise, 2nd March :- [9030885](https://www.fixmystreet.com/report/9030885)
 - Uneven and wobbly paving slab outside the entrance to the Co-op store. Dangerous for public., 2nd March :- [9030864](https://www.fixmystreet.com/report/9030864)
-- A pothole in road problem, 2nd March :- [9030948](https://www.fixmystreet.com/report/9030948)
-- TMC - Defects -CW6 Potholes  problem, 2nd March :- [9030634](https://www.fixmystreet.com/report/9030634)
-- TMC - Defects -CW6 Potholes  problem, 2nd March :- [9030633](https://www.fixmystreet.com/report/9030633)
 
 <!-- fix_marker ends -->

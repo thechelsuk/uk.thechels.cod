@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 02 March 2026
 
-- The average temperature today is 11.51˚C,
-- With highs of 11.75˚C and lows of 11.03˚C,
-- It may feel like 10.75˚C with few clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 78%
+- The average temperature today is 9.19˚C,
+- With highs of 10.16˚C and lows of 8.62˚C,
+- It may feel like 9.19˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 90%
 - The sun will rise at 06:52 and set at 17:48
 
 <!-- weather_marker ends -->

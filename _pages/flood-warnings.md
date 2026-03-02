@@ -38,13 +38,17 @@ Further scattered showers are forecast. We are closely monitoring the situation.
 This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
-- High tides today may lead to flooding. 
-Flooding is possible from 16:00 and overnight  on Monday 02/03/26 
-Locations most affected will be low lying land and roads near rivers or on the coast. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next couple of days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.5m on 02/03 PM and Gloucester 3.5m to 3.7m on 02/03 PM. 
-We are closely monitoring the situation . 
-Avoid coastal roads, footpaths and carparks, which may be flooded . 
-This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
+- High tides today may lead to flooding.  
 
+Flooding is possible from 16:00 and overnight on Monday 02/03/26  
+
+Locations most affected will be low lying land and roads near rivers or on the coast. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next couple of days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.5m on 02/03 PM and Gloucester 3.1m to 3.3m on 02/03 PM.  
+
+We are closely monitoring the situation .  
+
+Avoid coastal roads, footpaths and carparks, which may be flooded .  
+
+This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. 
@@ -124,12 +128,12 @@ We will continue to monitor the situation and will issue further alerts or warni
 If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
-- Flood alert: River Severn in Worcestershire
-- High river levels may lead to flooding. Flooding is possible today Monday 02 March 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn.  
+- Warning no longer in force: River Severn in Worcestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Peaks: Bewdley peaked at 2.7m on 28/02, Worcester 3.6m on 01/03, Diglis 3.2m on 01/03, Kempsey yacht club 5.4m on 01/03 and Saxons Lode 4.3m on 01/03.  
-
-Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding. 
@@ -153,12 +157,10 @@ This message will be updated by 12.00 on 3 March 2026, or as the situation chang
 - River levels are still high and may cause flooding today.  Flooding is expected on today, Monday 02 March 2026.  Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peaks:- Mythe 3.6m on 01/03, Upper Pound 3.8m on 01/03.  Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
-- River levels remain high but are slowly decreasing at the Rugby, Warwick and Stratford river gauges. Therefore, the risk of flooding will remain throughout Sunday. Some light rainfall is forecast, but no further increases are expected, we expect levels to continue to decrease.
-Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland.
-
-We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
-
-This message will be updated by 11:00 Monday 2 March or as the situation changes.
+- River levels continue to decrease along the Avon. Upstream area like Rugby and Warwick have returned to normal levels, however Stratford upon Avon remains elevated. Whilst the level at Stratford is decreasing the risk of flooding continues and will remain into Tuesday.
+Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland.
+We continue to closely monitor the situation. Avoid using low lying footpaths and any bridges near local watercourses. Stay away from flood water - it contains hidden dangers such as open manhole covers, sewage and chemicals.  
+This message will be updated by 1100 Tuesday 3 March or as the situation changes.
 
 - Warning no longer in force: River Severn at Apperley and The Leigh
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

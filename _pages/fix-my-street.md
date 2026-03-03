@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bollard in the middle of Tewkesbury Road, Cheltenham is leaning at 45 degtees, 3rd March :- [9033686](https://www.fixmystreet.com/report/9033686)
+- Sign misaligned on street light column 38 Bath Road, Cheltenham, 3rd March :- [9033683](https://www.fixmystreet.com/report/9033683)
+- Light out on No entry sign 110656, 3rd March :- [9033675](https://www.fixmystreet.com/report/9033675)
 - Unavoidable potholes on left lane, 2nd March :- [9033014](https://www.fixmystreet.com/report/9033014)
 - Small but deep pothole on centre white line, 2nd March :- [9032854](https://www.fixmystreet.com/report/9032854)
 - Large collection of potholes - not fixed - just blown 2 tyres, 2nd March :- [9032614](https://www.fixmystreet.com/report/9032614)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - 50cm wide very deep. Someone has put a cone in it now., 2nd March :- [9031246](https://www.fixmystreet.com/report/9031246)
 - A pothole in road problem, 2nd March :- [9031535](https://www.fixmystreet.com/report/9031535)
 - The drain is blocked problem, 2nd March :- [9031533](https://www.fixmystreet.com/report/9031533)
-- From Gotherington crossroads on main Chelt to Evesham Road going towards the travellers site., 2nd March :- [9030896](https://www.fixmystreet.com/report/9030896)
-- Manhole cover loose rattling noise, 2nd March :- [9030885](https://www.fixmystreet.com/report/9030885)
-- Uneven and wobbly paving slab outside the entrance to the Co-op store. Dangerous for public., 2nd March :- [9030864](https://www.fixmystreet.com/report/9030864)
 
 <!-- fix_marker ends -->

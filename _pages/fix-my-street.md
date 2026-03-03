@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3/4 potholes on this road right on the bends, 3rd March :- [9040182](https://www.fixmystreet.com/report/9040182)
+- 2 very large potholes, 3rd March :- [9040163](https://www.fixmystreet.com/report/9040163)
+- 12 inch pothole outside number 36 long mynd avenue, 3rd March :- [9040018](https://www.fixmystreet.com/report/9040018)
+- Sign post with village way waymarkers missing, 3rd March :- [9039972](https://www.fixmystreet.com/report/9039972)
+- Previous FixMyStreet ref: 8477084 repair has failed, 3rd March :- [9039950](https://www.fixmystreet.com/report/9039950)
+- Temporary road barrier lying in the road causing an obstruction. Very hard to see when entering Painswick Road off Suffolk Road, 3rd March :- [9039918](https://www.fixmystreet.com/report/9039918)
+- Flytipped items, 3rd March :- [9039812](https://www.fixmystreet.com/report/9039812)
+- All the manhole covers rattle, 3rd March :- [9039738](https://www.fixmystreet.com/report/9039738)
+- Two potholes, 3rd March :- [9039736](https://www.fixmystreet.com/report/9039736)
+- Potholes, 3rd March :- [9039657](https://www.fixmystreet.com/report/9039657)
+- No visibility, 3rd March :- [9039652](https://www.fixmystreet.com/report/9039652)
+- Only fixed half?, 3rd March :- [9039651](https://www.fixmystreet.com/report/9039651)
 - A pothole in road problem, 3rd March :- [9039231](https://www.fixmystreet.com/report/9039231)
 - Unpermitted roadworks problem, 3rd March :- [9039228](https://www.fixmystreet.com/report/9039228)
 - Almost the whole length of the A46 from Brockworth X Hands to Fiddlers Elbow requires resurfacing. The surface is so broken that it becoming impossible to keep momentum on a road bike., 3rd March :- [9039038](https://www.fixmystreet.com/report/9039038)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 3rd March :- [9038743](https://www.fixmystreet.com/report/9038743)
 - Multiple pot holes after the railway bridge heading towards the airport just before the turning to the Reddings, 3rd March :- [9038522](https://www.fixmystreet.com/report/9038522)
 - A pothole that hasn’t sometime been filled in but now deep again & hard to avoid, 3rd March :- [9038514](https://www.fixmystreet.com/report/9038514)
-- Green or amber traffic light is not working problem, 3rd March :- [9038687](https://www.fixmystreet.com/report/9038687)
-- TMC - Defects -CW6 Potholes  problem, 3rd March :- [9038737](https://www.fixmystreet.com/report/9038737)
-- More craters than the moon!, 3rd March :- [9038463](https://www.fixmystreet.com/report/9038463)
-- A manhole making a lot of noise as you go over it so must be very loose, 3rd March :- [9038434](https://www.fixmystreet.com/report/9038434)
-- Large Pothole in road will cause a crash before long as cars trying to aviod, 3rd March :- [9038420](https://www.fixmystreet.com/report/9038420)
-- Multiple holes on the bend heading towards Badgeworth, 3rd March :- [9038397](https://www.fixmystreet.com/report/9038397)
-- Pothole near the speed bump, 3rd March :- [9038352](https://www.fixmystreet.com/report/9038352)
-- Potholes getting bigger daily, 3rd March :- [9038313](https://www.fixmystreet.com/report/9038313)
-- Large pot hole before Chosen hill school will cause a collision soon as cars are having to drive on teh other side of the road to get past this hole, 3rd March :- [9038249](https://www.fixmystreet.com/report/9038249)
-- A pothole in road problem, 3rd March :- [9038686](https://www.fixmystreet.com/report/9038686)
-- Post or sign leaning slightly (less than 20 degrees) problem, 3rd March :- [9038683](https://www.fixmystreet.com/report/9038683)
-- A pothole in road problem, 3rd March :- [9038685](https://www.fixmystreet.com/report/9038685)
 
 <!-- fix_marker ends -->

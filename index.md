@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 03 March 2026
 
-- The average temperature today is 11.77˚C,
-- With highs of 12.04˚C and lows of 11.5˚C,
-- It may feel like 11.04˚C with overcast clouds
+- The average temperature today is 11.13˚C,
+- With highs of 11.66˚C and lows of 10.16˚C,
+- It may feel like 10.39˚C with overcast clouds
 - The wind speed is 2.57m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 78%
+- The pressure is 1027hPa and humidity is 80%
 - The sun will rise at 06:50 and set at 17:50
 
 <!-- weather_marker ends -->

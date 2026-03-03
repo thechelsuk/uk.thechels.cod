@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole outside 21 Brooklyn Rd, 3rd March :- [9040909](https://www.fixmystreet.com/report/9040909)
 - Pothole approx 4 inches deep and 20 inches wide, 3rd March :- [9040597](https://www.fixmystreet.com/report/9040597)
 - Excessive Rubbish and car debris on verge, 3rd March :- [9040592](https://www.fixmystreet.com/report/9040592)
 - Abandoned caravan, 3rd March :- [9040515](https://www.fixmystreet.com/report/9040515)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 3rd March :- [9039231](https://www.fixmystreet.com/report/9039231)
 - Unpermitted roadworks problem, 3rd March :- [9039228](https://www.fixmystreet.com/report/9039228)
 - Almost the whole length of the A46 from Brockworth X Hands to Fiddlers Elbow requires resurfacing. The surface is so broken that it becoming impossible to keep momentum on a road bike., 3rd March :- [9039038](https://www.fixmystreet.com/report/9039038)
-- Only one of the many potholes has been repaired., 3rd March :- [9038818](https://www.fixmystreet.com/report/9038818)
 
 <!-- fix_marker ends -->

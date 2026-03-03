@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole approx 4 inches deep and 20 inches wide, 3rd March :- [9040597](https://www.fixmystreet.com/report/9040597)
+- Excessive Rubbish and car debris on verge, 3rd March :- [9040592](https://www.fixmystreet.com/report/9040592)
+- Abandoned caravan, 3rd March :- [9040515](https://www.fixmystreet.com/report/9040515)
+- Large pothole, 3rd March :- [9040240](https://www.fixmystreet.com/report/9040240)
 - 3/4 potholes on this road right on the bends, 3rd March :- [9040182](https://www.fixmystreet.com/report/9040182)
 - 2 very large potholes, 3rd March :- [9040163](https://www.fixmystreet.com/report/9040163)
 - 12 inch pothole outside number 36 long mynd avenue, 3rd March :- [9040018](https://www.fixmystreet.com/report/9040018)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Unpermitted roadworks problem, 3rd March :- [9039228](https://www.fixmystreet.com/report/9039228)
 - Almost the whole length of the A46 from Brockworth X Hands to Fiddlers Elbow requires resurfacing. The surface is so broken that it becoming impossible to keep momentum on a road bike., 3rd March :- [9039038](https://www.fixmystreet.com/report/9039038)
 - Only one of the many potholes has been repaired., 3rd March :- [9038818](https://www.fixmystreet.com/report/9038818)
-- A pothole at the end of Bayshill Lane has been repaired in such a shoddy fashion that half of it is still there., 3rd March :- [9038785](https://www.fixmystreet.com/report/9038785)
-- TMC - Defects - Other problem, 3rd March :- [9038743](https://www.fixmystreet.com/report/9038743)
-- Multiple pot holes after the railway bridge heading towards the airport just before the turning to the Reddings, 3rd March :- [9038522](https://www.fixmystreet.com/report/9038522)
-- A pothole that hasn’t sometime been filled in but now deep again & hard to avoid, 3rd March :- [9038514](https://www.fixmystreet.com/report/9038514)
 
 <!-- fix_marker ends -->

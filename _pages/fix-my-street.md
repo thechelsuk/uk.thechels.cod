@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole near junction, 3rd March :- [9034080](https://www.fixmystreet.com/report/9034080)
 - Bollard in the middle of Tewkesbury Road, Cheltenham is leaning at 45 degtees, 3rd March :- [9033686](https://www.fixmystreet.com/report/9033686)
 - Sign misaligned on street light column 38 Bath Road, Cheltenham, 3rd March :- [9033683](https://www.fixmystreet.com/report/9033683)
 - Light out on No entry sign 110656, 3rd March :- [9033675](https://www.fixmystreet.com/report/9033675)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Rubble and gravel left after pot hole repair, 2nd March :- [9031254](https://www.fixmystreet.com/report/9031254)
 - 50cm wide very deep. Someone has put a cone in it now., 2nd March :- [9031246](https://www.fixmystreet.com/report/9031246)
 - A pothole in road problem, 2nd March :- [9031535](https://www.fixmystreet.com/report/9031535)
-- The drain is blocked problem, 2nd March :- [9031533](https://www.fixmystreet.com/report/9031533)
 
 <!-- fix_marker ends -->

@@ -38,26 +38,16 @@ Further scattered showers are forecast. We are closely monitoring the situation.
 This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
-- High tides today may lead to flooding.  
-
-Flooding is possible from 16:00 and overnight on Monday 02/03/26  
-
-Locations most affected will be low lying land and roads near rivers or on the coast. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next couple of days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.5m on 02/03 PM and Gloucester 3.1m to 3.3m on 02/03 PM.  
-
-We are closely monitoring the situation .  
-
-Avoid coastal roads, footpaths and carparks, which may be flooded .  
-
-This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
+- High tides today may lead to flooding.  Flooding is possible from today and overnight on Tuesday 03/03/26  Locations most affected will be low lying land and roads near rivers or on the coast. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next couple of days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.5m on 03/03 PM and Gloucester 3.3m to 3.5m on 03/03 PM.  We are closely monitoring the situation .  Avoid coastal roads, footpaths and carparks, which may be flooded .  This message will be updated by 10:00AM on 04 March 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. 
 
-River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 2 March 2026, especially near Cerney Wick. The forecast is for a dry day today. then remaining dry for the next few days. Levels remain high but stable. We expect levels to decrease over the coming days.
+River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 3 March 2026, especially near Cerney Wick. The forecast is to remain dry today and for the next few days. Levels remain high but stable. We expect levels to decrease over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 3 March 2026, or as the situation changes.
+This message will be updated by 12.00 on 4 March 2026, or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding. 
@@ -105,28 +95,14 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12.00 on 3 March 2026, or as the situation changes.
 
-- Warning no longer in force: River Leadon catchment
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Avon in Worcestershire
-- High river levels may lead to flooding. Flooding is possible today, Monday 02 March 2026. There is some uncertainty on the amount of rainfall, but there is the potential for flooding. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted.  
+- High river levels may lead to flooding. Flooding is possible today, Tuesday 3rd March 2026.  Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted.  
 
-Peaks: Evesham peaked Saturday 28/02, at 2.3m. Predicted peak: Bredon 2.6m Sunday 01/03. 
+Peaks: Evesham peaked on Saturday 28/02, at 2.3m and Bredon peaked 2.5m on Sunday 01/03/26. 
 
-Further scattered showers are forecast. We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.   
+We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.   
 
-This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
-
-- Warning no longer in force: River Wye in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
+This message will be updated by 10:00AM on 4th March 2026 or as the situation changes.
 
 - Warning no longer in force: River Severn in Worcestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -147,20 +123,25 @@ This message will be updated by 12.00 on 3 March 2026, or as the situation chang
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington.
 
-River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 2 March 2026, especially in the areas around Fossebridge, Coln St Dennis, and Bibury. The forecast is for a dry day today. then remaining dry for the next few days. River levels are high but stable. We expect levels to decrease over the coming days
+River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 3 March 2026, especially in the areas around Fossebridge, Coln St Dennis, and Bibury. The forecast is to remain dry today and for the next few days.  River levels are high but stable.  We expect levels to decrease over the coming days
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 3 March 2026, or as the situation changes.
+ This message will be updated by 12.00 on 4 March 2026, or as the situation changes.
 
-- Flood warning: River Severn at Severn Ham, Tewkesbury
-- River levels are still high and may cause flooding today.  Flooding is expected on today, Monday 02 March 2026.  Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peaks:- Mythe 3.6m on 01/03, Upper Pound 3.8m on 01/03.  Further scattered showers are forecast. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 03 March 2026 or as the situation changes.
+- Warning no longer in force: River Severn at Severn Ham, Tewkesbury
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-- Flood alert: Middle Avon Rugby to Bidford
-- River levels continue to decrease along the Avon. Upstream area like Rugby and Warwick have returned to normal levels, however Stratford upon Avon remains elevated. Whilst the level at Stratford is decreasing the risk of flooding continues and will remain into Tuesday.
-Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland.
-We continue to closely monitor the situation. Avoid using low lying footpaths and any bridges near local watercourses. Stay away from flood water - it contains hidden dangers such as open manhole covers, sewage and chemicals.  
-This message will be updated by 1100 Tuesday 3 March or as the situation changes.
+
+- Warning no longer in force: Middle Avon Rugby to Bidford
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
+
 
 - Warning no longer in force: River Severn at Apperley and The Leigh
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

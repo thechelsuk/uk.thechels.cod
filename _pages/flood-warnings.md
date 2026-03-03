@@ -83,14 +83,12 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12.00 on 4 March 2026, or as the situation changes.
 
-- Flood alert: River Avon in Worcestershire
-- High river levels may lead to flooding. Flooding is possible today, Tuesday 3rd March 2026.  Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted.  
+- Warning no longer in force: River Avon in Worcestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Peaks: Evesham peaked on Saturday 28/02, at 2.3m and Bredon peaked 2.5m on Sunday 01/03/26. 
-
-We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.   
-
-This message will be updated by 10:00AM on 4th March 2026 or as the situation changes.
 
 - Warning no longer in force: River Severn in Worcestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -127,13 +125,6 @@ If you have been evacuated only return to your property once the emergency servi
 Weather conditions are expected to improve and no further flooding is expected.   
 We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
-
-
-- Warning no longer in force: River Severn at Apperley and The Leigh
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
 - Warning no longer in force: River Coln from Fossebridge to Quennington

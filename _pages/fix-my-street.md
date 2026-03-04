@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Whole row of potholes running down st annes terrace (the part of the road running towards hewlett road) There is no way of avoiding them as the road is extremely narrow., 4th March :- [9041045](https://www.fixmystreet.com/report/9041045)
+- Builders display board blocking view of road, 4th March :- [9041040](https://www.fixmystreet.com/report/9041040)
 - Pothole outside 21 Brooklyn Rd, 3rd March :- [9040909](https://www.fixmystreet.com/report/9040909)
 - Pothole approx 4 inches deep and 20 inches wide, 3rd March :- [9040597](https://www.fixmystreet.com/report/9040597)
 - Excessive Rubbish and car debris on verge, 3rd March :- [9040592](https://www.fixmystreet.com/report/9040592)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - No visibility, 3rd March :- [9039652](https://www.fixmystreet.com/report/9039652)
 - Only fixed half?, 3rd March :- [9039651](https://www.fixmystreet.com/report/9039651)
 - A pothole in road problem, 3rd March :- [9039231](https://www.fixmystreet.com/report/9039231)
-- Unpermitted roadworks problem, 3rd March :- [9039228](https://www.fixmystreet.com/report/9039228)
-- Almost the whole length of the A46 from Brockworth X Hands to Fiddlers Elbow requires resurfacing. The surface is so broken that it becoming impossible to keep momentum on a road bike., 3rd March :- [9039038](https://www.fixmystreet.com/report/9039038)
 
 <!-- fix_marker ends -->

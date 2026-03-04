@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 04 March 2026
 
-- The average temperature today is 6.93˚C,
-- With highs of 7.2˚C and lows of 5.95˚C,
-- It may feel like 3.99˚C with few clouds
-- The wind speed is 4.47m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 88%
+- The average temperature today is 5.37˚C,
+- With highs of 5.37˚C and lows of 5.37˚C,
+- It may feel like 4.1˚C with few clouds
+- The wind speed is 1.72m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 88%
 - The sun will rise at 06:48 and set at 17:52
 
 <!-- weather_marker ends -->

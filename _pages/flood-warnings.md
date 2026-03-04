@@ -28,8 +28,12 @@ We are closely monitoring the situation  
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 05 March 2026 or as the situation changes.
 
-- Flood alert: Severn estuary from Gloucester to Sharpness
-- Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next few days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.5m this morning 04/03/26 and Gloucester 3.1m to 3.3m this morning 04/03/26.
+- Warning no longer in force: Severn estuary from Gloucester to Sharpness
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+We do not expect to see similar impacts from the next high tide.  
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
+
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. 

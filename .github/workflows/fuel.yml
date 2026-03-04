@@ -1,0 +1,51 @@
+---
+name: Fuel Prices
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "0 6,18 * * *"
+
+permissions:
+    contents: write
+    pull-requests: read
+
+jobs:
+    build:
+        permissions:
+          contents: write
+          pull-requests: read
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out Repo
+              uses: actions/checkout@v6
+
+            - name: Set up Python
+              uses: actions/setup-python@v6
+              with:
+                  python-version: 3.13.2
+            - uses: actions/cache@v4
+              name: Configure pip Caching
+              with:
+                  path: ~/.cache/pip
+                  key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+                  restore-keys: |
+                      ${{ runner.os }}-pip-
+
+            - name: Install Python Dependencies
+              run: |
+                  python -m pip install -r requirements.txt
+
+            - name: Fetch and process fuel prices
+              env:
+                  FUEL_KEY: ${{ secrets.FUEL_KEY }}
+                  FUEL_TOKEN: ${{ secrets.FUEL_TOKEN }}
+              run: |-
+                  python '_python/fuel-finder.py'
+
+            - name: Commit and push
+              run: |-
+                  git diff
+                  git config user.name "GitHub Action"
+                  git config user.email "action@github.com"
+                  git diff --quiet || (git add -A && git commit -m "Updated fuel prices `date +'%Y-%m-%d %H:%M:%S'`")
+                  git push

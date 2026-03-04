@@ -45,6 +45,8 @@ include:
 navigation_header:
   - name: Links
     link: /links
+  - name: Cheapest Fuel Prices
+    link: /fuel-prices
   - name: Fix My Street
     link: /fix-my-street
   - name: Flood Warnings

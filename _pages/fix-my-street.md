@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole with exposed cables, 4th March :- [9041403](https://www.fixmystreet.com/report/9041403)
 - Whole row of potholes running down st annes terrace (the part of the road running towards hewlett road) There is no way of avoiding them as the road is extremely narrow., 4th March :- [9041045](https://www.fixmystreet.com/report/9041045)
 - Builders display board blocking view of road, 4th March :- [9041040](https://www.fixmystreet.com/report/9041040)
 - Pothole outside 21 Brooklyn Rd, 3rd March :- [9040909](https://www.fixmystreet.com/report/9040909)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Potholes, 3rd March :- [9039657](https://www.fixmystreet.com/report/9039657)
 - No visibility, 3rd March :- [9039652](https://www.fixmystreet.com/report/9039652)
 - Only fixed half?, 3rd March :- [9039651](https://www.fixmystreet.com/report/9039651)
-- A pothole in road problem, 3rd March :- [9039231](https://www.fixmystreet.com/report/9039231)
 
 <!-- fix_marker ends -->

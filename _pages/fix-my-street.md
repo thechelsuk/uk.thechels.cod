@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole almost as deep as a tennis ball, 4th March :- [9047235](https://www.fixmystreet.com/report/9047235)
+- Potholes around two road drains Cirencester Rd, between Chancel Way & Spirax Sarco, 4th March :- [9047040](https://www.fixmystreet.com/report/9047040)
+- Flytipped mattress and other litter, 4th March :- [9046876](https://www.fixmystreet.com/report/9046876)
 - Large Pothole, 4th March :- [9046728](https://www.fixmystreet.com/report/9046728)
 - Pedestrians forced to walk in main road as pavement blocked, 4th March :- [9046299](https://www.fixmystreet.com/report/9046299)
 - Post or sign leaning slightly (less than 20 degrees) problem, 4th March :- [9046231](https://www.fixmystreet.com/report/9046231)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th March :- [9046263](https://www.fixmystreet.com/report/9046263)
 - TMC - Defects -CW6 Potholes  problem, 4th March :- [9046262](https://www.fixmystreet.com/report/9046262)
 - TMC - Defects -CW6 Potholes  problem, 4th March :- [9045812](https://www.fixmystreet.com/report/9045812)
-- TMC - Defects -CW6 Potholes  problem, 4th March :- [9045809](https://www.fixmystreet.com/report/9045809)
-- TMC - Defects -CW6 Potholes  problem, 4th March :- [9045810](https://www.fixmystreet.com/report/9045810)
-- TMC - Defects -CW6 Potholes  problem, 4th March :- [9045808](https://www.fixmystreet.com/report/9045808)
 
 <!-- fix_marker ends -->

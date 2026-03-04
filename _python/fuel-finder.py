@@ -44,8 +44,6 @@ FUEL_LABELS = {
 def fuel_label(code):
     return FUEL_LABELS.get(code, code)
 
-# -- Helpers ------------------------------------------------------------------
-
 def haversine_miles(lat1, lon1, lat2, lon2):
     phi1, phi2 = math.radians(lat1), math.radians(lat2)
     dphi       = math.radians(lat2 - lat1)
@@ -409,7 +407,7 @@ if __name__ == "__main__":
         for nid in priced_stations:
             station      = station_cache[nid]
             name         = station["trading_name"]
-            label        = f"&#x2605; {name}" if station["is_supermarket"] else name
+            label        = name
             addr_col     = station.get("address") or ""
             as_of        = station.get("prices_updated") or "?"
             price_lookup = {p["fuel_type"]: p for p in price_map[nid] if p.get("fuel_type")}

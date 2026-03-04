@@ -7,9 +7,7 @@ permalink: /fuel-prices
 
 ---
 
-This project fetches fuel price data from gov.uk for the Gloucestershire area and publishes it as an daily update. We accept no responsibility for the accuracy of the data, and recommend checking the [gov.uk website](https://www.gov.uk/check-fuel-prices) for the latest information.
-
-Data shown is for the Cheltenham area (15 mile radius), and is updated daily. The cheapest fuel prices are highlighted and full table of all stations and their prices is provided below.
+This project fetches fuel price data from gov.uk for the Cheltenham area and 20 mile radius and is updated daily. We accept no responsibility for the accuracy of the data, and recommend checking before making unnecessary journeys.
 
 ## Cheapest Fuel Data
 

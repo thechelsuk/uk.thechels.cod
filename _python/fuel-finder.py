@@ -4,6 +4,8 @@ import os
 import pathlib
 import math
 import datetime
+import time
+import sys
 import requests
 
 # Load .env file for local development if present
@@ -24,8 +26,10 @@ PRICES_PATH     = "/api/v1/pfs/fuel-prices"
 
 CHELTENHAM_LAT  = 51.899
 CHELTENHAM_LON  = -2.078
-RADIUS_MILES    = 15
+RADIUS_MILES    = 20
 EARTH_RADIUS_MI = 3958.8
+BATCH_DELAY_SECS     = 1.5   # pause between paginated requests to avoid hammering the API
+PRICE_LOOKBACK_DAYS  = 30   # how far back the daily price fetch looks
 
 # Human-readable names for API fuel type codes
 FUEL_LABELS = {
@@ -62,7 +66,8 @@ def get_access_token(client_id, client_secret):
     return data["access_token"]
 
 
-def fetch_all_pages(path, token, extra_params=None):
+def fetch_all_pages(path, token, extra_params=None, label=""):
+    """Fetch all paginated results, sleeping between batches to stay polite."""
     results = []
     batch   = 1
     headers = {"Authorization": f"Bearer {token}"}
@@ -79,13 +84,17 @@ def fetch_all_pages(path, token, extra_params=None):
                     timeout=(10, 90),
                 )
                 if resp.status_code == 504:
-                    print(f"  batch {batch}: 504 gateway timeout (attempt {attempt + 1}/4), retrying...")
+                    wait = BATCH_DELAY_SECS * (attempt + 2)
+                    print(f"  {label}batch {batch}: 504 timeout (attempt {attempt + 1}/4), waiting {wait}s...")
+                    time.sleep(wait)
                     if attempt == 3:
                         resp.raise_for_status()
                     continue
                 break
             except requests.exceptions.ReadTimeout:
-                print(f"  batch {batch}: read timeout (attempt {attempt + 1}/4), retrying...")
+                wait = BATCH_DELAY_SECS * (attempt + 2)
+                print(f"  {label}batch {batch}: read timeout (attempt {attempt + 1}/4), waiting {wait}s...")
+                time.sleep(wait)
                 if attempt == 3:
                     raise
         # 404 means no more pages; anything else is a real error
@@ -96,21 +105,94 @@ def fetch_all_pages(path, token, extra_params=None):
         if not page:
             break
         results.extend(page)
-        print(f"  batch {batch}: {len(page)} records")
+        print(f"  {label}batch {batch}: {len(page)} records")
         if len(page) < 500:
             break
         batch += 1
+        time.sleep(BATCH_DELAY_SECS)
     return results
 
 
 def load_station_cache(cache_path):
+    """Load local station info. Returns only non-None entries (real local stations)."""
     if cache_path.exists():
-        return json.loads(cache_path.read_text())
+        raw = json.loads(cache_path.read_text())
+        # Migration: strip legacy None entries (they move to ignore-stations.json)
+        return {k: v for k, v in raw.items() if v is not None}
     return {}
 
 
 def save_station_cache(cache_path, cache):
     cache_path.write_text(json.dumps(cache, indent=2))
+
+
+def load_ignore_set(ignore_path):
+    """Load the set of node_ids confirmed as outside our radius."""
+    if ignore_path.exists():
+        return set(json.loads(ignore_path.read_text()))
+    return set()
+
+
+def save_ignore_set(ignore_path, ignore_set):
+    ignore_path.write_text(json.dumps(sorted(ignore_set), indent=2))
+
+
+def fetch_local_prices(local_node_ids, token, since_date, label="prices "):
+    """Page through the price feed and return records for local stations only.
+
+    Stops early once every local station has reported a price in this batch,
+    avoiding downloading the full national dataset unnecessarily.
+    """
+    results     = []
+    remaining   = set(local_node_ids)   # IDs we still need prices for
+    batch       = 1
+    headers     = {"Authorization": f"Bearer {token}"}
+    while remaining:
+        params = {"batch-number": batch, "effective-start-timestamp": since_date}
+        for attempt in range(4):
+            try:
+                resp = requests.get(
+                    BASE_URL + PRICES_PATH,
+                    headers=headers,
+                    params=params,
+                    timeout=(10, 90),
+                )
+                if resp.status_code == 504:
+                    wait = BATCH_DELAY_SECS * (attempt + 2)
+                    print(f"  {label}batch {batch}: 504 timeout (attempt {attempt + 1}/4), waiting {wait}s...")
+                    time.sleep(wait)
+                    if attempt == 3:
+                        resp.raise_for_status()
+                    continue
+                break
+            except requests.exceptions.ReadTimeout:
+                wait = BATCH_DELAY_SECS * (attempt + 2)
+                print(f"  {label}batch {batch}: read timeout (attempt {attempt + 1}/4), waiting {wait}s...")
+                time.sleep(wait)
+                if attempt == 3:
+                    raise
+        if resp.status_code == 404:
+            break
+        resp.raise_for_status()
+        page = resp.json()
+        if not page:
+            break
+        found_this_page = 0
+        for record in page:
+            nid = record.get("node_id")
+            if nid in remaining:
+                results.append(record)
+                remaining.discard(nid)
+                found_this_page += 1
+        print(f"  {label}batch {batch}: {len(page)} records, {found_this_page} local ({len(remaining)} still needed)")
+        if len(page) < 500:
+            break  # last page
+        if not remaining:
+            print(f"  All local stations covered — stopping early")
+            break
+        batch += 1
+        time.sleep(BATCH_DELAY_SECS)
+    return results
 
 
 def station_from_pfs_record(record):
@@ -144,8 +226,10 @@ def station_from_pfs_record(record):
 
 if __name__ == "__main__":
     try:
-        root        = pathlib.Path(__file__).parent.parent.resolve()
-        cache_path  = root / "_data" / "fuel-stations.json"
+        root         = pathlib.Path(__file__).parent.parent.resolve()
+        cache_path   = root / "_data" / "fuel-stations.json"
+        ignore_path  = root / "_data" / "ignore-stations.json"
+        bootstrap    = "--bootstrap" in sys.argv
 
         FUEL_KEY   = os.getenv("FUEL_KEY") or ""
         FUEL_TOKEN = os.getenv("FUEL_TOKEN") or ""
@@ -159,99 +243,119 @@ if __name__ == "__main__":
         access_token = get_access_token(FUEL_KEY, FUEL_TOKEN)
         print("  OK")
 
-        yesterday     = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
-        seven_days    = (datetime.date.today() - datetime.timedelta(days=7)).strftime("%Y-%m-%d")
+        lookback_date  = (datetime.date.today() - datetime.timedelta(days=PRICE_LOOKBACK_DAYS)).strftime("%Y-%m-%d")
 
-        # 2. Load station location cache (builds up over time)
+        # 2. Load station location cache and ignore list
         station_cache = load_station_cache(cache_path)
-        print(f"Station cache: {len(station_cache)} known local stations")
+        ignore_set    = load_ignore_set(ignore_path)
 
-        # 3. Fetch incremental fuel prices — this is the primary dataset
-        print(f"Fetching fuel prices updated since {yesterday}...")
-        all_prices = fetch_all_pages(PRICES_PATH, access_token, {"effective-start-timestamp": yesterday})
-        print(f"  Price records returned: {len(all_prices)}")
-
-        # 4. Find node_ids in the price batch not yet in our local cache
-        price_node_ids = {r["node_id"] for r in all_prices}
-        unknown_ids    = price_node_ids - set(station_cache.keys())
-        print(f"  Unknown stations to look up: {len(unknown_ids)}")
-
-        # 5. Fetch incremental PFS info to resolve unknown stations
-        # Save cache after each batch so partial runs accumulate usefully
-        if unknown_ids:
-            print(f"Fetching PFS station info updated since {seven_days} (7-day window)...")
+        if bootstrap:
+            # Bootstrap: clear ignore list so every station is re-evaluated against
+            # the current radius, then do a full PFS fetch (no date filter).
+            print(f"Bootstrap mode: clearing ignore list ({len(ignore_set)} entries) and fetching all PFS records...")
+            ignore_set = set()
+            save_ignore_set(ignore_path, ignore_set)
+            pfs_added = 0
+            pfs_ignored = 0
             try:
-                batch_num = 1
-                pfs_headers = {"Authorization": f"Bearer {access_token}"}
-                cache_updated = 0
-                while True:
-                    params = {"batch-number": batch_num, "effective-start-timestamp": seven_days}
-                    for attempt in range(4):
-                        try:
-                            r = requests.get(
-                                BASE_URL + PFS_PATH,
-                                headers=pfs_headers,
-                                params=params,
-                                timeout=(10, 90),
-                            )
-                            if r.status_code == 504:
-                                print(f"  batch {batch_num}: 504 timeout (attempt {attempt + 1}/4), retrying...")
-                                if attempt == 3:
-                                    r.raise_for_status()
-                                continue
-                            break
-                        except requests.exceptions.ReadTimeout:
-                            print(f"  batch {batch_num}: read timeout (attempt {attempt + 1}/4), retrying...")
-                            if attempt == 3:
-                                raise
-                    if r.status_code == 404:
-                        break
-                    r.raise_for_status()
-                    page = r.json()
-                    if not page:
-                        break
-                    for record in page:
-                        nid = record.get("node_id")
-                        if nid not in unknown_ids:
-                            continue
-                        entry = station_from_pfs_record(record)
-                        if entry:
-                            station_cache[nid] = entry
-                            cache_updated += 1
-                        else:
-                            station_cache[nid] = None
-                    # Save after every batch so partial runs accumulate
-                    save_station_cache(cache_path, station_cache)
-                    print(f"  batch {batch_num}: {len(page)} records ({cache_updated} local found so far)")
-                    if len(page) < 500:
-                        break
-                    batch_num += 1
-                print(f"  {cache_updated} new local stations added to cache")
+                all_pfs = fetch_all_pages(PFS_PATH, access_token, label="PFS ")
+                for record in all_pfs:
+                    nid   = record.get("node_id")
+                    entry = station_from_pfs_record(record)
+                    if entry:
+                        # Preserve any stored prices when refreshing station metadata
+                        existing = station_cache.get(nid) or {}
+                        if existing.get("fuel_prices"):
+                            entry["fuel_prices"]    = existing["fuel_prices"]
+                            entry["prices_updated"] = existing["prices_updated"]
+                        station_cache[nid] = entry
+                        pfs_added += 1
+                    else:
+                        station_cache.pop(nid, None)  # remove if previously local
+                        ignore_set.add(nid)
+                        pfs_ignored += 1
+                save_station_cache(cache_path, station_cache)
+                save_ignore_set(ignore_path, ignore_set)
+                print(f"  Bootstrap complete: {pfs_added} local stations, {pfs_ignored} ignored")
             except Exception as e:
-                print(f"  PFS info lookup stopped ({e}); progress saved, will continue next run")
+                print(f"  Bootstrap PFS fetch stopped ({e}); partial progress saved")
+                save_station_cache(cache_path, station_cache)
+                save_ignore_set(ignore_path, ignore_set)
 
-        # 6. Build price map for local stations only
-        price_map = {}
+            # Seed price history using the same early-exit approach as the daily run
+            print(f"Seeding price history (last {PRICE_LOOKBACK_DAYS} days)...")
+            try:
+                local_ids       = set(station_cache.keys())
+                historic_prices = fetch_local_prices(local_ids, access_token, lookback_date, label="seed-prices ")
+                seeded = 0
+                for record in historic_prices:
+                    nid    = record.get("node_id")
+                    cached = station_cache.get(nid)
+                    if cached:
+                        new_prices = record.get("fuel_prices") or []
+                        if new_prices:
+                            existing_date = cached.get("prices_updated") or ""
+                            record_date   = (record.get("effective_start_timestamp") or "")[:10]
+                            if record_date >= existing_date:
+                                cached["fuel_prices"]    = new_prices
+                                cached["prices_updated"] = record_date or lookback_date
+                                seeded += 1
+                save_station_cache(cache_path, station_cache)
+                print(f"  Price history seeded for {seeded} local stations")
+            except Exception as e:
+                print(f"  Price history seed stopped ({e}); partial progress saved")
+                save_station_cache(cache_path, station_cache)
+        else:
+            print(f"Station cache: {len(station_cache)} local stations, {len(ignore_set)} ignored")
+
+        # 3. Fetch prices for local stations — looks back PRICE_LOOKBACK_DAYS days,
+        #    stops as soon as all local stations have reported in (early exit).
+        local_ids  = set(station_cache.keys())
+        print(f"Fetching prices for {len(local_ids)} local stations (lookback: {PRICE_LOOKBACK_DAYS} days, since {lookback_date})...")
+        all_prices = fetch_local_prices(local_ids, access_token, lookback_date)
+        print(f"  Price records returned for local stations: {len(all_prices)}")
+
+        # 6. Merge fresh prices into the station cache so we accumulate latest
+        #    known prices for every local station, not just today's reporters.
+        today_str     = datetime.date.today().strftime("%Y-%m-%d")
+        price_updates = 0
         for record in all_prices:
             nid    = record.get("node_id")
             cached = station_cache.get(nid)
-            if cached:  # None means known non-local; missing means unseen
-                price_map[nid] = record.get("fuel_prices") or []
+            if cached:
+                new_prices  = record.get("fuel_prices") or []
+                record_date = (record.get("effective_start_timestamp") or "")[:10] or today_str
+                if new_prices:
+                    existing_date = cached.get("prices_updated") or ""
+                    if record_date >= existing_date:
+                        cached["fuel_prices"]    = new_prices
+                        cached["prices_updated"] = record_date
+                        price_updates += 1
 
-        print(f"Local stations with updated prices: {len(price_map)}")
+        if price_updates:
+            save_station_cache(cache_path, station_cache)
+        print(f"Local stations with fresh prices: {price_updates}")
+
+        # 7. Build price map from ALL cached local stations that have any prices
+        price_map = {
+            nid: station["fuel_prices"]
+            for nid, station in station_cache.items()
+            if station.get("fuel_prices")
+        }
+        print(f"Local stations with any known prices: {len(price_map)}")
 
         updated = datetime.datetime.now().strftime("%-d %B %Y at %H:%M")
 
         if not price_map:
-            output = f"*No price changes reported near Cheltenham since {yesterday}. Last checked: {updated}*"
+            output = f"*No price data yet for stations near Cheltenham. Last checked: {updated}*"
             md = root / "_pages/fuel-prices.md"
             md_contents = md.open().read()
             md_contents = helper.replace_chunk(md_contents, "fuel_marker", output)
             md.open("w").write(md_contents)
-            print("No local price updates — page updated with status message.")
+            print("No price data available — page updated with status message.")
             raise SystemExit(0)
 
-        # 7. Collect all distinct fuel-type codes in this batch
+        # 8. Collect all distinct fuel-type codes across all priced stations
         all_fuel_types = set()
         for prices in price_map.values():
             for p in prices:
@@ -260,7 +364,7 @@ if __name__ == "__main__":
                     all_fuel_types.add(ft)
         fuel_type_cols = sorted(all_fuel_types)
 
-        # 8. Find cheapest station per fuel type
+        # 9. Find cheapest station per fuel type (from all stations with prices)
         cheapest = {}
         for nid, prices in price_map.items():
             station = station_cache[nid]
@@ -276,7 +380,7 @@ if __name__ == "__main__":
                     if ft not in cheapest or pence < cheapest[ft]["price"]:
                         cheapest[ft] = {"price": pence, "name": name, "brand": brand, "distance": dist, "address": addr}
 
-        # 9. Render hero callout
+        # 10. Render hero callout
         hero_lines = []
         for ft in fuel_type_cols:
             if ft not in cheapest:
@@ -286,12 +390,12 @@ if __name__ == "__main__":
             addr_str  = f", {c['address']}" if c.get("address") else ""
             hero_lines.append(f"### Cheapest {fuel_label(ft)}: {c['price']:.1f}p/L")
             hero_lines.append("")
-            hero_lines.append(f"- {c['name']}{brand_str}, {c['distance']:.1f} miles away{addr_str}")
+            hero_lines.append(f"- {c['name']}{brand_str}{addr_str}")
             hero_lines.append("")
 
-        # 10. Render price table
+        # 11. Render price table — all local stations sorted by distance then name
         fuel_label_cols = [fuel_label(ft) for ft in fuel_type_cols]
-        header_cols     = ["Station", "Address", "Distance"] + fuel_label_cols
+        header_cols     = ["Station", "Address"] + fuel_label_cols + ["As of"]
         table_lines     = [
             "| " + " | ".join(header_cols) + " |",
             "| " + " | ".join(["---"] * len(header_cols)) + " |",
@@ -299,7 +403,7 @@ if __name__ == "__main__":
 
         priced_stations = sorted(
             price_map.keys(),
-            key=lambda nid: (station_cache[nid]["trading_name"] or "").lower()
+            key=lambda nid: (station_cache[nid]["distance_miles"], (station_cache[nid]["trading_name"] or "").lower())
         )
 
         for nid in priced_stations:
@@ -307,19 +411,20 @@ if __name__ == "__main__":
             name         = station["trading_name"]
             label        = f"&#x2605; {name}" if station["is_supermarket"] else name
             addr_col     = station.get("address") or ""
-            dist_str     = f"{station['distance_miles']:.1f} mi"
+            as_of        = station.get("prices_updated") or "?"
             price_lookup = {p["fuel_type"]: p for p in price_map[nid] if p.get("fuel_type")}
 
-            row = [label, addr_col, dist_str]
+            row = [label, addr_col]
             for ft in fuel_type_cols:
                 if ft in price_lookup:
                     pence = price_lookup[ft].get("price")
                     row.append(f"{float(pence):.1f}p" if pence is not None else "-")
                 else:
                     row.append("-")
+            row.append(as_of)
             table_lines.append("| " + " | ".join(row) + " |")
 
-        # 11. Assemble and write output
+        # 12. Assemble and write output
         output  = "\n".join(hero_lines)
         output += "\n## Full Local Data\n\n"
         output += "\n".join(table_lines)

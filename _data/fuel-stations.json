@@ -1,23 +1,1343 @@
 {
-  "148051c9fa80670ee256a1a9854c44bca397d57036d3efbc27e6ab1dd48a9dde": null,
-  "c1daa891eab0eb3ff0f27f70e04af83db8980ff54fdec10757bffc00b589f994": null,
-  "8d162c44744c801103f7457f2a85d5c45a695ba721db98b8f434d227be05253c": null,
-  "53ba04984fbf2f1e45353061ae0f983464264047698911956df3185132ab33e0": null,
-  "3dd2b27475450185f8346e187ceb6ff4f8a453cfa824aa0032da2dea84a0d4da": null,
-  "dbdd06bf6c004fcab8cce5960307ab15d09980ba1bd3aa284b65479069a35eae": null,
-  "58999fe8c717832e34d8c4ef3d0bbd4539527e06fa5fefea747f8be8353884c9": null,
-  "9a481a4da0575d92b4fee123f0de05f4d2dc6102e5bf68f1ca9e1c531e1c9f7c": null,
-  "d4d13e0af5d81993062cd796e0c59faed1581620c1e4e0bf24634d1a3a6d96ba": null,
-  "8e99c899156bff5f27b991f907f79a9539ded5046f768f9d47bed6c843d34dc5": null,
-  "8c9b5a21e42d01c3ae7b9d9bffcc1f96a515a5428a13bea762a5568557e841d5": null,
-  "f565bea2b49a569b341e6cf8b848f0ab60e8c0d012d876ec96f11768892395f8": null,
-  "a8a54f552905b082f085dbd880b0bf93a23f2ba6c6a92cdf99f83e12594468cb": null,
-  "44d63ae3827ef32bc1300f471cb34b5e3b03d66a52883ff2d4a04c82d85aa81a": null,
   "6394563327b42391b0c828e4ce3a7823129b27fe2c56cfd7b9a60261f1e427ab": {
     "trading_name": "TGC TEWKESBURY",
     "brand_name": "SHELL",
     "distance_miles": 7.58,
     "is_supermarket": false,
-    "address": "MITTON MANOR GARAGE, GL20 5DA"
+    "address": "MITTON MANOR GARAGE, GL20 5DA",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 154.9,
+        "price_last_updated": "2026-03-04T13:33:29.081Z",
+        "price_change_effective_timestamp": "2026-03-04T10:36:25.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 133.9,
+        "price_last_updated": "2026-03-04T13:33:29.081Z",
+        "price_change_effective_timestamp": "2026-03-04T10:36:25.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 143.9,
+        "price_last_updated": "2026-03-04T13:33:29.081Z",
+        "price_change_effective_timestamp": "2026-03-04T10:36:25.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 164.9,
+        "price_last_updated": "2026-03-04T13:33:29.081Z",
+        "price_change_effective_timestamp": "2026-03-04T10:36:25.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "b739362af81acc9fec9eda6f155348125fa2d5c1772c96bf6855a1bad0179711": {
+    "trading_name": "WINCHCOMBE FUEL EXPRESS AUTOMAT",
+    "brand_name": "GULF",
+    "distance_miles": 6.83,
+    "is_supermarket": false,
+    "address": "BROADWAY ROAD, GL54 5NT",
+    "fuel_prices": [
+      {
+        "fuel_type": "E10",
+        "price": 131.7,
+        "price_last_updated": "2026-03-04T15:58:31.010Z",
+        "price_change_effective_timestamp": "2026-03-04T15:58:30.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 141.7,
+        "price_last_updated": "2026-03-03T15:29:27.146Z",
+        "price_change_effective_timestamp": "2026-03-03T15:29:26.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "039e649ade312ae4280ea0e6910b084cc9d877613696351a4783c6220ce3c4d3": {
+    "trading_name": "Ledbury Road Services",
+    "brand_name": "Total Energies",
+    "distance_miles": 8.45,
+    "is_supermarket": false,
+    "address": "Ledbury Road, GL20 6HP",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 149,
+        "price_last_updated": "2026-02-17T09:09:55.147Z",
+        "price_change_effective_timestamp": "2026-02-17T09:09:50.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 132,
+        "price_last_updated": "2026-03-04T07:48:20.432Z",
+        "price_change_effective_timestamp": "2026-03-04T07:48:20.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 143,
+        "price_last_updated": "2026-03-04T07:48:20.432Z",
+        "price_change_effective_timestamp": "2026-03-04T07:48:20.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 157,
+        "price_last_updated": "2026-02-17T09:12:12.983Z",
+        "price_change_effective_timestamp": "2026-02-17T09:12:09.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "1742785e69f231a70f2eb1085277abeaad87763c4300fa99aa201f103b29dc95": {
+    "trading_name": "Churcham Garage",
+    "brand_name": "Churcham Garage",
+    "distance_miles": 10.58,
+    "is_supermarket": true,
+    "address": "CHURCHAM GARAGE, CHURCHAM, GLOUCESTER, GL2 8AA",
+    "fuel_prices": [
+      {
+        "fuel_type": "E10",
+        "price": 129.9,
+        "price_last_updated": "2026-03-04T13:15:04.877Z",
+        "price_change_effective_timestamp": "2026-03-04T13:08:52.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 138.9,
+        "price_last_updated": "2026-03-04T13:15:04.877Z",
+        "price_change_effective_timestamp": "2026-03-04T13:08:52.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "92fc4e05957da8a95fe6e814851a078a4ebc2596d94edacfaafda2c52ba724bb": {
+    "trading_name": "MFG BOUNCERS LANE",
+    "brand_name": "MURCO",
+    "distance_miles": 1.54,
+    "is_supermarket": false,
+    "address": "BOUNCERS LANE, GL52 5JF",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 149.9,
+        "price_last_updated": "2026-03-04T10:24:19.582Z",
+        "price_change_effective_timestamp": "2026-03-04T10:22:01.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 131.9,
+        "price_last_updated": "2026-03-04T10:24:19.582Z",
+        "price_change_effective_timestamp": "2026-03-04T10:22:01.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 141.9,
+        "price_last_updated": "2026-03-04T10:24:19.582Z",
+        "price_change_effective_timestamp": "2026-03-04T10:22:01.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 159.9,
+        "price_last_updated": "2026-03-04T10:24:19.582Z",
+        "price_change_effective_timestamp": "2026-03-04T10:22:01.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "1c785dae6c70801885c7725f9be71db3876002c64ec59b15d23d751d366919bf": {
+    "trading_name": "Chaxhill Service Station",
+    "brand_name": "Chaxhill Service Station",
+    "distance_miles": 13.9,
+    "is_supermarket": true,
+    "address": "CHAXHILL SERVICE STATION, CHAXHILL, WESTBURY-ON-SEVERN, GL14 1QW",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 163.9,
+        "price_last_updated": "2026-02-06T09:19:44.901Z",
+        "price_change_effective_timestamp": "2026-02-06T09:19:39.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 131.9,
+        "price_last_updated": "2026-03-04T09:44:47.182Z",
+        "price_change_effective_timestamp": "2026-03-04T09:44:47.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 141.9,
+        "price_last_updated": "2026-03-04T09:44:47.182Z",
+        "price_change_effective_timestamp": "2026-03-04T09:44:47.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "ab6e87ce5bf6bd97f3a9c0f50aaff7a5194f489f78e07de9e1cfc3173afcc074": {
+    "trading_name": "Highleadon Filling Station Limited",
+    "brand_name": "Texaco",
+    "distance_miles": 11.29,
+    "is_supermarket": false,
+    "address": "HIGHLEADON FILLING STATION LTD, HIGHLEADON, NEWENT, GL18 1HJ",
+    "fuel_prices": [
+      {
+        "fuel_type": "E10",
+        "price": 142.9,
+        "price_last_updated": "2026-03-04T15:30:27.951Z",
+        "price_change_effective_timestamp": "2026-03-04T15:30:27.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 142.9,
+        "price_last_updated": "2026-03-04T15:30:27.951Z",
+        "price_change_effective_timestamp": "2026-03-04T15:30:27.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "2c0eb29d4b6c0a612cef0f15574cf777729f35aff24b61929a1cba6fa2311315": {
+    "trading_name": "CINDERFORD",
+    "brand_name": "GULF",
+    "distance_miles": 18.89,
+    "is_supermarket": false,
+    "address": "STEAM MILLS ROAD, GL14 3HY",
+    "fuel_prices": [
+      {
+        "fuel_type": "E10",
+        "price": 132.9,
+        "price_last_updated": "2026-02-10T15:18:29.527Z",
+        "price_change_effective_timestamp": "2026-02-10T15:18:27.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 144.9,
+        "price_last_updated": "2026-03-03T22:12:21.631Z",
+        "price_change_effective_timestamp": "2026-03-03T22:12:21.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "0da8a3bdb9325593a2b8882a3d38747237cdf267ecb523d5a0075401b9b40f59": {
+    "trading_name": "ASCONA PARKLANDS SERVICE STATION",
+    "brand_name": "VALERO",
+    "distance_miles": 6.64,
+    "is_supermarket": false,
+    "address": "A40 NORTHERN BYPASS, GL2 9DJ",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 169.9,
+        "price_last_updated": "2026-03-03T11:10:42.882Z",
+        "price_change_effective_timestamp": "2026-03-03T11:10:29.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 132.9,
+        "price_last_updated": "2026-03-03T11:10:42.882Z",
+        "price_change_effective_timestamp": "2026-03-03T11:10:29.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 142.9,
+        "price_last_updated": "2026-03-03T11:10:42.882Z",
+        "price_change_effective_timestamp": "2026-03-03T11:10:29.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 174.9,
+        "price_last_updated": "2026-03-03T11:10:42.882Z",
+        "price_change_effective_timestamp": "2026-03-03T11:10:29.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "b4b0bd7d6d396507fea6da635ebde0f49233bc3a966b8228ba3b3705e14e2218": {
+    "trading_name": "MFG CENTURION",
+    "brand_name": "BP",
+    "distance_miles": 8.2,
+    "is_supermarket": false,
+    "address": "A417 GLOUCESTER ROAD, GL7 7JR",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 155.9,
+        "price_last_updated": "2026-03-03T21:29:29.319Z",
+        "price_change_effective_timestamp": "2026-03-03T21:27:22.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 137.9,
+        "price_last_updated": "2026-03-03T21:29:29.319Z",
+        "price_change_effective_timestamp": "2026-03-03T21:27:22.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 147.9,
+        "price_last_updated": "2026-03-03T21:29:29.319Z",
+        "price_change_effective_timestamp": "2026-03-03T21:27:22.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 165.9,
+        "price_last_updated": "2026-03-03T21:29:29.319Z",
+        "price_change_effective_timestamp": "2026-03-03T21:27:22.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "69f41814e1ea169f872bf2cb6306f64f526780941c4dc8c9e2fffeea99c3c0a0": {
+    "trading_name": "MFG SPARROWS WHARF",
+    "brand_name": "ESSO",
+    "distance_miles": 8.96,
+    "is_supermarket": false,
+    "address": "364 BRISTOL ROAD (A430), GL2 5DH",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 155.9,
+        "price_last_updated": "2026-03-03T17:02:01.400Z",
+        "price_change_effective_timestamp": "2026-03-03T17:01:58.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 130.9,
+        "price_last_updated": "2026-03-03T17:02:01.400Z",
+        "price_change_effective_timestamp": "2026-03-03T17:01:58.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 140.9,
+        "price_last_updated": "2026-03-03T17:02:01.400Z",
+        "price_change_effective_timestamp": "2026-03-03T17:01:58.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 165.9,
+        "price_last_updated": "2026-03-03T17:02:01.400Z",
+        "price_change_effective_timestamp": "2026-03-03T17:01:58.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "5426bdd99e120cd1b2b2731801215aa69766b636b92b352b1bc8a9455c96e5e4": {
+    "trading_name": "SHELL CIRENCESTER",
+    "brand_name": "SHELL",
+    "distance_miles": 13.34,
+    "is_supermarket": false,
+    "address": "BURFORD ROAD, GL7 5DS",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 164.9,
+        "price_last_updated": "2026-03-04T14:10:11.597Z",
+        "price_change_effective_timestamp": "2026-03-04T14:06:00.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 139.9,
+        "price_last_updated": "2026-03-04T14:10:11.597Z",
+        "price_change_effective_timestamp": "2026-03-04T14:06:00.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 149.9,
+        "price_last_updated": "2026-03-04T14:10:11.597Z",
+        "price_change_effective_timestamp": "2026-03-04T14:06:00.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 174.9,
+        "price_last_updated": "2026-03-04T14:10:11.597Z",
+        "price_change_effective_timestamp": "2026-03-04T14:06:00.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "a2fc5194c0e0514f2935f49ec47f61327ec5317982073dd54204a31b67f214c3": {
+    "trading_name": "ASCONA TWIGWORTH SERVICE STATION",
+    "brand_name": "VALERO",
+    "distance_miles": 6.48,
+    "is_supermarket": false,
+    "address": "TEWKSBURY ROAD, GL2 9PG",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 169.9,
+        "price_last_updated": "2026-03-03T11:10:51.495Z",
+        "price_change_effective_timestamp": "2026-03-03T11:10:40.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 132.9,
+        "price_last_updated": "2026-03-03T11:10:51.495Z",
+        "price_change_effective_timestamp": "2026-03-03T11:10:40.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 142.9,
+        "price_last_updated": "2026-03-03T11:10:51.495Z",
+        "price_change_effective_timestamp": "2026-03-03T11:10:40.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 174.9,
+        "price_last_updated": "2026-03-03T11:10:51.495Z",
+        "price_change_effective_timestamp": "2026-03-03T11:10:40.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "65777e266e0ca31405777eda7ca73f5f2942fe77c61b0b66b21cb3bb58659aed": {
+    "trading_name": "CIRENCESTER EXTRA - PETROL FILLING STATION",
+    "brand_name": "TESCO",
+    "distance_miles": 14.39,
+    "is_supermarket": false,
+    "address": "KINGS MEADOW, GL7 1NP",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 145.9,
+        "price_last_updated": "2026-03-02T16:44:11.543Z",
+        "price_change_effective_timestamp": "2026-03-02T16:43:55.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 135.9,
+        "price_last_updated": "2026-03-02T16:55:41.408Z",
+        "price_change_effective_timestamp": "2026-03-02T16:55:21.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 143.9,
+        "price_last_updated": "2026-03-03T15:52:43.963Z",
+        "price_change_effective_timestamp": "2026-03-03T15:52:16.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "09c633aea50a867b83e5da5d1b9e785809ee2c4e35aa6881d741678c9b6beeb8": {
+    "trading_name": "SUNNY LODGE",
+    "brand_name": "TEXACO",
+    "distance_miles": 18.78,
+    "is_supermarket": false,
+    "address": "285 WORCESTER ROAD, WR14 1AB",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 156.9,
+        "price_last_updated": "2026-03-04T13:38:43.401Z",
+        "price_change_effective_timestamp": "2026-03-04T10:40:03.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 135.9,
+        "price_last_updated": "2026-03-04T13:38:43.401Z",
+        "price_change_effective_timestamp": "2026-03-04T10:40:03.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 149.9,
+        "price_last_updated": "2026-03-04T13:38:43.401Z",
+        "price_change_effective_timestamp": "2026-03-04T10:40:03.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 170.9,
+        "price_last_updated": "2026-03-04T13:38:43.401Z",
+        "price_change_effective_timestamp": "2026-03-04T10:40:03.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "0125e961cf3734fa7e1e909bd08c6e7d0ec9f21093415f35fffafdde632d14ea": {
+    "trading_name": "h j taylor",
+    "brand_name": "h j taylor",
+    "distance_miles": 14.52,
+    "is_supermarket": false,
+    "address": "h j taylor, WR127PL",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 152.9,
+        "price_last_updated": "2026-03-03T10:39:06.807Z",
+        "price_change_effective_timestamp": "2026-03-03T10:39:05.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 138.9,
+        "price_last_updated": "2026-03-03T10:39:06.807Z",
+        "price_change_effective_timestamp": "2026-03-03T10:39:05.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 149.9,
+        "price_last_updated": "2026-03-03T10:39:06.807Z",
+        "price_change_effective_timestamp": "2026-03-03T10:39:05.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "19799f853174a2c06622f73b6f00eefb2611083bd6f01915f8d29402b9d714f1": {
+    "trading_name": "MFG LONDON ROAD",
+    "brand_name": "ESSO",
+    "distance_miles": 7.24,
+    "is_supermarket": false,
+    "address": "17 LONDON ROAD, GL1 3HB",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 155.9,
+        "price_last_updated": "2026-03-03T16:11:13.104Z",
+        "price_change_effective_timestamp": "2026-03-03T16:11:12.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 131.9,
+        "price_last_updated": "2026-03-03T16:11:13.104Z",
+        "price_change_effective_timestamp": "2026-03-03T16:11:12.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 140.9,
+        "price_last_updated": "2026-03-03T16:11:13.104Z",
+        "price_change_effective_timestamp": "2026-03-03T16:11:12.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 165.9,
+        "price_last_updated": "2026-03-03T16:11:13.104Z",
+        "price_change_effective_timestamp": "2026-03-03T16:11:12.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "f5f7f5a45d55fc2b9dd0036ec8a5c09a9cc8fb99aabf03531d3ebd7404f31666": {
+    "trading_name": "QUEDGELEY",
+    "brand_name": "SHELL",
+    "distance_miles": 9.69,
+    "is_supermarket": false,
+    "address": "121 BRISTOL ROAD, GL2 4NB",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 156.9,
+        "price_last_updated": "2026-03-04T13:33:42.361Z",
+        "price_change_effective_timestamp": "2026-03-04T10:46:46.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 135.9,
+        "price_last_updated": "2026-03-04T13:33:42.361Z",
+        "price_change_effective_timestamp": "2026-03-04T10:46:46.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 151.9,
+        "price_last_updated": "2026-03-04T13:33:42.361Z",
+        "price_change_effective_timestamp": "2026-03-04T10:46:46.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 172.9,
+        "price_last_updated": "2026-03-04T13:33:42.361Z",
+        "price_change_effective_timestamp": "2026-03-04T10:46:46.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "68be91031965b7b31f9aa3fb7661b4ef70845666a645574a46919cc3ec9d52e4": {
+    "trading_name": "MFG ANDOVERSFORD",
+    "brand_name": "BP",
+    "distance_miles": 5.28,
+    "is_supermarket": false,
+    "address": "SHIPTON OLIFFE, GL54 4HS",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 155.9,
+        "price_last_updated": "2026-03-03T13:47:31.495Z",
+        "price_change_effective_timestamp": "2026-03-03T13:47:30.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 133.9,
+        "price_last_updated": "2026-03-03T13:47:31.495Z",
+        "price_change_effective_timestamp": "2026-03-03T13:47:30.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 143.9,
+        "price_last_updated": "2026-03-03T13:47:31.495Z",
+        "price_change_effective_timestamp": "2026-03-03T13:47:30.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 165.9,
+        "price_last_updated": "2026-03-03T13:47:31.495Z",
+        "price_change_effective_timestamp": "2026-03-03T13:47:30.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "06d7c8bf808724e995c3471d2a8f9c630f430c9fc2ee932ee770b16356b3f378": {
+    "trading_name": "MFG MORRISONS GLOUCESTER METZ WAY",
+    "brand_name": "MORRISONS",
+    "distance_miles": 6.8,
+    "is_supermarket": false,
+    "address": "METZ WAY/TRIANGLE WAY, GL1 1AH",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 149.9,
+        "price_last_updated": "2026-03-04T18:23:37.148Z",
+        "price_change_effective_timestamp": "2026-03-04T18:23:15.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 127.9,
+        "price_last_updated": "2026-03-04T18:23:37.148Z",
+        "price_change_effective_timestamp": "2026-03-04T18:23:15.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 135.9,
+        "price_last_updated": "2026-03-04T18:23:37.148Z",
+        "price_change_effective_timestamp": "2026-03-04T18:23:15.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 145.9,
+        "price_last_updated": "2026-03-04T18:23:37.148Z",
+        "price_change_effective_timestamp": "2026-03-04T18:23:15.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "e01adf965538941940144b382f3dc42c79fd362f35e39cec0ea25e4afc932abb": {
+    "trading_name": "GLOUCESTER SUPERSTORE - PETROL FILLING STATION",
+    "brand_name": "TESCO",
+    "distance_miles": 7.56,
+    "is_supermarket": false,
+    "address": "ST OSWALDS ROAD, GL1 2SG",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 136.9,
+        "price_last_updated": "2026-03-03T15:59:21.094Z",
+        "price_change_effective_timestamp": "2026-03-03T15:58:50.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 127.9,
+        "price_last_updated": "2026-03-03T15:55:50.585Z",
+        "price_change_effective_timestamp": "2026-03-03T15:55:36.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 135.9,
+        "price_last_updated": "2026-03-03T15:59:21.094Z",
+        "price_change_effective_timestamp": "2026-03-03T15:58:50.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "95c6260bb971475c686286c28994fca155dd06bd44c4800ce1eed083c63db980": {
+    "trading_name": "Red Apple Sevice Station",
+    "brand_name": "Red Apple Sevice Station",
+    "distance_miles": 1.31,
+    "is_supermarket": true,
+    "address": "RED APPLE, 394, GLOUCESTER ROAD, CHELTENHAM, GL51 7AT",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 159.9,
+        "price_last_updated": "2026-02-06T09:18:10.957Z",
+        "price_change_effective_timestamp": "2026-02-06T09:18:05.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 129.9,
+        "price_last_updated": "2026-03-02T14:18:57.529Z",
+        "price_change_effective_timestamp": "2026-03-02T14:18:57.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 139.9,
+        "price_last_updated": "2026-03-02T14:18:57.529Z",
+        "price_change_effective_timestamp": "2026-03-02T14:18:57.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 159.9,
+        "price_last_updated": "2026-02-06T09:18:10.957Z",
+        "price_change_effective_timestamp": "2026-02-06T09:18:05.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "6c542b188365710bb7ca8da12d113d11d5f811dcc8915390f9cf1487e671310a": {
+    "trading_name": "Troopers Lodge Filling Station",
+    "brand_name": "Troopers Lodge Filling Station",
+    "distance_miles": 14.26,
+    "is_supermarket": true,
+    "address": "TROOPERS LODGE SERVICE STATION, BOURTON ON THE HILL, MORETON-IN-MARSH, GL56 9TE",
+    "fuel_prices": [
+      {
+        "fuel_type": "E5",
+        "price": 169.9,
+        "price_last_updated": "2026-02-06T09:15:44.604Z",
+        "price_change_effective_timestamp": "2026-02-06T09:15:07.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 131.9,
+        "price_last_updated": "2026-02-06T09:15:44.604Z",
+        "price_change_effective_timestamp": "2026-02-06T09:15:07.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 146.9,
+        "price_last_updated": "2026-02-06T09:15:44.604Z",
+        "price_change_effective_timestamp": "2026-02-06T09:15:07.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 169.9,
+        "price_last_updated": "2026-02-06T09:15:44.604Z",
+        "price_change_effective_timestamp": "2026-02-06T09:15:07.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "7ed5d5b06a76714b74351eba15339c08be672c82ef17640357ee29834e9cc4e6": {
+    "trading_name": "MITCHELDEAN FUEL EXPRESS AUTOMAT",
+    "brand_name": "GULF",
+    "distance_miles": 17.7,
+    "is_supermarket": false,
+    "address": "NEW ROAD, GL17 0BX",
+    "fuel_prices": [
+      {
+        "fuel_type": "E10",
+        "price": 129.7,
+        "price_last_updated": "2026-03-03T15:22:30.174Z",
+        "price_change_effective_timestamp": "2026-03-03T15:22:30.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 139.7,
+        "price_last_updated": "2026-03-03T15:22:30.174Z",
+        "price_change_effective_timestamp": "2026-03-03T15:22:30.000Z"
+      }
+    ],
+    "prices_updated": "2026-03-04"
+  },
+  "5917b1e173d820169f826a19a7c10f0e8f5133f68b88b45d9077a45f90ae0fec": {
+    "trading_name": "MFG ARLE",
+    "brand_name": "BP",
+    "distance_miles": 1.32,
+    "is_supermarket": false,
+    "address": "PRINCESS ELIZABETH WAY, GL51 7PA"
+  },
+  "950b0d3c22d7624bdf8daf66ae58c6ef214900043a8e5d5edaf0fd0e6741fe06": {
+    "trading_name": "EVESHAM ESSO EXPRESS",
+    "brand_name": "ESSO",
+    "distance_miles": 13.8,
+    "is_supermarket": false,
+    "address": "47 CHELTENHAM RD, WR11 1LE"
+  },
+  "c5937e209e5390a5a7089a180dd15eb0d13a1e651286d9b9156c31530585dd57": {
+    "trading_name": "Warners Murco Service Staion",
+    "brand_name": "Warners Murco Service Staion",
+    "distance_miles": 12.99,
+    "is_supermarket": true,
+    "address": "WARNERS SUPERMARKET, HANLEY ROAD, UPTON-UPON-SEVERN, WORCESTER, WR8 0HU"
+  },
+  "b5c5c03f3a1cc71bc2061bd69865779e240577f66454cc79a99f5a340944d32e": {
+    "trading_name": "MFG MORRISONS UP HATHERLEY",
+    "brand_name": "MORRISONS",
+    "distance_miles": 1.76,
+    "is_supermarket": false,
+    "address": "CAERNARVON ROAD, GL51 3BW"
+  },
+  "b87449c706fc1d66b0e9801c9ba3ae19ee520265b9f6e7b5b739c6c474cb04c1": {
+    "trading_name": "Huntley Services",
+    "brand_name": "Valero",
+    "distance_miles": 13.76,
+    "is_supermarket": false,
+    "address": "GENERAL GARAGE, MAIN ROAD, HUNTLEY, GLOUCESTER, GL19 3EA"
+  },
+  "7defada5f1df3030beaa5e2b3cc3378d2d30052707256302cdfed6081fd96a46": {
+    "trading_name": "MFG FOSSEWAY",
+    "brand_name": "TEXACO",
+    "distance_miles": 13.99,
+    "is_supermarket": false,
+    "address": "LOWER SLAUGHTER, GL54 2EY"
+  },
+  "b2971458b775e9fdd9f79b60b68818374a02e812d478ce2c484d1d9fbfe596fa": {
+    "trading_name": "MFG DUDBRIDGE",
+    "brand_name": "ESSO",
+    "distance_miles": 13.0,
+    "is_supermarket": false,
+    "address": "DUDBRIDGE ROAD, GL5 3HF"
+  },
+  "383dc5f36695eadf7ee479a21b8e9946f06db95741d4b3fba11db5e11a58796c": {
+    "trading_name": "GLOUCESTER BROCKWORTH EXTRA - PETROL FILLING STATION",
+    "brand_name": "TESCO",
+    "distance_miles": 5.31,
+    "is_supermarket": false,
+    "address": "GLOUCESTER BUSINESS PARK, GL3 4AA"
+  },
+  "bc149972c35fa5f76865419037830554a13d3ca5c03ec4d2477fb7ca2110c3d8": {
+    "trading_name": "Cox's Cars Ltd",
+    "brand_name": "Texaco",
+    "distance_miles": 14.6,
+    "is_supermarket": false,
+    "address": "COXS CARS LTD, THREE SPRING GARAGE, 33, THREE SPRINGS ROAD, PERSHORE, WR10 1HR"
+  },
+  "f5aea110aef682dabc3a5ff51cb2acb81c24de4a36d51be26d1db0637bdb6d9e": {
+    "trading_name": "MFG NEW QUARRY",
+    "brand_name": "ESSO",
+    "distance_miles": 14.12,
+    "is_supermarket": false,
+    "address": "CHESTERTON LANE, GL7 1YD"
+  },
+  "2f2883a55ce364cc8f0ab76b9d93465ee6a21a0e91208e26882b61ebe51dde45": {
+    "trading_name": "SAINSBURYS BARNWOOD",
+    "brand_name": "SAINSBURY'S",
+    "distance_miles": 5.71,
+    "is_supermarket": false,
+    "address": "BARNETT WAY, BARNWOOD, GL4 3RT"
+  },
+  "35c16c28117bbffb9a8a60fb853200fb30c44b0d472a2b10c174cec871667a14": {
+    "trading_name": "STROUD SUPERSTORE - PETROL FILLING STATION",
+    "brand_name": "TESCO",
+    "distance_miles": 12.21,
+    "is_supermarket": false,
+    "address": "TESCO STORES LTD, GL5 4AG"
+  },
+  "30d0dea7c1e713990c58bf8eb8971fef65977e6ff8975fc51692865f08e3db24": {
+    "trading_name": "TETBURY SUPERSTORE - PETROL FILLING STATION",
+    "brand_name": "TESCO",
+    "distance_miles": 18.04,
+    "is_supermarket": false,
+    "address": "PRIORY RD INDUSTRIAL ESTATE, GL8 8HZ"
+  },
+  "f650990316fb384afcbc3d25b69d7b6fd668ae8b83494856f1008246a76ba846": {
+    "trading_name": "SHELL LITTLE WAITROSE OLDBURY",
+    "brand_name": "SHELL",
+    "distance_miles": 14.15,
+    "is_supermarket": false,
+    "address": "WESTEND ROUNDABOUT, GL10 3SJ"
+  },
+  "8347cd22c40ae0a3b92a6c08a06da5c6ee6f278bc03322d30361113ef1e8189c": {
+    "trading_name": "MFG MORRISONS TEWKESBURY",
+    "brand_name": "MORRISONS",
+    "distance_miles": 7.21,
+    "is_supermarket": false,
+    "address": "ASHCHURCH ROAD, GL20 5QZ"
+  },
+  "74c707ce839d4ca629ffe89e8e95a23eaff05a44930db66b2da427619ab0ccb5": {
+    "trading_name": "MFG HUCCLECOTE",
+    "brand_name": "ESSO",
+    "distance_miles": 5.54,
+    "is_supermarket": false,
+    "address": "HUCCLECOTE ROAD, GL3 3RX"
+  },
+  "c41005d76f1309d6e789b087df1eee05db42ca06a70385b31103f9cf6b408fab": {
+    "trading_name": "BP THREESPRINGS SERVICE STATION",
+    "brand_name": "BP",
+    "distance_miles": 14.78,
+    "is_supermarket": false,
+    "address": "B P GARAGE, THREE SPRINGS ROAD, PERSHORE, WR10 1HH"
+  },
+  "66a6d4195664c9bf116763daf8d4cb2c7937633040ad2c34aa4af950268fcd43": {
+    "trading_name": "EG CINDERFORD PFS",
+    "brand_name": "EG ON THE MOVE",
+    "distance_miles": 18.74,
+    "is_supermarket": false,
+    "address": "133 HIGH STREET, GL14 2TD"
+  },
+  "45cd2dbd76943c817bfd6120068c22d7845d8e0bccca224e1dd6ec1e324db45a": {
+    "trading_name": "Wild Goose Garage",
+    "brand_name": "Texaco",
+    "distance_miles": 19.08,
+    "is_supermarket": false,
+    "address": "WILD GOOSE SERVICE STATION, 27, KINGSHILL ROAD, DURSLEY, GL11 4BJ"
+  },
+  "e9392b0106c3ad34438c048a510676b0833fe28b635e20c16c000d5f0faa2310": {
+    "trading_name": "Millwood Motor Company Ltd",
+    "brand_name": "Millwood Shell",
+    "distance_miles": 17.94,
+    "is_supermarket": false,
+    "address": "Mill  Garage, GL11 5DH"
+  },
+  "b9ee84dd75824c9904b59dafca9aea89b00b55179e29a1aae531419fa2d4ac22": {
+    "trading_name": "FROMEBRIDGE SERVICE STATION",
+    "brand_name": "TEXACO",
+    "distance_miles": 14.69,
+    "is_supermarket": false,
+    "address": "FROMEBRIDGE SERVICE STATION, WHITMINSTER, GLOUCESTER, GL2 7PG"
+  },
+  "5d12b9426e53570f6b2bcf4286449c271f9d12a50dd4badfca5a713b1cab2265": {
+    "trading_name": "HARDWICKE SF CONNECT",
+    "brand_name": "BP",
+    "distance_miles": 11.15,
+    "is_supermarket": false,
+    "address": "BRISTOL ROAD, GL2 2RQ"
+  },
+  "57a2a39c9a5ca24aff05c5d5cf8c91efc8a3a001fea5413c947c20823d4b929d": {
+    "trading_name": "Bridge Service Station",
+    "brand_name": "Texaco",
+    "distance_miles": 13.53,
+    "is_supermarket": false,
+    "address": "BRIDGE SERVICE STATION, 2, GLOUCESTER ROAD, STONEHOUSE, GL10 2PB"
+  },
+  "f04daad495d41891f024d172ea339b7c7f7e46df4b4b49efdcd7a257a4f25f90": {
+    "trading_name": "RONTEC STROUD",
+    "brand_name": "BP",
+    "distance_miles": 12.34,
+    "is_supermarket": false,
+    "address": "LONDON ROAD, GL5 2AX"
+  },
+  "fa18399f16552e392b525aba70b058c2257baae19d1e17f268f2c937259450d0": {
+    "trading_name": "Holbrook Garage",
+    "brand_name": "Holbrook Garage",
+    "distance_miles": 9.58,
+    "is_supermarket": false,
+    "address": "HOLBROOK GARAGE, BISLEY, STROUD, GL6 7BX"
+  },
+  "929d80e0d0fa21c94d2c92c42914e77dbee42bbfae3c0fffb7a43d209e6eadea": {
+    "trading_name": "ASDA QUEDGELEY SUPERMARKET",
+    "brand_name": "ASDA",
+    "distance_miles": 9.91,
+    "is_supermarket": false,
+    "address": "NAAS LANE LINK ROAD, KINGSWAY, GL2 2SN"
+  },
+  "8ee294b4f69334222dbcf640809742b5cd0e621ba6f0308d1cb7a9200c65ea09": {
+    "trading_name": "ASDA TUFFLEY EXPRESS PETROL",
+    "brand_name": "ESSO",
+    "distance_miles": 8.53,
+    "is_supermarket": false,
+    "address": "STROUD ROAD, GL4 0DA"
+  },
+  "fdbc07a5b79f021a5a0d36bfc0852eaae9da6f7313004ab3525c073da5ac0b28": {
+    "trading_name": "Bristol Road",
+    "brand_name": "Bristol Road",
+    "distance_miles": 8.37,
+    "is_supermarket": false,
+    "address": "250, BRISTOL ROAD, GLOUCESTER, GL1 5TA"
+  },
+  "78ca2a30b8bed665f135b66ba77bba7ee1eee8884537f2b511cd2f40b285a331": {
+    "trading_name": "Gloucester Services Southbound",
+    "brand_name": "Esso",
+    "distance_miles": 8.33,
+    "is_supermarket": false,
+    "address": "GLOUCESTER SERVICES, M5 SOUTHBOUND, BROOKTHORPE, GLOUCESTER, GL4 0WW"
+  },
+  "69cc284a6d4617d285f77c3656d2c09bf5a121c7cc4888aeedf9073b20fd3bf4": {
+    "trading_name": "Gloucester Services Northbound",
+    "brand_name": "Esso",
+    "distance_miles": 8.47,
+    "is_supermarket": false,
+    "address": "Between Junctions 12 and 11A, GL4 0DN"
+  },
+  "bf1c6d3a93f8113a604163201e7a86230f568f6077bbd7217e0a21fbcc2b157c": {
+    "trading_name": "CROSS HANDS GARAGE LTD",
+    "brand_name": "BP",
+    "distance_miles": 9.64,
+    "is_supermarket": false,
+    "address": "CROSSHANDS GARAGE, GLOUCESTER ROAD, CORSE, GLOUCESTER, GL19 3BU"
+  },
+  "0366b0f72ad5e8c0a9ab6f20d15e4882ebe49cfb9063cb8d1bc221a55f9060af": {
+    "trading_name": "PJ NICHOLLS LTD LEDBURY",
+    "brand_name": "GULF",
+    "distance_miles": 16.38,
+    "is_supermarket": false,
+    "address": "PARKWAY GARAGE, PARKWAY, LEDBURY, HR8 2JD"
+  },
+  "42cff20ef95a90f14290410eeff56f556f00bacd7f7d1faf594b53291a6501a2": {
+    "trading_name": "Perry & Jordan Gloucester Ltd",
+    "brand_name": "Perry & Jordan Gloucester Ltd",
+    "distance_miles": 7.44,
+    "is_supermarket": false,
+    "address": "PERRY & JORDAN LTD, MERCIA ROAD, GLOUCESTER, GL1 2SQ"
+  },
+  "8f03cb3161354e0efb24f0a960fc4a3f09537543b0ad36adc103ff981496c8dc": {
+    "trading_name": "ASDA GLOUCESTER SUPERCENTRE",
+    "brand_name": "ASDA",
+    "distance_miles": 7.14,
+    "is_supermarket": false,
+    "address": "BRUTON WAY, GL1 1DS"
+  },
+  "e755b35f086237593c51da66ccb72fc9b6f7c41546451a6f825628703d5f0453": {
+    "trading_name": "BARNWOOD SF CONNECT",
+    "brand_name": "BP",
+    "distance_miles": 6.19,
+    "is_supermarket": false,
+    "address": "BARNWOOD ROAD, GL4 3HA"
+  },
+  "3cedb43da4503daa0002b96ab2bda53a29adce11d21ad775d2d5a0afd5d14829": {
+    "trading_name": "RONTEC PIRTON CORNER",
+    "brand_name": "ESSO",
+    "distance_miles": 4.98,
+    "is_supermarket": false,
+    "address": "CHELTENHAM ROAD EAST, GL3 1AE"
+  },
+  "7c46209e813819329b23f5942e7c10943567342fb573b64a227292eb08567f40": {
+    "trading_name": "ASDA CHELTENHAM",
+    "brand_name": "ASDA",
+    "distance_miles": 2.22,
+    "is_supermarket": false,
+    "address": "HATHERLEY LANE, GL51 6PN"
+  },
+  "87a7d998a7adc9b110568faa7b7ef8dda7ece648f1f80e2f92d91a58b3ee9e4c": {
+    "trading_name": "PJ NICHOLLS LTD TEWKESBURY",
+    "brand_name": "GULF",
+    "distance_miles": 7.15,
+    "is_supermarket": false,
+    "address": "P J NICHOLLS LTD, ASHCHURCH ROAD, TEWKESBURY, GL20 8DT"
+  },
+  "f9457c2cc801807f14b301545a644bf119c53ec5a9d4d409ef2347f00b1e5e72": {
+    "trading_name": "ASHCHURCH SF CONNECT",
+    "brand_name": "BP",
+    "distance_miles": 6.94,
+    "is_supermarket": false,
+    "address": "ASHCHURCH ROAD, GL20 8JN"
+  },
+  "2de8833d3cd0d18c98f6ea451fe912a3e6954b8ba59366b5044b7039a4bb4ec3": {
+    "trading_name": "Burford Road Filling station",
+    "brand_name": "Burford Road Filling station",
+    "distance_miles": 13.45,
+    "is_supermarket": false,
+    "address": "BURFORD ROAD FILLING STATION, BURFORD ROAD, CIRENCESTER, GL7 5DS"
+  },
+  "3897365a27999584616c6ed7455aec28897564b10c4dc8ac47bdde3916af6fb5": {
+    "trading_name": "ASDA SIXWAYS EXPRESS PETROL",
+    "brand_name": "ESSO",
+    "distance_miles": 1.31,
+    "is_supermarket": false,
+    "address": "LONDON ROAD, GL52 6HZ"
+  },
+  "fab03b52eb63bee6918f1fdc1540630a4b193338bdd4d9d993d19bebf6be5e9e": {
+    "trading_name": "EG CHELTENHAM PFS",
+    "brand_name": "EG ON THE MOVE",
+    "distance_miles": 1.55,
+    "is_supermarket": false,
+    "address": "TEWKESBURY ROAD, GL51 9SG"
+  },
+  "9aed21695a19dfa7866d72715d49521ed86ea27662cccbdefc504c47074fd852": {
+    "trading_name": "PRESTBURY ROAD SF CONNECT",
+    "brand_name": "BP",
+    "distance_miles": 0.85,
+    "is_supermarket": false,
+    "address": "80-86 PRESTBURY ROAD, GL52 2DJ"
+  },
+  "5694ecb8f7263cdf72476037a3694d6dfc2b9bd29fa0a40b32c73b6f20ed6ebf": {
+    "trading_name": "ASDA KINGSWOOD EXPRESS PETROL",
+    "brand_name": "ESSO",
+    "distance_miles": 3.02,
+    "is_supermarket": false,
+    "address": "CHELTENHAM ROAD, GL52 4SA"
+  },
+  "36cf91a8786b6b14789715aab41a7fd3a0ba7a405f992f87ca6155677239f304": {
+    "trading_name": "The Barrington Filling Station",
+    "brand_name": "The Barrington Filling Station",
+    "distance_miles": 17.17,
+    "is_supermarket": false,
+    "address": "BARRINGTON FILLING STATION, LITTLE BARRINGTON, BURFORD, OX18 4TN"
+  },
+  "e906ce2ebe3f05235895c3a2b0de473915a29e7a07582cc4215f214c22965e2d": {
+    "trading_name": "STATION ROAD SF CONNECT",
+    "brand_name": "BP",
+    "distance_miles": 15.15,
+    "is_supermarket": false,
+    "address": "STATION ROAD, GL54 1JU"
+  },
+  "6c0734f77d7899ad8ad6edbc9fd4ef27c8b7c86f07efb13c73b856639f2ec870": {
+    "trading_name": "ASDA MARSH EXPRESS PETROL",
+    "brand_name": "ESSO",
+    "distance_miles": 16.89,
+    "is_supermarket": false,
+    "address": "STOW ROAD, GL56 0DS"
+  },
+  "71c1ddae9b9e47476fe083843f0516f603504921fad97cc9480c4ddb8eafe9e2": {
+    "trading_name": "Daniels Petroleum Ltd",
+    "brand_name": "Texaco",
+    "distance_miles": 16.39,
+    "is_supermarket": false,
+    "address": "EVOLVING VISIONS, 220-224, WELLS ROAD, MALVERN, WR14 4HD"
+  },
+  "cee0dc2b75654ae087fb446b3e139297e20eb967061b3a39ab1f61116d363a5e": {
+    "trading_name": "PJ NICHOLLS LTD MALVERN",
+    "brand_name": "GULF",
+    "distance_miles": 17.95,
+    "is_supermarket": false,
+    "address": "262-264 Pickersleigh Road, WR14 2QZ"
+  },
+  "6f08efdf79c2f133e6fe3db2067667e413af3667b132d5138708b958006b51c0": {
+    "trading_name": "ASDA STRENSHAM EXPRESS PETROL",
+    "brand_name": "BP",
+    "distance_miles": 11.94,
+    "is_supermarket": false,
+    "address": "JUNCTION 8, M5, WR8 0BZ"
+  },
+  "1acd2a89bc59f556d4172510f5cc2ff1a53f466565da13ef0d5965d3735b3c94": {
+    "trading_name": "STRENSHAM MWSA CONNECT",
+    "brand_name": "BP",
+    "distance_miles": 11.24,
+    "is_supermarket": false,
+    "address": "M5 EASTBOUND J7/8, WR8 9LJ"
+  },
+  "22569be36c2fe908c59cd2e7f2e092ce7d3a248e5a80bd10c742e6fab283a201": {
+    "trading_name": "Clerkenleap Service Station",
+    "brand_name": "ESSO",
+    "distance_miles": 19.04,
+    "is_supermarket": false,
+    "address": "Clerkenleap Service Station, WR5 3HR"
+  },
+  "15959b02319bc3b47ef18411d27ca83730579420b040945da14c1de0ff3199c7": {
+    "trading_name": "ASDA EVESHAM EXPRESS PETROL",
+    "brand_name": "TEXACO",
+    "distance_miles": 15.94,
+    "is_supermarket": false,
+    "address": "A46 EVESHAM BYPASS, WR11 4TP"
+  },
+  "c912c90182ed076133e12dfdb5b95383434a6f2c711d089edab93495fac2ba24": {
+    "trading_name": "PJ NICHOLLS LTD PERSHORE",
+    "brand_name": "GULF",
+    "distance_miles": 16.15,
+    "is_supermarket": false,
+    "address": "ORCHARD VIEW, TERRACE ROAD, PINVIN, PERSHORE, WR10 2DJ"
+  },
+  "9e9850cad1fdb6968bb20d607f129675df131ce2a315b06fcd3d39babe6738fe": {
+    "trading_name": "ASDA PINVIN EXPRESS PETROL",
+    "brand_name": "SHELL",
+    "distance_miles": 16.0,
+    "is_supermarket": false,
+    "address": "ABBEY VIEW, B4083, WR10 2DT"
+  },
+  "b394ac25de51ec2f2bcef3f2e369f98118d21eeaf33624f5e21b0540eba11db7": {
+    "trading_name": "Station Garage Stores Ltd",
+    "brand_name": "Harvest",
+    "distance_miles": 13.21,
+    "is_supermarket": false,
+    "address": "Station Garage Stores Ltd. , WR12 7DE"
+  },
+  "e6bade3cbdf0579e83d8e174895dd03b413bdc5b1abb9fe2eea12c435180281f": {
+    "trading_name": "H J TAYLOR",
+    "brand_name": "H J TAYLOR",
+    "distance_miles": 14.52,
+    "is_supermarket": false,
+    "address": "WILLERSEY GARAGE, WILLERSEY, BROADWAY, WR12 7PL"
+  },
+  "a950a3a736e9ab0bbe341bc68d0362fd42ec47a38f833ae2c09e1507b1391ca2": {
+    "trading_name": "MFG FAIRFORD",
+    "brand_name": "ESSO",
+    "distance_miles": 19.44,
+    "is_supermarket": false,
+    "address": "LONDON ROAD, GL7 4DS"
+  },
+  "542702a99b4aee87156b2adc5746885480dd710ce07fe748d3dfd3d37c0fed59": {
+    "trading_name": "GLOUCESTER EASTERN AVE ESSO EXPRESS",
+    "brand_name": "ESSO",
+    "distance_miles": 7.17,
+    "is_supermarket": false,
+    "address": "EASTERN AVE, GL4 6QS"
+  },
+  "7e84cc0b2f22d927d55d87f59e6f56bf77a7be1a3e1f7d6c1d55a543fe8e165e": {
+    "trading_name": "SAINSBURYS OAKLEY",
+    "brand_name": "SAINSBURY'S",
+    "distance_miles": 1.2,
+    "is_supermarket": false,
+    "address": "PRIORS ROAD, GL52 5AQ"
+  },
+  "205b178e2038d52d0a1608c7a6366d044069e39b2ea8b83c2c7e0ceca31001b0": {
+    "trading_name": "SAINSBURYS GLOUCESTER QUAYS",
+    "brand_name": "SAINSBURY'S",
+    "distance_miles": 8.19,
+    "is_supermarket": false,
+    "address": "ST. ANN WAY, GL2 5SA"
+  },
+  "e56fe320d23f6d44ecdf8916ab4230b79d3cd528dd4f81a3f1873474a3e2cc9d": {
+    "trading_name": "MALVERN",
+    "brand_name": "VALERO",
+    "distance_miles": 18.75,
+    "is_supermarket": false,
+    "address": "214-216 WORCESTER ROAD, WR14 1AG"
+  },
+  "49adbf7dfe4bc194b46fd59fed1088c7a1115341d83cf711b7d05e218e79df55": {
+    "trading_name": "MFG TEDDINGTON HANDS",
+    "brand_name": "TEXACO",
+    "distance_miles": 7.26,
+    "is_supermarket": false,
+    "address": "A435-A438 ROUNDABOUT, GL20 8NE"
+  },
+  "c9b02bace32fc52120cef110a7c3015ed1b8cd03d17e1463b6f7a27ce1a83cbc": {
+    "trading_name": "MFG MATSON",
+    "brand_name": "ESSO",
+    "distance_miles": 7.13,
+    "is_supermarket": false,
+    "address": "191 PAINSWICK ROAD, GL4 4BS"
+  },
+  "65dfea44a6e51db8839c0022f4e03862b3a3026656bfb7344d962c29ecf8c1cd": {
+    "trading_name": "SHELL LITTLE WAITROSE CHELTENHAM",
+    "brand_name": "SHELL",
+    "distance_miles": 1.2,
+    "is_supermarket": false,
+    "address": "352-356 GLOUCESTER ROAD, GL51 7AY"
+  },
+  "e4e68bc39727d2342c8c3f54b5ed738bea3b323c7726d28e41c2b2a35c81700b": {
+    "trading_name": "CHELTENHAM SUPERSTORE - PETROL FILLING STATION",
+    "brand_name": "TESCO",
+    "distance_miles": 0.61,
+    "is_supermarket": false,
+    "address": "COLLETTS DR, GL51 8JQ"
+  },
+  "1fbf6a9e2dcadb1be22635ea4486696fba7ac114c6122175ad96100241e0c411": {
+    "trading_name": "MFG ELTON",
+    "brand_name": "TEXACO",
+    "distance_miles": 15.96,
+    "is_supermarket": false,
+    "address": "ELTON CORNER, GL14 1JQ"
+  },
+  "67b3f99f0ac9734bd4e1ed02730ab43a38b450ee1e193ccb538e4984f272d7fe": {
+    "trading_name": "Fourways Garage Chalford Ltd",
+    "brand_name": "Fourways Garage Chalford Ltd",
+    "distance_miles": 11.93,
+    "is_supermarket": false,
+    "address": "FOURWAYS GARAGE, MIDDLE HILL, CHALFORD HILL, STROUD, GL6 8BD"
+  },
+  "b7b1be88fcedd4ed354b7d320a77cf3e637e46d7cfaf4b6759dffabafcaa49cc": {
+    "trading_name": "BOURTON",
+    "brand_name": "VALERO",
+    "distance_miles": 13.81,
+    "is_supermarket": false,
+    "address": "STATION ROAD, GL54 2EP"
+  },
+  "0763404e56fb3f1d2cb3f587d8cf01dc37418a92ecfffc6ee5332face691f7f7": {
+    "trading_name": "MFG LONGLEVENS",
+    "brand_name": "ESSO",
+    "distance_miles": 5.93,
+    "is_supermarket": false,
+    "address": "131 CHELTENHAM ROAD, GL2 0JH"
+  },
+  "056f91975af3b9ea6b2fe01260a746d198ec9632637b90fe117c9cd7804098b6": {
+    "trading_name": "SAINSBURYS TEWKESBURY ROAD",
+    "brand_name": "SAINSBURY'S",
+    "distance_miles": 1.69,
+    "is_supermarket": false,
+    "address": "GALLAGHER RETAIL PARK, GL51 9RR"
+  },
+  "0d188cd9d8d54f62b1596871e8468d1f12852401a8f4d85414de208c6722b7e4": {
+    "trading_name": "LEA GARAGE",
+    "brand_name": "GULF",
+    "distance_miles": 17.69,
+    "is_supermarket": false,
+    "address": "LEA STORES, LEA, ROSS-ON-WYE, HR9 7JZ"
+  },
+  "b70fb0f8aa0eb7423ca09bb939f721d332a8ddc79cc4503335ae2a4448f87cc9": {
+    "trading_name": "SHELL NAILSWORTH",
+    "brand_name": "SHELL",
+    "distance_miles": 15.1,
+    "is_supermarket": false,
+    "address": "STROUD ROAD, GL6 0BE"
+  },
+  "162ada7168f466f6be2d5c61e06f8f2a637dfd4578f81489a522f2322cd7394a": {
+    "trading_name": "COOMBE HILL SERVICE STATION",
+    "brand_name": "VALERO",
+    "distance_miles": 4.72,
+    "is_supermarket": false,
+    "address": "TEWKESBURY ROAD, GL19 4BQ"
+  },
+  "a2122a0cab9e4973c0cbcafad04f9ef5bb03dc5667d3435e3b728ef8e06ac796": {
+    "trading_name": "Westgate Services",
+    "brand_name": "Texaco",
+    "distance_miles": 7.85,
+    "is_supermarket": false,
+    "address": "WESTGATE GARAGE, 207-211, WESTGATE STREET, GLOUCESTER, GL1 2RN"
+  },
+  "b72d60d017d5c343fab9a06b2f321e5f5d878854f9001631e23860cab9c55018": {
+    "trading_name": "MFG MORRISONS EVESHAM",
+    "brand_name": "MORRISONS",
+    "distance_miles": 13.66,
+    "is_supermarket": false,
+    "address": "CHARITY CRESCENT, WR11 2UT"
+  },
+  "e3ce60b30082a12a17a0be13ea1d7ddbeafd5a2b56d93d31ce4627491e4588ad": {
+    "trading_name": "LEDBURY",
+    "brand_name": "TEXACO",
+    "distance_miles": 17.75,
+    "is_supermarket": false,
+    "address": "THE HOMEND, HR8 1BS"
+  },
+  "080690c5f556dde2543b1f3f49079f6e1f727195fa129ab88ac0b46fe04bcadf": {
+    "trading_name": "VALE",
+    "brand_name": "BP",
+    "distance_miles": 12.75,
+    "is_supermarket": false,
+    "address": "CHELTENHAM ROAD, WR11 7QP"
+  },
+  "849b20480e3dff2429137fb8f4fb0ba4e832f0b8ed0e4db485fe553940dc4d04": {
+    "trading_name": "WORCESTER SUPERSTORE - PETROL FILLING STATION",
+    "brand_name": "TESCO",
+    "distance_miles": 19.56,
+    "is_supermarket": false,
+    "address": "ST PETERS DR, WR5 3SW"
+  },
+  "b7faefbdb27ef722cbce2791f6807ac9aa8926dc374b1ae5596e3cbb2da3d1ba": {
+    "trading_name": "Cheltenham Service Station",
+    "brand_name": "Texaco",
+    "distance_miles": 0.65,
+    "is_supermarket": false,
+    "address": "TEXACO, LANSDOWN ROAD, CHELTENHAM, GL50 2JA"
+  },
+  "9e9cf8bde7f98caf625a92057e754ceeee2b1ed6c526ab1cfc9846d78356fe79": {
+    "trading_name": "NEWENT FUEL EXPRESS AUTOMAT",
+    "brand_name": "GULF",
+    "distance_miles": 13.57,
+    "is_supermarket": false,
+    "address": "GLOUCESTER ROAD, GL18 1HP"
+  },
+  "4a1fddda186b35f9c8c3b1b3ec14b74963cdd41db27846dfb2e70678e31503a4": {
+    "trading_name": "East End Services",
+    "brand_name": "BP",
+    "distance_miles": 2.04,
+    "is_supermarket": false,
+    "address": "EAST END SERVICE STATION, LONDON ROAD, CHARLTON KINGS, CHELTENHAM, GL52 6YY"
+  },
+  "3eb50b561ea82521aee76f46eb3ea91a560b04ef5159e77410aa2f327838513b": {
+    "trading_name": "MFG MORRISONS MALVERN",
+    "brand_name": "MORRISONS",
+    "distance_miles": 18.71,
+    "is_supermarket": false,
+    "address": "ROMAN WAY, WR14 1PZ"
+  },
+  "2ef4749bb97bdfdf328da2b710bc6264ddab2b8d8591ed90146c3caec62da0d7": {
+    "trading_name": "SHELL CROSSHANDS",
+    "brand_name": "SHELL",
+    "distance_miles": 4.96,
+    "is_supermarket": false,
+    "address": "CIRENCESTER ROAD, GL3 4PL"
+  },
+  "00612bc7ab7c1c4bf8eb1962b2e53cfcb751e287338b3efbcb67b02eabc28008": {
+    "trading_name": "SHELL WAITROSE  CHELTENHAM",
+    "brand_name": "SHELL",
+    "distance_miles": 0.4,
+    "is_supermarket": false,
+    "address": "HONEYBOURNE WAY, GL50 3QW"
+  },
+  "a155d2e50db1ff39d9f3548b0ef36687a9640f65088b2eb540b6abe9908b5662": {
+    "trading_name": "EVESHAM WORCESTER RD SUPERSTORE - PETROL FILLING STATION",
+    "brand_name": "TESCO",
+    "distance_miles": 15.01,
+    "is_supermarket": false,
+    "address": "TESCO STORES LTD, WR11 4XF"
+  },
+  "3cd54b7ec6a1c8266851beed78b90a0eeb9336557aa18d07778a41ab686de6c4": {
+    "trading_name": "GLOUCESTER QUEDGELEY EXTRA - PETROL FILLING STATION",
+    "brand_name": "TESCO",
+    "distance_miles": 9.94,
+    "is_supermarket": false,
+    "address": "BRISTOL ROAD, GL2 4PF"
   }
 }

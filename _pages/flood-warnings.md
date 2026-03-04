@@ -20,13 +20,13 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: River Severn in Gloucestershire
-- River levels are expected to remain high over the next few days in response to recent rainfall. Flooding is possible today, Tuesday 3rd March 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill.  
-
-Peaks:- Mythe peaked at 3.78m on 1st March, and Haw Bridge peaked at 4.7m on 1st March. 
-
- We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
-
-This message will be updated by 10:00AM on 4th March 2026 or as the situation changes.
+- High river levels today may lead to flooding. 
+Flooding is possible on 04 March 2026 . 
+Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Peaks:- Mythe peaked at 3.78m on 1st March, and Haw Bridge peaked at 4.7m on 1st March.
+This alert has been re-issued due to flooding around the Leigh Court storage area which is expected to fall slowly over the next few days. 
+We are closely monitoring the situation  
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 05 March 2026 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next few days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.5m this morning 04/03/26 and Gloucester 3.1m to 3.3m this morning 04/03/26.
@@ -68,13 +68,6 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12.00 on 5 March 2026 or as the situation changes.
 
-- Warning no longer in force: River Thames and its small tributaries from Calcutt to Lechlade
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
@@ -91,13 +84,6 @@ We will continue to monitor the situation and will issue further alerts or warni
 If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
-- Warning no longer in force: River Leach from Northleach to Mill Lane near Lechlade
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 
 
@@ -106,13 +92,6 @@ River levels are high on the River Coln. Flooding of low lying land and roads is
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
  This message will be updated by 12.00 on 5 March 2026, or as the situation changes.
-
-- Warning no longer in force: River Coln from Fossebridge to Quennington
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.  
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 
 <!-- flood_marker ends -->

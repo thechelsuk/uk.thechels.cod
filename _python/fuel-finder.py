@@ -19,10 +19,10 @@ if _env_file.exists():
 
 # -- Configuration ------------------------------------------------------------
 
-BASE_URL        = "https://www.fuel-finder.service.gov.uk"
-AUTH_PATH       = "/api/v1/oauth/generate_access_token"
-PFS_PATH        = "/api/v1/pfs"
-PRICES_PATH     = "/api/v1/pfs/fuel-prices"
+BASE_URL         = "https://www.fuel-finder.service.gov.uk"
+AUTH_PATH        = "/api/v1/oauth/generate_access_token"
+PFS_PATH         = "/api/v1/pfs"
+PRICES_PATH      = "/api/v1/pfs/fuel-prices"
 
 CHELTENHAM_LAT  = 51.899
 CHELTENHAM_LON  = -2.078
@@ -44,24 +44,40 @@ FUEL_LABELS = {
 def fuel_label(code):
     return FUEL_LABELS.get(code, code)
 
+
+# -- Auth helpers -------------------------------------------------------------
+
+def authenticate(client_id, client_secret):
+    """Obtain a fresh access token, retrying on transient failures."""
+    for attempt in range(4):
+        try:
+            resp = requests.post(
+                BASE_URL + AUTH_PATH,
+                json={"client_id": client_id, "client_secret": client_secret},
+                timeout=20,
+            )
+            if resp.ok:
+                data = resp.json()
+                payload = data.get("data") if isinstance(data.get("data"), dict) else data
+                return payload["access_token"]
+            wait = BATCH_DELAY_SECS * (attempt + 2)
+            print(f"  Auth attempt {attempt + 1}/4 failed ({resp.status_code}), retrying in {wait}s...")
+            time.sleep(wait)
+        except requests.exceptions.RequestException as e:
+            wait = BATCH_DELAY_SECS * (attempt + 2)
+            print(f"  Auth attempt {attempt + 1}/4 error ({e}), retrying in {wait}s...")
+            time.sleep(wait)
+    resp.raise_for_status()  # raise on final failure
+
+
+# -- Helpers ------------------------------------------------------------------
+
 def haversine_miles(lat1, lon1, lat2, lon2):
     phi1, phi2 = math.radians(lat1), math.radians(lat2)
     dphi       = math.radians(lat2 - lat1)
     dlambda    = math.radians(lon2 - lon1)
     a = math.sin(dphi / 2) ** 2 + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda / 2) ** 2
     return 2 * EARTH_RADIUS_MI * math.atan2(math.sqrt(a), math.sqrt(1 - a))
-
-
-def get_access_token(client_id, client_secret):
-    url  = BASE_URL + AUTH_PATH
-    resp = requests.post(url, json={"client_id": client_id, "client_secret": client_secret}, timeout=20)
-    if not resp.ok:
-        print(f"  Auth failed {resp.status_code}: {resp.text}")
-        resp.raise_for_status()
-    data = resp.json()
-    if isinstance(data.get("data"), dict):
-        return data["data"]["access_token"]
-    return data["access_token"]
 
 
 def fetch_all_pages(path, token, extra_params=None, label=""):
@@ -224,10 +240,10 @@ def station_from_pfs_record(record):
 
 if __name__ == "__main__":
     try:
-        root         = pathlib.Path(__file__).parent.parent.resolve()
-        cache_path   = root / "_data" / "fuel-stations.json"
-        ignore_path  = root / "_data" / "ignore-stations.json"
-        bootstrap    = "--bootstrap" in sys.argv
+        root            = pathlib.Path(__file__).parent.parent.resolve()
+        cache_path      = root / "_data" / "fuel-stations.json"
+        ignore_path     = root / "_data" / "ignore-stations.json"
+        bootstrap       = "--bootstrap" in sys.argv
 
         FUEL_KEY   = os.getenv("FUEL_KEY") or ""
         FUEL_TOKEN = os.getenv("FUEL_TOKEN") or ""
@@ -236,9 +252,10 @@ if __name__ == "__main__":
             print("Error: FUEL_KEY and FUEL_TOKEN environment variables are required")
             raise SystemExit(1)
 
-        # 1. Authenticate
+        # 1. Authenticate — fresh token each run (per API security guidelines),
+        #    with retry logic for transient failures.
         print("Authenticating...")
-        access_token = get_access_token(FUEL_KEY, FUEL_TOKEN)
+        access_token = authenticate(FUEL_KEY, FUEL_TOKEN)
         print("  OK")
 
         lookback_date  = (datetime.date.today() - datetime.timedelta(days=PRICE_LOOKBACK_DAYS)).strftime("%Y-%m-%d")

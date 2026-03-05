@@ -32,57 +32,52 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. 
 
-River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 4 March 2026, especially near Cerney Wick. The forecast is to remain dry today and for the next few days. Levels remain high but stable. We expect levels to decrease over the coming days.
+River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 5 March 2026, especially near Cerney Wick. The forecast is for a dry day today with further rain through much of tomorrow. Levels remain high but stable. We expect levels to very slowly decrease over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 5 March 2026, or as the situation changes.
+This message will be updated by 12.00 on 6 March 2026, or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding. 
 
-River levels are high on the River Windrush. Flooding of low lying land and roads is expected to continue today, 4 March 2026, including areas around Bourton on the Water, Witney, and Newbridge. The forecast is to remain dry today and for the next few days.  River levels are high but stable. We expect levels to decrease over the coming days.
+River levels are high on the River Windrush. Flooding of low lying land and roads is expected to continue today, 5 March 2026, including areas around Bourton on the Water, Witney, and Newbridge. The forecast is for a dry day today with further rain through much of tomorrow.  River levels are high but stable. We expect levels to slowly decrease over the coming days. Levels remain sensitive to further rainfall. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 5 March 2026, or as the situation changes.
+This message will be updated by 12.00 on 6 March 2026, or as the situation changes.
 
-- Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- High river levels may lead to flooding. 
-
-River levels are high, but falling, on the River Glyme. Flooding of low lying land and roads is expected to continue today, 4 March 2026, especially in the Woodstock area. The forecast is to remain dry today and for the next few days.  Levels on the River Evenlode have fallen below the flood risk threshold. 
-
-We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
-
-This message will be updated by 12.00 on 5 March 2026, or as the situation changes.
-
-- Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
-- High river levels may lead to flooding. 
-
-River levels are high on the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 4 March 2026. The forecast is to remain dry today and for the next few days.   We expect levels to remain high but decrease over the coming days.
+- Warning no longer in force: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.  
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
 
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
+- Warning no longer in force: River Thames and tributaries from Buscot Wick down to Kings Lock
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
 
-This message will be updated by 12.00 on 5 March 2026 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-River levels remain high but are now falling gradually on the River Dikler following recent rainfall. Flooding of low lying land and roads is expected to continue today, 4 March 2026, including around Bourton on the Water. The forecast is to remain dry today and for the next few days.  We expect levels to remain high but decrease over the coming days.
+River levels remain high but are now falling gradually on the River Dikler following recent rainfall. Flooding of low lying land and roads remains possible today, 5 March 2026, including around Bourton on the Water. The forecast is for a dry day today with further rain through much of tomorrow.  We expect levels to remain high but decrease over the coming days. Levels remain sensitive to further rainfall. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 5 March 2026, or as the situation changes.
+This message will be updated by 12.00 on 6 March 2026, or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 
 
-River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 4 March 2026, especially in the areas around Fossebridge, Coln St Dennis, and Bibury. The forecast is to remain dry today and for the next few days.  River levels are high but stable.  We expect levels to decrease over the coming days
+River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 5 March 2026, especially in the areas around Fossebridge, Coln St Dennis, and Bibury. The forecast is for a dry day today with further rain through much of tomorrow. River levels are high but stable. We expect levels to decrease very slowly over the coming days
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
- This message will be updated by 12.00 on 5 March 2026, or as the situation changes.
+ This message will be updated by 12.00 on 6 March 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

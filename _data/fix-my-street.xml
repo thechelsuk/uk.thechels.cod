@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -115,6 +115,15 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 4th March</title>
+<link>https://www.fixmystreet.com/report/9046268</link>
+<description>NWD I5 minutes delay boards carriage way pothole 600x500x70mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9046268&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9046268</guid>
+<pubDate>Wed, 04 Mar 2026 15:34:07 +0000</pubDate>
+<georss:point>51.9073347 -2.10498959999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 4th March</title>
 <link>https://www.fixmystreet.com/report/9046266</link>
 <description>Road closure  28 day carriage way pothole 1800x1800x50mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9046266&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
@@ -139,15 +148,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9046260</guid>
 <pubDate>Wed, 04 Mar 2026 15:34:07 +0000</pubDate>
 <georss:point>51.9086934 -2.10781809999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 4th March</title>
-<link>https://www.fixmystreet.com/report/9046268</link>
-<description>NWD I5 minutes delay boards carriage way pothole 600x500x70mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9046268&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9046268</guid>
-<pubDate>Wed, 04 Mar 2026 15:34:07 +0000</pubDate>
-<georss:point>51.9073347 -2.10498959999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 4th March</title>

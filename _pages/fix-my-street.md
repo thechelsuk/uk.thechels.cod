@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole in middle of junction, 5th March :- [9049409](https://www.fixmystreet.com/report/9049409)
+- Fallen hedge blocking view, 5th March :- [9049212](https://www.fixmystreet.com/report/9049212)
+- Near to curb at 14 Greenhills Road inadequate patch has shrunk away from original tarmac to leave crater. Large thump when car goes over it. Next rainfall will make it extremely dangerous., 5th March :- [9049339](https://www.fixmystreet.com/report/9049339)
+- Abandoned vehicle, 5th March :- [9049028](https://www.fixmystreet.com/report/9049028)
 - Two connected potholes in the uphill entrance to Green St, 5th March :- [9048865](https://www.fixmystreet.com/report/9048865)
 - 36 inch pothole on left of road after roundabout, 5th March :- [9048760](https://www.fixmystreet.com/report/9048760)
 - Parking restrictions No parking 8am - 6.30pm Mon - Sat, 4th March :- [9048346](https://www.fixmystreet.com/report/9048346)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th March :- [9046266](https://www.fixmystreet.com/report/9046266)
 - TMC - Defects -CW6 Potholes  problem, 4th March :- [9046267](https://www.fixmystreet.com/report/9046267)
 - TMC - Defects -CW6 Potholes  problem, 4th March :- [9046260](https://www.fixmystreet.com/report/9046260)
-- TMC - Defects -CW6 Potholes  problem, 4th March :- [9046268](https://www.fixmystreet.com/report/9046268)
-- TMC - Defects -CW6 Potholes  problem, 4th March :- [9046265](https://www.fixmystreet.com/report/9046265)
-- TMC - Defects -CW6 Potholes  problem, 4th March :- [9046264](https://www.fixmystreet.com/report/9046264)
-- TMC - Defects -CW6 Potholes  problem, 4th March :- [9046261](https://www.fixmystreet.com/report/9046261)
 
 <!-- fix_marker ends -->

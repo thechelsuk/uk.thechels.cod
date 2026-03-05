@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is a pothole on the road right in front of 19 Tennyson Road, 5th March :- [9054839](https://www.fixmystreet.com/report/9054839)
+- Large series of potholes along path running from parton road to parton manor school entrance making it dangerous for padestrians, 5th March :- [9054836](https://www.fixmystreet.com/report/9054836)
+- Many if the kerb stones are damaged or loose and the road surface itself all onlong orchard way, holtham avenue and meadow way are cracked, damaged and uneven., 5th March :- [9054821](https://www.fixmystreet.com/report/9054821)
+- Series if potholes but the edges of the recent gas works have also already started to come away indicating that there is going to be another load of potholes here soon., 5th March :- [9054807](https://www.fixmystreet.com/report/9054807)
+- Rad surface failure over several metres across and several inches deep in the middle of the carriageway. Extremely dangerous and has been there for weeks., 5th March :- [9054660](https://www.fixmystreet.com/report/9054660)
 - 2 street lights out, 5th March :- [9054244](https://www.fixmystreet.com/report/9054244)
 - Two road signs left by contractore, 5th March :- [9054224](https://www.fixmystreet.com/report/9054224)
 - Loose manhole cover, 5th March :- [9054054](https://www.fixmystreet.com/report/9054054)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Various potholes on Elmfield rd, 5th March :- [9053027](https://www.fixmystreet.com/report/9053027)
 - Row of potholes, 5th March :- [9052872](https://www.fixmystreet.com/report/9052872)
 - Road marking white lines or studs problem, 5th March :- [9052884](https://www.fixmystreet.com/report/9052884)
-- Road marking white lines or studs problem, 5th March :- [9052883](https://www.fixmystreet.com/report/9052883)
-- A pothole in road problem, 5th March :- [9052882](https://www.fixmystreet.com/report/9052882)
-- Large pothole on speed hump, 5th March :- [9052574](https://www.fixmystreet.com/report/9052574)
-- TMC - Defects -CW6 Potholes  problem, 5th March :- [9052677](https://www.fixmystreet.com/report/9052677)
-- TMC - Defects -CW6 Potholes  problem, 5th March :- [9052674](https://www.fixmystreet.com/report/9052674)
 
 <!-- fix_marker ends -->

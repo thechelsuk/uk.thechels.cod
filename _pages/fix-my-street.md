@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 15+ inch pothole, junction of the Reddings, 6th March :- [9061522](https://www.fixmystreet.com/report/9061522)
+- Very deep pothole, gave me a flat tyre on Wednesday whilst I was only going 4mph., 6th March :- [9061516](https://www.fixmystreet.com/report/9061516)
 - Large pothole. Caused damage to the front passenger tyre, 6th March :- [9061285](https://www.fixmystreet.com/report/9061285)
 - Signs and road markings completely the wrong way around, 6th March :- [9061244](https://www.fixmystreet.com/report/9061244)
 - Pothole keeps on reoccurring., 6th March :- [9060842](https://www.fixmystreet.com/report/9060842)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dumped fridge, 6th March :- [9058775](https://www.fixmystreet.com/report/9058775)
 - Pavement damaged, 6th March :- [9058635](https://www.fixmystreet.com/report/9058635)
 - TMC - Defects -CW6 Potholes  problem, 6th March :- [9058746](https://www.fixmystreet.com/report/9058746)
-- TMC - Defects -CW6 Potholes  problem, 6th March :- [9058745](https://www.fixmystreet.com/report/9058745)
-- TMC - Defects -CW6 Potholes  problem, 6th March :- [9058497](https://www.fixmystreet.com/report/9058497)
 
 <!-- fix_marker ends -->

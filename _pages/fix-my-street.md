@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign warning of humps ahead is turned 90 degrees, 6th March :- [9055509](https://www.fixmystreet.com/report/9055509)
+- Sign plate for two way traffic ahead misaligned, 6th March :- [9055488](https://www.fixmystreet.com/report/9055488)
+- Sign plate missligned, 6th March :- [9055467](https://www.fixmystreet.com/report/9055467)
+- Lamps on sign giving direction are out, 6th March :- [9055455](https://www.fixmystreet.com/report/9055455)
 - Not only a pothole, 6th March :- [9055308](https://www.fixmystreet.com/report/9055308)
 - Many items fly tipped along the service road at the back of Albert Street and Hungerford Street, 5th March :- [9055063](https://www.fixmystreet.com/report/9055063)
 - Drainage gully still blocked in lane "maintained at public expense, Gloucestershire" as shown in land registry searches, 5th March :- [9055042](https://www.fixmystreet.com/report/9055042)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Pot hole on sandford mill road, 5th March :- [9053879](https://www.fixmystreet.com/report/9053879)
 - 10 Large Cones 3rd time of report, 5th March :- [9053714](https://www.fixmystreet.com/report/9053714)
 - 1. Several potholes and poor road surface over 2 or 3 square meters. One very deep pothole which most people swerve around. Its dangerous. And 2. Two or Three deep channels in the centre of the road need immediate attention., 5th March :- [9053784](https://www.fixmystreet.com/report/9053784)
-- Fly tipping on pavement, 5th March :- [9053672](https://www.fixmystreet.com/report/9053672)
-- Pothole on drain cover, 5th March :- [9053636](https://www.fixmystreet.com/report/9053636)
-- 3 ft long and deep pothole outside 160 old bath road., 5th March :- [9053471](https://www.fixmystreet.com/report/9053471)
-- Massive pothole as you come out of Haymans close onto Greenhills road, 5th March :- [9053226](https://www.fixmystreet.com/report/9053226)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 06 March 2026
 
-- The average temperature today is 6.75˚C,
-- With highs of 6.75˚C and lows of 6.75˚C,
-- It may feel like 3.4˚C with overcast clouds
-- The wind speed is 5.3m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 87%
+- The average temperature today is 5.88˚C,
+- With highs of 6.83˚C and lows of 5.38˚C,
+- It may feel like 4.61˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 87%
 - The sun will rise at 06:43 and set at 17:56
 
 <!-- weather_marker ends -->

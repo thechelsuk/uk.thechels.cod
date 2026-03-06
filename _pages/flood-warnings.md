@@ -19,8 +19,12 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Flood alert: River Severn in Gloucestershire
-- High river levels today may lead to flooding. Flooding is possible on 06 March 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Peaks:- Mythe peaked at 3.78m on 1st March, and Haw Bridge peaked at 4.7m on 1st March. This alert is in force due to flooding around the Leigh Court storage area, which is continuing to fall. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 07 March 2026 or as the situation changes.
+- Warning no longer in force: River Severn in Gloucestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
+
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. 

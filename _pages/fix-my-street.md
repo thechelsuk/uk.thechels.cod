@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole keeps on reoccurring., 6th March :- [9060842](https://www.fixmystreet.com/report/9060842)
+- Cleeve View Road - multiple potholes, 6th March :- [9060958](https://www.fixmystreet.com/report/9060958)
+- Very large pothole on Hatherley Road, 6th March :- [9060783](https://www.fixmystreet.com/report/9060783)
+- 24 inch pothole occurring outside 5 Colesbourne Road, 6th March :- [9060536](https://www.fixmystreet.com/report/9060536)
 - Fly tipping, 6th March :- [9060436](https://www.fixmystreet.com/report/9060436)
 - Blocking the pavement, 6th March :- [9060408](https://www.fixmystreet.com/report/9060408)
 - Road has sunk causing a huge bump in the road, 6th March :- [9060372](https://www.fixmystreet.com/report/9060372)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 6th March :- [9058497](https://www.fixmystreet.com/report/9058497)
 - Broken tarmac around drain cover, 6th March :- [9058220](https://www.fixmystreet.com/report/9058220)
 - TMC - Defects -CW6 Potholes  problem, 6th March :- [9058186](https://www.fixmystreet.com/report/9058186)
-- TMC - Defects -CW6 Potholes  problem, 6th March :- [9058185](https://www.fixmystreet.com/report/9058185)
-- TMC - Defects -CW6 Potholes  problem, 6th March :- [9058178](https://www.fixmystreet.com/report/9058178)
-- TMC - Defects -CW6 Potholes  problem, 6th March :- [9058176](https://www.fixmystreet.com/report/9058176)
-- 12 inch pothole in single track road in tyre track. No way to avoiding as too narrow and no verge, 6th March :- [9057681](https://www.fixmystreet.com/report/9057681)
 
 <!-- fix_marker ends -->

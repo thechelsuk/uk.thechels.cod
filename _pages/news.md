@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- More than 40k trees planted at major road project ([4 hours ago](https://www.bbc.com/news/articles/cwyxxd0q75yo?at_medium=RSS&at_campaign=rss))
-- Homeless people banned from sleeping outside store ([5 hours ago](https://www.bbc.com/news/articles/cn4gg48gdxxo?at_medium=RSS&at_campaign=rss))
-- Multi-agency support for rough sleepers ([5 hours ago](https://www.cheltenham.gov.uk/news/article/3110/multi-agency_support_for_rough_sleepers))
-- 'War breaks my heart but we want our country back' ([6 hours ago](https://www.bbc.com/news/articles/crl44xlxe14o?at_medium=RSS&at_campaign=rss))
-- Police chief's misconduct notice dropped ([8 hours ago](https://www.bbc.com/news/articles/c5ykk1g59y7o?at_medium=RSS&at_campaign=rss))
-- Christmas lights still up as warmest day forecast ([10 hours ago](https://www.bbc.com/news/articles/cm28878nj9wo?at_medium=RSS&at_campaign=rss))
-- Patients spared journeys to hospital with app ([10 hours ago](https://www.bbc.com/news/articles/clyg5vzy10ro?at_medium=RSS&at_campaign=rss))
-- Man charged with causing cyclist's death in crash ([23 hours ago](https://www.bbc.com/news/articles/c15xdgqgdxwo?at_medium=RSS&at_campaign=rss))
+- More than 40k trees planted at major road project ([6 hours ago](https://www.bbc.com/news/articles/cwyxxd0q75yo?at_medium=RSS&at_campaign=rss))
+- Homeless people banned from sleeping outside store ([7 hours ago](https://www.bbc.com/news/articles/cn4gg48gdxxo?at_medium=RSS&at_campaign=rss))
+- Multi-agency support for rough sleepers ([7 hours ago](https://www.cheltenham.gov.uk/news/article/3110/multi-agency_support_for_rough_sleepers))
+- 'War breaks my heart but we want our country back' ([8 hours ago](https://www.bbc.com/news/articles/crl44xlxe14o?at_medium=RSS&at_campaign=rss))
+- Police chief's misconduct notice dropped ([10 hours ago](https://www.bbc.com/news/articles/c5ykk1g59y7o?at_medium=RSS&at_campaign=rss))
+- Christmas lights still up as warmest day forecast ([12 hours ago](https://www.bbc.com/news/articles/cm28878nj9wo?at_medium=RSS&at_campaign=rss))
+- Patients spared journeys to hospital with app ([12 hours ago](https://www.bbc.com/news/articles/clyg5vzy10ro?at_medium=RSS&at_campaign=rss))
+- Man charged with causing cyclist's death in crash ([1 days ago](https://www.bbc.com/news/articles/c15xdgqgdxwo?at_medium=RSS&at_campaign=rss))
 - Schools celebrate World Book Day in costume ([1 days ago](https://www.bbc.com/news/articles/cm2xxgrpz57o?at_medium=RSS&at_campaign=rss))
 - Forest Green defender Buyabu delivers own baby ([1 days ago](https://www.bbc.com/sport/football/articles/cn0zzl2z7zvo?at_medium=RSS&at_campaign=rss))
 - Wildlife park welcomes three new Humboldt penguins ([1 days ago](https://www.bbc.com/news/articles/c1mjj132951o?at_medium=RSS&at_campaign=rss))
@@ -44,6 +44,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Golden Valley’s nature-led design wins support ([23 days ago](https://www.cheltenham.gov.uk/news/article/3096/golden_valleys_nature-led_design_wins_support))
 - No Child Left Behind to launch Youth Cafe pilot in Cheltenham town centre ([24 days ago](https://www.cheltenham.gov.uk/news/article/3095/no_child_left_behind_to_launch_youth_cafe_pilot_in_cheltenham_town_centre))
 - An uplifting night of celebration at the No Child Left Behind Awards 2025 ([28 days ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
-- Gloucestershire residents encouraged to share their views on reorganisation of councils ([28 days ago](https://www.cheltenham.gov.uk/news/article/3093/gloucestershire_residents_encouraged_to_share_their_views_on_reorganisation_of_councils))
+- Gloucestershire residents encouraged to share their views on reorganisation of councils ([29 days ago](https://www.cheltenham.gov.uk/news/article/3093/gloucestershire_residents_encouraged_to_share_their_views_on_reorganisation_of_councils))
 
 <!-- news_marker ends -->

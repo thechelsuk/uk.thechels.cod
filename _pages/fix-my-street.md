@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Not only a pothole, 6th March :- [9055308](https://www.fixmystreet.com/report/9055308)
 - Many items fly tipped along the service road at the back of Albert Street and Hungerford Street, 5th March :- [9055063](https://www.fixmystreet.com/report/9055063)
 - Drainage gully still blocked in lane "maintained at public expense, Gloucestershire" as shown in land registry searches, 5th March :- [9055042](https://www.fixmystreet.com/report/9055042)
 - Entire road surface cracked and full of pot holes, 5th March :- [9054849](https://www.fixmystreet.com/report/9054849)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole on drain cover, 5th March :- [9053636](https://www.fixmystreet.com/report/9053636)
 - 3 ft long and deep pothole outside 160 old bath road., 5th March :- [9053471](https://www.fixmystreet.com/report/9053471)
 - Massive pothole as you come out of Haymans close onto Greenhills road, 5th March :- [9053226](https://www.fixmystreet.com/report/9053226)
-- Bus stop sign for 18b is broken, meaning stop name not visible, 5th March :- [9053165](https://www.fixmystreet.com/report/9053165)
 
 <!-- fix_marker ends -->

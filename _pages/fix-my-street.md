@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole. Caused damage to the front passenger tyre, 6th March :- [9061285](https://www.fixmystreet.com/report/9061285)
+- Signs and road markings completely the wrong way around, 6th March :- [9061244](https://www.fixmystreet.com/report/9061244)
 - Pothole keeps on reoccurring., 6th March :- [9060842](https://www.fixmystreet.com/report/9060842)
 - Cleeve View Road - multiple potholes, 6th March :- [9060958](https://www.fixmystreet.com/report/9060958)
 - Very large pothole on Hatherley Road, 6th March :- [9060783](https://www.fixmystreet.com/report/9060783)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 6th March :- [9058746](https://www.fixmystreet.com/report/9058746)
 - TMC - Defects -CW6 Potholes  problem, 6th March :- [9058745](https://www.fixmystreet.com/report/9058745)
 - TMC - Defects -CW6 Potholes  problem, 6th March :- [9058497](https://www.fixmystreet.com/report/9058497)
-- Broken tarmac around drain cover, 6th March :- [9058220](https://www.fixmystreet.com/report/9058220)
-- TMC - Defects -CW6 Potholes  problem, 6th March :- [9058186](https://www.fixmystreet.com/report/9058186)
 
 <!-- fix_marker ends -->

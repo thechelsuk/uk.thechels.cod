@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose debris on the footway, 6th March :- [9056130](https://www.fixmystreet.com/report/9056130)
+- A pothole in road problem, 6th March :- [9056178](https://www.fixmystreet.com/report/9056178)
+- Loose kerb slab outside 43 Cherston Court, 6th March :- [9055674](https://www.fixmystreet.com/report/9055674)
+- Large potholes on Golden Vale, 6th March :- [9055670](https://www.fixmystreet.com/report/9055670)
 - Sign warning of humps ahead is turned 90 degrees, 6th March :- [9055509](https://www.fixmystreet.com/report/9055509)
 - Sign plate for two way traffic ahead misaligned, 6th March :- [9055488](https://www.fixmystreet.com/report/9055488)
 - Sign plate missligned, 6th March :- [9055467](https://www.fixmystreet.com/report/9055467)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - 2 street lights out, 5th March :- [9054244](https://www.fixmystreet.com/report/9054244)
 - Two road signs left by contractore, 5th March :- [9054224](https://www.fixmystreet.com/report/9054224)
 - Loose manhole cover, 5th March :- [9054054](https://www.fixmystreet.com/report/9054054)
-- Abandoned caravan, 5th March :- [9053913](https://www.fixmystreet.com/report/9053913)
-- Pot hole on sandford mill road, 5th March :- [9053879](https://www.fixmystreet.com/report/9053879)
-- 10 Large Cones 3rd time of report, 5th March :- [9053714](https://www.fixmystreet.com/report/9053714)
-- 1. Several potholes and poor road surface over 2 or 3 square meters. One very deep pothole which most people swerve around. Its dangerous. And 2. Two or Three deep channels in the centre of the road need immediate attention., 5th March :- [9053784](https://www.fixmystreet.com/report/9053784)
 
 <!-- fix_marker ends -->

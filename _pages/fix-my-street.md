@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive pothole that has been there since it was reported in January if not before still not been marked, reporting it again in the hope GH might eventually action this if enough people reports it. Very hard to see and horrible to hit it will be causing damage to cars …., 6th March :- [9059696](https://www.fixmystreet.com/report/9059696)
+- Several Potholes, 6th March :- [9059057](https://www.fixmystreet.com/report/9059057)
 - Shopping trolley., 6th March :- [9058779](https://www.fixmystreet.com/report/9058779)
 - Dumped fridge, 6th March :- [9058775](https://www.fixmystreet.com/report/9058775)
 - Pavement damaged, 6th March :- [9058635](https://www.fixmystreet.com/report/9058635)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 6th March :- [9057830](https://www.fixmystreet.com/report/9057830)
 - TMC - Defects -CW10 Potholes problem, 6th March :- [9057820](https://www.fixmystreet.com/report/9057820)
 - TMC - Defects -CW10 Potholes problem, 6th March :- [9057816](https://www.fixmystreet.com/report/9057816)
-- There are 2 large deep potholes and a smaller one at the speed bumps outside Coronation Flats where Charlton Court Road transitions into Oak Avenue, 6th March :- [9057384](https://www.fixmystreet.com/report/9057384)
-- Sign for Tewkesbury now pointing the wrong way., 6th March :- [9057062](https://www.fixmystreet.com/report/9057062)
 
 <!-- fix_marker ends -->

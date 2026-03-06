@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There are 2 large deep potholes and a smaller one at the speed bumps outside Coronation Flats where Charlton Court Road transitions into Oak Avenue, 6th March :- [9057384](https://www.fixmystreet.com/report/9057384)
+- Sign for Tewkesbury now pointing the wrong way., 6th March :- [9057062](https://www.fixmystreet.com/report/9057062)
+- Uncollected sign and loose tarmac in street, 6th March :- [9056951](https://www.fixmystreet.com/report/9056951)
+- Crater, 6th March :- [9056853](https://www.fixmystreet.com/report/9056853)
+- A pothole in road problem, 6th March :- [9056526](https://www.fixmystreet.com/report/9056526)
 - Loose debris on the footway, 6th March :- [9056130](https://www.fixmystreet.com/report/9056130)
 - A pothole in road problem, 6th March :- [9056178](https://www.fixmystreet.com/report/9056178)
 - Loose kerb slab outside 43 Cherston Court, 6th March :- [9055674](https://www.fixmystreet.com/report/9055674)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - There is a pothole on the road right in front of 19 Tennyson Road, 5th March :- [9054839](https://www.fixmystreet.com/report/9054839)
 - Large series of potholes along path running from parton road to parton manor school entrance making it dangerous for padestrians, 5th March :- [9054836](https://www.fixmystreet.com/report/9054836)
 - Many if the kerb stones are damaged or loose and the road surface itself all onlong orchard way, holtham avenue and meadow way are cracked, damaged and uneven., 5th March :- [9054821](https://www.fixmystreet.com/report/9054821)
-- Series if potholes but the edges of the recent gas works have also already started to come away indicating that there is going to be another load of potholes here soon., 5th March :- [9054807](https://www.fixmystreet.com/report/9054807)
-- Rad surface failure over several metres across and several inches deep in the middle of the carriageway. Extremely dangerous and has been there for weeks., 5th March :- [9054660](https://www.fixmystreet.com/report/9054660)
-- 2 street lights out, 5th March :- [9054244](https://www.fixmystreet.com/report/9054244)
-- Two road signs left by contractore, 5th March :- [9054224](https://www.fixmystreet.com/report/9054224)
-- Loose manhole cover, 5th March :- [9054054](https://www.fixmystreet.com/report/9054054)
 
 <!-- fix_marker ends -->

@@ -10,3 +10,4 @@ venv/
 .vscode/settings.json
 _site/
 site/
+_data/UpdatedFuelPrice.csv

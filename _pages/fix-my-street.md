@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tredington roadworks 7pm-7am, 6th March :- [9061705](https://www.fixmystreet.com/report/9061705)
 - 15+ inch pothole, junction of the Reddings, 6th March :- [9061522](https://www.fixmystreet.com/report/9061522)
 - Very deep pothole, gave me a flat tyre on Wednesday whilst I was only going 4mph., 6th March :- [9061516](https://www.fixmystreet.com/report/9061516)
 - Large pothole. Caused damage to the front passenger tyre, 6th March :- [9061285](https://www.fixmystreet.com/report/9061285)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Shopping trolley., 6th March :- [9058779](https://www.fixmystreet.com/report/9058779)
 - Dumped fridge, 6th March :- [9058775](https://www.fixmystreet.com/report/9058775)
 - Pavement damaged, 6th March :- [9058635](https://www.fixmystreet.com/report/9058635)
-- TMC - Defects -CW6 Potholes  problem, 6th March :- [9058746](https://www.fixmystreet.com/report/9058746)
 
 <!-- fix_marker ends -->

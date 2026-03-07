@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Businesses concerned about silt at historic docks ([56 minutes ago](https://www.bbc.com/news/articles/cj0dpjrv9zeo?at_medium=RSS&at_campaign=rss))
-- Anti-war protest at RAF base being used by US ([1 hours ago](https://www.bbc.com/news/articles/c1jk2dk074ko?at_medium=RSS&at_campaign=rss))
-- US lands bomber at UK air base after warning of surge in strikes on Iran ([9 hours ago](https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&at_campaign=rss))
-- Weight-loss rugby club 'fantastic' for mental health ([9 hours ago](https://www.bbc.com/news/articles/c1d69nkkd39o?at_medium=RSS&at_campaign=rss))
-- 'Fire station closes' and 'stranded owlets' ([9 hours ago](https://www.bbc.com/news/articles/c70kd7nwrd4o?at_medium=RSS&at_campaign=rss))
+- Businesses concerned about silt at historic docks ([2 hours ago](https://www.bbc.com/news/articles/cj0dpjrv9zeo?at_medium=RSS&at_campaign=rss))
+- Anti-war protest at RAF base being used by US ([3 hours ago](https://www.bbc.com/news/articles/c1jk2dk074ko?at_medium=RSS&at_campaign=rss))
+- US lands bomber at UK air base after warning of surge in strikes on Iran ([11 hours ago](https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&at_campaign=rss))
+- Weight-loss rugby club 'fantastic' for mental health ([11 hours ago](https://www.bbc.com/news/articles/c1d69nkkd39o?at_medium=RSS&at_campaign=rss))
+- 'Fire station closes' and 'stranded owlets' ([11 hours ago](https://www.bbc.com/news/articles/c70kd7nwrd4o?at_medium=RSS&at_campaign=rss))
 - More than 40k trees planted at major road project ([1 days ago](https://www.bbc.com/news/articles/cwyxxd0q75yo?at_medium=RSS&at_campaign=rss))
 - Homeless people banned from sleeping outside store ([1 days ago](https://www.bbc.com/news/articles/cn4gg48gdxxo?at_medium=RSS&at_campaign=rss))
 - Multi-agency support for rough sleepers ([1 days ago](https://www.cheltenham.gov.uk/news/article/3110/multi-agency_support_for_rough_sleepers))
@@ -24,7 +24,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police chief's misconduct notice dropped ([1 days ago](https://www.bbc.com/news/articles/c5ykk1g59y7o?at_medium=RSS&at_campaign=rss))
 - Christmas lights still up as warmest day forecast ([1 days ago](https://www.bbc.com/news/articles/cm28878nj9wo?at_medium=RSS&at_campaign=rss))
 - Patients spared journeys to hospital with app ([1 days ago](https://www.bbc.com/news/articles/clyg5vzy10ro?at_medium=RSS&at_campaign=rss))
-- Man charged with causing cyclist's death in crash ([1 days ago](https://www.bbc.com/news/articles/c15xdgqgdxwo?at_medium=RSS&at_campaign=rss))
+- Man charged with causing cyclist's death in crash ([2 days ago](https://www.bbc.com/news/articles/c15xdgqgdxwo?at_medium=RSS&at_campaign=rss))
 - Schools celebrate World Book Day in costume ([2 days ago](https://www.bbc.com/news/articles/cm2xxgrpz57o?at_medium=RSS&at_campaign=rss))
 - Forest Green defender Buyabu delivers own baby ([2 days ago](https://www.bbc.com/sport/football/articles/cn0zzl2z7zvo?at_medium=RSS&at_campaign=rss))
 - Wildlife park welcomes three new Humboldt penguins ([2 days ago](https://www.bbc.com/news/articles/c1mjj132951o?at_medium=RSS&at_campaign=rss))
@@ -44,6 +44,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Golden Valley’s nature-led design wins support ([24 days ago](https://www.cheltenham.gov.uk/news/article/3096/golden_valleys_nature-led_design_wins_support))
 - No Child Left Behind to launch Youth Cafe pilot in Cheltenham town centre ([25 days ago](https://www.cheltenham.gov.uk/news/article/3095/no_child_left_behind_to_launch_youth_cafe_pilot_in_cheltenham_town_centre))
 - An uplifting night of celebration at the No Child Left Behind Awards 2025 ([29 days ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
-- Gloucestershire residents encouraged to share their views on reorganisation of councils ([29 days ago](https://www.cheltenham.gov.uk/news/article/3093/gloucestershire_residents_encouraged_to_share_their_views_on_reorganisation_of_councils))
 
 <!-- news_marker ends -->

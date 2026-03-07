@@ -9,8 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Police tape and sandbag need to be collected, 7th March :- [9064778](https://www.fixmystreet.com/report/9064778)
 - Large area of the junction broken up. Dangerous for users, 7th March :- [9064633](https://www.fixmystreet.com/report/9064633)
 - Very poor road surface from racecourse to Tommy Taylors Lane, 7th March :- [9064594](https://www.fixmystreet.com/report/9064594)
+- A pothole in road problem, 7th March :- [9064662](https://www.fixmystreet.com/report/9064662)
 - Volunteer litter pick bags ready for collection, 7th March :- [9063996](https://www.fixmystreet.com/report/9063996)
 - Two deep holes together, 7th March :- [9063943](https://www.fixmystreet.com/report/9063943)
 - Multiple potholes on Blacksmith`s Lane, 7th March :- [9063890](https://www.fixmystreet.com/report/9063890)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - More than one pothole outside my house, 7th March :- [9062338](https://www.fixmystreet.com/report/9062338)
 - Manhole cover . Near County Kitchen & Bathrooms and the Church on the main Tewkesbury Road Cheltenham, 7th March :- [9061978](https://www.fixmystreet.com/report/9061978)
 - Significant debris and mulch build up all along road, 7th March :- [9061865](https://www.fixmystreet.com/report/9061865)
-- Streetlight out - also reported a second on Selkirk gardens. Multiple in a row are out making the area very dark and unsafe at night. Appears to be a frequent issue with the same street lights even after the have been marked as fixed they fail again within a few months, 7th March :- [9061861](https://www.fixmystreet.com/report/9061861)
-- Tredington roadworks 7pm-7am, 6th March :- [9061705](https://www.fixmystreet.com/report/9061705)
 
 <!-- fix_marker ends -->

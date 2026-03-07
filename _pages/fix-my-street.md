@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes on Parabola Rd, both lanes around CLC, Sidney Lodge, 7th March :- [9062659](https://www.fixmystreet.com/report/9062659)
+- Flytipping, 7th March :- [9062621](https://www.fixmystreet.com/report/9062621)
+- Large pothole at bottom of Warren Close, 7th March :- [9062591](https://www.fixmystreet.com/report/9062591)
+- Deep pothole spanning a third of lane, previous recent repair failed, 7th March :- [9062589](https://www.fixmystreet.com/report/9062589)
+- Huge pothole, disintegrated after recent repair: opp laundry, 7th March :- [9062521](https://www.fixmystreet.com/report/9062521)
+- More than one pothole outside my house, 7th March :- [9062338](https://www.fixmystreet.com/report/9062338)
 - Manhole cover . Near County Kitchen & Bathrooms and the Church on the main Tewkesbury Road Cheltenham, 7th March :- [9061978](https://www.fixmystreet.com/report/9061978)
 - Significant debris and mulch build up all along road, 7th March :- [9061865](https://www.fixmystreet.com/report/9061865)
 - Streetlight out - also reported a second on Selkirk gardens. Multiple in a row are out making the area very dark and unsafe at night. Appears to be a frequent issue with the same street lights even after the have been marked as fixed they fail again within a few months, 7th March :- [9061861](https://www.fixmystreet.com/report/9061861)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - 24 inch pothole occurring outside 5 Colesbourne Road, 6th March :- [9060536](https://www.fixmystreet.com/report/9060536)
 - Fly tipping, 6th March :- [9060436](https://www.fixmystreet.com/report/9060436)
 - Blocking the pavement, 6th March :- [9060408](https://www.fixmystreet.com/report/9060408)
-- Road has sunk causing a huge bump in the road, 6th March :- [9060372](https://www.fixmystreet.com/report/9060372)
-- Tree is damaged problem, 6th March :- [9060500](https://www.fixmystreet.com/report/9060500)
-- Littering by Highways, 6th March :- [9059869](https://www.fixmystreet.com/report/9059869)
-- It is a single track lane and this pothole is just getting bigger that we cannot avoid, 6th March :- [9059804](https://www.fixmystreet.com/report/9059804)
-- Massive pothole that has been there since it was reported in January if not before still not been marked, reporting it again in the hope GH might eventually action this if enough people reports it. Very hard to see and horrible to hit it will be causing damage to cars …., 6th March :- [9059696](https://www.fixmystreet.com/report/9059696)
-- Several Potholes, 6th March :- [9059057](https://www.fixmystreet.com/report/9059057)
 
 <!-- fix_marker ends -->

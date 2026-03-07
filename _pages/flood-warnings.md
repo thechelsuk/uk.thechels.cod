@@ -29,38 +29,38 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding. 
 
-River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 6 March 2026, especially near Cerney Wick. The forecast is for rain from this afternoon and overnight into tomorrow morning. Dry conditions return tomorrow afternoon. Levels are very slowly falling. We expect levels to continue falling very slowly over the coming days.
+River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 7 March 2026, especially near Cerney Wick. The forecast is for a predominantly dry day today and tomorrow. Levels are falling very slowly. We expect levels to continue falling very slowly over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 7 March 2026, or as the situation changes.
+This message will be updated by 12.00 on 8 March 2026, or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding. 
 
-River levels are high but falling gradually on the River Windrush. Flooding of low lying land and roads is expected to continue today, 6 March 2026, including areas around Bourton on the Water and Newbridge. The forecast is for rain from this afternoon and overnight into tomorrow morning. Dry conditions return tomorrow afternoon.  River levels are high but falling slowly. We expect levels to continue falling slowly over the coming days. Levels remain sensitive to further rainfall. 
+River levels are high but falling gradually on the River Windrush. Flooding of low lying land and roads is expected to continue today, 7 March 2026, including areas around Bourton on the Water and Newbridge. The forecast is for a predominantly dry day today and tomorrow.  River levels are high but falling slowly. We expect levels to continue falling slowly over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 7 March 2026, or as the situation changes.
+This message will be updated by 12.00 on 8 March 2026, or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-River levels are high but falling gradually on the River Dikler. Flooding of low lying land and roads remains possible today, 6 March 2026, including around Bourton on the Water. The forecast is for rain from this afternoon and overnight into tomorrow morning. Dry conditions return tomorrow afternoon. We expect levels to continue falling slowly over the coming days. Levels remain sensitive to further rainfall. 
+River levels are high but falling gradually on the River Dikler. Flooding of low lying land and roads remains possible today, 7 March 2026, including around Bourton on the Water. The forecast is for a predominantly dry day today and tomorrow. We expect levels to continue falling slowly over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12.00 on 7 March 2026, or as the situation changes.
+This message will be updated by 12.00 on 8 March 2026, or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 
 
-River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 6 March 2026, especially in the areas around Fossebridge, Coln St Dennis, and Bibury. The forecast is for rain from this afternoon and overnight into tomorrow morning. Dry conditions return tomorrow afternoon. Levels are very slowly falling. We expect levels to continue falling very slowly over the coming days.
+River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 7 March 2026, especially in the areas around Fossebridge, Coln St Dennis, and Bibury. The forecast is for a predominantly dry day today and tomorrow. Levels are falling very slowly. We expect levels to continue falling very slowly over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
- This message will be updated by 12.00 on 7 March 2026, or as the situation changes.
+ This message will be updated by 12.00 on 8 March 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

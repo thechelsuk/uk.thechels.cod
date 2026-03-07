@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Manhole cover . Near County Kitchen & Bathrooms and the Church on the main Tewkesbury Road Cheltenham, 7th March :- [9061978](https://www.fixmystreet.com/report/9061978)
 - Significant debris and mulch build up all along road, 7th March :- [9061865](https://www.fixmystreet.com/report/9061865)
 - Streetlight out - also reported a second on Selkirk gardens. Multiple in a row are out making the area very dark and unsafe at night. Appears to be a frequent issue with the same street lights even after the have been marked as fixed they fail again within a few months, 7th March :- [9061861](https://www.fixmystreet.com/report/9061861)
 - Tredington roadworks 7pm-7am, 6th March :- [9061705](https://www.fixmystreet.com/report/9061705)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - It is a single track lane and this pothole is just getting bigger that we cannot avoid, 6th March :- [9059804](https://www.fixmystreet.com/report/9059804)
 - Massive pothole that has been there since it was reported in January if not before still not been marked, reporting it again in the hope GH might eventually action this if enough people reports it. Very hard to see and horrible to hit it will be causing damage to cars …., 6th March :- [9059696](https://www.fixmystreet.com/report/9059696)
 - Several Potholes, 6th March :- [9059057](https://www.fixmystreet.com/report/9059057)
-- Shopping trolley., 6th March :- [9058779](https://www.fixmystreet.com/report/9058779)
 
 <!-- fix_marker ends -->

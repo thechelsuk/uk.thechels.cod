@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 7th March :- [9063996](https://www.fixmystreet.com/report/9063996)
+- Two deep holes together, 7th March :- [9063943](https://www.fixmystreet.com/report/9063943)
+- Multiple potholes on Blacksmith`s Lane, 7th March :- [9063890](https://www.fixmystreet.com/report/9063890)
+- Widespread road erosion on Blacksmith`s Lane, 7th March :- [9063865](https://www.fixmystreet.com/report/9063865)
+- Dangerous tree roots growing up through pavement, 7th March :- [9063772](https://www.fixmystreet.com/report/9063772)
+- Uneven pavement, 7th March :- [9063614](https://www.fixmystreet.com/report/9063614)
+- Pothole, 7th March :- [9063606](https://www.fixmystreet.com/report/9063606)
+- Fly tipping, 7th March :- [9063541](https://www.fixmystreet.com/report/9063541)
 - Multiple potholes on Parabola Rd, both lanes around CLC, Sidney Lodge, 7th March :- [9062659](https://www.fixmystreet.com/report/9062659)
 - Flytipping, 7th March :- [9062621](https://www.fixmystreet.com/report/9062621)
 - Large pothole at bottom of Warren Close, 7th March :- [9062591](https://www.fixmystreet.com/report/9062591)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Tredington roadworks 7pm-7am, 6th March :- [9061705](https://www.fixmystreet.com/report/9061705)
 - 15+ inch pothole, junction of the Reddings, 6th March :- [9061522](https://www.fixmystreet.com/report/9061522)
 - Very deep pothole, gave me a flat tyre on Wednesday whilst I was only going 4mph., 6th March :- [9061516](https://www.fixmystreet.com/report/9061516)
-- Large pothole. Caused damage to the front passenger tyre, 6th March :- [9061285](https://www.fixmystreet.com/report/9061285)
-- Signs and road markings completely the wrong way around, 6th March :- [9061244](https://www.fixmystreet.com/report/9061244)
-- Pothole keeps on reoccurring., 6th March :- [9060842](https://www.fixmystreet.com/report/9060842)
-- Cleeve View Road - multiple potholes, 6th March :- [9060958](https://www.fixmystreet.com/report/9060958)
-- Very large pothole on Hatherley Road, 6th March :- [9060783](https://www.fixmystreet.com/report/9060783)
-- 24 inch pothole occurring outside 5 Colesbourne Road, 6th March :- [9060536](https://www.fixmystreet.com/report/9060536)
-- Fly tipping, 6th March :- [9060436](https://www.fixmystreet.com/report/9060436)
-- Blocking the pavement, 6th March :- [9060408](https://www.fixmystreet.com/report/9060408)
 
 <!-- fix_marker ends -->

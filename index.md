@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 07 March 2026
 
-- The average temperature today is 7.89˚C,
-- With highs of 8.3˚C and lows of 7.38˚C,
-- It may feel like 7.89˚C with overcast clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 94%
+- The average temperature today is 8.38˚C,
+- With highs of 8.38˚C and lows of 8.38˚C,
+- It may feel like 8.38˚C with overcast clouds
+- The wind speed is 1.2m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 95%
 - The sun will rise at 06:41 and set at 17:57
 
 <!-- weather_marker ends -->

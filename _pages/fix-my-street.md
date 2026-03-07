@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole just outside of Oldwell Cottage driveway, 7th March :- [9065625](https://www.fixmystreet.com/report/9065625)
 - Outside Tesco, Queen's Road, Cheltenham, 7th March :- [9064815](https://www.fixmystreet.com/report/9064815)
 - Massive potholes, 7th March :- [9065249](https://www.fixmystreet.com/report/9065249)
 - Overflowing bin outside wok wagon, 7th March :- [9065124](https://www.fixmystreet.com/report/9065124)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes on Parabola Rd, both lanes around CLC, Sidney Lodge, 7th March :- [9062659](https://www.fixmystreet.com/report/9062659)
 - Flytipping, 7th March :- [9062621](https://www.fixmystreet.com/report/9062621)
 - Large pothole at bottom of Warren Close, 7th March :- [9062591](https://www.fixmystreet.com/report/9062591)
-- Deep pothole spanning a third of lane, previous recent repair failed, 7th March :- [9062589](https://www.fixmystreet.com/report/9062589)
 
 <!-- fix_marker ends -->

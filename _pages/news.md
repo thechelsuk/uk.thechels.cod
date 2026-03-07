@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Businesses concerned about silt at historic docks ([4 hours ago](https://www.bbc.com/news/articles/cj0dpjrv9zeo?at_medium=RSS&at_campaign=rss))
-- Anti-war protest at RAF base being used by US ([5 hours ago](https://www.bbc.com/news/articles/c1jk2dk074ko?at_medium=RSS&at_campaign=rss))
-- US lands bomber at UK air base after warning of surge in strikes on Iran ([13 hours ago](https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&at_campaign=rss))
-- Weight-loss rugby club 'fantastic' for mental health ([13 hours ago](https://www.bbc.com/news/articles/c1d69nkkd39o?at_medium=RSS&at_campaign=rss))
-- 'Fire station closes' and 'stranded owlets' ([13 hours ago](https://www.bbc.com/news/articles/c70kd7nwrd4o?at_medium=RSS&at_campaign=rss))
+- Businesses concerned about silt at historic docks ([6 hours ago](https://www.bbc.com/news/articles/cj0dpjrv9zeo?at_medium=RSS&at_campaign=rss))
+- Anti-war protest at RAF base being used by US ([7 hours ago](https://www.bbc.com/news/articles/c1jk2dk074ko?at_medium=RSS&at_campaign=rss))
+- US lands bomber at UK air base after warning of surge in strikes on Iran ([15 hours ago](https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&at_campaign=rss))
+- Weight-loss rugby club 'fantastic' for mental health ([15 hours ago](https://www.bbc.com/news/articles/c1d69nkkd39o?at_medium=RSS&at_campaign=rss))
+- 'Fire station closes' and 'stranded owlets' ([15 hours ago](https://www.bbc.com/news/articles/c70kd7nwrd4o?at_medium=RSS&at_campaign=rss))
 - More than 40k trees planted at major road project ([1 days ago](https://www.bbc.com/news/articles/cwyxxd0q75yo?at_medium=RSS&at_campaign=rss))
 - Homeless people banned from sleeping outside store ([1 days ago](https://www.bbc.com/news/articles/cn4gg48gdxxo?at_medium=RSS&at_campaign=rss))
 - Multi-agency support for rough sleepers ([1 days ago](https://www.cheltenham.gov.uk/news/article/3110/multi-agency_support_for_rough_sleepers))

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside Tesco, Queen's Road, Cheltenham, 7th March :- [9064815](https://www.fixmystreet.com/report/9064815)
+- Massive potholes, 7th March :- [9065249](https://www.fixmystreet.com/report/9065249)
+- Overflowing bin outside wok wagon, 7th March :- [9065124](https://www.fixmystreet.com/report/9065124)
+- There are multiple potholes and areas of broken roadway. This area is extremely dangerous now for cyclists and it is only a matter of time (if it hasn’t happened already) that ther will be a collision as cars straddle the potholes down the centre of the road. This has been getting worse for months now and the council must accept liability for the repercussions when they inevitably come, 7th March :- [9065096](https://www.fixmystreet.com/report/9065096)
 - Police tape and sandbag need to be collected, 7th March :- [9064778](https://www.fixmystreet.com/report/9064778)
 - Large area of the junction broken up. Dangerous for users, 7th March :- [9064633](https://www.fixmystreet.com/report/9064633)
 - Very poor road surface from racecourse to Tommy Taylors Lane, 7th March :- [9064594](https://www.fixmystreet.com/report/9064594)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Flytipping, 7th March :- [9062621](https://www.fixmystreet.com/report/9062621)
 - Large pothole at bottom of Warren Close, 7th March :- [9062591](https://www.fixmystreet.com/report/9062591)
 - Deep pothole spanning a third of lane, previous recent repair failed, 7th March :- [9062589](https://www.fixmystreet.com/report/9062589)
-- Huge pothole, disintegrated after recent repair: opp laundry, 7th March :- [9062521](https://www.fixmystreet.com/report/9062521)
-- More than one pothole outside my house, 7th March :- [9062338](https://www.fixmystreet.com/report/9062338)
-- Manhole cover . Near County Kitchen & Bathrooms and the Church on the main Tewkesbury Road Cheltenham, 7th March :- [9061978](https://www.fixmystreet.com/report/9061978)
-- Significant debris and mulch build up all along road, 7th March :- [9061865](https://www.fixmystreet.com/report/9061865)
 
 <!-- fix_marker ends -->

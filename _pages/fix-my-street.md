@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road closed sign on Andover Roac, 8th March :- [9066555](https://www.fixmystreet.com/report/9066555)
+- Horrendous condition of footpath completely damaged and dangerous, 8th March :- [9066382](https://www.fixmystreet.com/report/9066382)
+- Street light not working, 8th March :- [9066305](https://www.fixmystreet.com/report/9066305)
 - Two-Way Cycle Route/Contraflow Cycle Lane sign turned 90 degrees. It should face east., 8th March :- [9065873](https://www.fixmystreet.com/report/9065873)
 - Sanford Road, Cheltenham at the junction with Keynsham Road, 8th March :- [9065869](https://www.fixmystreet.com/report/9065869)
 - Please consider removing New Road Junction Ahead sign. Street View shows that it’s been there for 10 years. Also, the direction sign below it is misaligned, 8th March :- [9065846](https://www.fixmystreet.com/report/9065846)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection, 7th March :- [9063996](https://www.fixmystreet.com/report/9063996)
 - Two deep holes together, 7th March :- [9063943](https://www.fixmystreet.com/report/9063943)
 - Multiple potholes on Blacksmith`s Lane, 7th March :- [9063890](https://www.fixmystreet.com/report/9063890)
-- Widespread road erosion on Blacksmith`s Lane, 7th March :- [9063865](https://www.fixmystreet.com/report/9063865)
-- Dangerous tree roots growing up through pavement, 7th March :- [9063772](https://www.fixmystreet.com/report/9063772)
-- Uneven pavement, 7th March :- [9063614](https://www.fixmystreet.com/report/9063614)
 
 <!-- fix_marker ends -->

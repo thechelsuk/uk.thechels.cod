@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Prison expansion approved despite concerns ([4 hours ago](https://www.bbc.com/news/articles/c89k3q4pn8lo?at_medium=RSS&at_campaign=rss))
-- Drones and AI used to help farmers tackle weeds ([7 hours ago](https://www.bbc.com/news/articles/cnv6p29mr21o?at_medium=RSS&at_campaign=rss))
-- In pictures: 'Supercars meet' and 'kindness video' ([9 hours ago](https://www.bbc.com/news/articles/c1d6k9z5rxxo?at_medium=RSS&at_campaign=rss))
+- Hundreds of trees planted after ash dieback losses ([1 hours ago](https://www.bbc.com/news/articles/c3wl22gdvqvo?at_medium=RSS&at_campaign=rss))
+- Prison expansion approved despite concerns ([6 hours ago](https://www.bbc.com/news/articles/c89k3q4pn8lo?at_medium=RSS&at_campaign=rss))
+- Drones and AI used to help farmers tackle weeds ([9 hours ago](https://www.bbc.com/news/articles/cnv6p29mr21o?at_medium=RSS&at_campaign=rss))
+- In pictures: 'Supercars meet' and 'kindness video' ([11 hours ago](https://www.bbc.com/news/articles/c1d6k9z5rxxo?at_medium=RSS&at_campaign=rss))
 - Businesses concerned about silt at historic docks ([1 days ago](https://www.bbc.com/news/articles/cj0dpjrv9zeo?at_medium=RSS&at_campaign=rss))
 - Anti-war protest at RAF base being used by US ([1 days ago](https://www.bbc.com/news/articles/c1jk2dk074ko?at_medium=RSS&at_campaign=rss))
 - US lands bomber at UK air base after warning of surge in strikes on Iran ([1 days ago](https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&at_campaign=rss))
@@ -27,8 +28,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police chief's misconduct notice dropped ([2 days ago](https://www.bbc.com/news/articles/c5ykk1g59y7o?at_medium=RSS&at_campaign=rss))
 - Christmas lights still up as warmest day forecast ([2 days ago](https://www.bbc.com/news/articles/cm28878nj9wo?at_medium=RSS&at_campaign=rss))
 - Patients spared journeys to hospital with app ([2 days ago](https://www.bbc.com/news/articles/clyg5vzy10ro?at_medium=RSS&at_campaign=rss))
-- Man charged with causing cyclist's death in crash ([2 days ago](https://www.bbc.com/news/articles/c15xdgqgdxwo?at_medium=RSS&at_campaign=rss))
-- Schools celebrate World Book Day in costume ([3 days ago](https://www.bbc.com/news/articles/cm2xxgrpz57o?at_medium=RSS&at_campaign=rss))
+- Man charged with causing cyclist's death in crash ([3 days ago](https://www.bbc.com/news/articles/c15xdgqgdxwo?at_medium=RSS&at_campaign=rss))
 - Beat the queue by booking your taxi journey in advance ([3 days ago](https://www.cheltenham.gov.uk/news/article/3109/beat_the_queue_by_booking_your_taxi_journey_in_advance))
 - 'We were sexually abused by our driving instructor' ([3 days ago](https://www.bbc.com/news/articles/cx2gynnv9q4o?at_medium=RSS&at_campaign=rss))
 - Arkle Court provides locals with new pathways into work ([4 days ago](https://www.cheltenham.gov.uk/news/article/3108/arkle_court_provides_locals_with_new_pathways_into_work))

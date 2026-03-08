@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Big, quite deep pothole very close to right turn into The Reddings., 8th March :- [9069402](https://www.fixmystreet.com/report/9069402)
+- Massive longitudinal potholes, 8th March :- [9068992](https://www.fixmystreet.com/report/9068992)
+- Waymarker removed from fence, path obscured, 8th March :- [9068936](https://www.fixmystreet.com/report/9068936)
+- Road surface material dumped in verge, 8th March :- [9068923](https://www.fixmystreet.com/report/9068923)
+- There is a sewage leak into the surface water drainage swale that runs beside the Coopers Edge Play Area. It is coming from the culvert than runs in from Glebe Hardens/ Guan Road. Upstream of the culvert the water is clear. The ducks that were there have gone. There is darks brown sludge and surface scum. Location on what three words around ///slap.anyone.splice but it continues towards the reed bed beside Lobleys Drive. It appeared 3 days ago and I have also reported it to the EA. Regards Claire Stewart, 8th March :- [9068917](https://www.fixmystreet.com/report/9068917)
+- Failed surface, 8th March :- [9068897](https://www.fixmystreet.com/report/9068897)
+- Road subsiding and numerous potholes, 8th March :- [9068884](https://www.fixmystreet.com/report/9068884)
 - Absolute disgrace, 8th March :- [9068548](https://www.fixmystreet.com/report/9068548)
 - Large deep pothole., 8th March :- [9068337](https://www.fixmystreet.com/report/9068337)
 - Edge of pavement, 8th March :- [9068168](https://www.fixmystreet.com/report/9068168)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Potholes and broken road surface, 8th March :- [9067397](https://www.fixmystreet.com/report/9067397)
 - Road closed sign on Andover Roac, 8th March :- [9066555](https://www.fixmystreet.com/report/9066555)
 - Horrendous condition of footpath completely damaged and dangerous, 8th March :- [9066382](https://www.fixmystreet.com/report/9066382)
-- Street light not working, 8th March :- [9066305](https://www.fixmystreet.com/report/9066305)
-- Two-Way Cycle Route/Contraflow Cycle Lane sign turned 90 degrees. It should face east., 8th March :- [9065873](https://www.fixmystreet.com/report/9065873)
-- Sanford Road, Cheltenham at the junction with Keynsham Road, 8th March :- [9065869](https://www.fixmystreet.com/report/9065869)
-- Please consider removing New Road Junction Ahead sign. Street View shows that it’s been there for 10 years. Also, the direction sign below it is misaligned, 8th March :- [9065846](https://www.fixmystreet.com/report/9065846)
-- Please consider removing New Road Layout Ahead Sign. Street View shows that it’s been there for 10 years, 8th March :- [9065814](https://www.fixmystreet.com/report/9065814)
-- Both signs should be facing Albion Place opposite, 8th March :- [9065810](https://www.fixmystreet.com/report/9065810)
-- Large pothole just outside of Oldwell Cottage driveway, 7th March :- [9065625](https://www.fixmystreet.com/report/9065625)
 
 <!-- fix_marker ends -->

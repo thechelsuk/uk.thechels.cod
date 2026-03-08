@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Please consider removing New Road Junction Ahead sign. Street View shows that it’s been there for 10 years. Also, the direction sign below it is misaligned, 8th March :- [9065846](https://www.fixmystreet.com/report/9065846)
+- Please consider removing New Road Layout Ahead Sign. Street View shows that it’s been there for 10 years, 8th March :- [9065814](https://www.fixmystreet.com/report/9065814)
+- Both signs should be facing Albion Place opposite, 8th March :- [9065810](https://www.fixmystreet.com/report/9065810)
 - Large pothole just outside of Oldwell Cottage driveway, 7th March :- [9065625](https://www.fixmystreet.com/report/9065625)
 - Outside Tesco, Queen's Road, Cheltenham, 7th March :- [9064815](https://www.fixmystreet.com/report/9064815)
 - Massive potholes, 7th March :- [9065249](https://www.fixmystreet.com/report/9065249)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Uneven pavement, 7th March :- [9063614](https://www.fixmystreet.com/report/9063614)
 - Pothole, 7th March :- [9063606](https://www.fixmystreet.com/report/9063606)
 - Fly tipping, 7th March :- [9063541](https://www.fixmystreet.com/report/9063541)
-- Multiple potholes on Parabola Rd, both lanes around CLC, Sidney Lodge, 7th March :- [9062659](https://www.fixmystreet.com/report/9062659)
-- Flytipping, 7th March :- [9062621](https://www.fixmystreet.com/report/9062621)
-- Large pothole at bottom of Warren Close, 7th March :- [9062591](https://www.fixmystreet.com/report/9062591)
 
 <!-- fix_marker ends -->

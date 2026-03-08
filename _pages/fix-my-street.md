@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Two-Way Cycle Route/Contraflow Cycle Lane sign turned 90 degrees. It should face east., 8th March :- [9065873](https://www.fixmystreet.com/report/9065873)
+- Sanford Road, Cheltenham at the junction with Keynsham Road, 8th March :- [9065869](https://www.fixmystreet.com/report/9065869)
 - Please consider removing New Road Junction Ahead sign. Street View shows that it’s been there for 10 years. Also, the direction sign below it is misaligned, 8th March :- [9065846](https://www.fixmystreet.com/report/9065846)
 - Please consider removing New Road Layout Ahead Sign. Street View shows that it’s been there for 10 years, 8th March :- [9065814](https://www.fixmystreet.com/report/9065814)
 - Both signs should be facing Albion Place opposite, 8th March :- [9065810](https://www.fixmystreet.com/report/9065810)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Widespread road erosion on Blacksmith`s Lane, 7th March :- [9063865](https://www.fixmystreet.com/report/9063865)
 - Dangerous tree roots growing up through pavement, 7th March :- [9063772](https://www.fixmystreet.com/report/9063772)
 - Uneven pavement, 7th March :- [9063614](https://www.fixmystreet.com/report/9063614)
-- Pothole, 7th March :- [9063606](https://www.fixmystreet.com/report/9063606)
-- Fly tipping, 7th March :- [9063541](https://www.fixmystreet.com/report/9063541)
 
 <!-- fix_marker ends -->

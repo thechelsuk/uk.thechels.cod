@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Absolute disgrace, 8th March :- [9068548](https://www.fixmystreet.com/report/9068548)
+- Large deep pothole., 8th March :- [9068337](https://www.fixmystreet.com/report/9068337)
+- Edge of pavement, 8th March :- [9068168](https://www.fixmystreet.com/report/9068168)
 - Farm equipment and electric fence blocking public right of way, 8th March :- [9068106](https://www.fixmystreet.com/report/9068106)
 - Lorries / buses driving on grass verge since changes to double yellow lines, 8th March :- [9068094](https://www.fixmystreet.com/report/9068094)
 - 3 large potholes outside my house on number 143 Hatherley Rd. This is incredibly unsafe every time a huge Bosco’s past my house and hits the pothole my entire house shakes. I am scared a car will lose its wheel or wheel trim resulting in the potential of my property / family being hit by flying objects. If a car loses control because it is hit one of these large potholes there is also the danger they will swerve off the road and potentially knock my family over who may be getting into their car via our drive. This is serious and needs sorting ASAP., 8th March :- [9067963](https://www.fixmystreet.com/report/9067963)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Please consider removing New Road Layout Ahead Sign. Street View shows that it’s been there for 10 years, 8th March :- [9065814](https://www.fixmystreet.com/report/9065814)
 - Both signs should be facing Albion Place opposite, 8th March :- [9065810](https://www.fixmystreet.com/report/9065810)
 - Large pothole just outside of Oldwell Cottage driveway, 7th March :- [9065625](https://www.fixmystreet.com/report/9065625)
-- Outside Tesco, Queen's Road, Cheltenham, 7th March :- [9064815](https://www.fixmystreet.com/report/9064815)
-- Massive potholes, 7th March :- [9065249](https://www.fixmystreet.com/report/9065249)
-- Overflowing bin outside wok wagon, 7th March :- [9065124](https://www.fixmystreet.com/report/9065124)
 
 <!-- fix_marker ends -->

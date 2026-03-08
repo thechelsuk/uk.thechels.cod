@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Collapsed trench across road, 8th March :- [9069832](https://www.fixmystreet.com/report/9069832)
 - Big, quite deep pothole very close to right turn into The Reddings., 8th March :- [9069402](https://www.fixmystreet.com/report/9069402)
 - Massive longitudinal potholes, 8th March :- [9068992](https://www.fixmystreet.com/report/9068992)
 - Waymarker removed from fence, path obscured, 8th March :- [9068936](https://www.fixmystreet.com/report/9068936)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Part one of a series of potholes, 8th March :- [9067573](https://www.fixmystreet.com/report/9067573)
 - Potholes and broken road surface, 8th March :- [9067397](https://www.fixmystreet.com/report/9067397)
 - Road closed sign on Andover Roac, 8th March :- [9066555](https://www.fixmystreet.com/report/9066555)
-- Horrendous condition of footpath completely damaged and dangerous, 8th March :- [9066382](https://www.fixmystreet.com/report/9066382)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Farm equipment and electric fence blocking public right of way, 8th March :- [9068106](https://www.fixmystreet.com/report/9068106)
+- Lorries / buses driving on grass verge since changes to double yellow lines, 8th March :- [9068094](https://www.fixmystreet.com/report/9068094)
+- 3 large potholes outside my house on number 143 Hatherley Rd. This is incredibly unsafe every time a huge Bosco’s past my house and hits the pothole my entire house shakes. I am scared a car will lose its wheel or wheel trim resulting in the potential of my property / family being hit by flying objects. If a car loses control because it is hit one of these large potholes there is also the danger they will swerve off the road and potentially knock my family over who may be getting into their car via our drive. This is serious and needs sorting ASAP., 8th March :- [9067963](https://www.fixmystreet.com/report/9067963)
+- Multiple pot holes in succession, 8th March :- [9067826](https://www.fixmystreet.com/report/9067826)
+- Pothole worsened since last review, 8th March :- [9067634](https://www.fixmystreet.com/report/9067634)
+- Part two additional potholes in the same location, 8th March :- [9067594](https://www.fixmystreet.com/report/9067594)
+- Part one of a series of potholes, 8th March :- [9067573](https://www.fixmystreet.com/report/9067573)
 - Potholes and broken road surface, 8th March :- [9067397](https://www.fixmystreet.com/report/9067397)
 - Road closed sign on Andover Roac, 8th March :- [9066555](https://www.fixmystreet.com/report/9066555)
 - Horrendous condition of footpath completely damaged and dangerous, 8th March :- [9066382](https://www.fixmystreet.com/report/9066382)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Outside Tesco, Queen's Road, Cheltenham, 7th March :- [9064815](https://www.fixmystreet.com/report/9064815)
 - Massive potholes, 7th March :- [9065249](https://www.fixmystreet.com/report/9065249)
 - Overflowing bin outside wok wagon, 7th March :- [9065124](https://www.fixmystreet.com/report/9065124)
-- There are multiple potholes and areas of broken roadway. This area is extremely dangerous now for cyclists and it is only a matter of time (if it hasn’t happened already) that ther will be a collision as cars straddle the potholes down the centre of the road. This has been getting worse for months now and the council must accept liability for the repercussions when they inevitably come, 7th March :- [9065096](https://www.fixmystreet.com/report/9065096)
-- Police tape and sandbag need to be collected, 7th March :- [9064778](https://www.fixmystreet.com/report/9064778)
-- Large area of the junction broken up. Dangerous for users, 7th March :- [9064633](https://www.fixmystreet.com/report/9064633)
-- Very poor road surface from racecourse to Tommy Taylors Lane, 7th March :- [9064594](https://www.fixmystreet.com/report/9064594)
-- A pothole in road problem, 7th March :- [9064662](https://www.fixmystreet.com/report/9064662)
-- Volunteer litter pick bags ready for collection, 7th March :- [9063996](https://www.fixmystreet.com/report/9063996)
-- Two deep holes together, 7th March :- [9063943](https://www.fixmystreet.com/report/9063943)
 
 <!-- fix_marker ends -->

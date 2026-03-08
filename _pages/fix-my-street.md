@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes and broken road surface, 8th March :- [9067397](https://www.fixmystreet.com/report/9067397)
 - Road closed sign on Andover Roac, 8th March :- [9066555](https://www.fixmystreet.com/report/9066555)
 - Horrendous condition of footpath completely damaged and dangerous, 8th March :- [9066382](https://www.fixmystreet.com/report/9066382)
 - Street light not working, 8th March :- [9066305](https://www.fixmystreet.com/report/9066305)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 7th March :- [9064662](https://www.fixmystreet.com/report/9064662)
 - Volunteer litter pick bags ready for collection, 7th March :- [9063996](https://www.fixmystreet.com/report/9063996)
 - Two deep holes together, 7th March :- [9063943](https://www.fixmystreet.com/report/9063943)
-- Multiple potholes on Blacksmith`s Lane, 7th March :- [9063890](https://www.fixmystreet.com/report/9063890)
 
 <!-- fix_marker ends -->

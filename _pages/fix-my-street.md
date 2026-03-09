@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- White plastic wrapping and pipe work (red and black) been left behind after clear up., 9th March :- [9070917](https://www.fixmystreet.com/report/9070917)
+- Us flags put up along street, 9th March :- [9070808](https://www.fixmystreet.com/report/9070808)
+- Broken glass, 9th March :- [9070530](https://www.fixmystreet.com/report/9070530)
 - Button push on crossing times out and needs repressing to activate cross, 9th March :- [9070345](https://www.fixmystreet.com/report/9070345)
 - Whole road of unsafe potholes, 9th March :- [9070308](https://www.fixmystreet.com/report/9070308)
 - Collapsed trench across road, 8th March :- [9069832](https://www.fixmystreet.com/report/9069832)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Lorries / buses driving on grass verge since changes to double yellow lines, 8th March :- [9068094](https://www.fixmystreet.com/report/9068094)
 - 3 large potholes outside my house on number 143 Hatherley Rd. This is incredibly unsafe every time a huge Bosco’s past my house and hits the pothole my entire house shakes. I am scared a car will lose its wheel or wheel trim resulting in the potential of my property / family being hit by flying objects. If a car loses control because it is hit one of these large potholes there is also the danger they will swerve off the road and potentially knock my family over who may be getting into their car via our drive. This is serious and needs sorting ASAP., 8th March :- [9067963](https://www.fixmystreet.com/report/9067963)
 - Multiple pot holes in succession, 8th March :- [9067826](https://www.fixmystreet.com/report/9067826)
-- Pothole worsened since last review, 8th March :- [9067634](https://www.fixmystreet.com/report/9067634)
-- Part two additional potholes in the same location, 8th March :- [9067594](https://www.fixmystreet.com/report/9067594)
-- Part one of a series of potholes, 8th March :- [9067573](https://www.fixmystreet.com/report/9067573)
 
 <!-- fix_marker ends -->

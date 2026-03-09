@@ -29,7 +29,7 @@ CHELTENHAM_LON  = -2.078
 RADIUS_MILES    = 20
 EARTH_RADIUS_MI = 3958.8
 BATCH_DELAY_SECS     = 1.5   # pause between paginated requests to avoid hammering the API
-PRICE_LOOKBACK_DAYS  = 30   # how far back the daily price fetch looks
+PRICE_LOOKBACK_DAYS  = 60   # how far back the daily price fetch looks
 
 # Human-readable names for API fuel type codes
 FUEL_LABELS = {

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 09 March 2026
 
-- The average temperature today is 7.32˚C,
-- With highs of 7.77˚C and lows of 7.04˚C,
-- It may feel like 6.79˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 94%
+- The average temperature today is 6.97˚C,
+- With highs of 7.77˚C and lows of 6.5˚C,
+- It may feel like 5.87˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 94%
 - The sun will rise at 06:36 and set at 18:01
 
 <!-- weather_marker ends -->

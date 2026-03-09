@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Ongoing Neglect of Elmfield Avenue and Elmfield Street, 9th March :- [9076536](https://www.fixmystreet.com/report/9076536)
+- More than one relatively small potholes bad enough for drivers to take avoiding action, 9th March :- [9076125](https://www.fixmystreet.com/report/9076125)
 - Street light not working, 9th March :- [9075947](https://www.fixmystreet.com/report/9075947)
 - Drain outside three springs is sunken and blocked, 9th March :- [9075825](https://www.fixmystreet.com/report/9075825)
 - Previously reported and advised by “Fixmystreet today it had been fixed …IT HAS NOT!, 9th March :- [9075766](https://www.fixmystreet.com/report/9075766)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th March :- [9074596](https://www.fixmystreet.com/report/9074596)
 - TMC - Defects -CW6 Potholes  problem, 9th March :- [9074601](https://www.fixmystreet.com/report/9074601)
 - TMC - Defects -CW6 Potholes  problem, 9th March :- [9074600](https://www.fixmystreet.com/report/9074600)
-- TMC - Defects -CW6 Potholes  problem, 9th March :- [9074598](https://www.fixmystreet.com/report/9074598)
-- TMC - Defects -CW6 Potholes  problem, 9th March :- [9074592](https://www.fixmystreet.com/report/9074592)
 
 <!-- fix_marker ends -->

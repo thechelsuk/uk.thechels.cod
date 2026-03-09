@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Button push on crossing times out and needs repressing to activate cross, 9th March :- [9070345](https://www.fixmystreet.com/report/9070345)
+- Whole road of unsafe potholes, 9th March :- [9070308](https://www.fixmystreet.com/report/9070308)
 - Collapsed trench across road, 8th March :- [9069832](https://www.fixmystreet.com/report/9069832)
 - Big, quite deep pothole very close to right turn into The Reddings., 8th March :- [9069402](https://www.fixmystreet.com/report/9069402)
 - Massive longitudinal potholes, 8th March :- [9068992](https://www.fixmystreet.com/report/9068992)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole worsened since last review, 8th March :- [9067634](https://www.fixmystreet.com/report/9067634)
 - Part two additional potholes in the same location, 8th March :- [9067594](https://www.fixmystreet.com/report/9067594)
 - Part one of a series of potholes, 8th March :- [9067573](https://www.fixmystreet.com/report/9067573)
-- Potholes and broken road surface, 8th March :- [9067397](https://www.fixmystreet.com/report/9067397)
-- Road closed sign on Andover Roac, 8th March :- [9066555](https://www.fixmystreet.com/report/9066555)
 
 <!-- fix_marker ends -->

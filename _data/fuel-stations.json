@@ -42,15 +42,15 @@
     "fuel_prices": [
       {
         "fuel_type": "E10",
-        "price": 134.7,
-        "price_last_updated": "2026-03-06T18:03:37.467Z",
-        "price_change_effective_timestamp": "2026-03-06T18:03:37.000Z"
+        "price": 135.7,
+        "price_last_updated": "2026-03-10T16:11:54.983Z",
+        "price_change_effective_timestamp": "2026-03-10T16:11:55.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 152.7,
-        "price_last_updated": "2026-03-09T16:06:23.387Z",
-        "price_change_effective_timestamp": "2026-03-09T16:06:23.000Z"
+        "price": 157.7,
+        "price_last_updated": "2026-03-10T16:11:54.983Z",
+        "price_change_effective_timestamp": "2026-03-10T16:11:55.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -121,26 +121,26 @@
       {
         "fuel_type": "E5",
         "price": 149.9,
-        "price_last_updated": "2026-03-10T09:42:47.667Z",
-        "price_change_effective_timestamp": "2026-03-10T09:42:46.000Z"
+        "price_last_updated": "2026-03-10T22:59:13.201Z",
+        "price_change_effective_timestamp": "2026-03-10T22:59:11.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 136.9,
-        "price_last_updated": "2026-03-10T09:42:47.667Z",
-        "price_change_effective_timestamp": "2026-03-10T09:42:46.000Z"
+        "price_last_updated": "2026-03-10T22:59:13.201Z",
+        "price_change_effective_timestamp": "2026-03-10T22:59:11.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 149.9,
-        "price_last_updated": "2026-03-10T09:42:47.667Z",
-        "price_change_effective_timestamp": "2026-03-10T09:42:46.000Z"
+        "price": 153.9,
+        "price_last_updated": "2026-03-10T22:59:13.201Z",
+        "price_change_effective_timestamp": "2026-03-10T22:59:11.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 169.9,
-        "price_last_updated": "2026-03-10T09:42:47.667Z",
-        "price_change_effective_timestamp": "2026-03-10T09:42:46.000Z"
+        "price_last_updated": "2026-03-10T22:59:13.201Z",
+        "price_change_effective_timestamp": "2026-03-10T22:59:11.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -188,9 +188,9 @@
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 145.9,
-        "price_last_updated": "2026-03-08T08:31:20.144Z",
-        "price_change_effective_timestamp": "2026-03-08T08:31:20.000Z"
+        "price": 149.9,
+        "price_last_updated": "2026-03-10T17:11:59.311Z",
+        "price_change_effective_timestamp": "2026-03-10T17:11:59.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -261,26 +261,26 @@
       {
         "fuel_type": "E5",
         "price": 165.9,
-        "price_last_updated": "2026-03-10T11:29:46.037Z",
-        "price_change_effective_timestamp": "2026-03-10T11:29:44.000Z"
+        "price_last_updated": "2026-03-10T23:30:13.239Z",
+        "price_change_effective_timestamp": "2026-03-10T23:30:12.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 139.9,
-        "price_last_updated": "2026-03-10T11:29:46.037Z",
-        "price_change_effective_timestamp": "2026-03-10T11:29:44.000Z"
+        "price_last_updated": "2026-03-10T23:30:13.239Z",
+        "price_change_effective_timestamp": "2026-03-10T23:30:12.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 165.9,
-        "price_last_updated": "2026-03-10T11:29:46.037Z",
-        "price_change_effective_timestamp": "2026-03-10T11:29:44.000Z"
+        "price_last_updated": "2026-03-10T23:30:13.239Z",
+        "price_change_effective_timestamp": "2026-03-10T23:30:12.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 185.9,
-        "price_last_updated": "2026-03-10T11:29:46.037Z",
-        "price_change_effective_timestamp": "2026-03-10T11:29:44.000Z"
+        "price_last_updated": "2026-03-10T23:30:13.239Z",
+        "price_change_effective_timestamp": "2026-03-10T23:30:12.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -295,26 +295,26 @@
       {
         "fuel_type": "E5",
         "price": 159.9,
-        "price_last_updated": "2026-03-10T11:41:36.459Z",
-        "price_change_effective_timestamp": "2026-03-10T11:41:35.000Z"
+        "price_last_updated": "2026-03-10T19:41:52.885Z",
+        "price_change_effective_timestamp": "2026-03-10T19:41:51.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 136.9,
-        "price_last_updated": "2026-03-10T11:41:36.459Z",
-        "price_change_effective_timestamp": "2026-03-10T11:41:35.000Z"
+        "price_last_updated": "2026-03-10T19:41:52.885Z",
+        "price_change_effective_timestamp": "2026-03-10T19:41:51.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 154.9,
-        "price_last_updated": "2026-03-10T11:41:36.459Z",
-        "price_change_effective_timestamp": "2026-03-10T11:41:35.000Z"
+        "price_last_updated": "2026-03-10T19:41:52.885Z",
+        "price_change_effective_timestamp": "2026-03-10T19:41:51.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 175.9,
-        "price_last_updated": "2026-03-10T11:41:36.459Z",
-        "price_change_effective_timestamp": "2026-03-10T11:41:35.000Z"
+        "price_last_updated": "2026-03-10T19:41:52.885Z",
+        "price_change_effective_timestamp": "2026-03-10T19:41:51.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -396,21 +396,21 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 147.9,
-        "price_last_updated": "2026-03-07T13:51:02.287Z",
-        "price_change_effective_timestamp": "2026-03-07T13:51:00.000Z"
+        "price": 149.9,
+        "price_last_updated": "2026-03-10T17:49:04.989Z",
+        "price_change_effective_timestamp": "2026-03-10T17:48:55.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 137.9,
-        "price_last_updated": "2026-03-07T13:40:33.148Z",
-        "price_change_effective_timestamp": "2026-03-07T13:40:23.000Z"
+        "price": 139.9,
+        "price_last_updated": "2026-03-10T17:58:04.779Z",
+        "price_change_effective_timestamp": "2026-03-10T17:57:39.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 149.9,
-        "price_last_updated": "2026-03-09T16:05:47.611Z",
-        "price_change_effective_timestamp": "2026-03-09T16:05:17.000Z"
+        "price": 150.9,
+        "price_last_updated": "2026-03-10T17:49:04.989Z",
+        "price_change_effective_timestamp": "2026-03-10T17:48:55.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -487,26 +487,26 @@
       {
         "fuel_type": "E5",
         "price": 159.9,
-        "price_last_updated": "2026-03-10T09:52:46.272Z",
-        "price_change_effective_timestamp": "2026-03-10T09:52:45.000Z"
+        "price_last_updated": "2026-03-10T21:53:12.502Z",
+        "price_change_effective_timestamp": "2026-03-10T21:53:11.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 136.9,
-        "price_last_updated": "2026-03-10T09:52:46.272Z",
-        "price_change_effective_timestamp": "2026-03-10T09:52:45.000Z"
+        "price_last_updated": "2026-03-10T21:53:12.502Z",
+        "price_change_effective_timestamp": "2026-03-10T21:53:11.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 152.9,
-        "price_last_updated": "2026-03-10T09:52:46.272Z",
-        "price_change_effective_timestamp": "2026-03-10T09:52:45.000Z"
+        "price_last_updated": "2026-03-10T21:53:12.502Z",
+        "price_change_effective_timestamp": "2026-03-10T21:53:11.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 175.9,
-        "price_last_updated": "2026-03-10T09:52:46.272Z",
-        "price_change_effective_timestamp": "2026-03-10T09:52:45.000Z"
+        "price_last_updated": "2026-03-10T21:53:12.502Z",
+        "price_change_effective_timestamp": "2026-03-10T21:53:11.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -555,26 +555,26 @@
       {
         "fuel_type": "E5",
         "price": 165.9,
-        "price_last_updated": "2026-03-10T09:06:26.201Z",
-        "price_change_effective_timestamp": "2026-03-10T09:06:25.000Z"
+        "price_last_updated": "2026-03-10T21:06:52.465Z",
+        "price_change_effective_timestamp": "2026-03-10T21:06:51.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 139.9,
-        "price_last_updated": "2026-03-10T09:06:26.201Z",
-        "price_change_effective_timestamp": "2026-03-10T09:06:25.000Z"
+        "price_last_updated": "2026-03-10T21:06:52.465Z",
+        "price_change_effective_timestamp": "2026-03-10T21:06:51.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 165.9,
-        "price_last_updated": "2026-03-10T09:06:26.201Z",
-        "price_change_effective_timestamp": "2026-03-10T09:06:25.000Z"
+        "price_last_updated": "2026-03-10T21:06:52.465Z",
+        "price_change_effective_timestamp": "2026-03-10T21:06:51.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 185.9,
-        "price_last_updated": "2026-03-10T09:06:26.201Z",
-        "price_change_effective_timestamp": "2026-03-10T09:06:25.000Z"
+        "price_last_updated": "2026-03-10T21:06:52.465Z",
+        "price_change_effective_timestamp": "2026-03-10T21:06:51.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -589,26 +589,26 @@
       {
         "fuel_type": "E5",
         "price": 149.9,
-        "price_last_updated": "2026-03-10T05:09:15.677Z",
-        "price_change_effective_timestamp": "2026-03-10T05:09:12.000Z"
+        "price_last_updated": "2026-03-10T22:16:40.053Z",
+        "price_change_effective_timestamp": "2026-03-10T22:16:35.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 131.9,
-        "price_last_updated": "2026-03-10T05:09:15.677Z",
-        "price_change_effective_timestamp": "2026-03-10T05:09:12.000Z"
+        "price": 132.9,
+        "price_last_updated": "2026-03-10T22:16:40.053Z",
+        "price_change_effective_timestamp": "2026-03-10T22:16:35.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 145.9,
-        "price_last_updated": "2026-03-10T05:09:15.677Z",
-        "price_change_effective_timestamp": "2026-03-10T05:09:12.000Z"
+        "price": 150.9,
+        "price_last_updated": "2026-03-10T22:16:40.053Z",
+        "price_change_effective_timestamp": "2026-03-10T22:16:35.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
-        "price": 155.9,
-        "price_last_updated": "2026-03-10T05:09:15.677Z",
-        "price_change_effective_timestamp": "2026-03-10T05:09:12.000Z"
+        "price": 160.9,
+        "price_last_updated": "2026-03-10T22:16:40.053Z",
+        "price_change_effective_timestamp": "2026-03-10T22:16:35.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -622,21 +622,21 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 141.9,
-        "price_last_updated": "2026-03-09T15:14:39.776Z",
-        "price_change_effective_timestamp": "2026-03-09T15:14:15.000Z"
+        "price": 142.9,
+        "price_last_updated": "2026-03-10T17:44:13.029Z",
+        "price_change_effective_timestamp": "2026-03-10T17:43:46.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 132.9,
-        "price_last_updated": "2026-03-09T15:14:39.776Z",
-        "price_change_effective_timestamp": "2026-03-09T15:14:15.000Z"
+        "price": 133.9,
+        "price_last_updated": "2026-03-10T17:38:42.862Z",
+        "price_change_effective_timestamp": "2026-03-10T17:38:35.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 143.9,
-        "price_last_updated": "2026-03-09T15:19:09.600Z",
-        "price_change_effective_timestamp": "2026-03-09T15:18:39.000Z"
+        "price": 148.9,
+        "price_last_updated": "2026-03-10T17:38:42.862Z",
+        "price_change_effective_timestamp": "2026-03-10T17:38:35.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -650,27 +650,27 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 159.9,
-        "price_last_updated": "2026-02-06T09:18:10.957Z",
-        "price_change_effective_timestamp": "2026-02-06T09:18:05.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-03-10T22:30:39.766Z",
+        "price_change_effective_timestamp": "2026-03-10T22:30:39.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 133.9,
-        "price_last_updated": "2026-03-05T10:19:14.870Z",
-        "price_change_effective_timestamp": "2026-03-05T10:19:14.000Z"
+        "price": 134.9,
+        "price_last_updated": "2026-03-10T22:30:39.766Z",
+        "price_change_effective_timestamp": "2026-03-10T22:30:39.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 149.9,
-        "price_last_updated": "2026-03-05T10:19:14.870Z",
-        "price_change_effective_timestamp": "2026-03-05T10:19:14.000Z"
+        "price": 155.9,
+        "price_last_updated": "2026-03-10T22:30:39.766Z",
+        "price_change_effective_timestamp": "2026-03-10T22:30:39.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
-        "price": 159.9,
-        "price_last_updated": "2026-02-06T09:18:10.957Z",
-        "price_change_effective_timestamp": "2026-02-06T09:18:05.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-03-10T22:30:39.766Z",
+        "price_change_effective_timestamp": "2026-03-10T22:30:39.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -718,9 +718,9 @@
     "fuel_prices": [
       {
         "fuel_type": "E10",
-        "price": 135.7,
-        "price_last_updated": "2026-03-09T16:01:58.883Z",
-        "price_change_effective_timestamp": "2026-03-09T16:01:58.000Z"
+        "price": 136.7,
+        "price_last_updated": "2026-03-10T16:04:19.156Z",
+        "price_change_effective_timestamp": "2026-03-10T16:04:19.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
@@ -741,26 +741,26 @@
       {
         "fuel_type": "E5",
         "price": 159.9,
-        "price_last_updated": "2026-03-10T09:50:05.940Z",
-        "price_change_effective_timestamp": "2026-03-10T09:50:05.000Z"
+        "price_last_updated": "2026-03-10T21:50:15.972Z",
+        "price_change_effective_timestamp": "2026-03-10T21:50:14.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 137.9,
-        "price_last_updated": "2026-03-10T09:50:05.940Z",
-        "price_change_effective_timestamp": "2026-03-10T09:50:05.000Z"
+        "price_last_updated": "2026-03-10T21:50:15.972Z",
+        "price_change_effective_timestamp": "2026-03-10T21:50:14.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 151.9,
-        "price_last_updated": "2026-03-10T09:50:05.940Z",
-        "price_change_effective_timestamp": "2026-03-10T09:50:05.000Z"
+        "price_last_updated": "2026-03-10T21:50:15.972Z",
+        "price_change_effective_timestamp": "2026-03-10T21:50:14.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 175.9,
-        "price_last_updated": "2026-03-10T09:50:05.940Z",
-        "price_change_effective_timestamp": "2026-03-10T09:50:05.000Z"
+        "price_last_updated": "2026-03-10T21:50:15.972Z",
+        "price_change_effective_timestamp": "2026-03-10T21:50:14.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -831,20 +831,20 @@
       {
         "fuel_type": "E5",
         "price": 149.9,
-        "price_last_updated": "2026-03-10T09:32:25.438Z",
-        "price_change_effective_timestamp": "2026-03-10T09:32:25.000Z"
+        "price_last_updated": "2026-03-10T22:48:40.524Z",
+        "price_change_effective_timestamp": "2026-03-10T22:48:41.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 133.9,
-        "price_last_updated": "2026-03-10T09:32:25.438Z",
-        "price_change_effective_timestamp": "2026-03-10T09:32:25.000Z"
+        "price": 134.9,
+        "price_last_updated": "2026-03-10T22:48:40.524Z",
+        "price_change_effective_timestamp": "2026-03-10T22:48:41.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 148.9,
-        "price_last_updated": "2026-03-10T09:32:25.438Z",
-        "price_change_effective_timestamp": "2026-03-10T09:32:25.000Z"
+        "price": 153.9,
+        "price_last_updated": "2026-03-10T22:48:40.524Z",
+        "price_change_effective_timestamp": "2026-03-10T22:48:41.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -887,26 +887,26 @@
       {
         "fuel_type": "E5",
         "price": 155.9,
-        "price_last_updated": "2026-03-10T09:14:48.690Z",
-        "price_change_effective_timestamp": "2026-03-10T09:14:45.000Z"
+        "price_last_updated": "2026-03-10T21:15:23.164Z",
+        "price_change_effective_timestamp": "2026-03-10T21:15:22.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 136.9,
-        "price_last_updated": "2026-03-10T09:14:48.690Z",
-        "price_change_effective_timestamp": "2026-03-10T09:14:45.000Z"
+        "price_last_updated": "2026-03-10T21:15:23.164Z",
+        "price_change_effective_timestamp": "2026-03-10T21:15:22.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 151.9,
-        "price_last_updated": "2026-03-10T09:14:48.690Z",
-        "price_change_effective_timestamp": "2026-03-10T09:14:45.000Z"
+        "price_last_updated": "2026-03-10T21:15:23.164Z",
+        "price_change_effective_timestamp": "2026-03-10T21:15:22.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 169.9,
-        "price_last_updated": "2026-03-10T09:14:48.690Z",
-        "price_change_effective_timestamp": "2026-03-10T09:14:45.000Z"
+        "price_last_updated": "2026-03-10T21:15:23.164Z",
+        "price_change_effective_timestamp": "2026-03-10T21:15:22.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -921,26 +921,26 @@
       {
         "fuel_type": "E5",
         "price": 159.9,
-        "price_last_updated": "2026-03-10T11:52:27.396Z",
-        "price_change_effective_timestamp": "2026-03-10T11:52:11.000Z"
+        "price_last_updated": "2026-03-10T19:52:45.700Z",
+        "price_change_effective_timestamp": "2026-03-10T19:52:30.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 137.9,
-        "price_last_updated": "2026-03-10T11:52:27.396Z",
-        "price_change_effective_timestamp": "2026-03-10T11:52:11.000Z"
+        "price_last_updated": "2026-03-10T19:52:45.700Z",
+        "price_change_effective_timestamp": "2026-03-10T19:52:30.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 155.9,
-        "price_last_updated": "2026-03-10T11:52:27.396Z",
-        "price_change_effective_timestamp": "2026-03-10T11:52:11.000Z"
+        "price_last_updated": "2026-03-10T19:52:45.700Z",
+        "price_change_effective_timestamp": "2026-03-10T19:52:30.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 175.9,
-        "price_last_updated": "2026-03-10T11:52:27.396Z",
-        "price_change_effective_timestamp": "2026-03-10T11:52:11.000Z"
+        "price_last_updated": "2026-03-10T19:52:45.700Z",
+        "price_change_effective_timestamp": "2026-03-10T19:52:30.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -954,21 +954,21 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 141.9,
-        "price_last_updated": "2026-03-09T15:46:03.840Z",
-        "price_change_effective_timestamp": "2026-03-09T15:45:42.000Z"
+        "price": 143.9,
+        "price_last_updated": "2026-03-10T17:54:48.400Z",
+        "price_change_effective_timestamp": "2026-03-10T17:54:47.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 132.9,
-        "price_last_updated": "2026-03-09T15:43:04.382Z",
-        "price_change_effective_timestamp": "2026-03-09T15:43:02.000Z"
+        "price": 134.9,
+        "price_last_updated": "2026-03-10T18:00:47.931Z",
+        "price_change_effective_timestamp": "2026-03-10T18:00:27.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 143.9,
-        "price_last_updated": "2026-03-09T15:43:04.382Z",
-        "price_change_effective_timestamp": "2026-03-09T15:43:02.000Z"
+        "price": 148.9,
+        "price_last_updated": "2026-03-10T18:00:47.931Z",
+        "price_change_effective_timestamp": "2026-03-10T18:00:27.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -994,9 +994,9 @@
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 151.9,
-        "price_last_updated": "2026-03-09T11:04:45.165Z",
-        "price_change_effective_timestamp": "2026-03-09T11:04:45.000Z"
+        "price": 156.9,
+        "price_last_updated": "2026-03-10T13:32:29.102Z",
+        "price_change_effective_timestamp": "2026-03-10T13:32:29.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -1011,26 +1011,26 @@
       {
         "fuel_type": "E5",
         "price": 159.9,
-        "price_last_updated": "2026-03-10T09:51:29.460Z",
-        "price_change_effective_timestamp": "2026-03-10T09:52:12.000Z"
+        "price_last_updated": "2026-03-10T23:01:00.071Z",
+        "price_change_effective_timestamp": "2026-03-10T23:01:42.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 139.9,
-        "price_last_updated": "2026-03-10T09:51:29.460Z",
-        "price_change_effective_timestamp": "2026-03-10T09:52:12.000Z"
+        "price_last_updated": "2026-03-10T23:01:00.071Z",
+        "price_change_effective_timestamp": "2026-03-10T23:01:42.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 155.9,
-        "price_last_updated": "2026-03-10T09:51:29.460Z",
-        "price_change_effective_timestamp": "2026-03-10T09:52:12.000Z"
+        "price": 157.9,
+        "price_last_updated": "2026-03-10T23:01:00.071Z",
+        "price_change_effective_timestamp": "2026-03-10T23:01:42.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 175.9,
-        "price_last_updated": "2026-03-10T09:51:29.460Z",
-        "price_change_effective_timestamp": "2026-03-10T09:52:12.000Z"
+        "price_last_updated": "2026-03-10T23:01:00.071Z",
+        "price_change_effective_timestamp": "2026-03-10T23:01:42.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -1044,21 +1044,21 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 144.9,
-        "price_last_updated": "2026-03-09T22:00:17.380Z",
-        "price_change_effective_timestamp": "2026-03-09T22:00:14.000Z"
+        "price": 145.9,
+        "price_last_updated": "2026-03-10T21:58:28.564Z",
+        "price_change_effective_timestamp": "2026-03-10T21:58:25.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 132.9,
-        "price_last_updated": "2026-03-09T22:00:17.380Z",
-        "price_change_effective_timestamp": "2026-03-09T22:00:14.000Z"
+        "price": 133.9,
+        "price_last_updated": "2026-03-10T21:58:28.564Z",
+        "price_change_effective_timestamp": "2026-03-10T21:58:25.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 146.9,
-        "price_last_updated": "2026-03-09T22:00:17.380Z",
-        "price_change_effective_timestamp": "2026-03-09T22:00:14.000Z"
+        "price": 148.9,
+        "price_last_updated": "2026-03-10T21:58:28.564Z",
+        "price_change_effective_timestamp": "2026-03-10T21:58:25.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -1157,20 +1157,20 @@
       {
         "fuel_type": "E5",
         "price": 149.9,
-        "price_last_updated": "2026-03-10T09:05:17.516Z",
-        "price_change_effective_timestamp": "2026-03-10T09:05:16.000Z"
+        "price_last_updated": "2026-03-10T22:07:33.972Z",
+        "price_change_effective_timestamp": "2026-03-10T22:07:32.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 135.9,
-        "price_last_updated": "2026-03-10T09:05:17.516Z",
-        "price_change_effective_timestamp": "2026-03-10T09:05:16.000Z"
+        "price": 136.9,
+        "price_last_updated": "2026-03-10T22:07:33.972Z",
+        "price_change_effective_timestamp": "2026-03-10T22:07:32.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 149.9,
-        "price_last_updated": "2026-03-10T09:05:17.516Z",
-        "price_change_effective_timestamp": "2026-03-10T09:05:16.000Z"
+        "price": 154.9,
+        "price_last_updated": "2026-03-10T22:07:33.972Z",
+        "price_change_effective_timestamp": "2026-03-10T22:07:32.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -1185,26 +1185,26 @@
       {
         "fuel_type": "E5",
         "price": 159.9,
-        "price_last_updated": "2026-03-10T09:27:59.108Z",
-        "price_change_effective_timestamp": "2026-03-10T09:27:58.000Z"
+        "price_last_updated": "2026-03-10T23:04:24.992Z",
+        "price_change_effective_timestamp": "2026-03-10T23:04:23.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 136.9,
-        "price_last_updated": "2026-03-10T09:27:59.108Z",
-        "price_change_effective_timestamp": "2026-03-10T09:27:58.000Z"
+        "price": 137.9,
+        "price_last_updated": "2026-03-10T23:04:24.992Z",
+        "price_change_effective_timestamp": "2026-03-10T23:04:23.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 154.9,
-        "price_last_updated": "2026-03-10T09:27:59.108Z",
-        "price_change_effective_timestamp": "2026-03-10T09:27:58.000Z"
+        "price": 155.9,
+        "price_last_updated": "2026-03-10T23:04:24.992Z",
+        "price_change_effective_timestamp": "2026-03-10T23:04:23.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 175.9,
-        "price_last_updated": "2026-03-10T09:27:59.108Z",
-        "price_change_effective_timestamp": "2026-03-10T09:27:58.000Z"
+        "price_last_updated": "2026-03-10T23:04:24.992Z",
+        "price_change_effective_timestamp": "2026-03-10T23:04:23.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -1423,27 +1423,27 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 155.9,
-        "price_last_updated": "2026-03-09T11:43:10.958Z",
-        "price_change_effective_timestamp": "2026-03-09T11:43:10.000Z"
+        "price": 156.9,
+        "price_last_updated": "2026-03-10T15:23:50.872Z",
+        "price_change_effective_timestamp": "2026-03-10T15:23:50.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 136.9,
-        "price_last_updated": "2026-03-09T11:43:10.958Z",
-        "price_change_effective_timestamp": "2026-03-09T11:43:10.000Z"
+        "price": 137.9,
+        "price_last_updated": "2026-03-10T15:23:50.872Z",
+        "price_change_effective_timestamp": "2026-03-10T15:23:50.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 154.9,
-        "price_last_updated": "2026-03-09T11:43:10.958Z",
-        "price_change_effective_timestamp": "2026-03-09T11:43:10.000Z"
+        "price_last_updated": "2026-03-10T15:23:50.872Z",
+        "price_change_effective_timestamp": "2026-03-10T15:23:50.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 173.9,
-        "price_last_updated": "2026-03-09T11:43:10.958Z",
-        "price_change_effective_timestamp": "2026-03-09T11:43:10.000Z"
+        "price_last_updated": "2026-03-10T15:23:50.872Z",
+        "price_change_effective_timestamp": "2026-03-10T15:23:50.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2062,27 +2062,27 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 196.9,
-        "price_last_updated": "2026-03-10T09:45:24.180Z",
-        "price_change_effective_timestamp": "2026-03-10T09:45:23.000Z"
+        "price": 189.9,
+        "price_last_updated": "2026-03-10T14:52:10.598Z",
+        "price_change_effective_timestamp": "2026-03-10T14:52:10.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 176.9,
-        "price_last_updated": "2026-03-10T09:45:24.180Z",
-        "price_change_effective_timestamp": "2026-03-10T09:45:23.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-03-10T14:52:10.598Z",
+        "price_change_effective_timestamp": "2026-03-10T14:52:10.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 190.9,
-        "price_last_updated": "2026-03-10T09:45:24.180Z",
-        "price_change_effective_timestamp": "2026-03-10T09:45:23.000Z"
+        "price": 179.9,
+        "price_last_updated": "2026-03-10T13:50:31.877Z",
+        "price_change_effective_timestamp": "2026-03-10T13:50:31.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
-        "price": 209.9,
-        "price_last_updated": "2026-03-10T09:45:24.180Z",
-        "price_change_effective_timestamp": "2026-03-10T09:45:23.000Z"
+        "price": 198.9,
+        "price_last_updated": "2026-03-10T13:50:31.877Z",
+        "price_change_effective_timestamp": "2026-03-10T13:50:31.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2096,27 +2096,27 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 158.9,
-        "price_last_updated": "2026-03-06T16:36:13.114Z",
-        "price_change_effective_timestamp": "2026-03-06T16:36:13.000Z"
+        "price": 159.9,
+        "price_last_updated": "2026-03-10T14:13:34.608Z",
+        "price_change_effective_timestamp": "2026-03-10T14:13:34.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 138.9,
-        "price_last_updated": "2026-03-06T16:36:13.114Z",
-        "price_change_effective_timestamp": "2026-03-06T16:36:13.000Z"
+        "price": 139.9,
+        "price_last_updated": "2026-03-10T14:13:34.608Z",
+        "price_change_effective_timestamp": "2026-03-10T14:13:34.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 154.9,
-        "price_last_updated": "2026-03-09T11:15:21.624Z",
-        "price_change_effective_timestamp": "2026-03-09T11:15:21.000Z"
+        "price": 157.9,
+        "price_last_updated": "2026-03-10T14:13:34.608Z",
+        "price_change_effective_timestamp": "2026-03-10T14:13:34.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
-        "price": 174.9,
-        "price_last_updated": "2026-03-09T11:15:21.624Z",
-        "price_change_effective_timestamp": "2026-03-09T11:15:21.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-03-10T14:13:34.608Z",
+        "price_change_effective_timestamp": "2026-03-10T14:13:34.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2244,26 +2244,26 @@
       {
         "fuel_type": "E5",
         "price": 159.9,
-        "price_last_updated": "2026-03-10T09:27:01.656Z",
-        "price_change_effective_timestamp": "2026-03-10T09:27:00.000Z"
+        "price_last_updated": "2026-03-10T23:01:39.801Z",
+        "price_change_effective_timestamp": "2026-03-10T23:01:36.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 139.9,
-        "price_last_updated": "2026-03-10T09:27:01.656Z",
-        "price_change_effective_timestamp": "2026-03-10T09:27:00.000Z"
+        "price_last_updated": "2026-03-10T23:01:39.801Z",
+        "price_change_effective_timestamp": "2026-03-10T23:01:36.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 156.9,
-        "price_last_updated": "2026-03-10T09:27:01.656Z",
-        "price_change_effective_timestamp": "2026-03-10T09:27:00.000Z"
+        "price": 159.9,
+        "price_last_updated": "2026-03-10T23:01:39.801Z",
+        "price_change_effective_timestamp": "2026-03-10T23:01:36.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 175.9,
-        "price_last_updated": "2026-03-10T09:27:01.656Z",
-        "price_change_effective_timestamp": "2026-03-10T09:27:00.000Z"
+        "price_last_updated": "2026-03-10T23:01:39.801Z",
+        "price_change_effective_timestamp": "2026-03-10T23:01:36.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2277,15 +2277,15 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 148.9,
-        "price_last_updated": "2026-03-09T16:39:27.962Z",
-        "price_change_effective_timestamp": "2026-03-09T16:39:01.000Z"
+        "price": 151.9,
+        "price_last_updated": "2026-03-10T15:14:11.126Z",
+        "price_change_effective_timestamp": "2026-03-10T15:13:47.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 133.9,
-        "price_last_updated": "2026-03-09T16:39:27.962Z",
-        "price_change_effective_timestamp": "2026-03-09T16:39:01.000Z"
+        "price": 136.9,
+        "price_last_updated": "2026-03-10T15:14:11.126Z",
+        "price_change_effective_timestamp": "2026-03-10T15:13:47.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
@@ -2339,21 +2339,21 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 143.9,
-        "price_last_updated": "2026-03-09T22:55:23.454Z",
-        "price_change_effective_timestamp": "2026-03-09T22:55:19.000Z"
+        "price": 144.9,
+        "price_last_updated": "2026-03-10T22:58:08.427Z",
+        "price_change_effective_timestamp": "2026-03-10T22:58:03.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 131.9,
-        "price_last_updated": "2026-03-09T22:55:23.454Z",
-        "price_change_effective_timestamp": "2026-03-09T22:55:19.000Z"
+        "price": 132.9,
+        "price_last_updated": "2026-03-10T22:58:08.427Z",
+        "price_change_effective_timestamp": "2026-03-10T22:58:03.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 146.9,
-        "price_last_updated": "2026-03-09T22:55:23.454Z",
-        "price_change_effective_timestamp": "2026-03-09T22:55:19.000Z"
+        "price": 148.9,
+        "price_last_updated": "2026-03-10T22:58:08.427Z",
+        "price_change_effective_timestamp": "2026-03-10T22:58:03.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2402,26 +2402,26 @@
       {
         "fuel_type": "E5",
         "price": 155.9,
-        "price_last_updated": "2026-03-10T09:16:38.006Z",
-        "price_change_effective_timestamp": "2026-03-10T09:16:23.000Z"
+        "price_last_updated": "2026-03-10T21:17:04.860Z",
+        "price_change_effective_timestamp": "2026-03-10T21:16:50.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 137.9,
-        "price_last_updated": "2026-03-10T09:16:38.006Z",
-        "price_change_effective_timestamp": "2026-03-10T09:16:23.000Z"
+        "price_last_updated": "2026-03-10T21:17:04.860Z",
+        "price_change_effective_timestamp": "2026-03-10T21:16:50.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 152.9,
-        "price_last_updated": "2026-03-10T09:16:38.006Z",
-        "price_change_effective_timestamp": "2026-03-10T09:16:23.000Z"
+        "price_last_updated": "2026-03-10T21:17:04.860Z",
+        "price_change_effective_timestamp": "2026-03-10T21:16:50.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 169.9,
-        "price_last_updated": "2026-03-10T09:16:38.006Z",
-        "price_change_effective_timestamp": "2026-03-10T09:16:23.000Z"
+        "price_last_updated": "2026-03-10T21:17:04.860Z",
+        "price_change_effective_timestamp": "2026-03-10T21:16:50.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2436,26 +2436,26 @@
       {
         "fuel_type": "E5",
         "price": 159.9,
-        "price_last_updated": "2026-03-10T09:28:38.964Z",
-        "price_change_effective_timestamp": "2026-03-10T09:28:36.000Z"
+        "price_last_updated": "2026-03-10T23:08:05.665Z",
+        "price_change_effective_timestamp": "2026-03-10T23:08:02.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 136.9,
-        "price_last_updated": "2026-03-10T09:28:38.964Z",
-        "price_change_effective_timestamp": "2026-03-10T09:28:36.000Z"
+        "price_last_updated": "2026-03-10T23:08:05.665Z",
+        "price_change_effective_timestamp": "2026-03-10T23:08:02.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 153.9,
-        "price_last_updated": "2026-03-10T09:28:38.964Z",
-        "price_change_effective_timestamp": "2026-03-10T09:28:36.000Z"
+        "price": 155.9,
+        "price_last_updated": "2026-03-10T23:08:05.665Z",
+        "price_change_effective_timestamp": "2026-03-10T23:08:02.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 175.9,
-        "price_last_updated": "2026-03-10T09:28:38.964Z",
-        "price_change_effective_timestamp": "2026-03-10T09:28:36.000Z"
+        "price_last_updated": "2026-03-10T23:08:05.665Z",
+        "price_change_effective_timestamp": "2026-03-10T23:08:02.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2532,20 +2532,20 @@
       {
         "fuel_type": "E5",
         "price": 155.9,
-        "price_last_updated": "2026-03-10T09:54:49.530Z",
-        "price_change_effective_timestamp": "2026-03-10T09:54:48.000Z"
+        "price_last_updated": "2026-03-10T21:55:12.702Z",
+        "price_change_effective_timestamp": "2026-03-10T21:55:10.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 136.9,
-        "price_last_updated": "2026-03-10T09:54:49.530Z",
-        "price_change_effective_timestamp": "2026-03-10T09:54:48.000Z"
+        "price_last_updated": "2026-03-10T21:55:12.702Z",
+        "price_change_effective_timestamp": "2026-03-10T21:55:10.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 149.9,
-        "price_last_updated": "2026-03-10T09:54:49.530Z",
-        "price_change_effective_timestamp": "2026-03-10T09:54:48.000Z"
+        "price_last_updated": "2026-03-10T21:55:12.702Z",
+        "price_change_effective_timestamp": "2026-03-10T21:55:10.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2622,26 +2622,26 @@
       {
         "fuel_type": "E5",
         "price": 159.9,
-        "price_last_updated": "2026-03-10T10:19:05.121Z",
-        "price_change_effective_timestamp": "2026-03-10T10:19:01.000Z"
+        "price_last_updated": "2026-03-10T17:21:21.400Z",
+        "price_change_effective_timestamp": "2026-03-10T17:21:15.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 137.9,
-        "price_last_updated": "2026-03-10T10:19:05.121Z",
-        "price_change_effective_timestamp": "2026-03-10T10:19:01.000Z"
+        "price_last_updated": "2026-03-10T17:21:21.400Z",
+        "price_change_effective_timestamp": "2026-03-10T17:21:15.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 154.9,
-        "price_last_updated": "2026-03-10T10:19:05.121Z",
-        "price_change_effective_timestamp": "2026-03-10T10:19:01.000Z"
+        "price_last_updated": "2026-03-10T17:21:21.400Z",
+        "price_change_effective_timestamp": "2026-03-10T17:21:15.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 175.9,
-        "price_last_updated": "2026-03-10T10:19:05.121Z",
-        "price_change_effective_timestamp": "2026-03-10T10:19:01.000Z"
+        "price_last_updated": "2026-03-10T17:21:21.400Z",
+        "price_change_effective_timestamp": "2026-03-10T17:21:15.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2655,21 +2655,21 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 146.9,
-        "price_last_updated": "2026-03-09T22:05:33.905Z",
-        "price_change_effective_timestamp": "2026-03-09T22:05:31.000Z"
+        "price": 147.9,
+        "price_last_updated": "2026-03-10T22:03:17.495Z",
+        "price_change_effective_timestamp": "2026-03-10T22:02:31.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 134.9,
-        "price_last_updated": "2026-03-09T22:05:33.905Z",
-        "price_change_effective_timestamp": "2026-03-09T22:05:31.000Z"
+        "price": 135.9,
+        "price_last_updated": "2026-03-10T22:03:17.495Z",
+        "price_change_effective_timestamp": "2026-03-10T22:02:31.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 149.9,
-        "price_last_updated": "2026-03-09T22:05:33.905Z",
-        "price_change_effective_timestamp": "2026-03-09T22:05:31.000Z"
+        "price": 151.9,
+        "price_last_updated": "2026-03-10T22:03:17.495Z",
+        "price_change_effective_timestamp": "2026-03-10T22:02:31.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2717,27 +2717,27 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 164.9,
-        "price_last_updated": "2026-03-09T12:09:18.547Z",
-        "price_change_effective_timestamp": "2026-03-09T12:05:00.000Z"
+        "price": 159.9,
+        "price_last_updated": "2026-03-10T14:34:03.481Z",
+        "price_change_effective_timestamp": "2026-03-10T14:31:00.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 137.9,
-        "price_last_updated": "2026-03-09T12:09:18.547Z",
-        "price_change_effective_timestamp": "2026-03-09T12:05:00.000Z"
+        "price": 138.9,
+        "price_last_updated": "2026-03-10T14:34:03.481Z",
+        "price_change_effective_timestamp": "2026-03-10T14:31:00.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 156.9,
-        "price_last_updated": "2026-03-09T12:09:18.547Z",
-        "price_change_effective_timestamp": "2026-03-09T12:05:00.000Z"
+        "price_last_updated": "2026-03-10T14:34:03.481Z",
+        "price_change_effective_timestamp": "2026-03-10T14:31:00.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
         "price": 184.9,
-        "price_last_updated": "2026-03-09T12:09:18.547Z",
-        "price_change_effective_timestamp": "2026-03-09T12:05:00.000Z"
+        "price_last_updated": "2026-03-10T14:34:03.481Z",
+        "price_change_effective_timestamp": "2026-03-10T14:31:00.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2751,15 +2751,15 @@
     "fuel_prices": [
       {
         "fuel_type": "E10",
-        "price": 136.9,
-        "price_last_updated": "2026-03-10T08:02:21.616Z",
-        "price_change_effective_timestamp": "2026-03-10T08:01:06.000Z"
+        "price": 137.9,
+        "price_last_updated": "2026-03-10T17:01:48.607Z",
+        "price_change_effective_timestamp": "2026-03-10T16:59:59.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 151.9,
-        "price_last_updated": "2026-03-10T08:02:10.950Z",
-        "price_change_effective_timestamp": "2026-03-10T08:01:06.000Z"
+        "price": 152.9,
+        "price_last_updated": "2026-03-10T17:01:49.131Z",
+        "price_change_effective_timestamp": "2026-03-10T16:59:59.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2808,20 +2808,20 @@
       {
         "fuel_type": "E5",
         "price": 149.9,
-        "price_last_updated": "2026-03-10T08:58:16.991Z",
-        "price_change_effective_timestamp": "2026-03-10T08:58:15.000Z"
+        "price_last_updated": "2026-03-10T20:58:32.863Z",
+        "price_change_effective_timestamp": "2026-03-10T20:58:32.000Z"
       },
       {
         "fuel_type": "E10",
         "price": 138.9,
-        "price_last_updated": "2026-03-10T08:58:16.991Z",
-        "price_change_effective_timestamp": "2026-03-10T08:58:15.000Z"
+        "price_last_updated": "2026-03-10T20:58:32.863Z",
+        "price_change_effective_timestamp": "2026-03-10T20:58:32.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
         "price": 150.9,
-        "price_last_updated": "2026-03-10T08:58:16.991Z",
-        "price_change_effective_timestamp": "2026-03-10T08:58:15.000Z"
+        "price_last_updated": "2026-03-10T20:58:32.863Z",
+        "price_change_effective_timestamp": "2026-03-10T20:58:32.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2903,21 +2903,21 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 146.9,
-        "price_last_updated": "2026-03-09T15:32:08.887Z",
-        "price_change_effective_timestamp": "2026-03-09T15:31:54.000Z"
+        "price": 147.9,
+        "price_last_updated": "2026-03-10T18:31:52.418Z",
+        "price_change_effective_timestamp": "2026-03-10T18:31:50.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 137.9,
-        "price_last_updated": "2026-03-09T15:49:09.184Z",
-        "price_change_effective_timestamp": "2026-03-09T15:48:48.000Z"
+        "price": 138.9,
+        "price_last_updated": "2026-03-10T18:16:21.968Z",
+        "price_change_effective_timestamp": "2026-03-10T18:16:00.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 151.9,
-        "price_last_updated": "2026-03-09T15:49:09.184Z",
-        "price_change_effective_timestamp": "2026-03-09T15:48:48.000Z"
+        "price": 155.9,
+        "price_last_updated": "2026-03-10T18:31:52.418Z",
+        "price_change_effective_timestamp": "2026-03-10T18:31:50.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -2965,15 +2965,15 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 143.7,
-        "price_last_updated": "2026-03-06T18:07:23.270Z",
-        "price_change_effective_timestamp": "2026-03-06T18:07:19.000Z"
+        "price": 150.7,
+        "price_last_updated": "2026-03-10T16:14:57.483Z",
+        "price_change_effective_timestamp": "2026-03-10T16:14:57.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 131.7,
-        "price_last_updated": "2026-03-06T18:07:23.270Z",
-        "price_change_effective_timestamp": "2026-03-06T18:07:19.000Z"
+        "price": 132.7,
+        "price_last_updated": "2026-03-10T16:14:57.483Z",
+        "price_change_effective_timestamp": "2026-03-10T16:14:57.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
@@ -3034,20 +3034,20 @@
       {
         "fuel_type": "E5",
         "price": 149.9,
-        "price_last_updated": "2026-03-10T09:02:10.570Z",
-        "price_change_effective_timestamp": "2026-03-10T09:02:10.000Z"
+        "price_last_updated": "2026-03-10T23:03:31.818Z",
+        "price_change_effective_timestamp": "2026-03-10T23:03:32.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 137.9,
-        "price_last_updated": "2026-03-10T09:02:10.570Z",
-        "price_change_effective_timestamp": "2026-03-10T09:02:10.000Z"
+        "price": 138.9,
+        "price_last_updated": "2026-03-10T23:03:31.818Z",
+        "price_change_effective_timestamp": "2026-03-10T23:03:32.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 150.9,
-        "price_last_updated": "2026-03-10T09:02:10.570Z",
-        "price_change_effective_timestamp": "2026-03-10T09:02:10.000Z"
+        "price": 155.9,
+        "price_last_updated": "2026-03-10T23:03:31.818Z",
+        "price_change_effective_timestamp": "2026-03-10T23:03:32.000Z"
       }
     ],
     "prices_updated": "2026-03-10"
@@ -3157,21 +3157,21 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 140.9,
-        "price_last_updated": "2026-03-09T15:22:57.335Z",
-        "price_change_effective_timestamp": "2026-03-09T15:22:26.000Z"
+        "price": 142.9,
+        "price_last_updated": "2026-03-10T18:19:12.235Z",
+        "price_change_effective_timestamp": "2026-03-10T18:18:42.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 131.9,
-        "price_last_updated": "2026-03-09T15:04:57.463Z",
-        "price_change_effective_timestamp": "2026-03-09T15:04:54.000Z"
+        "price": 133.9,
+        "price_last_updated": "2026-03-10T18:19:12.235Z",
+        "price_change_effective_timestamp": "2026-03-10T18:18:42.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 143.9,
-        "price_last_updated": "2026-03-09T15:22:57.335Z",
-        "price_change_effective_timestamp": "2026-03-09T15:22:26.000Z"
+        "price": 148.9,
+        "price_last_updated": "2026-03-10T18:03:12.783Z",
+        "price_change_effective_timestamp": "2026-03-10T18:02:45.000Z"
       }
     ],
     "prices_updated": "2026-03-10"

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass verges, 10th March :- [9077992](https://www.fixmystreet.com/report/9077992)
+- Road rubble near 43 Parton Rd, 10th March :- [9077896](https://www.fixmystreet.com/report/9077896)
+- Traffic lights stuck on red both sides, 10th March :- [9077765](https://www.fixmystreet.com/report/9077765)
+- TMC - Defects -CW6 Potholes  problem, 10th March :- [9077608](https://www.fixmystreet.com/report/9077608)
+- TMC - Defects -CW6 Potholes  problem, 10th March :- [9077455](https://www.fixmystreet.com/report/9077455)
+- TMC - Defects -CW6 Potholes  problem, 10th March :- [9077454](https://www.fixmystreet.com/report/9077454)
 - TMC - Defects -CW6 Potholes  problem, 10th March :- [9077325](https://www.fixmystreet.com/report/9077325)
 - Drainage issue caused by sunken pavement, 9th March :- [9076910](https://www.fixmystreet.com/report/9076910)
 - Image from 3 yrs ago on street view but now member of public mentions broken branch that from the description is bledding heavily, considering time of year and a birch tree. Also has been overhanging path over the years becoming an obstruction as branches very low, people walking into road., 9th March :- [9076593](https://www.fixmystreet.com/report/9076593)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Series of holes all along Centre of Leckhampton Lane near Redrow estate, 9th March :- [9075252](https://www.fixmystreet.com/report/9075252)
 - Long series of potholes along centre line of road, 9th March :- [9075222](https://www.fixmystreet.com/report/9075222)
 - Poor repair resulting in new potholes, 9th March :- [9075174](https://www.fixmystreet.com/report/9075174)
-- Two “no road markings” signs left by contractors, 9th March :- [9075154](https://www.fixmystreet.com/report/9075154)
-- Pothole in middle of road, 9th March :- [9075144](https://www.fixmystreet.com/report/9075144)
-- 2ft long, 3” deep pothole, 9th March :- [9075128](https://www.fixmystreet.com/report/9075128)
-- Pothole x 2, 9th March :- [9074895](https://www.fixmystreet.com/report/9074895)
-- TMC - Defects -CW6 Potholes  problem, 9th March :- [9074595](https://www.fixmystreet.com/report/9074595)
-- TMC - Defects -CW6 Potholes  problem, 9th March :- [9074599](https://www.fixmystreet.com/report/9074599)
 
 <!-- fix_marker ends -->

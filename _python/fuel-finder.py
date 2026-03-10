@@ -1,4 +1,5 @@
 import helper
+import html
 import json
 import os
 import pathlib
@@ -410,39 +411,53 @@ if __name__ == "__main__":
 
         # 11. Render price table — all local stations sorted by distance then name
         fuel_label_cols = [fuel_label(ft) for ft in fuel_type_cols]
-        header_cols     = ["Station", "Address"] + fuel_label_cols + ["As of"]
-        table_lines     = [
-            "| " + " | ".join(header_cols) + " |",
-            "| " + " | ".join(["---"] * len(header_cols)) + " |",
-        ]
 
         priced_stations = sorted(
             price_map.keys(),
             key=lambda nid: (station_cache[nid]["distance_miles"], (station_cache[nid]["trading_name"] or "").lower())
         )
 
+        # HTML table so columns carry data-val attributes for JS sort
+        th_cells = "".join(
+            f'<th data-col="{i}">{html.escape(col)}</th>'
+            for i, col in enumerate(["Station", "Address"] + fuel_label_cols + ["As of"])
+        )
+        html_rows = [f'<table id="fuel-table"><thead><tr>{th_cells}</tr></thead><tbody>']
+
         for nid in priced_stations:
             station      = station_cache[nid]
             name         = station["trading_name"]
-            label        = name
             addr_col     = station.get("address") or ""
-            as_of        = station.get("prices_updated") or "?"
             price_lookup = {p["fuel_type"]: p for p in price_map[nid] if p.get("fuel_type")}
 
-            row = [label, addr_col]
+            # Most recent price_change_effective_timestamp across all fuel types
+            change_dates = [
+                p.get("price_change_effective_timestamp", "")[:10]
+                for p in price_map[nid]
+                if p.get("price_change_effective_timestamp")
+            ]
+            as_of = max(change_dates) if change_dates else (station.get("prices_updated") or "?")
+
+            cells  = f'<td data-val="{html.escape(name.lower())}">{html.escape(name)}</td>'
+            cells += f'<td data-val="{html.escape(addr_col.lower())}">{html.escape(addr_col)}</td>'
             for ft in fuel_type_cols:
                 if ft in price_lookup:
                     pence = price_lookup[ft].get("price")
-                    row.append(f"{float(pence):.1f}p" if pence is not None else "-")
+                    if pence is not None:
+                        cells += f'<td data-val="{float(pence):.1f}">{float(pence):.1f}p</td>'
+                    else:
+                        cells += '<td data-val="9999">-</td>'
                 else:
-                    row.append("-")
-            row.append(as_of)
-            table_lines.append("| " + " | ".join(row) + " |")
+                    cells += '<td data-val="9999">-</td>'
+            cells += f'<td data-val="{as_of}">{as_of}</td>'
+            html_rows.append(f"<tr>{cells}</tr>")
+
+        html_rows.append("</tbody></table>")
 
         # 12. Assemble and write output
         output  = "\n".join(hero_lines)
         output += "\n## Full Local Data\n\n"
-        output += "\n".join(table_lines)
+        output += "\n".join(html_rows)
         output += f"\n\n*Last updated: {updated}*"
 
         md = root / "_pages/fuel-prices.md"

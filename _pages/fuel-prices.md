@@ -20,9 +20,9 @@ This project fetches fuel price data from gov.uk for the Cheltenham area and 20 
 
 - Wild Goose Garage (Texaco), WILD GOOSE SERVICE STATION, 27, KINGSHILL ROAD, DURSLEY, GL11 4BJ
 
-### Cheapest Diesel: 128.9p/L
+### Cheapest Diesel: 143.9p/L
 
-- Bristol Road, 250, BRISTOL ROAD, GLOUCESTER, GL1 5TA
+- GLOUCESTER SUPERSTORE - PETROL FILLING STATION (TESCO), ST OSWALDS ROAD, GL1 2SG
 
 ### Cheapest Unleaded: 131.7p/L
 
@@ -34,113 +34,148 @@ This project fetches fuel price data from gov.uk for the Cheltenham area and 20 
 
 ## Full Local Data
 
-| Station | Address | B10 | Premium Diesel | Diesel | Unleaded | Premium Unleaded | As of |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| SHELL WAITROSE  CHELTENHAM | HONEYBOURNE WAY, GL50 3QW | - | 179.9p | 155.9p | 136.9p | 164.9p | 2026-03-10 |
-| CHELTENHAM SUPERSTORE - PETROL FILLING STATION | COLLETTS DR, GL51 8JQ | - | - | 147.9p | 135.9p | 144.9p | 2026-03-10 |
-| Cheltenham Service Station | TEXACO, LANSDOWN ROAD, CHELTENHAM, GL50 2JA | - | 169.9p | 151.9p | 134.3p | 156.3p | 2026-03-10 |
-| PRESTBURY ROAD SF CONNECT | 80-86 PRESTBURY ROAD, GL52 2DJ | - | 170.9p | 151.9p | 136.9p | 158.9p | 2026-03-10 |
-| SAINSBURYS OAKLEY | PRIORS ROAD, GL52 5AQ | - | - | 147.9p | 133.9p | 145.9p | 2026-03-10 |
-| SHELL LITTLE WAITROSE CHELTENHAM | 352-356 GLOUCESTER ROAD, GL51 7AY | - | 179.9p | 156.9p | 135.9p | 164.9p | 2026-03-10 |
-| Red Apple Sevice Station | RED APPLE, 394, GLOUCESTER ROAD, CHELTENHAM, GL51 7AT | - | 159.9p | 149.9p | 133.9p | 159.9p | 2026-03-10 |
-| MFG ARLE | PRINCESS ELIZABETH WAY, GL51 7PA | - | 175.9p | 151.9p | 137.9p | 159.9p | 2026-03-10 |
-| MFG BOUNCERS LANE | BOUNCERS LANE, GL52 5JF | - | 169.9p | 149.9p | 136.9p | 149.9p | 2026-03-10 |
-| SAINSBURYS TEWKESBURY ROAD | GALLAGHER RETAIL PARK, GL51 9RR | - | - | 149.9p | 134.9p | 146.9p | 2026-03-10 |
-| MFG MORRISONS UP HATHERLEY | CAERNARVON ROAD, GL51 3BW | - | - | 148.9p | 133.9p | 149.9p | 2026-03-10 |
-| East End Services | EAST END SERVICE STATION, LONDON ROAD, CHARLTON KINGS, CHELTENHAM, GL52 6YY | - | 172.9p | 154.9p | 137.9p | 159.0p | 2026-03-10 |
-| COOMBE HILL SERVICE STATION | TEWKESBURY ROAD, GL19 4BQ | - | - | 151.9p | 136.9p | - | 2026-03-10 |
-| SHELL CROSSHANDS | CIRENCESTER ROAD, GL3 4PL | - | 184.9p | 156.9p | 138.9p | 169.9p | 2026-03-10 |
-| RONTEC PIRTON CORNER | CHELTENHAM ROAD EAST, GL3 1AE | - | - | 151.9p | 133.9p | 152.9p | 2026-03-10 |
-| MFG ANDOVERSFORD | SHIPTON OLIFFE, GL54 4HS | - | 185.9p | 165.9p | 139.9p | 165.9p | 2026-03-10 |
-| GLOUCESTER BROCKWORTH EXTRA - PETROL FILLING STATION | GLOUCESTER BUSINESS PARK, GL3 4AA | - | - | 143.9p | 132.9p | 141.9p | 2026-03-10 |
-| MFG HUCCLECOTE | HUCCLECOTE ROAD, GL3 3RX | - | 175.9p | 154.9p | 136.9p | 159.9p | 2026-03-10 |
-| SAINSBURYS BARNWOOD | BARNETT WAY, BARNWOOD, GL4 3RT | - | - | 146.9p | 132.9p | 144.9p | 2026-03-10 |
-| MFG LONGLEVENS | 131 CHELTENHAM ROAD, GL2 0JH | - | 175.9p | 154.9p | 137.9p | 159.9p | 2026-03-10 |
-| BARNWOOD SF CONNECT | BARNWOOD ROAD, GL4 3HA | - | 171.9p | 151.9p | 136.9p | 158.9p | 2026-03-10 |
-| ASCONA TWIGWORTH SERVICE STATION | TEWKSBURY ROAD, GL2 9PG | - | 179.9p | 151.9p | 136.9p | 169.9p | 2026-03-10 |
-| ASCONA PARKLANDS SERVICE STATION | A40 NORTHERN BYPASS, GL2 9DJ | - | 179.9p | 149.9p | 135.9p | 169.9p | 2026-03-10 |
-| MFG MORRISONS GLOUCESTER METZ WAY | METZ WAY/TRIANGLE WAY, GL1 1AH | - | 155.9p | 145.9p | 131.9p | 149.9p | 2026-03-10 |
-| WINCHCOMBE FUEL EXPRESS AUTOMAT | BROADWAY ROAD, GL54 5NT | - | - | 152.7p | 134.7p | - | 2026-03-10 |
-| ASHCHURCH SF CONNECT | ASHCHURCH ROAD, GL20 8JN | - | 174.9p | 154.9p | 139.9p | 161.9p | 2026-03-10 |
-| MFG MATSON | 191 PAINSWICK ROAD, GL4 4BS | - | 175.9p | 153.9p | 136.9p | 159.9p | 2026-03-10 |
-| ASDA GLOUCESTER SUPERCENTRE | BRUTON WAY, GL1 1DS | - | - | 155.7p | 135.7p | - | 2026-03-10 |
-| PJ NICHOLLS LTD TEWKESBURY | P J NICHOLLS LTD, ASHCHURCH ROAD, TEWKESBURY, GL20 8DT | - | - | 152.9p | 138.9p | 159.9p | 2026-03-10 |
-| GLOUCESTER EASTERN AVE ESSO EXPRESS | EASTERN AVE, GL4 6QS | - | 168.9p | 154.9p | 133.9p | 148.9p | 2026-03-10 |
-| MFG MORRISONS TEWKESBURY | ASHCHURCH ROAD, GL20 5QZ | - | - | 149.9p | 135.9p | 149.9p | 2026-03-10 |
-| MFG LONDON ROAD | 17 LONDON ROAD, GL1 3HB | - | 175.9p | 152.9p | 136.9p | 159.9p | 2026-03-10 |
-| MFG TEDDINGTON HANDS | A435-A438 ROUNDABOUT, GL20 8NE | - | 169.9p | 152.9p | 137.9p | 155.9p | 2026-03-10 |
-| Perry & Jordan Gloucester Ltd | PERRY & JORDAN LTD, MERCIA ROAD, GLOUCESTER, GL1 2SQ | 144.9p | - | - | - | 134.9p | 2026-03-10 |
-| GLOUCESTER SUPERSTORE - PETROL FILLING STATION | ST OSWALDS ROAD, GL1 2SG | - | - | 143.9p | 132.9p | 141.9p | 2026-03-10 |
-| TGC TEWKESBURY | MITTON MANOR GARAGE, GL20 5DA | - | 184.9p | 163.9p | 143.9p | 164.9p | 2026-03-10 |
-| Westgate Services | WESTGATE GARAGE, 207-211, WESTGATE STREET, GLOUCESTER, GL1 2RN | - | 169.9p | 151.9p | 134.9p | 156.9p | 2026-03-10 |
-| SAINSBURYS GLOUCESTER QUAYS | ST. ANN WAY, GL2 5SA | - | - | 146.9p | 131.9p | 143.9p | 2026-03-10 |
-| MFG CENTURION | A417 GLOUCESTER ROAD, GL7 7JR | - | 185.9p | 165.9p | 139.9p | 165.9p | 2026-03-10 |
-| Gloucester Services Southbound | GLOUCESTER SERVICES, M5 SOUTHBOUND, BROOKTHORPE, GLOUCESTER, GL4 0WW | - | 178.9p | 168.9p | 158.9p | 168.9p | 2026-03-10 |
-| Bristol Road | 250, BRISTOL ROAD, GLOUCESTER, GL1 5TA | - | - | 128.9p | 137.9p | 140.9p | 2026-03-10 |
-| Ledbury Road Services | Ledbury Road, GL20 6HP | - | 165.0p | 158.0p | 137.0p | 149.0p | 2026-03-10 |
-| Gloucester Services Northbound | Between Junctions 12 and 11A, GL4 0DN | - | 178.9p | 168.9p | 158.9p | 168.9p | 2026-03-10 |
-| MFG SPARROWS WHARF | 364 BRISTOL ROAD (A430), GL2 5DH | - | 175.9p | 154.9p | 136.9p | 159.9p | 2026-03-10 |
-| Holbrook Garage | HOLBROOK GARAGE, BISLEY, STROUD, GL6 7BX | - | - | 154.9p | 136.9p | 155.9p | 2026-03-10 |
-| CROSS HANDS GARAGE LTD | CROSSHANDS GARAGE, GLOUCESTER ROAD, CORSE, GLOUCESTER, GL19 3BU | - | 170.9p | 168.9p | 142.9p | 150.9p | 2026-03-10 |
-| QUEDGELEY | 121 BRISTOL ROAD, GL2 4NB | - | 182.9p | 161.9p | 139.9p | 160.9p | 2026-03-10 |
-| ASDA QUEDGELEY SUPERMARKET | NAAS LANE LINK ROAD, KINGSWAY, GL2 2SN | - | - | 155.7p | 135.7p | - | 2026-03-10 |
-| GLOUCESTER QUEDGELEY EXTRA - PETROL FILLING STATION | BRISTOL ROAD, GL2 4PF | - | - | 143.9p | 131.9p | 140.9p | 2026-03-10 |
-| Churcham Garage | CHURCHAM GARAGE, CHURCHAM, GLOUCESTER, GL2 8AA | - | - | 149.9p | 132.9p | - | 2026-03-10 |
-| HARDWICKE SF CONNECT | BRISTOL ROAD, GL2 2RQ | - | 171.9p | 151.9p | 136.9p | 158.9p | 2026-03-10 |
-| STRENSHAM MWSA CONNECT | M5 EASTBOUND J7/8, WR8 9LJ | - | 209.9p | 190.9p | 176.9p | 196.9p | 2026-03-10 |
-| Highleadon Filling Station Limited | HIGHLEADON FILLING STATION LTD, HIGHLEADON, NEWENT, GL18 1HJ | - | - | 145.9p | 142.9p | - | 2026-03-10 |
-| Fourways Garage Chalford Ltd | FOURWAYS GARAGE, MIDDLE HILL, CHALFORD HILL, STROUD, GL6 8BD | - | - | 149.9p | 133.9p | 144.9p | 2026-03-10 |
-| STROUD SUPERSTORE - PETROL FILLING STATION | TESCO STORES LTD, GL5 4AG | - | - | 144.9p | 134.9p | 144.9p | 2026-03-10 |
-| RONTEC STROUD | LONDON ROAD, GL5 2AX | - | 173.9p | 154.9p | 136.9p | 155.9p | 2026-03-10 |
-| VALE | CHELTENHAM ROAD, WR11 7QP | - | 170.9p | 158.9p | 138.9p | 155.9p | 2026-03-10 |
-| Warners Murco Service Staion | WARNERS SUPERMARKET, HANLEY ROAD, UPTON-UPON-SEVERN, WORCESTER, WR8 0HU | - | - | 149.9p | 136.9p | - | 2026-03-10 |
-| MFG DUDBRIDGE | DUDBRIDGE ROAD, GL5 3HF | - | 175.9p | 155.9p | 137.9p | 159.9p | 2026-03-10 |
-| Station Garage Stores Ltd | Station Garage Stores Ltd. , WR12 7DE | - | - | 164.9p | 142.9p | - | 2026-03-10 |
-| SHELL CIRENCESTER | BURFORD ROAD, GL7 5DS | - | 184.9p | 159.9p | 145.9p | 169.9p | 2026-03-10 |
-| Burford Road Filling station | BURFORD ROAD FILLING STATION, BURFORD ROAD, CIRENCESTER, GL7 5DS | - | 177.9p | 162.9p | 140.9p | 157.9p | 2026-03-10 |
-| Bridge Service Station | BRIDGE SERVICE STATION, 2, GLOUCESTER ROAD, STONEHOUSE, GL10 2PB | - | 154.9p | 147.9p | 132.9p | 139.9p | 2026-03-10 |
-| NEWENT FUEL EXPRESS AUTOMAT | GLOUCESTER ROAD, GL18 1HP | - | 167.7p | 149.7p | 131.7p | 143.7p | 2026-03-10 |
-| MFG MORRISONS EVESHAM | CHARITY CRESCENT, WR11 2UT | - | - | 150.9p | 138.9p | 149.9p | 2026-03-10 |
-| Huntley Services | GENERAL GARAGE, MAIN ROAD, HUNTLEY, GLOUCESTER, GL19 3EA | - | - | 149.9p | 132.9p | 169.9p | 2026-03-10 |
-| EVESHAM ESSO EXPRESS | 47 CHELTENHAM RD, WR11 1LE | - | 170.9p | 155.9p | 141.9p | 156.9p | 2026-03-10 |
-| BOURTON | STATION ROAD, GL54 2EP | - | 180.9p | 159.9p | 139.9p | 160.9p | 2026-03-10 |
-| Chaxhill Service Station | CHAXHILL SERVICE STATION, CHAXHILL, WESTBURY-ON-SEVERN, GL14 1QW | - | - | 151.9p | 134.9p | 163.9p | 2026-03-10 |
-| MFG FOSSEWAY | LOWER SLAUGHTER, GL54 2EY | - | 169.9p | 151.9p | 136.9p | 155.9p | 2026-03-10 |
-| MFG NEW QUARRY | CHESTERTON LANE, GL7 1YD | - | 175.9p | 155.9p | 139.9p | 159.9p | 2026-03-10 |
-| SHELL LITTLE WAITROSE OLDBURY | WESTEND ROUNDABOUT, GL10 3SJ | - | 184.9p | 156.9p | 137.9p | 169.9p | 2026-03-10 |
-| Troopers Lodge Filling Station | TROOPERS LODGE SERVICE STATION, BOURTON ON THE HILL, MORETON-IN-MARSH, GL56 9TE | - | 169.9p | 151.9p | 137.9p | 169.9p | 2026-03-10 |
-| CIRENCESTER EXTRA - PETROL FILLING STATION | KINGS MEADOW, GL7 1NP | - | - | 149.9p | 137.9p | 147.9p | 2026-03-10 |
-| h j taylor | h j taylor, WR127PL | - | - | 169.9p | 143.9p | 159.9p | 2026-03-10 |
-| Cox's Cars Ltd | COXS CARS LTD, THREE SPRING GARAGE, 33, THREE SPRINGS ROAD, PERSHORE, WR10 1HR | - | - | 151.9p | 137.9p | 157.9p | 2026-03-10 |
-| FROMEBRIDGE SERVICE STATION | FROMEBRIDGE SERVICE STATION, WHITMINSTER, GLOUCESTER, GL2 7PG | - | 154.9p | 147.9p | 132.9p | - | 2026-03-10 |
-| BP THREESPRINGS SERVICE STATION | B P GARAGE, THREE SPRINGS ROAD, PERSHORE, WR10 1HH | - | 176.9p | 156.9p | 137.9p | 157.9p | 2026-03-10 |
-| EVESHAM WORCESTER RD SUPERSTORE - PETROL FILLING STATION | TESCO STORES LTD, WR11 4XF | - | - | 153.9p | 140.9p | 149.9p | 2026-03-10 |
-| SHELL NAILSWORTH | STROUD ROAD, GL6 0BE | - | 184.9p | 156.9p | 137.9p | 164.9p | 2026-03-10 |
-| STATION ROAD SF CONNECT | STATION ROAD, GL54 1JU | - | 171.9p | 151.9p | 136.9p | 158.9p | 2026-03-10 |
-| ASDA EVESHAM EXPRESS PETROL | A46 EVESHAM BYPASS, WR11 4TP | - | - | 159.9p | 144.9p | 162.9p | 2026-03-10 |
-| MFG ELTON | ELTON CORNER, GL14 1JQ | - | - | 149.9p | 136.9p | 155.9p | 2026-03-10 |
-| ASDA PINVIN EXPRESS PETROL | ABBEY VIEW, B4083, WR10 2DT | - | 190.9p | 171.9p | 144.9p | 163.9p | 2026-03-10 |
-| PJ NICHOLLS LTD PERSHORE | ORCHARD VIEW, TERRACE ROAD, PINVIN, PERSHORE, WR10 2DJ | - | - | 155.9p | 139.9p | - | 2026-03-10 |
-| PJ NICHOLLS LTD LEDBURY | PARKWAY GARAGE, PARKWAY, LEDBURY, HR8 2JD | - | - | 159.9p | 143.9p | - | 2026-03-10 |
-| Daniels Petroleum Ltd | EVOLVING VISIONS, 220-224, WELLS ROAD, MALVERN, WR14 4HD | - | 157.9p | 149.9p | 136.9p | 147.9p | 2026-03-10 |
-| The Barrington Filling Station | BARRINGTON FILLING STATION, LITTLE BARRINGTON, BURFORD, OX18 4TN | - | - | 159.9p | 138.9p | 143.9p | 2026-03-10 |
-| LEA GARAGE | LEA STORES, LEA, ROSS-ON-WYE, HR9 7JZ | - | 179.9p | 159.9p | 139.9p | 159.9p | 2026-03-10 |
-| MITCHELDEAN FUEL EXPRESS AUTOMAT | NEW ROAD, GL17 0BX | - | - | 149.7p | 135.7p | - | 2026-03-10 |
-| LEDBURY | THE HOMEND, HR8 1BS | - | 185.9p | 164.9p | 141.9p | 162.9p | 2026-03-10 |
-| Millwood Motor Company Ltd | Mill  Garage, GL11 5DH | - | 183.9p | 159.9p | 138.9p | 162.9p | 2026-03-10 |
-| PJ NICHOLLS LTD MALVERN | 262-264 Pickersleigh Road, WR14 2QZ | - | - | 154.9p | 139.9p | - | 2026-03-10 |
-| TETBURY SUPERSTORE - PETROL FILLING STATION | PRIORY RD INDUSTRIAL ESTATE, GL8 8HZ | - | - | 154.9p | 139.9p | - | 2026-03-10 |
-| MFG MORRISONS MALVERN | ROMAN WAY, WR14 1PZ | - | - | 150.9p | 137.9p | 149.9p | 2026-03-10 |
-| MALVERN | 214-216 WORCESTER ROAD, WR14 1AG | - | 185.9p | 164.9p | 139.9p | 160.9p | 2026-03-10 |
-| SUNNY LODGE | 285 WORCESTER ROAD, WR14 1AB | - | 185.9p | 164.9p | 139.9p | 160.9p | 2026-03-10 |
-| CINDERFORD | STEAM MILLS ROAD, GL14 3HY | - | - | 148.9p | 134.9p | - | 2026-03-10 |
-| Clerkenleap Service Station | Clerkenleap Service Station, WR5 3HR | - | 174.9p | 154.9p | 138.9p | 158.9p | 2026-03-10 |
-| Wild Goose Garage | WILD GOOSE SERVICE STATION, 27, KINGSHILL ROAD, DURSLEY, GL11 4BJ | - | 154.9p | 147.9p | 132.9p | 139.9p | 2026-03-10 |
-| MFG FAIRFORD | LONDON ROAD, GL7 4DS | - | 175.9p | 156.9p | 139.9p | 159.9p | 2026-03-10 |
-| WORCESTER SUPERSTORE - PETROL FILLING STATION | ST PETERS DR, WR5 3SW | - | - | 151.9p | 137.9p | 146.9p | 2026-03-10 |
+<table id="fuel-table"><thead><tr><th data-col="0">Station</th><th data-col="1">Address</th><th data-col="2">B10</th><th data-col="3">Premium Diesel</th><th data-col="4">Diesel</th><th data-col="5">Unleaded</th><th data-col="6">Premium Unleaded</th><th data-col="7">As of</th></tr></thead><tbody>
+<tr><td data-val="shell waitrose  cheltenham">SHELL WAITROSE  CHELTENHAM</td><td data-val="honeybourne way, gl50 3qw">HONEYBOURNE WAY, GL50 3QW</td><td data-val="9999">-</td><td data-val="179.9">179.9p</td><td data-val="155.9">155.9p</td><td data-val="136.9">136.9p</td><td data-val="164.9">164.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="cheltenham superstore - petrol filling station">CHELTENHAM SUPERSTORE - PETROL FILLING STATION</td><td data-val="colletts dr, gl51 8jq">COLLETTS DR, GL51 8JQ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="147.9">147.9p</td><td data-val="135.9">135.9p</td><td data-val="144.9">144.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="cheltenham service station">Cheltenham Service Station</td><td data-val="texaco, lansdown road, cheltenham, gl50 2ja">TEXACO, LANSDOWN ROAD, CHELTENHAM, GL50 2JA</td><td data-val="9999">-</td><td data-val="169.9">169.9p</td><td data-val="151.9">151.9p</td><td data-val="134.3">134.3p</td><td data-val="156.3">156.3p</td><td data-val="2026-03-05">2026-03-05</td></tr>
+<tr><td data-val="prestbury road sf connect">PRESTBURY ROAD SF CONNECT</td><td data-val="80-86 prestbury road, gl52 2dj">80-86 PRESTBURY ROAD, GL52 2DJ</td><td data-val="9999">-</td><td data-val="170.9">170.9p</td><td data-val="151.9">151.9p</td><td data-val="136.9">136.9p</td><td data-val="158.9">158.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="sainsburys oakley">SAINSBURYS OAKLEY</td><td data-val="priors road, gl52 5aq">PRIORS ROAD, GL52 5AQ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="147.9">147.9p</td><td data-val="133.9">133.9p</td><td data-val="145.9">145.9p</td><td data-val="2026-03-08">2026-03-08</td></tr>
+<tr><td data-val="shell little waitrose cheltenham">SHELL LITTLE WAITROSE CHELTENHAM</td><td data-val="352-356 gloucester road, gl51 7ay">352-356 GLOUCESTER ROAD, GL51 7AY</td><td data-val="9999">-</td><td data-val="179.9">179.9p</td><td data-val="156.9">156.9p</td><td data-val="135.9">135.9p</td><td data-val="164.9">164.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="red apple sevice station">Red Apple Sevice Station</td><td data-val="red apple, 394, gloucester road, cheltenham, gl51 7at">RED APPLE, 394, GLOUCESTER ROAD, CHELTENHAM, GL51 7AT</td><td data-val="9999">-</td><td data-val="159.9">159.9p</td><td data-val="149.9">149.9p</td><td data-val="133.9">133.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-05">2026-03-05</td></tr>
+<tr><td data-val="mfg arle">MFG ARLE</td><td data-val="princess elizabeth way, gl51 7pa">PRINCESS ELIZABETH WAY, GL51 7PA</td><td data-val="9999">-</td><td data-val="175.9">175.9p</td><td data-val="151.9">151.9p</td><td data-val="137.9">137.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="mfg bouncers lane">MFG BOUNCERS LANE</td><td data-val="bouncers lane, gl52 5jf">BOUNCERS LANE, GL52 5JF</td><td data-val="9999">-</td><td data-val="169.9">169.9p</td><td data-val="149.9">149.9p</td><td data-val="136.9">136.9p</td><td data-val="149.9">149.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="sainsburys tewkesbury road">SAINSBURYS TEWKESBURY ROAD</td><td data-val="gallagher retail park, gl51 9rr">GALLAGHER RETAIL PARK, GL51 9RR</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="149.9">149.9p</td><td data-val="134.9">134.9p</td><td data-val="146.9">146.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg morrisons up hatherley">MFG MORRISONS UP HATHERLEY</td><td data-val="caernarvon road, gl51 3bw">CAERNARVON ROAD, GL51 3BW</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="148.9">148.9p</td><td data-val="133.9">133.9p</td><td data-val="149.9">149.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="east end services">East End Services</td><td data-val="east end service station, london road, charlton kings, cheltenham, gl52 6yy">EAST END SERVICE STATION, LONDON ROAD, CHARLTON KINGS, CHELTENHAM, GL52 6YY</td><td data-val="9999">-</td><td data-val="172.9">172.9p</td><td data-val="154.9">154.9p</td><td data-val="137.9">137.9p</td><td data-val="159.0">159.0p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="coombe hill service station">COOMBE HILL SERVICE STATION</td><td data-val="tewkesbury road, gl19 4bq">TEWKESBURY ROAD, GL19 4BQ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="151.9">151.9p</td><td data-val="136.9">136.9p</td><td data-val="9999">-</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="shell crosshands">SHELL CROSSHANDS</td><td data-val="cirencester road, gl3 4pl">CIRENCESTER ROAD, GL3 4PL</td><td data-val="9999">-</td><td data-val="184.9">184.9p</td><td data-val="156.9">156.9p</td><td data-val="138.9">138.9p</td><td data-val="169.9">169.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="rontec pirton corner">RONTEC PIRTON CORNER</td><td data-val="cheltenham road east, gl3 1ae">CHELTENHAM ROAD EAST, GL3 1AE</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="151.9">151.9p</td><td data-val="133.9">133.9p</td><td data-val="152.9">152.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg andoversford">MFG ANDOVERSFORD</td><td data-val="shipton oliffe, gl54 4hs">SHIPTON OLIFFE, GL54 4HS</td><td data-val="9999">-</td><td data-val="185.9">185.9p</td><td data-val="165.9">165.9p</td><td data-val="139.9">139.9p</td><td data-val="165.9">165.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="gloucester brockworth extra - petrol filling station">GLOUCESTER BROCKWORTH EXTRA - PETROL FILLING STATION</td><td data-val="gloucester business park, gl3 4aa">GLOUCESTER BUSINESS PARK, GL3 4AA</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="143.9">143.9p</td><td data-val="132.9">132.9p</td><td data-val="141.9">141.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg hucclecote">MFG HUCCLECOTE</td><td data-val="hucclecote road, gl3 3rx">HUCCLECOTE ROAD, GL3 3RX</td><td data-val="9999">-</td><td data-val="175.9">175.9p</td><td data-val="154.9">154.9p</td><td data-val="136.9">136.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="sainsburys barnwood">SAINSBURYS BARNWOOD</td><td data-val="barnett way, barnwood, gl4 3rt">BARNETT WAY, BARNWOOD, GL4 3RT</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="146.9">146.9p</td><td data-val="132.9">132.9p</td><td data-val="144.9">144.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg longlevens">MFG LONGLEVENS</td><td data-val="131 cheltenham road, gl2 0jh">131 CHELTENHAM ROAD, GL2 0JH</td><td data-val="9999">-</td><td data-val="175.9">175.9p</td><td data-val="154.9">154.9p</td><td data-val="137.9">137.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="barnwood sf connect">BARNWOOD SF CONNECT</td><td data-val="barnwood road, gl4 3ha">BARNWOOD ROAD, GL4 3HA</td><td data-val="9999">-</td><td data-val="171.9">171.9p</td><td data-val="151.9">151.9p</td><td data-val="136.9">136.9p</td><td data-val="158.9">158.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="ascona twigworth service station">ASCONA TWIGWORTH SERVICE STATION</td><td data-val="tewksbury road, gl2 9pg">TEWKSBURY ROAD, GL2 9PG</td><td data-val="9999">-</td><td data-val="179.9">179.9p</td><td data-val="151.9">151.9p</td><td data-val="136.9">136.9p</td><td data-val="169.9">169.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="ascona parklands service station">ASCONA PARKLANDS SERVICE STATION</td><td data-val="a40 northern bypass, gl2 9dj">A40 NORTHERN BYPASS, GL2 9DJ</td><td data-val="9999">-</td><td data-val="179.9">179.9p</td><td data-val="151.9">151.9p</td><td data-val="136.9">136.9p</td><td data-val="169.9">169.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="mfg morrisons gloucester metz way">MFG MORRISONS GLOUCESTER METZ WAY</td><td data-val="metz way/triangle way, gl1 1ah">METZ WAY/TRIANGLE WAY, GL1 1AH</td><td data-val="9999">-</td><td data-val="155.9">155.9p</td><td data-val="145.9">145.9p</td><td data-val="131.9">131.9p</td><td data-val="149.9">149.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="winchcombe fuel express automat">WINCHCOMBE FUEL EXPRESS AUTOMAT</td><td data-val="broadway road, gl54 5nt">BROADWAY ROAD, GL54 5NT</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="152.7">152.7p</td><td data-val="134.7">134.7p</td><td data-val="9999">-</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="ashchurch sf connect">ASHCHURCH SF CONNECT</td><td data-val="ashchurch road, gl20 8jn">ASHCHURCH ROAD, GL20 8JN</td><td data-val="9999">-</td><td data-val="174.9">174.9p</td><td data-val="154.9">154.9p</td><td data-val="139.9">139.9p</td><td data-val="161.9">161.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg matson">MFG MATSON</td><td data-val="191 painswick road, gl4 4bs">191 PAINSWICK ROAD, GL4 4BS</td><td data-val="9999">-</td><td data-val="175.9">175.9p</td><td data-val="153.9">153.9p</td><td data-val="136.9">136.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="asda gloucester supercentre">ASDA GLOUCESTER SUPERCENTRE</td><td data-val="bruton way, gl1 1ds">BRUTON WAY, GL1 1DS</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="155.7">155.7p</td><td data-val="135.7">135.7p</td><td data-val="9999">-</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="pj nicholls ltd tewkesbury">PJ NICHOLLS LTD TEWKESBURY</td><td data-val="p j nicholls ltd, ashchurch road, tewkesbury, gl20 8dt">P J NICHOLLS LTD, ASHCHURCH ROAD, TEWKESBURY, GL20 8DT</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="152.9">152.9p</td><td data-val="138.9">138.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="gloucester eastern ave esso express">GLOUCESTER EASTERN AVE ESSO EXPRESS</td><td data-val="eastern ave, gl4 6qs">EASTERN AVE, GL4 6QS</td><td data-val="9999">-</td><td data-val="168.9">168.9p</td><td data-val="154.9">154.9p</td><td data-val="133.9">133.9p</td><td data-val="148.9">148.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg morrisons tewkesbury">MFG MORRISONS TEWKESBURY</td><td data-val="ashchurch road, gl20 5qz">ASHCHURCH ROAD, GL20 5QZ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="149.9">149.9p</td><td data-val="135.9">135.9p</td><td data-val="149.9">149.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="mfg london road">MFG LONDON ROAD</td><td data-val="17 london road, gl1 3hb">17 LONDON ROAD, GL1 3HB</td><td data-val="9999">-</td><td data-val="175.9">175.9p</td><td data-val="152.9">152.9p</td><td data-val="136.9">136.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="mfg teddington hands">MFG TEDDINGTON HANDS</td><td data-val="a435-a438 roundabout, gl20 8ne">A435-A438 ROUNDABOUT, GL20 8NE</td><td data-val="9999">-</td><td data-val="169.9">169.9p</td><td data-val="152.9">152.9p</td><td data-val="137.9">137.9p</td><td data-val="155.9">155.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="perry &amp; jordan gloucester ltd">Perry &amp; Jordan Gloucester Ltd</td><td data-val="perry &amp; jordan ltd, mercia road, gloucester, gl1 2sq">PERRY &amp; JORDAN LTD, MERCIA ROAD, GLOUCESTER, GL1 2SQ</td><td data-val="144.9">144.9p</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="134.9">134.9p</td><td data-val="2026-01-29">2026-01-29</td></tr>
+<tr><td data-val="gloucester superstore - petrol filling station">GLOUCESTER SUPERSTORE - PETROL FILLING STATION</td><td data-val="st oswalds road, gl1 2sg">ST OSWALDS ROAD, GL1 2SG</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="143.9">143.9p</td><td data-val="132.9">132.9p</td><td data-val="141.9">141.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="tgc tewkesbury">TGC TEWKESBURY</td><td data-val="mitton manor garage, gl20 5da">MITTON MANOR GARAGE, GL20 5DA</td><td data-val="9999">-</td><td data-val="184.9">184.9p</td><td data-val="163.9">163.9p</td><td data-val="143.9">143.9p</td><td data-val="164.9">164.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="westgate services">Westgate Services</td><td data-val="westgate garage, 207-211, westgate street, gloucester, gl1 2rn">WESTGATE GARAGE, 207-211, WESTGATE STREET, GLOUCESTER, GL1 2RN</td><td data-val="9999">-</td><td data-val="169.9">169.9p</td><td data-val="151.9">151.9p</td><td data-val="134.9">134.9p</td><td data-val="156.9">156.9p</td><td data-val="2026-03-05">2026-03-05</td></tr>
+<tr><td data-val="sainsburys gloucester quays">SAINSBURYS GLOUCESTER QUAYS</td><td data-val="st. ann way, gl2 5sa">ST. ANN WAY, GL2 5SA</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="146.9">146.9p</td><td data-val="131.9">131.9p</td><td data-val="143.9">143.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg centurion">MFG CENTURION</td><td data-val="a417 gloucester road, gl7 7jr">A417 GLOUCESTER ROAD, GL7 7JR</td><td data-val="9999">-</td><td data-val="185.9">185.9p</td><td data-val="165.9">165.9p</td><td data-val="139.9">139.9p</td><td data-val="165.9">165.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="gloucester services southbound">Gloucester Services Southbound</td><td data-val="gloucester services, m5 southbound, brookthorpe, gloucester, gl4 0ww">GLOUCESTER SERVICES, M5 SOUTHBOUND, BROOKTHORPE, GLOUCESTER, GL4 0WW</td><td data-val="9999">-</td><td data-val="178.9">178.9p</td><td data-val="168.9">168.9p</td><td data-val="158.9">158.9p</td><td data-val="168.9">168.9p</td><td data-val="2026-03-08">2026-03-08</td></tr>
+<tr><td data-val="bristol road">Bristol Road</td><td data-val="250, bristol road, gloucester, gl1 5ta">250, BRISTOL ROAD, GLOUCESTER, GL1 5TA</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="146.9">146.9p</td><td data-val="131.9">131.9p</td><td data-val="146.9">146.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="ledbury road services">Ledbury Road Services</td><td data-val="ledbury road, gl20 6hp">Ledbury Road, GL20 6HP</td><td data-val="9999">-</td><td data-val="165.0">165.0p</td><td data-val="158.0">158.0p</td><td data-val="137.0">137.0p</td><td data-val="149.0">149.0p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="gloucester services northbound">Gloucester Services Northbound</td><td data-val="between junctions 12 and 11a, gl4 0dn">Between Junctions 12 and 11A, GL4 0DN</td><td data-val="9999">-</td><td data-val="178.9">178.9p</td><td data-val="168.9">168.9p</td><td data-val="158.9">158.9p</td><td data-val="168.9">168.9p</td><td data-val="2026-03-03">2026-03-03</td></tr>
+<tr><td data-val="mfg sparrows wharf">MFG SPARROWS WHARF</td><td data-val="364 bristol road (a430), gl2 5dh">364 BRISTOL ROAD (A430), GL2 5DH</td><td data-val="9999">-</td><td data-val="175.9">175.9p</td><td data-val="154.9">154.9p</td><td data-val="136.9">136.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="holbrook garage">Holbrook Garage</td><td data-val="holbrook garage, bisley, stroud, gl6 7bx">HOLBROOK GARAGE, BISLEY, STROUD, GL6 7BX</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="154.9">154.9p</td><td data-val="136.9">136.9p</td><td data-val="155.9">155.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="cross hands garage ltd">CROSS HANDS GARAGE LTD</td><td data-val="crosshands garage, gloucester road, corse, gloucester, gl19 3bu">CROSSHANDS GARAGE, GLOUCESTER ROAD, CORSE, GLOUCESTER, GL19 3BU</td><td data-val="9999">-</td><td data-val="170.9">170.9p</td><td data-val="168.9">168.9p</td><td data-val="142.9">142.9p</td><td data-val="150.9">150.9p</td><td data-val="2026-03-08">2026-03-08</td></tr>
+<tr><td data-val="quedgeley">QUEDGELEY</td><td data-val="121 bristol road, gl2 4nb">121 BRISTOL ROAD, GL2 4NB</td><td data-val="9999">-</td><td data-val="182.9">182.9p</td><td data-val="161.9">161.9p</td><td data-val="139.9">139.9p</td><td data-val="160.9">160.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="asda quedgeley supermarket">ASDA QUEDGELEY SUPERMARKET</td><td data-val="naas lane link road, kingsway, gl2 2sn">NAAS LANE LINK ROAD, KINGSWAY, GL2 2SN</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="155.7">155.7p</td><td data-val="135.7">135.7p</td><td data-val="9999">-</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="gloucester quedgeley extra - petrol filling station">GLOUCESTER QUEDGELEY EXTRA - PETROL FILLING STATION</td><td data-val="bristol road, gl2 4pf">BRISTOL ROAD, GL2 4PF</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="143.9">143.9p</td><td data-val="131.9">131.9p</td><td data-val="140.9">140.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="churcham garage">Churcham Garage</td><td data-val="churcham garage, churcham, gloucester, gl2 8aa">CHURCHAM GARAGE, CHURCHAM, GLOUCESTER, GL2 8AA</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="149.9">149.9p</td><td data-val="132.9">132.9p</td><td data-val="9999">-</td><td data-val="2026-03-05">2026-03-05</td></tr>
+<tr><td data-val="hardwicke sf connect">HARDWICKE SF CONNECT</td><td data-val="bristol road, gl2 2rq">BRISTOL ROAD, GL2 2RQ</td><td data-val="9999">-</td><td data-val="171.9">171.9p</td><td data-val="151.9">151.9p</td><td data-val="136.9">136.9p</td><td data-val="158.9">158.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="strensham mwsa connect">STRENSHAM MWSA CONNECT</td><td data-val="m5 eastbound j7/8, wr8 9lj">M5 EASTBOUND J7/8, WR8 9LJ</td><td data-val="9999">-</td><td data-val="209.9">209.9p</td><td data-val="190.9">190.9p</td><td data-val="176.9">176.9p</td><td data-val="196.9">196.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="highleadon filling station limited">Highleadon Filling Station Limited</td><td data-val="highleadon filling station ltd, highleadon, newent, gl18 1hj">HIGHLEADON FILLING STATION LTD, HIGHLEADON, NEWENT, GL18 1HJ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="145.9">145.9p</td><td data-val="142.9">142.9p</td><td data-val="9999">-</td><td data-val="2026-03-08">2026-03-08</td></tr>
+<tr><td data-val="fourways garage chalford ltd">Fourways Garage Chalford Ltd</td><td data-val="fourways garage, middle hill, chalford hill, stroud, gl6 8bd">FOURWAYS GARAGE, MIDDLE HILL, CHALFORD HILL, STROUD, GL6 8BD</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="149.9">149.9p</td><td data-val="133.9">133.9p</td><td data-val="144.9">144.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="stroud superstore - petrol filling station">STROUD SUPERSTORE - PETROL FILLING STATION</td><td data-val="tesco stores ltd, gl5 4ag">TESCO STORES LTD, GL5 4AG</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="144.9">144.9p</td><td data-val="134.9">134.9p</td><td data-val="144.9">144.9p</td><td data-val="2026-03-07">2026-03-07</td></tr>
+<tr><td data-val="rontec stroud">RONTEC STROUD</td><td data-val="london road, gl5 2ax">LONDON ROAD, GL5 2AX</td><td data-val="9999">-</td><td data-val="173.9">173.9p</td><td data-val="154.9">154.9p</td><td data-val="136.9">136.9p</td><td data-val="155.9">155.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="vale">VALE</td><td data-val="cheltenham road, wr11 7qp">CHELTENHAM ROAD, WR11 7QP</td><td data-val="9999">-</td><td data-val="170.9">170.9p</td><td data-val="158.9">158.9p</td><td data-val="138.9">138.9p</td><td data-val="155.9">155.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="warners murco service staion">Warners Murco Service Staion</td><td data-val="warners supermarket, hanley road, upton-upon-severn, worcester, wr8 0hu">WARNERS SUPERMARKET, HANLEY ROAD, UPTON-UPON-SEVERN, WORCESTER, WR8 0HU</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="149.9">149.9p</td><td data-val="136.9">136.9p</td><td data-val="9999">-</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg dudbridge">MFG DUDBRIDGE</td><td data-val="dudbridge road, gl5 3hf">DUDBRIDGE ROAD, GL5 3HF</td><td data-val="9999">-</td><td data-val="175.9">175.9p</td><td data-val="155.9">155.9p</td><td data-val="137.9">137.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="station garage stores ltd">Station Garage Stores Ltd</td><td data-val="station garage stores ltd. , wr12 7de">Station Garage Stores Ltd. , WR12 7DE</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="164.9">164.9p</td><td data-val="142.9">142.9p</td><td data-val="9999">-</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="shell cirencester">SHELL CIRENCESTER</td><td data-val="burford road, gl7 5ds">BURFORD ROAD, GL7 5DS</td><td data-val="9999">-</td><td data-val="184.9">184.9p</td><td data-val="159.9">159.9p</td><td data-val="145.9">145.9p</td><td data-val="169.9">169.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="burford road filling station">Burford Road Filling station</td><td data-val="burford road filling station, burford road, cirencester, gl7 5ds">BURFORD ROAD FILLING STATION, BURFORD ROAD, CIRENCESTER, GL7 5DS</td><td data-val="9999">-</td><td data-val="177.9">177.9p</td><td data-val="162.9">162.9p</td><td data-val="140.9">140.9p</td><td data-val="157.9">157.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="bridge service station">Bridge Service Station</td><td data-val="bridge service station, 2, gloucester road, stonehouse, gl10 2pb">BRIDGE SERVICE STATION, 2, GLOUCESTER ROAD, STONEHOUSE, GL10 2PB</td><td data-val="9999">-</td><td data-val="154.9">154.9p</td><td data-val="147.9">147.9p</td><td data-val="132.9">132.9p</td><td data-val="139.9">139.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="newent fuel express automat">NEWENT FUEL EXPRESS AUTOMAT</td><td data-val="gloucester road, gl18 1hp">GLOUCESTER ROAD, GL18 1HP</td><td data-val="9999">-</td><td data-val="167.7">167.7p</td><td data-val="149.7">149.7p</td><td data-val="131.7">131.7p</td><td data-val="143.7">143.7p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg morrisons evesham">MFG MORRISONS EVESHAM</td><td data-val="charity crescent, wr11 2ut">CHARITY CRESCENT, WR11 2UT</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="150.9">150.9p</td><td data-val="138.9">138.9p</td><td data-val="149.9">149.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="huntley services">Huntley Services</td><td data-val="general garage, main road, huntley, gloucester, gl19 3ea">GENERAL GARAGE, MAIN ROAD, HUNTLEY, GLOUCESTER, GL19 3EA</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="149.9">149.9p</td><td data-val="132.9">132.9p</td><td data-val="169.9">169.9p</td><td data-val="2026-03-05">2026-03-05</td></tr>
+<tr><td data-val="evesham esso express">EVESHAM ESSO EXPRESS</td><td data-val="47 cheltenham rd, wr11 1le">47 CHELTENHAM RD, WR11 1LE</td><td data-val="9999">-</td><td data-val="170.9">170.9p</td><td data-val="155.9">155.9p</td><td data-val="141.9">141.9p</td><td data-val="156.9">156.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="bourton">BOURTON</td><td data-val="station road, gl54 2ep">STATION ROAD, GL54 2EP</td><td data-val="9999">-</td><td data-val="180.9">180.9p</td><td data-val="159.9">159.9p</td><td data-val="139.9">139.9p</td><td data-val="160.9">160.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="chaxhill service station">Chaxhill Service Station</td><td data-val="chaxhill service station, chaxhill, westbury-on-severn, gl14 1qw">CHAXHILL SERVICE STATION, CHAXHILL, WESTBURY-ON-SEVERN, GL14 1QW</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="151.9">151.9p</td><td data-val="134.9">134.9p</td><td data-val="163.9">163.9p</td><td data-val="2026-03-05">2026-03-05</td></tr>
+<tr><td data-val="mfg fosseway">MFG FOSSEWAY</td><td data-val="lower slaughter, gl54 2ey">LOWER SLAUGHTER, GL54 2EY</td><td data-val="9999">-</td><td data-val="169.9">169.9p</td><td data-val="151.9">151.9p</td><td data-val="136.9">136.9p</td><td data-val="155.9">155.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="mfg new quarry">MFG NEW QUARRY</td><td data-val="chesterton lane, gl7 1yd">CHESTERTON LANE, GL7 1YD</td><td data-val="9999">-</td><td data-val="175.9">175.9p</td><td data-val="155.9">155.9p</td><td data-val="139.9">139.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="shell little waitrose oldbury">SHELL LITTLE WAITROSE OLDBURY</td><td data-val="westend roundabout, gl10 3sj">WESTEND ROUNDABOUT, GL10 3SJ</td><td data-val="9999">-</td><td data-val="184.9">184.9p</td><td data-val="156.9">156.9p</td><td data-val="137.9">137.9p</td><td data-val="169.9">169.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="troopers lodge filling station">Troopers Lodge Filling Station</td><td data-val="troopers lodge service station, bourton on the hill, moreton-in-marsh, gl56 9te">TROOPERS LODGE SERVICE STATION, BOURTON ON THE HILL, MORETON-IN-MARSH, GL56 9TE</td><td data-val="9999">-</td><td data-val="169.9">169.9p</td><td data-val="151.9">151.9p</td><td data-val="137.9">137.9p</td><td data-val="169.9">169.9p</td><td data-val="2026-03-05">2026-03-05</td></tr>
+<tr><td data-val="cirencester extra - petrol filling station">CIRENCESTER EXTRA - PETROL FILLING STATION</td><td data-val="kings meadow, gl7 1np">KINGS MEADOW, GL7 1NP</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="149.9">149.9p</td><td data-val="137.9">137.9p</td><td data-val="147.9">147.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="h j taylor">h j taylor</td><td data-val="h j taylor, wr127pl">h j taylor, WR127PL</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="169.9">169.9p</td><td data-val="143.9">143.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="cox&#x27;s cars ltd">Cox&#x27;s Cars Ltd</td><td data-val="coxs cars ltd, three spring garage, 33, three springs road, pershore, wr10 1hr">COXS CARS LTD, THREE SPRING GARAGE, 33, THREE SPRINGS ROAD, PERSHORE, WR10 1HR</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="151.9">151.9p</td><td data-val="137.9">137.9p</td><td data-val="157.9">157.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="fromebridge service station">FROMEBRIDGE SERVICE STATION</td><td data-val="fromebridge service station, whitminster, gloucester, gl2 7pg">FROMEBRIDGE SERVICE STATION, WHITMINSTER, GLOUCESTER, GL2 7PG</td><td data-val="9999">-</td><td data-val="154.9">154.9p</td><td data-val="147.9">147.9p</td><td data-val="132.9">132.9p</td><td data-val="9999">-</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="bp threesprings service station">BP THREESPRINGS SERVICE STATION</td><td data-val="b p garage, three springs road, pershore, wr10 1hh">B P GARAGE, THREE SPRINGS ROAD, PERSHORE, WR10 1HH</td><td data-val="9999">-</td><td data-val="176.9">176.9p</td><td data-val="156.9">156.9p</td><td data-val="137.9">137.9p</td><td data-val="157.9">157.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="evesham worcester rd superstore - petrol filling station">EVESHAM WORCESTER RD SUPERSTORE - PETROL FILLING STATION</td><td data-val="tesco stores ltd, wr11 4xf">TESCO STORES LTD, WR11 4XF</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="153.9">153.9p</td><td data-val="140.9">140.9p</td><td data-val="149.9">149.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="shell nailsworth">SHELL NAILSWORTH</td><td data-val="stroud road, gl6 0be">STROUD ROAD, GL6 0BE</td><td data-val="9999">-</td><td data-val="184.9">184.9p</td><td data-val="156.9">156.9p</td><td data-val="137.9">137.9p</td><td data-val="164.9">164.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="station road sf connect">STATION ROAD SF CONNECT</td><td data-val="station road, gl54 1ju">STATION ROAD, GL54 1JU</td><td data-val="9999">-</td><td data-val="171.9">171.9p</td><td data-val="151.9">151.9p</td><td data-val="136.9">136.9p</td><td data-val="158.9">158.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="asda evesham express petrol">ASDA EVESHAM EXPRESS PETROL</td><td data-val="a46 evesham bypass, wr11 4tp">A46 EVESHAM BYPASS, WR11 4TP</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="159.9">159.9p</td><td data-val="144.9">144.9p</td><td data-val="162.9">162.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="mfg elton">MFG ELTON</td><td data-val="elton corner, gl14 1jq">ELTON CORNER, GL14 1JQ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="149.9">149.9p</td><td data-val="136.9">136.9p</td><td data-val="155.9">155.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="asda pinvin express petrol">ASDA PINVIN EXPRESS PETROL</td><td data-val="abbey view, b4083, wr10 2dt">ABBEY VIEW, B4083, WR10 2DT</td><td data-val="9999">-</td><td data-val="190.9">190.9p</td><td data-val="171.9">171.9p</td><td data-val="144.9">144.9p</td><td data-val="163.9">163.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="pj nicholls ltd pershore">PJ NICHOLLS LTD PERSHORE</td><td data-val="orchard view, terrace road, pinvin, pershore, wr10 2dj">ORCHARD VIEW, TERRACE ROAD, PINVIN, PERSHORE, WR10 2DJ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="155.9">155.9p</td><td data-val="139.9">139.9p</td><td data-val="9999">-</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="pj nicholls ltd ledbury">PJ NICHOLLS LTD LEDBURY</td><td data-val="parkway garage, parkway, ledbury, hr8 2jd">PARKWAY GARAGE, PARKWAY, LEDBURY, HR8 2JD</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="159.9">159.9p</td><td data-val="143.9">143.9p</td><td data-val="9999">-</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="daniels petroleum ltd">Daniels Petroleum Ltd</td><td data-val="evolving visions, 220-224, wells road, malvern, wr14 4hd">EVOLVING VISIONS, 220-224, WELLS ROAD, MALVERN, WR14 4HD</td><td data-val="9999">-</td><td data-val="157.9">157.9p</td><td data-val="149.9">149.9p</td><td data-val="136.9">136.9p</td><td data-val="147.9">147.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="the barrington filling station">The Barrington Filling Station</td><td data-val="barrington filling station, little barrington, burford, ox18 4tn">BARRINGTON FILLING STATION, LITTLE BARRINGTON, BURFORD, OX18 4TN</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="159.9">159.9p</td><td data-val="138.9">138.9p</td><td data-val="143.9">143.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="lea garage">LEA GARAGE</td><td data-val="lea stores, lea, ross-on-wye, hr9 7jz">LEA STORES, LEA, ROSS-ON-WYE, HR9 7JZ</td><td data-val="9999">-</td><td data-val="179.9">179.9p</td><td data-val="159.9">159.9p</td><td data-val="139.9">139.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mitcheldean fuel express automat">MITCHELDEAN FUEL EXPRESS AUTOMAT</td><td data-val="new road, gl17 0bx">NEW ROAD, GL17 0BX</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="149.7">149.7p</td><td data-val="135.7">135.7p</td><td data-val="9999">-</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="ledbury">LEDBURY</td><td data-val="the homend, hr8 1bs">THE HOMEND, HR8 1BS</td><td data-val="9999">-</td><td data-val="185.9">185.9p</td><td data-val="164.9">164.9p</td><td data-val="141.9">141.9p</td><td data-val="162.9">162.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="millwood motor company ltd">Millwood Motor Company Ltd</td><td data-val="mill  garage, gl11 5dh">Mill  Garage, GL11 5DH</td><td data-val="9999">-</td><td data-val="183.9">183.9p</td><td data-val="159.9">159.9p</td><td data-val="138.9">138.9p</td><td data-val="162.9">162.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="pj nicholls ltd malvern">PJ NICHOLLS LTD MALVERN</td><td data-val="262-264 pickersleigh road, wr14 2qz">262-264 Pickersleigh Road, WR14 2QZ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="154.9">154.9p</td><td data-val="139.9">139.9p</td><td data-val="9999">-</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="tetbury superstore - petrol filling station">TETBURY SUPERSTORE - PETROL FILLING STATION</td><td data-val="priory rd industrial estate, gl8 8hz">PRIORY RD INDUSTRIAL ESTATE, GL8 8HZ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="154.9">154.9p</td><td data-val="139.9">139.9p</td><td data-val="9999">-</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="mfg morrisons malvern">MFG MORRISONS MALVERN</td><td data-val="roman way, wr14 1pz">ROMAN WAY, WR14 1PZ</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="150.9">150.9p</td><td data-val="137.9">137.9p</td><td data-val="149.9">149.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="malvern">MALVERN</td><td data-val="214-216 worcester road, wr14 1ag">214-216 WORCESTER ROAD, WR14 1AG</td><td data-val="9999">-</td><td data-val="185.9">185.9p</td><td data-val="164.9">164.9p</td><td data-val="139.9">139.9p</td><td data-val="160.9">160.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="sunny lodge">SUNNY LODGE</td><td data-val="285 worcester road, wr14 1ab">285 WORCESTER ROAD, WR14 1AB</td><td data-val="9999">-</td><td data-val="185.9">185.9p</td><td data-val="164.9">164.9p</td><td data-val="139.9">139.9p</td><td data-val="160.9">160.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="cinderford">CINDERFORD</td><td data-val="steam mills road, gl14 3hy">STEAM MILLS ROAD, GL14 3HY</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="148.9">148.9p</td><td data-val="134.9">134.9p</td><td data-val="9999">-</td><td data-val="2026-03-04">2026-03-04</td></tr>
+<tr><td data-val="clerkenleap service station">Clerkenleap Service Station</td><td data-val="clerkenleap service station, wr5 3hr">Clerkenleap Service Station, WR5 3HR</td><td data-val="9999">-</td><td data-val="174.9">174.9p</td><td data-val="154.9">154.9p</td><td data-val="138.9">138.9p</td><td data-val="158.9">158.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="wild goose garage">Wild Goose Garage</td><td data-val="wild goose service station, 27, kingshill road, dursley, gl11 4bj">WILD GOOSE SERVICE STATION, 27, KINGSHILL ROAD, DURSLEY, GL11 4BJ</td><td data-val="9999">-</td><td data-val="154.9">154.9p</td><td data-val="147.9">147.9p</td><td data-val="132.9">132.9p</td><td data-val="139.9">139.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+<tr><td data-val="mfg fairford">MFG FAIRFORD</td><td data-val="london road, gl7 4ds">LONDON ROAD, GL7 4DS</td><td data-val="9999">-</td><td data-val="175.9">175.9p</td><td data-val="156.9">156.9p</td><td data-val="139.9">139.9p</td><td data-val="159.9">159.9p</td><td data-val="2026-03-10">2026-03-10</td></tr>
+<tr><td data-val="worcester superstore - petrol filling station">WORCESTER SUPERSTORE - PETROL FILLING STATION</td><td data-val="st peters dr, wr5 3sw">ST PETERS DR, WR5 3SW</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="151.9">151.9p</td><td data-val="137.9">137.9p</td><td data-val="146.9">146.9p</td><td data-val="2026-03-09">2026-03-09</td></tr>
+</tbody></table>
 
-*Last updated: 10 March 2026 at 12:30*
+*Last updated: 10 March 2026 at 12:42*
 <!-- fuel_marker ends -->
+
+<style>
+#fuel-table { width: 100%; border-collapse: collapse; }
+#fuel-table th, #fuel-table td { padding: 0.3em 0.5em; text-align: left; border-bottom: 1px solid #ddd; }
+#fuel-table th { cursor: pointer; user-select: none; white-space: nowrap; }
+#fuel-table th.sort-asc::after  { content: " ▲"; }
+#fuel-table th.sort-desc::after { content: " ▼"; }
+</style>
+<script>
+(function () {
+  var table = document.getElementById('fuel-table');
+  if (!table) return;
+  var headers = table.querySelectorAll('thead th');
+  var tbody   = table.querySelector('tbody');
+  var sortCol = -1, sortAsc = true;
+  headers.forEach(function (th, idx) {
+    th.addEventListener('click', function () {
+      var rows = Array.from(tbody.querySelectorAll('tr'));
+      var asc  = (sortCol === idx) ? !sortAsc : true;
+      rows.sort(function (a, b) {
+        var av = a.cells[idx].getAttribute('data-val') || '';
+        var bv = b.cells[idx].getAttribute('data-val') || '';
+        var an = parseFloat(av), bn = parseFloat(bv);
+        var numeric = !isNaN(an) && !isNaN(bn);
+        if (numeric) return asc ? an - bn : bn - an;
+        return asc ? av.localeCompare(bv) : bv.localeCompare(av);
+      });
+      rows.forEach(function (r) { tbody.appendChild(r); });
+      headers.forEach(function (h) { h.classList.remove('sort-asc', 'sort-desc'); });
+      th.classList.add(asc ? 'sort-asc' : 'sort-desc');
+      sortCol = idx; sortAsc = asc;
+    });
+  });
+})();
+</script>
 
 ## About this data
 

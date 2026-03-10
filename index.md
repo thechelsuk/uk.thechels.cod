@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 10 March 2026
 
-- The average temperature today is 9.41˚C,
-- With highs of 9.99˚C and lows of 8.8˚C,
-- It may feel like 6.41˚C with light rain
-- The wind speed is 6.26m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 89%
+- The average temperature today is 9.97˚C,
+- With highs of 10.55˚C and lows of 9.05˚C,
+- It may feel like 7.42˚C with overcast clouds
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 88%
 - The sun will rise at 06:34 and set at 18:03
 
 <!-- weather_marker ends -->

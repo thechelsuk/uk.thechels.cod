@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flags on street lamps, 10th March :- [9084059](https://www.fixmystreet.com/report/9084059)
 - Surface of Collett's (not placement of apostrophe - your road name is incorrect as it possessive) Drive roundabout is v.v.poor and requires resurfacing, 10th March :- [9083807](https://www.fixmystreet.com/report/9083807)
 - The ONLY gully is full to c/w surface level with DRY soil/debris and is therefore totally ineffective removing nil surface water which then runs downslope and onto Gloucester Rd., 10th March :- [9083727](https://www.fixmystreet.com/report/9083727)
 - Various potholes, 10th March :- [9083710](https://www.fixmystreet.com/report/9083710)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 10th March :- [9081489](https://www.fixmystreet.com/report/9081489)
 - TMC - Defects -other CW6 problem, 10th March :- [9081488](https://www.fixmystreet.com/report/9081488)
 - This post cover is completely unattached., 10th March :- [9081271](https://www.fixmystreet.com/report/9081271)
-- TMC - Defects -other CW6 problem, 10th March :- [9081487](https://www.fixmystreet.com/report/9081487)
 
 <!-- fix_marker ends -->

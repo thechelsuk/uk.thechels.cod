@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 10th March :- [9077325](https://www.fixmystreet.com/report/9077325)
 - Drainage issue caused by sunken pavement, 9th March :- [9076910](https://www.fixmystreet.com/report/9076910)
 - Image from 3 yrs ago on street view but now member of public mentions broken branch that from the description is bledding heavily, considering time of year and a birch tree. Also has been overhanging path over the years becoming an obstruction as branches very low, people walking into road., 9th March :- [9076593](https://www.fixmystreet.com/report/9076593)
 - Ongoing Neglect of Elmfield Avenue and Elmfield Street, 9th March :- [9076536](https://www.fixmystreet.com/report/9076536)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole x 2, 9th March :- [9074895](https://www.fixmystreet.com/report/9074895)
 - TMC - Defects -CW6 Potholes  problem, 9th March :- [9074595](https://www.fixmystreet.com/report/9074595)
 - TMC - Defects -CW6 Potholes  problem, 9th March :- [9074599](https://www.fixmystreet.com/report/9074599)
-- TMC - Defects -CW6 Potholes  problem, 9th March :- [9074596](https://www.fixmystreet.com/report/9074596)
 
 <!-- fix_marker ends -->

@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 10th March</title>
+<link>https://www.fixmystreet.com/report/9077325</link>
+<description>2 way stop and go 28 day   carriage pothole 1200x700x50mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9077325&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9077325</guid>
+<pubDate>Tue, 10 Mar 2026 06:54:23 +0000</pubDate>
+<georss:point>51.9121154 -2.09145309999999</georss:point>
+</item>
 <item>
 <title>Drainage issue caused by sunken pavement, 9th March</title>
 <link>https://www.fixmystreet.com/report/9076910</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9074599</guid>
 <pubDate>Mon, 09 Mar 2026 15:33:12 +0000</pubDate>
 <georss:point>51.8944648 -2.1084781</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 9th March</title>
-<link>https://www.fixmystreet.com/report/9074596</link>
-<description>Road closure  28 day  carriage way pothole 800x400x40mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9074596&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9074596</guid>
-<pubDate>Mon, 09 Mar 2026 15:33:12 +0000</pubDate>
-<georss:point>51.8946744926421 -2.10841269132959</georss:point>
 </item>
 </channel>
 </rss>

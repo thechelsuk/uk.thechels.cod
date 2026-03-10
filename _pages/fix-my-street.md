@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light bulb gone in street light, 10th March :- [9083275](https://www.fixmystreet.com/report/9083275)
 - Drain outside 65 Keepers Mill is blocked and backing up to The Mead property right by the house, danger to property. We also have a child with complex care needs at high risk, 10th March :- [9082528](https://www.fixmystreet.com/report/9082528)
 - Footpath spoilt, 10th March :- [9082485](https://www.fixmystreet.com/report/9082485)
 - Multiple potholes, 10th March :- [9082447](https://www.fixmystreet.com/report/9082447)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 10th March :- [9081484](https://www.fixmystreet.com/report/9081484)
 - TMC - Defects -CW6 Potholes  problem, 10th March :- [9081483](https://www.fixmystreet.com/report/9081483)
 - TMC - Defects -CW6 Potholes  problem, 10th March :- [9081482](https://www.fixmystreet.com/report/9081482)
-- TMC - Defects -CW6 Potholes  problem, 10th March :- [9081481](https://www.fixmystreet.com/report/9081481)
 
 <!-- fix_marker ends -->

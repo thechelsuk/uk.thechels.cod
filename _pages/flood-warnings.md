@@ -40,11 +40,11 @@ This message will be updated by 12 PM on 11 March 2026, or as the situation chan
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-River levels are high but falling gradually on the River Dikler. Flooding of low lying land and roads remains possible today, 9 March 2026, including around Bourton on the Water. The forecast is for a predominantly dry day today and tomorrow with light showers possible. We expect levels to continue falling slowly over the coming days. 
+River levels are high but falling gradually on the River Dikler. Flooding of low lying land and roads remains possible today, 10 March 2026, including around Bourton on the Water. The forecast is for a predominantly dry day today and tomorrow with light showers possible. We expect levels to continue falling slowly over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12 PM on 10 March 2026, or as the situation changes.
+This message will be updated by 12 PM on 11 March 2026, or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 

@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
@@ -15,184 +15,184 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087403</link>
-<description>CWPH &amp;#10;ROAD CLOSURE &amp;#10;600 X 400 X 53mm &amp;#10;MARKED &amp;#10;PLUS 1 X NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087403&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087403</guid>
-<pubDate>Wed, 11 Mar 2026 12:56:28 +0000</pubDate>
-<georss:point>51.850597 -2.08287420000001</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088367</link>
+<description>Give and take  28 day  temporary footway closure please lift and relay x1 sunken  600x600x21mm number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088367&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088367</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:16 +0000</pubDate>
+<georss:point>51.8957474233131 -2.12029320943709</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087402</link>
-<description>CWPH &amp;#10;ROAD CLOSURE &amp;#10;800 X 300 X 55mm &amp;#10;MARKED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087402&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087402</guid>
-<pubDate>Wed, 11 Mar 2026 12:55:14 +0000</pubDate>
-<georss:point>51.8505709 -2.0828696</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088331</link>
+<description>Give and take  28 day  temporary footway closure please lift and replace  broken x2   rocking 600x600x20mm number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088331&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088331</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8961123 -2.1175706</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087400</link>
-<description>CWPH &amp;#10;ROAD CLOSURE &amp;#10;700 X 600 X 70mm &amp;#10;MARKED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087400&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087400</guid>
-<pubDate>Wed, 11 Mar 2026 12:50:31 +0000</pubDate>
-<georss:point>51.8479254960771 -2.08018373712207</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088332</link>
+<description>Give and take  28 day  temporary footway closure please lift and replace  broken x1   rocking 900x600x20mm number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088332&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088332</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8961206 -2.1175772</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087399</link>
-<description>ENWD &amp;#10;CWPH &amp;#10;ROAD CLOSURE &amp;#10;700 X 600 X 70mm &amp;#10;MARKED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087399&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087399</guid>
-<pubDate>Wed, 11 Mar 2026 12:49:45 +0000</pubDate>
-<georss:point>51.8479202 -2.08019010000001</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088334</link>
+<description>Give and take  28 day  temporary footway closure please lift and relay x1 raised  rocking 600x600x20mm number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088334&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088334</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8961014208954 -2.11758603753825</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087398</link>
-<description>CWPH &amp;#10;ROAD CLOSURE &amp;#10;300 X 250 X 40mm &amp;#10;MARKED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087398&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087398</guid>
-<pubDate>Wed, 11 Mar 2026 12:48:00 +0000</pubDate>
-<georss:point>51.8479174 -2.08019630000001</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088333</link>
+<description>Give and take  28 day  temporary footway closure please lift and replace  broken x1   rocking 600x600x20mm number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088333&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088333</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8960982502839 -2.11756937256661</georss:point>
 </item>
 <item>
-<title>Widespread damage to the road surface, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087253</link>
-<description>Very dangerous for cyclists passing through the area, there is no option to cycle on the pavement, due to bus pedestrian area and tree roots. Fix needs to be escalated as this is urgent.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Malvern Road, Alstone, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087253&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087253</guid>
-<pubDate>Wed, 11 Mar 2026 12:46:46 +0000</pubDate>
-<georss:point>51.899727 -2.090333</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088350</link>
+<description>Give and take  28 day  temporary footway closure aburt level difference 1500x600x25mm number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088350&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088350</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.895661 -2.12092249999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087397</link>
-<description>15DB CWPH &amp;#10;STATS REQUIRED &amp;#10;500 X 300 X 43mm &amp;#10;MARKED AS NUMBER 4 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087397&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087397</guid>
-<pubDate>Wed, 11 Mar 2026 12:38:27 +0000</pubDate>
-<georss:point>51.8437463 -2.0566099</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088348</link>
+<description>Give and take  28 day  temporary footway closure please lift and relay x2 raised  600x600x21mm number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088348&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088348</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8956971 -2.12095600000001</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087395</link>
-<description>15DB &amp;#10;CWPH &amp;#10;1000 X 1000 X 60mm &amp;#10;MARKED AS NUMBER 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087395&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087395</guid>
-<pubDate>Wed, 11 Mar 2026 12:36:20 +0000</pubDate>
-<georss:point>51.8437642492158 -2.05713709691201</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088349</link>
+<description>Give and take  28 day  temporary footway closure please lift aan  replace x1 broken raised 600x600x20mm number 1 cutting required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088349&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088349</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8956918 -2.12096250000001</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087394</link>
-<description>15DB &amp;#10;CWPH &amp;#10;500 X 500 X 40mm &amp;#10;MARKED AS NUMBER 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087394&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087394</guid>
-<pubDate>Wed, 11 Mar 2026 12:34:54 +0000</pubDate>
-<georss:point>51.8437642492158 -2.05713709691201</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088366</link>
+<description>Give and take  28 day  temporary footway closure please lift and relay x1 sunken  900x600x21mm number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088366&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088366</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8957331 -2.1205223</georss:point>
 </item>
 <item>
-<title>TMC - Defects -other CW6 problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087171</link>
-<description>15DB &amp;#10;CW DEPRESSION &amp;#10;600 X 500 X 50mm &amp;#10;MARKED AS NUMBER 1 (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087171&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087171</guid>
-<pubDate>Wed, 11 Mar 2026 12:33:22 +0000</pubDate>
-<georss:point>51.8438215993708 -2.05725624787981</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088365</link>
+<description>Give and take  28 day  temporary footway closure please lift aan  replace x1 broken raised 900x600x20mm number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088365&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088365</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8953111 -2.12158600000001</georss:point>
 </item>
 <item>
-<title>This pothole is becoming ridiculous, 11th March</title>
-<link>https://www.fixmystreet.com/report/9087088</link>
-<description>Please fix it&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Badgeworth Road, Badgeworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9087088&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9087088</guid>
-<pubDate>Wed, 11 Mar 2026 12:28:41 +0000</pubDate>
-<georss:point>51.886312 -2.142761</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088362</link>
+<description>Give and take  28 day  temporary footway closure please lift aan  replace x1 broken raised 900x600x20mm number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088362&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088362</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8952543 -2.12171949999999</georss:point>
 </item>
 <item>
-<title>Large pothole - customers in Tesco have damaged their cars with a suspension arm snapping, 11th March</title>
-<link>https://www.fixmystreet.com/report/9086602</link>
-<description>The pothole is located where the pavement meets the road by the exit out of the Tescp carpark.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9086602.0.jpeg?676a60cf&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Queen&#39;s Road, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9086602&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9086602</guid>
-<pubDate>Wed, 11 Mar 2026 11:34:13 +0000</pubDate>
-<georss:point>51.897263 -2.098672</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088360</link>
+<description>Give and take  28 day  temporary footway closure please lift and relay 1 sunken  600x600x25mm number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088360&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088360</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8951963 -2.12208629999999</georss:point>
 </item>
 <item>
-<title>Suggestion - Confusing lane markings and missing exit on roundabout signage, 11th March</title>
-<link>https://www.fixmystreet.com/report/9086528</link>
-<description>At Arle Court Roundabout the lane markings and signage are inconsistent and regularly cause confusion. On the approach from the A40 via Hatherley Lane, both lanes are marked as straight ahead. However, after passing the second exit the right lane becomes marked “right turn only.” This means drivers using the right lane to go straight suddenly find themselves in a lane designated only for turning right. In addition, the main roundabout sign does not show the second exit into the retail park / B&amp;amp;Q Cheltenham car park, even though traffic frequently exits here. A temporary yellow sign currently does show this exit, suggesting the permanent signage may be incomplete. Clearer signage and consistent lane markings would likely reduce hesitation and last-minute lane changes at this busy junction.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9086528.0.jpeg?15495d43&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Hatherley Lane, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9086528&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road marking white lines or studs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9086528</guid>
-<pubDate>Wed, 11 Mar 2026 11:28:17 +0000</pubDate>
-<georss:point>51.892976 -2.130642</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088359</link>
+<description>Give and take  28 day  temporary footway closure please lift aan  replace x1 broken sunken 900x600x20mm number 1  cutting required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088359&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088359</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8952184 -2.1220184</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9086651</link>
-<description>28 day 4 way traffic lights lift and reset sunken rocking manhole cover in cway STATS. Existing traffic signals will require suspension. (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9086651&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9086651</guid>
-<pubDate>Wed, 11 Mar 2026 11:25:19 +0000</pubDate>
-<georss:point>51.8882667902415 -2.18623453602519</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088347</link>
+<description>Give and take  28 day  temporary footway closure please lift aan  replace x1 broken sunken 900x600x20mm number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088347&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088347</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8958561 -2.1204522</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9086639</link>
-<description>CWPH &amp;#10;4m  X 1m X 50mm Aprox &amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;NOT MARKED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9086639&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9086639</guid>
-<pubDate>Wed, 11 Mar 2026 11:06:32 +0000</pubDate>
-<georss:point>51.8596532652455 -1.95243306415183</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088358</link>
+<description>Give and take  28 day  temporary footway closure aburt level difference 800x300x25mm number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088358&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088358</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8953973 -2.12166849999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9086372</link>
-<description>CWPH &amp;#10;1000 X 700 X 40mm Aprox &amp;#10;LANE CLOSURE &amp;#10;NOT MARKED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9086372&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9086372</guid>
-<pubDate>Wed, 11 Mar 2026 11:04:10 +0000</pubDate>
-<georss:point>51.8596295691951 -1.95238870538783</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088356</link>
+<description>Give and take  28 day  temporary footway closure please lift and relay 1 raised  600x600x21mm number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088356&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088356</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.895497 -2.12144939999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9086371</link>
-<description>CWPH &amp;#10;4m  X 1m X 50mm Aprox &amp;#10;2 WAY TRAFFIC LIGHTS &amp;#10;NOT MARKED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9086371&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9086371</guid>
-<pubDate>Wed, 11 Mar 2026 11:02:19 +0000</pubDate>
-<georss:point>51.859642559255 -1.95235078349601</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088357</link>
+<description>Give and take  28 day  temporary footway closure please lift and relay 1 raised  600x600x21mm number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088357&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088357</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8954375 -2.1215677</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9086368</link>
-<description>CWPH &amp;#10;1200 X 400 X 40mm Aprox &amp;#10;LANE CLOSURE &amp;#10;NOT MARKED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9086368&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9086368</guid>
-<pubDate>Wed, 11 Mar 2026 10:57:50 +0000</pubDate>
-<georss:point>51.8596033204599 -1.95227938669718</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088361</link>
+<description>Give and take  28 day  temporary footway closure please lift and relay 2 raised  600x600x25mm number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088361&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088361</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8949887 -2.12226489999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 11th March</title>
-<link>https://www.fixmystreet.com/report/9086367</link>
-<description>CWPH &amp;#10;500 X 500 X 45mm Aprox &amp;#10;ROAD CLOSURE &amp;#10;MARKED (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9086367&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9086367</guid>
-<pubDate>Wed, 11 Mar 2026 10:57:01 +0000</pubDate>
-<georss:point>51.8595889342731 -1.9522843255912</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088342</link>
+<description>Give and take  28 day  temporary footway closure please lift aan  replace x1 broken sunken 600x600x20mm number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088342&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088342</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8961343778635 -2.11934304256575</georss:point>
 </item>
 <item>
-<title>Telephone Box, 11th March</title>
-<link>https://www.fixmystreet.com/report/9086196</link>
-<description>Smashed glass in old phone box. Located on the pedestrian walkway on the Promenade, Cheltenham&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9086196.0.jpeg?39c22cc2&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Promenade, Montpellier, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9086196&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9086196</guid>
-<pubDate>Wed, 11 Mar 2026 10:53:23 +0000</pubDate>
-<georss:point>51.899044 -2.077836</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 11th March</title>
+<link>https://www.fixmystreet.com/report/9088340</link>
+<description>Give and take  28 day  temporary footway closure please lift and relay x2 raised   600x600x21mm number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9088340&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9088340</guid>
+<pubDate>Wed, 11 Mar 2026 14:45:15 +0000</pubDate>
+<georss:point>51.8961273 -2.11927679999999</georss:point>
 </item>
 </channel>
 </rss>

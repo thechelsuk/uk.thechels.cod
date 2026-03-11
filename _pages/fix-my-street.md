@@ -9,8 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
-- TMC - Defects -CW6 Potholes  problem, 11th March :- [9084544](https://www.fixmystreet.com/report/9084544)
+- Trees, 11th March :- [9084825](https://www.fixmystreet.com/report/9084825)
+- Several massive pot holes causing traffic to swerve al over the road., 11th March :- [9085011](https://www.fixmystreet.com/report/9085011)
 - TMC - Defects -CW6 Potholes  problem, 11th March :- [9084545](https://www.fixmystreet.com/report/9084545)
+- TMC - Defects -CW6 Potholes  problem, 11th March :- [9084544](https://www.fixmystreet.com/report/9084544)
 - Large drain sunk and potholes, 11th March :- [9084502](https://www.fixmystreet.com/report/9084502)
 - Many pot holes, poor road condition, 11th March :- [9084481](https://www.fixmystreet.com/report/9084481)
 - Pot at entrance to roundabout, 11th March :- [9084473](https://www.fixmystreet.com/report/9084473)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain outside 65 Keepers Mill is blocked and backing up to The Mead property right by the house, danger to property. We also have a child with complex care needs at high risk, 10th March :- [9082528](https://www.fixmystreet.com/report/9082528)
 - Footpath spoilt, 10th March :- [9082485](https://www.fixmystreet.com/report/9082485)
 - Multiple potholes, 10th March :- [9082447](https://www.fixmystreet.com/report/9082447)
-- Flags of other nations hanging from lamposts and trees, 10th March :- [9082066](https://www.fixmystreet.com/report/9082066)
-- Missing bus shelter, 10th March :- [9081678](https://www.fixmystreet.com/report/9081678)
 
 <!-- fix_marker ends -->

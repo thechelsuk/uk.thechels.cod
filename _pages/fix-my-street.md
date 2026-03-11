@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lamp on 110861 is out, 11th March :- [9090738](https://www.fixmystreet.com/report/9090738)
+- Reduced visibility, 11th March :- [9090686](https://www.fixmystreet.com/report/9090686)
+- Another large pot hole, 11th March :- [9090688](https://www.fixmystreet.com/report/9090688)
+- UK flags and St George’s flags on lamp posts, 11th March :- [9090649](https://www.fixmystreet.com/report/9090649)
+- Pot holes, 11th March :- [9090466](https://www.fixmystreet.com/report/9090466)
+- Pot holes, 11th March :- [9090465](https://www.fixmystreet.com/report/9090465)
+- Pot holes at junction, 11th March :- [9090451](https://www.fixmystreet.com/report/9090451)
 - 10/12 inch pothole, 11th March :- [9090405](https://www.fixmystreet.com/report/9090405)
 - Tarmac failing along the road, 11th March :- [9090012](https://www.fixmystreet.com/report/9090012)
 - Tree growing towards window and guttering, 11th March :- [9090009](https://www.fixmystreet.com/report/9090009)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Pothole in the road. One of many nearby., 11th March :- [9088684](https://www.fixmystreet.com/report/9088684)
 - Station Road, 11th March :- [9088652](https://www.fixmystreet.com/report/9088652)
 - Flags unlawfully tied to lampposts, 11th March :- [9088640](https://www.fixmystreet.com/report/9088640)
-- Flags attached unlawfully, 11th March :- [9088625](https://www.fixmystreet.com/report/9088625)
-- A pothole in road problem, 11th March :- [9088777](https://www.fixmystreet.com/report/9088777)
-- Pothole close to a street lamp, 11th March :- [9088424](https://www.fixmystreet.com/report/9088424)
-- Overhanging tree limb and branches, in narrow section of road, 11th March :- [9088423](https://www.fixmystreet.com/report/9088423)
-- TMC - Defects - Footways Slabs problem, 11th March :- [9088367](https://www.fixmystreet.com/report/9088367)
-- TMC - Defects - Footways Slabs problem, 11th March :- [9088331](https://www.fixmystreet.com/report/9088331)
-- TMC - Defects - Other FW6  Surface problem, 11th March :- [9088335](https://www.fixmystreet.com/report/9088335)
 
 <!-- fix_marker ends -->

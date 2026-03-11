@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 11 March 2026
 
-- The average temperature today is 7.65˚C,
-- With highs of 8.32˚C and lows of 6.58˚C,
-- It may feel like 6.25˚C with scattered clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 76%
+- The average temperature today is 7.88˚C,
+- With highs of 8.31˚C and lows of 7.6˚C,
+- It may feel like 5.88˚C with scattered clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 85%
 - The sun will rise at 06:32 and set at 18:04
 
 <!-- weather_marker ends -->

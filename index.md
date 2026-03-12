@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 12 March 2026
 
-- The average temperature today is 11.85˚C,
-- With highs of 12.77˚C and lows of 11.49˚C,
-- It may feel like 11.39˚C with moderate rain
-- The wind speed is 11.83m/s and visibility is 9000m
-- The pressure is 1000hPa and humidity is 88%
+- The average temperature today is 11.76˚C,
+- With highs of 11.76˚C and lows of 11.76˚C,
+- It may feel like 11.37˚C with light rain
+- The wind speed is 13.34m/s and visibility is 10000m
+- The pressure is 998hPa and humidity is 91%
 - The sun will rise at 06:29 and set at 18:06
 
 <!-- weather_marker ends -->

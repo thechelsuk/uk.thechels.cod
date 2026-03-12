@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unbelievable amount of potholes on Severn road, 12th March :- [9097432](https://www.fixmystreet.com/report/9097432)
+- Massive pot hole - cannot avoid due to speed bump and traffic calming island., 12th March :- [9097193](https://www.fixmystreet.com/report/9097193)
 - Loose paving slab, 12th March :- [9097060](https://www.fixmystreet.com/report/9097060)
 - Fly tipping on pavement near private bins on pavement, 12th March :- [9096731](https://www.fixmystreet.com/report/9096731)
 - The whole road from the laundry to the change in speed limit is in a very dangerous state especially for cyclists. It is not clear from the previous reports what is being done as it the response seems to imply that nothing more will be done, although I may have misunderstood. Clarification on planned action would be appreciated., 12th March :- [9096695](https://www.fixmystreet.com/report/9096695)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Resident concerned about tree looking 'precarious' in the wind., 12th March :- [9094969](https://www.fixmystreet.com/report/9094969)
 - TMC - Defects - Other problem, 12th March :- [9095000](https://www.fixmystreet.com/report/9095000)
 - A pothole in road problem, 12th March :- [9094989](https://www.fixmystreet.com/report/9094989)
-- Wide and deep pot hole, 12th March :- [9094863](https://www.fixmystreet.com/report/9094863)
-- Self-seeded tree growing on footpath between Barkers Leys & Station Road. Residents worried it will fall and damage their fence, 12th March :- [9094723](https://www.fixmystreet.com/report/9094723)
 
 <!-- fix_marker ends -->

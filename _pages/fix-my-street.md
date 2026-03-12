@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot holes getting bigger with oncoming vehicles swerving to avoid, creating hazard to other motorists, 12th March :- [9093231](https://www.fixmystreet.com/report/9093231)
+- A A pothole in road problem has been found, 12th March :- [9093182](https://www.fixmystreet.com/report/9093182)
+- Yellow lines need re doing and clearer parking restrictions in place, 12th March :- [9092887](https://www.fixmystreet.com/report/9092887)
+- Build materials following extension works, 12th March :- [9086226](https://www.fixmystreet.com/report/9086226)
+- Blocked drain, 12th March :- [9092782](https://www.fixmystreet.com/report/9092782)
+- A pothole in road problem, 12th March :- [9092492](https://www.fixmystreet.com/report/9092492)
+- A pothole in road problem, 12th March :- [9092490](https://www.fixmystreet.com/report/9092490)
+- Trolley, 12th March :- [9092334](https://www.fixmystreet.com/report/9092334)
+- The drain is blocked problem, 12th March :- [9092489](https://www.fixmystreet.com/report/9092489)
 - A pothole in road problem, 12th March :- [9092192](https://www.fixmystreet.com/report/9092192)
 - By village pond water covered so cant be seen, cars are catching tyres in it, 12th March :- [9092107](https://www.fixmystreet.com/report/9092107)
 - Permit parking sign Zone 12 missing, 12th March :- [9092080](https://www.fixmystreet.com/report/9092080)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Lamp on 110861 is out, 11th March :- [9090738](https://www.fixmystreet.com/report/9090738)
 - Reduced visibility, 11th March :- [9090686](https://www.fixmystreet.com/report/9090686)
 - Another large pot hole, 11th March :- [9090688](https://www.fixmystreet.com/report/9090688)
-- UK flags and St George’s flags on lamp posts, 11th March :- [9090649](https://www.fixmystreet.com/report/9090649)
-- Pot holes, 11th March :- [9090466](https://www.fixmystreet.com/report/9090466)
-- Pot holes, 11th March :- [9090465](https://www.fixmystreet.com/report/9090465)
-- Pot holes at junction, 11th March :- [9090451](https://www.fixmystreet.com/report/9090451)
-- 10/12 inch pothole, 11th March :- [9090405](https://www.fixmystreet.com/report/9090405)
-- Tarmac failing along the road, 11th March :- [9090012](https://www.fixmystreet.com/report/9090012)
-- Tree growing towards window and guttering, 11th March :- [9090009](https://www.fixmystreet.com/report/9090009)
-- Union Jack Flags on lamp posts, 11th March :- [9089936](https://www.fixmystreet.com/report/9089936)
-- Roadworks sign left behind, 11th March :- [9089419](https://www.fixmystreet.com/report/9089419)
 
 <!-- fix_marker ends -->

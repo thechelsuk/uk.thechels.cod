@@ -19,6 +19,14 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
+- Flood alert: Upper Bristol Avon area
+- Rising river levels throughout the evening may lead to flooding. 
+Flooding is possible on 12 March 2026 tonight and during Friday 13 March 2026. 
+Locations most at risk of being affected will be low lying land and roads near rivers, particularly at Reybridge. No properties are expected to flood at this point. 
+We are closely monitoring the situation and checking rivers for blockages. 
+Start acting on your flood plan if you have one and avoid low lying roads near rivers, which may be flooded 
+This message will be updated by 9:30AM on 13 March 2026 or as the situation changes.
+
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 

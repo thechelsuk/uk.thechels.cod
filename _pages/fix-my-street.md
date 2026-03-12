@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose paving slab, 12th March :- [9097060](https://www.fixmystreet.com/report/9097060)
+- Fly tipping on pavement near private bins on pavement, 12th March :- [9096731](https://www.fixmystreet.com/report/9096731)
+- The whole road from the laundry to the change in speed limit is in a very dangerous state especially for cyclists. It is not clear from the previous reports what is being done as it the response seems to imply that nothing more will be done, although I may have misunderstood. Clarification on planned action would be appreciated., 12th March :- [9096695](https://www.fixmystreet.com/report/9096695)
+- Tree branches snagging phone lines amplified by windy conditions, 12th March :- [9096606](https://www.fixmystreet.com/report/9096606)
+- Pothole, 12th March :- [9096569](https://www.fixmystreet.com/report/9096569)
 - Series of large potholes., 12th March :- [9096204](https://www.fixmystreet.com/report/9096204)
 - Five or six potholes making the road almost impassable, 12th March :- [9096006](https://www.fixmystreet.com/report/9096006)
 - (Sadly this is the best fit as zero appropriate option for this nor a 'Other'/rogue item option!) Nearside VRS/'crash barrier' is damaged due to RTC/vehicle strike and needs replacement due to deformation & resultant greatly reduced effectiveness (Inspectors.... ??). This is NOT part of NH network at this loc'n., 12th March :- [9095968](https://www.fixmystreet.com/report/9095968)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 12th March :- [9094989](https://www.fixmystreet.com/report/9094989)
 - Wide and deep pot hole, 12th March :- [9094863](https://www.fixmystreet.com/report/9094863)
 - Self-seeded tree growing on footpath between Barkers Leys & Station Road. Residents worried it will fall and damage their fence, 12th March :- [9094723](https://www.fixmystreet.com/report/9094723)
-- TMC - Defects -CW6 Potholes  problem, 12th March :- [9094746](https://www.fixmystreet.com/report/9094746)
-- TMC - Defects -CW6 Potholes  problem, 12th March :- [9094748](https://www.fixmystreet.com/report/9094748)
-- TMC - Defects -CW6 Potholes  problem, 12th March :- [9094750](https://www.fixmystreet.com/report/9094750)
-- TMC - Defects -CW6 Potholes  problem, 12th March :- [9094749](https://www.fixmystreet.com/report/9094749)
-- TMC - Defects -CW6 Potholes  problem, 12th March :- [9094744](https://www.fixmystreet.com/report/9094744)
 
 <!-- fix_marker ends -->

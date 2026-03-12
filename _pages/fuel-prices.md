@@ -143,7 +143,7 @@ This project fetches fuel price data from gov.uk for the Cheltenham area and 20 
 <tr><td data-val="worcester superstore - petrol filling station">WORCESTER SUPERSTORE - PETROL FILLING STATION</td><td data-val="st peters dr, wr5 3sw">ST PETERS DR, WR5 3SW</td><td data-val="9999">-</td><td data-val="9999">-</td><td data-val="156.9">156.9p</td><td data-val="138.9">138.9p</td><td data-val="147.9">147.9p</td><td data-val="2026-03-11">2026-03-11</td></tr>
 </tbody></table>
 
-*Last updated: 12 March 2026 at 02:10*
+*Last updated: 12 March 2026 at 09:32*
 <!-- fuel_marker ends -->
 
 <style>

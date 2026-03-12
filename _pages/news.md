@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Second horse dies at Cheltenham Festival ([5 hours ago](https://www.bbc.com/news/articles/cpd87213jylo?at_medium=RSS&at_campaign=rss))
-- Ladies' Day brings out the fashion at Cheltenham ([8 hours ago](https://www.bbc.com/news/articles/c70ngrz046wo?at_medium=RSS&at_campaign=rss))
-- Longest-running NHS strike over as pay deal reached ([11 hours ago](https://www.bbc.com/news/articles/ckg1vw9gdg7o?at_medium=RSS&at_campaign=rss))
-- Late and crowded buses make pupils late for class ([16 hours ago](https://www.bbc.com/news/articles/cq6qv3y4yg8o?at_medium=RSS&at_campaign=rss))
-- Rare glimpse of historic bridge thanks to low tide ([16 hours ago](https://www.bbc.com/news/articles/c70n5982r0lo?at_medium=RSS&at_campaign=rss))
+- Second horse dies at Cheltenham Festival ([7 hours ago](https://www.bbc.com/news/articles/cpd87213jylo?at_medium=RSS&at_campaign=rss))
+- Ladies' Day brings out the fashion at Cheltenham ([11 hours ago](https://www.bbc.com/news/articles/c70ngrz046wo?at_medium=RSS&at_campaign=rss))
+- Longest-running NHS strike over as pay deal reached ([14 hours ago](https://www.bbc.com/news/articles/ckg1vw9gdg7o?at_medium=RSS&at_campaign=rss))
+- Late and crowded buses make pupils late for class ([19 hours ago](https://www.bbc.com/news/articles/cq6qv3y4yg8o?at_medium=RSS&at_campaign=rss))
+- Rare glimpse of historic bridge thanks to low tide ([19 hours ago](https://www.bbc.com/news/articles/c70n5982r0lo?at_medium=RSS&at_campaign=rss))
 - Charity calls for festival 'boycott' as horse dies ([1 days ago](https://www.bbc.com/news/articles/cr5ljyzvd2go?at_medium=RSS&at_campaign=rss))
 - Trespasser causes major rail delays for racegoers ([1 days ago](https://www.bbc.com/news/articles/cr45774eqezo?at_medium=RSS&at_campaign=rss))
 - US military prepare explosive ordnance at UK air base ([1 days ago](https://www.bbc.com/news/articles/cn87kmlnzdyo?at_medium=RSS&at_campaign=rss))

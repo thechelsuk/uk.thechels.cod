@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lamp outside no 10 has been out for a few days, 11th March :- [9090878](https://www.fixmystreet.com/report/9090878)
 - Lamp on 110861 is out, 11th March :- [9090738](https://www.fixmystreet.com/report/9090738)
 - Reduced visibility, 11th March :- [9090686](https://www.fixmystreet.com/report/9090686)
 - Another large pot hole, 11th March :- [9090688](https://www.fixmystreet.com/report/9090688)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dangerous pot hole in the road, 11th March :- [9088650](https://www.fixmystreet.com/report/9088650)
 - Pothole in the road. One of many nearby., 11th March :- [9088684](https://www.fixmystreet.com/report/9088684)
 - Station Road, 11th March :- [9088652](https://www.fixmystreet.com/report/9088652)
-- Flags unlawfully tied to lampposts, 11th March :- [9088640](https://www.fixmystreet.com/report/9088640)
 
 <!-- fix_marker ends -->

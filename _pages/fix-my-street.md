@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Streetlight not working, 12th March :- [9097833](https://www.fixmystreet.com/report/9097833)
+- Pot hole, 12th March :- [9097694](https://www.fixmystreet.com/report/9097694)
+- The whole road is covered in potholes, 12th March :- [9097657](https://www.fixmystreet.com/report/9097657)
 - Unbelievable amount of potholes on Severn road, 12th March :- [9097432](https://www.fixmystreet.com/report/9097432)
 - Massive pot hole - cannot avoid due to speed bump and traffic calming island., 12th March :- [9097193](https://www.fixmystreet.com/report/9097193)
 - Loose paving slab, 12th March :- [9097060](https://www.fixmystreet.com/report/9097060)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Green junction (?) box tipped over leaving wires exposed, 12th March :- [9095297](https://www.fixmystreet.com/report/9095297)
 - No cycling sign and post removed, 12th March :- [9095241](https://www.fixmystreet.com/report/9095241)
 - TMC - Defects - Other problem, 12th March :- [9095002](https://www.fixmystreet.com/report/9095002)
-- Resident concerned about tree looking 'precarious' in the wind., 12th March :- [9094969](https://www.fixmystreet.com/report/9094969)
-- TMC - Defects - Other problem, 12th March :- [9095000](https://www.fixmystreet.com/report/9095000)
-- A pothole in road problem, 12th March :- [9094989](https://www.fixmystreet.com/report/9094989)
 
 <!-- fix_marker ends -->

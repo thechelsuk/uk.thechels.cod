@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Search for 'Angel donor' to save historic lido ([48 minutes ago](https://www.bbc.com/news/articles/cjwzxn6439do?at_medium=RSS&at_campaign=rss))
-- Second horse dies at Cheltenham Festival ([13 hours ago](https://www.bbc.com/news/articles/cpd87213jylo?at_medium=RSS&at_campaign=rss))
-- Ladies' Day brings out the fashion at Cheltenham ([17 hours ago](https://www.bbc.com/news/articles/c70ngrz046wo?at_medium=RSS&at_campaign=rss))
-- Longest-running NHS strike over as pay deal reached ([20 hours ago](https://www.bbc.com/news/articles/ckg1vw9gdg7o?at_medium=RSS&at_campaign=rss))
+- Search for 'Angel donor' to save historic lido ([2 hours ago](https://www.bbc.com/news/articles/cjwzxn6439do?at_medium=RSS&at_campaign=rss))
+- Second horse dies at Cheltenham Festival ([15 hours ago](https://www.bbc.com/news/articles/cpd87213jylo?at_medium=RSS&at_campaign=rss))
+- Ladies' Day brings out the fashion at Cheltenham ([19 hours ago](https://www.bbc.com/news/articles/c70ngrz046wo?at_medium=RSS&at_campaign=rss))
+- Longest-running NHS strike over as pay deal reached ([22 hours ago](https://www.bbc.com/news/articles/ckg1vw9gdg7o?at_medium=RSS&at_campaign=rss))
 - Late and crowded buses make pupils late for class ([1 days ago](https://www.bbc.com/news/articles/cq6qv3y4yg8o?at_medium=RSS&at_campaign=rss))
 - Rare glimpse of historic bridge thanks to low tide ([1 days ago](https://www.bbc.com/news/articles/c70n5982r0lo?at_medium=RSS&at_campaign=rss))
 - Charity calls for festival 'boycott' as horse dies ([1 days ago](https://www.bbc.com/news/articles/cr5ljyzvd2go?at_medium=RSS&at_campaign=rss))
@@ -24,7 +24,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham Festival in pictures: Day one round-up ([1 days ago](https://www.bbc.com/news/articles/c23zyx9g389o?at_medium=RSS&at_campaign=rss))
 - More than £30,000 improvements to Elmfield Park ([1 days ago](https://www.cheltenham.gov.uk/news/article/3111/more_than_30000_improvements_to_elmfield_park))
 - Mum 'frustrated' as social media ban rejected ([1 days ago](https://www.bbc.com/news/articles/c0mgyyxm11ko?at_medium=RSS&at_campaign=rss))
-- BBC Radio Gloucestershire Special ([1 days ago](https://www.bbc.co.uk/sounds/play/p0n5jr06?at_medium=RSS&at_campaign=rss))
+- BBC Radio Gloucestershire Special ([2 days ago](https://www.bbc.co.uk/sounds/play/p0n5jr06?at_medium=RSS&at_campaign=rss))
 - Free 'pitstop parking' could help ease congestion ([2 days ago](https://www.bbc.com/news/articles/ce8nmj9vm11o?at_medium=RSS&at_campaign=rss))
 - Local food a clear favourite at Cheltenham Festival ([2 days ago](https://www.bbc.com/news/articles/c1mjjp0drd1o?at_medium=RSS&at_campaign=rss))
 - B-52s arrive at UK air base amid conflict with Iran ([2 days ago](https://www.bbc.com/news/articles/c93w2kgvkvgo?at_medium=RSS&at_campaign=rss))

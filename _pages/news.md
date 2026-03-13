@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Fourth horse dies at Cheltenham on final day ([4 minutes ago](https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&at_campaign=rss))
-- Cash, drugs and weapons seized in police raids ([5 hours ago](https://www.bbc.com/news/articles/cjen8kznq7yo?at_medium=RSS&at_campaign=rss))
-- Can Ukraine's war-torn wheatfields be cleansed? ([12 hours ago](https://www.bbc.com/news/articles/cly2e3jzeyko?at_medium=RSS&at_campaign=rss))
+- Driver who killed teenage motorcyclist after nine pints is jailed ([35 minutes ago](https://www.bbc.com/news/articles/c5yq788jj1jo?at_medium=RSS&at_campaign=rss))
+- Two more horses die on final day of Cheltenham ([2 hours ago](https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&at_campaign=rss))
+- Cash, drugs and weapons seized in police raids ([7 hours ago](https://www.bbc.com/news/articles/cjen8kznq7yo?at_medium=RSS&at_campaign=rss))
+- Can Ukraine's war-torn wheatfields be cleansed? ([14 hours ago](https://www.bbc.com/news/articles/cly2e3jzeyko?at_medium=RSS&at_campaign=rss))
 - Airport sale collapses after months of negotiations ([1 days ago](https://www.bbc.com/news/articles/c0k1ljx7n0xo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire Airport – shareholder statement ([1 days ago](https://www.cheltenham.gov.uk/news/article/3112/gloucestershire_airport_%E2%80%93_shareholder_statement))
 - Mother is jailed for enslaving woman for 25 years ([1 days ago](https://www.bbc.com/news/articles/cvgkj148p7no?at_medium=RSS&at_campaign=rss))
@@ -30,7 +31,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham Festival in pictures: Day one round-up ([3 days ago](https://www.bbc.com/news/articles/c23zyx9g389o?at_medium=RSS&at_campaign=rss))
 - More than £30,000 improvements to Elmfield Park ([3 days ago](https://www.cheltenham.gov.uk/news/article/3111/more_than_30000_improvements_to_elmfield_park))
 - Mum 'frustrated' as social media ban rejected ([3 days ago](https://www.bbc.com/news/articles/c0mgyyxm11ko?at_medium=RSS&at_campaign=rss))
-- Free 'pitstop parking' could help ease congestion ([3 days ago](https://www.bbc.com/news/articles/ce8nmj9vm11o?at_medium=RSS&at_campaign=rss))
 - Multi-agency support for rough sleepers ([7 days ago](https://www.cheltenham.gov.uk/news/article/3110/multi-agency_support_for_rough_sleepers))
 - Beat the queue by booking your taxi journey in advance ([8 days ago](https://www.cheltenham.gov.uk/news/article/3109/beat_the_queue_by_booking_your_taxi_journey_in_advance))
 - Arkle Court provides locals with new pathways into work ([9 days ago](https://www.cheltenham.gov.uk/news/article/3108/arkle_court_provides_locals_with_new_pathways_into_work))

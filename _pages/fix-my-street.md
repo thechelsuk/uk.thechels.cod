@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Issue yet again with the dropped manhole. now constant rattling manhole cover when vehicles drive over it all day and night, 13th March :- [9104000](https://www.fixmystreet.com/report/9104000)
+- Pothole next to metal drain cover, 13th March :- [9103960](https://www.fixmystreet.com/report/9103960)
 - The electronic sign for the bus times is inoperable, 13th March :- [9103093](https://www.fixmystreet.com/report/9103093)
 - Big bike and rubbish and bins blocking the path, 13th March :- [9102943](https://www.fixmystreet.com/report/9102943)
 - Outside number 58 sandyleaze very unsafe on a motorbike, 13th March :- [9102756](https://www.fixmystreet.com/report/9102756)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 13th March :- [9100471](https://www.fixmystreet.com/report/9100471)
 - TMC - Defects -CW6 Potholes  problem, 13th March :- [9100470](https://www.fixmystreet.com/report/9100470)
 - TMC - Defects -CW6 Potholes  problem, 13th March :- [9100469](https://www.fixmystreet.com/report/9100469)
-- Urgent Road Resurfacing Needed on Tone Drive, 13th March :- [9100345](https://www.fixmystreet.com/report/9100345)
-- TMC - Defects -CW6 Potholes  problem, 13th March :- [9100466](https://www.fixmystreet.com/report/9100466)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 13th March :- [9099071](https://www.fixmystreet.com/report/9099071)
+- Even more potholes bigger than a plate and deeper than a tennis ball, 13th March :- [9098927](https://www.fixmystreet.com/report/9098927)
+- More potholes deeper than a tennis ball and bigger than a plate, 13th March :- [9098897](https://www.fixmystreet.com/report/9098897)
+- TMC - Defects -CW6 Potholes  problem, 13th March :- [9099056](https://www.fixmystreet.com/report/9099056)
+- Potholes with holes deeper than a tennis ball by footpath, 13th March :- [9098861](https://www.fixmystreet.com/report/9098861)
+- TMC - Defects -CW6 Potholes  problem, 13th March :- [9099055](https://www.fixmystreet.com/report/9099055)
+- TMC - Defects -CW6 Potholes  problem, 13th March :- [9098807](https://www.fixmystreet.com/report/9098807)
+- Two trolleys full of crap., 13th March :- [9098518](https://www.fixmystreet.com/report/9098518)
 - Button press deactivates while waiting. Had to press 6 times to cross, 13th March :- [9098358](https://www.fixmystreet.com/report/9098358)
 - Shattered glass shards across pavement, 13th March :- [9098277](https://www.fixmystreet.com/report/9098277)
 - Bus stop in a dangerous position, 13th March :- [9098121](https://www.fixmystreet.com/report/9098121)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Fly tipping on pavement near private bins on pavement, 12th March :- [9096731](https://www.fixmystreet.com/report/9096731)
 - The whole road from the laundry to the change in speed limit is in a very dangerous state especially for cyclists. It is not clear from the previous reports what is being done as it the response seems to imply that nothing more will be done, although I may have misunderstood. Clarification on planned action would be appreciated., 12th March :- [9096695](https://www.fixmystreet.com/report/9096695)
 - Tree branches snagging phone lines amplified by windy conditions, 12th March :- [9096606](https://www.fixmystreet.com/report/9096606)
-- Pothole, 12th March :- [9096569](https://www.fixmystreet.com/report/9096569)
-- Series of large potholes., 12th March :- [9096204](https://www.fixmystreet.com/report/9096204)
-- Five or six potholes making the road almost impassable, 12th March :- [9096006](https://www.fixmystreet.com/report/9096006)
-- (Sadly this is the best fit as zero appropriate option for this nor a 'Other'/rogue item option!) Nearside VRS/'crash barrier' is damaged due to RTC/vehicle strike and needs replacement due to deformation & resultant greatly reduced effectiveness (Inspectors.... ??). This is NOT part of NH network at this loc'n., 12th March :- [9095968](https://www.fixmystreet.com/report/9095968)
-- Defective light unrepaired but ugly red barrier left around it., 12th March :- [9095909](https://www.fixmystreet.com/report/9095909)
-- TMC - Defects -CW6 Potholes  problem, 12th March :- [9095553](https://www.fixmystreet.com/report/9095553)
-- Several untaxed / MOT'd vehicles on highway, 12th March :- [9095219](https://www.fixmystreet.com/report/9095219)
-- Speed cushion incorrectly positioned, 12th March :- [9095319](https://www.fixmystreet.com/report/9095319)
 
 <!-- fix_marker ends -->

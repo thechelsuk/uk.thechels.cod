@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bus stop in a dangerous position, 13th March :- [9098121](https://www.fixmystreet.com/report/9098121)
 - Streetlight not working, 12th March :- [9097833](https://www.fixmystreet.com/report/9097833)
 - Pot hole, 12th March :- [9097694](https://www.fixmystreet.com/report/9097694)
 - The whole road is covered in potholes, 12th March :- [9097657](https://www.fixmystreet.com/report/9097657)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Speed cushion incorrectly positioned, 12th March :- [9095319](https://www.fixmystreet.com/report/9095319)
 - Green junction (?) box tipped over leaving wires exposed, 12th March :- [9095297](https://www.fixmystreet.com/report/9095297)
 - No cycling sign and post removed, 12th March :- [9095241](https://www.fixmystreet.com/report/9095241)
-- TMC - Defects - Other problem, 12th March :- [9095002](https://www.fixmystreet.com/report/9095002)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain still blocked, 13th March :- [9102084](https://www.fixmystreet.com/report/9102084)
+- Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 13th March :- [9102232](https://www.fixmystreet.com/report/9102232)
+- Uneven pavement, 13th March :- [9101253](https://www.fixmystreet.com/report/9101253)
+- Pothole in centre of road, 13th March :- [9101442](https://www.fixmystreet.com/report/9101442)
 - Pothole, 13th March :- [9101315](https://www.fixmystreet.com/report/9101315)
 - Damaged manhole, 13th March :- [9101124](https://www.fixmystreet.com/report/9101124)
 - Multiple people urinating & vomiting in street, 13th March :- [9100939](https://www.fixmystreet.com/report/9100939)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 13th March :- [9100205](https://www.fixmystreet.com/report/9100205)
 - TMC - Defects -CW6 Potholes  problem, 13th March :- [9100204](https://www.fixmystreet.com/report/9100204)
 - TMC - Defects -CW6 Potholes  problem, 13th March :- [9100203](https://www.fixmystreet.com/report/9100203)
-- TMC - Defects -CW6 Potholes  problem, 13th March :- [9100202](https://www.fixmystreet.com/report/9100202)
-- TMC - Defects -CW6 Potholes  problem, 13th March :- [9099920](https://www.fixmystreet.com/report/9099920)
-- TMC - Defects -CW6 Potholes  problem, 13th March :- [9099919](https://www.fixmystreet.com/report/9099919)
-- TMC - Defects -CW6 Potholes  problem, 13th March :- [9099918](https://www.fixmystreet.com/report/9099918)
 
 <!-- fix_marker ends -->

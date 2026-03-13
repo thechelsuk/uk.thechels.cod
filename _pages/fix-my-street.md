@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole caused flat tyre, 13th March :- [9104234](https://www.fixmystreet.com/report/9104234)
+- Sign not readable, 13th March :- [9104009](https://www.fixmystreet.com/report/9104009)
 - Issue yet again with the dropped manhole. now constant rattling manhole cover when vehicles drive over it all day and night, 13th March :- [9104000](https://www.fixmystreet.com/report/9104000)
 - Pothole next to metal drain cover, 13th March :- [9103960](https://www.fixmystreet.com/report/9103960)
 - The electronic sign for the bus times is inoperable, 13th March :- [9103093](https://www.fixmystreet.com/report/9103093)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Damaged manhole, 13th March :- [9101124](https://www.fixmystreet.com/report/9101124)
 - Multiple people urinating & vomiting in street, 13th March :- [9100939](https://www.fixmystreet.com/report/9100939)
 - TMC - Defects -CW6 Potholes  problem, 13th March :- [9100471](https://www.fixmystreet.com/report/9100471)
-- TMC - Defects -CW6 Potholes  problem, 13th March :- [9100470](https://www.fixmystreet.com/report/9100470)
-- TMC - Defects -CW6 Potholes  problem, 13th March :- [9100469](https://www.fixmystreet.com/report/9100469)
 
 <!-- fix_marker ends -->

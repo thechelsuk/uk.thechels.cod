@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Airport sale collapses after months of negotiations ([8 hours ago](https://www.bbc.com/news/articles/c0k1ljx7n0xo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire Airport – shareholder statement ([10 hours ago](https://www.cheltenham.gov.uk/news/article/3112/gloucestershire_airport_%E2%80%93_shareholder_statement))
-- Mother is jailed for enslaving woman for 25 years ([10 hours ago](https://www.bbc.com/news/articles/cvgkj148p7no?at_medium=RSS&at_campaign=rss))
-- Cheltenham day three: Hold on to your hats ([12 hours ago](https://www.bbc.com/news/articles/c4g4w16dn19o?at_medium=RSS&at_campaign=rss))
-- Search for 'Angel donor' to save historic lido ([18 hours ago](https://www.bbc.com/news/articles/cjwzxn6439do?at_medium=RSS&at_campaign=rss))
+- Airport sale collapses after months of negotiations ([11 hours ago](https://www.bbc.com/news/articles/c0k1ljx7n0xo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire Airport – shareholder statement ([12 hours ago](https://www.cheltenham.gov.uk/news/article/3112/gloucestershire_airport_%E2%80%93_shareholder_statement))
+- Mother is jailed for enslaving woman for 25 years ([12 hours ago](https://www.bbc.com/news/articles/cvgkj148p7no?at_medium=RSS&at_campaign=rss))
+- Cheltenham day three: Hold on to your hats ([15 hours ago](https://www.bbc.com/news/articles/c4g4w16dn19o?at_medium=RSS&at_campaign=rss))
+- Search for 'Angel donor' to save historic lido ([21 hours ago](https://www.bbc.com/news/articles/cjwzxn6439do?at_medium=RSS&at_campaign=rss))
 - Second horse dies at Cheltenham Festival ([1 days ago](https://www.bbc.com/news/articles/cpd87213jylo?at_medium=RSS&at_campaign=rss))
 - Ladies' Day brings out the fashion at Cheltenham ([1 days ago](https://www.bbc.com/news/articles/c70ngrz046wo?at_medium=RSS&at_campaign=rss))
 - Longest-running NHS strike over as pay deal reached ([1 days ago](https://www.bbc.com/news/articles/ckg1vw9gdg7o?at_medium=RSS&at_campaign=rss))

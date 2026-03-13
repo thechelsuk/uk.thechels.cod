@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 13 March 2026
 
-- The average temperature today is 8.58˚C,
-- With highs of 8.58˚C and lows of 8.58˚C,
-- It may feel like 4.06˚C with light rain
-- The wind speed is 11.25m/s and visibility is 10000m
-- The pressure is 996hPa and humidity is 89%
+- The average temperature today is 5.45˚C,
+- With highs of 5.71˚C and lows of 5.38˚C,
+- It may feel like 3.66˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 998hPa and humidity is 83%
 - The sun will rise at 06:27 and set at 18:08
 
 <!-- weather_marker ends -->

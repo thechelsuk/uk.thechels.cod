@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Button press deactivates while waiting. Had to press 6 times to cross, 13th March :- [9098358](https://www.fixmystreet.com/report/9098358)
+- Shattered glass shards across pavement, 13th March :- [9098277](https://www.fixmystreet.com/report/9098277)
 - Bus stop in a dangerous position, 13th March :- [9098121](https://www.fixmystreet.com/report/9098121)
 - Streetlight not working, 12th March :- [9097833](https://www.fixmystreet.com/report/9097833)
 - Pot hole, 12th March :- [9097694](https://www.fixmystreet.com/report/9097694)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th March :- [9095553](https://www.fixmystreet.com/report/9095553)
 - Several untaxed / MOT'd vehicles on highway, 12th March :- [9095219](https://www.fixmystreet.com/report/9095219)
 - Speed cushion incorrectly positioned, 12th March :- [9095319](https://www.fixmystreet.com/report/9095319)
-- Green junction (?) box tipped over leaving wires exposed, 12th March :- [9095297](https://www.fixmystreet.com/report/9095297)
-- No cycling sign and post removed, 12th March :- [9095241](https://www.fixmystreet.com/report/9095241)
 
 <!-- fix_marker ends -->

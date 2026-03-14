@@ -22,37 +22,32 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 13 March 2026, especially near Cerney Wick. The forecast is for a windy day with showers, some of which could be heavy. Saturday is forecast to be mostly dry with a chance of showers. River levels have risen in response to the overnight rainfall. We expect levels to continue rise slowly through today. Levels are sensitive to further rainfall.
+River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 14 March 2026, especially near Cerney Wick. The forecast is for a mostly dry day with the chance of showers. Further rain is forecast for Sunday. River levels are falling slowly. We expect levels to continue falling slowly over the coming days. Levels are sensitive to further rainfall. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels.
 
-This message will be updated by 12:00PM on 14 March 2026, or as the situation changes.
+This message will be updated by 18:00PM on 14 March 2026, or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding.
 
-River levels are high but falling slowly on the River Windrush. Flooding of low lying land and roads is expected to continue today, 13 March 2026, including areas around Bourton on the Water and Newbridge. The forecast is for a windy day with showers, some of which could be heavy. Saturday is forecast to be mostly dry with a chance of showers. River levels are high but falling slowly. We expect levels to continue falling slowly today. Levels remain sensitive to further rainfall.
+River levels are high on the River Windrush. Flooding of low lying land and roads is expected to continue today, 14 March 2026, including areas around Bourton on the Water and Newbridge. The forecast is for a mostly dry day with the chance of showers. Further rain is forecast for Sunday. River levels are high but falling slowly. We expect levels to continue to fall slowly over the coming days. River levels remain sensitive to further rainfall.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels.
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00PM on 14 March 2026, or as the situation changes.
+This message will be updated by 18:00PM on 14 March 2026, or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding.
 
-River levels on the River Dikler are high. Flooding of low lying land and roads is expected to continue today, 13 March 2026, including the area around Bourton on the Water. The forecast is for a windy day with showers, some of which could be heavy. Saturday is forecast to be mostly dry with a chance of showers. We expect river levels to remain high over the coming days. Levels remain sensitive to further rainfall.
+River levels are high on the River Dikler. Flooding of low lying land and roads is expected to continue today, 14 March 2026, including the area around Bourton on the Water. The forecast is for a mostly dry day with the chance of showers. Further rain is forecast for Sunday. We expect river levels to remain high over the next couple of days. River levels remain sensitive to further rainfall.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels.
 
-This message will be updated by 12:00PM on 14 March 2026, or as the situation changes.
+This message will be updated by 18:00PM on 14 March 2026, or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 13 March 2026 . 
-Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 9:00AM on 14 March 2026 or as the situation changes.
+- River level have peaked and are beginning to fall. Flooding is possible on 14 March 2026 .  Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 9:00AM on 15 March 2026 or as the situation changes.
 
 - Warning no longer in force: River Wye in Gloucestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -75,11 +70,11 @@ This message will be updated by 10:00AM on 15 March 2026 or as the situation cha
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding.
 
-River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 13 March 2026, especially in the areas around Fossebridge. The forecast is for a windy day with showers, some of which could be heavy. Saturday is forecast to be mostly dry with a chance of showers. River levels are falling very slowly. We expect levels to continue falling very slowly over the coming days. Levels remain sensitive to further rainfall.
+River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 14 March 2026, especially in the areas around Fossebridge. The forecast is for a mostly dry day with the chance of showers. Further rain is forecast for Sunday. River levels are falling very slowly. We expect levels to continue falling very slowly over the coming days. Levels remain sensitive to further rainfall.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels.
 
-This message will be updated by 12:00PM on 14 March 2026, or as the situation changes.
+This message will be updated by 18:00PM on 14 March 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

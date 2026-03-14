@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen tree, 14th March :- [9105371](https://www.fixmystreet.com/report/9105371)
+- Grass is too long and unplayable for football matches, 14th March :- [9105315](https://www.fixmystreet.com/report/9105315)
+- Deep potholes, 14th March :- [9105283](https://www.fixmystreet.com/report/9105283)
+- Building rubble on verge outside 152, 14th March :- [9105156](https://www.fixmystreet.com/report/9105156)
 - Timetable has graffiti, 14th March :- [9104931](https://www.fixmystreet.com/report/9104931)
 - Loose drain cover on Leckhampton Road, 14th March :- [9104881](https://www.fixmystreet.com/report/9104881)
 - Multiple holes, 14th March :- [9104711](https://www.fixmystreet.com/report/9104711)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - 2 road signs and a sand bag left behind in Selkirk St after roadworks last year. Further road sign left behind around the corner in front of 30 Albert Place (this one details the long finished roadworks), 13th March :- [9102625](https://www.fixmystreet.com/report/9102625)
 - The Diverted Traffic sign has been left behind when the road was re-opened following the closure work, 13th March :- [9102351](https://www.fixmystreet.com/report/9102351)
 - Multiple surface failures across the carriageway, 13th March :- [9102338](https://www.fixmystreet.com/report/9102338)
-- Barriers still left, 13th March :- [9102268](https://www.fixmystreet.com/report/9102268)
-- Drain still blocked, 13th March :- [9102084](https://www.fixmystreet.com/report/9102084)
-- Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 13th March :- [9102232](https://www.fixmystreet.com/report/9102232)
-- Uneven pavement, 13th March :- [9101253](https://www.fixmystreet.com/report/9101253)
 
 <!-- fix_marker ends -->

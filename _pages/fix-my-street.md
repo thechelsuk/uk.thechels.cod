@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 14th March :- [9105918](https://www.fixmystreet.com/report/9105918)
+- Flytipped furniture, 14th March :- [9105672](https://www.fixmystreet.com/report/9105672)
+- Flytipped item, 14th March :- [9105657](https://www.fixmystreet.com/report/9105657)
+- Flytipped chair, 14th March :- [9105636](https://www.fixmystreet.com/report/9105636)
+- Damaged Paving Around Stop Tap 'Fixed' with Plastic Pavement Cover, 14th March :- [9105573](https://www.fixmystreet.com/report/9105573)
 - Fallen tree, 14th March :- [9105371](https://www.fixmystreet.com/report/9105371)
 - Grass is too long and unplayable for football matches, 14th March :- [9105315](https://www.fixmystreet.com/report/9105315)
 - Deep potholes, 14th March :- [9105283](https://www.fixmystreet.com/report/9105283)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Pothole next to metal drain cover, 13th March :- [9103960](https://www.fixmystreet.com/report/9103960)
 - The electronic sign for the bus times is inoperable, 13th March :- [9103093](https://www.fixmystreet.com/report/9103093)
 - Big bike and rubbish and bins blocking the path, 13th March :- [9102943](https://www.fixmystreet.com/report/9102943)
-- Outside number 58 sandyleaze very unsafe on a motorbike, 13th March :- [9102756](https://www.fixmystreet.com/report/9102756)
-- Lime tree with areas where the bark has come off., 13th March :- [9102640](https://www.fixmystreet.com/report/9102640)
-- 2 road signs and a sand bag left behind in Selkirk St after roadworks last year. Further road sign left behind around the corner in front of 30 Albert Place (this one details the long finished roadworks), 13th March :- [9102625](https://www.fixmystreet.com/report/9102625)
-- The Diverted Traffic sign has been left behind when the road was re-opened following the closure work, 13th March :- [9102351](https://www.fixmystreet.com/report/9102351)
-- Multiple surface failures across the carriageway, 13th March :- [9102338](https://www.fixmystreet.com/report/9102338)
 
 <!-- fix_marker ends -->

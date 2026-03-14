@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In the frame: The last day of Cheltenham Festival ([5 hours ago](https://www.bbc.com/news/articles/cvg8y12zrv0o?at_medium=RSS&at_campaign=rss))
-- Weight-loss jab 'defining moment' after yo-yo diet ([13 hours ago](https://www.bbc.com/news/articles/c5ykkpk3l11o?at_medium=RSS&at_campaign=rss))
-- 'Crouch serves racegoers' and 'girl's gift to dogs' ([13 hours ago](https://www.bbc.com/news/articles/cddnj8njz88o?at_medium=RSS&at_campaign=rss))
+- In the frame: The last day of Cheltenham Festival ([7 hours ago](https://www.bbc.com/news/articles/cvg8y12zrv0o?at_medium=RSS&at_campaign=rss))
+- Weight-loss jab 'defining moment' after yo-yo diet ([15 hours ago](https://www.bbc.com/news/articles/c5ykkpk3l11o?at_medium=RSS&at_campaign=rss))
+- 'Crouch serves racegoers' and 'girl's gift to dogs' ([15 hours ago](https://www.bbc.com/news/articles/cddnj8njz88o?at_medium=RSS&at_campaign=rss))
 - Driver who killed teenage motorcyclist after nine pints is jailed ([1 days ago](https://www.bbc.com/news/articles/c5yq788jj1jo?at_medium=RSS&at_campaign=rss))
 - Two more horses die on final day of Cheltenham ([1 days ago](https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&at_campaign=rss))
 - Cash, drugs and weapons seized in police raids ([1 days ago](https://www.bbc.com/news/articles/cjen8kznq7yo?at_medium=RSS&at_campaign=rss))

@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Driver who killed teenage motorcyclist after nine pints is jailed ([7 hours ago](https://www.bbc.com/news/articles/c5yq788jj1jo?at_medium=RSS&at_campaign=rss))
-- Two more horses die on final day of Cheltenham ([8 hours ago](https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&at_campaign=rss))
-- Cash, drugs and weapons seized in police raids ([13 hours ago](https://www.bbc.com/news/articles/cjen8kznq7yo?at_medium=RSS&at_campaign=rss))
-- Can Ukraine's war-torn wheatfields be cleansed? ([21 hours ago](https://www.bbc.com/news/articles/cly2e3jzeyko?at_medium=RSS&at_campaign=rss))
+- Driver who killed teenage motorcyclist after nine pints is jailed ([8 hours ago](https://www.bbc.com/news/articles/c5yq788jj1jo?at_medium=RSS&at_campaign=rss))
+- Two more horses die on final day of Cheltenham ([10 hours ago](https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&at_campaign=rss))
+- Cash, drugs and weapons seized in police raids ([15 hours ago](https://www.bbc.com/news/articles/cjen8kznq7yo?at_medium=RSS&at_campaign=rss))
+- Can Ukraine's war-torn wheatfields be cleansed? ([22 hours ago](https://www.bbc.com/news/articles/cly2e3jzeyko?at_medium=RSS&at_campaign=rss))
 - Airport sale collapses after months of negotiations ([1 days ago](https://www.bbc.com/news/articles/c0k1ljx7n0xo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire Airport – shareholder statement ([1 days ago](https://www.cheltenham.gov.uk/news/article/3112/gloucestershire_airport_%E2%80%93_shareholder_statement))
 - Mother is jailed for enslaving woman for 25 years ([1 days ago](https://www.bbc.com/news/articles/cvgkj148p7no?at_medium=RSS&at_campaign=rss))

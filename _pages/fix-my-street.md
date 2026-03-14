@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumped rubbish, 14th March :- [9107656](https://www.fixmystreet.com/report/9107656)
+- 45cm x 60cm pothole, 14th March :- [9107436](https://www.fixmystreet.com/report/9107436)
+- Large piece of electrical equipment dumped, 14th March :- [9106957](https://www.fixmystreet.com/report/9106957)
+- Super dangerous. Just saw someone s tyre go into this, 14th March :- [9106848](https://www.fixmystreet.com/report/9106848)
 - Bricks loose in road, 14th March :- [9106713](https://www.fixmystreet.com/report/9106713)
 - Two bed bases dumped, 14th March :- [9106674](https://www.fixmystreet.com/report/9106674)
 - Car not moved for months, 14th March :- [9106539](https://www.fixmystreet.com/report/9106539)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Timetable has graffiti, 14th March :- [9104931](https://www.fixmystreet.com/report/9104931)
 - Loose drain cover on Leckhampton Road, 14th March :- [9104881](https://www.fixmystreet.com/report/9104881)
 - Multiple holes, 14th March :- [9104711](https://www.fixmystreet.com/report/9104711)
-- Stretch of Shame, 14th March :- [9104706](https://www.fixmystreet.com/report/9104706)
-- Whittington Road, 14th March :- [9104702](https://www.fixmystreet.com/report/9104702)
-- Pot hole caused flat tyre, 13th March :- [9104234](https://www.fixmystreet.com/report/9104234)
-- Sign not readable, 13th March :- [9104009](https://www.fixmystreet.com/report/9104009)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Timetable has graffiti, 14th March :- [9104931](https://www.fixmystreet.com/report/9104931)
+- Loose drain cover on Leckhampton Road, 14th March :- [9104881](https://www.fixmystreet.com/report/9104881)
+- Multiple holes, 14th March :- [9104711](https://www.fixmystreet.com/report/9104711)
+- Stretch of Shame, 14th March :- [9104706](https://www.fixmystreet.com/report/9104706)
+- Whittington Road, 14th March :- [9104702](https://www.fixmystreet.com/report/9104702)
 - Pot hole caused flat tyre, 13th March :- [9104234](https://www.fixmystreet.com/report/9104234)
 - Sign not readable, 13th March :- [9104009](https://www.fixmystreet.com/report/9104009)
 - Issue yet again with the dropped manhole. now constant rattling manhole cover when vehicles drive over it all day and night, 13th March :- [9104000](https://www.fixmystreet.com/report/9104000)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Drain still blocked, 13th March :- [9102084](https://www.fixmystreet.com/report/9102084)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 13th March :- [9102232](https://www.fixmystreet.com/report/9102232)
 - Uneven pavement, 13th March :- [9101253](https://www.fixmystreet.com/report/9101253)
-- Pothole in centre of road, 13th March :- [9101442](https://www.fixmystreet.com/report/9101442)
-- Pothole, 13th March :- [9101315](https://www.fixmystreet.com/report/9101315)
-- Damaged manhole, 13th March :- [9101124](https://www.fixmystreet.com/report/9101124)
-- Multiple people urinating & vomiting in street, 13th March :- [9100939](https://www.fixmystreet.com/report/9100939)
-- TMC - Defects -CW6 Potholes  problem, 13th March :- [9100471](https://www.fixmystreet.com/report/9100471)
 
 <!-- fix_marker ends -->

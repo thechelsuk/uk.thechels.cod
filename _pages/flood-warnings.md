@@ -19,13 +19,6 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Warning no longer in force: Upper Bristol Avon area
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   
-
-
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
@@ -61,21 +54,23 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 9:00AM on 14 March 2026 or as the situation changes.
 
-- Flood alert: River Wye in Gloucestershire
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 14 March 2026 . 
-Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.3m to 3.5m 14/03 AM, Lydbrook 3.8m to 4m 14/03 AM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 14 March 2026 or as the situation changes.
+- Warning no longer in force: River Wye in Gloucestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Wye in Herefordshire
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 13 March 2026 . 
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Belmont 3.6m to 3.8m on 13/03 PM, Old Wye Bridge 3.1m to 3.3m on 13/03 PM, Mordiford 3.4m to 3.6m on 13/03 PM, Ross on Wye 3.3m to 3.5m on 14/03 AM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 14 March 2026 or as the situation changes.
+- High river levels today may lead to flooding.  Flooding is possible on 14 March 2026. 
+
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force.  
+
+Peaks:- Belmont peaked at 3.8m on 13/03 PM, Old Wye Bridge peaked at 3.28m on 13/03 PM, Mordiford peaked at 3.7m on 13/03 PM, Ross on Wye peaked at 3.1m on 14/03 AM.   
+
+We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.   
+
+This message will be updated by 10:00AM on 15 March 2026 or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding.

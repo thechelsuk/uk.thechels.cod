@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 14 March 2026
 
-- The average temperature today is 10.37˚C,
-- With highs of 10.37˚C and lows of 10.37˚C,
-- It may feel like 8.9˚C with clear sky
-- The wind speed is 3.52m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 55%
+- The average temperature today is 11.24˚C,
+- With highs of 12.14˚C and lows of 10.75˚C,
+- It may feel like 9.65˚C with few clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 47%
 - The sun will rise at 06:25 and set at 18:09
 
 <!-- weather_marker ends -->

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bricks loose in road, 14th March :- [9106713](https://www.fixmystreet.com/report/9106713)
+- Two bed bases dumped, 14th March :- [9106674](https://www.fixmystreet.com/report/9106674)
+- Car not moved for months, 14th March :- [9106539](https://www.fixmystreet.com/report/9106539)
+- 14inch pothole outside 8 Barksdale, 14th March :- [9106528](https://www.fixmystreet.com/report/9106528)
 - Volunteer litter pick bags ready for collection, 14th March :- [9105918](https://www.fixmystreet.com/report/9105918)
 - Flytipped furniture, 14th March :- [9105672](https://www.fixmystreet.com/report/9105672)
 - Flytipped item, 14th March :- [9105657](https://www.fixmystreet.com/report/9105657)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Whittington Road, 14th March :- [9104702](https://www.fixmystreet.com/report/9104702)
 - Pot hole caused flat tyre, 13th March :- [9104234](https://www.fixmystreet.com/report/9104234)
 - Sign not readable, 13th March :- [9104009](https://www.fixmystreet.com/report/9104009)
-- Issue yet again with the dropped manhole. now constant rattling manhole cover when vehicles drive over it all day and night, 13th March :- [9104000](https://www.fixmystreet.com/report/9104000)
-- Pothole next to metal drain cover, 13th March :- [9103960](https://www.fixmystreet.com/report/9103960)
-- The electronic sign for the bus times is inoperable, 13th March :- [9103093](https://www.fixmystreet.com/report/9103093)
-- Big bike and rubbish and bins blocking the path, 13th March :- [9102943](https://www.fixmystreet.com/report/9102943)
 
 <!-- fix_marker ends -->

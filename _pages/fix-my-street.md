@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flags erected on lampposts, 15th March :- [9109767](https://www.fixmystreet.com/report/9109767)
+- Pothole, 15th March :- [9110360](https://www.fixmystreet.com/report/9110360)
 - More broken glass on Honeybourne Line, 15th March :- [9109482](https://www.fixmystreet.com/report/9109482)
 - Series of potholes, 15th March :- [9109302](https://www.fixmystreet.com/report/9109302)
 - Deep, dangerous abd damaging pothole, 15th March :- [9109279](https://www.fixmystreet.com/report/9109279)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Light is out on restricted access sign number 117742, 14th March :- [9108422](https://www.fixmystreet.com/report/9108422)
 - Signs at Cox”s Meadow could do with a,clean, 14th March :- [9108403](https://www.fixmystreet.com/report/9108403)
 - Bollard is aged and wants replacing, 14th March :- [9108389](https://www.fixmystreet.com/report/9108389)
-- Please consider removing the base of this unused sign, 14th March :- [9108366](https://www.fixmystreet.com/report/9108366)
-- Keep left sign turned ,45 degreea, 14th March :- [9108354](https://www.fixmystreet.com/report/9108354)
 
 <!-- fix_marker ends -->

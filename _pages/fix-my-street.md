@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Diverted traffic sign wants collecting, 15th March :- [9108534](https://www.fixmystreet.com/report/9108534)
+- Direction sign leaning more than 20 degrees, 15th March :- [9108532](https://www.fixmystreet.com/report/9108532)
+- Two 20mph signs leaning less than 20 degrees, 15th March :- [9108531](https://www.fixmystreet.com/report/9108531)
 - Signplate for No through Road turned 160 degrees, 14th March :- [9108459](https://www.fixmystreet.com/report/9108459)
 - Light is out on warning sign of traffic lights ahead, 14th March :- [9108448](https://www.fixmystreet.com/report/9108448)
 - Warning sign number 117562 for a roundabout ahead is obscured by vegetation coming over the wall, 14th March :- [9108442](https://www.fixmystreet.com/report/9108442)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Sign giving direction is falling apart, 14th March :- [9108235](https://www.fixmystreet.com/report/9108235)
 - Pothole near traffic lights near Baynard way, 14th March :- [9108173](https://www.fixmystreet.com/report/9108173)
 - Road furniture left behind, 14th March :- [9108026](https://www.fixmystreet.com/report/9108026)
-- Pothole, 14th March :- [9108006](https://www.fixmystreet.com/report/9108006)
-- Dumped rubbish, 14th March :- [9107656](https://www.fixmystreet.com/report/9107656)
-- 45cm x 60cm pothole, 14th March :- [9107436](https://www.fixmystreet.com/report/9107436)
 
 <!-- fix_marker ends -->

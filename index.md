@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 15 March 2026
 
-- The average temperature today is 3.84˚C,
-- With highs of 4.99˚C and lows of 2.51˚C,
-- It may feel like 3.84˚C with overcast clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 85%
+- The average temperature today is 3.06˚C,
+- With highs of 3.06˚C and lows of 3.06˚C,
+- It may feel like -0.07˚C with light rain
+- The wind speed is 3.32m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 89%
 - The sun will rise at 06:23 and set at 18:11
 
 <!-- weather_marker ends -->

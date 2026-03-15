@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 15th March :- [9112023](https://www.fixmystreet.com/report/9112023)
+- Obscured by vegetation, 15th March :- [9112010](https://www.fixmystreet.com/report/9112010)
 - Please consider removing the Signal timings changed. It has been there more than 5 years, 15th March :- [9111880](https://www.fixmystreet.com/report/9111880)
 - Please consider removing the Signal Timings Changed sign. It has been there over 5 years, 15th March :- [9111847](https://www.fixmystreet.com/report/9111847)
 - Please consider removing the Signals Timing Changed. It has been there over 5 years, 15th March :- [9111832](https://www.fixmystreet.com/report/9111832)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Deep, dangerous abd damaging pothole, 15th March :- [9109279](https://www.fixmystreet.com/report/9109279)
 - Sign broken off and no clear route, 15th March :- [9108980](https://www.fixmystreet.com/report/9108980)
 - Missing sign and path overgrown, 15th March :- [9108960](https://www.fixmystreet.com/report/9108960)
-- Large potholes on the side of the road, 15th March :- [9108923](https://www.fixmystreet.com/report/9108923)
-- Fence collapsing causing potential obstruction, 15th March :- [9108681](https://www.fixmystreet.com/report/9108681)
 
 <!-- fix_marker ends -->

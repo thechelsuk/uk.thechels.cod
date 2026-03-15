@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Tour de force: Crowds turn out for daffodil display ([1 hours ago](https://www.bbc.com/news/articles/c0mgee18md9o?at_medium=RSS&at_campaign=rss))
-- Catapults used to harm pigeons in social media trend ([13 hours ago](https://www.bbc.com/news/articles/czj1lvgy2m1o?at_medium=RSS&at_campaign=rss))
-- In pictures: Cheltenham cheers and rugby delight ([13 hours ago](https://www.bbc.com/news/articles/cvgkv23711no?at_medium=RSS&at_campaign=rss))
+- Tour de force: Crowds turn out for daffodil display ([3 hours ago](https://www.bbc.com/news/articles/c0mgee18md9o?at_medium=RSS&at_campaign=rss))
+- Catapults used to harm pigeons in social media trend ([15 hours ago](https://www.bbc.com/news/articles/czj1lvgy2m1o?at_medium=RSS&at_campaign=rss))
+- In pictures: Cheltenham cheers and rugby delight ([15 hours ago](https://www.bbc.com/news/articles/cvgkv23711no?at_medium=RSS&at_campaign=rss))
 - In the frame: The last day of Cheltenham Festival ([1 days ago](https://www.bbc.com/news/articles/cvg8y12zrv0o?at_medium=RSS&at_campaign=rss))
 - Weight-loss jab 'defining moment' after yo-yo diet ([1 days ago](https://www.bbc.com/news/articles/c5ykkpk3l11o?at_medium=RSS&at_campaign=rss))
 - 'Crouch serves racegoers' and 'girl's gift to dogs' ([1 days ago](https://www.bbc.com/news/articles/cddnj8njz88o?at_medium=RSS&at_campaign=rss))

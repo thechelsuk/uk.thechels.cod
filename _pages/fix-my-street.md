@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fence collapsing causing potential obstruction, 15th March :- [9108681](https://www.fixmystreet.com/report/9108681)
 - Dead cat at end of Richmond gardens, 15th March :- [9108617](https://www.fixmystreet.com/report/9108617)
 - Diverted traffic sign wants collecting, 15th March :- [9108534](https://www.fixmystreet.com/report/9108534)
 - Direction sign leaning more than 20 degrees, 15th March :- [9108532](https://www.fixmystreet.com/report/9108532)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Could do with a clean, 14th March :- [9108256](https://www.fixmystreet.com/report/9108256)
 - Sign giving direction has lost its lower section, 14th March :- [9108247](https://www.fixmystreet.com/report/9108247)
 - Sign giving direction is falling apart, 14th March :- [9108235](https://www.fixmystreet.com/report/9108235)
-- Pothole near traffic lights near Baynard way, 14th March :- [9108173](https://www.fixmystreet.com/report/9108173)
 
 <!-- fix_marker ends -->

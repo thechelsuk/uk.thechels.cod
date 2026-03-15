@@ -12,8 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In the frame: The last day of Cheltenham Festival ([15 hours ago](https://www.bbc.com/news/articles/cvg8y12zrv0o?at_medium=RSS&at_campaign=rss))
-- Weight-loss jab 'defining moment' after yo-yo diet ([23 hours ago](https://www.bbc.com/news/articles/c5ykkpk3l11o?at_medium=RSS&at_campaign=rss))
+- Catapults used to harm pigeons amid TikTok trend ([1 hours ago](https://www.bbc.com/news/articles/czj1lvgy2m1o?at_medium=RSS&at_campaign=rss))
+- In pictures: Cheltenham cheers and rugby delight ([1 hours ago](https://www.bbc.com/news/articles/cvgkv23711no?at_medium=RSS&at_campaign=rss))
+- In the frame: The last day of Cheltenham Festival ([17 hours ago](https://www.bbc.com/news/articles/cvg8y12zrv0o?at_medium=RSS&at_campaign=rss))
+- Weight-loss jab 'defining moment' after yo-yo diet ([1 days ago](https://www.bbc.com/news/articles/c5ykkpk3l11o?at_medium=RSS&at_campaign=rss))
 - 'Crouch serves racegoers' and 'girl's gift to dogs' ([1 days ago](https://www.bbc.com/news/articles/cddnj8njz88o?at_medium=RSS&at_campaign=rss))
 - Driver who killed teenage motorcyclist after nine pints is jailed ([1 days ago](https://www.bbc.com/news/articles/c5yq788jj1jo?at_medium=RSS&at_campaign=rss))
 - Two more horses die on final day of Cheltenham ([1 days ago](https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&at_campaign=rss))
@@ -28,9 +30,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Longest-running NHS strike over as pay deal reached ([3 days ago](https://www.bbc.com/news/articles/ckg1vw9gdg7o?at_medium=RSS&at_campaign=rss))
 - Late and crowded buses make pupils late for class ([4 days ago](https://www.bbc.com/news/articles/cq6qv3y4yg8o?at_medium=RSS&at_campaign=rss))
 - Rare glimpse of historic bridge thanks to low tide ([4 days ago](https://www.bbc.com/news/articles/c70n5982r0lo?at_medium=RSS&at_campaign=rss))
-- US military prepare explosive ordnance at UK air base ([4 days ago](https://www.bbc.com/news/articles/cn87kmlnzdyo?at_medium=RSS&at_campaign=rss))
 - More than £30,000 improvements to Elmfield Park ([4 days ago](https://www.cheltenham.gov.uk/news/article/3111/more_than_30000_improvements_to_elmfield_park))
-- Mum 'frustrated' as social media ban rejected ([4 days ago](https://www.bbc.com/news/articles/c0mgyyxm11ko?at_medium=RSS&at_campaign=rss))
 - Multi-agency support for rough sleepers ([8 days ago](https://www.cheltenham.gov.uk/news/article/3110/multi-agency_support_for_rough_sleepers))
 - Beat the queue by booking your taxi journey in advance ([9 days ago](https://www.cheltenham.gov.uk/news/article/3109/beat_the_queue_by_booking_your_taxi_journey_in_advance))
 - Arkle Court provides locals with new pathways into work ([10 days ago](https://www.cheltenham.gov.uk/news/article/3108/arkle_court_provides_locals_with_new_pathways_into_work))

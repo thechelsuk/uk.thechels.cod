@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water pouring on to Bentham Lane from public footpath, 15th March :- [9111555](https://www.fixmystreet.com/report/9111555)
+- Pot hole on Dog Lane opposite pull in near junction with Dark Lane, 15th March :- [9111495](https://www.fixmystreet.com/report/9111495)
+- Pot hole on Dog Lane opposite pull in area near to junction with Dark Lane, 15th March :- [9111490](https://www.fixmystreet.com/report/9111490)
 - Bollard knocked over and lying on grass verge, 15th March :- [9110905](https://www.fixmystreet.com/report/9110905)
 - Abandoned Caravan, 15th March :- [9110846](https://www.fixmystreet.com/report/9110846)
 - Chair dumped on road, been there about five days and not reported., 15th March :- [9110745](https://www.fixmystreet.com/report/9110745)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Diverted traffic sign wants collecting, 15th March :- [9108534](https://www.fixmystreet.com/report/9108534)
 - Direction sign leaning more than 20 degrees, 15th March :- [9108532](https://www.fixmystreet.com/report/9108532)
 - Two 20mph signs leaning less than 20 degrees, 15th March :- [9108531](https://www.fixmystreet.com/report/9108531)
-- Signplate for No through Road turned 160 degrees, 14th March :- [9108459](https://www.fixmystreet.com/report/9108459)
-- Light is out on warning sign of traffic lights ahead, 14th March :- [9108448](https://www.fixmystreet.com/report/9108448)
-- Warning sign number 117562 for a roundabout ahead is obscured by vegetation coming over the wall, 14th March :- [9108442](https://www.fixmystreet.com/report/9108442)
 
 <!-- fix_marker ends -->

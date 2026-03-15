@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of potholes, 15th March :- [9109302](https://www.fixmystreet.com/report/9109302)
+- Deep, dangerous abd damaging pothole, 15th March :- [9109279](https://www.fixmystreet.com/report/9109279)
+- Sign broken off and no clear route, 15th March :- [9108980](https://www.fixmystreet.com/report/9108980)
+- Missing sign and path overgrown, 15th March :- [9108960](https://www.fixmystreet.com/report/9108960)
+- Large potholes on the side of the road, 15th March :- [9108923](https://www.fixmystreet.com/report/9108923)
 - Fence collapsing causing potential obstruction, 15th March :- [9108681](https://www.fixmystreet.com/report/9108681)
 - Dead cat at end of Richmond gardens, 15th March :- [9108617](https://www.fixmystreet.com/report/9108617)
 - Diverted traffic sign wants collecting, 15th March :- [9108534](https://www.fixmystreet.com/report/9108534)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Please consider removing the base of this unused sign, 14th March :- [9108366](https://www.fixmystreet.com/report/9108366)
 - Keep left sign turned ,45 degreea, 14th March :- [9108354](https://www.fixmystreet.com/report/9108354)
 - Signplate for Ring road has faded on 11x931, 14th March :- [9108343](https://www.fixmystreet.com/report/9108343)
-- Sign giving direction to Sudley Castle has gone from brown to green, 14th March :- [9108315](https://www.fixmystreet.com/report/9108315)
-- Two aged bollards in need of renewal. One is turned 90 degrees, 14th March :- [9108298](https://www.fixmystreet.com/report/9108298)
-- Could do with a clean, 14th March :- [9108256](https://www.fixmystreet.com/report/9108256)
-- Sign giving direction has lost its lower section, 14th March :- [9108247](https://www.fixmystreet.com/report/9108247)
-- Sign giving direction is falling apart, 14th March :- [9108235](https://www.fixmystreet.com/report/9108235)
 
 <!-- fix_marker ends -->

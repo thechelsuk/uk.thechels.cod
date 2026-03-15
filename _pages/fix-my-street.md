@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Please consider removing the Signal timings changed. It has been there more than 5 years, 15th March :- [9111880](https://www.fixmystreet.com/report/9111880)
+- Please consider removing the Signal Timings Changed sign. It has been there over 5 years, 15th March :- [9111847](https://www.fixmystreet.com/report/9111847)
+- Please consider removing the Signals Timing Changed. It has been there over 5 years, 15th March :- [9111832](https://www.fixmystreet.com/report/9111832)
+- Pedestrian crossing signal turning off, 15th March :- [9111693](https://www.fixmystreet.com/report/9111693)
 - Water pouring on to Bentham Lane from public footpath, 15th March :- [9111555](https://www.fixmystreet.com/report/9111555)
 - Pot hole on Dog Lane opposite pull in near junction with Dark Lane, 15th March :- [9111495](https://www.fixmystreet.com/report/9111495)
 - Pot hole on Dog Lane opposite pull in area near to junction with Dark Lane, 15th March :- [9111490](https://www.fixmystreet.com/report/9111490)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Missing sign and path overgrown, 15th March :- [9108960](https://www.fixmystreet.com/report/9108960)
 - Large potholes on the side of the road, 15th March :- [9108923](https://www.fixmystreet.com/report/9108923)
 - Fence collapsing causing potential obstruction, 15th March :- [9108681](https://www.fixmystreet.com/report/9108681)
-- Dead cat at end of Richmond gardens, 15th March :- [9108617](https://www.fixmystreet.com/report/9108617)
-- Diverted traffic sign wants collecting, 15th March :- [9108534](https://www.fixmystreet.com/report/9108534)
-- Direction sign leaning more than 20 degrees, 15th March :- [9108532](https://www.fixmystreet.com/report/9108532)
-- Two 20mph signs leaning less than 20 degrees, 15th March :- [9108531](https://www.fixmystreet.com/report/9108531)
 
 <!-- fix_marker ends -->

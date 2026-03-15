@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Signplate for No through Road turned 160 degrees, 14th March :- [9108459](https://www.fixmystreet.com/report/9108459)
+- Light is out on warning sign of traffic lights ahead, 14th March :- [9108448](https://www.fixmystreet.com/report/9108448)
+- Warning sign number 117562 for a roundabout ahead is obscured by vegetation coming over the wall, 14th March :- [9108442](https://www.fixmystreet.com/report/9108442)
+- Signplate is damaged and turned around the post on the unnumbered Mini roundabout sign, 14th March :- [9108433](https://www.fixmystreet.com/report/9108433)
+- Light is out on restricted access sign number 117742, 14th March :- [9108422](https://www.fixmystreet.com/report/9108422)
+- Signs at Cox”s Meadow could do with a,clean, 14th March :- [9108403](https://www.fixmystreet.com/report/9108403)
 - Bollard is aged and wants replacing, 14th March :- [9108389](https://www.fixmystreet.com/report/9108389)
 - Please consider removing the base of this unused sign, 14th March :- [9108366](https://www.fixmystreet.com/report/9108366)
 - Keep left sign turned ,45 degreea, 14th March :- [9108354](https://www.fixmystreet.com/report/9108354)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Pothole, 14th March :- [9108006](https://www.fixmystreet.com/report/9108006)
 - Dumped rubbish, 14th March :- [9107656](https://www.fixmystreet.com/report/9107656)
 - 45cm x 60cm pothole, 14th March :- [9107436](https://www.fixmystreet.com/report/9107436)
-- Large piece of electrical equipment dumped, 14th March :- [9106957](https://www.fixmystreet.com/report/9106957)
-- Super dangerous. Just saw someone s tyre go into this, 14th March :- [9106848](https://www.fixmystreet.com/report/9106848)
-- Bricks loose in road, 14th March :- [9106713](https://www.fixmystreet.com/report/9106713)
-- Two bed bases dumped, 14th March :- [9106674](https://www.fixmystreet.com/report/9106674)
-- Car not moved for months, 14th March :- [9106539](https://www.fixmystreet.com/report/9106539)
-- 14inch pothole outside 8 Barksdale, 14th March :- [9106528](https://www.fixmystreet.com/report/9106528)
 
 <!-- fix_marker ends -->

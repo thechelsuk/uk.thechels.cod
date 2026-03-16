@@ -22,50 +22,29 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 15 March 2026, especially near Cerney Wick. The forecast is for isolated showers this evening and overnight. Further rain is forecast for Monday. River levels are falling slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
+River levels are high on the River Churn. Flooding of low lying land and roads is expected to continue today, 16 March 2026, especially near Cerney Wick. The forecast is for a mostly dry day today and a dry day tomorrow. River levels are falling slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels.
 
-This message will be updated by 11:00AM on 16 March 2026, or as the situation changes.
+This message will be updated by 6:00PM on 16 March 2026, or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding.
 
-River levels are high on the River Windrush. Flooding of low lying land and roads is expected to continue today, 15 March 2026, including the areas around Bourton on the Water and Newbridge. The forecast is for isolated showers this evening and overnight. Further rain is forecast for Monday. River levels are high but falling very slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
+River levels are high on the River Windrush. Flooding of low lying land and roads is expected to continue today, 16 March 2026, including the areas around Bourton on the Water and Newbridge. The forecast is for a mostly dry day today and a dry day tomorrow. River levels are high but falling very slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels.
 
-This message will be updated by 11:00AM on 16 March 2026, or as the situation changes.
-
-- Warning no longer in force: River Dikler from Condicote to Little Rissington
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.  
-
-
-- Warning no longer in force: River Leadon catchment
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: River Wye in Herefordshire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
+This message will be updated by 6:00PM on 16 March 2026, or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding.
 
-River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 15 March 2026, especially in the area around Fossebridge. The forecast is for isolated showers this evening and overnight. Further rain is forecast for Monday. River levels are high but falling very slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
+River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 16 March 2026, especially in the area around Fossebridge. The forecast is for a mostly dry day today and a dry day tomorrow. River levels are high but falling very slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels.
 
-This message will be updated by 11:00AM on 16 March 2026, or as the situation changes.
+This message will be updated by 6:00PM on 16 March 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

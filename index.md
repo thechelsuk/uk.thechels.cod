@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 15 March 2026
+## On Monday, 16 March 2026
 
-- The average temperature today is 5.76˚C,
-- With highs of 6.66˚C and lows of 5.38˚C,
-- It may feel like 5.76˚C with scattered clouds
+- The average temperature today is 5.12˚C,
+- With highs of 6.1˚C and lows of 4.26˚C,
+- It may feel like 5.12˚C with few clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 80%
-- The sun will rise at 06:23 and set at 18:11
+- The pressure is 1013hPa and humidity is 82%
+- The sun will rise at 06:20 and set at 18:13
 
 <!-- weather_marker ends -->
 

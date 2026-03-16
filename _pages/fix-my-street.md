@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes you could park a car in . If I fell in I wouldn't be able to climb out. My car has to be fit for roads but roads are never fit for cars, 15th March :- [9112212](https://www.fixmystreet.com/report/9112212)
 - Potholes, 15th March :- [9112023](https://www.fixmystreet.com/report/9112023)
 - Obscured by vegetation, 15th March :- [9112010](https://www.fixmystreet.com/report/9112010)
 - Please consider removing the Signal timings changed. It has been there more than 5 years, 15th March :- [9111880](https://www.fixmystreet.com/report/9111880)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Series of potholes, 15th March :- [9109302](https://www.fixmystreet.com/report/9109302)
 - Deep, dangerous abd damaging pothole, 15th March :- [9109279](https://www.fixmystreet.com/report/9109279)
 - Sign broken off and no clear route, 15th March :- [9108980](https://www.fixmystreet.com/report/9108980)
-- Missing sign and path overgrown, 15th March :- [9108960](https://www.fixmystreet.com/report/9108960)
 
 <!-- fix_marker ends -->

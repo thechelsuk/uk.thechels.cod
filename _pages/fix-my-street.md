@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- From the race course round about onto Swindon lane before paddocks lane turning, 16th March :- [9118401](https://www.fixmystreet.com/report/9118401)
+- Potholes on both lanes on A40 Cheltenham to Burford direction, 16th March :- [9118353](https://www.fixmystreet.com/report/9118353)
 - A lot of cardboard and different rubbish on pavement Russell street outside no 20, 16th March :- [9117641](https://www.fixmystreet.com/report/9117641)
 - Deep pothole, 16th March :- [9117387](https://www.fixmystreet.com/report/9117387)
 - Tree is damaged problem, 16th March :- [9117578](https://www.fixmystreet.com/report/9117578)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overgrown trees in garden, 16th March :- [9116646](https://www.fixmystreet.com/report/9116646)
 - TMC - Defects -CW6 Potholes  problem, 16th March :- [9116861](https://www.fixmystreet.com/report/9116861)
 - TMC - Defects -CW6 Potholes  problem, 16th March :- [9116860](https://www.fixmystreet.com/report/9116860)
-- Suspension damaging, 16th March :- [9116530](https://www.fixmystreet.com/report/9116530)
-- TMC - Defects - Other problem, 16th March :- [9116229](https://www.fixmystreet.com/report/9116229)
 
 <!-- fix_marker ends -->

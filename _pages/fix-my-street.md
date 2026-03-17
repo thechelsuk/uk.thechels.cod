@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Significant depression in carriageway, 16th March :- [9118980](https://www.fixmystreet.com/report/9118980)
+- Loose and broken manhole cover opposite 70 Bournside Road, 16th March :- [9118838](https://www.fixmystreet.com/report/9118838)
+- Deep pothole RHS going down hill from Kilkenny pub to Foxcote village. W3W cubs.flagpole.otters. 2 feet x 15" and 4-6 inches deep., 16th March :- [9118821](https://www.fixmystreet.com/report/9118821)
 - From the race course round about onto Swindon lane before paddocks lane turning, 16th March :- [9118401](https://www.fixmystreet.com/report/9118401)
 - Potholes on both lanes on A40 Cheltenham to Burford direction, 16th March :- [9118353](https://www.fixmystreet.com/report/9118353)
 - A lot of cardboard and different rubbish on pavement Russell street outside no 20, 16th March :- [9117641](https://www.fixmystreet.com/report/9117641)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 16th March :- [9116864](https://www.fixmystreet.com/report/9116864)
 - Large pothole in centre of road, 16th March :- [9116691](https://www.fixmystreet.com/report/9116691)
 - Stump of tree removed by trees dept. Large cone left by contractor but no remedial work completed to the pavement, 16th March :- [9116641](https://www.fixmystreet.com/report/9116641)
-- Overgrown trees in garden, 16th March :- [9116646](https://www.fixmystreet.com/report/9116646)
-- TMC - Defects -CW6 Potholes  problem, 16th March :- [9116861](https://www.fixmystreet.com/report/9116861)
-- TMC - Defects -CW6 Potholes  problem, 16th March :- [9116860](https://www.fixmystreet.com/report/9116860)
 
 <!-- fix_marker ends -->

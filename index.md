@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 17 March 2026
 
-- The average temperature today is 9.73˚C,
-- With highs of 9.84˚C and lows of 8.8˚C,
-- It may feel like 9.73˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 83%
+- The average temperature today is 8.7˚C,
+- With highs of 8.7˚C and lows of 8.7˚C,
+- It may feel like 6.98˚C with clear sky
+- The wind speed is 2.96m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 88%
 - The sun will rise at 06:18 and set at 18:15
 
 <!-- weather_marker ends -->

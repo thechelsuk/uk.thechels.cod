@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Continuos potholes, 17th March :- [9126659](https://www.fixmystreet.com/report/9126659)
+- Pothole close to 1 Mead Road, 17th March :- [9126438](https://www.fixmystreet.com/report/9126438)
+- Pothole outside 39 mead Road, 17th March :- [9126435](https://www.fixmystreet.com/report/9126435)
 - No access for footpath, 17th March :- [9126256](https://www.fixmystreet.com/report/9126256)
 - Cycle Barrier has been bent limiting access to wheelchair user/s, 17th March :- [9126054](https://www.fixmystreet.com/report/9126054)
 - 8 inches wide, shoe box depth and growing daily on curb edge of pavement outside residential gate, 17th March :- [9125846](https://www.fixmystreet.com/report/9125846)
@@ -24,10 +27,7 @@ permalink: /fix-my-street
 - Large potholes which are unavoidable without endangering oncoming traffic., 17th March :- [9124615](https://www.fixmystreet.com/report/9124615)
 - TMC - Defects - Other FW6  Surface problem, 17th March :- [9124449](https://www.fixmystreet.com/report/9124449)
 - TMC - Defects - Footways Slabs problem, 17th March :- [9124450](https://www.fixmystreet.com/report/9124450)
-- TMC - Defects - Other FW6  Surface problem, 17th March :- [9124446](https://www.fixmystreet.com/report/9124446)
-- TMC - Defects - Other FW6  Surface problem, 17th March :- [9124445](https://www.fixmystreet.com/report/9124445)
-- TMC - Defects - Footways Slabs problem, 17th March :- [9124441](https://www.fixmystreet.com/report/9124441)
-- TMC - Defects - Other FW6  Surface problem, 17th March :- [9124440](https://www.fixmystreet.com/report/9124440)
 - TMC - Defects - Other FW6  Surface problem, 17th March :- [9124448](https://www.fixmystreet.com/report/9124448)
+- TMC - Defects - Other FW6  Surface problem, 17th March :- [9124444](https://www.fixmystreet.com/report/9124444)
 
 <!-- fix_marker ends -->

@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -15,184 +15,184 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
-<title>TMC - Defects - Footways Slabs problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122937</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x1 raised rocking  broken 600x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122937&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122937</guid>
-<pubDate>Tue, 17 Mar 2026 12:51:15 +0000</pubDate>
-<georss:point>51.8811443000002 -2.07122460001016</georss:point>
+<title>The drain is blocked problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124154</link>
+<description>Please pass to AHR&amp;#10;Please arrange visit.  Issues with drainage and along this road. Can drainage be reviewed, along parts of road running water has caused a lot of issues. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124154&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The drain is blocked</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124154</guid>
+<pubDate>Tue, 17 Mar 2026 14:58:27 +0000</pubDate>
+<georss:point>51.868835 -2.090613</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124209</link>
+<description>Perm for ENWD&amp;#10;Edge deterioration CW&amp;#10;1200x600x100mm approx&amp;#10;Road closure &amp;#10;X 1 NSD (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124209&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124209</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:09 +0000</pubDate>
+<georss:point>51.868791 -2.09054389999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124207</link>
+<description>Perm for ENWD&amp;#10;Edge deterioration CW&amp;#10;1000x700x100mm approx&amp;#10;Road closure&amp;#10;X 1 NSD (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124207&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124207</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8687734 -2.09055699999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124205</link>
+<description>Perm for ENWD&amp;#10;Edge deterioration CW&amp;#10;1200x700x100mm approx&amp;#10;Road closure (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124205&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124205</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8686522 -2.0904556</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124201</link>
+<description>Perm for ENWD&amp;#10;15db&amp;#10;Edge deterioration CW&amp;#10;2000x600x90mm approx&amp;#10;Road closure with 15db (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124201&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124201</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8685385 -2.09038340000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124197</link>
+<description>Pothole CW&amp;#10;600x400x50mm approx&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124197&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124197</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8681996 -2.09022870000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124206</link>
+<description>ENWD&amp;#10;15db&amp;#10;Edge deterioration CW&amp;#10;1000x700x100mm approx&amp;#10;Road closure with 15db (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124206&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124206</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8687682 -2.09055600000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124208</link>
+<description>ENWD&amp;#10;15db&amp;#10;Edge deterioration CW&amp;#10;1200x600x100mm approx&amp;#10;Road closure with 15db (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124208&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124208</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.868795 -2.0905801</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124204</link>
+<description>ENWD&amp;#10;15db&amp;#10;Edge deterioration CW&amp;#10;1200x700x100mm approx&amp;#10;Road closure with 15db (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124204&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124204</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8686564 -2.09045540000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124203</link>
+<description>Perm for ENWD&amp;#10;15db&amp;#10;Edge deterioration CW&amp;#10;2000x600x90mm approx&amp;#10;Road closure with 15db &amp;#10;X 2 NSD (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124203&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124203</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8686118 -2.09045770000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124202</link>
+<description>ENWD&amp;#10;15db&amp;#10;Edge deterioration CW&amp;#10;2000x600x90mm approx&amp;#10;Road closure with 15db (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124202&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124202</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8686349 -2.090435</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124199</link>
+<description>Pothole CW&amp;#10;600x500x50mm approx&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124199&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124199</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8685053 -2.09037740000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124200</link>
+<description>ENWD&amp;#10;15db&amp;#10;Edge deterioration CW&amp;#10;2000x600x90mm approx&amp;#10;Road closure with 15db (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124200&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124200</guid>
+<pubDate>Tue, 17 Mar 2026 14:54:08 +0000</pubDate>
+<georss:point>51.8685456 -2.09038560000002</georss:point>
+</item>
+<item>
+<title>Pavement removed, 17th March</title>
+<link>https://www.fixmystreet.com/report/9123999</link>
+<description>Pavement surface removed to access water stopcock and has not been re-instated.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9123999.0.jpeg?9ef052cf&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 324, London Road, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9123999&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9123999</guid>
+<pubDate>Tue, 17 Mar 2026 14:49:41 +0000</pubDate>
+<georss:point>51.885189 -2.047568</georss:point>
+</item>
+<item>
+<title>Failed re-instatement, 17th March</title>
+<link>https://www.fixmystreet.com/report/9123944</link>
+<description>I believe the road was dug by city fibre continuing fibre across the road. The re-instatement is failing. When a bus or other large vehicle travels over the strip our property &amp;quot;JUMPS&amp;quot;. This is very disturbing when you are inside the building. The movement is causing cracks in our building.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9123944.0.jpeg?f9858a95&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 100, Saint Georges Place, Montpellier, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9123944&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>A pothole in road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9123944</guid>
+<pubDate>Tue, 17 Mar 2026 14:42:59 +0000</pubDate>
+<georss:point>51.899172 -2.08044</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124182</link>
+<description>Road closure  28 day carriage way pothole 600x600x50mm  number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124182&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124182</guid>
+<pubDate>Tue, 17 Mar 2026 14:38:14 +0000</pubDate>
+<georss:point>51.8950334210367 -2.07374911236081</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9124160</link>
+<description>28 day under give and take CW pothole 900x800x50mm permanent repair &amp;#10;No parking cones (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9124160&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9124160</guid>
+<pubDate>Tue, 17 Mar 2026 14:35:36 +0000</pubDate>
+<georss:point>51.9120368279969 -2.05801273830569</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 17th March</title>
+<link>https://www.fixmystreet.com/report/9123900</link>
+<description>Road closure  28 day carriage way pothole 600x300x60mm  number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9123900&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9123900</guid>
+<pubDate>Tue, 17 Mar 2026 14:33:47 +0000</pubDate>
+<georss:point>51.8953535 -2.07494569999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122936</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x2 sunken 600x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122936&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9123891</link>
+<description>28DAY STATS &amp;#10;FW Abrupt Level Differences Approx 300x200x20mm&amp;#10;Give and Take with Temporary Fw Closure boards TM &amp;#10;Outside school traffic hrs between 10am and 2pm (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9123891&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122936</guid>
-<pubDate>Tue, 17 Mar 2026 12:50:27 +0000</pubDate>
-<georss:point>51.8814537 -2.07173619999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9123891</guid>
+<pubDate>Tue, 17 Mar 2026 14:23:45 +0000</pubDate>
+<georss:point>51.8853633 -2.18191620000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122935</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x1 sunken 600x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122935&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9123890</link>
+<description>28DAY STATS &amp;#10;FW Abrupt Level Differences Approx 500x200x20mm&amp;#10;Give and Take with Temporary Fw Closure boards TM &amp;#10;Outside school traffic hrs between 10am and 2pm (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9123890&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122935</guid>
-<pubDate>Tue, 17 Mar 2026 12:49:56 +0000</pubDate>
-<georss:point>51.8813477 -2.07154680000163</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122934</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and replace x1 sunken  broken 600x600x20mm slab number 2 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122934&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122934</guid>
-<pubDate>Tue, 17 Mar 2026 12:49:46 +0000</pubDate>
-<georss:point>51.8813301 -2.07151120000101</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122933</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x1 sunken 600x600x22mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122933&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122933</guid>
-<pubDate>Tue, 17 Mar 2026 12:49:34 +0000</pubDate>
-<georss:point>51.8812974 -2.07147170000009</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122928</link>
-<description>Permanent repair Give and take  plus temporary footway closure  28 day  please lift and relay x1 raised  900x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122928&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122928</guid>
-<pubDate>Tue, 17 Mar 2026 12:38:42 +0000</pubDate>
-<georss:point>51.8816479 -2.07199110000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122927</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x1 raised  900x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122927&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122927</guid>
-<pubDate>Tue, 17 Mar 2026 12:38:30 +0000</pubDate>
-<georss:point>51.8816172 -2.07197060000071</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122925</link>
-<description>Give and take  plus temporary footway closure  28 day  please tarmac parch over tree roots 3000x1500x30mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122925&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122925</guid>
-<pubDate>Tue, 17 Mar 2026 12:38:08 +0000</pubDate>
-<georss:point>51.8818722 -2.07232599999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122924</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and replace x1 broken raised 900x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122924&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122924</guid>
-<pubDate>Tue, 17 Mar 2026 12:37:52 +0000</pubDate>
-<georss:point>51.8819526 -2.07246220000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122921</link>
-<description>Give and take  plus temporary footway closure  28 day  please use concrete fillet around stw cover 300x300x25mm (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122921&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122921</guid>
-<pubDate>Tue, 17 Mar 2026 12:37:16 +0000</pubDate>
-<georss:point>51.8823838 -2.07316260000074</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122918</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x1 sunken rocking 300x600x25mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122918&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122918</guid>
-<pubDate>Tue, 17 Mar 2026 12:37:07 +0000</pubDate>
-<georss:point>51.8824645 -2.07327400000186</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122917</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x2 raised rocking 300x600x25mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122917&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122917</guid>
-<pubDate>Tue, 17 Mar 2026 12:36:53 +0000</pubDate>
-<georss:point>51.8824738772444 -2.07333392275676</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122916</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x5 raised rocking 600x600x22mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122916&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122916</guid>
-<pubDate>Tue, 17 Mar 2026 12:36:36 +0000</pubDate>
-<georss:point>51.8824726571138 -2.07332389463949</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122914</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and replace x1 broken  rocking 300x600x20mm slab cutting my be required (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122914&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122914</guid>
-<pubDate>Tue, 17 Mar 2026 12:36:15 +0000</pubDate>
-<georss:point>51.882471353322 -2.07328936001001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122913</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x2 raised 600x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122913&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122913</guid>
-<pubDate>Tue, 17 Mar 2026 12:35:58 +0000</pubDate>
-<georss:point>51.8825684480256 -2.07344974220255</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122664</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and replace x1 broken raised rocking 900x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122664&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122664</guid>
-<pubDate>Tue, 17 Mar 2026 12:35:43 +0000</pubDate>
-<georss:point>51.8825646000001 -2.07348420000261</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122663</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and replace x1 broken raised rocking 900x600x20mm slab (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122663&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122663</guid>
-<pubDate>Tue, 17 Mar 2026 12:35:30 +0000</pubDate>
-<georss:point>51.8826055 -2.07355540000089</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122662</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x1 raised 900x600x20mm slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122662&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122662</guid>
-<pubDate>Tue, 17 Mar 2026 12:35:13 +0000</pubDate>
-<georss:point>51.8826541 -2.07365000000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122661</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x1 raised 600x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122661&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122661</guid>
-<pubDate>Tue, 17 Mar 2026 12:35:03 +0000</pubDate>
-<georss:point>51.8826716000001 -2.07367380000234</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 17th March</title>
-<link>https://www.fixmystreet.com/report/9122660</link>
-<description>Give and take  plus temporary footway closure  28 day  please lift and relay x1 raised 900x600x20mm slab (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9122660&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9122660</guid>
-<pubDate>Tue, 17 Mar 2026 12:34:42 +0000</pubDate>
-<georss:point>51.8826965617971 -2.07389699494306</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9123890</guid>
+<pubDate>Tue, 17 Mar 2026 14:23:44 +0000</pubDate>
+<georss:point>51.8853974 -2.18116889999999</georss:point>
 </item>
 </channel>
 </rss>

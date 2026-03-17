@@ -29,20 +29,20 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding.
 
-River levels are high on the River Windrush. Flooding of low lying land and roads is expected to continue today, 17 March 2026, including the areas around Bourton on the Water and Newbridge. The forecast is for a dry day today and tomorrow. River levels are high but falling very slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
+River levels are high on the River Windrush. Flooding of low lying land and roads is expected to continue today, 17 March 2026, including the areas around Bourton on the Water and Newbridge. The forecast is for it to be dry this evening, overnight and tomorrow. River levels are high but falling very slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels.
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 6:00PM on 17 March 2026, or as the situation changes.
+This message will be updated by 11:00AM on 18 March 2026, or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding.
 
-River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 17 March 2026, especially in the area around Fossebridge. The forecast is for a dry day today and tomorrow. River levels are high but falling very slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
+River levels are high on the River Coln. Flooding of low lying land and roads is expected to continue today, 17 March 2026, especially in the area around Fossebridge. The forecast is for it to be dry this evening, overnight and tomorrow. River levels are high but falling very slowly. We expect river levels to continue to fall gradually over the coming days. River levels are sensitive to further rainfall.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels.
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 6:00PM on 17 March 2026, or as the situation changes.
+This message will be updated by 11:00AM on 18 March 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

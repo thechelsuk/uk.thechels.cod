@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole on approach to roundabout, 17th March :- [9120341](https://www.fixmystreet.com/report/9120341)
+- Series of potholes/broken road, 17th March :- [9120322](https://www.fixmystreet.com/report/9120322)
+- Multiple potholes on BOTH mini roundabouts - making driving dangerous!, 17th March :- [9120287](https://www.fixmystreet.com/report/9120287)
+- Overgrown ivy on trees - lots of debris on pavement from trees, 17th March :- [9120244](https://www.fixmystreet.com/report/9120244)
+- A number of very significant potholes, one of which in particular caused a very significant bang from my near side wheel., 17th March :- [9120154](https://www.fixmystreet.com/report/9120154)
+- Dead bird on side of the road on Lavender Road, 17th March :- [9119865](https://www.fixmystreet.com/report/9119865)
+- Pot hole deepening by the day, 17th March :- [9119821](https://www.fixmystreet.com/report/9119821)
+- Large cluster potholes with one larger in diameter and depth, 17th March :- [9119790](https://www.fixmystreet.com/report/9119790)
 - Significant depression in carriageway, 16th March :- [9118980](https://www.fixmystreet.com/report/9118980)
 - Loose and broken manhole cover opposite 70 Bournside Road, 16th March :- [9118838](https://www.fixmystreet.com/report/9118838)
 - Deep pothole RHS going down hill from Kilkenny pub to Foxcote village. W3W cubs.flagpole.otters. 2 feet x 15" and 4-6 inches deep., 16th March :- [9118821](https://www.fixmystreet.com/report/9118821)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Eight foot square are of risible patchwork., 16th March :- [9117186](https://www.fixmystreet.com/report/9117186)
 - A pothole in road problem, 16th March :- [9117350](https://www.fixmystreet.com/report/9117350)
 - A pothole in road problem, 16th March :- [9117349](https://www.fixmystreet.com/report/9117349)
-- Drain in alley blocked, 16th March :- [9117239](https://www.fixmystreet.com/report/9117239)
-- Green left filter light is not working again, 16th March :- [9117192](https://www.fixmystreet.com/report/9117192)
-- Highland road Pothole has increased in size, 16th March :- [9116999](https://www.fixmystreet.com/report/9116999)
-- Multiple Puncture Making Holes, 16th March :- [9116944](https://www.fixmystreet.com/report/9116944)
-- Tree is damaged problem, 16th March :- [9117114](https://www.fixmystreet.com/report/9117114)
-- TMC - Defects - Vegetation problem, 16th March :- [9116864](https://www.fixmystreet.com/report/9116864)
-- Large pothole in centre of road, 16th March :- [9116691](https://www.fixmystreet.com/report/9116691)
-- Stump of tree removed by trees dept. Large cone left by contractor but no remedial work completed to the pavement, 16th March :- [9116641](https://www.fixmystreet.com/report/9116641)
 
 <!-- fix_marker ends -->

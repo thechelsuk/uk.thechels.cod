@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No access for footpath, 17th March :- [9126256](https://www.fixmystreet.com/report/9126256)
+- Cycle Barrier has been bent limiting access to wheelchair user/s, 17th March :- [9126054](https://www.fixmystreet.com/report/9126054)
 - 8 inches wide, shoe box depth and growing daily on curb edge of pavement outside residential gate, 17th March :- [9125846](https://www.fixmystreet.com/report/9125846)
 - Extensive deep wide pothole about two car lengths, 17th March :- [9125427](https://www.fixmystreet.com/report/9125427)
 - Problem resolved 17 March, 17th March :- [9125407](https://www.fixmystreet.com/report/9125407)
@@ -20,14 +22,12 @@ permalink: /fix-my-street
 - The man hole has sunk in the road and the sides are starting to break away. This causes our house to shake when vehicle run over it., 17th March :- [9124704](https://www.fixmystreet.com/report/9124704)
 - Large potholes which are unavoidable without endangering oncoming traffic., 17th March :- [9124681](https://www.fixmystreet.com/report/9124681)
 - Large potholes which are unavoidable without endangering oncoming traffic., 17th March :- [9124615](https://www.fixmystreet.com/report/9124615)
-- TMC - Defects - Footways Slabs problem, 17th March :- [9124450](https://www.fixmystreet.com/report/9124450)
 - TMC - Defects - Other FW6  Surface problem, 17th March :- [9124449](https://www.fixmystreet.com/report/9124449)
+- TMC - Defects - Footways Slabs problem, 17th March :- [9124450](https://www.fixmystreet.com/report/9124450)
 - TMC - Defects - Other FW6  Surface problem, 17th March :- [9124446](https://www.fixmystreet.com/report/9124446)
 - TMC - Defects - Other FW6  Surface problem, 17th March :- [9124445](https://www.fixmystreet.com/report/9124445)
-- TMC - Defects - Other FW6  Surface problem, 17th March :- [9124443](https://www.fixmystreet.com/report/9124443)
-- TMC - Defects - Other FW6  Surface problem, 17th March :- [9124440](https://www.fixmystreet.com/report/9124440)
 - TMC - Defects - Footways Slabs problem, 17th March :- [9124441](https://www.fixmystreet.com/report/9124441)
+- TMC - Defects - Other FW6  Surface problem, 17th March :- [9124440](https://www.fixmystreet.com/report/9124440)
 - TMC - Defects - Other FW6  Surface problem, 17th March :- [9124448](https://www.fixmystreet.com/report/9124448)
-- TMC - Defects - Other FW6  Surface problem, 17th March :- [9124447](https://www.fixmystreet.com/report/9124447)
 
 <!-- fix_marker ends -->

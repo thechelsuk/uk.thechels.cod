@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large potholes at entrance to Todpool house, 18th March :- [9143089](https://www.fixmystreet.com/report/9143089)
+- 3 potholes in road. Small but deep, 18th March :- [9142993](https://www.fixmystreet.com/report/9142993)
+- Pot holes, 18th March :- [9142910](https://www.fixmystreet.com/report/9142910)
+- Pothole, 18th March :- [9142887](https://www.fixmystreet.com/report/9142887)
+- Van parked illegally, 18th March :- [9142857](https://www.fixmystreet.com/report/9142857)
+- Fallen down trees on path, 18th March :- [9142756](https://www.fixmystreet.com/report/9142756)
 - Vehicular access to house blocked, 18th March :- [9142354](https://www.fixmystreet.com/report/9142354)
 - Unpermitted roadworks problem, 18th March :- [9140801](https://www.fixmystreet.com/report/9140801)
 - Dumping of clothes bags and rubbish, 18th March :- [9140015](https://www.fixmystreet.com/report/9140015)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 18th March :- [9137218](https://www.fixmystreet.com/report/9137218)
 - TMC - Defects -CW6 Potholes  problem, 18th March :- [9137216](https://www.fixmystreet.com/report/9137216)
 - TMC - Defects -FW6 Potholes problem, 18th March :- [9137207](https://www.fixmystreet.com/report/9137207)
-- TMC - Defects -CW6 Potholes  problem, 18th March :- [9135909](https://www.fixmystreet.com/report/9135909)
-- TMC - Defects -CW6 Potholes  problem, 18th March :- [9135906](https://www.fixmystreet.com/report/9135906)
-- TMC - Defects -CW6 Potholes  problem, 18th March :- [9135911](https://www.fixmystreet.com/report/9135911)
-- TMC - Defects -CW6 Potholes  problem, 18th March :- [9135910](https://www.fixmystreet.com/report/9135910)
-- TMC - Defects -CW6 Potholes  problem, 18th March :- [9135908](https://www.fixmystreet.com/report/9135908)
-- Large Inspection cover raised, 18th March :- [9135197](https://www.fixmystreet.com/report/9135197)
 
 <!-- fix_marker ends -->

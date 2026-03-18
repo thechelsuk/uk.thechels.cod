@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 18 March 2026
 
-- The average temperature today is 15.57˚C,
-- With highs of 15.57˚C and lows of 15.57˚C,
-- It may feel like 14.72˚C with clear sky
-- The wind speed is 3.39m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 59%
+- The average temperature today is 12.88˚C,
+- With highs of 12.88˚C and lows of 12.88˚C,
+- It may feel like 12.13˚C with clear sky
+- The wind speed is 2.6m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 73%
 - The sun will rise at 06:16 and set at 18:16
 
 <!-- weather_marker ends -->

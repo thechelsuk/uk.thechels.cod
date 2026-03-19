@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple pot holes outside Ashley manor gates, 18th March :- [9143578](https://www.fixmystreet.com/report/9143578)
+- Street light not working Southfield rise, 18th March :- [9143408](https://www.fixmystreet.com/report/9143408)
+- Pot whole outside number 10/12, 18th March :- [9143399](https://www.fixmystreet.com/report/9143399)
 - Large potholes at entrance to Todpool house, 18th March :- [9143089](https://www.fixmystreet.com/report/9143089)
 - 3 potholes in road. Small but deep, 18th March :- [9142993](https://www.fixmystreet.com/report/9142993)
 - Pot holes, 18th March :- [9142910](https://www.fixmystreet.com/report/9142910)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Rattling manhole cover, 18th March :- [9138236](https://www.fixmystreet.com/report/9138236)
 - Fly tipped radiator, 18th March :- [9136511](https://www.fixmystreet.com/report/9136511)
 - Flytipping of electrical equipment including fridges and commercial printer as well as other items, 18th March :- [9136485](https://www.fixmystreet.com/report/9136485)
-- TMC - Defects -CW6 Potholes  problem, 18th March :- [9137218](https://www.fixmystreet.com/report/9137218)
-- TMC - Defects -CW6 Potholes  problem, 18th March :- [9137216](https://www.fixmystreet.com/report/9137216)
-- TMC - Defects -FW6 Potholes problem, 18th March :- [9137207](https://www.fixmystreet.com/report/9137207)
 
 <!-- fix_marker ends -->

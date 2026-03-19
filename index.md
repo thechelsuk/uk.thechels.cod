@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 19 March 2026
 
-- The average temperature today is 3.89˚C,
-- With highs of 3.89˚C and lows of 3.89˚C,
-- It may feel like 2.17˚C with clear sky
-- The wind speed is 1.91m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 84%
+- The average temperature today is 8.85˚C,
+- With highs of 10.47˚C and lows of 8.15˚C,
+- It may feel like 8.85˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 75%
 - The sun will rise at 06:13 and set at 18:18
 
 <!-- weather_marker ends -->

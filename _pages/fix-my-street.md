@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin storage structure built on public pavement., 19th March :- [9150861](https://www.fixmystreet.com/report/9150861)
 - Several pot holes which keep geeting repaired and then have failed a month later .this has happened several times .needs fixing properley .7 pot holes in total ./, 19th March :- [9150222](https://www.fixmystreet.com/report/9150222)
 - Dangerous loose manhole cover in the middle of the hare and hounds junction, 19th March :- [9150212](https://www.fixmystreet.com/report/9150212)
 - Large area of missing tarmac as cars turn, 19th March :- [9149962](https://www.fixmystreet.com/report/9149962)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Small Pothole on Lobleys Drive, 19th March :- [9148628](https://www.fixmystreet.com/report/9148628)
 - Small Pothole on Lobleys Drive, 19th March :- [9148600](https://www.fixmystreet.com/report/9148600)
 - Small Pothole on Lobleys Drive, 19th March :- [9148593](https://www.fixmystreet.com/report/9148593)
-- A pothole in road problem, 19th March :- [9148635](https://www.fixmystreet.com/report/9148635)
 
 <!-- fix_marker ends -->

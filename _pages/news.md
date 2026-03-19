@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'US bombers make my house shake' ([3 hours ago](https://www.bbc.com/news/articles/czx9lrk0vn8o?at_medium=RSS&at_campaign=rss))
-- Man who told ex to clean-up blood during attack jailed ([3 hours ago](https://www.bbc.com/news/articles/cx2wn582en4o?at_medium=RSS&at_campaign=rss))
-- Approval for ‘brilliant’ plans for new 200-pupil special school ([4 hours ago](https://gloucesternewscentre.co.uk/approval-for-brilliant-plans-for-new-200-pupil-special-school/))
-- Rail delays expected after bus crashes into bridge ([4 hours ago](https://www.bbc.com/news/articles/crm1wzg3980o?at_medium=RSS&at_campaign=rss))
-- Road surface 'a disgrace' after pipe collapse ([8 hours ago](https://www.bbc.com/news/articles/cwyk44pw82go?at_medium=RSS&at_campaign=rss))
-- Pensioner injured as scooter topples into pothole ([14 hours ago](https://www.bbc.com/news/articles/c4g2n5ky1kno?at_medium=RSS&at_campaign=rss))
+- 'US bombers make my house shake' ([5 hours ago](https://www.bbc.com/news/articles/czx9lrk0vn8o?at_medium=RSS&at_campaign=rss))
+- Man who told ex to clean-up blood during attack jailed ([5 hours ago](https://www.bbc.com/news/articles/cx2wn582en4o?at_medium=RSS&at_campaign=rss))
+- Approval for ‘brilliant’ plans for new 200-pupil special school ([6 hours ago](https://gloucesternewscentre.co.uk/approval-for-brilliant-plans-for-new-200-pupil-special-school/))
+- Rail delays expected after bus crashes into bridge ([6 hours ago](https://www.bbc.com/news/articles/crm1wzg3980o?at_medium=RSS&at_campaign=rss))
+- Road surface 'a disgrace' after pipe collapse ([10 hours ago](https://www.bbc.com/news/articles/cwyk44pw82go?at_medium=RSS&at_campaign=rss))
+- Pensioner injured as scooter topples into pothole ([16 hours ago](https://www.bbc.com/news/articles/c4g2n5ky1kno?at_medium=RSS&at_campaign=rss))
 - County hopes to benefit from Bristol's prosperity ([1 days ago](https://www.bbc.com/news/articles/c1mjm8kxjdro?at_medium=RSS&at_campaign=rss))
 - New town plans labelled a 'horror story' ([1 days ago](https://www.bbc.com/news/articles/cvg52yw1ve8o?at_medium=RSS&at_campaign=rss))
 - Calls for road repairs in Cheltenham street ([1 days ago](https://gloucesternewscentre.co.uk/calls-for-road-repairs-in-cheltenham-street/))

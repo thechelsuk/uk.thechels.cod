@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several pot holes which keep geeting repaired and then have failed a month later .this has happened several times .needs fixing properley .7 pot holes in total ./, 19th March :- [9150222](https://www.fixmystreet.com/report/9150222)
+- Dangerous loose manhole cover in the middle of the hare and hounds junction, 19th March :- [9150212](https://www.fixmystreet.com/report/9150212)
+- Large area of missing tarmac as cars turn, 19th March :- [9149962](https://www.fixmystreet.com/report/9149962)
+- Bridge height restriction sign misaligned, 19th March :- [9149767](https://www.fixmystreet.com/report/9149767)
+- Obvious road pothole in south bound carriageway., 19th March :- [9149662](https://www.fixmystreet.com/report/9149662)
 - Crumbling pavements and potholes both sides of the road., 19th March :- [9149466](https://www.fixmystreet.com/report/9149466)
 - 2 shopping trolleys in the Brook, 19th March :- [9149461](https://www.fixmystreet.com/report/9149461)
 - Lots of bottles and glass bottles duimoed in the corner of the public car park at Wymans Brook, 19th March :- [9149369](https://www.fixmystreet.com/report/9149369)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Small Pothole on Lobleys Drive, 19th March :- [9148600](https://www.fixmystreet.com/report/9148600)
 - Small Pothole on Lobleys Drive, 19th March :- [9148593](https://www.fixmystreet.com/report/9148593)
 - A pothole in road problem, 19th March :- [9148635](https://www.fixmystreet.com/report/9148635)
-- Small Pothole on Lobleys Drive Motorway Bridge, 19th March :- [9148509](https://www.fixmystreet.com/report/9148509)
-- A pothole in road problem, 19th March :- [9148634](https://www.fixmystreet.com/report/9148634)
-- Small Pothole on Lobleys Drive, 19th March :- [9148494](https://www.fixmystreet.com/report/9148494)
-- Small Pothole on Lobleys Drive, 19th March :- [9148483](https://www.fixmystreet.com/report/9148483)
-- 70cm Pothole on Lobleys Drive, 19th March :- [9148472](https://www.fixmystreet.com/report/9148472)
 
 <!-- fix_marker ends -->

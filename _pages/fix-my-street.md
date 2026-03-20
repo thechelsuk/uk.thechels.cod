@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep gouge in roadway, 20th March :- [9157007](https://www.fixmystreet.com/report/9157007)
+- Big potholes, 20th March :- [9156960](https://www.fixmystreet.com/report/9156960)
+- Two potholes at the junction of Billings Way with Merestones Drive, 20th March :- [9156850](https://www.fixmystreet.com/report/9156850)
+- Flytipped mattress, 20th March :- [9156641](https://www.fixmystreet.com/report/9156641)
+- Broken road outside farm, 20th March :- [9156479](https://www.fixmystreet.com/report/9156479)
 - Following recent resurfacing works, the previous tarmac edge/lip preventing water runoff onto our driveway has been removed. Surface water now flows directly onto private property., 20th March :- [9156330](https://www.fixmystreet.com/report/9156330)
 - The drain is blocked problem, 20th March :- [9156400](https://www.fixmystreet.com/report/9156400)
 - No road marking in right-hand lane, 20th March :- [9156106](https://www.fixmystreet.com/report/9156106)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Massive pothole, 20th March :- [9153996](https://www.fixmystreet.com/report/9153996)
 - 6cm pothole, 20th March :- [9153983](https://www.fixmystreet.com/report/9153983)
 - Pedestrian button kept deactivating, 20th March :- [9153884](https://www.fixmystreet.com/report/9153884)
-- TMC - Defects - Other problem, 20th March :- [9154140](https://www.fixmystreet.com/report/9154140)
-- A pothole in road problem, 20th March :- [9153864](https://www.fixmystreet.com/report/9153864)
-- TMC - Defects -CW6 Potholes  problem, 20th March :- [9153873](https://www.fixmystreet.com/report/9153873)
-- TMC - Defects -CW6 Potholes  problem, 20th March :- [9153872](https://www.fixmystreet.com/report/9153872)
-- TMC - Defects -CW6 Potholes  problem, 20th March :- [9153871](https://www.fixmystreet.com/report/9153871)
 
 <!-- fix_marker ends -->

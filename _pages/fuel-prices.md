@@ -8,3 +8,5 @@ permalink: /fuel-prices
 ---
 
 This project fetches fuel price data from gov.uk for the Cheltenham area and 20 mile radius and is updated daily. We accept no responsibility for the accuracy of the data, and recommend checking before making unnecessary journeys.
+
+**Click the column headers to sort.**

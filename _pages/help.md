@@ -2,10 +2,12 @@
 
 layout: page
 title: Help
-seo: helpful phone numbers in Cheltenham
+seo: helpful phone numbers and contacts in Cheltenham
 permalink: /helpful
 
 ---
+
+Some useful contacts and resources for cheltenham residents. If you have any suggestions for additions, get post about on the [r/Cheltenham subreddit](https://www.reddit.com/r/Cheltenham/).
 
 ## Water Incidents
 

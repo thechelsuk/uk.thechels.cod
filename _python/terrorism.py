@@ -23,15 +23,12 @@ if __name__ == "__main__":
 
             level_class = level.split()[-1]
 
-        string = f'<div class="{level_class}">\n'
-        string +=  f'<h3>{level_class}</h3>\n'
-        string += f'</div>\n'
-        string += f'<ul>\n'
-        string += f'<li>{level}</li>\n'
-        string += f'<li>It has been {days_since_update} days since the last change ({update})</li>\n'
-        string += f'<li>Details: {desc}</li>\n'
-        string += f'</ul>\n'
-        f = root / "_pages/terrorism.md"
+        string =  f'### {level_class}\n\n'
+        string += f'- {level}\n'
+        string += f'- It has been {days_since_update} days since the last change ({update})\n'
+        string += f'- Details: {desc}\n'
+
+        f = root / "index.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "threat_marker", string)
         f.open("w").write(c)

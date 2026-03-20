@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Thursday, 19 March 2026
+## On Friday, 20 March 2026
 
-- The average temperature today is 7.56˚C,
-- With highs of 7.56˚C and lows of 7.56˚C,
-- It may feel like 6.43˚C with overcast clouds
-- The wind speed is 1.91m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 82%
-- The sun will rise at 06:13 and set at 18:18
+- The average temperature today is 7.13˚C,
+- With highs of 8.32˚C and lows of 4.84˚C,
+- It may feel like 5.63˚C with clear sky
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 74%
+- The sun will rise at 06:11 and set at 18:20
 
 <!-- weather_marker ends -->
 

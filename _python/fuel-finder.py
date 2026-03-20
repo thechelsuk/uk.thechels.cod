@@ -34,10 +34,10 @@ PRICE_LOOKBACK_DAYS  = 60   # how far back the daily price fetch looks
 
 # Human-readable names for API fuel type codes
 FUEL_LABELS = {
-    "E5":           "Premium Unleaded",
+    "E5":           "Prem Unleaded",
     "E10":          "Unleaded",
     "B7_STANDARD":  "Diesel",
-    "B7_PREMIUM":   "Premium Diesel",
+    "B7_PREMIUM":   "Prem Diesel",
     "SDV5":         "Super Diesel",
 }
 
@@ -361,13 +361,16 @@ if __name__ == "__main__":
         print(f"Local stations with any known prices: {len(price_map)}")
 
         updated = datetime.datetime.now().strftime("%-d %B %Y at %H:%M")
+        layout_path = root / "_layouts" / "fuel.html"
 
         if not price_map:
-            output = f"*No price data yet for stations near Cheltenham. Last checked: {updated}*"
-            md = root / "_pages/fuel-prices.md"
-            md_contents = md.open().read()
-            md_contents = helper.replace_chunk(md_contents, "fuel_marker", output)
-            md.open("w").write(md_contents)
+            output = (
+                "<h2>Cheapest Fuel Data</h2>\n"
+                f"<p><em>No price data yet for stations near Cheltenham. Last checked: {html.escape(updated)}</em></p>"
+            )
+            layout_contents = layout_path.open().read()
+            layout_contents = helper.replace_chunk(layout_contents, "fuel_marker", output)
+            layout_path.open("w").write(layout_contents)
             print("No price data available — page updated with status message.")
             raise SystemExit(0)
 
@@ -402,12 +405,16 @@ if __name__ == "__main__":
             if ft not in cheapest:
                 continue
             c         = cheapest[ft]
-            brand_str = f" ({c['brand']})" if c["brand"] and c["brand"] != c["name"] else ""
-            addr_str  = f", {c['address']}" if c.get("address") else ""
-            hero_lines.append(f"### Cheapest {fuel_label(ft)}: {c['price']:.1f}p/L")
-            hero_lines.append("")
-            hero_lines.append(f"- {c['name']}{brand_str}{addr_str}")
-            hero_lines.append("")
+            name      = html.escape(c["name"])
+            brand     = html.escape(c["brand"]) if c.get("brand") else ""
+            address   = html.escape(c["address"]) if c.get("address") else ""
+            label     = html.escape(fuel_label(ft))
+            brand_str = f" ({brand})" if brand and c["brand"] != c["name"] else ""
+            addr_str  = f", {address}" if address else ""
+            hero_lines.append(f"<h3>Cheapest {label}: {c['price']:.1f}p/L</h3>")
+            hero_lines.append("<ul>")
+            hero_lines.append(f"  <li>{name}{brand_str}{addr_str}</li>")
+            hero_lines.append("</ul>")
 
         # 11. Render price table — all local stations sorted by distance then name
         fuel_label_cols = [fuel_label(ft) for ft in fuel_type_cols]
@@ -420,7 +427,7 @@ if __name__ == "__main__":
         # HTML table so columns carry data-val attributes for JS sort
         th_cells = "".join(
             f'<th data-col="{i}">{html.escape(col)}</th>'
-            for i, col in enumerate(["Station", "Address"] + fuel_label_cols + ["As of"])
+            for i, col in enumerate(["Station", "Address"] + fuel_label_cols + ["Last Updated"])
         )
         html_rows = [f'<table id="fuel-table"><thead><tr>{th_cells}</tr></thead><tbody>']
 
@@ -455,15 +462,15 @@ if __name__ == "__main__":
         html_rows.append("</tbody></table>")
 
         # 12. Assemble and write output
-        output  = "\n".join(hero_lines)
-        output += "\n## Full Local Data\n\n"
+        output  = "<h2>Cheapest Fuel Data</h2>\n\n"
+        output += "\n".join(hero_lines)
+        output += "\n<h2>Full Local Data</h2>\n\n"
         output += "\n".join(html_rows)
-        output += f"\n\n*Last updated: {updated}*"
+        output += f"\n\n<p><em>Last updated: {html.escape(updated)}</em></p>"
 
-        md = root / "_pages/fuel-prices.md"
-        md_contents = md.open().read()
-        md_contents = helper.replace_chunk(md_contents, "fuel_marker", output)
-        md.open("w").write(md_contents)
+        layout_contents = layout_path.open().read()
+        layout_contents = helper.replace_chunk(layout_contents, "fuel_marker", output)
+        layout_path.open("w").write(layout_contents)
         print("Fuel prices page updated successfully.")
 
     except FileNotFoundError:

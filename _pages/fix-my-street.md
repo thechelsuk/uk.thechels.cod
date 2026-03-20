@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- IRREGULAR POTHOLE NEXT TO CROSSING ENIYGJ CATCH FOOT, BIKE TIRE/Wheel, 20th March :- [9155075](https://www.fixmystreet.com/report/9155075)
+- TMC - Defects -CW6 Potholes  problem, 20th March :- [9154918](https://www.fixmystreet.com/report/9154918)
+- TMC - Defects -CW6 Potholes  problem, 20th March :- [9154649](https://www.fixmystreet.com/report/9154649)
 - Sunken pothole near 78 Gretton Road Winchcombe, 20th March :- [9154427](https://www.fixmystreet.com/report/9154427)
 - Large amount of rubbish dumped on top of hedge, 20th March :- [9154226](https://www.fixmystreet.com/report/9154226)
 - Traffic calming site 2 x large deep potholes dangerous and cannot be avoided, 20th March :- [9154048](https://www.fixmystreet.com/report/9154048)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 20th March :- [9153587](https://www.fixmystreet.com/report/9153587)
 - TMC - Defects -CW6 Potholes  problem, 20th March :- [9153630](https://www.fixmystreet.com/report/9153630)
 - TMC - Defects -other CW6 problem, 20th March :- [9153003](https://www.fixmystreet.com/report/9153003)
-- TMC - Defects -CW6 Potholes  problem, 20th March :- [9153002](https://www.fixmystreet.com/report/9153002)
-- TMC - Defects - Kerbs and Channels problem, 20th March :- [9153000](https://www.fixmystreet.com/report/9153000)
-- Flytipped mattress on pavement St George’s Street, 20th March :- [9152541](https://www.fixmystreet.com/report/9152541)
 
 <!-- fix_marker ends -->

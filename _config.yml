@@ -43,8 +43,10 @@ include:
 # Site Navigation
 ## Header
 navigation_header:
-  - name: Links
-    link: /links
+  - name: News
+    link: /news
+  - name: Help
+    link: /helpful
   - name: Cheapest Fuel Prices
     link: /fuel-prices
   - name: Fix My Street
@@ -57,7 +59,3 @@ navigation_header:
     link: /terrorism
   - name: Street Crime
     link: /street-crime
-  - name: News
-    link: /news
-  - name: Help
-    link: /helpful

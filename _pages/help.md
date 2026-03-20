@@ -7,6 +7,26 @@ permalink: /helpful
 
 ---
 
+## Water Incidents
+
+- [Severn Trent](https://www.stwater.co.uk/in-my-area/incidents/).
+
+## Cheltenham Spa Train Station
+
+- [Departures](https://www.nationalrail.co.uk/live-trains/departures/cheltenham-spa/) (live).
+- [Arrivals](https://www.nationalrail.co.uk/live-trains/arrivals/cheltenham-spa/) (live).
+
+## Hospitals
+
+- [Live waiting times](https://www.gloshospitals.nhs.uk/).
+- Gloucestershire Royal: 0300 422 2222
+- Cheltenham General: 0300 422 2222
+
+## Governance
+
+- [Write to them](https://www.writetothem.com/who?pc=GL50+1HZ)
+- [Local Intelligence Hub](https://www.localintelligencehub.com/area/WMC23/Cheltenham#movement).
+
 ## Useful Phone Numbers
 
 - Anti-Bullying Campaign: 0207 378 1446
@@ -19,11 +39,6 @@ permalink: /helpful
 - Flooding (Sandbags): 01684 293 445
 - Gas: 0800 111 999
 - NHS Direct: 0845 4647
-
-## Hospitals
-
-- Gloucestershire Royal: 0300 422 2222
-- Cheltenham General: 0300 422 2222
 
 ## Emergency Preparation
 

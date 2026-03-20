@@ -22,20 +22,20 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding in some places. 
 
-River levels are high on sections of the River Windrush. Flooding of some low lying land and roads is expected to continue today, 19 March 2026, including the areas around Bourton on the Water and Newbridge. The forecast is for a dry day today and remaining settled for the next few days. We expect river levels to continue to fall gradually over the coming days. 
+River levels are high on sections of the River Windrush. Flooding of some low lying land and roads is expected to continue today, 20 March 2026, including the areas around Bourton on the Water and Newbridge. The forecast is for a dry day today and remaining settled for the next few days. We expect river levels to fall gradually over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 09:00AM on 20 March 2026, or as the situation changes.
+This message will be updated by 10:00AM on 21 March 2026, or as the situation changes.
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding in some places. 
 
-River levels are high on sections of the River Coln. Flooding of some low lying land and roads is expected to continue today, 19 March 2026, especially in the area around Fossebridge. The forecast is for a dry day today and remaining settled for the next few days. We expect river levels to continue to fall gradually over the coming days. 
+River levels are high on sections of the River Coln. Flooding of some low lying land and roads is expected to continue today, 20 March 2026, especially in the area around Fossebridge. The forecast is for a dry day today and remaining settled for the next few days. We expect river levels to fall gradually over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 09:00AM on 20 March 2026, or as the situation changes.
+This message will be updated by 10:00AM on 21 March 2026, or as the situation changes.
 
 
 <!-- flood_marker ends -->

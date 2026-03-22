@@ -34,10 +34,6 @@ jobs:
                   curl "https://data.police.uk/api/crimes-street/all-crime?lat=51.9042&lng=-2.10141" | jq . > _data/AA3_all_crime.json
                   curl "https://data.police.uk/api/crimes-street/stops-street?lat=51.9042&lng=-2.10141" | jq . > _data/AA3_stops_street.json
 
-            - name: Fetch latest terrorism data
-              run: |-
-                  curl "https://www.mi5.gov.uk/UKThreatLevel/UKThreatLevel.xml" > _data/terrorism.xml
-
             - name: Commit and push
               run: |-
                   git diff

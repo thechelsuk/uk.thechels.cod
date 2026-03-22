@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Glass in underpass, 22nd March :- [9164213](https://www.fixmystreet.com/report/9164213)
+- Denied access through slate mill farm, 22nd March :- [9164205](https://www.fixmystreet.com/report/9164205)
+- Flytipped items, 22nd March :- [9164210](https://www.fixmystreet.com/report/9164210)
+- Bags of Litter, 22nd March :- [9164077](https://www.fixmystreet.com/report/9164077)
+- Drain cover sinking, 22nd March :- [9164035](https://www.fixmystreet.com/report/9164035)
+- Sink holes, 22nd March :- [9164023](https://www.fixmystreet.com/report/9164023)
 - Raised repairs to pavement, 22nd March :- [9163706](https://www.fixmystreet.com/report/9163706)
 - White cupboards fly tipped, 22nd March :- [9163633](https://www.fixmystreet.com/report/9163633)
 - Illegal parking across two junctions, 22nd March :- [9163460](https://www.fixmystreet.com/report/9163460)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Graffiti on pavement at junction of Moorend Park Road and Shurdington Road, 22nd March :- [9162758](https://www.fixmystreet.com/report/9162758)
 - Graffiti on pavement on corner of The Park and Merestones Road, 22nd March :- [9162664](https://www.fixmystreet.com/report/9162664)
 - Tagging in bus shelter, 22nd March :- [9162099](https://www.fixmystreet.com/report/9162099)
-- Loose manhole, 22nd March :- [9162108](https://www.fixmystreet.com/report/9162108)
-- Anyone who would like a cup of tea., 22nd March :- [9162015](https://www.fixmystreet.com/report/9162015)
-- Whole road surface riddles with potholes - appalling at night time., 22nd March :- [9161857](https://www.fixmystreet.com/report/9161857)
-- Sunken metal Manhole cover into street , lavender road, broken exploded concrete manhole cover on entrance to road, 21st March :- [9161759](https://www.fixmystreet.com/report/9161759)
-- Entrance to car park on Hucclecote Road, 21st March :- [9161740](https://www.fixmystreet.com/report/9161740)
-- Nos bottles, 21st March :- [9161250](https://www.fixmystreet.com/report/9161250)
 
 <!-- fix_marker ends -->

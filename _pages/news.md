@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In Pictures: Spring equinox and US bombers ([4 hours ago](https://www.bbc.com/news/articles/c20z00r0je4o?at_medium=RSS&at_campaign=rss))
-- The story behind new giant statues at Temple Meads ([5 hours ago](https://www.bbc.com/news/articles/cz7g7r289jeo?at_medium=RSS&at_campaign=rss))
-- Neighbourhood allowed to decide how to spend £20m ([20 hours ago](https://www.bbc.com/news/articles/c5yxkjn1z5ro?at_medium=RSS&at_campaign=rss))
+- In Pictures: Spring equinox and US bombers ([6 hours ago](https://www.bbc.com/news/articles/c20z00r0je4o?at_medium=RSS&at_campaign=rss))
+- The story behind new giant statues at Temple Meads ([7 hours ago](https://www.bbc.com/news/articles/cz7g7r289jeo?at_medium=RSS&at_campaign=rss))
+- Neighbourhood allowed to decide how to spend £20m ([22 hours ago](https://www.bbc.com/news/articles/c5yxkjn1z5ro?at_medium=RSS&at_campaign=rss))
 - Mobile lung clinic 'detecting cancer early' ([1 days ago](https://www.bbc.com/news/articles/c5y8lr1z0weo?at_medium=RSS&at_campaign=rss))
 - 'Council tackles potholes' and 'unmasking Banksy' ([1 days ago](https://www.bbc.com/news/articles/cp81d0p66zdo?at_medium=RSS&at_campaign=rss))
 - New countywide bus map launched for Gloucestershire ​ ([1 days ago](https://gloucesternewscentre.co.uk/new-countywide-bus-map-launched-for-gloucestershire/))
@@ -22,7 +22,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'All options open' after sale of airport collapses ([1 days ago](https://www.bbc.com/news/articles/c86eldweq09o?at_medium=RSS&at_campaign=rss))
 - Man jailed for biting officer during arrest ([1 days ago](https://www.bbc.com/news/articles/ckge2l5nk58o?at_medium=RSS&at_campaign=rss))
 - Councils pivot to support airport businesses as concerns grow over sale fiasco ([1 days ago](https://gloucesternewscentre.co.uk/councils-pivot-to-support-airport-businesses-as-concerns-grow-over-sale-fiasco/))
-- 'Everyone in Gloucester has a story about the Regal' ([1 days ago](https://www.bbc.com/news/articles/ckgw21v2j9jo?at_medium=RSS&at_campaign=rss))
+- 'Everyone in Gloucester has a story about the Regal' ([2 days ago](https://www.bbc.com/news/articles/ckgw21v2j9jo?at_medium=RSS&at_campaign=rss))
 - 'Absolutely buzzing' town voted best in south-west ([2 days ago](https://www.bbc.com/news/articles/c4gjq4e58x8o?at_medium=RSS&at_campaign=rss))
 - Girl secures cash needed for school zebra crossing ([2 days ago](https://www.bbc.com/news/articles/c15dg9z3p34o?at_medium=RSS&at_campaign=rss))
 - Why are UK military bases being used in Iran conflict? ([2 days ago](https://www.bbc.com/news/articles/c62drgvk263o?at_medium=RSS&at_campaign=rss))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council to begin work on roll out of 20mph speed limits ([11 days ago](https://gloucesternewscentre.co.uk/council-to-begin-work-on-roll-out-of-20mph-speed-limits/))
 - Wychwood Festival: Decision on fourth day and extra capacity ([11 days ago](https://gloucesternewscentre.co.uk/wychwood-festival-decision-on-fourth-day-and-extra-capacity/))
 - Horse death at Cheltenham Festival sparks renewed botcott ([11 days ago](https://gloucesternewscentre.co.uk/horse-death-at-cheltenham-festival-sparks-renewed-botcott/))
-- More than £30,000 improvements to Elmfield Park ([11 days ago](https://www.cheltenham.gov.uk/news/article/3111/more_than_30000_improvements_to_elmfield_park))
+- More than £30,000 improvements to Elmfield Park ([12 days ago](https://www.cheltenham.gov.uk/news/article/3111/more_than_30000_improvements_to_elmfield_park))
 - Pulhams launches 15 electric buses after £8m investment ([15 days ago](https://gloucesternewscentre.co.uk/pulhams-launches-15-electric-buses-after-8m-investment/))
 - Multi-agency support for rough sleepers ([16 days ago](https://www.cheltenham.gov.uk/news/article/3110/multi-agency_support_for_rough_sleepers))
 - Anger as work starts to install controversial EV charge points ([16 days ago](https://gloucesternewscentre.co.uk/anger-as-work-starts-to-install-controversial-ev-charge-points/))
@@ -65,7 +65,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham’s 2026/27 budget proposals approved ([22 days ago](https://www.cheltenham.gov.uk/news/article/3105/cheltenhams_202627_budget_proposals_approved))
 - Construction reaches 12-month milestone at Wavensmere’s £50m Arkle Court scheme in Cheltenham ([24 days ago](https://www.cheltenham.gov.uk/news/article/3103/construction_reaches_12-month_milestone_at_wavensmeres_50m_arkle_court_scheme_in_cheltenham))
 - Preparations well underway for an enjoyable Cheltenham Festival 2026 ([24 days ago](https://www.cheltenham.gov.uk/news/article/3102/preparations_well_underway_for_an_enjoyable_cheltenham_festival_2026))
-- Views sought on creation of new town council for Cheltenham ([25 days ago](https://www.cheltenham.gov.uk/news/article/3100/views_sought_on_creation_of_new_town_council_for_cheltenham))
+- Views sought on creation of new town council for Cheltenham ([26 days ago](https://www.cheltenham.gov.uk/news/article/3100/views_sought_on_creation_of_new_town_council_for_cheltenham))
 - Private hire driver loses Crown Court appeal for licence ([26 days ago](https://www.cheltenham.gov.uk/news/article/3099/private_hire_driver_loses_crown_court_appeal_for_licence))
 
 <!-- news_marker ends -->

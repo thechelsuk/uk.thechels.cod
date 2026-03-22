@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Woman completes 100-mile race across frozen lake ([3 hours ago](https://www.bbc.com/news/articles/c1w477gj3z9o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Spring equinox and US bombers ([12 hours ago](https://www.bbc.com/news/articles/c20z00r0je4o?at_medium=RSS&at_campaign=rss))
-- The story behind new giant statues at Temple Meads ([13 hours ago](https://www.bbc.com/news/articles/cz7g7r289jeo?at_medium=RSS&at_campaign=rss))
+- Woman completes 100-mile race across frozen lake ([5 hours ago](https://www.bbc.com/news/articles/c1w477gj3z9o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Spring equinox and US bombers ([14 hours ago](https://www.bbc.com/news/articles/c20z00r0je4o?at_medium=RSS&at_campaign=rss))
+- The story behind new giant statues at Temple Meads ([15 hours ago](https://www.bbc.com/news/articles/cz7g7r289jeo?at_medium=RSS&at_campaign=rss))
 - Neighbourhood allowed to decide how to spend £20m ([1 days ago](https://www.bbc.com/news/articles/c5yxkjn1z5ro?at_medium=RSS&at_campaign=rss))
 - Mobile lung clinic 'detecting cancer early' ([1 days ago](https://www.bbc.com/news/articles/c5y8lr1z0weo?at_medium=RSS&at_campaign=rss))
 - 'Council tackles potholes' and 'unmasking Banksy' ([1 days ago](https://www.bbc.com/news/articles/cp81d0p66zdo?at_medium=RSS&at_campaign=rss))

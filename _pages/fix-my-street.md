@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Litter dumped outside number 170b, 22nd March :- [9166255](https://www.fixmystreet.com/report/9166255)
+- One Stop car park is becoming unusable, 22nd March :- [9166247](https://www.fixmystreet.com/report/9166247)
+- Two items of furniture apparently dumped., 22nd March :- [9166237](https://www.fixmystreet.com/report/9166237)
 - Multiple large potholes covering across the entire junction, 22nd March :- [9165713](https://www.fixmystreet.com/report/9165713)
 - Large pothole on right hand side lane, 22nd March :- [9165588](https://www.fixmystreet.com/report/9165588)
 - Pavement surface dangerous,uneven and worn away and extremely uneven, 22nd March :- [9165323](https://www.fixmystreet.com/report/9165323)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Sink holes, 22nd March :- [9164023](https://www.fixmystreet.com/report/9164023)
 - Raised repairs to pavement, 22nd March :- [9163706](https://www.fixmystreet.com/report/9163706)
 - White cupboards fly tipped, 22nd March :- [9163633](https://www.fixmystreet.com/report/9163633)
-- Illegal parking across two junctions, 22nd March :- [9163460](https://www.fixmystreet.com/report/9163460)
-- Cushions fly tipped in Bath Terrace car park, 22nd March :- [9163452](https://www.fixmystreet.com/report/9163452)
-- 3ft long pothole, 22nd March :- [9163411](https://www.fixmystreet.com/report/9163411)
 
 <!-- fix_marker ends -->

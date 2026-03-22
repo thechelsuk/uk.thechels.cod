@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 22 March 2026
 
-- The average temperature today is 10.19˚C,
-- With highs of 11.03˚C and lows of 9.28˚C,
-- It may feel like 9.22˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 75%
+- The average temperature today is 8.44˚C,
+- With highs of 8.8˚C and lows of 8.15˚C,
+- It may feel like 7.45˚C with broken clouds
+- The wind speed is 1.92m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 85%
 - The sun will rise at 06:06 and set at 18:23
 
 <!-- weather_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Anyone who would like a cup of tea., 22nd March :- [9162015](https://www.fixmystreet.com/report/9162015)
 - Whole road surface riddles with potholes - appalling at night time., 22nd March :- [9161857](https://www.fixmystreet.com/report/9161857)
 - Sunken metal Manhole cover into street , lavender road, broken exploded concrete manhole cover on entrance to road, 21st March :- [9161759](https://www.fixmystreet.com/report/9161759)
 - Entrance to car park on Hucclecote Road, 21st March :- [9161740](https://www.fixmystreet.com/report/9161740)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dangerous pothole, 21st March :- [9160313](https://www.fixmystreet.com/report/9160313)
 - Multiple dangerous potholes, 21st March :- [9160301](https://www.fixmystreet.com/report/9160301)
 - Drain is completely blocked with silt/dirt/road debris., 21st March :- [9160289](https://www.fixmystreet.com/report/9160289)
-- 3 Deep potholes near a very recent repair. The repair is already degrading after two weeks, 21st March :- [9160122](https://www.fixmystreet.com/report/9160122)
 
 <!-- fix_marker ends -->

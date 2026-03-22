@@ -13,8 +13,8 @@ permissions:
 jobs:
     build:
         permissions:
-          contents: write
-          pull-requests: read
+            contents: write
+            pull-requests: read
         runs-on: ubuntu-latest
         steps:
             - name: Check out Repo
@@ -36,7 +36,7 @@ jobs:
 
             - name: Fetch Flood data
               run: |-
-                  curl "https://environment.data.gov.uk/flood-monitoring/id/floods" | jq . > _data/flood.json
+                  curl -fLsS -H "Accept: application/json" "https://environment.data.gov.uk/flood-monitoring/id/floods" | jq . > _data/flood.json
 
             - name: Fetch latest terrorism data
               run: |-

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement surface dangerous,uneven and worn away and extremely uneven, 22nd March :- [9165323](https://www.fixmystreet.com/report/9165323)
+- Traffic diversion sign had been left for weeks, 22nd March :- [9165264](https://www.fixmystreet.com/report/9165264)
 - Please empty the poo bin, 22nd March :- [9164779](https://www.fixmystreet.com/report/9164779)
 - Abandoned car SA59 Ford Mondeo, 22nd March :- [9164540](https://www.fixmystreet.com/report/9164540)
 - Flytipped mattress, 22nd March :- [9164434](https://www.fixmystreet.com/report/9164434)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 3ft long pothole, 22nd March :- [9163411](https://www.fixmystreet.com/report/9163411)
 - Tree is missing, 22nd March :- [9162248](https://www.fixmystreet.com/report/9162248)
 - Failed pothole repair by crossing, 22nd March :- [9163192](https://www.fixmystreet.com/report/9163192)
-- Graffiti on pavement outside Thirlstaine House, 22nd March :- [9163038](https://www.fixmystreet.com/report/9163038)
-- Flytipping furniture at top of Laxton road, 22nd March :- [9162963](https://www.fixmystreet.com/report/9162963)
 
 <!-- fix_marker ends -->

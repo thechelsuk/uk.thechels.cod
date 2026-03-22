@@ -9,14 +9,14 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Friday, 20 March 2026
+## On Sunday, 22 March 2026
 
-- The average temperature today is 7.87˚C,
-- With highs of 9.42˚C and lows of 6.4˚C,
-- It may feel like 7.87˚C with overcast clouds
-- The wind speed is 1.31m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 75%
-- The sun will rise at 06:11 and set at 18:20
+- The average temperature today is 2.88˚C,
+- With highs of 4.98˚C and lows of 1.4˚C,
+- It may feel like 2.88˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 78%
+- The sun will rise at 06:06 and set at 18:23
 
 <!-- weather_marker ends -->
 

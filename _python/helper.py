@@ -72,7 +72,7 @@ def fetch_flood_data():
             data = response.json()
             items = data.get("items", [])
             filtered = [
-                item for item in items 
+                item for item in items
                 if item.get("floodArea", {}).get("county", "").find("Gloucestershire") != -1
             ]
             data["items"] = filtered

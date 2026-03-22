@@ -7,10 +7,10 @@
         "version": "0.9",
         "comment": "Status: Beta service",
         "hasFormat": [
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
-            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
         ]
     },
     "items": [

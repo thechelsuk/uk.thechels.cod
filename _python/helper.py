@@ -59,19 +59,24 @@ def replace_chunk(content, marker, chunk):
 
 def fetch_flood_data():
     url = "https://environment.data.gov.uk/flood-monitoring/id/floods"
-    params = {
-        "county": "Gloucestershire"
-    }
     headers = {
         "Accept": "application/json",
-        "User-Agent": "Mozilla/5.0 (compatible; uk.thechels.cod-bot/1.0)",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://environment.data.gov.uk/flood-monitoring/",
     }
     last_error = None
     for attempt in range(4):
         try:
-            response = requests.get(url, params=params, headers=headers, timeout=30)
+            response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
-            return response.json()
+            data = response.json()
+            items = data.get("items", [])
+            filtered = [
+                item for item in items 
+                if item.get("floodArea", {}).get("county", "").find("Gloucestershire") != -1
+            ]
+            data["items"] = filtered
+            return data
         except requests.RequestException as error:
             last_error = error
             if attempt == 3:

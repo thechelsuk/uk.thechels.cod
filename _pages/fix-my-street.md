@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Raised repairs to pavement, 22nd March :- [9163706](https://www.fixmystreet.com/report/9163706)
+- White cupboards fly tipped, 22nd March :- [9163633](https://www.fixmystreet.com/report/9163633)
+- Illegal parking across two junctions, 22nd March :- [9163460](https://www.fixmystreet.com/report/9163460)
+- Cushions fly tipped in Bath Terrace car park, 22nd March :- [9163452](https://www.fixmystreet.com/report/9163452)
+- 3ft long pothole, 22nd March :- [9163411](https://www.fixmystreet.com/report/9163411)
+- Tree is missing, 22nd March :- [9162248](https://www.fixmystreet.com/report/9162248)
+- Failed pothole repair by crossing, 22nd March :- [9163192](https://www.fixmystreet.com/report/9163192)
+- Graffiti on pavement outside Thirlstaine House, 22nd March :- [9163038](https://www.fixmystreet.com/report/9163038)
 - Flytipping furniture at top of Laxton road, 22nd March :- [9162963](https://www.fixmystreet.com/report/9162963)
 - Graffiti on pavement on Shurdington near corner of Edward Street, 22nd March :- [9162938](https://www.fixmystreet.com/report/9162938)
 - Graffiti on pavement at corner of Painswick Rd and Shurdington Rd, 22nd March :- [9162862](https://www.fixmystreet.com/report/9162862)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Sunken metal Manhole cover into street , lavender road, broken exploded concrete manhole cover on entrance to road, 21st March :- [9161759](https://www.fixmystreet.com/report/9161759)
 - Entrance to car park on Hucclecote Road, 21st March :- [9161740](https://www.fixmystreet.com/report/9161740)
 - Nos bottles, 21st March :- [9161250](https://www.fixmystreet.com/report/9161250)
-- Pothole on pathway between Charnwood Rd and Hall Rd., 21st March :- [9161222](https://www.fixmystreet.com/report/9161222)
-- Entrance to Airport, 21st March :- [9161135](https://www.fixmystreet.com/report/9161135)
-- Racecourse roundabout, 21st March :- [9161115](https://www.fixmystreet.com/report/9161115)
-- Pothole, 21st March :- [9161050](https://www.fixmystreet.com/report/9161050)
-- Subsidence, 21st March :- [9160873](https://www.fixmystreet.com/report/9160873)
-- World war 1 bomb site!!!!!, 21st March :- [9160851](https://www.fixmystreet.com/report/9160851)
-- Uneven pothole in road, 21st March :- [9160689](https://www.fixmystreet.com/report/9160689)
-- Someone has dumped a load of canisters, 21st March :- [9160525](https://www.fixmystreet.com/report/9160525)
 
 <!-- fix_marker ends -->

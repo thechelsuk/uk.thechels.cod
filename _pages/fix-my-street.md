@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Please empty the poo bin, 22nd March :- [9164779](https://www.fixmystreet.com/report/9164779)
+- Abandoned car SA59 Ford Mondeo, 22nd March :- [9164540](https://www.fixmystreet.com/report/9164540)
+- Flytipped mattress, 22nd March :- [9164434](https://www.fixmystreet.com/report/9164434)
+- Flytipped item, 22nd March :- [9164351](https://www.fixmystreet.com/report/9164351)
+- Flood sign abandoned. Has now been here for 4+ months, 22nd March :- [9164328](https://www.fixmystreet.com/report/9164328)
 - Glass in underpass, 22nd March :- [9164213](https://www.fixmystreet.com/report/9164213)
 - Denied access through slate mill farm, 22nd March :- [9164205](https://www.fixmystreet.com/report/9164205)
 - Flytipped items, 22nd March :- [9164210](https://www.fixmystreet.com/report/9164210)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Failed pothole repair by crossing, 22nd March :- [9163192](https://www.fixmystreet.com/report/9163192)
 - Graffiti on pavement outside Thirlstaine House, 22nd March :- [9163038](https://www.fixmystreet.com/report/9163038)
 - Flytipping furniture at top of Laxton road, 22nd March :- [9162963](https://www.fixmystreet.com/report/9162963)
-- Graffiti on pavement on Shurdington near corner of Edward Street, 22nd March :- [9162938](https://www.fixmystreet.com/report/9162938)
-- Graffiti on pavement at corner of Painswick Rd and Shurdington Rd, 22nd March :- [9162862](https://www.fixmystreet.com/report/9162862)
-- Graffiti on pavement at junction of Moorend Park Road and Shurdington Road, 22nd March :- [9162758](https://www.fixmystreet.com/report/9162758)
-- Graffiti on pavement on corner of The Park and Merestones Road, 22nd March :- [9162664](https://www.fixmystreet.com/report/9162664)
-- Tagging in bus shelter, 22nd March :- [9162099](https://www.fixmystreet.com/report/9162099)
 
 <!-- fix_marker ends -->

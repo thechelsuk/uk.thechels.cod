@@ -2,6 +2,7 @@ from dateutil.parser import parse
 import re
 import json
 import requests
+import time
 from requests import get
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -61,9 +62,22 @@ def fetch_flood_data():
     params = {
         "county": "Gloucestershire"
     }
-    response = requests.get(url, params=params)
-    response.raise_for_status()
-    return response.json()
+    headers = {
+        "Accept": "application/json",
+        "User-Agent": "Mozilla/5.0 (compatible; uk.thechels.cod-bot/1.0)",
+    }
+    last_error = None
+    for attempt in range(4):
+        try:
+            response = requests.get(url, params=params, headers=headers, timeout=30)
+            response.raise_for_status()
+            return response.json()
+        except requests.RequestException as error:
+            last_error = error
+            if attempt == 3:
+                raise
+            time.sleep(2)
+    raise last_error
 
 def convert_to_rss(data, filename):
         rss = ET.Element("rss", version="2.0")

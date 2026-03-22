@@ -1,0 +1,81 @@
+{
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.9",
+        "comment": "Status: Beta service",
+        "hasFormat": [
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.csv?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl?county=Gloucestershire",
+            "http://environment.data.gov.uk/flood-monitoring/id/floods.html?county=Gloucestershire"
+        ]
+    },
+    "items": [
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF10Windrush",
+            "description": "River Windrush from Bourton to Newbridge",
+            "eaAreaName": "Thames",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Windrush",
+                "county": "Gloucestershire, Oxfordshire",
+                "notation": "061WAF10Windrush",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF10Windrush/polygon",
+                "riverOrSea": "River Windrush"
+            },
+            "floodAreaID": "061WAF10Windrush",
+            "isTidal": false,
+            "message": "High river levels may lead to flooding in some places. \n\nRiver levels are high on sections of the River Windrush. Flooding of some low lying land and roads is expected to continue today, 21 March 2026, including the areas around Bourton on the Water and Newbridge. The forecast is for a dry day today and remaining settled for the rest of the weekend. We expect river levels to fall gradually over the coming days. \n\nWe are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. \n\nThis message will be updated by 10:00 on 22 March 2026, or as the situation changes.\n",
+            "severity": "Flood alert",
+            "severityLevel": 3,
+            "timeMessageChanged": "2026-03-21T09:51:00",
+            "timeRaised": "2026-03-21T09:51:36",
+            "timeSeverityChanged": "2025-12-05T19:05:00"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF06Coln",
+            "description": "River Coln and its tributaries",
+            "eaAreaName": "Thames",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF06Coln",
+                "county": "Gloucestershire",
+                "notation": "061WAF06Coln",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF06Coln/polygon",
+                "riverOrSea": "River Coln, Dudgrove Brook"
+            },
+            "floodAreaID": "061WAF06Coln",
+            "isTidal": false,
+            "message": "High river levels may lead to flooding in some places. \n\nRiver levels are high on sections of the River Coln. Flooding of some low lying land and roads is expected to continue today, 21 March 2026, especially in the area around Fossebridge. The forecast is for a dry day today and remaining settled for the rest of the weekend. We expect river levels to fall gradually over the coming days. \n\nWe are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. \n\nThis message will be updated by 10:00 on 22 March 2026, or as the situation changes.\n",
+            "severity": "Flood alert",
+            "severityLevel": 3,
+            "timeMessageChanged": "2026-03-21T09:51:00",
+            "timeRaised": "2026-03-21T09:51:56",
+            "timeSeverityChanged": "2026-01-26T07:15:00"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
+            "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
+            "eaAreaName": "Wessex",
+            "eaRegionName": "No longer used",
+            "floodArea": {
+                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
+                "county": "City of Bristol, North Somerset, South Gloucestershire",
+                "notation": "112WATAVN1",
+                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
+                "riverOrSea": "River Avon"
+            },
+            "floodAreaID": "112WATAVN1",
+            "isTidal": true,
+            "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\u00a0\nTidal conditions are expected to improve and no flooding is expected. \u00a0\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \u00a0\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
+            "severity": "Warning no longer in force",
+            "severityLevel": 4,
+            "timeMessageChanged": "2026-03-21T13:53:00",
+            "timeRaised": "2026-03-21T13:53:38",
+            "timeSeverityChanged": "2026-03-21T13:53:00"
+        }
+    ]
+}

@@ -12,9 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Neighbourhood allowed to decide how to spend £20m ([14 hours ago](https://www.bbc.com/news/articles/c5yxkjn1z5ro?at_medium=RSS&at_campaign=rss))
-- Mobile lung clinic 'detecting cancer early' ([23 hours ago](https://www.bbc.com/news/articles/c5y8lr1z0weo?at_medium=RSS&at_campaign=rss))
-- 'Council tackles potholes' and 'unmasking Banksy' ([23 hours ago](https://www.bbc.com/news/articles/cp81d0p66zdo?at_medium=RSS&at_campaign=rss))
+- In Pictures: Spring equinox and US bombers ([6 minutes ago](https://www.bbc.com/news/articles/c20z00r0je4o?at_medium=RSS&at_campaign=rss))
+- The story behind new giant statues at Temple Meads ([1 hours ago](https://www.bbc.com/news/articles/cz7g7r289jeo?at_medium=RSS&at_campaign=rss))
+- Neighbourhood allowed to decide how to spend £20m ([16 hours ago](https://www.bbc.com/news/articles/c5yxkjn1z5ro?at_medium=RSS&at_campaign=rss))
+- Mobile lung clinic 'detecting cancer early' ([1 days ago](https://www.bbc.com/news/articles/c5y8lr1z0weo?at_medium=RSS&at_campaign=rss))
+- 'Council tackles potholes' and 'unmasking Banksy' ([1 days ago](https://www.bbc.com/news/articles/cp81d0p66zdo?at_medium=RSS&at_campaign=rss))
 - New countywide bus map launched for Gloucestershire ​ ([1 days ago](https://gloucesternewscentre.co.uk/new-countywide-bus-map-launched-for-gloucestershire/))
 - Four arrests at Cheltenham Festival despite record crowds ([1 days ago](https://gloucesternewscentre.co.uk/four-arrests-at-cheltenham-festival-despite-record-crowds/))
 - 'All options open' after sale of airport collapses ([1 days ago](https://www.bbc.com/news/articles/c86eldweq09o?at_medium=RSS&at_campaign=rss))
@@ -31,8 +33,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man who told ex to clean-up blood during attack jailed ([2 days ago](https://www.bbc.com/news/articles/cx2wn582en4o?at_medium=RSS&at_campaign=rss))
 - Approval for ‘brilliant’ plans for new 200-pupil special school ([2 days ago](https://gloucesternewscentre.co.uk/approval-for-brilliant-plans-for-new-200-pupil-special-school/))
 - Rail delays expected after bus crashes into bridge ([2 days ago](https://www.bbc.com/news/articles/crm1wzg3980o?at_medium=RSS&at_campaign=rss))
-- Pensioner injured as scooter topples into pothole ([3 days ago](https://www.bbc.com/news/articles/c4g2n5ky1kno?at_medium=RSS&at_campaign=rss))
-- County hopes to benefit from Bristol's prosperity ([3 days ago](https://www.bbc.com/news/articles/c1mjm8kxjdro?at_medium=RSS&at_campaign=rss))
 - Calls for road repairs in Cheltenham street ([3 days ago](https://gloucesternewscentre.co.uk/calls-for-road-repairs-in-cheltenham-street/))
 - Police release image of wanted man Ashley Keyte ([3 days ago](https://gloucesternewscentre.co.uk/police-release-image-of-wanted-man-ashley-keyte/))
 - Hopes Gloucestershire will get share of Bristol’s wealth by joining WECA ([3 days ago](https://gloucesternewscentre.co.uk/hopes-gloucestershire-will-get-share-of-bristols-wealth-by-joining-weca/))

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tagging in bus shelter, 22nd March :- [9162099](https://www.fixmystreet.com/report/9162099)
+- Loose manhole, 22nd March :- [9162108](https://www.fixmystreet.com/report/9162108)
 - Anyone who would like a cup of tea., 22nd March :- [9162015](https://www.fixmystreet.com/report/9162015)
 - Whole road surface riddles with potholes - appalling at night time., 22nd March :- [9161857](https://www.fixmystreet.com/report/9161857)
 - Sunken metal Manhole cover into street , lavender road, broken exploded concrete manhole cover on entrance to road, 21st March :- [9161759](https://www.fixmystreet.com/report/9161759)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A large pothole outside the entrance to the care home alongside others which cause traffic to enter the opposite direction. Has been subject of previous very poor repair, 21st March :- [9160368](https://www.fixmystreet.com/report/9160368)
 - Long dangerous pothole, 21st March :- [9160342](https://www.fixmystreet.com/report/9160342)
 - Dangerous pothole, 21st March :- [9160313](https://www.fixmystreet.com/report/9160313)
-- Multiple dangerous potholes, 21st March :- [9160301](https://www.fixmystreet.com/report/9160301)
-- Drain is completely blocked with silt/dirt/road debris., 21st March :- [9160289](https://www.fixmystreet.com/report/9160289)
 
 <!-- fix_marker ends -->

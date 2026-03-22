@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple large potholes covering across the entire junction, 22nd March :- [9165713](https://www.fixmystreet.com/report/9165713)
+- Large pothole on right hand side lane, 22nd March :- [9165588](https://www.fixmystreet.com/report/9165588)
 - Pavement surface dangerous,uneven and worn away and extremely uneven, 22nd March :- [9165323](https://www.fixmystreet.com/report/9165323)
 - Traffic diversion sign had been left for weeks, 22nd March :- [9165264](https://www.fixmystreet.com/report/9165264)
 - Please empty the poo bin, 22nd March :- [9164779](https://www.fixmystreet.com/report/9164779)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Illegal parking across two junctions, 22nd March :- [9163460](https://www.fixmystreet.com/report/9163460)
 - Cushions fly tipped in Bath Terrace car park, 22nd March :- [9163452](https://www.fixmystreet.com/report/9163452)
 - 3ft long pothole, 22nd March :- [9163411](https://www.fixmystreet.com/report/9163411)
-- Tree is missing, 22nd March :- [9162248](https://www.fixmystreet.com/report/9162248)
-- Failed pothole repair by crossing, 22nd March :- [9163192](https://www.fixmystreet.com/report/9163192)
 
 <!-- fix_marker ends -->

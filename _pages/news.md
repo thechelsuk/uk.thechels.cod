@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Neighbourhood allowed to decide how to spend £20m ([11 hours ago](https://www.bbc.com/news/articles/c5yxkjn1z5ro?at_medium=RSS&at_campaign=rss))
-- Mobile lung clinic 'detecting cancer early' ([20 hours ago](https://www.bbc.com/news/articles/c5y8lr1z0weo?at_medium=RSS&at_campaign=rss))
-- 'Council tackles potholes' and 'unmasking Banksy' ([20 hours ago](https://www.bbc.com/news/articles/cp81d0p66zdo?at_medium=RSS&at_campaign=rss))
-- New countywide bus map launched for Gloucestershire ​ ([21 hours ago](https://gloucesternewscentre.co.uk/new-countywide-bus-map-launched-for-gloucestershire/))
-- Four arrests at Cheltenham Festival despite record crowds ([21 hours ago](https://gloucesternewscentre.co.uk/four-arrests-at-cheltenham-festival-despite-record-crowds/))
+- Neighbourhood allowed to decide how to spend £20m ([13 hours ago](https://www.bbc.com/news/articles/c5yxkjn1z5ro?at_medium=RSS&at_campaign=rss))
+- Mobile lung clinic 'detecting cancer early' ([22 hours ago](https://www.bbc.com/news/articles/c5y8lr1z0weo?at_medium=RSS&at_campaign=rss))
+- 'Council tackles potholes' and 'unmasking Banksy' ([22 hours ago](https://www.bbc.com/news/articles/cp81d0p66zdo?at_medium=RSS&at_campaign=rss))
+- New countywide bus map launched for Gloucestershire ​ ([22 hours ago](https://gloucesternewscentre.co.uk/new-countywide-bus-map-launched-for-gloucestershire/))
+- Four arrests at Cheltenham Festival despite record crowds ([22 hours ago](https://gloucesternewscentre.co.uk/four-arrests-at-cheltenham-festival-despite-record-crowds/))
 - 'All options open' after sale of airport collapses ([1 days ago](https://www.bbc.com/news/articles/c86eldweq09o?at_medium=RSS&at_campaign=rss))
 - Man jailed for biting officer during arrest ([1 days ago](https://www.bbc.com/news/articles/ckge2l5nk58o?at_medium=RSS&at_campaign=rss))
 - Councils pivot to support airport businesses as concerns grow over sale fiasco ([1 days ago](https://gloucesternewscentre.co.uk/councils-pivot-to-support-airport-businesses-as-concerns-grow-over-sale-fiasco/))

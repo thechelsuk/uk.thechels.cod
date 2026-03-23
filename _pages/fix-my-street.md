@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Junction of Beeches Road and Little Herberts Road Charlton Kings, 23rd March :- [9173355](https://www.fixmystreet.com/report/9173355)
+- Road signs left near Park Lane junction, 23rd March :- [9173227](https://www.fixmystreet.com/report/9173227)
+- There are several road signs left from previous road closures, 23rd March :- [9173215](https://www.fixmystreet.com/report/9173215)
+- Left hand filter light is not working, 23rd March :- [9173173](https://www.fixmystreet.com/report/9173173)
+- Large pothold that has recently got deeper, 23rd March :- [9173154](https://www.fixmystreet.com/report/9173154)
+- Potholes, 23rd March :- [9173111](https://www.fixmystreet.com/report/9173111)
+- Large trip hazard across the whole of the path caused by a tree root, 23rd March :- [9172733](https://www.fixmystreet.com/report/9172733)
+- Traffic lights not working, 23rd March :- [9172679](https://www.fixmystreet.com/report/9172679)
 - Large expanse of surface missing, 23rd March :- [9172447](https://www.fixmystreet.com/report/9172447)
 - Pothole x 3 dinner plates, 23rd March :- [9172214](https://www.fixmystreet.com/report/9172214)
 - Large serving plate size pot hole, 23rd March :- [9172127](https://www.fixmystreet.com/report/9172127)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Rubbish, 23rd March :- [9171522](https://www.fixmystreet.com/report/9171522)
 - Park bench is broken, 23rd March :- [9171332](https://www.fixmystreet.com/report/9171332)
 - TMC - Defects -other CW6 problem, 23rd March :- [9171825](https://www.fixmystreet.com/report/9171825)
-- Previous repair come loose. Trip hazard, 23rd March :- [9171290](https://www.fixmystreet.com/report/9171290)
-- A pothole in road problem, 23rd March :- [9171806](https://www.fixmystreet.com/report/9171806)
-- School sign is on the ground, 23rd March :- [9171007](https://www.fixmystreet.com/report/9171007)
-- Bit missing off the traffic light, 23rd March :- [9170984](https://www.fixmystreet.com/report/9170984)
-- TMC - Defects -FW6 Potholes problem, 23rd March :- [9171249](https://www.fixmystreet.com/report/9171249)
-- TMC - Defects -FW6 Potholes problem, 23rd March :- [9171248](https://www.fixmystreet.com/report/9171248)
-- TMC - Defects -FW6 Potholes problem, 23rd March :- [9171246](https://www.fixmystreet.com/report/9171246)
-- TMC - Defects - Footways Slabs problem, 23rd March :- [9171245](https://www.fixmystreet.com/report/9171245)
 
 <!-- fix_marker ends -->

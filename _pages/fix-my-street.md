@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole near the junction of Langley Road and The Hyde, dangerous for cyclists, 23rd March :- [9166709](https://www.fixmystreet.com/report/9166709)
 - Litter problem reported on the A40, 22nd March :- [9166412](https://www.fixmystreet.com/report/9166412)
 - Litter dumped outside number 170b, 22nd March :- [9166255](https://www.fixmystreet.com/report/9166255)
 - One Stop car park is becoming unusable, 22nd March :- [9166247](https://www.fixmystreet.com/report/9166247)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Bags of Litter, 22nd March :- [9164077](https://www.fixmystreet.com/report/9164077)
 - Drain cover sinking, 22nd March :- [9164035](https://www.fixmystreet.com/report/9164035)
 - Sink holes, 22nd March :- [9164023](https://www.fixmystreet.com/report/9164023)
-- Raised repairs to pavement, 22nd March :- [9163706](https://www.fixmystreet.com/report/9163706)
 
 <!-- fix_marker ends -->

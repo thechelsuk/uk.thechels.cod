@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Councils admit owning about 100 empty buildings ([1 hours ago](https://www.bbc.com/news/articles/cvglel1v8yvo?at_medium=RSS&at_campaign=rss))
-- Why do the West's farmers pay the price for war in Iran? ([1 hours ago](https://www.bbc.com/news/articles/c9v0v1p4el8o?at_medium=RSS&at_campaign=rss))
-- Woman completes 100-mile race across frozen lake ([14 hours ago](https://www.bbc.com/news/articles/c1w477gj3z9o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Spring equinox and US bombers ([22 hours ago](https://www.bbc.com/news/articles/c20z00r0je4o?at_medium=RSS&at_campaign=rss))
-- The story behind new giant statues at Temple Meads ([23 hours ago](https://www.bbc.com/news/articles/cz7g7r289jeo?at_medium=RSS&at_campaign=rss))
+- Councils admit owning about 100 empty buildings ([2 hours ago](https://www.bbc.com/news/articles/cvglel1v8yvo?at_medium=RSS&at_campaign=rss))
+- Why do the West's farmers pay the price for war in Iran? ([3 hours ago](https://www.bbc.com/news/articles/c9v0v1p4el8o?at_medium=RSS&at_campaign=rss))
+- Woman completes 100-mile race across frozen lake ([16 hours ago](https://www.bbc.com/news/articles/c1w477gj3z9o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Spring equinox and US bombers ([1 days ago](https://www.bbc.com/news/articles/c20z00r0je4o?at_medium=RSS&at_campaign=rss))
+- The story behind new giant statues at Temple Meads ([1 days ago](https://www.bbc.com/news/articles/cz7g7r289jeo?at_medium=RSS&at_campaign=rss))
 - Neighbourhood allowed to decide how to spend £20m ([1 days ago](https://www.bbc.com/news/articles/c5yxkjn1z5ro?at_medium=RSS&at_campaign=rss))
 - Mobile lung clinic 'detecting cancer early' ([2 days ago](https://www.bbc.com/news/articles/c5y8lr1z0weo?at_medium=RSS&at_campaign=rss))
 - 'Council tackles potholes' and 'unmasking Banksy' ([2 days ago](https://www.bbc.com/news/articles/cp81d0p66zdo?at_medium=RSS&at_campaign=rss))
@@ -66,6 +66,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Construction reaches 12-month milestone at Wavensmere’s £50m Arkle Court scheme in Cheltenham ([24 days ago](https://www.cheltenham.gov.uk/news/article/3103/construction_reaches_12-month_milestone_at_wavensmeres_50m_arkle_court_scheme_in_cheltenham))
 - Preparations well underway for an enjoyable Cheltenham Festival 2026 ([25 days ago](https://www.cheltenham.gov.uk/news/article/3102/preparations_well_underway_for_an_enjoyable_cheltenham_festival_2026))
 - Views sought on creation of new town council for Cheltenham ([26 days ago](https://www.cheltenham.gov.uk/news/article/3100/views_sought_on_creation_of_new_town_council_for_cheltenham))
-- Private hire driver loses Crown Court appeal for licence ([26 days ago](https://www.cheltenham.gov.uk/news/article/3099/private_hire_driver_loses_crown_court_appeal_for_licence))
+- Private hire driver loses Crown Court appeal for licence ([27 days ago](https://www.cheltenham.gov.uk/news/article/3099/private_hire_driver_loses_crown_court_appeal_for_licence))
 
 <!-- news_marker ends -->

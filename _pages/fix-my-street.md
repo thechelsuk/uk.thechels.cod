@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple pot holes and damage to the road, 23rd March :- [9173894](https://www.fixmystreet.com/report/9173894)
+- Several large holes in middle of Brookfield Road, at junction with Albermarle Road., 23rd March :- [9173791](https://www.fixmystreet.com/report/9173791)
+- There are STILL potholes on this road. Some have been sorted. Others have not. It’s shocking the state of that road., 23rd March :- [9173532](https://www.fixmystreet.com/report/9173532)
 - Junction of Beeches Road and Little Herberts Road Charlton Kings, 23rd March :- [9173355](https://www.fixmystreet.com/report/9173355)
 - Road signs left near Park Lane junction, 23rd March :- [9173227](https://www.fixmystreet.com/report/9173227)
 - There are several road signs left from previous road closures, 23rd March :- [9173215](https://www.fixmystreet.com/report/9173215)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Multi pot holes in the road which can not be avoided when driving, it’s like an assault course., 23rd March :- [9171857](https://www.fixmystreet.com/report/9171857)
 - Single fridge left for 3 weeks near rubbish collection, 23rd March :- [9171681](https://www.fixmystreet.com/report/9171681)
 - Overflowing bin, 23rd March :- [9171646](https://www.fixmystreet.com/report/9171646)
-- Rubbish, 23rd March :- [9171522](https://www.fixmystreet.com/report/9171522)
-- Park bench is broken, 23rd March :- [9171332](https://www.fixmystreet.com/report/9171332)
-- TMC - Defects -other CW6 problem, 23rd March :- [9171825](https://www.fixmystreet.com/report/9171825)
 
 <!-- fix_marker ends -->

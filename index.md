@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 23 March 2026
 
-- The average temperature today is 11.18˚C,
-- With highs of 11.18˚C and lows of 11.18˚C,
-- It may feel like 10.29˚C with overcast clouds
-- The wind speed is 3.47m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 74%
+- The average temperature today is 10.21˚C,
+- With highs of 10.21˚C and lows of 10.21˚C,
+- It may feel like 9.24˚C with overcast clouds
+- The wind speed is 5m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 75%
 - The sun will rise at 06:04 and set at 18:25
 
 <!-- weather_marker ends -->

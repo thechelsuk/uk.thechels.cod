@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree has died following excessive trimming, 24th March :- [9180380](https://www.fixmystreet.com/report/9180380)
+- Sso much dog poo in amd near alleyway, 24th March :- [9180193](https://www.fixmystreet.com/report/9180193)
+- Rubbish in hedges, 24th March :- [9179997](https://www.fixmystreet.com/report/9179997)
 - Top layer of tarmac gone, 24th March :- [9179843](https://www.fixmystreet.com/report/9179843)
 - Sunken drain cover in the road, 24th March :- [9179818](https://www.fixmystreet.com/report/9179818)
 - Pothole around drain, 24th March :- [9179797](https://www.fixmystreet.com/report/9179797)
@@ -24,10 +27,7 @@ permalink: /fix-my-street
 - The whole hill is dotted in pot holes and needs serious attention, 24th March :- [9177937](https://www.fixmystreet.com/report/9177937)
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [9178104](https://www.fixmystreet.com/report/9178104)
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [9178103](https://www.fixmystreet.com/report/9178103)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [9178100](https://www.fixmystreet.com/report/9178100)
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [9178101](https://www.fixmystreet.com/report/9178101)
-- Large pothole - more than one on this road, 24th March :- [9177713](https://www.fixmystreet.com/report/9177713)
-- Broken glass across pavement, 24th March :- [9177543](https://www.fixmystreet.com/report/9177543)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [9177600](https://www.fixmystreet.com/report/9177600)
+- TMC - Defects -CW6 Potholes  problem, 24th March :- [9178100](https://www.fixmystreet.com/report/9178100)
 
 <!-- fix_marker ends -->

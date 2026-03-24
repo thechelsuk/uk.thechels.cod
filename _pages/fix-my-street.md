@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street Light Out, 24th March :- [9174666](https://www.fixmystreet.com/report/9174666)
+- Signs of riverbank erosion, 24th March :- [9174560](https://www.fixmystreet.com/report/9174560)
 - Mud on road, 23rd March :- [9174324](https://www.fixmystreet.com/report/9174324)
 - Street lamp outside no 10 on Walnut Close is fused., 23rd March :- [9174318](https://www.fixmystreet.com/report/9174318)
 - Very dark, no streetlight between column n.10 and the one by The Railway (pub), 23rd March :- [9174316](https://www.fixmystreet.com/report/9174316)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large trip hazard across the whole of the path caused by a tree root, 23rd March :- [9172733](https://www.fixmystreet.com/report/9172733)
 - Traffic lights not working, 23rd March :- [9172679](https://www.fixmystreet.com/report/9172679)
 - Large expanse of surface missing, 23rd March :- [9172447](https://www.fixmystreet.com/report/9172447)
-- Pothole x 3 dinner plates, 23rd March :- [9172214](https://www.fixmystreet.com/report/9172214)
-- Large serving plate size pot hole, 23rd March :- [9172127](https://www.fixmystreet.com/report/9172127)
 
 <!-- fix_marker ends -->

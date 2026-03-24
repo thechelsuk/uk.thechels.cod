@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 24 March 2026
 
-- The average temperature today is 9.15˚C,
-- With highs of 9.15˚C and lows of 9.15˚C,
-- It may feel like 6.01˚C with overcast clouds
-- The wind speed is 6.48m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 90%
+- The average temperature today is 9.86˚C,
+- With highs of 10.55˚C and lows of 9.27˚C,
+- It may feel like 7.82˚C with overcast clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 91%
 - The sun will rise at 06:02 and set at 18:27
 
 <!-- weather_marker ends -->

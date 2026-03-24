@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Manhole & Drain has sunken, 24th March :- [9181358](https://www.fixmystreet.com/report/9181358)
+- All street lights in the cul de sac are out, 24th March :- [9181273](https://www.fixmystreet.com/report/9181273)
 - Unacceptable potholes, 24th March :- [9180897](https://www.fixmystreet.com/report/9180897)
 - Tree has died following excessive trimming, 24th March :- [9180380](https://www.fixmystreet.com/report/9180380)
 - Sso much dog poo in amd near alleyway, 24th March :- [9180193](https://www.fixmystreet.com/report/9180193)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Potholes NOT fixed, 24th March :- [9178028](https://www.fixmystreet.com/report/9178028)
 - The whole hill is dotted in pot holes and needs serious attention, 24th March :- [9177937](https://www.fixmystreet.com/report/9177937)
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [9178104](https://www.fixmystreet.com/report/9178104)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [9178103](https://www.fixmystreet.com/report/9178103)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [9178100](https://www.fixmystreet.com/report/9178100)
 
 <!-- fix_marker ends -->

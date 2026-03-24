@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 24th March :- [9175190](https://www.fixmystreet.com/report/9175190)
+- Road impassive, 24th March :- [9174899](https://www.fixmystreet.com/report/9174899)
 - Street Light Out, 24th March :- [9174666](https://www.fixmystreet.com/report/9174666)
 - Signs of riverbank erosion, 24th March :- [9174560](https://www.fixmystreet.com/report/9174560)
 - Mud on road, 23rd March :- [9174324](https://www.fixmystreet.com/report/9174324)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large pothold that has recently got deeper, 23rd March :- [9173154](https://www.fixmystreet.com/report/9173154)
 - Potholes, 23rd March :- [9173111](https://www.fixmystreet.com/report/9173111)
 - Large trip hazard across the whole of the path caused by a tree root, 23rd March :- [9172733](https://www.fixmystreet.com/report/9172733)
-- Traffic lights not working, 23rd March :- [9172679](https://www.fixmystreet.com/report/9172679)
-- Large expanse of surface missing, 23rd March :- [9172447](https://www.fixmystreet.com/report/9172447)
 
 <!-- fix_marker ends -->

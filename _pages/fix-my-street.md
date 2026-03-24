@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Top layer of tarmac gone, 24th March :- [9179843](https://www.fixmystreet.com/report/9179843)
+- Sunken drain cover in the road, 24th March :- [9179818](https://www.fixmystreet.com/report/9179818)
+- Pothole around drain, 24th March :- [9179797](https://www.fixmystreet.com/report/9179797)
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [9178679](https://www.fixmystreet.com/report/9178679)
 - Unfinished road, 24th March :- [9178466](https://www.fixmystreet.com/report/9178466)
 - TMC - Defects - Kerbs and Channels problem, 24th March :- [9178649](https://www.fixmystreet.com/report/9178649)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Large pothole - more than one on this road, 24th March :- [9177713](https://www.fixmystreet.com/report/9177713)
 - Broken glass across pavement, 24th March :- [9177543](https://www.fixmystreet.com/report/9177543)
 - TMC - Defects -CW6 Potholes  problem, 24th March :- [9177600](https://www.fixmystreet.com/report/9177600)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [9177601](https://www.fixmystreet.com/report/9177601)
-- Yellow lines have not been re-instated since tarmacing., 24th March :- [9177270](https://www.fixmystreet.com/report/9177270)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [9177028](https://www.fixmystreet.com/report/9177028)
 
 <!-- fix_marker ends -->

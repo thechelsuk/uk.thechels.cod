@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mud on road, 23rd March :- [9174324](https://www.fixmystreet.com/report/9174324)
+- Street lamp outside no 10 on Walnut Close is fused., 23rd March :- [9174318](https://www.fixmystreet.com/report/9174318)
+- Very dark, no streetlight between column n.10 and the one by The Railway (pub), 23rd March :- [9174316](https://www.fixmystreet.com/report/9174316)
 - Potholes, 23rd March :- [9174071](https://www.fixmystreet.com/report/9174071)
 - Pot hole about 3 to 4 inches deep., 23rd March :- [9173979](https://www.fixmystreet.com/report/9173979)
 - Footpath impassable due to deep mud, even though no recent rain., 23rd March :- [9173947](https://www.fixmystreet.com/report/9173947)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Large expanse of surface missing, 23rd March :- [9172447](https://www.fixmystreet.com/report/9172447)
 - Pothole x 3 dinner plates, 23rd March :- [9172214](https://www.fixmystreet.com/report/9172214)
 - Large serving plate size pot hole, 23rd March :- [9172127](https://www.fixmystreet.com/report/9172127)
-- Hole in pavement adjacent to drain repair required, 23rd March :- [9172062](https://www.fixmystreet.com/report/9172062)
-- Abandone LPG gas cylinder in shrubbery, 23rd March :- [9172010](https://www.fixmystreet.com/report/9172010)
-- Large pothole very hard to avoid as many other filled in poorly potholes as well, 23rd March :- [9171864](https://www.fixmystreet.com/report/9171864)
 
 <!-- fix_marker ends -->

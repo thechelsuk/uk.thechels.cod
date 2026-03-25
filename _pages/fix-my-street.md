@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 25th March :- [9182774](https://www.fixmystreet.com/report/9182774)
+- TMC - Defects -CW6 Potholes  problem, 25th March :- [9182773](https://www.fixmystreet.com/report/9182773)
+- TMC - Defects - Other FW6  Surface problem, 25th March :- [9182756](https://www.fixmystreet.com/report/9182756)
+- TMC - Defects -CW6 Potholes  problem, 25th March :- [9182734](https://www.fixmystreet.com/report/9182734)
+- TMC - Defects -CW6 Potholes  problem, 25th March :- [9182733](https://www.fixmystreet.com/report/9182733)
+- TMC - Defects -CW6 Potholes  problem, 25th March :- [9182736](https://www.fixmystreet.com/report/9182736)
+- TMC - Defects -CW6 Potholes  problem, 25th March :- [9182735](https://www.fixmystreet.com/report/9182735)
+- TMC - Defects -CW6 Potholes  problem, 25th March :- [9182502](https://www.fixmystreet.com/report/9182502)
+- Deep crater, 25th March :- [9182319](https://www.fixmystreet.com/report/9182319)
+- Large deep.pothole, 25th March :- [9182064](https://www.fixmystreet.com/report/9182064)
+- Pothole on road, 25th March :- [9182055](https://www.fixmystreet.com/report/9182055)
 - Very uneven road with potholes at the round about, 25th March :- [9181835](https://www.fixmystreet.com/report/9181835)
 - Manhole & Drain has sunken, 24th March :- [9181358](https://www.fixmystreet.com/report/9181358)
 - All street lights in the cul de sac are out, 24th March :- [9181273](https://www.fixmystreet.com/report/9181273)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Rubbish in hedges, 24th March :- [9179997](https://www.fixmystreet.com/report/9179997)
 - Top layer of tarmac gone, 24th March :- [9179843](https://www.fixmystreet.com/report/9179843)
 - Sunken drain cover in the road, 24th March :- [9179818](https://www.fixmystreet.com/report/9179818)
-- Pothole around drain, 24th March :- [9179797](https://www.fixmystreet.com/report/9179797)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [9178679](https://www.fixmystreet.com/report/9178679)
-- Unfinished road, 24th March :- [9178466](https://www.fixmystreet.com/report/9178466)
-- TMC - Defects - Kerbs and Channels problem, 24th March :- [9178649](https://www.fixmystreet.com/report/9178649)
-- TMC - Defects - Vegetation problem, 24th March :- [9178394](https://www.fixmystreet.com/report/9178394)
-- Flytipped item, 24th March :- [9178327](https://www.fixmystreet.com/report/9178327)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [9178381](https://www.fixmystreet.com/report/9178381)
-- TMC - Defects -CW6 Potholes  problem, 24th March :- [9178108](https://www.fixmystreet.com/report/9178108)
-- Potholes NOT fixed, 24th March :- [9178029](https://www.fixmystreet.com/report/9178029)
-- Potholes NOT fixed, 24th March :- [9178028](https://www.fixmystreet.com/report/9178028)
-- The whole hill is dotted in pot holes and needs serious attention, 24th March :- [9177937](https://www.fixmystreet.com/report/9177937)
 
 <!-- fix_marker ends -->

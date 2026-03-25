@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 25 March 2026
 
-- The average temperature today is 7.36˚C,
-- With highs of 8.86˚C and lows of 6.49˚C,
-- It may feel like 2.65˚C with scattered clouds
-- The wind speed is 10.29m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 62%
+- The average temperature today is 7.77˚C,
+- With highs of 7.77˚C and lows of 7.77˚C,
+- It may feel like 3.22˚C with broken clouds
+- The wind speed is 10.17m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 69%
 - The sun will rise at 05:59 and set at 18:28
 
 <!-- weather_marker ends -->

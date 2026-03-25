@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Campaign launched to keep children reading ([5 hours ago](https://www.bbc.com/news/articles/c0j68jyg56lo?at_medium=RSS&at_campaign=rss))
-- US bomber declares emergency as it returns to base ([8 hours ago](https://www.bbc.com/news/articles/c17vdgxe54ko?at_medium=RSS&at_campaign=rss))
-- Woman arrested after teenager assaulted at bus stop ([10 hours ago](https://www.bbc.com/news/articles/c3r3xrwxr95o?at_medium=RSS&at_campaign=rss))
-- People feel 'fobbed off' over bridge repairs ([10 hours ago](https://www.bbc.com/news/articles/cy41g0kk47jo?at_medium=RSS&at_campaign=rss))
-- Carer convicted after neglecting child in his care ([13 hours ago](https://www.bbc.com/news/articles/c98kdw28lpeo?at_medium=RSS&at_campaign=rss))
-- Concern over Forest of Dean Unesco biosphere bid ([16 hours ago](https://www.bbc.com/news/articles/cq6jr124ed4o?at_medium=RSS&at_campaign=rss))
+- Campaign launched to keep children reading ([7 hours ago](https://www.bbc.com/news/articles/c0j68jyg56lo?at_medium=RSS&at_campaign=rss))
+- US bomber declares emergency as it returns to base ([10 hours ago](https://www.bbc.com/news/articles/c17vdgxe54ko?at_medium=RSS&at_campaign=rss))
+- Woman arrested after teenager assaulted at bus stop ([12 hours ago](https://www.bbc.com/news/articles/c3r3xrwxr95o?at_medium=RSS&at_campaign=rss))
+- People feel 'fobbed off' over bridge repairs ([12 hours ago](https://www.bbc.com/news/articles/cy41g0kk47jo?at_medium=RSS&at_campaign=rss))
+- Carer convicted after neglecting child in his care ([15 hours ago](https://www.bbc.com/news/articles/c98kdw28lpeo?at_medium=RSS&at_campaign=rss))
+- Concern over Forest of Dean Unesco biosphere bid ([19 hours ago](https://www.bbc.com/news/articles/cq6jr124ed4o?at_medium=RSS&at_campaign=rss))
 - 'Lack of transparency' accusation over closed lido ([1 days ago](https://www.bbc.com/news/articles/clyer6n201do?at_medium=RSS&at_campaign=rss))
 - Tent thought to have been set on fire deliberately ([1 days ago](https://www.bbc.com/news/articles/clyrj6zm706o?at_medium=RSS&at_campaign=rss))
 - Cheltenham mum to run London Marathon then 100 miles home in memory of friend ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-mum-to-run-london-marathon-then-100-miles-home-in-memory-of-friend/))

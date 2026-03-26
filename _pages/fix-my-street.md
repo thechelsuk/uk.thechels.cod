@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish left overnight, 26th March :- [9188891](https://www.fixmystreet.com/report/9188891)
 - 20+ 15ft tall street lights are not working, 25th March :- [9188367](https://www.fixmystreet.com/report/9188367)
 - Lots of large potholes and broken road surface clean square, 25th March :- [9188110](https://www.fixmystreet.com/report/9188110)
 - Streetlight down, 25th March :- [9187966](https://www.fixmystreet.com/report/9187966)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - Pothole, 25th March :- [9186391](https://www.fixmystreet.com/report/9186391)
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [9186408](https://www.fixmystreet.com/report/9186408)
 - TMC - Defects -other CW6 problem, 25th March :- [9186405](https://www.fixmystreet.com/report/9186405)
-- TMC - Defects -CW6 Potholes  problem, 25th March :- [9186403](https://www.fixmystreet.com/report/9186403)
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [9186404](https://www.fixmystreet.com/report/9186404)
 - TMC - Defects -other CW6 problem, 25th March :- [9186406](https://www.fixmystreet.com/report/9186406)
-- TMC - Defects -other CW6 problem, 25th March :- [9186402](https://www.fixmystreet.com/report/9186402)
+- TMC - Defects -CW6 Potholes  problem, 25th March :- [9186403](https://www.fixmystreet.com/report/9186403)
 
 <!-- fix_marker ends -->

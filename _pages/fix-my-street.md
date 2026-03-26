@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned wheelie bin full of rubbish., 26th March :- [9189568](https://www.fixmystreet.com/report/9189568)
+- A pothole in road problem, 26th March :- [9189685](https://www.fixmystreet.com/report/9189685)
+- A pothole in road problem, 26th March :- [9189684](https://www.fixmystreet.com/report/9189684)
 - Rubbish left overnight, 26th March :- [9188891](https://www.fixmystreet.com/report/9188891)
 - 20+ 15ft tall street lights are not working, 25th March :- [9188367](https://www.fixmystreet.com/report/9188367)
 - Lots of large potholes and broken road surface clean square, 25th March :- [9188110](https://www.fixmystreet.com/report/9188110)
@@ -25,9 +28,6 @@ permalink: /fix-my-street
 - Fly tipping, 25th March :- [9186503](https://www.fixmystreet.com/report/9186503)
 - Pothole, 25th March :- [9186391](https://www.fixmystreet.com/report/9186391)
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [9186408](https://www.fixmystreet.com/report/9186408)
-- TMC - Defects -other CW6 problem, 25th March :- [9186405](https://www.fixmystreet.com/report/9186405)
-- TMC - Defects -CW6 Potholes  problem, 25th March :- [9186404](https://www.fixmystreet.com/report/9186404)
-- TMC - Defects -other CW6 problem, 25th March :- [9186406](https://www.fixmystreet.com/report/9186406)
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [9186403](https://www.fixmystreet.com/report/9186403)
 
 <!-- fix_marker ends -->

@@ -25,9 +25,9 @@ permalink: /fix-my-street
 - Pothole, 25th March :- [9186391](https://www.fixmystreet.com/report/9186391)
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [9186408](https://www.fixmystreet.com/report/9186408)
 - TMC - Defects -other CW6 problem, 25th March :- [9186405](https://www.fixmystreet.com/report/9186405)
-- TMC - Defects -other CW6 problem, 25th March :- [9186402](https://www.fixmystreet.com/report/9186402)
+- TMC - Defects -CW6 Potholes  problem, 25th March :- [9186403](https://www.fixmystreet.com/report/9186403)
 - TMC - Defects -CW6 Potholes  problem, 25th March :- [9186404](https://www.fixmystreet.com/report/9186404)
 - TMC - Defects -other CW6 problem, 25th March :- [9186406](https://www.fixmystreet.com/report/9186406)
-- TMC - Defects -CW6 Potholes  problem, 25th March :- [9186403](https://www.fixmystreet.com/report/9186403)
+- TMC - Defects -other CW6 problem, 25th March :- [9186402](https://www.fixmystreet.com/report/9186402)
 
 <!-- fix_marker ends -->

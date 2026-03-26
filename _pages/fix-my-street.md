@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in lefthand carriage travelling on Golden Valley, 26th March :- [9195238](https://www.fixmystreet.com/report/9195238)
+- Outside The Cot, Green Lane GL34 TX, 26th March :- [9195222](https://www.fixmystreet.com/report/9195222)
+- Pothole in lefthand lane near approach to roundabout, 26th March :- [9195225](https://www.fixmystreet.com/report/9195225)
 - Pothokes, 26th March :- [9195059](https://www.fixmystreet.com/report/9195059)
 - Significant number of potholes, 26th March :- [9195044](https://www.fixmystreet.com/report/9195044)
 - Street light out, 26th March :- [9194873](https://www.fixmystreet.com/report/9194873)
@@ -24,10 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 26th March :- [9192746](https://www.fixmystreet.com/report/9192746)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192737](https://www.fixmystreet.com/report/9192737)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192738](https://www.fixmystreet.com/report/9192738)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192515](https://www.fixmystreet.com/report/9192515)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192516](https://www.fixmystreet.com/report/9192516)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192510](https://www.fixmystreet.com/report/9192510)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192514](https://www.fixmystreet.com/report/9192514)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192513](https://www.fixmystreet.com/report/9192513)
 
 <!-- fix_marker ends -->

@@ -9,7 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Temporary speed limit signs, 26th March :- [9193622](https://www.fixmystreet.com/report/9193622)
+- Branch down on CBC land from Highways willow, 26th March :- [9193441](https://www.fixmystreet.com/report/9193441)
 - Pothole in former repair near petrol station, 26th March :- [9193056](https://www.fixmystreet.com/report/9193056)
+- Tree is damaged problem, 26th March :- [9193252](https://www.fixmystreet.com/report/9193252)
 - TMC - Defects - Other FW6  Surface problem, 26th March :- [9193036](https://www.fixmystreet.com/report/9193036)
 - Obstructed Streetlight, 26th March :- [9192811](https://www.fixmystreet.com/report/9192811)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192751](https://www.fixmystreet.com/report/9192751)
@@ -17,17 +20,14 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 26th March :- [9192746](https://www.fixmystreet.com/report/9192746)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192737](https://www.fixmystreet.com/report/9192737)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192738](https://www.fixmystreet.com/report/9192738)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192515](https://www.fixmystreet.com/report/9192515)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192516](https://www.fixmystreet.com/report/9192516)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192513](https://www.fixmystreet.com/report/9192513)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192511](https://www.fixmystreet.com/report/9192511)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192514](https://www.fixmystreet.com/report/9192514)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192510](https://www.fixmystreet.com/report/9192510)
 - TMC - Defects -CW6 Potholes  problem, 26th March :- [9192512](https://www.fixmystreet.com/report/9192512)
+- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192515](https://www.fixmystreet.com/report/9192515)
+- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192513](https://www.fixmystreet.com/report/9192513)
+- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192511](https://www.fixmystreet.com/report/9192511)
+- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192516](https://www.fixmystreet.com/report/9192516)
 - TMC - Defects - Covers, Gratings & Frames problem, 26th March :- [9192503](https://www.fixmystreet.com/report/9192503)
 - TMC - Defects - Other FW6  Surface problem, 26th March :- [9192244](https://www.fixmystreet.com/report/9192244)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192232](https://www.fixmystreet.com/report/9192232)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192234](https://www.fixmystreet.com/report/9192234)
-- TMC - Defects -CW6 Potholes  problem, 26th March :- [9192235](https://www.fixmystreet.com/report/9192235)
 
 <!-- fix_marker ends -->

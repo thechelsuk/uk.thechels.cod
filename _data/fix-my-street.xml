@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
 >
 
@@ -159,13 +159,13 @@
 <georss:point>51.917961576675 -2.01129186724865</georss:point>
 </item>
 <item>
-<title>TMC - Defects -other CW6 problem, 25th March</title>
-<link>https://www.fixmystreet.com/report/9186402</link>
-<description>Edge deterioration CW &amp;#10;500x1400x60mm&amp;#10;Road closure (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9186402&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9186402</guid>
+<title>TMC - Defects -CW6 Potholes  problem, 25th March</title>
+<link>https://www.fixmystreet.com/report/9186403</link>
+<description>Pothole CW &amp;#10;1000x1000x40mm&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9186403&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9186403</guid>
 <pubDate>Wed, 25 Mar 2026 15:15:33 +0000</pubDate>
-<georss:point>51.917423 -2.0112351</georss:point>
+<georss:point>51.9174259 -2.01118520000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 25th March</title>
@@ -186,13 +186,13 @@
 <georss:point>51.9179589 -2.01122119999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 25th March</title>
-<link>https://www.fixmystreet.com/report/9186403</link>
-<description>Pothole CW &amp;#10;1000x1000x40mm&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9186403&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9186403</guid>
+<title>TMC - Defects -other CW6 problem, 25th March</title>
+<link>https://www.fixmystreet.com/report/9186402</link>
+<description>Edge deterioration CW &amp;#10;500x1400x60mm&amp;#10;Road closure (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9186402&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9186402</guid>
 <pubDate>Wed, 25 Mar 2026 15:15:33 +0000</pubDate>
-<georss:point>51.9174259 -2.01118520000001</georss:point>
+<georss:point>51.917423 -2.0112351</georss:point>
 </item>
 </channel>
 </rss>

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 26 March 2026
 
-- The average temperature today is 6.26˚C,
-- With highs of 7.21˚C and lows of 5.75˚C,
-- It may feel like 3.63˚C with scattered clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 76%
+- The average temperature today is 8.51˚C,
+- With highs of 8.51˚C and lows of 8.51˚C,
+- It may feel like 5.99˚C with scattered clouds
+- The wind speed is 4.39m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 62%
 - The sun will rise at 05:57 and set at 18:30
 
 <!-- weather_marker ends -->

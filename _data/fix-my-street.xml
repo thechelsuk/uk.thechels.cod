@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -124,15 +124,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 26th March</title>
-<link>https://www.fixmystreet.com/report/9192510</link>
-<description>Cw pothole &amp;#10;900x600x45mm approx &amp;#10;4 way lights (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192510&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9192510</guid>
-<pubDate>Thu, 26 Mar 2026 14:00:39 +0000</pubDate>
-<georss:point>51.8754185 -2.2100283</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 26th March</title>
 <link>https://www.fixmystreet.com/report/9192512</link>
 <description>Cw pothole &amp;#10;800x405x40mm approx &amp;#10;4 way lights (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192512&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
@@ -175,6 +166,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9192516</guid>
 <pubDate>Thu, 26 Mar 2026 14:00:39 +0000</pubDate>
 <georss:point>51.8754218 -2.20981580000002</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 26th March</title>
+<link>https://www.fixmystreet.com/report/9192510</link>
+<description>Cw pothole &amp;#10;900x600x45mm approx &amp;#10;4 way lights (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192510&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9192510</guid>
+<pubDate>Thu, 26 Mar 2026 14:00:39 +0000</pubDate>
+<georss:point>51.8754185 -2.2100283</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Covers, Gratings &amp; Frames problem, 26th March</title>

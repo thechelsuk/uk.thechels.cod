@@ -28,12 +28,12 @@
             },
             "floodAreaID": "061WAF10Windrush",
             "isTidal": false,
-            "message": "High river levels may lead to flooding in some places. \n\nRiver levels are high on sections of the River Windrush. Flooding of some low-lying land and roads remains possible today, 25 March 2026, including the areas around Bourton on the Water. The forecast is for light rain showers today.  River levels are stable but they could respond to rainfall. \n\nWe are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. \n\nThis message will be updated by 10:00 on 26 March 2026, or as the situation changes.\n",
-            "severity": "Flood alert",
-            "severityLevel": 3,
-            "timeMessageChanged": "2026-03-25T10:26:00",
-            "timeRaised": "2026-03-25T10:26:24",
-            "timeSeverityChanged": "2025-12-05T19:05:00"
+            "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\u00a0\nWeather conditions are expected to improve and no further flooding is expected.  \u00a0\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \u00a0\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \u00a0\n\n",
+            "severity": "Warning no longer in force",
+            "severityLevel": 4,
+            "timeMessageChanged": "2026-03-26T09:47:00",
+            "timeRaised": "2026-03-26T09:47:03",
+            "timeSeverityChanged": "2026-03-26T09:47:00"
         }
     ]
 }

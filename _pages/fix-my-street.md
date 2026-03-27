@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Verge of footpath at northern end of westend lane hucclecote, 27th March :- [9200171](https://www.fixmystreet.com/report/9200171)
+- This pothole was previously reported and now being reported as being fixed large vehicles hitting it are making our house shake. Please fix this time., 27th March :- [9200059](https://www.fixmystreet.com/report/9200059)
+- Parking on yellow lines and in bus stop, 27th March :- [9199968](https://www.fixmystreet.com/report/9199968)
+- Large piece of chipboard left outside my house, 27th March :- [9199871](https://www.fixmystreet.com/report/9199871)
+- TMC - Defects -other CW6 problem, 27th March :- [9199635](https://www.fixmystreet.com/report/9199635)
+- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199633](https://www.fixmystreet.com/report/9199633)
+- TMC - Defects -other CW6 problem, 27th March :- [9199634](https://www.fixmystreet.com/report/9199634)
 - Flytipping and general building waste from building site, 27th March :- [9198845](https://www.fixmystreet.com/report/9198845)
 - Broken paving slabs, permanently covered with gravel from nearby area, 27th March :- [9199370](https://www.fixmystreet.com/report/9199370)
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199449](https://www.fixmystreet.com/report/9199449)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199206](https://www.fixmystreet.com/report/9199206)
 - TMC - Defects - Fences & Barriers problem, 27th March :- [9199205](https://www.fixmystreet.com/report/9199205)
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199204](https://www.fixmystreet.com/report/9199204)
-- TMC - Defects - Covers, Gratings & Frames problem, 27th March :- [9199203](https://www.fixmystreet.com/report/9199203)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199201](https://www.fixmystreet.com/report/9199201)
-- 2 potholes in the middle of the road, opposite #29 Great Western Terrace, 27th March :- [9198916](https://www.fixmystreet.com/report/9198916)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199200](https://www.fixmystreet.com/report/9199200)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199194](https://www.fixmystreet.com/report/9199194)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9198972](https://www.fixmystreet.com/report/9198972)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9198971](https://www.fixmystreet.com/report/9198971)
 
 <!-- fix_marker ends -->

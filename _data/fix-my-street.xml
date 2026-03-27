@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -160,15 +160,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 26th March</title>
-<link>https://www.fixmystreet.com/report/9192737</link>
-<description>2 hr&amp;#10;Pothole CW &amp;#10;1500x300x100mm&amp;#10;2 way lights&amp;#10;Not marked or measured due to location (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192737&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9192737</guid>
-<pubDate>Thu, 26 Mar 2026 14:07:20 +0000</pubDate>
-<georss:point>51.8348684 -2.16236970000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 26th March</title>
 <link>https://www.fixmystreet.com/report/9192738</link>
 <description>Perm for 2 hr&amp;#10;Pothole CW &amp;#10;1500x300x100mm&amp;#10;2 way lights&amp;#10;Stats&amp;#10;Not marked or measured due to location (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192738&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
@@ -178,12 +169,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 26th March</title>
-<link>https://www.fixmystreet.com/report/9192510</link>
-<description>Cw pothole &amp;#10;900x600x45mm approx &amp;#10;4 way lights (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192510&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9192737</link>
+<description>2 hr&amp;#10;Pothole CW &amp;#10;1500x300x100mm&amp;#10;2 way lights&amp;#10;Not marked or measured due to location (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192737&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9192510</guid>
-<pubDate>Thu, 26 Mar 2026 14:00:39 +0000</pubDate>
-<georss:point>51.8754185 -2.2100283</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9192737</guid>
+<pubDate>Thu, 26 Mar 2026 14:07:20 +0000</pubDate>
+<georss:point>51.8348684 -2.16236970000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 26th March</title>
@@ -193,6 +184,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9192514</guid>
 <pubDate>Thu, 26 Mar 2026 14:00:39 +0000</pubDate>
 <georss:point>51.875399600656 -2.20995970091861</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 26th March</title>
+<link>https://www.fixmystreet.com/report/9192512</link>
+<description>Cw pothole &amp;#10;800x405x40mm approx &amp;#10;4 way lights (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192512&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9192512</guid>
+<pubDate>Thu, 26 Mar 2026 14:00:39 +0000</pubDate>
+<georss:point>51.8754420803679 -2.2100203655623</georss:point>
 </item>
 </channel>
 </rss>

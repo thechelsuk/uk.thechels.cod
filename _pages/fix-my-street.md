@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fencing damaged and broken, 27th March :- [9200972](https://www.fixmystreet.com/report/9200972)
+- Holst grove sign post broken and hanging off, 27th March :- [9200958](https://www.fixmystreet.com/report/9200958)
 - Slab with brail studs gif the blind broken, 27th March :- [9200484](https://www.fixmystreet.com/report/9200484)
 - Flytipping on Princess Elizabeth way, 27th March :- [9200391](https://www.fixmystreet.com/report/9200391)
 - Verge of footpath at northern end of westend lane hucclecote, 27th March :- [9200171](https://www.fixmystreet.com/report/9200171)
@@ -25,9 +27,7 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 27th March :- [9199442](https://www.fixmystreet.com/report/9199442)
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199220](https://www.fixmystreet.com/report/9199220)
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199218](https://www.fixmystreet.com/report/9199218)
-- TMC - Defects - Kerbs and Channels problem, 27th March :- [9199214](https://www.fixmystreet.com/report/9199214)
 - TMC - Defects - Other FW6  Surface problem, 27th March :- [9199215](https://www.fixmystreet.com/report/9199215)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199210](https://www.fixmystreet.com/report/9199210)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199206](https://www.fixmystreet.com/report/9199206)
+- TMC - Defects - Kerbs and Channels problem, 27th March :- [9199214](https://www.fixmystreet.com/report/9199214)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Its a top layer removed, starting to remove the second layer tarmac, not yet through to type 2 compacted material. But i am assuming first level assessment of this, may not understand road construction architecture., 27th March :- [9201171](https://www.fixmystreet.com/report/9201171)
+- Pothole in middle of road in line with centre road markings, 27th March :- [9201054](https://www.fixmystreet.com/report/9201054)
+- Streetlight out on t-junction with Forrester close. Dangerous in darkness/low light., 27th March :- [9201032](https://www.fixmystreet.com/report/9201032)
 - Fencing damaged and broken, 27th March :- [9200972](https://www.fixmystreet.com/report/9200972)
 - Holst grove sign post broken and hanging off, 27th March :- [9200958](https://www.fixmystreet.com/report/9200958)
 - Slab with brail studs gif the blind broken, 27th March :- [9200484](https://www.fixmystreet.com/report/9200484)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199446](https://www.fixmystreet.com/report/9199446)
 - TMC - Defects - Covers, Gratings & Frames problem, 27th March :- [9199442](https://www.fixmystreet.com/report/9199442)
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199220](https://www.fixmystreet.com/report/9199220)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199218](https://www.fixmystreet.com/report/9199218)
-- TMC - Defects - Other FW6  Surface problem, 27th March :- [9199215](https://www.fixmystreet.com/report/9199215)
-- TMC - Defects - Kerbs and Channels problem, 27th March :- [9199214](https://www.fixmystreet.com/report/9199214)
 
 <!-- fix_marker ends -->

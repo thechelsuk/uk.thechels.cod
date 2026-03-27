@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 27 March 2026
 
-- The average temperature today is 12.03˚C,
-- With highs of 12.2˚C and lows of 11.27˚C,
-- It may feel like 11.59˚C with broken clouds
-- The wind speed is 6.69m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 88%
+- The average temperature today is 11.68˚C,
+- With highs of 12.38˚C and lows of 11.49˚C,
+- It may feel like 11.31˚C with broken clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 92%
 - The sun will rise at 05:55 and set at 18:32
 
 <!-- weather_marker ends -->

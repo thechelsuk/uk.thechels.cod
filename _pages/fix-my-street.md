@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Slab with brail studs gif the blind broken, 27th March :- [9200484](https://www.fixmystreet.com/report/9200484)
+- Flytipping on Princess Elizabeth way, 27th March :- [9200391](https://www.fixmystreet.com/report/9200391)
 - Verge of footpath at northern end of westend lane hucclecote, 27th March :- [9200171](https://www.fixmystreet.com/report/9200171)
 - This pothole was previously reported and now being reported as being fixed large vehicles hitting it are making our house shake. Please fix this time., 27th March :- [9200059](https://www.fixmystreet.com/report/9200059)
 - Parking on yellow lines and in bus stop, 27th March :- [9199968](https://www.fixmystreet.com/report/9199968)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 27th March :- [9199215](https://www.fixmystreet.com/report/9199215)
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199210](https://www.fixmystreet.com/report/9199210)
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199206](https://www.fixmystreet.com/report/9199206)
-- TMC - Defects - Fences & Barriers problem, 27th March :- [9199205](https://www.fixmystreet.com/report/9199205)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199204](https://www.fixmystreet.com/report/9199204)
 
 <!-- fix_marker ends -->

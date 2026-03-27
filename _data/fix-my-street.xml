@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -187,12 +187,12 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 26th March</title>
-<link>https://www.fixmystreet.com/report/9192516</link>
-<description>Cw pothole &amp;#10;900x400x45mm approx &amp;#10;4 way lights (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192516&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9192513</link>
+<description>Cw pothole &amp;#10;805x405x43mm approx &amp;#10;4 wat lights (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9192513&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9192516</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9192513</guid>
 <pubDate>Thu, 26 Mar 2026 14:00:39 +0000</pubDate>
-<georss:point>51.8754218 -2.20981580000002</georss:point>
+<georss:point>51.8754482377391 -2.21002716038636</georss:point>
 </item>
 </channel>
 </rss>

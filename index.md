@@ -9,14 +9,14 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Friday, 27 March 2026
+## On Saturday, 28 March 2026
 
-- The average temperature today is 6.93˚C,
-- With highs of 6.93˚C and lows of 6.93˚C,
-- It may feel like 4.6˚C with overcast clouds
-- The wind speed is 3.35m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 85%
-- The sun will rise at 05:55 and set at 18:32
+- The average temperature today is 5.55˚C,
+- With highs of 5.55˚C and lows of 5.55˚C,
+- It may feel like 2.78˚C with scattered clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 79%
+- The sun will rise at 05:52 and set at 18:33
 
 <!-- weather_marker ends -->
 
@@ -40,7 +40,7 @@ Given proximity to GCHQ...
 ### SUBSTANTIAL
 
 - Current threat level: SUBSTANTIAL
-- It has been 752 days since the last change (2024-03-05)
+- It has been 753 days since the last change (2024-03-05)
 - Details: The current national threat level is SUBSTANTIAL. The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
 
 <!-- threat_marker ends -->

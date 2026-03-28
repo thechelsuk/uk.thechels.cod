@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes over 30m patch, 28th March :- [9201325](https://www.fixmystreet.com/report/9201325)
 - Its a top layer removed, starting to remove the second layer tarmac, not yet through to type 2 compacted material. But i am assuming first level assessment of this, may not understand road construction architecture., 27th March :- [9201171](https://www.fixmystreet.com/report/9201171)
 - Pothole in middle of road in line with centre road markings, 27th March :- [9201054](https://www.fixmystreet.com/report/9201054)
 - Streetlight out on t-junction with Forrester close. Dangerous in darkness/low light., 27th March :- [9201032](https://www.fixmystreet.com/report/9201032)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199449](https://www.fixmystreet.com/report/9199449)
 - TMC - Defects -CW6 Potholes  problem, 27th March :- [9199446](https://www.fixmystreet.com/report/9199446)
 - TMC - Defects - Covers, Gratings & Frames problem, 27th March :- [9199442](https://www.fixmystreet.com/report/9199442)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199220](https://www.fixmystreet.com/report/9199220)
 
 <!-- fix_marker ends -->

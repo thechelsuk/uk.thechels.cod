@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -124,6 +124,15 @@
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 27th March</title>
+<link>https://www.fixmystreet.com/report/9199634</link>
+<description>Depression CW&amp;#10;1700x1100x60mm&amp;#10;Standard TM (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9199634&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9199634</guid>
+<pubDate>Fri, 27 Mar 2026 15:24:09 +0000</pubDate>
+<georss:point>51.8831209 -2.15946310000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 27th March</title>
 <link>https://www.fixmystreet.com/report/9199635</link>
 <description>Depression CW&amp;#10;600x600x50mm&amp;#10;Standard TM (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9199635&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
@@ -139,15 +148,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9199633</guid>
 <pubDate>Fri, 27 Mar 2026 15:24:09 +0000</pubDate>
 <georss:point>51.8830331 -2.15954529999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 27th March</title>
-<link>https://www.fixmystreet.com/report/9199634</link>
-<description>Depression CW&amp;#10;1700x1100x60mm&amp;#10;Standard TM (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9199634&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9199634</guid>
-<pubDate>Fri, 27 Mar 2026 15:24:09 +0000</pubDate>
-<georss:point>51.8831209 -2.15946310000001</georss:point>
 </item>
 <item>
 <title>Flytipping and general building waste from building site, 27th March</title>

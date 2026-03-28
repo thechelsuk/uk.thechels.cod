@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hedge blocking view, 28th March :- [9203359](https://www.fixmystreet.com/report/9203359)
+- Volunteer litter pick bags ready for collection, 28th March :- [9203351](https://www.fixmystreet.com/report/9203351)
 - Unsafe, uneven cracked pavement, 28th March :- [9202736](https://www.fixmystreet.com/report/9202736)
 - Very uneven broken pavement, 28th March :- [9202713](https://www.fixmystreet.com/report/9202713)
 - Large pothole, 28th March :- [9202708](https://www.fixmystreet.com/report/9202708)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flytipped flatpack furniture etc, 28th March :- [9202416](https://www.fixmystreet.com/report/9202416)
 - Multiple potholes of various sizes, over a 43 metre stretch of carriageway. Starting from the side elevation of County House , northwards for 43 metres to a point adjacent to the car park entrance of malmaison Hotel (opposite No. 5 Royal parade), 28th March :- [9202267](https://www.fixmystreet.com/report/9202267)
 - Flytipped board on pavement Victoria St, 28th March :- [9202374](https://www.fixmystreet.com/report/9202374)
-- Traffic come outside 40 Victoria St, 28th March :- [9202365](https://www.fixmystreet.com/report/9202365)
-- Broken chair on pavement Albert St, 28th March :- [9202348](https://www.fixmystreet.com/report/9202348)
 
 <!-- fix_marker ends -->

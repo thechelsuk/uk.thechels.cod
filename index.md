@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 28 March 2026
 
-- The average temperature today is 6.9˚C,
-- With highs of 7.51˚C and lows of 6.5˚C,
-- It may feel like 3.06˚C with few clouds
-- The wind speed is 6.69m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 70%
+- The average temperature today is 9.42˚C,
+- With highs of 9.42˚C and lows of 9.42˚C,
+- It may feel like 5.98˚C with broken clouds
+- The wind speed is 7.75m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 58%
 - The sun will rise at 05:52 and set at 18:33
 
 <!-- weather_marker ends -->

@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes of various sizes, over a 43 metre stretch of carriageway. Starting from the side elevation of County House , northwards for 43 metres to a point adjacent to the car park entrance of malmaison Hotel (opposite No. 5 Royal parade), 28th March :- [9202267](https://www.fixmystreet.com/report/9202267)
+- Flytipped board on pavement Victoria St, 28th March :- [9202374](https://www.fixmystreet.com/report/9202374)
+- Traffic come outside 40 Victoria St, 28th March :- [9202365](https://www.fixmystreet.com/report/9202365)
+- Broken chair on pavement Albert St, 28th March :- [9202348](https://www.fixmystreet.com/report/9202348)
+- Bollards on island, 28th March :- [9202341](https://www.fixmystreet.com/report/9202341)
+- Damaged kerb and uneven drain cover, 28th March :- [9202332](https://www.fixmystreet.com/report/9202332)
+- Look out for cyclists signs all destroyed, 28th March :- [9202185](https://www.fixmystreet.com/report/9202185)
 - Multiple potholes over 30m patch, 28th March :- [9201325](https://www.fixmystreet.com/report/9201325)
 - Its a top layer removed, starting to remove the second layer tarmac, not yet through to type 2 compacted material. But i am assuming first level assessment of this, may not understand road construction architecture., 27th March :- [9201171](https://www.fixmystreet.com/report/9201171)
 - Pothole in middle of road in line with centre road markings, 27th March :- [9201054](https://www.fixmystreet.com/report/9201054)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Parking on yellow lines and in bus stop, 27th March :- [9199968](https://www.fixmystreet.com/report/9199968)
 - Large piece of chipboard left outside my house, 27th March :- [9199871](https://www.fixmystreet.com/report/9199871)
 - TMC - Defects -other CW6 problem, 27th March :- [9199634](https://www.fixmystreet.com/report/9199634)
-- TMC - Defects -other CW6 problem, 27th March :- [9199635](https://www.fixmystreet.com/report/9199635)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199633](https://www.fixmystreet.com/report/9199633)
-- Flytipping and general building waste from building site, 27th March :- [9198845](https://www.fixmystreet.com/report/9198845)
-- Broken paving slabs, permanently covered with gravel from nearby area, 27th March :- [9199370](https://www.fixmystreet.com/report/9199370)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199449](https://www.fixmystreet.com/report/9199449)
-- TMC - Defects -CW6 Potholes  problem, 27th March :- [9199446](https://www.fixmystreet.com/report/9199446)
-- TMC - Defects - Covers, Gratings & Frames problem, 27th March :- [9199442](https://www.fixmystreet.com/report/9199442)
 
 <!-- fix_marker ends -->

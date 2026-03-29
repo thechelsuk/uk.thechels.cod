@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This is quite a deep pothole., 29th March :- [9205950](https://www.fixmystreet.com/report/9205950)
+- Manhole cover rattles noisily when driven over - was repaired 3/4 years ago but has failed again, 29th March :- [9205794](https://www.fixmystreet.com/report/9205794)
+- Offensive graffiti on kids bus in playground, 29th March :- [9205726](https://www.fixmystreet.com/report/9205726)
+- Road closure signage left behind, 29th March :- [9205386](https://www.fixmystreet.com/report/9205386)
 - Between CTFC ground and other end of Whaddon Road, 29th March :- [9205025](https://www.fixmystreet.com/report/9205025)
 - Fly-tipped fridge on Brockhampton Lane, 29th March :- [9204983](https://www.fixmystreet.com/report/9204983)
 - Dumped mattresses, chairs and misc rubbish - unseen from road as it is below an embankment., 28th March :- [9204505](https://www.fixmystreet.com/report/9204505)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Flytipped bedding and something else Hanover St, 28th March :- [9202497](https://www.fixmystreet.com/report/9202497)
 - Flytipped card and board Larput Place, 28th March :- [9202485](https://www.fixmystreet.com/report/9202485)
 - [Portable loo] in lane behind Albert St, 28th March :- [9202467](https://www.fixmystreet.com/report/9202467)
-- Flytipped furniture multiple, 28th March :- [9202450](https://www.fixmystreet.com/report/9202450)
-- Flytipped garden waste rear of Hungerford st, 28th March :- [9202439](https://www.fixmystreet.com/report/9202439)
-- Flytipped sofa, 28th March :- [9202436](https://www.fixmystreet.com/report/9202436)
-- Flytipped plastic boxes rear of Hungerford St, 28th March :- [9202428](https://www.fixmystreet.com/report/9202428)
 
 <!-- fix_marker ends -->

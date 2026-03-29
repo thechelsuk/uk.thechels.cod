@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly-tipped fridge on Brockhampton Lane, 29th March :- [9204983](https://www.fixmystreet.com/report/9204983)
 - Dumped mattresses, chairs and misc rubbish - unseen from road as it is below an embankment., 28th March :- [9204505](https://www.fixmystreet.com/report/9204505)
 - Long uneven pothole been repaired before - breaking down needs fixing before it gets worse as drivers are not able to avoid, 28th March :- [9203746](https://www.fixmystreet.com/report/9203746)
 - Hedge blocking view, 28th March :- [9203359](https://www.fixmystreet.com/report/9203359)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipped sofa, 28th March :- [9202436](https://www.fixmystreet.com/report/9202436)
 - Flytipped plastic boxes rear of Hungerford St, 28th March :- [9202428](https://www.fixmystreet.com/report/9202428)
 - Flytipped chairs, 28th March :- [9202422](https://www.fixmystreet.com/report/9202422)
-- Flytipped flatpack furniture etc, 28th March :- [9202416](https://www.fixmystreet.com/report/9202416)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Temporary speed limit signs blocking new cycle path, 29th March :- [9207124](https://www.fixmystreet.com/report/9207124)
+- Traffic signal head appears to be not working, 29th March :- [9206968](https://www.fixmystreet.com/report/9206968)
+- Detached kerbstones outside 11 Holtham Avenue, 29th March :- [9206798](https://www.fixmystreet.com/report/9206798)
 - A pothole in road problem, 29th March :- [9206594](https://www.fixmystreet.com/report/9206594)
 - 4cm pothole on pavement - trip hazard, 29th March :- [9206391](https://www.fixmystreet.com/report/9206391)
 - GL516EE. 3 metre length times whole width of west bound carriageway comprising eroded tarmac and deep potholes., 29th March :- [9206382](https://www.fixmystreet.com/report/9206382)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Very uneven broken pavement, 28th March :- [9202713](https://www.fixmystreet.com/report/9202713)
 - Large pothole, 28th March :- [9202708](https://www.fixmystreet.com/report/9202708)
 - Deep pothole, 28th March :- [9202695](https://www.fixmystreet.com/report/9202695)
-- Pavement broken up and unusable outside number 3 st David’s close, 28th March :- [9202700](https://www.fixmystreet.com/report/9202700)
-- Deep pothole on Severn Road, 28th March :- [9202624](https://www.fixmystreet.com/report/9202624)
-- Concrete post broken and causing trip hazard on the pavement, 28th March :- [9202505](https://www.fixmystreet.com/report/9202505)
 
 <!-- fix_marker ends -->

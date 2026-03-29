@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole, 29th March :- [9208447](https://www.fixmystreet.com/report/9208447)
+- Potholes on edge of road, 29th March :- [9208304](https://www.fixmystreet.com/report/9208304)
+- Potholes still there, 29th March :- [9208296](https://www.fixmystreet.com/report/9208296)
 - Tree leaning dangerously, 29th March :- [9208093](https://www.fixmystreet.com/report/9208093)
 - Street light is permanently out problem, 29th March :- [9207692](https://www.fixmystreet.com/report/9207692)
 - Street lights out on Farm Lane, 29th March :- [9207254](https://www.fixmystreet.com/report/9207254)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Between CTFC ground and other end of Whaddon Road, 29th March :- [9205025](https://www.fixmystreet.com/report/9205025)
 - Fly-tipped fridge on Brockhampton Lane, 29th March :- [9204983](https://www.fixmystreet.com/report/9204983)
 - Dumped mattresses, chairs and misc rubbish - unseen from road as it is below an embankment., 28th March :- [9204505](https://www.fixmystreet.com/report/9204505)
-- Long uneven pothole been repaired before - breaking down needs fixing before it gets worse as drivers are not able to avoid, 28th March :- [9203746](https://www.fixmystreet.com/report/9203746)
-- Hedge blocking view, 28th March :- [9203359](https://www.fixmystreet.com/report/9203359)
-- Volunteer litter pick bags ready for collection, 28th March :- [9203351](https://www.fixmystreet.com/report/9203351)
 
 <!-- fix_marker ends -->

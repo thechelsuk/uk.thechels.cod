@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 29 March 2026
 
-- The average temperature today is 9.12˚C,
-- With highs of 10.4˚C and lows of 8.72˚C,
-- It may feel like 5.75˚C with scattered clouds
-- The wind speed is 7.2m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 90%
+- The average temperature today is 8.64˚C,
+- With highs of 10.52˚C and lows of 8.16˚C,
+- It may feel like 7.41˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 92%
 - The sun will rise at 05:50 and set at 18:35
 
 <!-- weather_marker ends -->

@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- New £372m motorway junction 'to open in 2029' ([12 hours ago](https://www.bbc.com/news/articles/cr712z3pl8jo?at_medium=RSS&at_campaign=rss))
-- 'Son's brain tumour was misdiagnosed as anxiety' ([18 hours ago](https://www.bbc.com/news/articles/cx2dxxy142jo?at_medium=RSS&at_campaign=rss))
-- Service charges coming under government scrutiny ([20 hours ago](https://www.bbc.com/news/articles/cdxd9ee1dwzo?at_medium=RSS&at_campaign=rss))
-- 'Soaring prescriptions' and 'wildlife murals' ([20 hours ago](https://www.bbc.com/news/articles/cgrlnlxpjrro?at_medium=RSS&at_campaign=rss))
+- New £372m motorway junction 'to open in 2029' ([13 hours ago](https://www.bbc.com/news/articles/cr712z3pl8jo?at_medium=RSS&at_campaign=rss))
+- 'Son's brain tumour was misdiagnosed as anxiety' ([19 hours ago](https://www.bbc.com/news/articles/cx2dxxy142jo?at_medium=RSS&at_campaign=rss))
+- Service charges coming under government scrutiny ([22 hours ago](https://www.bbc.com/news/articles/cdxd9ee1dwzo?at_medium=RSS&at_campaign=rss))
+- 'Soaring prescriptions' and 'wildlife murals' ([22 hours ago](https://www.bbc.com/news/articles/cgrlnlxpjrro?at_medium=RSS&at_campaign=rss))
 - Trio guilty of stealing puppies bred for research ([1 days ago](https://www.bbc.com/news/articles/c5yv7rxer0ro?at_medium=RSS&at_campaign=rss))
 - Match to raise funds for ex-rugby star's MND charity ([1 days ago](https://www.bbc.com/news/articles/cm2r9pgyx4eo?at_medium=RSS&at_campaign=rss))
 - Eggs thrown at LGBTQ+ venue in 'suspected hate crime' ([1 days ago](https://www.bbc.com/news/articles/c2k352dqy77o?at_medium=RSS&at_campaign=rss))

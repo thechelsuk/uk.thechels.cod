@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 29th March :- [9206594](https://www.fixmystreet.com/report/9206594)
+- 4cm pothole on pavement - trip hazard, 29th March :- [9206391](https://www.fixmystreet.com/report/9206391)
+- GL516EE. 3 metre length times whole width of west bound carriageway comprising eroded tarmac and deep potholes., 29th March :- [9206382](https://www.fixmystreet.com/report/9206382)
 - This is quite a deep pothole., 29th March :- [9205950](https://www.fixmystreet.com/report/9205950)
 - Manhole cover rattles noisily when driven over - was repaired 3/4 years ago but has failed again, 29th March :- [9205794](https://www.fixmystreet.com/report/9205794)
 - Offensive graffiti on kids bus in playground, 29th March :- [9205726](https://www.fixmystreet.com/report/9205726)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pavement broken up and unusable outside number 3 st David’s close, 28th March :- [9202700](https://www.fixmystreet.com/report/9202700)
 - Deep pothole on Severn Road, 28th March :- [9202624](https://www.fixmystreet.com/report/9202624)
 - Concrete post broken and causing trip hazard on the pavement, 28th March :- [9202505](https://www.fixmystreet.com/report/9202505)
-- Flytipped bedding and something else Hanover St, 28th March :- [9202497](https://www.fixmystreet.com/report/9202497)
-- Flytipped card and board Larput Place, 28th March :- [9202485](https://www.fixmystreet.com/report/9202485)
-- [Portable loo] in lane behind Albert St, 28th March :- [9202467](https://www.fixmystreet.com/report/9202467)
 
 <!-- fix_marker ends -->

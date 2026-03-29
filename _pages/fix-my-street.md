@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light is permanently out problem, 29th March :- [9207692](https://www.fixmystreet.com/report/9207692)
+- Street lights out on Farm Lane, 29th March :- [9207254](https://www.fixmystreet.com/report/9207254)
+- A pothole in road problem, 29th March :- [9207422](https://www.fixmystreet.com/report/9207422)
 - Temporary speed limit signs blocking new cycle path, 29th March :- [9207124](https://www.fixmystreet.com/report/9207124)
 - Traffic signal head appears to be not working, 29th March :- [9206968](https://www.fixmystreet.com/report/9206968)
 - Detached kerbstones outside 11 Holtham Avenue, 29th March :- [9206798](https://www.fixmystreet.com/report/9206798)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Hedge blocking view, 28th March :- [9203359](https://www.fixmystreet.com/report/9203359)
 - Volunteer litter pick bags ready for collection, 28th March :- [9203351](https://www.fixmystreet.com/report/9203351)
 - Unsafe, uneven cracked pavement, 28th March :- [9202736](https://www.fixmystreet.com/report/9202736)
-- Very uneven broken pavement, 28th March :- [9202713](https://www.fixmystreet.com/report/9202713)
-- Large pothole, 28th March :- [9202708](https://www.fixmystreet.com/report/9202708)
-- Deep pothole, 28th March :- [9202695](https://www.fixmystreet.com/report/9202695)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic light timing seems wrong, 30th March :- [9215177](https://www.fixmystreet.com/report/9215177)
+- Timings at the pedestrian crossing causing significant delays to traffic, 30th March :- [9214985](https://www.fixmystreet.com/report/9214985)
 - Plastic barriers partially blocking footpath, 30th March :- [9214353](https://www.fixmystreet.com/report/9214353)
 - Bridleway damaged, 30th March :- [9213990](https://www.fixmystreet.com/report/9213990)
 - Public right of way blocked, 30th March :- [9213877](https://www.fixmystreet.com/report/9213877)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Map error, 30th March :- [9211967](https://www.fixmystreet.com/report/9211967)
 - A pothole in road problem, 30th March :- [9211945](https://www.fixmystreet.com/report/9211945)
 - Dog fouling on pavement, 30th March :- [9211457](https://www.fixmystreet.com/report/9211457)
-- Broken glass on footpath., 30th March :- [9211260](https://www.fixmystreet.com/report/9211260)
-- Foul smell in lane., 30th March :- [9211235](https://www.fixmystreet.com/report/9211235)
 
 <!-- fix_marker ends -->

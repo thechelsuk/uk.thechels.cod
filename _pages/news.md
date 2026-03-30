@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- The gym where kids can be themselves 'with no judgement' ([1 hours ago](https://www.bbc.com/news/articles/c4gx90m2kgpo?at_medium=RSS&at_campaign=rss))
-- Warning to young men after son dies from cancer ([1 hours ago](https://www.bbc.com/news/articles/c39313rlklyo?at_medium=RSS&at_campaign=rss))
-- Jack Russell selling military medal collection ([18 hours ago](https://www.bbc.com/news/articles/c20dlwe482xo?at_medium=RSS&at_campaign=rss))
-- Early Bronze Age artefacts go on display at museum ([19 hours ago](https://www.bbc.com/news/articles/c7vqz4r0z9lo?at_medium=RSS&at_campaign=rss))
+- The gym where kids can be themselves 'with no judgement' ([3 hours ago](https://www.bbc.com/news/articles/c4gx90m2kgpo?at_medium=RSS&at_campaign=rss))
+- Mum's warning to young men after son dies from cancer ([3 hours ago](https://www.bbc.com/news/articles/c39313rlklyo?at_medium=RSS&at_campaign=rss))
+- Jack Russell selling military medal collection ([20 hours ago](https://www.bbc.com/news/articles/c20dlwe482xo?at_medium=RSS&at_campaign=rss))
+- Early Bronze Age artefacts go on display at museum ([21 hours ago](https://www.bbc.com/news/articles/c7vqz4r0z9lo?at_medium=RSS&at_campaign=rss))
 - In Pictures: Spring cleans and secret paintings ([1 days ago](https://www.bbc.com/news/articles/c3r3ql1q2lvo?at_medium=RSS&at_campaign=rss))
 - 'Public need to be better prepared for war' ([1 days ago](https://www.bbc.com/news/articles/cq59g12d6plo?at_medium=RSS&at_campaign=rss))
 - New £372m motorway junction 'to open in 2029' ([1 days ago](https://www.bbc.com/news/articles/cr712z3pl8jo?at_medium=RSS&at_campaign=rss))
@@ -40,7 +40,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New kerbside recycling service for cartons ([4 days ago](https://gloucesternewscentre.co.uk/new-kerbside-recycling-service-for-cartons/))
 - Questions over future of closed Cheltenham tip ([4 days ago](https://gloucesternewscentre.co.uk/questions-over-future-of-closed-cheltenham-tip/))
 - Cheltenham’s target to build 16,420 blasted as ‘totally unrealistic’ ([4 days ago](https://gloucesternewscentre.co.uk/cheltenhams-target-to-build-16420-blasted-as-totally-unrealistic/))
-- Cheltenham residents can recycle even more from the kerbside from 1 April ([4 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
+- Cheltenham residents can recycle even more from the kerbside from 1 April ([5 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
 - Cheltenham mum to run London Marathon then 100 miles home in memory of friend ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-mum-to-run-london-marathon-then-100-miles-home-in-memory-of-friend/))
 - Calls for citizens’ assembly to have say future of airport ([6 days ago](https://gloucesternewscentre.co.uk/calls-for-citizens-assembly-to-have-say-future-of-airport/))
 - Don’t miss your right to vote, register by Monday 20 April 2026 ([6 days ago](https://www.cheltenham.gov.uk/news/article/3114/dont_miss_your_right_to_vote_register_by_monday_20_april_2026))

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The drain is blocked problem, 30th March :- [9210054](https://www.fixmystreet.com/report/9210054)
+- Circa 8 inch pothole on Down Hatherley Lane, near church, 30th March :- [9209855](https://www.fixmystreet.com/report/9209855)
 - Pothole, 30th March :- [9209197](https://www.fixmystreet.com/report/9209197)
 - 2 manholes partially collapsed and with loose covers, 30th March :- [9207294](https://www.fixmystreet.com/report/9207294)
 - Multiple potholes along the short length of Crescent Place makes it difficult to steer clear of them, 30th March :- [9208974](https://www.fixmystreet.com/report/9208974)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 4cm pothole on pavement - trip hazard, 29th March :- [9206391](https://www.fixmystreet.com/report/9206391)
 - GL516EE. 3 metre length times whole width of west bound carriageway comprising eroded tarmac and deep potholes., 29th March :- [9206382](https://www.fixmystreet.com/report/9206382)
 - This is quite a deep pothole., 29th March :- [9205950](https://www.fixmystreet.com/report/9205950)
-- Manhole cover rattles noisily when driven over - was repaired 3/4 years ago but has failed again, 29th March :- [9205794](https://www.fixmystreet.com/report/9205794)
-- Offensive graffiti on kids bus in playground, 29th March :- [9205726](https://www.fixmystreet.com/report/9205726)
 
 <!-- fix_marker ends -->

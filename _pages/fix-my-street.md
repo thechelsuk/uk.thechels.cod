@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bridleway damaged, 30th March :- [9213990](https://www.fixmystreet.com/report/9213990)
+- Public right of way blocked, 30th March :- [9213877](https://www.fixmystreet.com/report/9213877)
+- Drain blocked between Casino and Paparitos, 30th March :- [9213592](https://www.fixmystreet.com/report/9213592)
+- Still NO bus shelters on Cheltenham Road Longlevens, 30th March :- [9213518](https://www.fixmystreet.com/report/9213518)
 - The recent a40 closure forced heavy traffic through the village for 4 months and many verges are ruined, 30th March :- [9213124](https://www.fixmystreet.com/report/9213124)
 - Road needs repaving in entirety, 30th March :- [9212748](https://www.fixmystreet.com/report/9212748)
 - Gate is damaged/missing/locked problem, 30th March :- [9212698](https://www.fixmystreet.com/report/9212698)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Broken glass on footpath., 30th March :- [9211260](https://www.fixmystreet.com/report/9211260)
 - Foul smell in lane., 30th March :- [9211235](https://www.fixmystreet.com/report/9211235)
 - A pothole in road problem, 30th March :- [9211695](https://www.fixmystreet.com/report/9211695)
-- Various pot holes have been repaired but one remains the area is like a patchwork quilt and want completely resurfacing wate gathers round the patches and splashes everywhere Debri and tarmac bits remain in the gutter and pavement, 30th March :- [9210584](https://www.fixmystreet.com/report/9210584)
-- The tree directly outside No 3 Vittoria Walk has lost heavy branches regularly and hit vehicles. We do not feel it safe to park outside the Ouse. Along with significant debris falling on to our front garden. Next door (no 5) currently has their tree being taken down. Tho has been an issue for a significant period of time ( 2 x years) and has been reported. It is a shame that this could not have been addressed whilst the councils tree surgeons are on Vittoria Walk, 30th March :- [9210264](https://www.fixmystreet.com/report/9210264)
-- Tree is damaged problem, 30th March :- [9210637](https://www.fixmystreet.com/report/9210637)
-- The drain is blocked problem, 30th March :- [9210054](https://www.fixmystreet.com/report/9210054)
 
 <!-- fix_marker ends -->

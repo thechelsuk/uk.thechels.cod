@@ -7,10 +7,10 @@ url: https://cod.thechels.uk
 copyright: "Cheltenham Open Data - All data is owned by the respective data providers. No liability is accepted for the accuracy of the data."
 encoding: UTF-8
 future: false
-repository: Mat-0/cheltenham-open-data
+repository: thechelsuk/uk.thechels.cod
 defaultImagePath: "/images/splashscreens/apple-touch-icon-180x180.png"
 github:
-  repository_url: https://github.com/Mat-0/cheltenham-open-data
+  repository_url: https://github.com/thechelsuk/uk.thechels.cod
   branch: main
 sass:
   style: compressed

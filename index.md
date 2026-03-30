@@ -20,10 +20,15 @@ permalink: /
 
 <!-- weather_marker ends -->
 
-## Sponsors
+## Sponsors & Offers
 
 - [Get £50 credit when switching to Octopus Energy](https://bit.ly/3oD1nnS)
-- [Get £75 when taking a 1000mb YouFibre broadband plan](https://aklam.io/91zWhU?)
+- [Get upto £100 cashback when taking a YouFibre broadband plan with code 5QGYSF](https://youfibre.com)
+- [Get £5 free credit when you join the Electrovers](https://electroverse.octopus.energy/sign-up/magic?referralCode=aglow-louse-16571)
+- [Get a £25 Visa card when you install a charger with Octopus](https://tech.referrals.octopus.energy/ulLGI6SC)
+- [Choose a gift card up to £20 when you join Smarty Mobile](https://i.smarty.co.uk/CSj6iK)
+
+_Terms and Conditions apply - see offer for details_
 
 ## Farmers Market
 

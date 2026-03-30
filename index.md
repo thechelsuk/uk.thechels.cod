@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 30 March 2026
 
-- The average temperature today is 6.07˚C,
-- With highs of 6.07˚C and lows of 6.07˚C,
-- It may feel like 3.54˚C with few clouds
-- The wind speed is 3.37m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 87%
+- The average temperature today is 7.65˚C,
+- With highs of 7.76˚C and lows of 6.83˚C,
+- It may feel like 7.65˚C with scattered clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 79%
 - The sun will rise at 05:48 and set at 18:37
 
 <!-- weather_marker ends -->

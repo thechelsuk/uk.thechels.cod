@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole, 30th March :- [9209197](https://www.fixmystreet.com/report/9209197)
+- 2 manholes partially collapsed and with loose covers, 30th March :- [9207294](https://www.fixmystreet.com/report/9207294)
 - Multiple potholes along the short length of Crescent Place makes it difficult to steer clear of them, 30th March :- [9208974](https://www.fixmystreet.com/report/9208974)
 - Large pothole. Narrow road so cant avoid, 29th March :- [9208711](https://www.fixmystreet.com/report/9208711)
 - Pothole, 29th March :- [9208447](https://www.fixmystreet.com/report/9208447)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - This is quite a deep pothole., 29th March :- [9205950](https://www.fixmystreet.com/report/9205950)
 - Manhole cover rattles noisily when driven over - was repaired 3/4 years ago but has failed again, 29th March :- [9205794](https://www.fixmystreet.com/report/9205794)
 - Offensive graffiti on kids bus in playground, 29th March :- [9205726](https://www.fixmystreet.com/report/9205726)
-- Road closure signage left behind, 29th March :- [9205386](https://www.fixmystreet.com/report/9205386)
-- Between CTFC ground and other end of Whaddon Road, 29th March :- [9205025](https://www.fixmystreet.com/report/9205025)
 
 <!-- fix_marker ends -->

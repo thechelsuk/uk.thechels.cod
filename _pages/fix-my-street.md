@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned car with smashed glass, 30th March :- [9215310](https://www.fixmystreet.com/report/9215310)
 - Traffic light timing seems wrong, 30th March :- [9215177](https://www.fixmystreet.com/report/9215177)
 - Timings at the pedestrian crossing causing significant delays to traffic, 30th March :- [9214985](https://www.fixmystreet.com/report/9214985)
 - Plastic barriers partially blocking footpath, 30th March :- [9214353](https://www.fixmystreet.com/report/9214353)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Another map error, 30th March :- [9211976](https://www.fixmystreet.com/report/9211976)
 - Map error, 30th March :- [9211967](https://www.fixmystreet.com/report/9211967)
 - A pothole in road problem, 30th March :- [9211945](https://www.fixmystreet.com/report/9211945)
-- Dog fouling on pavement, 30th March :- [9211457](https://www.fixmystreet.com/report/9211457)
 
 <!-- fix_marker ends -->

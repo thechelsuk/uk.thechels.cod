@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Arrest after woman dies in serious crash ([3 hours ago](https://www.bbc.com/news/articles/cg40137xey4o?at_medium=RSS&at_campaign=rss))
-- Next court date set for ex-Radio 1 DJ Tim Westwood ([5 hours ago](https://www.bbc.com/news/articles/cpvxr0g8pzdo?at_medium=RSS&at_campaign=rss))
-- Gloucestershire councils set sights on future membership of the West of England Combined Authority ([10 hours ago](https://www.cheltenham.gov.uk/news/article/3119/gloucestershire_councils_set_sights_on_future_membership_of_the_west_of_england_combined_authority))
-- Concerns over £166k cost of rehoming bats ([11 hours ago](https://www.bbc.com/news/articles/cge0nqee84yo?at_medium=RSS&at_campaign=rss))
-- The gym where kids can be themselves 'with no judgement' ([15 hours ago](https://www.bbc.com/news/articles/c4gx90m2kgpo?at_medium=RSS&at_campaign=rss))
-- Mum's warning to young men after son dies from cancer ([15 hours ago](https://www.bbc.com/news/articles/c39313rlklyo?at_medium=RSS&at_campaign=rss))
+- Arrest after woman dies in serious crash ([5 hours ago](https://www.bbc.com/news/articles/cg40137xey4o?at_medium=RSS&at_campaign=rss))
+- Next court date set for ex-Radio 1 DJ Tim Westwood ([7 hours ago](https://www.bbc.com/news/articles/cpvxr0g8pzdo?at_medium=RSS&at_campaign=rss))
+- Gloucestershire councils set sights on future membership of the West of England Combined Authority ([12 hours ago](https://www.cheltenham.gov.uk/news/article/3119/gloucestershire_councils_set_sights_on_future_membership_of_the_west_of_england_combined_authority))
+- Concerns over £166k cost of rehoming bats ([13 hours ago](https://www.bbc.com/news/articles/cge0nqee84yo?at_medium=RSS&at_campaign=rss))
+- The gym where kids can be themselves 'with no judgement' ([17 hours ago](https://www.bbc.com/news/articles/c4gx90m2kgpo?at_medium=RSS&at_campaign=rss))
+- Mum's warning to young men after son dies from cancer ([17 hours ago](https://www.bbc.com/news/articles/c39313rlklyo?at_medium=RSS&at_campaign=rss))
 - Jack Russell selling military medal collection ([1 days ago](https://www.bbc.com/news/articles/c20dlwe482xo?at_medium=RSS&at_campaign=rss))
 - Early Bronze Age artefacts go on display at museum ([1 days ago](https://www.bbc.com/news/articles/c7vqz4r0z9lo?at_medium=RSS&at_campaign=rss))
 - In Pictures: Spring cleans and secret paintings ([1 days ago](https://www.bbc.com/news/articles/c3r3ql1q2lvo?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Plastic barriers partially blocking footpath, 30th March :- [9214353](https://www.fixmystreet.com/report/9214353)
 - Bridleway damaged, 30th March :- [9213990](https://www.fixmystreet.com/report/9213990)
 - Public right of way blocked, 30th March :- [9213877](https://www.fixmystreet.com/report/9213877)
 - Drain blocked between Casino and Paparitos, 30th March :- [9213592](https://www.fixmystreet.com/report/9213592)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dog fouling on pavement, 30th March :- [9211457](https://www.fixmystreet.com/report/9211457)
 - Broken glass on footpath., 30th March :- [9211260](https://www.fixmystreet.com/report/9211260)
 - Foul smell in lane., 30th March :- [9211235](https://www.fixmystreet.com/report/9211235)
-- A pothole in road problem, 30th March :- [9211695](https://www.fixmystreet.com/report/9211695)
 
 <!-- fix_marker ends -->

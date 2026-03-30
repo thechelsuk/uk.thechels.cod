@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Jack Russell selling military medal collection ([12 hours ago](https://www.bbc.com/news/articles/c20dlwe482xo?at_medium=RSS&at_campaign=rss))
-- Early Bronze Age artefacts go on display at museum ([13 hours ago](https://www.bbc.com/news/articles/c7vqz4r0z9lo?at_medium=RSS&at_campaign=rss))
-- In Pictures: Spring cleans and secret paintings ([18 hours ago](https://www.bbc.com/news/articles/c3r3ql1q2lvo?at_medium=RSS&at_campaign=rss))
-- 'Public need to be better prepared for war' ([18 hours ago](https://www.bbc.com/news/articles/cq59g12d6plo?at_medium=RSS&at_campaign=rss))
+- Jack Russell selling military medal collection ([14 hours ago](https://www.bbc.com/news/articles/c20dlwe482xo?at_medium=RSS&at_campaign=rss))
+- Early Bronze Age artefacts go on display at museum ([16 hours ago](https://www.bbc.com/news/articles/c7vqz4r0z9lo?at_medium=RSS&at_campaign=rss))
+- In Pictures: Spring cleans and secret paintings ([20 hours ago](https://www.bbc.com/news/articles/c3r3ql1q2lvo?at_medium=RSS&at_campaign=rss))
+- 'Public need to be better prepared for war' ([21 hours ago](https://www.bbc.com/news/articles/cq59g12d6plo?at_medium=RSS&at_campaign=rss))
 - New £372m motorway junction 'to open in 2029' ([1 days ago](https://www.bbc.com/news/articles/cr712z3pl8jo?at_medium=RSS&at_campaign=rss))
 - 'Son's brain tumour was misdiagnosed as anxiety' ([1 days ago](https://www.bbc.com/news/articles/cx2dxxy142jo?at_medium=RSS&at_campaign=rss))
 - Service charges coming under government scrutiny ([1 days ago](https://www.bbc.com/news/articles/cdxd9ee1dwzo?at_medium=RSS&at_campaign=rss))

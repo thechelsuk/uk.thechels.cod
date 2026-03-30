@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes along the short length of Crescent Place makes it difficult to steer clear of them, 30th March :- [9208974](https://www.fixmystreet.com/report/9208974)
 - Large pothole. Narrow road so cant avoid, 29th March :- [9208711](https://www.fixmystreet.com/report/9208711)
 - Pothole, 29th March :- [9208447](https://www.fixmystreet.com/report/9208447)
 - Potholes on edge of road, 29th March :- [9208304](https://www.fixmystreet.com/report/9208304)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Offensive graffiti on kids bus in playground, 29th March :- [9205726](https://www.fixmystreet.com/report/9205726)
 - Road closure signage left behind, 29th March :- [9205386](https://www.fixmystreet.com/report/9205386)
 - Between CTFC ground and other end of Whaddon Road, 29th March :- [9205025](https://www.fixmystreet.com/report/9205025)
-- Fly-tipped fridge on Brockhampton Lane, 29th March :- [9204983](https://www.fixmystreet.com/report/9204983)
 
 <!-- fix_marker ends -->

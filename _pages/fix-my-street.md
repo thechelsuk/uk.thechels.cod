@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass on footpath., 30th March :- [9211260](https://www.fixmystreet.com/report/9211260)
+- Foul smell in lane., 30th March :- [9211235](https://www.fixmystreet.com/report/9211235)
+- Various pot holes have been repaired but one remains the area is like a patchwork quilt and want completely resurfacing wate gathers round the patches and splashes everywhere Debri and tarmac bits remain in the gutter and pavement, 30th March :- [9210584](https://www.fixmystreet.com/report/9210584)
+- The tree directly outside No 3 Vittoria Walk has lost heavy branches regularly and hit vehicles. We do not feel it safe to park outside the Ouse. Along with significant debris falling on to our front garden. Next door (no 5) currently has their tree being taken down. Tho has been an issue for a significant period of time ( 2 x years) and has been reported. It is a shame that this could not have been addressed whilst the councils tree surgeons are on Vittoria Walk, 30th March :- [9210264](https://www.fixmystreet.com/report/9210264)
+- Tree is damaged problem, 30th March :- [9210637](https://www.fixmystreet.com/report/9210637)
 - The drain is blocked problem, 30th March :- [9210054](https://www.fixmystreet.com/report/9210054)
 - Circa 8 inch pothole on Down Hatherley Lane, near church, 30th March :- [9209855](https://www.fixmystreet.com/report/9209855)
 - Pothole, 30th March :- [9209197](https://www.fixmystreet.com/report/9209197)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 29th March :- [9207422](https://www.fixmystreet.com/report/9207422)
 - Temporary speed limit signs blocking new cycle path, 29th March :- [9207124](https://www.fixmystreet.com/report/9207124)
 - Traffic signal head appears to be not working, 29th March :- [9206968](https://www.fixmystreet.com/report/9206968)
-- Detached kerbstones outside 11 Holtham Avenue, 29th March :- [9206798](https://www.fixmystreet.com/report/9206798)
-- A pothole in road problem, 29th March :- [9206594](https://www.fixmystreet.com/report/9206594)
-- 4cm pothole on pavement - trip hazard, 29th March :- [9206391](https://www.fixmystreet.com/report/9206391)
-- GL516EE. 3 metre length times whole width of west bound carriageway comprising eroded tarmac and deep potholes., 29th March :- [9206382](https://www.fixmystreet.com/report/9206382)
-- This is quite a deep pothole., 29th March :- [9205950](https://www.fixmystreet.com/report/9205950)
 
 <!-- fix_marker ends -->

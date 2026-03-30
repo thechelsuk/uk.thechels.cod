@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The recent a40 closure forced heavy traffic through the village for 4 months and many verges are ruined, 30th March :- [9213124](https://www.fixmystreet.com/report/9213124)
+- Road needs repaving in entirety, 30th March :- [9212748](https://www.fixmystreet.com/report/9212748)
+- Gate is damaged/missing/locked problem, 30th March :- [9212698](https://www.fixmystreet.com/report/9212698)
+- Loose drain cover causing loud noise day and night, 30th March :- [9212429](https://www.fixmystreet.com/report/9212429)
 - The junction of Hucclecote Road with the A417 in the direction of Ermin Street is lettered with potholes of varying sizes., 30th March :- [9111408](https://www.fixmystreet.com/report/9111408)
 - TMC - Defects - Vegetation problem, 30th March :- [9212200](https://www.fixmystreet.com/report/9212200)
 - Tree is damaged problem, 30th March :- [9212199](https://www.fixmystreet.com/report/9212199)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - The tree directly outside No 3 Vittoria Walk has lost heavy branches regularly and hit vehicles. We do not feel it safe to park outside the Ouse. Along with significant debris falling on to our front garden. Next door (no 5) currently has their tree being taken down. Tho has been an issue for a significant period of time ( 2 x years) and has been reported. It is a shame that this could not have been addressed whilst the councils tree surgeons are on Vittoria Walk, 30th March :- [9210264](https://www.fixmystreet.com/report/9210264)
 - Tree is damaged problem, 30th March :- [9210637](https://www.fixmystreet.com/report/9210637)
 - The drain is blocked problem, 30th March :- [9210054](https://www.fixmystreet.com/report/9210054)
-- Circa 8 inch pothole on Down Hatherley Lane, near church, 30th March :- [9209855](https://www.fixmystreet.com/report/9209855)
-- Pothole, 30th March :- [9209197](https://www.fixmystreet.com/report/9209197)
-- 2 manholes partially collapsed and with loose covers, 30th March :- [9207294](https://www.fixmystreet.com/report/9207294)
-- Multiple potholes along the short length of Crescent Place makes it difficult to steer clear of them, 30th March :- [9208974](https://www.fixmystreet.com/report/9208974)
 
 <!-- fix_marker ends -->

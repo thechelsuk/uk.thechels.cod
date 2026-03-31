@@ -25,9 +25,9 @@ permalink: /fix-my-street
 - Tree is damaged problem, 31st March :- [9217902](https://www.fixmystreet.com/report/9217902)
 - TMC - Defects - Kerbs and Channels problem, 31st March :- [9217903](https://www.fixmystreet.com/report/9217903)
 - TMC - Defects - Signs & Street Furniture problem, 31st March :- [9217643](https://www.fixmystreet.com/report/9217643)
-- TMC - Defects -CW6 Potholes  problem, 31st March :- [9217391](https://www.fixmystreet.com/report/9217391)
-- TMC - Defects -CW6 Potholes  problem, 31st March :- [9217385](https://www.fixmystreet.com/report/9217385)
-- TMC - Defects -CW6 Potholes  problem, 31st March :- [9217389](https://www.fixmystreet.com/report/9217389)
 - TMC - Defects -other CW6 problem, 31st March :- [9217390](https://www.fixmystreet.com/report/9217390)
+- TMC - Defects -CW6 Potholes  problem, 31st March :- [9217386](https://www.fixmystreet.com/report/9217386)
+- TMC - Defects -CW6 Potholes  problem, 31st March :- [9217387](https://www.fixmystreet.com/report/9217387)
+- TMC - Defects -CW6 Potholes  problem, 31st March :- [9217391](https://www.fixmystreet.com/report/9217391)
 
 <!-- fix_marker ends -->

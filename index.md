@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Monday, 30 March 2026
+## On Tuesday, 31 March 2026
 
-- The average temperature today is 8.15˚C,
-- With highs of 8.15˚C and lows of 8.15˚C,
-- It may feel like 8.15˚C with scattered clouds
+- The average temperature today is 8.47˚C,
+- With highs of 9.41˚C and lows of 7.69˚C,
+- It may feel like 8.47˚C with overcast clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1029hPa and humidity is 76%
+- The pressure is 1029hPa and humidity is 81%
 - The sun will rise at 05:45 and set at 18:38
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SUBSTANTIAL
 
 - Current threat level: SUBSTANTIAL
-- It has been 755 days since the last change (2024-03-05)
+- It has been 756 days since the last change (2024-03-05)
 - Details: The current national threat level is SUBSTANTIAL. The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
 
 <!-- threat_marker ends -->

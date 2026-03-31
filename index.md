@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 31 March 2026
 
-- The average temperature today is 8.87˚C,
-- With highs of 9.6˚C and lows of 8.25˚C,
-- It may feel like 8.87˚C with overcast clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1028hPa and humidity is 86%
+- The average temperature today is 9.67˚C,
+- With highs of 9.67˚C and lows of 9.67˚C,
+- It may feel like 8.01˚C with overcast clouds
+- The wind speed is 3.18m/s and visibility is 10000m
+- The pressure is 1029hPa and humidity is 88%
 - The sun will rise at 05:45 and set at 18:38
 
 <!-- weather_marker ends -->

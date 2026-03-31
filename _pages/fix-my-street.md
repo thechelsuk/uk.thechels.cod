@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 40 speed limit sign facing wrong way, 31st March :- [9215628](https://www.fixmystreet.com/report/9215628)
 - Abandoned car with smashed glass, 30th March :- [9215310](https://www.fixmystreet.com/report/9215310)
 - Traffic light timing seems wrong, 30th March :- [9215177](https://www.fixmystreet.com/report/9215177)
 - Timings at the pedestrian crossing causing significant delays to traffic, 30th March :- [9214985](https://www.fixmystreet.com/report/9214985)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flytipping, 30th March :- [9212001](https://www.fixmystreet.com/report/9212001)
 - Another map error, 30th March :- [9211976](https://www.fixmystreet.com/report/9211976)
 - Map error, 30th March :- [9211967](https://www.fixmystreet.com/report/9211967)
-- A pothole in road problem, 30th March :- [9211945](https://www.fixmystreet.com/report/9211945)
 
 <!-- fix_marker ends -->

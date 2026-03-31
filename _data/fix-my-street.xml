@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,6 +14,123 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects - Footways Slabs problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217909</link>
+<description>Loose and rocking slab&amp;#10;900x600x20mm&amp;#10;Standard TM with temp FW closure&amp;#10;Stats (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217909&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217909</guid>
+<pubDate>Tue, 31 Mar 2026 11:59:08 +0100</pubDate>
+<georss:point>51.8973507 -2.07057119999999</georss:point>
+</item>
+<item>
+<title>Tree is damaged problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217902</link>
+<description>Long branch that has snapped and is now hanging low vertically and may possibly snap off and cause damage to passing traffic or cyclists especially with current high winds.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217902&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree is damaged</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217902</guid>
+<pubDate>Tue, 31 Mar 2026 11:37:53 +0100</pubDate>
+<georss:point>51.886408 -2.091513</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Kerbs and Channels problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217903</link>
+<description>2hr&amp;#10;Damaged/tripped kerb&amp;#10;Chipped dropped kerb. Please fill with concrete&amp;#10;300x200x60mm &amp;#10;Standard TM with temp FW closure (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217903&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217903</guid>
+<pubDate>Tue, 31 Mar 2026 11:33:58 +0100</pubDate>
+<georss:point>51.900529 -2.07403659999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217643</link>
+<description>Damaged bollard&amp;#10;Bollard does not hold correct position and twists so keep left signage does not show. Please can bollard be fixed to hold position or be replaced. &amp;#10;Road closure (Damaged Bollard)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217643&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217643</guid>
+<pubDate>Tue, 31 Mar 2026 11:12:41 +0100</pubDate>
+<georss:point>51.8967512 -2.06928039999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217387</link>
+<description>15DB CW: Pothole &amp;#10;300mmx300mmx43mm&amp;#10;TM: temporary road closure &amp;#10;Outside 2 Cursey Cottage (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217387&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217387</guid>
+<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
+<georss:point>51.9534578 -2.15833270000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217390</link>
+<description>15DB CW: Edge deteration (Patch Required).&amp;#10;2200mmx400mmx69mm&amp;#10;TM: temporary lane closure &amp;#10;Next to Green Cabinet (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217390&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217390</guid>
+<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
+<georss:point>51.95241 -2.1585526</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217386</link>
+<description>15DB CW: Pothole &amp;#10;300mmx500mmx58mm&amp;#10;TM: temporary road closure &amp;#10;Outside 2 Cursey Cottage (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217386&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217386</guid>
+<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
+<georss:point>51.9535149 -2.158338</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217389</link>
+<description>15DB CW: Pothole &amp;#10;1000mmx1700mmx52mm&amp;#10;TM: temporary road closure &amp;#10;W3w airfields.perch.whimpered (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217389&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217389</guid>
+<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
+<georss:point>51.952711 -2.1584925</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217391</link>
+<description>15DB CW: Pothole &amp;#10;500mmx400mmx70mm&amp;#10;TM: temporary lane closure &amp;#10;Next to Green Cabinet (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217391&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217391</guid>
+<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
+<georss:point>51.9523804 -2.15857640000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217385</link>
+<description>CW: Pothole &amp;#10;500mmx1100mmx51mm&amp;#10;TM: Give and Take &amp;#10;Outside 2 Cursey Cottage (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217385&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217385</guid>
+<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
+<georss:point>51.9532781 -2.15831659999998</georss:point>
+</item>
+<item>
+<title>Cheltenham sign pointing opposite direction to Town, 31st March</title>
+<link>https://www.fixmystreet.com/report/9216944</link>
+<description>The sign on the 2nd exit of the GE roundabout, heading away from Cheltenham, has Cheltenham 5 miles on it. No further signs in this direction to Cheltenham, although local knowledge- you can get to Cheltenham via Stoke Road. I would suggest this sign is mis leading.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9216944.0.jpeg?c25e03c5&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): A435, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216944&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Sign plate is misaligned (Non illuminating sign)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9216944</guid>
+<pubDate>Tue, 31 Mar 2026 10:23:00 +0100</pubDate>
+<georss:point>51.937443 -2.066367</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217080</link>
+<description>15DB CW: Pothole &amp;#10;900mmx2300mmx56mm&amp;#10;TM: temporary road closure &amp;#10;Outside No 2 Church View (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217080&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217080</guid>
+<pubDate>Tue, 31 Mar 2026 10:17:16 +0100</pubDate>
+<georss:point>51.9239683 -2.12807259999999</georss:point>
+</item>
+<item>
+<title>Large potholes on Athelney Way, 31st March</title>
+<link>https://www.fixmystreet.com/report/9216881</link>
+<description>There are a number of large potholes on Athelney Way close to the junction with Hales Road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9216881.0.jpeg?3367c2d3&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Athelney Way, Fairview, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216881&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>A pothole in road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9216881</guid>
+<pubDate>Tue, 31 Mar 2026 10:16:35 +0100</pubDate>
+<georss:point>51.895744 -2.060666</georss:point>
+</item>
 <item>
 <title>Tree is damaged problem, 31st March</title>
 <link>https://www.fixmystreet.com/report/9216780</link>
@@ -76,123 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9216383</guid>
 <pubDate>Tue, 31 Mar 2026 09:19:18 +0100</pubDate>
 <georss:point>51.888287 -2.080925</georss:point>
-</item>
-<item>
-<title>Fly tipped fridge freezer, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216370</link>
-<description>Flytipped overnight on 30-31 March 2026&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9216370.0.jpeg?4ba16fde&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 54, Shakespeare Road, St Mark&#39;s, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216370&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216370</guid>
-<pubDate>Tue, 31 Mar 2026 09:17:41 +0100</pubDate>
-<georss:point>51.900761 -2.113168</georss:point>
-</item>
-<item>
-<title>Multiple potholes, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216350</link>
-<description>Along this stretch there are multiple potholes, some worse than others. some have been repaired badly. there is an area of 3 or 4 square metres that is a patch work of uneven surfaces and potholes. it needs resurfacing&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9216350.0.jpeg?f0972251&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 32;34, Grafton Road, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216350&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216350</guid>
-<pubDate>Tue, 31 Mar 2026 09:14:57 +0100</pubDate>
-<georss:point>51.888174 -2.080501</georss:point>
-</item>
-<item>
-<title>A long stretch of pothole due to poor maintenance, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216333</link>
-<description>Outside the coop on the bath road there has previously been a trench dug and along the length of it the surface has gone resulting in a terrible surface that is dangerous to cyclists&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9216333.0.jpeg?d677af73&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 192A,192B, 192C, 192D, Bath Road, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216333&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216333</guid>
-<pubDate>Tue, 31 Mar 2026 09:11:21 +0100</pubDate>
-<georss:point>51.889158 -2.079295</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216514</link>
-<description>CW: Pothole &amp;#10;1200mmx900mmx42mm&amp;#10;TM: STOP and GO &amp;#10;Opposite Lamp post No DP44 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216514&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216514</guid>
-<pubDate>Tue, 31 Mar 2026 09:05:40 +0100</pubDate>
-<georss:point>51.9157712 -2.12711270000001</georss:point>
-</item>
-<item>
-<title>Fly tipping on the small lane just of kidnappers, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216260</link>
-<description>As above&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9216260.0.jpeg?ae3a355f&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Kidnappers Lane, Warden Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216260&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216260</guid>
-<pubDate>Tue, 31 Mar 2026 09:03:59 +0100</pubDate>
-<georss:point>51.875612 -2.086741</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216294</link>
-<description>Broken raised slab. Please lift and replace&amp;#10;900x600x20mm&amp;#10;Stats&amp;#10;Standard TM with temp FW closure (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216294&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216294</guid>
-<pubDate>Tue, 31 Mar 2026 09:01:02 +0100</pubDate>
-<georss:point>51.89557 -2.08259929999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216293</link>
-<description>Loose and rocking concrete&amp;#10;Concrete between slabs is loose and rocking. Please replace with new concrete&amp;#10;300x50x20mm&amp;#10;Stats&amp;#10;Standard TM with temp FW closure (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216293&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216293</guid>
-<pubDate>Tue, 31 Mar 2026 09:01:02 +0100</pubDate>
-<georss:point>51.895264 -2.0829851</georss:point>
-</item>
-<item>
-<title>TMC - Defects -FW6 Potholes problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216292</link>
-<description>Pothole FW &amp;#10;Missing blocks causing Pothole&amp;#10;300x100x100mm&amp;#10;Stats &amp;#10;Standard TM with temp FW closure &amp;#10;Previously made safe at time of inspection but no perm job in (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216292&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216292</guid>
-<pubDate>Tue, 31 Mar 2026 09:01:02 +0100</pubDate>
-<georss:point>51.8953895957244 -2.08253432133824</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216291</link>
-<description>Damaged kerb&amp;#10;Please repair with concrete&amp;#10;100x100x40mm&amp;#10;Standard TM with temp FW closure (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216291&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216291</guid>
-<pubDate>Tue, 31 Mar 2026 09:01:02 +0100</pubDate>
-<georss:point>51.8972862 -2.080198</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216296</link>
-<description>Abrupt level difference on kerb stones in FW&amp;#10;Please lift and relay x 2 kerbstones &amp;#10;Stats&amp;#10;Standard TM with temp FW closure (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216296&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216296</guid>
-<pubDate>Tue, 31 Mar 2026 09:01:02 +0100</pubDate>
-<georss:point>51.8959686 -2.0820399</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216295</link>
-<description>Abrupt level difference on kerb stones in FW&amp;#10;Please lift and relay x 2 kerbstones &amp;#10;Stats&amp;#10;Standard TM with temp FW closure (FW Kerbing Defects)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216295&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216295</guid>
-<pubDate>Tue, 31 Mar 2026 09:01:02 +0100</pubDate>
-<georss:point>51.8957855 -2.08231049999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216290</link>
-<description>Loose noisy cover&amp;#10;Please lift and investigate &amp;#10;4 way stop and go (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216290&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216290</guid>
-<pubDate>Tue, 31 Mar 2026 08:58:04 +0100</pubDate>
-<georss:point>51.8967508 -2.0809687</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9216284</link>
-<description>CW: Pothole (Patch Required)&amp;#10;1400mmx700mmx54mm&amp;#10;TM: STOP and GO &amp;#10;1 x NSD &amp;#10;Opposite Holmedale B&amp;amp;B (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9216284&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9216284</guid>
-<pubDate>Tue, 31 Mar 2026 08:53:21 +0100</pubDate>
-<georss:point>51.9111405 -2.1453289</georss:point>
 </item>
 </channel>
 </rss>

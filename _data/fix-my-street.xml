@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
@@ -159,33 +159,6 @@
 <georss:point>51.8967512 -2.06928039999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9217391</link>
-<description>15DB CW: Pothole &amp;#10;500mmx400mmx70mm&amp;#10;TM: temporary lane closure &amp;#10;Next to Green Cabinet (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217391&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9217391</guid>
-<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
-<georss:point>51.9523804 -2.15857640000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9217385</link>
-<description>CW: Pothole &amp;#10;500mmx1100mmx51mm&amp;#10;TM: Give and Take &amp;#10;Outside 2 Cursey Cottage (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217385&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9217385</guid>
-<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
-<georss:point>51.9532781 -2.15831659999998</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
-<link>https://www.fixmystreet.com/report/9217389</link>
-<description>15DB CW: Pothole &amp;#10;1000mmx1700mmx52mm&amp;#10;TM: temporary road closure &amp;#10;W3w airfields.perch.whimpered (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217389&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9217389</guid>
-<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
-<georss:point>51.952711 -2.1584925</georss:point>
-</item>
-<item>
 <title>TMC - Defects -other CW6 problem, 31st March</title>
 <link>https://www.fixmystreet.com/report/9217390</link>
 <description>15DB CW: Edge deteration (Patch Required).&amp;#10;2200mmx400mmx69mm&amp;#10;TM: temporary lane closure &amp;#10;Next to Green Cabinet (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217390&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -193,6 +166,33 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9217390</guid>
 <pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
 <georss:point>51.95241 -2.1585526</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217386</link>
+<description>15DB CW: Pothole &amp;#10;300mmx500mmx58mm&amp;#10;TM: temporary road closure &amp;#10;Outside 2 Cursey Cottage (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217386&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217386</guid>
+<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
+<georss:point>51.9535149 -2.158338</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217387</link>
+<description>15DB CW: Pothole &amp;#10;300mmx300mmx43mm&amp;#10;TM: temporary road closure &amp;#10;Outside 2 Cursey Cottage (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217387&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217387</guid>
+<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
+<georss:point>51.9534578 -2.15833270000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 31st March</title>
+<link>https://www.fixmystreet.com/report/9217391</link>
+<description>15DB CW: Pothole &amp;#10;500mmx400mmx70mm&amp;#10;TM: temporary lane closure &amp;#10;Next to Green Cabinet (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9217391&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9217391</guid>
+<pubDate>Tue, 31 Mar 2026 10:55:44 +0100</pubDate>
+<georss:point>51.9523804 -2.15857640000001</georss:point>
 </item>
 </channel>
 </rss>

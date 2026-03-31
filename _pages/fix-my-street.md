@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole, 31st March :- [9221646](https://www.fixmystreet.com/report/9221646)
+- Drain cover wedged between my tyre and car frame, 31st March :- [9221558](https://www.fixmystreet.com/report/9221558)
+- Fly tipping of 2 large plastic containers with fluid, 31st March :- [9221515](https://www.fixmystreet.com/report/9221515)
 - Massive potholes on the left side of the road, 31st March :- [9221376](https://www.fixmystreet.com/report/9221376)
 - Pothole heading to London Road Opposite 2 Acomb Close on Hartlebury Way., 31st March :- [9221415](https://www.fixmystreet.com/report/9221415)
 - Pot hole in middle of zebra crossing, 31st March :- [9221257](https://www.fixmystreet.com/report/9221257)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Grass verges need cutting, 31st March :- [9218579](https://www.fixmystreet.com/report/9218579)
 - Green or amber traffic light is not working problem, 31st March :- [9219094](https://www.fixmystreet.com/report/9219094)
 - TMC - Defects -CW6 Potholes  problem, 31st March :- [9218446](https://www.fixmystreet.com/report/9218446)
-- TMC - Defects - Footways Slabs problem, 31st March :- [9217909](https://www.fixmystreet.com/report/9217909)
-- Tree is damaged problem, 31st March :- [9217902](https://www.fixmystreet.com/report/9217902)
-- TMC - Defects - Kerbs and Channels problem, 31st March :- [9217903](https://www.fixmystreet.com/report/9217903)
 
 <!-- fix_marker ends -->

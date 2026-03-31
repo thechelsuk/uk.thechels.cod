@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog poo bin is has sharp rusty holes and handle is falling off., 31st March :- [9221973](https://www.fixmystreet.com/report/9221973)
 - Large pothole, 31st March :- [9221646](https://www.fixmystreet.com/report/9221646)
 - Drain cover wedged between my tyre and car frame, 31st March :- [9221558](https://www.fixmystreet.com/report/9221558)
 - Fly tipping of 2 large plastic containers with fluid, 31st March :- [9221515](https://www.fixmystreet.com/report/9221515)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole, 31st March :- [9218951](https://www.fixmystreet.com/report/9218951)
 - Grass verges need cutting, 31st March :- [9218579](https://www.fixmystreet.com/report/9218579)
 - Green or amber traffic light is not working problem, 31st March :- [9219094](https://www.fixmystreet.com/report/9219094)
-- TMC - Defects -CW6 Potholes  problem, 31st March :- [9218446](https://www.fixmystreet.com/report/9218446)
 
 <!-- fix_marker ends -->

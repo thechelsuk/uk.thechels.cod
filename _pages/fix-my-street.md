@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive potholes on the left side of the road, 31st March :- [9221376](https://www.fixmystreet.com/report/9221376)
+- Pothole heading to London Road Opposite 2 Acomb Close on Hartlebury Way., 31st March :- [9221415](https://www.fixmystreet.com/report/9221415)
+- Pot hole in middle of zebra crossing, 31st March :- [9221257](https://www.fixmystreet.com/report/9221257)
+- Flight tipped to sofa blocking the alleyway, 31st March :- [9221185](https://www.fixmystreet.com/report/9221185)
+- Pothole on near entrance to College Drive, 31st March :- [9221008](https://www.fixmystreet.com/report/9221008)
 - 1m by 5” cm pothole next to field where there is building works. In part of road wheel of car runs, 31st March :- [9219992](https://www.fixmystreet.com/report/9219992)
 - Large pothole in road, 31st March :- [9219707](https://www.fixmystreet.com/report/9219707)
 - Large pothole, 31st March :- [9219478](https://www.fixmystreet.com/report/9219478)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 31st March :- [9217909](https://www.fixmystreet.com/report/9217909)
 - Tree is damaged problem, 31st March :- [9217902](https://www.fixmystreet.com/report/9217902)
 - TMC - Defects - Kerbs and Channels problem, 31st March :- [9217903](https://www.fixmystreet.com/report/9217903)
-- TMC - Defects - Signs & Street Furniture problem, 31st March :- [9217643](https://www.fixmystreet.com/report/9217643)
-- TMC - Defects -other CW6 problem, 31st March :- [9217390](https://www.fixmystreet.com/report/9217390)
-- TMC - Defects -CW6 Potholes  problem, 31st March :- [9217386](https://www.fixmystreet.com/report/9217386)
-- TMC - Defects -CW6 Potholes  problem, 31st March :- [9217387](https://www.fixmystreet.com/report/9217387)
-- TMC - Defects -CW6 Potholes  problem, 31st March :- [9217391](https://www.fixmystreet.com/report/9217391)
 
 <!-- fix_marker ends -->

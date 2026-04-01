@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 01 April 2026
 
-- The average temperature today is 11.57˚C,
-- With highs of 12.06˚C and lows of 10.94˚C,
-- It may feel like 10.77˚C with broken clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 76%
+- The average temperature today is 10.94˚C,
+- With highs of 11.64˚C and lows of 10.39˚C,
+- It may feel like 10.2˚C with broken clouds
+- The wind speed is 3.09m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 81%
 - The sun will rise at 05:43 and set at 18:40
 
 <!-- weather_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- URGENT 40mph sign 30mph facing wrong way., 1st April :- [9227562](https://www.fixmystreet.com/report/9227562)
+- The 40mph sign just before GE Roundabout on GE side has nkw been put back into action after the removal of the temp 30mph due toccycle path but the sign is still covered in grey paint so can't see the speed limit what the sign is displaying., 1st April :- [9227539](https://www.fixmystreet.com/report/9227539)
+- Dead elm at the roadside needing taking down., 1st April :- [9227260](https://www.fixmystreet.com/report/9227260)
 - These potholes are too big to describe, 1st April :- [9227088](https://www.fixmystreet.com/report/9227088)
 - A very large and unavoidable pothole on the A40, 1st April :- [9226888](https://www.fixmystreet.com/report/9226888)
 - Dangerous potholes on the approach to the dual carriageway., 1st April :- [9226800](https://www.fixmystreet.com/report/9226800)
@@ -25,9 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 1st April :- [9226138](https://www.fixmystreet.com/report/9226138)
 - Speed signs facing the wrong direction, 1st April :- [9225934](https://www.fixmystreet.com/report/9225934)
 - TMC - Defects - Other problem, 1st April :- [9225919](https://www.fixmystreet.com/report/9225919)
-- TMC - Defects -CW6 Potholes  problem, 1st April :- [9225917](https://www.fixmystreet.com/report/9225917)
 - TMC - Defects -CW6 Potholes  problem, 1st April :- [9225918](https://www.fixmystreet.com/report/9225918)
-- TMC - Defects -CW6 Potholes  problem, 1st April :- [9225916](https://www.fixmystreet.com/report/9225916)
-- TMC - Defects -other CW6 problem, 1st April :- [9225685](https://www.fixmystreet.com/report/9225685)
 
 <!-- fix_marker ends -->

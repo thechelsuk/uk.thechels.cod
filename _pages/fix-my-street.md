@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Numerous Illegal fly boarding by estate agents, 1st April :- [9228133](https://www.fixmystreet.com/report/9228133)
+- Massive pot hole right on the bend, 1st April :- [9228112](https://www.fixmystreet.com/report/9228112)
 - Metal cover bangs constantly with traffic, 1st April :- [9228003](https://www.fixmystreet.com/report/9228003)
 - Street sign, hit by vehicle and name of street missing, 1st April :- [9227992](https://www.fixmystreet.com/report/9227992)
 - URGENT 40mph sign 30mph facing wrong way., 1st April :- [9227562](https://www.fixmystreet.com/report/9227562)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Hole in path in Pitville Park - void underneath., 1st April :- [9226089](https://www.fixmystreet.com/report/9226089)
 - Large pothole difficult to drive round, 1st April :- [9225965](https://www.fixmystreet.com/report/9225965)
 - TMC - Defects -FW6 Potholes problem, 1st April :- [9226137](https://www.fixmystreet.com/report/9226137)
-- TMC - Defects - Other FW6  Surface problem, 1st April :- [9226138](https://www.fixmystreet.com/report/9226138)
-- Speed signs facing the wrong direction, 1st April :- [9225934](https://www.fixmystreet.com/report/9225934)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very deep pothole open again, 1st April :- [9222577](https://www.fixmystreet.com/report/9222577)
+- Outside 6, 1st April :- [9222426](https://www.fixmystreet.com/report/9222426)
 - Dog poo bin is has sharp rusty holes and handle is falling off., 31st March :- [9221973](https://www.fixmystreet.com/report/9221973)
 - Large pothole, 31st March :- [9221646](https://www.fixmystreet.com/report/9221646)
 - Drain cover wedged between my tyre and car frame, 31st March :- [9221558](https://www.fixmystreet.com/report/9221558)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 31st March :- [9219351](https://www.fixmystreet.com/report/9219351)
 - TMC - Defects -other CW6 problem, 31st March :- [9219120](https://www.fixmystreet.com/report/9219120)
 - Pothole, 31st March :- [9218951](https://www.fixmystreet.com/report/9218951)
-- Grass verges need cutting, 31st March :- [9218579](https://www.fixmystreet.com/report/9218579)
-- Green or amber traffic light is not working problem, 31st March :- [9219094](https://www.fixmystreet.com/report/9219094)
 
 <!-- fix_marker ends -->

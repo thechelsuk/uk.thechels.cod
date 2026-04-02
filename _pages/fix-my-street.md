@@ -9,13 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The bus stop opposite Southern Road was removed several weeks ago. This makes it very difficult for bus drivers who are unfamiliar with the route and often they will overshoot or even fail to stop. Please could this be re-instated as soon as possible. ., 2nd April :- [9233060](https://www.fixmystreet.com/report/9233060)
+- 3 foot long pot hole /crater with lots of loose gravel in it. It located in lane which May walkers use and it’s a hazard., 2nd April :- [9232944](https://www.fixmystreet.com/report/9232944)
+- Street drain blocked with mud, 2nd April :- [9232901](https://www.fixmystreet.com/report/9232901)
 - Broken bridge on climbing frame, 2nd April :- [9232610](https://www.fixmystreet.com/report/9232610)
 - Huge tree on highway verge over hanging property, 2nd April :- [9229522](https://www.fixmystreet.com/report/9229522)
 - Broken glass bottle on footpath., 2nd April :- [9232319](https://www.fixmystreet.com/report/9232319)
 - Paint covered in grey paint, 2nd April :- [9232282](https://www.fixmystreet.com/report/9232282)
 - TMC - Defects -other CW6 problem, 2nd April :- [9231670](https://www.fixmystreet.com/report/9231670)
-- TMC - Defects - Other FW6  Surface problem, 2nd April :- [9231669](https://www.fixmystreet.com/report/9231669)
 - TMC - Defects -CW6 Potholes  problem, 2nd April :- [9231671](https://www.fixmystreet.com/report/9231671)
+- TMC - Defects - Other FW6  Surface problem, 2nd April :- [9231669](https://www.fixmystreet.com/report/9231669)
 - Four months !!, 2nd April :- [9231366](https://www.fixmystreet.com/report/9231366)
 - Lamp permanently out, 2nd April :- [9231342](https://www.fixmystreet.com/report/9231342)
 - TMC - Defects -CW6 Potholes  problem, 2nd April :- [9231439](https://www.fixmystreet.com/report/9231439)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Several potholes caused by removal of cats eyes, 2nd April :- [9231150](https://www.fixmystreet.com/report/9231150)
 - No entry sign faded and peeling, 2nd April :- [9231140](https://www.fixmystreet.com/report/9231140)
 - Potholes caused by deterioration of poor quality patching, 2nd April :- [9231135](https://www.fixmystreet.com/report/9231135)
-- Pothole when exiting roundabout caused by poor tarmac patching, 2nd April :- [9231120](https://www.fixmystreet.com/report/9231120)
-- Please consider removing New Road layout ahead sign, 2nd April :- [9231111](https://www.fixmystreet.com/report/9231111)
-- Please consider removing New Road layout ahead sign and post, 2nd April :- [9231074](https://www.fixmystreet.com/report/9231074)
 
 <!-- fix_marker ends -->

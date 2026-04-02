@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Topps Tiles to close shops in cost cuts ([8 hours ago](https://gloucesternewscentre.co.uk/topps-tiles-to-close-shops-in-cost-cuts/))
-- Manslaughter charge over railway station assault ([11 hours ago](https://www.bbc.com/news/articles/c9d4q403gw6o?at_medium=RSS&at_campaign=rss))
-- Support withdrawn for Cotswolds pylon removal ([11 hours ago](https://www.bbc.com/news/articles/c62j807nzlno?at_medium=RSS&at_campaign=rss))
-- Unsold airport costing councils nearly £3m a year ([20 hours ago](https://www.bbc.com/news/articles/cwyv3ly7x4vo?at_medium=RSS&at_campaign=rss))
-- Pantry use up as users struggle with cost of living ([20 hours ago](https://www.bbc.com/news/articles/c62j836n4n8o?at_medium=RSS&at_campaign=rss))
+- Topps Tiles to close shops in cost cuts ([11 hours ago](https://gloucesternewscentre.co.uk/topps-tiles-to-close-shops-in-cost-cuts/))
+- Manslaughter charge over railway station assault ([14 hours ago](https://www.bbc.com/news/articles/c9d4q403gw6o?at_medium=RSS&at_campaign=rss))
+- Support withdrawn for Cotswolds pylon removal ([14 hours ago](https://www.bbc.com/news/articles/c62j807nzlno?at_medium=RSS&at_campaign=rss))
+- Unsold airport costing councils nearly £3m a year ([22 hours ago](https://www.bbc.com/news/articles/cwyv3ly7x4vo?at_medium=RSS&at_campaign=rss))
+- Pantry use up as users struggle with cost of living ([22 hours ago](https://www.bbc.com/news/articles/c62j836n4n8o?at_medium=RSS&at_campaign=rss))
 - Meet the stars of Cheltenham Science Festival 2026 ([1 days ago](https://www.bbc.com/news/articles/cd9v0ng2z0zo?at_medium=RSS&at_campaign=rss))
 - Arrest after woman dies in serious crash ([1 days ago](https://www.bbc.com/news/articles/cg40137xey4o?at_medium=RSS&at_campaign=rss))
 - Farmers welcome 'long overdue' support ([1 days ago](https://www.bbc.com/news/articles/cg7318xk91jo?at_medium=RSS&at_campaign=rss))

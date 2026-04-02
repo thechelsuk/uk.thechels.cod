@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 02 April 2026
 
-- The average temperature today is 11.24˚C,
-- With highs of 12.38˚C and lows of 10.47˚C,
-- It may feel like 9.96˚C with broken clouds
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 59%
+- The average temperature today is 11.77˚C,
+- With highs of 12.62˚C and lows of 11.27˚C,
+- It may feel like 10.41˚C with few clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 54%
 - The sun will rise at 05:41 and set at 18:42
 
 <!-- weather_marker ends -->

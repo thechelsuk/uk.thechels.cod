@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 03 April 2026
 
-- The average temperature today is 13.74˚C,
-- With highs of 14.73˚C and lows of 12.94˚C,
-- It may feel like 13.34˚C with scattered clouds
-- The wind speed is 7.72m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 83%
+- The average temperature today is 13.86˚C,
+- With highs of 14.84˚C and lows of 12.94˚C,
+- It may feel like 13.36˚C with scattered clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 79%
 - The sun will rise at 05:38 and set at 18:44
 
 <!-- weather_marker ends -->

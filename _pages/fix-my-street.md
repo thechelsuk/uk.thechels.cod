@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Both footpaths along arden road unsafe - uneven, 3rd April :- [9236472](https://www.fixmystreet.com/report/9236472)
+- Pot holes end of hall road near moorend rd not fixed, 3rd April :- [9236468](https://www.fixmystreet.com/report/9236468)
+- Pot holes end of hall road near moorend rd not fixed, 3rd April :- [9236467](https://www.fixmystreet.com/report/9236467)
+- 9-11 hall rd lots of potholes still not fixed, 3rd April :- [9236463](https://www.fixmystreet.com/report/9236463)
+- Fly tipped chair, 3rd April :- [9236296](https://www.fixmystreet.com/report/9236296)
+- Dumped vegetation, 3rd April :- [9236288](https://www.fixmystreet.com/report/9236288)
+- Cracked tarmac around drain cover on left edge of road, 3rd April :- [9236046](https://www.fixmystreet.com/report/9236046)
 - Pothole on edge of road, 3rd April :- [9236000](https://www.fixmystreet.com/report/9236000)
 - Missing tarmac around metal covers in road. 90 degree edge exposed., 3rd April :- [9235972](https://www.fixmystreet.com/report/9235972)
 - Urgent Maintenance Request: Road Grit and Dust Pollution – Coopers Hill, 3rd April :- [9235881](https://www.fixmystreet.com/report/9235881)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Fly tipping - bed frame and other furniture, 3rd April :- [9233895](https://www.fixmystreet.com/report/9233895)
 - Failed repair again by drain, 3rd April :- [9233744](https://www.fixmystreet.com/report/9233744)
 - 30mph signs, 2nd April :- [9233298](https://www.fixmystreet.com/report/9233298)
-- The bus stop opposite Southern Road was removed several weeks ago. This makes it very difficult for bus drivers who are unfamiliar with the route and often they will overshoot or even fail to stop. Please could this be re-instated as soon as possible. ., 2nd April :- [9233060](https://www.fixmystreet.com/report/9233060)
-- 3 foot long pot hole /crater with lots of loose gravel in it. It located in lane which May walkers use and it’s a hazard., 2nd April :- [9232944](https://www.fixmystreet.com/report/9232944)
-- Street drain blocked with mud, 2nd April :- [9232901](https://www.fixmystreet.com/report/9232901)
-- Broken bridge on climbing frame, 2nd April :- [9232610](https://www.fixmystreet.com/report/9232610)
-- Huge tree on highway verge over hanging property, 2nd April :- [9229522](https://www.fixmystreet.com/report/9229522)
-- Broken glass bottle on footpath., 2nd April :- [9232319](https://www.fixmystreet.com/report/9232319)
-- Paint covered in grey paint, 2nd April :- [9232282](https://www.fixmystreet.com/report/9232282)
 
 <!-- fix_marker ends -->

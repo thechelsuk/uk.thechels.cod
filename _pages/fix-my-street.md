@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Double lightpost out, 3rd April :- [9234819](https://www.fixmystreet.com/report/9234819)
+- Drain cover is noisy and rattles when any vehicle drives over it, 3rd April :- [9234583](https://www.fixmystreet.com/report/9234583)
+- Potential missing "except cyclists" signs after posts replaced, 3rd April :- [9234546](https://www.fixmystreet.com/report/9234546)
+- 6 inch maybe deeper, 3rd April :- [9234438](https://www.fixmystreet.com/report/9234438)
 - Fly tipping - bed frame and other furniture, 3rd April :- [9233895](https://www.fixmystreet.com/report/9233895)
 - Failed repair again by drain, 3rd April :- [9233744](https://www.fixmystreet.com/report/9233744)
 - 30mph signs, 2nd April :- [9233298](https://www.fixmystreet.com/report/9233298)
@@ -20,14 +24,10 @@ permalink: /fix-my-street
 - Broken glass bottle on footpath., 2nd April :- [9232319](https://www.fixmystreet.com/report/9232319)
 - Paint covered in grey paint, 2nd April :- [9232282](https://www.fixmystreet.com/report/9232282)
 - TMC - Defects -other CW6 problem, 2nd April :- [9231670](https://www.fixmystreet.com/report/9231670)
-- TMC - Defects - Other FW6  Surface problem, 2nd April :- [9231669](https://www.fixmystreet.com/report/9231669)
 - TMC - Defects -CW6 Potholes  problem, 2nd April :- [9231671](https://www.fixmystreet.com/report/9231671)
+- TMC - Defects - Other FW6  Surface problem, 2nd April :- [9231669](https://www.fixmystreet.com/report/9231669)
 - Four months !!, 2nd April :- [9231366](https://www.fixmystreet.com/report/9231366)
 - Lamp permanently out, 2nd April :- [9231342](https://www.fixmystreet.com/report/9231342)
 - TMC - Defects -CW6 Potholes  problem, 2nd April :- [9231439](https://www.fixmystreet.com/report/9231439)
-- Please consider removing New Road layout ahead, 2nd April :- [9231257](https://www.fixmystreet.com/report/9231257)
-- TMC - Defects - Other FW6  Surface problem, 2nd April :- [9231434](https://www.fixmystreet.com/report/9231434)
-- Please consider removing Signal timings changed ahead sign, 2nd April :- [9231210](https://www.fixmystreet.com/report/9231210)
-- Please consider removing New Road layout ahead sign and posts, 2nd April :- [9231166](https://www.fixmystreet.com/report/9231166)
 
 <!-- fix_marker ends -->

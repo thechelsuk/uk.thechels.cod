@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overhanging branch, extending toward powerlines, 3rd April :- [9235074](https://www.fixmystreet.com/report/9235074)
 - Double lightpost out, 3rd April :- [9234819](https://www.fixmystreet.com/report/9234819)
 - Drain cover is noisy and rattles when any vehicle drives over it, 3rd April :- [9234583](https://www.fixmystreet.com/report/9234583)
 - Potential missing "except cyclists" signs after posts replaced, 3rd April :- [9234546](https://www.fixmystreet.com/report/9234546)
@@ -24,10 +25,9 @@ permalink: /fix-my-street
 - Broken glass bottle on footpath., 2nd April :- [9232319](https://www.fixmystreet.com/report/9232319)
 - Paint covered in grey paint, 2nd April :- [9232282](https://www.fixmystreet.com/report/9232282)
 - TMC - Defects -other CW6 problem, 2nd April :- [9231670](https://www.fixmystreet.com/report/9231670)
-- TMC - Defects -CW6 Potholes  problem, 2nd April :- [9231671](https://www.fixmystreet.com/report/9231671)
 - TMC - Defects - Other FW6  Surface problem, 2nd April :- [9231669](https://www.fixmystreet.com/report/9231669)
+- TMC - Defects -CW6 Potholes  problem, 2nd April :- [9231671](https://www.fixmystreet.com/report/9231671)
 - Four months !!, 2nd April :- [9231366](https://www.fixmystreet.com/report/9231366)
 - Lamp permanently out, 2nd April :- [9231342](https://www.fixmystreet.com/report/9231342)
-- TMC - Defects -CW6 Potholes  problem, 2nd April :- [9231439](https://www.fixmystreet.com/report/9231439)
 
 <!-- fix_marker ends -->

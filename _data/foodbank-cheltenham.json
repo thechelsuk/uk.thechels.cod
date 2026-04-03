@@ -247,13 +247,13 @@
       "lat_lng": "51.9212313,-1.8629509"
     },
     {
-      "name": "Cirencester",
-      "slug": "cirencester",
+      "name": "South Cotswolds",
+      "slug": "south-cotswolds",
       "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/cirencester/",
-        "html": "https://www.givefood.org.uk/needs/at/cirencester/",
-        "homepage": "https://cirencester.foodbank.org.uk",
-        "shopping_list": "https://cirencester.foodbank.org.uk/support-us/donate-food"
+        "self": "https://www.givefood.org.uk/api/2/foodbank/south-cotswolds/",
+        "html": "https://www.givefood.org.uk/needs/at/south-cotswolds/",
+        "homepage": "https://southcotswolds.foodbank.org.uk",
+        "shopping_list": "https://southcotswolds.foodbank.org.uk/support-us/donate-food"
       },
       "address": "Unit 15\r\nInner Courtyard\r\nWhiteway Court\r\nCirencester\r\nGL7 7BA",
       "lat_lng": "51.7252574,-1.9621244"

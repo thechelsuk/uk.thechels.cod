@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
 >
 
@@ -96,15 +96,6 @@
 <georss:point>51.8460643 -2.1540073</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/9231671</link>
-<description>15DB CW: Pothole &amp;#10;300mmx280mmx49mm&amp;#10;TM: temporary road closure &amp;#10;8 x NSDs &amp;#10;Outside No 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9231671&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9231671</guid>
-<pubDate>Thu, 02 Apr 2026 14:36:41 +0100</pubDate>
-<georss:point>51.8461343 -2.15403039999999</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Other FW6  Surface problem, 2nd April</title>
 <link>https://www.fixmystreet.com/report/9231669</link>
 <description>FW: Abrupt Level Difference (Patch Required)&amp;#10;2300mmx1000mmx21mm&amp;#10;TM: Give and Take &amp;#10;Stats required &amp;#10;Outside No 2 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9231669&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -112,6 +103,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9231669</guid>
 <pubDate>Thu, 02 Apr 2026 14:36:41 +0100</pubDate>
 <georss:point>51.8460941 -2.15400089999998</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 2nd April</title>
+<link>https://www.fixmystreet.com/report/9231671</link>
+<description>15DB CW: Pothole &amp;#10;300mmx280mmx49mm&amp;#10;TM: temporary road closure &amp;#10;8 x NSDs &amp;#10;Outside No 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9231671&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9231671</guid>
+<pubDate>Thu, 02 Apr 2026 14:36:41 +0100</pubDate>
+<georss:point>51.8461343 -2.15403039999999</georss:point>
 </item>
 <item>
 <title>Four months !!, 2nd April</title>

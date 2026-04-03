@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Failed repair again by drain, 3rd April :- [9233744](https://www.fixmystreet.com/report/9233744)
 - 30mph signs, 2nd April :- [9233298](https://www.fixmystreet.com/report/9233298)
 - The bus stop opposite Southern Road was removed several weeks ago. This makes it very difficult for bus drivers who are unfamiliar with the route and often they will overshoot or even fail to stop. Please could this be re-instated as soon as possible. ., 2nd April :- [9233060](https://www.fixmystreet.com/report/9233060)
 - 3 foot long pot hole /crater with lots of loose gravel in it. It located in lane which May walkers use and it’s a hazard., 2nd April :- [9232944](https://www.fixmystreet.com/report/9232944)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Please consider removing Signal timings changed ahead sign, 2nd April :- [9231210](https://www.fixmystreet.com/report/9231210)
 - Please consider removing New Road layout ahead sign and posts, 2nd April :- [9231166](https://www.fixmystreet.com/report/9231166)
 - Several potholes caused by removal of cats eyes, 2nd April :- [9231150](https://www.fixmystreet.com/report/9231150)
-- No entry sign faded and peeling, 2nd April :- [9231140](https://www.fixmystreet.com/report/9231140)
 
 <!-- fix_marker ends -->

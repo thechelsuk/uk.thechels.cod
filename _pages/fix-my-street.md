@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cars in considerately parking on pavement, 3rd April :- [9236672](https://www.fixmystreet.com/report/9236672)
+- Tree growing over public footpath, 3rd April :- [9236630](https://www.fixmystreet.com/report/9236630)
+- Tarmac has broken around the manhole and the sharp edges are showing. Dangerous to car drivers, 3rd April :- [9236534](https://www.fixmystreet.com/report/9236534)
 - Both footpaths along arden road unsafe - uneven, 3rd April :- [9236472](https://www.fixmystreet.com/report/9236472)
 - Pot holes end of hall road near moorend rd not fixed, 3rd April :- [9236468](https://www.fixmystreet.com/report/9236468)
 - Pot holes end of hall road near moorend rd not fixed, 3rd April :- [9236467](https://www.fixmystreet.com/report/9236467)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Drain cover is noisy and rattles when any vehicle drives over it, 3rd April :- [9234583](https://www.fixmystreet.com/report/9234583)
 - Potential missing "except cyclists" signs after posts replaced, 3rd April :- [9234546](https://www.fixmystreet.com/report/9234546)
 - 6 inch maybe deeper, 3rd April :- [9234438](https://www.fixmystreet.com/report/9234438)
-- Fly tipping - bed frame and other furniture, 3rd April :- [9233895](https://www.fixmystreet.com/report/9233895)
-- Failed repair again by drain, 3rd April :- [9233744](https://www.fixmystreet.com/report/9233744)
-- 30mph signs, 2nd April :- [9233298](https://www.fixmystreet.com/report/9233298)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on edge of road, 3rd April :- [9236000](https://www.fixmystreet.com/report/9236000)
+- Missing tarmac around metal covers in road. 90 degree edge exposed., 3rd April :- [9235972](https://www.fixmystreet.com/report/9235972)
+- Urgent Maintenance Request: Road Grit and Dust Pollution – Coopers Hill, 3rd April :- [9235881](https://www.fixmystreet.com/report/9235881)
+- Man hole cover broken and missing on road, 3rd April :- [9235791](https://www.fixmystreet.com/report/9235791)
+- The temorary traffic lights on Shurdington Road between moorend lights and warden hill are not working in one direction, light is blown over., 3rd April :- [9235729](https://www.fixmystreet.com/report/9235729)
 - Overhanging branch, extending toward powerlines, 3rd April :- [9235074](https://www.fixmystreet.com/report/9235074)
 - Double lightpost out, 3rd April :- [9234819](https://www.fixmystreet.com/report/9234819)
 - Drain cover is noisy and rattles when any vehicle drives over it, 3rd April :- [9234583](https://www.fixmystreet.com/report/9234583)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Huge tree on highway verge over hanging property, 2nd April :- [9229522](https://www.fixmystreet.com/report/9229522)
 - Broken glass bottle on footpath., 2nd April :- [9232319](https://www.fixmystreet.com/report/9232319)
 - Paint covered in grey paint, 2nd April :- [9232282](https://www.fixmystreet.com/report/9232282)
-- TMC - Defects -other CW6 problem, 2nd April :- [9231670](https://www.fixmystreet.com/report/9231670)
-- TMC - Defects - Other FW6  Surface problem, 2nd April :- [9231669](https://www.fixmystreet.com/report/9231669)
-- TMC - Defects -CW6 Potholes  problem, 2nd April :- [9231671](https://www.fixmystreet.com/report/9231671)
-- Four months !!, 2nd April :- [9231366](https://www.fixmystreet.com/report/9231366)
-- Lamp permanently out, 2nd April :- [9231342](https://www.fixmystreet.com/report/9231342)
 
 <!-- fix_marker ends -->

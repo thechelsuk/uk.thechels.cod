@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Barriers and signage left, 3rd April :- [9237247](https://www.fixmystreet.com/report/9237247)
 - Continuous bad parking, 3rd April :- [9236959](https://www.fixmystreet.com/report/9236959)
 - Cars in considerately parking on pavement, 3rd April :- [9236672](https://www.fixmystreet.com/report/9236672)
 - Tree growing over public footpath, 3rd April :- [9236630](https://www.fixmystreet.com/report/9236630)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Overhanging branch, extending toward powerlines, 3rd April :- [9235074](https://www.fixmystreet.com/report/9235074)
 - Double lightpost out, 3rd April :- [9234819](https://www.fixmystreet.com/report/9234819)
 - Drain cover is noisy and rattles when any vehicle drives over it, 3rd April :- [9234583](https://www.fixmystreet.com/report/9234583)
-- Potential missing "except cyclists" signs after posts replaced, 3rd April :- [9234546](https://www.fixmystreet.com/report/9234546)
 
 <!-- fix_marker ends -->

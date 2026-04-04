@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Woman, 91, dies after car crashes into wall ([8 hours ago](https://www.bbc.com/news/articles/cx2vnwwx4qlo?at_medium=RSS&at_campaign=rss))
-- Man arrested for alleged indecent exposure at pub ([11 hours ago](https://www.bbc.com/news/articles/cwykxl4v9d0o?at_medium=RSS&at_campaign=rss))
-- 'If you make me travel home, I'm going to divorce you' ([16 hours ago](https://www.bbc.com/news/articles/cm2re3p3wkgo?at_medium=RSS&at_campaign=rss))
-- 'Royal wedding' and 'cheap mural paint' ([16 hours ago](https://www.bbc.com/news/articles/c1l9jn69plpo?at_medium=RSS&at_campaign=rss))
+- Woman, 91, dies after car crashes into wall ([10 hours ago](https://www.bbc.com/news/articles/cx2vnwwx4qlo?at_medium=RSS&at_campaign=rss))
+- Man arrested for alleged indecent exposure at pub ([13 hours ago](https://www.bbc.com/news/articles/cwykxl4v9d0o?at_medium=RSS&at_campaign=rss))
+- 'If you make me travel home, I'm going to divorce you' ([19 hours ago](https://www.bbc.com/news/articles/cm2re3p3wkgo?at_medium=RSS&at_campaign=rss))
+- 'Royal wedding' and 'cheap mural paint' ([19 hours ago](https://www.bbc.com/news/articles/c1l9jn69plpo?at_medium=RSS&at_campaign=rss))
 - Price checks carried out at 61 shops ([1 days ago](https://gloucesternewscentre.co.uk/price-checks-carried-out-at-61-shops/))
 - Appeal after suspected hit and run in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/appeal-after-suspected-hit-and-run-in-cheltenham/))
 - Work to start on new leisure centre this month ([1 days ago](https://www.bbc.com/news/articles/c78r470vdngo?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sharp pieces of metal debris, 4th April :- [9237571](https://www.fixmystreet.com/report/9237571)
+- Broken slab, 4th April :- [9237556](https://www.fixmystreet.com/report/9237556)
 - Barriers and signage left, 3rd April :- [9237247](https://www.fixmystreet.com/report/9237247)
 - Continuous bad parking, 3rd April :- [9236959](https://www.fixmystreet.com/report/9236959)
 - Cars in considerately parking on pavement, 3rd April :- [9236672](https://www.fixmystreet.com/report/9236672)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Man hole cover broken and missing on road, 3rd April :- [9235791](https://www.fixmystreet.com/report/9235791)
 - The temorary traffic lights on Shurdington Road between moorend lights and warden hill are not working in one direction, light is blown over., 3rd April :- [9235729](https://www.fixmystreet.com/report/9235729)
 - Overhanging branch, extending toward powerlines, 3rd April :- [9235074](https://www.fixmystreet.com/report/9235074)
-- Double lightpost out, 3rd April :- [9234819](https://www.fixmystreet.com/report/9234819)
-- Drain cover is noisy and rattles when any vehicle drives over it, 3rd April :- [9234583](https://www.fixmystreet.com/report/9234583)
 
 <!-- fix_marker ends -->

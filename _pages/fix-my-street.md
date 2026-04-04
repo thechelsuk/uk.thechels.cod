@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 4th April :- [9238906](https://www.fixmystreet.com/report/9238906)
+- Potholes and depression on Hewlett Road, 4th April :- [9238804](https://www.fixmystreet.com/report/9238804)
+- Wobbling slab at end of 6 Nettleton Road driveway, 4th April :- [9238785](https://www.fixmystreet.com/report/9238785)
+- The footpath has been diverted quite a long and is not shown on the map. The indicated route is completely overgrown, blocked by a fence and the finger post has been removed., 4th April :- [9238658](https://www.fixmystreet.com/report/9238658)
+- Over grown into property, 4th April :- [9238549](https://www.fixmystreet.com/report/9238549)
 - Fence with nails protruding, 4th April :- [9238267](https://www.fixmystreet.com/report/9238267)
 - Broken dangerous path, 4th April :- [9237953](https://www.fixmystreet.com/report/9237953)
 - Missing & Broken paving slabs, 4th April :- [9237732](https://www.fixmystreet.com/report/9237732)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Pot holes end of hall road near moorend rd not fixed, 3rd April :- [9236467](https://www.fixmystreet.com/report/9236467)
 - 9-11 hall rd lots of potholes still not fixed, 3rd April :- [9236463](https://www.fixmystreet.com/report/9236463)
 - Fly tipped chair, 3rd April :- [9236296](https://www.fixmystreet.com/report/9236296)
-- Dumped vegetation, 3rd April :- [9236288](https://www.fixmystreet.com/report/9236288)
-- Cracked tarmac around drain cover on left edge of road, 3rd April :- [9236046](https://www.fixmystreet.com/report/9236046)
-- Pothole on edge of road, 3rd April :- [9236000](https://www.fixmystreet.com/report/9236000)
-- Missing tarmac around metal covers in road. 90 degree edge exposed., 3rd April :- [9235972](https://www.fixmystreet.com/report/9235972)
-- Urgent Maintenance Request: Road Grit and Dust Pollution – Coopers Hill, 3rd April :- [9235881](https://www.fixmystreet.com/report/9235881)
 
 <!-- fix_marker ends -->

@@ -12,8 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Student film raises awareness of dual diagnosis ([12 hours ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
-- Spring hiking surge prompts safety advice ([13 hours ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))
+- Bridge to remain closed as temporary fix too costly ([43 minutes ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
+- Student film raises awareness of dual diagnosis ([14 hours ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
+- Spring hiking surge prompts safety advice ([14 hours ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))
 - Woman, 91, dies after car crashes into wall ([1 days ago](https://www.bbc.com/news/articles/cx2vnwwx4qlo?at_medium=RSS&at_campaign=rss))
 - Man arrested for alleged indecent exposure at pub ([1 days ago](https://www.bbc.com/news/articles/cwykxl4v9d0o?at_medium=RSS&at_campaign=rss))
 - 'If you make me travel home, I'm going to divorce you' ([1 days ago](https://www.bbc.com/news/articles/cm2re3p3wkgo?at_medium=RSS&at_campaign=rss))
@@ -31,7 +32,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Support withdrawn for Cotswolds pylon removal ([3 days ago](https://www.bbc.com/news/articles/c62j807nzlno?at_medium=RSS&at_campaign=rss))
 - Unsold airport costing councils nearly £3m a year ([3 days ago](https://www.bbc.com/news/articles/cwyv3ly7x4vo?at_medium=RSS&at_campaign=rss))
 - Meet the stars of Cheltenham Science Festival 2026 ([4 days ago](https://www.bbc.com/news/articles/cd9v0ng2z0zo?at_medium=RSS&at_campaign=rss))
-- 'Overtourism getting worse in Venice of the Cotswolds' ([4 days ago](https://www.bbc.com/news/articles/c0krxk4zkmeo?at_medium=RSS&at_campaign=rss))
 - Gloucestershire councils set sights on future membership of the West of England Combined Authority ([5 days ago](https://www.cheltenham.gov.uk/news/article/3119/gloucestershire_councils_set_sights_on_future_membership_of_the_west_of_england_combined_authority))
 - Hundreds call for improvements to 97/98 bus ([8 days ago](https://gloucesternewscentre.co.uk/hundreds-call-for-improvements-to-97-98-bus/))
 - Cheltenham Lido secured with new lease agreement ([8 days ago](https://gloucesternewscentre.co.uk/cheltenham-lido-secured-with-new-lease-agreement/))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous horses in field, 4th April :- [9239968](https://www.fixmystreet.com/report/9239968)
 - Dining chair abandoned on verge, 4th April :- [9239820](https://www.fixmystreet.com/report/9239820)
 - 2 potholes at the bottom of the hill easily alter a car's direction coming down the hill., 4th April :- [9239637](https://www.fixmystreet.com/report/9239637)
 - Large pothole, 4th April :- [9239604](https://www.fixmystreet.com/report/9239604)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Barriers and signage left, 3rd April :- [9237247](https://www.fixmystreet.com/report/9237247)
 - Continuous bad parking, 3rd April :- [9236959](https://www.fixmystreet.com/report/9236959)
 - Cars in considerately parking on pavement, 3rd April :- [9236672](https://www.fixmystreet.com/report/9236672)
-- Tree growing over public footpath, 3rd April :- [9236630](https://www.fixmystreet.com/report/9236630)
 
 <!-- fix_marker ends -->

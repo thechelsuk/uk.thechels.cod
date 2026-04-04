@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on Brighton Road next to 67, 4th April :- [9239141](https://www.fixmystreet.com/report/9239141)
 - Volunteer litter pick bags ready for collection, 4th April :- [9238906](https://www.fixmystreet.com/report/9238906)
 - Potholes and depression on Hewlett Road, 4th April :- [9238804](https://www.fixmystreet.com/report/9238804)
 - Wobbling slab at end of 6 Nettleton Road driveway, 4th April :- [9238785](https://www.fixmystreet.com/report/9238785)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pot holes end of hall road near moorend rd not fixed, 3rd April :- [9236468](https://www.fixmystreet.com/report/9236468)
 - Pot holes end of hall road near moorend rd not fixed, 3rd April :- [9236467](https://www.fixmystreet.com/report/9236467)
 - 9-11 hall rd lots of potholes still not fixed, 3rd April :- [9236463](https://www.fixmystreet.com/report/9236463)
-- Fly tipped chair, 3rd April :- [9236296](https://www.fixmystreet.com/report/9236296)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dining chair abandoned on verge, 4th April :- [9239820](https://www.fixmystreet.com/report/9239820)
+- 2 potholes at the bottom of the hill easily alter a car's direction coming down the hill., 4th April :- [9239637](https://www.fixmystreet.com/report/9239637)
+- Large pothole, 4th April :- [9239604](https://www.fixmystreet.com/report/9239604)
+- Deep potholes, 4th April :- [9239573](https://www.fixmystreet.com/report/9239573)
+- 2 potholes not filled in, but identified with white paint around them., 4th April :- [9239541](https://www.fixmystreet.com/report/9239541)
 - Pothole on Brighton Road next to 67, 4th April :- [9239141](https://www.fixmystreet.com/report/9239141)
 - Volunteer litter pick bags ready for collection, 4th April :- [9238906](https://www.fixmystreet.com/report/9238906)
 - Potholes and depression on Hewlett Road, 4th April :- [9238804](https://www.fixmystreet.com/report/9238804)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Continuous bad parking, 3rd April :- [9236959](https://www.fixmystreet.com/report/9236959)
 - Cars in considerately parking on pavement, 3rd April :- [9236672](https://www.fixmystreet.com/report/9236672)
 - Tree growing over public footpath, 3rd April :- [9236630](https://www.fixmystreet.com/report/9236630)
-- Tarmac has broken around the manhole and the sharp edges are showing. Dangerous to car drivers, 3rd April :- [9236534](https://www.fixmystreet.com/report/9236534)
-- Both footpaths along arden road unsafe - uneven, 3rd April :- [9236472](https://www.fixmystreet.com/report/9236472)
-- Pot holes end of hall road near moorend rd not fixed, 3rd April :- [9236468](https://www.fixmystreet.com/report/9236468)
-- Pot holes end of hall road near moorend rd not fixed, 3rd April :- [9236467](https://www.fixmystreet.com/report/9236467)
-- 9-11 hall rd lots of potholes still not fixed, 3rd April :- [9236463](https://www.fixmystreet.com/report/9236463)
 
 <!-- fix_marker ends -->

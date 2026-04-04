@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Missing & Broken paving slabs, 4th April :- [9237732](https://www.fixmystreet.com/report/9237732)
 - Sharp pieces of metal debris, 4th April :- [9237571](https://www.fixmystreet.com/report/9237571)
 - Broken slab, 4th April :- [9237556](https://www.fixmystreet.com/report/9237556)
 - Barriers and signage left, 3rd April :- [9237247](https://www.fixmystreet.com/report/9237247)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Urgent Maintenance Request: Road Grit and Dust Pollution – Coopers Hill, 3rd April :- [9235881](https://www.fixmystreet.com/report/9235881)
 - Man hole cover broken and missing on road, 3rd April :- [9235791](https://www.fixmystreet.com/report/9235791)
 - The temorary traffic lights on Shurdington Road between moorend lights and warden hill are not working in one direction, light is blown over., 3rd April :- [9235729](https://www.fixmystreet.com/report/9235729)
-- Overhanging branch, extending toward powerlines, 3rd April :- [9235074](https://www.fixmystreet.com/report/9235074)
 
 <!-- fix_marker ends -->

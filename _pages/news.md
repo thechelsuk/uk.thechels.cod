@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Student film raises awareness of dual diagnosis ([1 hours ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
-- Spring hiking surge prompts safety advice ([1 hours ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))
-- Woman, 91, dies after car crashes into wall ([16 hours ago](https://www.bbc.com/news/articles/cx2vnwwx4qlo?at_medium=RSS&at_campaign=rss))
-- Man arrested for alleged indecent exposure at pub ([19 hours ago](https://www.bbc.com/news/articles/cwykxl4v9d0o?at_medium=RSS&at_campaign=rss))
+- Student film raises awareness of dual diagnosis ([2 hours ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
+- Spring hiking surge prompts safety advice ([3 hours ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))
+- Woman, 91, dies after car crashes into wall ([18 hours ago](https://www.bbc.com/news/articles/cx2vnwwx4qlo?at_medium=RSS&at_campaign=rss))
+- Man arrested for alleged indecent exposure at pub ([21 hours ago](https://www.bbc.com/news/articles/cwykxl4v9d0o?at_medium=RSS&at_campaign=rss))
 - 'If you make me travel home, I'm going to divorce you' ([1 days ago](https://www.bbc.com/news/articles/cm2re3p3wkgo?at_medium=RSS&at_campaign=rss))
 - 'Royal wedding' and 'cheap mural paint' ([1 days ago](https://www.bbc.com/news/articles/c1l9jn69plpo?at_medium=RSS&at_campaign=rss))
 - Price checks carried out at 61 shops ([1 days ago](https://gloucesternewscentre.co.uk/price-checks-carried-out-at-61-shops/))
@@ -44,7 +44,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New kerbside recycling service for cartons ([9 days ago](https://gloucesternewscentre.co.uk/new-kerbside-recycling-service-for-cartons/))
 - Questions over future of closed Cheltenham tip ([9 days ago](https://gloucesternewscentre.co.uk/questions-over-future-of-closed-cheltenham-tip/))
 - Cheltenham’s target to build 16,420 blasted as ‘totally unrealistic’ ([9 days ago](https://gloucesternewscentre.co.uk/cheltenhams-target-to-build-16420-blasted-as-totally-unrealistic/))
-- Cheltenham residents can recycle even more from the kerbside from 1 April ([9 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
+- Cheltenham residents can recycle even more from the kerbside from 1 April ([10 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
 - Cheltenham mum to run London Marathon then 100 miles home in memory of friend ([11 days ago](https://gloucesternewscentre.co.uk/cheltenham-mum-to-run-london-marathon-then-100-miles-home-in-memory-of-friend/))
 - Calls for citizens’ assembly to have say future of airport ([11 days ago](https://gloucesternewscentre.co.uk/calls-for-citizens-assembly-to-have-say-future-of-airport/))
 - Don’t miss your right to vote, register by Monday 20 April 2026 ([11 days ago](https://www.cheltenham.gov.uk/news/article/3114/dont_miss_your_right_to_vote_register_by_monday_20_april_2026))

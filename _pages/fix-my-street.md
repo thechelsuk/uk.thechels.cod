@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Left over Seven Trent (!) signs on Andover Road, 5th April :- [9242984](https://www.fixmystreet.com/report/9242984)
 - Large tree branch hanging off, 5th April :- [9240656](https://www.fixmystreet.com/report/9240656)
 - Incomplete roadworks due to be finished by 27th March, incomplete, blocking my driveway and barriers blowing down. The issue has been present for approx 3 weeks., 5th April :- [9241400](https://www.fixmystreet.com/report/9241400)
 - Drain still blocked, 5th April :- [9241351](https://www.fixmystreet.com/report/9241351)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - The footpath has been diverted quite a long and is not shown on the map. The indicated route is completely overgrown, blocked by a fence and the finger post has been removed., 4th April :- [9238658](https://www.fixmystreet.com/report/9238658)
 - Over grown into property, 4th April :- [9238549](https://www.fixmystreet.com/report/9238549)
 - Fence with nails protruding, 4th April :- [9238267](https://www.fixmystreet.com/report/9238267)
-- Broken dangerous path, 4th April :- [9237953](https://www.fixmystreet.com/report/9237953)
 
 <!-- fix_marker ends -->

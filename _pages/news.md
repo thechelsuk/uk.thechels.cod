@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- The man beating records after Parkinson's diagnosis ([59 minutes ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))
-- In pictures: Fiesta festivities and Prince William's camp visit ([1 hours ago](https://www.bbc.com/news/articles/cddqem21574o?at_medium=RSS&at_campaign=rss))
-- Bridge to remain closed as temporary fix too costly ([11 hours ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
+- The man beating records after Parkinson's diagnosis ([2 hours ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))
+- In pictures: Fiesta festivities and Prince William's camp visit ([2 hours ago](https://www.bbc.com/news/articles/cddqem21574o?at_medium=RSS&at_campaign=rss))
+- Bridge to remain closed as temporary fix too costly ([12 hours ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
 - Student film raises awareness of dual diagnosis ([1 days ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
 - Spring hiking surge prompts safety advice ([1 days ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))
 - Woman, 91, dies after car crashes into wall ([1 days ago](https://www.bbc.com/news/articles/cx2vnwwx4qlo?at_medium=RSS&at_campaign=rss))
@@ -44,7 +44,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New kerbside recycling service for cartons ([10 days ago](https://gloucesternewscentre.co.uk/new-kerbside-recycling-service-for-cartons/))
 - Questions over future of closed Cheltenham tip ([10 days ago](https://gloucesternewscentre.co.uk/questions-over-future-of-closed-cheltenham-tip/))
 - Cheltenham’s target to build 16,420 blasted as ‘totally unrealistic’ ([10 days ago](https://gloucesternewscentre.co.uk/cheltenhams-target-to-build-16420-blasted-as-totally-unrealistic/))
-- Cheltenham residents can recycle even more from the kerbside from 1 April ([10 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
+- Cheltenham residents can recycle even more from the kerbside from 1 April ([11 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
 - Cheltenham mum to run London Marathon then 100 miles home in memory of friend ([12 days ago](https://gloucesternewscentre.co.uk/cheltenham-mum-to-run-london-marathon-then-100-miles-home-in-memory-of-friend/))
 - Calls for citizens’ assembly to have say future of airport ([12 days ago](https://gloucesternewscentre.co.uk/calls-for-citizens-assembly-to-have-say-future-of-airport/))
 - Don’t miss your right to vote, register by Monday 20 April 2026 ([12 days ago](https://www.cheltenham.gov.uk/news/article/3114/dont_miss_your_right_to_vote_register_by_monday_20_april_2026))

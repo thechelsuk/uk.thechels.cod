@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large tree branch hanging off, 5th April :- [9240656](https://www.fixmystreet.com/report/9240656)
+- Incomplete roadworks due to be finished by 27th March, incomplete, blocking my driveway and barriers blowing down. The issue has been present for approx 3 weeks., 5th April :- [9241400](https://www.fixmystreet.com/report/9241400)
+- Drain still blocked, 5th April :- [9241351](https://www.fixmystreet.com/report/9241351)
 - Uneven section of road, 5th April :- [9241269](https://www.fixmystreet.com/report/9241269)
 - Large pothole, 5th April :- [9241215](https://www.fixmystreet.com/report/9241215)
 - Large pothole, 5th April :- [9241214](https://www.fixmystreet.com/report/9241214)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Over grown into property, 4th April :- [9238549](https://www.fixmystreet.com/report/9238549)
 - Fence with nails protruding, 4th April :- [9238267](https://www.fixmystreet.com/report/9238267)
 - Broken dangerous path, 4th April :- [9237953](https://www.fixmystreet.com/report/9237953)
-- Missing & Broken paving slabs, 4th April :- [9237732](https://www.fixmystreet.com/report/9237732)
-- Sharp pieces of metal debris, 4th April :- [9237571](https://www.fixmystreet.com/report/9237571)
-- Broken slab, 4th April :- [9237556](https://www.fixmystreet.com/report/9237556)
 
 <!-- fix_marker ends -->

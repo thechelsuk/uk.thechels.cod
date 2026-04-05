@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Bridge to remain closed as temporary fix too costly ([5 hours ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
-- Student film raises awareness of dual diagnosis ([19 hours ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
-- Spring hiking surge prompts safety advice ([19 hours ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))
+- Bridge to remain closed as temporary fix too costly ([7 hours ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
+- Student film raises awareness of dual diagnosis ([21 hours ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
+- Spring hiking surge prompts safety advice ([21 hours ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))
 - Woman, 91, dies after car crashes into wall ([1 days ago](https://www.bbc.com/news/articles/cx2vnwwx4qlo?at_medium=RSS&at_campaign=rss))
 - Man arrested for alleged indecent exposure at pub ([1 days ago](https://www.bbc.com/news/articles/cwykxl4v9d0o?at_medium=RSS&at_campaign=rss))
 - 'If you make me travel home, I'm going to divorce you' ([1 days ago](https://www.bbc.com/news/articles/cm2re3p3wkgo?at_medium=RSS&at_campaign=rss))

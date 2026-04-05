@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Friends hold charity match to honour cancer victim ([1 hours ago](https://www.bbc.com/news/articles/cgldnljx4xdo?at_medium=RSS&at_campaign=rss))
-- The man beating records after Parkinson's diagnosis ([10 hours ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))
-- In pictures: Fiesta festivities and Prince William's camp visit ([10 hours ago](https://www.bbc.com/news/articles/cddqem21574o?at_medium=RSS&at_campaign=rss))
-- Bridge to remain closed as temporary fix too costly ([20 hours ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
+- Tributes paid to 'trailblazing' former chairwoman ([7 minutes ago](https://www.bbc.com/news/articles/cde53195n9yo?at_medium=RSS&at_campaign=rss))
+- Friends hold charity match to honour cancer victim ([3 hours ago](https://www.bbc.com/news/articles/cgldnljx4xdo?at_medium=RSS&at_campaign=rss))
+- The man beating records after Parkinson's diagnosis ([12 hours ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))
+- In pictures: Fiesta festivities and Prince William's camp visit ([12 hours ago](https://www.bbc.com/news/articles/cddqem21574o?at_medium=RSS&at_campaign=rss))
+- Bridge to remain closed as temporary fix too costly ([22 hours ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
 - Student film raises awareness of dual diagnosis ([1 days ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
 - Spring hiking surge prompts safety advice ([1 days ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))
 - Woman, 91, dies after car crashes into wall ([2 days ago](https://www.bbc.com/news/articles/cx2vnwwx4qlo?at_medium=RSS&at_campaign=rss))
@@ -31,7 +32,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Your guide to travelling this Easter weekend ([3 days ago](https://www.bbc.com/news/articles/cx29e3en13wo?at_medium=RSS&at_campaign=rss))
 - Ketamine is 'not worth losing your bladder for' ([3 days ago](https://www.bbc.com/news/articles/cy5137re4gvo?at_medium=RSS&at_campaign=rss))
 - Topps Tiles to close shops in cost cuts ([4 days ago](https://gloucesternewscentre.co.uk/topps-tiles-to-close-shops-in-cost-cuts/))
-- Manslaughter charge over railway station assault ([4 days ago](https://www.bbc.com/news/articles/c9d4q403gw6o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire councils set sights on future membership of the West of England Combined Authority ([6 days ago](https://www.cheltenham.gov.uk/news/article/3119/gloucestershire_councils_set_sights_on_future_membership_of_the_west_of_england_combined_authority))
 - Hundreds call for improvements to 97/98 bus ([9 days ago](https://gloucesternewscentre.co.uk/hundreds-call-for-improvements-to-97-98-bus/))
 - Cheltenham Lido secured with new lease agreement ([9 days ago](https://gloucesternewscentre.co.uk/cheltenham-lido-secured-with-new-lease-agreement/))

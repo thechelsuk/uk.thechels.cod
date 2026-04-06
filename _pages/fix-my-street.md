@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A white double mattress dumped at Nazeby Court again, 7th April :- [9248166](https://www.fixmystreet.com/report/9248166)
+- Bus Schedule display incomplete, 6th April :- [9248111](https://www.fixmystreet.com/report/9248111)
 - Poor tarmac condition all the way along the school, 6th April :- [9247756](https://www.fixmystreet.com/report/9247756)
 - Deep pothole and getting larger on mellville road opposite number 69, 6th April :- [9247449](https://www.fixmystreet.com/report/9247449)
 - Fly tipping along lane, 6th April :- [9247195](https://www.fixmystreet.com/report/9247195)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Path not re-instated, 5th April :- [9243350](https://www.fixmystreet.com/report/9243350)
 - Bank eroded in front of stile, 5th April :- [9243342](https://www.fixmystreet.com/report/9243342)
 - KG has trip hazards, 5th April :- [9243332](https://www.fixmystreet.com/report/9243332)
-- Surface badly eroded, 5th April :- [9243323](https://www.fixmystreet.com/report/9243323)
-- 2 x Signs pointing the wrong way, 5th April :- [9243267](https://www.fixmystreet.com/report/9243267)
 
 <!-- fix_marker ends -->

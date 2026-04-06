@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Plans to divide suburb near cheese-rolling hill 'bonkers' ([2 hours ago](https://www.bbc.com/news/articles/cvg3vjmmkv0o?at_medium=RSS&at_campaign=rss))
-- Book revives long lost works by 'remarkable' poet ([12 hours ago](https://www.bbc.com/news/articles/cwydk18ee29o?at_medium=RSS&at_campaign=rss))
-- Urgent action to save birds 'that define Britain' ([12 hours ago](https://www.bbc.com/news/articles/ckg0q17wzk2o?at_medium=RSS&at_campaign=rss))
+- Plans to divide suburb near cheese-rolling hill 'bonkers' ([4 hours ago](https://www.bbc.com/news/articles/cvg3vjmmkv0o?at_medium=RSS&at_campaign=rss))
+- Book revives long lost works by 'remarkable' poet ([14 hours ago](https://www.bbc.com/news/articles/cwydk18ee29o?at_medium=RSS&at_campaign=rss))
+- Urgent action to save birds 'that define Britain' ([14 hours ago](https://www.bbc.com/news/articles/ckg0q17wzk2o?at_medium=RSS&at_campaign=rss))
 - Tributes paid to 'trailblazing' former chairwoman ([1 days ago](https://www.bbc.com/news/articles/cde53195n9yo?at_medium=RSS&at_campaign=rss))
 - Friends hold charity match to honour cancer victim ([1 days ago](https://www.bbc.com/news/articles/cgldnljx4xdo?at_medium=RSS&at_campaign=rss))
 - The man beating records after Parkinson's diagnosis ([1 days ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))
 - In pictures: Fiesta festivities and Prince William's camp visit ([1 days ago](https://www.bbc.com/news/articles/cddqem21574o?at_medium=RSS&at_campaign=rss))
-- Bridge to remain closed as temporary fix too costly ([1 days ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
+- Bridge to remain closed as temporary fix too costly ([2 days ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
 - Student film raises awareness of dual diagnosis ([2 days ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
 - Spring hiking surge prompts safety advice ([2 days ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))
 - Woman, 91, dies after car crashes into wall ([3 days ago](https://www.bbc.com/news/articles/cx2vnwwx4qlo?at_medium=RSS&at_campaign=rss))

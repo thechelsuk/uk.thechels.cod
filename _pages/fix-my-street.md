@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poor tarmac condition all the way along the school, 6th April :- [9247756](https://www.fixmystreet.com/report/9247756)
 - Deep pothole and getting larger on mellville road opposite number 69, 6th April :- [9247449](https://www.fixmystreet.com/report/9247449)
 - Fly tipping along lane, 6th April :- [9247195](https://www.fixmystreet.com/report/9247195)
 - Crossing not working, 6th April :- [9246893](https://www.fixmystreet.com/report/9246893)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - KG has trip hazards, 5th April :- [9243332](https://www.fixmystreet.com/report/9243332)
 - Surface badly eroded, 5th April :- [9243323](https://www.fixmystreet.com/report/9243323)
 - 2 x Signs pointing the wrong way, 5th April :- [9243267](https://www.fixmystreet.com/report/9243267)
-- Left over Seven Trent (!) signs on Andover Road, 5th April :- [9242984](https://www.fixmystreet.com/report/9242984)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 06 April 2026
 
-- The average temperature today is 5.02˚C,
-- With highs of 6.08˚C and lows of 3.17˚C,
-- It may feel like 4.19˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 85%
+- The average temperature today is 9.89˚C,
+- With highs of 9.89˚C and lows of 9.89˚C,
+- It may feel like 7.87˚C with overcast clouds
+- The wind speed is 4m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 70%
 - The sun will rise at 05:32 and set at 18:49
 
 <!-- weather_marker ends -->

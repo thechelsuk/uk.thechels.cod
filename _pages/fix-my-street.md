@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road markings work or faded, making this bend and junction ‘interesting’ after dark, 6th April :- [9244724](https://www.fixmystreet.com/report/9244724)
+- Central ,road markings are worn, 6th April :- [9244687](https://www.fixmystreet.com/report/9244687)
+- The central road markings are worn in this area, 6th April :- [9244631](https://www.fixmystreet.com/report/9244631)
+- Public rubbish bin with contents thrown into stream, 6th April :- [9244587](https://www.fixmystreet.com/report/9244587)
 - Path not re-instated, 5th April :- [9243356](https://www.fixmystreet.com/report/9243356)
 - Path not re-instated, 5th April :- [9243350](https://www.fixmystreet.com/report/9243350)
 - Bank eroded in front of stile, 5th April :- [9243342](https://www.fixmystreet.com/report/9243342)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Dangerous horses in field, 4th April :- [9239968](https://www.fixmystreet.com/report/9239968)
 - Dining chair abandoned on verge, 4th April :- [9239820](https://www.fixmystreet.com/report/9239820)
 - 2 potholes at the bottom of the hill easily alter a car's direction coming down the hill., 4th April :- [9239637](https://www.fixmystreet.com/report/9239637)
-- Large pothole, 4th April :- [9239604](https://www.fixmystreet.com/report/9239604)
-- Deep potholes, 4th April :- [9239573](https://www.fixmystreet.com/report/9239573)
-- 2 potholes not filled in, but identified with white paint around them., 4th April :- [9239541](https://www.fixmystreet.com/report/9239541)
-- Pothole on Brighton Road next to 67, 4th April :- [9239141](https://www.fixmystreet.com/report/9239141)
 
 <!-- fix_marker ends -->

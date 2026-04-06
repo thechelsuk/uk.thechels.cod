@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Book revives long lost works by 'remarkable' poet ([51 minutes ago](https://www.bbc.com/news/articles/cwydk18ee29o?at_medium=RSS&at_campaign=rss))
-- Urgent action to save birds 'that define Britain' ([55 minutes ago](https://www.bbc.com/news/articles/ckg0q17wzk2o?at_medium=RSS&at_campaign=rss))
-- Tributes paid to 'trailblazing' former chairwoman ([12 hours ago](https://www.bbc.com/news/articles/cde53195n9yo?at_medium=RSS&at_campaign=rss))
-- Friends hold charity match to honour cancer victim ([15 hours ago](https://www.bbc.com/news/articles/cgldnljx4xdo?at_medium=RSS&at_campaign=rss))
+- Book revives long lost works by 'remarkable' poet ([2 hours ago](https://www.bbc.com/news/articles/cwydk18ee29o?at_medium=RSS&at_campaign=rss))
+- Urgent action to save birds 'that define Britain' ([2 hours ago](https://www.bbc.com/news/articles/ckg0q17wzk2o?at_medium=RSS&at_campaign=rss))
+- Tributes paid to 'trailblazing' former chairwoman ([14 hours ago](https://www.bbc.com/news/articles/cde53195n9yo?at_medium=RSS&at_campaign=rss))
+- Friends hold charity match to honour cancer victim ([17 hours ago](https://www.bbc.com/news/articles/cgldnljx4xdo?at_medium=RSS&at_campaign=rss))
 - The man beating records after Parkinson's diagnosis ([1 days ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))
 - In pictures: Fiesta festivities and Prince William's camp visit ([1 days ago](https://www.bbc.com/news/articles/cddqem21574o?at_medium=RSS&at_campaign=rss))
 - Bridge to remain closed as temporary fix too costly ([1 days ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
@@ -44,7 +44,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New kerbside recycling service for cartons ([11 days ago](https://gloucesternewscentre.co.uk/new-kerbside-recycling-service-for-cartons/))
 - Questions over future of closed Cheltenham tip ([11 days ago](https://gloucesternewscentre.co.uk/questions-over-future-of-closed-cheltenham-tip/))
 - Cheltenham’s target to build 16,420 blasted as ‘totally unrealistic’ ([11 days ago](https://gloucesternewscentre.co.uk/cheltenhams-target-to-build-16420-blasted-as-totally-unrealistic/))
-- Cheltenham residents can recycle even more from the kerbside from 1 April ([11 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
+- Cheltenham residents can recycle even more from the kerbside from 1 April ([12 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
 - Cheltenham mum to run London Marathon then 100 miles home in memory of friend ([13 days ago](https://gloucesternewscentre.co.uk/cheltenham-mum-to-run-london-marathon-then-100-miles-home-in-memory-of-friend/))
 - Calls for citizens’ assembly to have say future of airport ([13 days ago](https://gloucesternewscentre.co.uk/calls-for-citizens-assembly-to-have-say-future-of-airport/))
 - Don’t miss your right to vote, register by Monday 20 April 2026 ([13 days ago](https://www.cheltenham.gov.uk/news/article/3114/dont_miss_your_right_to_vote_register_by_monday_20_april_2026))

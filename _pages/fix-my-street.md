@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Box of car parts dumped, 6th April :- [9245118](https://www.fixmystreet.com/report/9245118)
+- Table and mattress dumped, 6th April :- [9245108](https://www.fixmystreet.com/report/9245108)
+- Offensive graffiti on bus shelter glass panels (bauer media), 6th April :- [9244990](https://www.fixmystreet.com/report/9244990)
+- Speed limit sign leaning 13 degrees, 6th April :- [9244960](https://www.fixmystreet.com/report/9244960)
 - Road markings work or faded, making this bend and junction ‘interesting’ after dark, 6th April :- [9244724](https://www.fixmystreet.com/report/9244724)
 - Central ,road markings are worn, 6th April :- [9244687](https://www.fixmystreet.com/report/9244687)
 - The central road markings are worn in this area, 6th April :- [9244631](https://www.fixmystreet.com/report/9244631)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Drain still blocked, 5th April :- [9241351](https://www.fixmystreet.com/report/9241351)
 - Uneven section of road, 5th April :- [9241269](https://www.fixmystreet.com/report/9241269)
 - Large pothole, 5th April :- [9241215](https://www.fixmystreet.com/report/9241215)
-- Large pothole, 5th April :- [9241214](https://www.fixmystreet.com/report/9241214)
-- Dangerous horses in field, 4th April :- [9239968](https://www.fixmystreet.com/report/9239968)
-- Dining chair abandoned on verge, 4th April :- [9239820](https://www.fixmystreet.com/report/9239820)
-- 2 potholes at the bottom of the hill easily alter a car's direction coming down the hill., 4th April :- [9239637](https://www.fixmystreet.com/report/9239637)
 
 <!-- fix_marker ends -->

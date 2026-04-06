@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Tributes paid to 'trailblazing' former chairwoman ([6 hours ago](https://www.bbc.com/news/articles/cde53195n9yo?at_medium=RSS&at_campaign=rss))
-- Friends hold charity match to honour cancer victim ([9 hours ago](https://www.bbc.com/news/articles/cgldnljx4xdo?at_medium=RSS&at_campaign=rss))
-- The man beating records after Parkinson's diagnosis ([19 hours ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))
-- In pictures: Fiesta festivities and Prince William's camp visit ([19 hours ago](https://www.bbc.com/news/articles/cddqem21574o?at_medium=RSS&at_campaign=rss))
+- Tributes paid to 'trailblazing' former chairwoman ([8 hours ago](https://www.bbc.com/news/articles/cde53195n9yo?at_medium=RSS&at_campaign=rss))
+- Friends hold charity match to honour cancer victim ([12 hours ago](https://www.bbc.com/news/articles/cgldnljx4xdo?at_medium=RSS&at_campaign=rss))
+- The man beating records after Parkinson's diagnosis ([21 hours ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))
+- In pictures: Fiesta festivities and Prince William's camp visit ([21 hours ago](https://www.bbc.com/news/articles/cddqem21574o?at_medium=RSS&at_campaign=rss))
 - Bridge to remain closed as temporary fix too costly ([1 days ago](https://www.bbc.com/news/articles/c05de12400lo?at_medium=RSS&at_campaign=rss))
 - Student film raises awareness of dual diagnosis ([1 days ago](https://www.bbc.com/news/articles/cm2r4v0x47xo?at_medium=RSS&at_campaign=rss))
 - Spring hiking surge prompts safety advice ([1 days ago](https://www.bbc.com/news/articles/clyxwgrzz67o?at_medium=RSS&at_campaign=rss))

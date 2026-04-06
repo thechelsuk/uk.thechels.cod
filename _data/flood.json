@@ -34,69 +34,6 @@
             "timeMessageChanged": "2026-04-05T11:39:00",
             "timeRaised": "2026-04-05T11:39:47",
             "timeSeverityChanged": "2026-04-05T11:39:00"
-        },
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
-            "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
-            "eaAreaName": "Wessex",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
-                "county": "City of Bristol, North Somerset, South Gloucestershire",
-                "notation": "112WATAVN1",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
-                "riverOrSea": "River Avon"
-            },
-            "floodAreaID": "112WATAVN1",
-            "isTidal": true,
-            "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\u00a0\nWeather conditions are expected to improve and no further flooding is expected.  \u00a0\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \u00a0\nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-            "severity": "Warning no longer in force",
-            "severityLevel": 4,
-            "timeMessageChanged": "2026-04-05T08:27:00",
-            "timeRaised": "2026-04-05T08:27:44",
-            "timeSeverityChanged": "2026-04-05T08:27:00"
-        },
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN2",
-            "description": "Severn Estuary at Oldbury-on-Severn, Northwick and Avonmouth",
-            "eaAreaName": "Wessex",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN2",
-                "county": "City of Bristol, Gloucestershire, South Gloucestershire",
-                "notation": "112WATSVN2",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN2/polygon",
-                "riverOrSea": "Severn Estuary"
-            },
-            "floodAreaID": "112WATSVN2",
-            "isTidal": true,
-            "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\u00a0\nWeather conditions are expected to improve and no further flooding is expected.  \u00a0\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \u00a0\nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-            "severity": "Warning no longer in force",
-            "severityLevel": 4,
-            "timeMessageChanged": "2026-04-05T08:30:00",
-            "timeRaised": "2026-04-05T08:30:52",
-            "timeSeverityChanged": "2026-04-05T08:30:00"
-        },
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN1",
-            "description": "Severn Estuary at Severn Beach",
-            "eaAreaName": "Wessex",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1",
-                "county": "South Gloucestershire",
-                "notation": "112WATSVN1",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1/polygon",
-                "riverOrSea": "Severn Estuary"
-            },
-            "floodAreaID": "112WATSVN1",
-            "isTidal": true,
-            "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\u00a0\nWeather conditions are expected to improve and no further flooding is expected.  \u00a0\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \u00a0\nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
-            "severity": "Warning no longer in force",
-            "severityLevel": 4,
-            "timeMessageChanged": "2026-04-05T08:28:00",
-            "timeRaised": "2026-04-05T08:28:36",
-            "timeSeverityChanged": "2026-04-05T08:28:00"
         }
     ]
 }

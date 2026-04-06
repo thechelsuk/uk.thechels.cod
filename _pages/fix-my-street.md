@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes when you turn into Folland Avenue from Hucclecote Rd, 6th April :- [9246348](https://www.fixmystreet.com/report/9246348)
 - Billbrook Road, 6th April :- [9245930](https://www.fixmystreet.com/report/9245930)
 - Box of car parts dumped, 6th April :- [9245118](https://www.fixmystreet.com/report/9245118)
 - Table and mattress dumped, 6th April :- [9245108](https://www.fixmystreet.com/report/9245108)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large tree branch hanging off, 5th April :- [9240656](https://www.fixmystreet.com/report/9240656)
 - Incomplete roadworks due to be finished by 27th March, incomplete, blocking my driveway and barriers blowing down. The issue has been present for approx 3 weeks., 5th April :- [9241400](https://www.fixmystreet.com/report/9241400)
 - Drain still blocked, 5th April :- [9241351](https://www.fixmystreet.com/report/9241351)
-- Uneven section of road, 5th April :- [9241269](https://www.fixmystreet.com/report/9241269)
 
 <!-- fix_marker ends -->

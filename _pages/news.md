@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Plans to divide suburb near cheese-rolling hill 'bonkers' ([6 hours ago](https://www.bbc.com/news/articles/cvg3vjmmkv0o?at_medium=RSS&at_campaign=rss))
-- Book revives long lost works by 'remarkable' poet ([16 hours ago](https://www.bbc.com/news/articles/cwydk18ee29o?at_medium=RSS&at_campaign=rss))
-- Urgent action to save birds 'that define Britain' ([16 hours ago](https://www.bbc.com/news/articles/ckg0q17wzk2o?at_medium=RSS&at_campaign=rss))
+- Plans to divide suburb near cheese-rolling hill 'bonkers' ([8 hours ago](https://www.bbc.com/news/articles/cvg3vjmmkv0o?at_medium=RSS&at_campaign=rss))
+- Book revives long lost works by 'remarkable' poet ([18 hours ago](https://www.bbc.com/news/articles/cwydk18ee29o?at_medium=RSS&at_campaign=rss))
+- Urgent action to save birds 'that define Britain' ([18 hours ago](https://www.bbc.com/news/articles/ckg0q17wzk2o?at_medium=RSS&at_campaign=rss))
 - Tributes paid to 'trailblazing' former chairwoman ([1 days ago](https://www.bbc.com/news/articles/cde53195n9yo?at_medium=RSS&at_campaign=rss))
 - Friends hold charity match to honour cancer victim ([1 days ago](https://www.bbc.com/news/articles/cgldnljx4xdo?at_medium=RSS&at_campaign=rss))
 - The man beating records after Parkinson's diagnosis ([1 days ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))

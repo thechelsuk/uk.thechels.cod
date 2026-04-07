@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive crater, 7th April :- [9248604](https://www.fixmystreet.com/report/9248604)
+- Massive crater, 7th April :- [9248603](https://www.fixmystreet.com/report/9248603)
+- Massive crater, 7th April :- [9248602](https://www.fixmystreet.com/report/9248602)
+- Overflowing bin, 7th April :- [9248552](https://www.fixmystreet.com/report/9248552)
+- The times of No. 10 buses do not show on the screen anymore, 7th April :- [9248320](https://www.fixmystreet.com/report/9248320)
 - A white double mattress dumped at Nazeby Court again, 7th April :- [9248166](https://www.fixmystreet.com/report/9248166)
 - Bus Schedule display incomplete, 6th April :- [9248111](https://www.fixmystreet.com/report/9248111)
 - Poor tarmac condition all the way along the school, 6th April :- [9247756](https://www.fixmystreet.com/report/9247756)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Road markings work or faded, making this bend and junction ‘interesting’ after dark, 6th April :- [9244724](https://www.fixmystreet.com/report/9244724)
 - Central ,road markings are worn, 6th April :- [9244687](https://www.fixmystreet.com/report/9244687)
 - The central road markings are worn in this area, 6th April :- [9244631](https://www.fixmystreet.com/report/9244631)
-- Public rubbish bin with contents thrown into stream, 6th April :- [9244587](https://www.fixmystreet.com/report/9244587)
-- Path not re-instated, 5th April :- [9243356](https://www.fixmystreet.com/report/9243356)
-- Path not re-instated, 5th April :- [9243350](https://www.fixmystreet.com/report/9243350)
-- Bank eroded in front of stile, 5th April :- [9243342](https://www.fixmystreet.com/report/9243342)
-- KG has trip hazards, 5th April :- [9243332](https://www.fixmystreet.com/report/9243332)
 
 <!-- fix_marker ends -->

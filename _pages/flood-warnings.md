@@ -19,12 +19,5 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
-- Warning no longer in force: Wye Estuary in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Tidal conditions are expected to improve and no flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  
-
-
 
 <!-- flood_marker ends -->

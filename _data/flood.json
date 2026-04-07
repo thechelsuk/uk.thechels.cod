@@ -13,27 +13,5 @@
             "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
         ]
     },
-    "items": [
-        {
-            "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
-            "description": "Wye Estuary in Gloucestershire",
-            "eaAreaName": "West Midlands",
-            "eaRegionName": "No longer used",
-            "floodArea": {
-                "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122",
-                "county": "Gloucestershire",
-                "notation": "031WAT122",
-                "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122/polygon",
-                "riverOrSea": "Wye Estuary"
-            },
-            "floodAreaID": "031WAT122",
-            "isTidal": true,
-            "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\u00a0\nTidal conditions are expected to improve and no flooding is expected.  \u00a0\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \u00a0\nNever drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n\n",
-            "severity": "Warning no longer in force",
-            "severityLevel": 4,
-            "timeMessageChanged": "2026-04-05T11:39:00",
-            "timeRaised": "2026-04-05T11:39:47",
-            "timeSeverityChanged": "2026-04-05T11:39:00"
-        }
-    ]
+    "items": []
 }

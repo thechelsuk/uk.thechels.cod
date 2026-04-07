@@ -9,10 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Path uneven, broken and lifted due to tenents at 36 using the area as a drive., 7th April :- [9237936](https://www.fixmystreet.com/report/9237936)
+- Dangerous metal gates placed in field boundaries, 7th April :- [9254204](https://www.fixmystreet.com/report/9254204)
+- Footpath blocked by locked gates, 7th April :- [9254193](https://www.fixmystreet.com/report/9254193)
+- Barbed wire through tree, 7th April :- [9253912](https://www.fixmystreet.com/report/9253912)
+- Flytipped furniture, 7th April :- [9253743](https://www.fixmystreet.com/report/9253743)
 - Fence to dog field is rotten and not secure, 7th April :- [9253583](https://www.fixmystreet.com/report/9253583)
 - Fallen tree on roadside is blocking my driveway, 7th April :- [9252554](https://www.fixmystreet.com/report/9252554)
-- TMC - Defects -CW6 Potholes  problem, 7th April :- [9252627](https://www.fixmystreet.com/report/9252627)
 - TMC - Defects -CW6 Potholes  problem, 7th April :- [9252628](https://www.fixmystreet.com/report/9252628)
+- TMC - Defects -CW6 Potholes  problem, 7th April :- [9252627](https://www.fixmystreet.com/report/9252627)
 - TMC - Defects -other CW6 problem, 7th April :- [9252630](https://www.fixmystreet.com/report/9252630)
 - TMC - Defects -CW6 Potholes  problem, 7th April :- [9252629](https://www.fixmystreet.com/report/9252629)
 - A pothole in road problem, 7th April :- [9252623](https://www.fixmystreet.com/report/9252623)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 7th April :- [9252362](https://www.fixmystreet.com/report/9252362)
 - TMC - Defects -other CW10 problem, 7th April :- [9252361](https://www.fixmystreet.com/report/9252361)
 - TMC - Defects -other CW6 problem, 7th April :- [9252360](https://www.fixmystreet.com/report/9252360)
-- TMC - Defects -other CW10 problem, 7th April :- [9252359](https://www.fixmystreet.com/report/9252359)
-- TMC - Defects -other CW10 problem, 7th April :- [9252112](https://www.fixmystreet.com/report/9252112)
-- TMC - Defects -other CW10 problem, 7th April :- [9252111](https://www.fixmystreet.com/report/9252111)
-- TMC - Defects -other CW10 problem, 7th April :- [9252105](https://www.fixmystreet.com/report/9252105)
-- TMC - Defects -CW6 Potholes  problem, 7th April :- [9252103](https://www.fixmystreet.com/report/9252103)
 
 <!-- fix_marker ends -->

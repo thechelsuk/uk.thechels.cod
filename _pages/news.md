@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Plans to divide suburb near cheese-rolling hill 'bonkers' ([11 hours ago](https://www.bbc.com/news/articles/cvg3vjmmkv0o?at_medium=RSS&at_campaign=rss))
-- Book revives long lost works by 'remarkable' poet ([21 hours ago](https://www.bbc.com/news/articles/cwydk18ee29o?at_medium=RSS&at_campaign=rss))
-- Urgent action to save birds 'that define Britain' ([21 hours ago](https://www.bbc.com/news/articles/ckg0q17wzk2o?at_medium=RSS&at_campaign=rss))
+- Plans to divide suburb near cheese-rolling hill 'bonkers' ([12 hours ago](https://www.bbc.com/news/articles/cvg3vjmmkv0o?at_medium=RSS&at_campaign=rss))
+- Book revives long lost works by 'remarkable' poet ([22 hours ago](https://www.bbc.com/news/articles/cwydk18ee29o?at_medium=RSS&at_campaign=rss))
+- Urgent action to save birds 'that define Britain' ([23 hours ago](https://www.bbc.com/news/articles/ckg0q17wzk2o?at_medium=RSS&at_campaign=rss))
 - Tributes paid to 'trailblazing' former chairwoman ([1 days ago](https://www.bbc.com/news/articles/cde53195n9yo?at_medium=RSS&at_campaign=rss))
 - Friends hold charity match to honour cancer victim ([1 days ago](https://www.bbc.com/news/articles/cgldnljx4xdo?at_medium=RSS&at_campaign=rss))
 - The man beating records after Parkinson's diagnosis ([1 days ago](https://www.bbc.com/news/articles/c8x7gd2jr15o?at_medium=RSS&at_campaign=rss))
@@ -31,7 +31,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Work to start on new leisure centre this month ([4 days ago](https://www.bbc.com/news/articles/c78r470vdngo?at_medium=RSS&at_campaign=rss))
 - Four badgers found shot dead in woodland ([4 days ago](https://www.bbc.com/news/articles/crk16e8e5ngo?at_medium=RSS&at_campaign=rss))
 - Men jailed after arson attack at block of flats ([4 days ago](https://www.bbc.com/news/articles/c239gv8y1gzo?at_medium=RSS&at_campaign=rss))
-- Ketamine is 'not worth losing your bladder for' ([4 days ago](https://www.bbc.com/news/articles/cy5137re4gvo?at_medium=RSS&at_campaign=rss))
+- Ketamine is 'not worth losing your bladder for' ([5 days ago](https://www.bbc.com/news/articles/cy5137re4gvo?at_medium=RSS&at_campaign=rss))
 - Topps Tiles to close shops in cost cuts ([5 days ago](https://gloucesternewscentre.co.uk/topps-tiles-to-close-shops-in-cost-cuts/))
 - Gloucestershire councils set sights on future membership of the West of England Combined Authority ([7 days ago](https://www.cheltenham.gov.uk/news/article/3119/gloucestershire_councils_set_sights_on_future_membership_of_the_west_of_england_combined_authority))
 - Hundreds call for improvements to 97/98 bus ([10 days ago](https://gloucesternewscentre.co.uk/hundreds-call-for-improvements-to-97-98-bus/))

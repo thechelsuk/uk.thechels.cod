@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in the road just before coming to the end of the restricted speed limit., 7th April :- [9254757](https://www.fixmystreet.com/report/9254757)
 - Fly tipped bike, 7th April :- [9254596](https://www.fixmystreet.com/report/9254596)
 - Fly tipped furniture, 7th April :- [9254594](https://www.fixmystreet.com/report/9254594)
 - Path uneven, broken and lifted due to tenents at 36 using the area as a drive., 7th April :- [9237936](https://www.fixmystreet.com/report/9237936)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 7th April :- [9252626](https://www.fixmystreet.com/report/9252626)
 - TMC - Defects -CW6 Potholes  problem, 7th April :- [9252373](https://www.fixmystreet.com/report/9252373)
 - TMC - Defects -CW10 Potholes problem, 7th April :- [9252363](https://www.fixmystreet.com/report/9252363)
-- TMC - Defects -other CW10 problem, 7th April :- [9252362](https://www.fixmystreet.com/report/9252362)
 
 <!-- fix_marker ends -->

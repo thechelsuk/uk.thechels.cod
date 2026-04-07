@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 07 April 2026
 
-- The average temperature today is 18.47˚C,
-- With highs of 18.47˚C and lows of 18.47˚C,
-- It may feel like 17.97˚C with overcast clouds
-- The wind speed is 5.37m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 61%
+- The average temperature today is 16.97˚C,
+- With highs of 16.97˚C and lows of 16.97˚C,
+- It may feel like 16.47˚C with broken clouds
+- The wind speed is 5.77m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 67%
 - The sun will rise at 05:29 and set at 18:50
 
 <!-- weather_marker ends -->

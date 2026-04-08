@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple deep potholes along the whole stretch of road, 8th April :- [9261060](https://www.fixmystreet.com/report/9261060)
+- Melody Way, parked opposite driveway for flats 9-14, 8th April :- [9260861](https://www.fixmystreet.com/report/9260861)
 - Bollard light flickering on Hewlett Road, 8th April :- [9260534](https://www.fixmystreet.com/report/9260534)
 - Multiple potholes and surface erosion where pervious patch works have been carried out, 8th April :- [9260343](https://www.fixmystreet.com/report/9260343)
 - Large pothole near junction, 8th April :- [9260321](https://www.fixmystreet.com/report/9260321)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 8th April :- [9258979](https://www.fixmystreet.com/report/9258979)
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [9258977](https://www.fixmystreet.com/report/9258977)
 - TMC - Defects -CW6 Potholes  problem, 8th April :- [9258978](https://www.fixmystreet.com/report/9258978)
-- TMC - Defects -CW6 Potholes  problem, 8th April :- [9258972](https://www.fixmystreet.com/report/9258972)
-- TMC - Defects -CW6 Potholes  problem, 8th April :- [9258973](https://www.fixmystreet.com/report/9258973)
 
 <!-- fix_marker ends -->

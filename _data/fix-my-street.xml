@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,6 +14,114 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9256240</link>
+<description>Permanent repair Road closure 28 day carriage way pothole 600x500x20mm tarmac parch   number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9256240&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9256240</guid>
+<pubDate>Wed, 08 Apr 2026 09:56:56 +0100</pubDate>
+<georss:point>51.8973157 -2.0762181</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9256241</link>
+<description>Permanent repair Road closure 28 day carriage way pothole 600x450x18mm tarmac parch   number 2 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9256241&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9256241</guid>
+<pubDate>Wed, 08 Apr 2026 09:56:56 +0100</pubDate>
+<georss:point>51.8973123 -2.07617839999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9256237</link>
+<description>Pothole CW&amp;#10;700x700x40mm&amp;#10;Standard TM&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9256237&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9256237</guid>
+<pubDate>Wed, 08 Apr 2026 09:55:14 +0100</pubDate>
+<georss:point>51.8508944 -2.12647970000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9256051</link>
+<description>Perm for ENWD&amp;#10;Pothole CW&amp;#10;800x600x90mm approx&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9256051&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9256051</guid>
+<pubDate>Wed, 08 Apr 2026 09:32:14 +0100</pubDate>
+<georss:point>51.8551565338854 -2.12432823338046</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9256052</link>
+<description>ENWD&amp;#10;15DB&amp;#10;Pothole CW&amp;#10;800x600x90mm approx&amp;#10;Road closure with 15db (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9256052&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9256052</guid>
+<pubDate>Wed, 08 Apr 2026 09:32:14 +0100</pubDate>
+<georss:point>51.855102456642 -2.12421057667216</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9256054</link>
+<description>Perm for ENWD&amp;#10;Pothole CW&amp;#10;700x600x90mm approx&amp;#10;Road closure&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9256054&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9256054</guid>
+<pubDate>Wed, 08 Apr 2026 09:32:14 +0100</pubDate>
+<georss:point>51.8562053 -2.11937999999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9256053</link>
+<description>ENWD&amp;#10;15DB&amp;#10;Pothole CW&amp;#10;700x600x90mm approx&amp;#10;Road closure with 15db (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9256053&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9256053</guid>
+<pubDate>Wed, 08 Apr 2026 09:32:14 +0100</pubDate>
+<georss:point>51.8562121 -2.1193632</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9256050</link>
+<description>Pothole CW&amp;#10;1000x800x70mm approx&amp;#10;Road closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9256050&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9256050</guid>
+<pubDate>Wed, 08 Apr 2026 09:32:14 +0100</pubDate>
+<georss:point>51.8553319 -2.12474449999999</georss:point>
+</item>
+<item>
+<title>Low hanging branches causing issues for vans coming and going regularly, 8th April</title>
+<link>https://www.fixmystreet.com/report/9255713</link>
+<description>Outside 80/82 Leckhampton Road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9255713.0.jpeg?62cb3e25&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Whitley Court, Leckhampton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9255713&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree overhanging/overgrown limb</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9255713</guid>
+<pubDate>Wed, 08 Apr 2026 08:59:52 +0100</pubDate>
+<georss:point>51.883761 -2.079444</georss:point>
+</item>
+<item>
+<title>Overhanging branch growing towards power lines, 8th April</title>
+<link>https://www.fixmystreet.com/report/9255630</link>
+<description>The branch in question has previously damaged a vehicle, and there a is concern about it potentially effecting nearby power lines. Approximately what3words location:afford.dark.shirts&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Butt&#39;s Lane, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9255630&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree overhanging/overgrown limb</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9255630</guid>
+<pubDate>Wed, 08 Apr 2026 08:46:36 +0100</pubDate>
+<georss:point>51.949773 -2.043665</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9255544</link>
+<description>Pothole CW. &amp;#10;500x300x40mm&amp;#10;Road closure&amp;#10;X 4 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9255544&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9255544</guid>
+<pubDate>Wed, 08 Apr 2026 08:12:39 +0100</pubDate>
+<georss:point>51.8891055 -2.12448619999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th April</title>
+<link>https://www.fixmystreet.com/report/9255540</link>
+<description>Pothole CW. &amp;#10;600x300x40mm&amp;#10;Road closure&amp;#10;X 3 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9255540&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9255540</guid>
+<pubDate>Wed, 08 Apr 2026 08:09:28 +0100</pubDate>
+<georss:point>51.8891186 -2.12439959999999</georss:point>
+</item>
 <item>
 <title>Large damaged areas to road surface. Cars are routinely driving on the wrong side of the road to avoid., 8th April</title>
 <link>https://www.fixmystreet.com/report/9255317</link>
@@ -85,114 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9254204</guid>
 <pubDate>Tue, 07 Apr 2026 19:34:11 +0100</pubDate>
 <georss:point>51.919064 -2.133587</georss:point>
-</item>
-<item>
-<title>Footpath blocked by locked gates, 7th April</title>
-<link>https://www.fixmystreet.com/report/9254193</link>
-<description>Along the driveway to farm buildings. Also no stiles or access further along the footpath and crops plates dangerously close to River Chelt with no boundary to walk along.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9254193.0.jpeg?a255af36&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Withybridge Lane, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9254193&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Gate is damaged/missing/locked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9254193</guid>
-<pubDate>Tue, 07 Apr 2026 19:32:02 +0100</pubDate>
-<georss:point>51.920251 -2.139592</georss:point>
-</item>
-<item>
-<title>Barbed wire through tree, 7th April</title>
-<link>https://www.fixmystreet.com/report/9253912</link>
-<description>Bridlepath/footpath behind 18 Greenwood Drive, Stoke Orchard&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9253912.0.jpeg?a37ddad3&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Stoke Orchard, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9253912&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9253912</guid>
-<pubDate>Tue, 07 Apr 2026 18:45:09 +0100</pubDate>
-<georss:point>51.95351 -2.117352</georss:point>
-</item>
-<item>
-<title>Flytipped furniture, 7th April</title>
-<link>https://www.fixmystreet.com/report/9253743</link>
-<description>Wardrobe flytipped just off Brunswick street towards Hanover Street&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9253743.0.jpeg?f974a9ed&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 128, Brunswick Street, Marle Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9253743&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9253743</guid>
-<pubDate>Tue, 07 Apr 2026 18:20:22 +0100</pubDate>
-<georss:point>51.907709 -2.076156</georss:point>
-</item>
-<item>
-<title>Fence to dog field is rotten and not secure, 7th April</title>
-<link>https://www.fixmystreet.com/report/9253583</link>
-<description>The last section of the fence at the cutbridge field in the very corner where it meets the ajoining property is rotten and not secure.&amp;#10;&amp;#10;Multiple dogs have managed to get over the corner and onto the road.&amp;#10;&amp;#10;The beams of the fence are almost completed detached in places.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cutbridge Meadow, Bishop&#39;s Cleeve&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9253583&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Parks/landscapes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9253583</guid>
-<pubDate>Tue, 07 Apr 2026 17:51:48 +0100</pubDate>
-<georss:point>51.939053 -2.057018</georss:point>
-</item>
-<item>
-<title>Fallen tree on roadside is blocking my driveway, 7th April</title>
-<link>https://www.fixmystreet.com/report/9252554</link>
-<description>Fallen tree has smashed onto car on road and is now blocking my driveway access. I need it removing immediately to access the car and ev charger&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9252554.0.jpeg?6601b575&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 4, Barbridge Road, Kingsditch, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9252554&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9252554</guid>
-<pubDate>Tue, 07 Apr 2026 15:30:16 +0100</pubDate>
-<georss:point>51.907155 -2.115231</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 7th April</title>
-<link>https://www.fixmystreet.com/report/9252627</link>
-<description>NWD   carriage way pothole 1300x1200x80mm tarmac parch   make safe (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9252627&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9252627</guid>
-<pubDate>Tue, 07 Apr 2026 15:19:26 +0100</pubDate>
-<georss:point>51.933474 -2.19289359999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 7th April</title>
-<link>https://www.fixmystreet.com/report/9252628</link>
-<description>Permanent repair Road closure 28 day carriage way pothole 1300x1200x80mm tarmac parch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9252628&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9252628</guid>
-<pubDate>Tue, 07 Apr 2026 15:19:26 +0100</pubDate>
-<georss:point>51.9334988 -2.19288069999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 7th April</title>
-<link>https://www.fixmystreet.com/report/9252630</link>
-<description>Road closure  28 day  carriage way edge deteration 900x600x50mm tarmac parch   number 1 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9252630&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9252630</guid>
-<pubDate>Tue, 07 Apr 2026 15:19:26 +0100</pubDate>
-<georss:point>51.9335110444814 -2.19292773389103</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 7th April</title>
-<link>https://www.fixmystreet.com/report/9252629</link>
-<description>Permanent repair Road closure 28 day carriage way pothole 600x500x40mm tarmac parch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9252629&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9252629</guid>
-<pubDate>Tue, 07 Apr 2026 15:19:26 +0100</pubDate>
-<georss:point>51.9335085533247 -2.19287511340113</georss:point>
-</item>
-<item>
-<title>A pothole in road problem, 7th April</title>
-<link>https://www.fixmystreet.com/report/9252623</link>
-<description>2 x potholes outside property &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9252623&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9252623</guid>
-<pubDate>Tue, 07 Apr 2026 15:19:01 +0100</pubDate>
-<georss:point>51.963334 -2.139447</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 7th April</title>
-<link>https://www.fixmystreet.com/report/9252626</link>
-<description>Road closure  28 day  carriage way pothole 700x600x60mm tarmac parch   number 2 plus x1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9252626&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9252626</guid>
-<pubDate>Tue, 07 Apr 2026 15:07:23 +0100</pubDate>
-<georss:point>51.9329450689034 -2.19270583010291</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 7th April</title>
-<link>https://www.fixmystreet.com/report/9252624</link>
-<description>Road closure  28 day  carriage way pothole 700x600x50mm tarmac parch   number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9252624&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9252624</guid>
-<pubDate>Tue, 07 Apr 2026 15:07:23 +0100</pubDate>
-<georss:point>51.9329166201669 -2.19260006540219</georss:point>
 </item>
 </channel>
 </rss>

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 08 April 2026
 
-- The average temperature today is 22˚C,
-- With highs of 23.25˚C and lows of 20.93˚C,
-- It may feel like 21.61˚C with overcast clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 52%
+- The average temperature today is 21.92˚C,
+- With highs of 21.92˚C and lows of 21.92˚C,
+- It may feel like 21.97˚C with broken clouds
+- The wind speed is 1.88m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 69%
 - The sun will rise at 05:27 and set at 18:52
 
 <!-- weather_marker ends -->

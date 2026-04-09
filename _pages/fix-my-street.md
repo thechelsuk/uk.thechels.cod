@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole at the entrance of Leckhampton hill car park, 9th April :- [9266762](https://www.fixmystreet.com/report/9266762)
+- Pot hole at the entrance of Leckhampton hill car park, 9th April :- [9266761](https://www.fixmystreet.com/report/9266761)
+- Massive potholes everywhere, 9th April :- [9266755](https://www.fixmystreet.com/report/9266755)
+- Flytipping, 9th April :- [9266498](https://www.fixmystreet.com/report/9266498)
 - Tree is damaged problem, 9th April :- [9265943](https://www.fixmystreet.com/report/9265943)
 - There appears to be subsidence in the road - it has been getting worse, 9th April :- [9265526](https://www.fixmystreet.com/report/9265526)
 - TMC - Defects - Kerbs and Channels problem, 9th April :- [9265447](https://www.fixmystreet.com/report/9265447)
@@ -19,15 +23,11 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [9265430](https://www.fixmystreet.com/report/9265430)
 - Outside 64, 9th April :- [9264942](https://www.fixmystreet.com/report/9264942)
 - Road is ruined, 9th April :- [9264848](https://www.fixmystreet.com/report/9264848)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [9264927](https://www.fixmystreet.com/report/9264927)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [9264926](https://www.fixmystreet.com/report/9264926)
+- TMC - Defects -CW6 Potholes  problem, 9th April :- [9264927](https://www.fixmystreet.com/report/9264927)
 - TMC - Defects - Covers, Gratings & Frames problem, 9th April :- [9264925](https://www.fixmystreet.com/report/9264925)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [9264924](https://www.fixmystreet.com/report/9264924)
 - TMC - Defects -other CW6 problem, 9th April :- [9264462](https://www.fixmystreet.com/report/9264462)
 - Overflowing bin, 9th April :- [9264261](https://www.fixmystreet.com/report/9264261)
-- The drain is blocked problem, 9th April :- [9264446](https://www.fixmystreet.com/report/9264446)
-- TMC - Defects - Covers, Gratings & Frames problem, 9th April :- [9264201](https://www.fixmystreet.com/report/9264201)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [9264198](https://www.fixmystreet.com/report/9264198)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [9263651](https://www.fixmystreet.com/report/9263651)
 
 <!-- fix_marker ends -->

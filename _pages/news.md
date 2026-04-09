@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- New police officers to tackle anti-social behaviour ([2 hours ago](https://www.bbc.com/news/articles/cm2klpjp5k4o?at_medium=RSS&at_campaign=rss))
-- 'I feel really happy to see myself at meningitis exhibition' ([11 hours ago](https://www.bbc.com/news/articles/c77mzy8xp48o?at_medium=RSS&at_campaign=rss))
-- Dog walkers urged to help protect rare birds ([18 hours ago](https://www.bbc.com/news/articles/ce84zpg1v0xo?at_medium=RSS&at_campaign=rss))
-- 'I'm 67 and they've finally given me a cap' ([22 hours ago](https://www.bbc.com/sport/rugby-union/articles/c5yjdv6e03vo?at_medium=RSS&at_campaign=rss))
+- Officers redeployed to tackle anti-social behaviour ([13 minutes ago](https://www.bbc.com/news/articles/cm2klpjp5k4o?at_medium=RSS&at_campaign=rss))
+- 'I feel really happy to see myself at meningitis exhibition' ([13 hours ago](https://www.bbc.com/news/articles/c77mzy8xp48o?at_medium=RSS&at_campaign=rss))
+- Dog walkers urged to help protect rare birds ([20 hours ago](https://www.bbc.com/news/articles/ce84zpg1v0xo?at_medium=RSS&at_campaign=rss))
+- 'I'm 67 and they've finally given me a cap' ([1 days ago](https://www.bbc.com/sport/rugby-union/articles/c5yjdv6e03vo?at_medium=RSS&at_campaign=rss))
 - Potholes 'costing blood bike charity thousands' ([1 days ago](https://www.bbc.com/news/articles/clyj4vdger2o?at_medium=RSS&at_campaign=rss))
 - New bays to prevent e-scooters being 'dumped' ([1 days ago](https://www.bbc.com/news/articles/c895eep1wdlo?at_medium=RSS&at_campaign=rss))
 - Girl wants to raise awareness of plasma donations ([1 days ago](https://www.bbc.com/news/articles/c62l8x1rlz6o?at_medium=RSS&at_campaign=rss))
@@ -44,7 +44,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New kerbside recycling service for cartons ([14 days ago](https://gloucesternewscentre.co.uk/new-kerbside-recycling-service-for-cartons/))
 - Questions over future of closed Cheltenham tip ([14 days ago](https://gloucesternewscentre.co.uk/questions-over-future-of-closed-cheltenham-tip/))
 - Cheltenham’s target to build 16,420 blasted as ‘totally unrealistic’ ([14 days ago](https://gloucesternewscentre.co.uk/cheltenhams-target-to-build-16420-blasted-as-totally-unrealistic/))
-- Cheltenham residents can recycle even more from the kerbside from 1 April ([14 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
+- Cheltenham residents can recycle even more from the kerbside from 1 April ([15 days ago](https://www.cheltenham.gov.uk/news/article/3115/cheltenham_residents_can_recycle_even_more_from_the_kerbside_from_1_april))
 - Cheltenham mum to run London Marathon then 100 miles home in memory of friend ([16 days ago](https://gloucesternewscentre.co.uk/cheltenham-mum-to-run-london-marathon-then-100-miles-home-in-memory-of-friend/))
 - Calls for citizens’ assembly to have say future of airport ([16 days ago](https://gloucesternewscentre.co.uk/calls-for-citizens-assembly-to-have-say-future-of-airport/))
 - Don’t miss your right to vote, register by Monday 20 April 2026 ([16 days ago](https://www.cheltenham.gov.uk/news/article/3114/dont_miss_your_right_to_vote_register_by_monday_20_april_2026))

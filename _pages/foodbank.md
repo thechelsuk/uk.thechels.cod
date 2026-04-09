@@ -10,17 +10,17 @@ permalink: /foodbank
 <!-- summary1_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2026-03-20
+Last updated: 2026-04-09
 
 - Baked Beans
+- Instant Noodles
+- Soap
+- Shampoo
 - Fruit Juice / Squash
 - Coffee
 - Tinned Meat / Fish
-- Shampoo
 - Washing Up Liquid
-- Soap
 - Nappies Size 6+/7
-- Toilet Rolls
 <!-- summary1_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)

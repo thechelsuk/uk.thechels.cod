@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree STILL no rectified, 9th April :- [9261998](https://www.fixmystreet.com/report/9261998)
+- 16 Salamanca Road, 9th April :- [9261736](https://www.fixmystreet.com/report/9261736)
 - Pothole on Bethesda St, 8th April :- [9261349](https://www.fixmystreet.com/report/9261349)
 - Lots of potholes, 8th April :- [9261331](https://www.fixmystreet.com/report/9261331)
 - Multiple deep potholes along the whole stretch of road, 8th April :- [9261060](https://www.fixmystreet.com/report/9261060)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Illegal fire ash/debris, 8th April :- [9259474](https://www.fixmystreet.com/report/9259474)
 - Waste bags, 8th April :- [9259084](https://www.fixmystreet.com/report/9259084)
 - Litter in brook, 8th April :- [9258894](https://www.fixmystreet.com/report/9258894)
-- When are going to fix this?, 8th April :- [9258890](https://www.fixmystreet.com/report/9258890)
-- TMC - Defects -other CW6 problem, 8th April :- [9258979](https://www.fixmystreet.com/report/9258979)
 
 <!-- fix_marker ends -->

@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'I feel really happy to see myself at meningitis exhibition' ([3 hours ago](https://www.bbc.com/news/articles/c77mzy8xp48o?at_medium=RSS&at_campaign=rss))
-- Dog walkers urged to help protect rare birds ([9 hours ago](https://www.bbc.com/news/articles/ce84zpg1v0xo?at_medium=RSS&at_campaign=rss))
-- 'I'm 67 and they've finally given me a cap' ([13 hours ago](https://www.bbc.com/sport/rugby-union/articles/c5yjdv6e03vo?at_medium=RSS&at_campaign=rss))
-- Potholes 'costing blood bike charity thousands' ([17 hours ago](https://www.bbc.com/news/articles/clyj4vdger2o?at_medium=RSS&at_campaign=rss))
-- New bays to prevent e-scooters being 'dumped' ([17 hours ago](https://www.bbc.com/news/articles/c895eep1wdlo?at_medium=RSS&at_campaign=rss))
-- Girl wants to raise awareness of plasma donations ([17 hours ago](https://www.bbc.com/news/articles/c62l8x1rlz6o?at_medium=RSS&at_campaign=rss))
+- 'I feel really happy to see myself at meningitis exhibition' ([5 hours ago](https://www.bbc.com/news/articles/c77mzy8xp48o?at_medium=RSS&at_campaign=rss))
+- Dog walkers urged to help protect rare birds ([12 hours ago](https://www.bbc.com/news/articles/ce84zpg1v0xo?at_medium=RSS&at_campaign=rss))
+- 'I'm 67 and they've finally given me a cap' ([16 hours ago](https://www.bbc.com/sport/rugby-union/articles/c5yjdv6e03vo?at_medium=RSS&at_campaign=rss))
+- Potholes 'costing blood bike charity thousands' ([19 hours ago](https://www.bbc.com/news/articles/clyj4vdger2o?at_medium=RSS&at_campaign=rss))
+- New bays to prevent e-scooters being 'dumped' ([20 hours ago](https://www.bbc.com/news/articles/c895eep1wdlo?at_medium=RSS&at_campaign=rss))
+- Girl wants to raise awareness of plasma donations ([20 hours ago](https://www.bbc.com/news/articles/c62l8x1rlz6o?at_medium=RSS&at_campaign=rss))
 - Musicians affected by cancer uniting to perform ([1 days ago](https://www.bbc.com/news/articles/cyv18ey9l8qo?at_medium=RSS&at_campaign=rss))
 - Strike reduces A&E unit to minor injuries service ([1 days ago](https://www.bbc.com/news/articles/cj37zm08dr4o?at_medium=RSS&at_campaign=rss))
 - Boy to 'scale The Shard' for autism awareness ([1 days ago](https://www.bbc.com/news/articles/ckgeyk817mro?at_medium=RSS&at_campaign=rss))

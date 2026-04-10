@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -169,21 +169,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 9th April</title>
-<link>https://www.fixmystreet.com/report/9264926</link>
-<description>Cw pothole &amp;#10;Centre line&amp;#10;550x300x45mm approx &amp;#10;Temp closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9264926&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9264926</guid>
-<pubDate>Thu, 09 Apr 2026 13:39:37 +0100</pubDate>
-<georss:point>51.8572533 -2.1986463</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 9th April</title>
 <link>https://www.fixmystreet.com/report/9264927</link>
 <description>Cw pothole &amp;#10;Centre line &amp;#10;700x500x50mm&amp;#10;Rd closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9264927&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9264927</guid>
 <pubDate>Thu, 09 Apr 2026 13:39:37 +0100</pubDate>
 <georss:point>51.8571269 -2.19863310000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 9th April</title>
+<link>https://www.fixmystreet.com/report/9264926</link>
+<description>Cw pothole &amp;#10;Centre line&amp;#10;550x300x45mm approx &amp;#10;Temp closure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9264926&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9264926</guid>
+<pubDate>Thu, 09 Apr 2026 13:39:37 +0100</pubDate>
+<georss:point>51.8572533 -2.1986463</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Covers, Gratings &amp; Frames problem, 9th April</title>

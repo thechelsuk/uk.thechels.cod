@@ -26,8 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [9265430](https://www.fixmystreet.com/report/9265430)
 - Outside 64, 9th April :- [9264942](https://www.fixmystreet.com/report/9264942)
 - Road is ruined, 9th April :- [9264848](https://www.fixmystreet.com/report/9264848)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [9264926](https://www.fixmystreet.com/report/9264926)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [9264927](https://www.fixmystreet.com/report/9264927)
+- TMC - Defects -CW6 Potholes  problem, 9th April :- [9264926](https://www.fixmystreet.com/report/9264926)
 - TMC - Defects - Covers, Gratings & Frames problem, 9th April :- [9264925](https://www.fixmystreet.com/report/9264925)
 
 <!-- fix_marker ends -->

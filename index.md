@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 10 April 2026
 
-- The average temperature today is 11.26˚C,
-- With highs of 12.06˚C and lows of 10.75˚C,
-- It may feel like 9.75˚C with few clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 50%
+- The average temperature today is 10.42˚C,
+- With highs of 11.08˚C and lows of 9.6˚C,
+- It may feel like 9.06˚C with clear sky
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 59%
 - The sun will rise at 05:23 and set at 18:55
 
 <!-- weather_marker ends -->

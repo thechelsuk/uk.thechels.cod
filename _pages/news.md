@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Dementia cycling session 'brought back memories' ([58 minutes ago](https://www.bbc.com/news/articles/cdrmnymp5p1o?at_medium=RSS&at_campaign=rss))
-- Man in his 70s dies after punch from teen 'who threw branch' ([4 hours ago](https://www.bbc.com/news/articles/c15d7e5zdneo?at_medium=RSS&at_campaign=rss))
-- Bishop steps down while finances are inspected ([8 hours ago](https://www.bbc.com/news/articles/c9957d3lzz5o?at_medium=RSS&at_campaign=rss))
-- Old hospital site could become college ([12 hours ago](https://www.bbc.com/news/articles/c4gd46j2j6ro?at_medium=RSS&at_campaign=rss))
-- Farmers welcome tougher laws on livestock attacks ([15 hours ago](https://www.bbc.com/news/articles/cgqkldplpqpo?at_medium=RSS&at_campaign=rss))
+- Dementia cycling session 'brought back memories' ([2 hours ago](https://www.bbc.com/news/articles/cdrmnymp5p1o?at_medium=RSS&at_campaign=rss))
+- Man in his 70s dies after punch from teen 'who threw branch' ([6 hours ago](https://www.bbc.com/news/articles/c15d7e5zdneo?at_medium=RSS&at_campaign=rss))
+- Bishop steps down while finances are inspected ([10 hours ago](https://www.bbc.com/news/articles/c9957d3lzz5o?at_medium=RSS&at_campaign=rss))
+- Old hospital site could become college ([14 hours ago](https://www.bbc.com/news/articles/c4gd46j2j6ro?at_medium=RSS&at_campaign=rss))
+- Farmers welcome tougher laws on livestock attacks ([17 hours ago](https://www.bbc.com/news/articles/cgqkldplpqpo?at_medium=RSS&at_campaign=rss))
 - Club to get new pitch after matches rained off ([1 days ago](https://www.bbc.com/news/articles/cy915xe230vo?at_medium=RSS&at_campaign=rss))
 - Man, 33, stalked teenager and asked her for kisses ([1 days ago](https://www.bbc.com/news/articles/c5ywdggkxjwo?at_medium=RSS&at_campaign=rss))
 - Cyclist in her 30s dies weeks after collision with bus ([1 days ago](https://www.bbc.com/news/articles/c2d8ze17j7lo?at_medium=RSS&at_campaign=rss))

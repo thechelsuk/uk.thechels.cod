@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rotting knee rails - falling to bits, 10th April :- [9273780](https://www.fixmystreet.com/report/9273780)
+- Wooden knee rails rotting and falling to bits, 10th April :- [9273767](https://www.fixmystreet.com/report/9273767)
 - Drain cover is rattling again!!! The drain is also full and needs to emptied, 10th April :- [9273191](https://www.fixmystreet.com/report/9273191)
 - Part of this massive pothole os 50cm wide and 7cm deep., 10th April :- [9272808](https://www.fixmystreet.com/report/9272808)
 - Double yellows worn off, 10th April :- [9272702](https://www.fixmystreet.com/report/9272702)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 10th April :- [9272128](https://www.fixmystreet.com/report/9272128)
 - Trip hazard on pavement at one house up from Esso petrol station, 10th April :- [9271753](https://www.fixmystreet.com/report/9271753)
 - Fly tipping, 10th April :- [9271715](https://www.fixmystreet.com/report/9271715)
-- TMC - Defects -CW6 Potholes  problem, 10th April :- [9272114](https://www.fixmystreet.com/report/9272114)
-- TMC - Defects - Footways Slabs problem, 10th April :- [9272113](https://www.fixmystreet.com/report/9272113)
 
 <!-- fix_marker ends -->

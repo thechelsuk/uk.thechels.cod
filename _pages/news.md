@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Club to get new pitch after matches rained off ([6 hours ago](https://www.bbc.com/news/articles/cy915xe230vo?at_medium=RSS&at_campaign=rss))
-- Man, 33, stalked teenager and asked her for kisses ([12 hours ago](https://www.bbc.com/news/articles/c5ywdggkxjwo?at_medium=RSS&at_campaign=rss))
-- Cyclist in her 30s dies weeks after collision with bus ([13 hours ago](https://www.bbc.com/news/articles/c2d8ze17j7lo?at_medium=RSS&at_campaign=rss))
-- Football fan given three-year ban for racist abuse ([15 hours ago](https://www.bbc.com/news/articles/czrekldr36vo?at_medium=RSS&at_campaign=rss))
-- Elderly man in critical condition after assault ([15 hours ago](https://www.bbc.com/news/articles/cjd8re9gl11o?at_medium=RSS&at_campaign=rss))
-- Officers redeployed to tackle anti-social behaviour ([16 hours ago](https://www.bbc.com/news/articles/cm2klpjp5k4o?at_medium=RSS&at_campaign=rss))
+- Club to get new pitch after matches rained off ([9 hours ago](https://www.bbc.com/news/articles/cy915xe230vo?at_medium=RSS&at_campaign=rss))
+- Man, 33, stalked teenager and asked her for kisses ([15 hours ago](https://www.bbc.com/news/articles/c5ywdggkxjwo?at_medium=RSS&at_campaign=rss))
+- Cyclist in her 30s dies weeks after collision with bus ([16 hours ago](https://www.bbc.com/news/articles/c2d8ze17j7lo?at_medium=RSS&at_campaign=rss))
+- Football fan given three-year ban for racist abuse ([17 hours ago](https://www.bbc.com/news/articles/czrekldr36vo?at_medium=RSS&at_campaign=rss))
+- Elderly man in critical condition after assault ([17 hours ago](https://www.bbc.com/news/articles/cjd8re9gl11o?at_medium=RSS&at_campaign=rss))
+- Officers redeployed to tackle anti-social behaviour ([18 hours ago](https://www.bbc.com/news/articles/cm2klpjp5k4o?at_medium=RSS&at_campaign=rss))
 - 'I feel really happy to see myself at meningitis exhibition' ([1 days ago](https://www.bbc.com/news/articles/c77mzy8xp48o?at_medium=RSS&at_campaign=rss))
 - Dog walkers urged to help protect rare birds ([1 days ago](https://www.bbc.com/news/articles/ce84zpg1v0xo?at_medium=RSS&at_campaign=rss))
 - 'I'm 67 and they've finally given me a cap' ([1 days ago](https://www.bbc.com/sport/rugby-union/articles/c5yjdv6e03vo?at_medium=RSS&at_campaign=rss))

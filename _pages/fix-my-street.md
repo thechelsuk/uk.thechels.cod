@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside 50 Millham Road, 10th April :- [9268659](https://www.fixmystreet.com/report/9268659)
+- From the race course roundabout to Tommy Taylor’s Road , Swindon Lane is full of deep wide potholes that are a hazard for cyclists and motorists. When is the council going to fix them? It is scandalous that Cheltenham roads are in such poor condition and nothing is being done., 10th April :- [9268458](https://www.fixmystreet.com/report/9268458)
 - Pothole, 9th April :- [9267245](https://www.fixmystreet.com/report/9267245)
 - Clothing Flytipped at the back of Churchdown Club in TBC car park, 9th April :- [9267348](https://www.fixmystreet.com/report/9267348)
 - Several craters around mini roundabout, superficial repair when a bucket of tarmac was pressed into one of the craters.This has deteriorated once again.Please can warning signs, raised iron work signs, Danger uneven surface etc signs be placed here., 9th April :- [9267004](https://www.fixmystreet.com/report/9267004)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Outside 64, 9th April :- [9264942](https://www.fixmystreet.com/report/9264942)
 - Road is ruined, 9th April :- [9264848](https://www.fixmystreet.com/report/9264848)
 - TMC - Defects -CW6 Potholes  problem, 9th April :- [9264927](https://www.fixmystreet.com/report/9264927)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [9264926](https://www.fixmystreet.com/report/9264926)
-- TMC - Defects - Covers, Gratings & Frames problem, 9th April :- [9264925](https://www.fixmystreet.com/report/9264925)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 10th April :- [9269442](https://www.fixmystreet.com/report/9269442)
+- Tree is damaged problem, 10th April :- [9269415](https://www.fixmystreet.com/report/9269415)
+- TMC - Defects -CW6 Potholes  problem, 10th April :- [9269168](https://www.fixmystreet.com/report/9269168)
+- TMC - Defects -CW6 Potholes  problem, 10th April :- [9269169](https://www.fixmystreet.com/report/9269169)
+- TMC - Defects - Covers, Gratings & Frames problem, 10th April :- [9269162](https://www.fixmystreet.com/report/9269162)
+- TMC - Defects - Kerbs and Channels problem, 10th April :- [9269161](https://www.fixmystreet.com/report/9269161)
+- Tree is damaged problem, 10th April :- [9268945](https://www.fixmystreet.com/report/9268945)
+- Street lights not working., 10th April :- [9268822](https://www.fixmystreet.com/report/9268822)
+- TMC - Defects - Covers, Gratings & Frames problem, 10th April :- [9268948](https://www.fixmystreet.com/report/9268948)
+- TMC - Defects -CW6 Potholes  problem, 10th April :- [9268949](https://www.fixmystreet.com/report/9268949)
+- TMC - Defects -CW6 Potholes  problem, 10th April :- [9268947](https://www.fixmystreet.com/report/9268947)
+- TMC - Defects -CW6 Potholes  problem, 10th April :- [9268946](https://www.fixmystreet.com/report/9268946)
 - Outside 50 Millham Road, 10th April :- [9268659](https://www.fixmystreet.com/report/9268659)
 - From the race course roundabout to Tommy Taylor’s Road , Swindon Lane is full of deep wide potholes that are a hazard for cyclists and motorists. When is the council going to fix them? It is scandalous that Cheltenham roads are in such poor condition and nothing is being done., 10th April :- [9268458](https://www.fixmystreet.com/report/9268458)
 - Pothole, 9th April :- [9267245](https://www.fixmystreet.com/report/9267245)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - Pot hole at the entrance of Leckhampton hill car park, 9th April :- [9266762](https://www.fixmystreet.com/report/9266762)
 - Pot hole at the entrance of Leckhampton hill car park, 9th April :- [9266761](https://www.fixmystreet.com/report/9266761)
 - Massive potholes everywhere, 9th April :- [9266755](https://www.fixmystreet.com/report/9266755)
-- Flytipping, 9th April :- [9266498](https://www.fixmystreet.com/report/9266498)
-- Tree is damaged problem, 9th April :- [9265943](https://www.fixmystreet.com/report/9265943)
-- There appears to be subsidence in the road - it has been getting worse, 9th April :- [9265526](https://www.fixmystreet.com/report/9265526)
-- TMC - Defects - Kerbs and Channels problem, 9th April :- [9265447](https://www.fixmystreet.com/report/9265447)
-- TMC - Defects - Covers, Gratings & Frames problem, 9th April :- [9265440](https://www.fixmystreet.com/report/9265440)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [9265439](https://www.fixmystreet.com/report/9265439)
-- TMC - Defects -other CW6 problem, 9th April :- [9265438](https://www.fixmystreet.com/report/9265438)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [9265437](https://www.fixmystreet.com/report/9265437)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [9265430](https://www.fixmystreet.com/report/9265430)
-- Outside 64, 9th April :- [9264942](https://www.fixmystreet.com/report/9264942)
-- Road is ruined, 9th April :- [9264848](https://www.fixmystreet.com/report/9264848)
-- TMC - Defects -CW6 Potholes  problem, 9th April :- [9264927](https://www.fixmystreet.com/report/9264927)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain cover is rattling again!!! The drain is also full and needs to emptied, 10th April :- [9273191](https://www.fixmystreet.com/report/9273191)
 - Part of this massive pothole os 50cm wide and 7cm deep., 10th April :- [9272808](https://www.fixmystreet.com/report/9272808)
 - Double yellows worn off, 10th April :- [9272702](https://www.fixmystreet.com/report/9272702)
 - The potholes in beeches road (opposite no 7) and at junction with little herberts road, 10th April :- [9272557](https://www.fixmystreet.com/report/9272557)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 10th April :- [9271715](https://www.fixmystreet.com/report/9271715)
 - TMC - Defects -CW6 Potholes  problem, 10th April :- [9272114](https://www.fixmystreet.com/report/9272114)
 - TMC - Defects - Footways Slabs problem, 10th April :- [9272113](https://www.fixmystreet.com/report/9272113)
-- TMC - Defects - Footways Slabs problem, 10th April :- [9272110](https://www.fixmystreet.com/report/9272110)
 
 <!-- fix_marker ends -->

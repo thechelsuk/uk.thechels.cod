@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped item, 11th April :- [9275756](https://www.fixmystreet.com/report/9275756)
+- Fly tipping, 11th April :- [9275399](https://www.fixmystreet.com/report/9275399)
+- 18" pothole in merestones drive, 11th April :- [9275311](https://www.fixmystreet.com/report/9275311)
 - Flytipped items, 11th April :- [9274799](https://www.fixmystreet.com/report/9274799)
 - Flytipped items, 11th April :- [9274753](https://www.fixmystreet.com/report/9274753)
 - Flytipped items, 11th April :- [9274722](https://www.fixmystreet.com/report/9274722)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - This car has been parked in Glamorgan Road since before the Festival races meeting, ie; more than a month unattended., 10th April :- [9272337](https://www.fixmystreet.com/report/9272337)
 - A pothole in road problem, 10th April :- [9272318](https://www.fixmystreet.com/report/9272318)
 - Huge pothole. Too big to drive around. I drove into yesterday and it was awful, 10th April :- [9272092](https://www.fixmystreet.com/report/9272092)
-- Potholes at entrance to Witcombe Farm, 10th April :- [9272017](https://www.fixmystreet.com/report/9272017)
-- TMC - Defects -CW6 Potholes  problem, 10th April :- [9272149](https://www.fixmystreet.com/report/9272149)
-- Street sign on side of house has been painted over (or possibly removed), 10th April :- [9271814](https://www.fixmystreet.com/report/9271814)
 
 <!-- fix_marker ends -->

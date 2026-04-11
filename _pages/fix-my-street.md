@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped items, 11th April :- [9274799](https://www.fixmystreet.com/report/9274799)
+- Flytipped items, 11th April :- [9274753](https://www.fixmystreet.com/report/9274753)
+- Flytipped items, 11th April :- [9274722](https://www.fixmystreet.com/report/9274722)
+- Flytipped items, 11th April :- [9274687](https://www.fixmystreet.com/report/9274687)
+- Flytipped items, 11th April :- [9274668](https://www.fixmystreet.com/report/9274668)
 - American flags hanging from lamp posts, 11th April :- [9274121](https://www.fixmystreet.com/report/9274121)
 - Rotting knee rails - falling to bits, 10th April :- [9273780](https://www.fixmystreet.com/report/9273780)
 - Wooden knee rails rotting and falling to bits, 10th April :- [9273767](https://www.fixmystreet.com/report/9273767)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Potholes at entrance to Witcombe Farm, 10th April :- [9272017](https://www.fixmystreet.com/report/9272017)
 - TMC - Defects -CW6 Potholes  problem, 10th April :- [9272149](https://www.fixmystreet.com/report/9272149)
 - Street sign on side of house has been painted over (or possibly removed), 10th April :- [9271814](https://www.fixmystreet.com/report/9271814)
-- TMC - Defects -CW6 Potholes  problem, 10th April :- [9272133](https://www.fixmystreet.com/report/9272133)
-- TMC - Defects -CW6 Potholes  problem, 10th April :- [9272132](https://www.fixmystreet.com/report/9272132)
-- Bollard in the grass verge, not sure where it's from, 10th April :- [9271776](https://www.fixmystreet.com/report/9271776)
-- TMC - Defects - Other FW6  Surface problem, 10th April :- [9272128](https://www.fixmystreet.com/report/9272128)
-- Trip hazard on pavement at one house up from Esso petrol station, 10th April :- [9271753](https://www.fixmystreet.com/report/9271753)
 
 <!-- fix_marker ends -->

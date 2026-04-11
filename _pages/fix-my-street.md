@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tripping Hazard, 11th April :- [9276307](https://www.fixmystreet.com/report/9276307)
 - Trees have not been pruned since 2008 -now massive, 11th April :- [9276071](https://www.fixmystreet.com/report/9276071)
 - Collapsed fencing onto highway, 11th April :- [9276017](https://www.fixmystreet.com/report/9276017)
 - Flytipped item, 11th April :- [9275950](https://www.fixmystreet.com/report/9275950)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Double yellows worn off, 10th April :- [9272702](https://www.fixmystreet.com/report/9272702)
 - The potholes in beeches road (opposite no 7) and at junction with little herberts road, 10th April :- [9272557](https://www.fixmystreet.com/report/9272557)
 - Rubbish and overgrown brambles etc and now vermin, 10th April :- [9272519](https://www.fixmystreet.com/report/9272519)
-- Tree is damaged problem, 10th April :- [9272494](https://www.fixmystreet.com/report/9272494)
 
 <!-- fix_marker ends -->

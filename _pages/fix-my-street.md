@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- American flags hanging from lamp posts, 11th April :- [9274121](https://www.fixmystreet.com/report/9274121)
 - Rotting knee rails - falling to bits, 10th April :- [9273780](https://www.fixmystreet.com/report/9273780)
 - Wooden knee rails rotting and falling to bits, 10th April :- [9273767](https://www.fixmystreet.com/report/9273767)
 - Drain cover is rattling again!!! The drain is also full and needs to emptied, 10th April :- [9273191](https://www.fixmystreet.com/report/9273191)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Bollard in the grass verge, not sure where it's from, 10th April :- [9271776](https://www.fixmystreet.com/report/9271776)
 - TMC - Defects - Other FW6  Surface problem, 10th April :- [9272128](https://www.fixmystreet.com/report/9272128)
 - Trip hazard on pavement at one house up from Esso petrol station, 10th April :- [9271753](https://www.fixmystreet.com/report/9271753)
-- Fly tipping, 10th April :- [9271715](https://www.fixmystreet.com/report/9271715)
 
 <!-- fix_marker ends -->

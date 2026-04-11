@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large, deep pothole on Aggs Hill causing vehicle damage – hazardous near bend, 11th April :- [9276904](https://www.fixmystreet.com/report/9276904)
+- Big sign is broken missing information about the roundabout up ahead., 11th April :- [9276895](https://www.fixmystreet.com/report/9276895)
 - Tripping Hazard, 11th April :- [9276307](https://www.fixmystreet.com/report/9276307)
 - Trees have not been pruned since 2008 -now massive, 11th April :- [9276071](https://www.fixmystreet.com/report/9276071)
 - Collapsed fencing onto highway, 11th April :- [9276017](https://www.fixmystreet.com/report/9276017)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain cover is rattling again!!! The drain is also full and needs to emptied, 10th April :- [9273191](https://www.fixmystreet.com/report/9273191)
 - Part of this massive pothole os 50cm wide and 7cm deep., 10th April :- [9272808](https://www.fixmystreet.com/report/9272808)
 - Double yellows worn off, 10th April :- [9272702](https://www.fixmystreet.com/report/9272702)
-- The potholes in beeches road (opposite no 7) and at junction with little herberts road, 10th April :- [9272557](https://www.fixmystreet.com/report/9272557)
-- Rubbish and overgrown brambles etc and now vermin, 10th April :- [9272519](https://www.fixmystreet.com/report/9272519)
 
 <!-- fix_marker ends -->

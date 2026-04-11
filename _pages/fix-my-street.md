@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees have not been pruned since 2008 -now massive, 11th April :- [9276071](https://www.fixmystreet.com/report/9276071)
+- Collapsed fencing onto highway, 11th April :- [9276017](https://www.fixmystreet.com/report/9276017)
+- Flytipped item, 11th April :- [9275950](https://www.fixmystreet.com/report/9275950)
 - Flytipped item, 11th April :- [9275756](https://www.fixmystreet.com/report/9275756)
 - Fly tipping, 11th April :- [9275399](https://www.fixmystreet.com/report/9275399)
 - 18" pothole in merestones drive, 11th April :- [9275311](https://www.fixmystreet.com/report/9275311)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The potholes in beeches road (opposite no 7) and at junction with little herberts road, 10th April :- [9272557](https://www.fixmystreet.com/report/9272557)
 - Rubbish and overgrown brambles etc and now vermin, 10th April :- [9272519](https://www.fixmystreet.com/report/9272519)
 - Tree is damaged problem, 10th April :- [9272494](https://www.fixmystreet.com/report/9272494)
-- This car has been parked in Glamorgan Road since before the Festival races meeting, ie; more than a month unattended., 10th April :- [9272337](https://www.fixmystreet.com/report/9272337)
-- A pothole in road problem, 10th April :- [9272318](https://www.fixmystreet.com/report/9272318)
-- Huge pothole. Too big to drive around. I drove into yesterday and it was awful, 10th April :- [9272092](https://www.fixmystreet.com/report/9272092)
 
 <!-- fix_marker ends -->

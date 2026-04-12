@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 12 April 2026
 
-- The average temperature today is 7.06˚C,
-- With highs of 7.75˚C and lows of 6.83˚C,
-- It may feel like 5.55˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 78%
+- The average temperature today is 8.16˚C,
+- With highs of 8.16˚C and lows of 8.16˚C,
+- It may feel like 4.28˚C with broken clouds
+- The wind speed is 8m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 80%
 - The sun will rise at 05:18 and set at 18:59
 
 <!-- weather_marker ends -->

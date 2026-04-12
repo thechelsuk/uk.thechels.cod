@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 12th April :- [9278747](https://www.fixmystreet.com/report/9278747)
+- Sign is 90 degrees wrong, 12th April :- [9278314](https://www.fixmystreet.com/report/9278314)
 - Light has been out for almost two months, 12th April :- [9277629](https://www.fixmystreet.com/report/9277629)
 - No signage for right of way, 11th April :- [9277552](https://www.fixmystreet.com/report/9277552)
 - Street lighting still not working, 11th April :- [9277514](https://www.fixmystreet.com/report/9277514)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flytipped items, 11th April :- [9274687](https://www.fixmystreet.com/report/9274687)
 - Flytipped items, 11th April :- [9274668](https://www.fixmystreet.com/report/9274668)
 - American flags hanging from lamp posts, 11th April :- [9274121](https://www.fixmystreet.com/report/9274121)
-- Rotting knee rails - falling to bits, 10th April :- [9273780](https://www.fixmystreet.com/report/9273780)
-- Wooden knee rails rotting and falling to bits, 10th April :- [9273767](https://www.fixmystreet.com/report/9273767)
 
 <!-- fix_marker ends -->

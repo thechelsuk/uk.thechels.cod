@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights not been working for weeks, 12th April :- [9281530](https://www.fixmystreet.com/report/9281530)
 - Pot hole on Climperwell road, 12th April :- [9281424](https://www.fixmystreet.com/report/9281424)
 - Severe damage to pavement on Norwich Drive nr junction with Oxford Way, 12th April :- [9281095](https://www.fixmystreet.com/report/9281095)
 - Outside number 23, 12th April :- [9280966](https://www.fixmystreet.com/report/9280966)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - No signage for right of way, 11th April :- [9277552](https://www.fixmystreet.com/report/9277552)
 - Street lighting still not working, 11th April :- [9277514](https://www.fixmystreet.com/report/9277514)
 - Large, deep pothole on Aggs Hill causing vehicle damage – hazardous near bend, 11th April :- [9276904](https://www.fixmystreet.com/report/9276904)
-- Big sign is broken missing information about the roundabout up ahead., 11th April :- [9276895](https://www.fixmystreet.com/report/9276895)
 
 <!-- fix_marker ends -->

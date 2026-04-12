@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Teens bailed after 73-year-old man died ([10 hours ago](https://www.bbc.com/news/articles/c20qg8n8jy4o?at_medium=RSS&at_campaign=rss))
-- Special Parkrun to honour mum with Parkinson's ([18 hours ago](https://www.bbc.com/news/articles/c2lwvld10k8o?at_medium=RSS&at_campaign=rss))
-- Travel warning as works take place on railway line ([19 hours ago](https://www.bbc.com/news/articles/cvg3kzgy0y9o?at_medium=RSS&at_campaign=rss))
-- In pictures: Longleat at 60 and cricket returns ([19 hours ago](https://www.bbc.com/news/articles/c937dp7wv9vo?at_medium=RSS&at_campaign=rss))
+- Teens bailed after 73-year-old man died ([12 hours ago](https://www.bbc.com/news/articles/c20qg8n8jy4o?at_medium=RSS&at_campaign=rss))
+- Special Parkrun to honour mum with Parkinson's ([21 hours ago](https://www.bbc.com/news/articles/c2lwvld10k8o?at_medium=RSS&at_campaign=rss))
+- Travel warning as works take place on railway line ([21 hours ago](https://www.bbc.com/news/articles/cvg3kzgy0y9o?at_medium=RSS&at_campaign=rss))
+- In pictures: Longleat at 60 and cricket returns ([21 hours ago](https://www.bbc.com/news/articles/c937dp7wv9vo?at_medium=RSS&at_campaign=rss))
 - Dementia cycling session 'brought back memories' ([1 days ago](https://www.bbc.com/news/articles/cdrmnymp5p1o?at_medium=RSS&at_campaign=rss))
 - Man in his 70s dies after punch from teen 'who threw branch' ([1 days ago](https://www.bbc.com/news/articles/c15d7e5zdneo?at_medium=RSS&at_campaign=rss))
 - Bishop steps down while finances are inspected ([1 days ago](https://www.bbc.com/news/articles/c9957d3lzz5o?at_medium=RSS&at_campaign=rss))

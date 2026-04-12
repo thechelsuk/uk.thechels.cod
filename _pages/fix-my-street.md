@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen Tree, 12th April :- [9279175](https://www.fixmystreet.com/report/9279175)
+- Traffic light sensors don't detect cyclists, so right filter never activates, 12th April :- [9279074](https://www.fixmystreet.com/report/9279074)
+- Redundant barrier, 12th April :- [9278312](https://www.fixmystreet.com/report/9278312)
 - Potholes, 12th April :- [9278747](https://www.fixmystreet.com/report/9278747)
 - Sign is 90 degrees wrong, 12th April :- [9278314](https://www.fixmystreet.com/report/9278314)
 - Light has been out for almost two months, 12th April :- [9277629](https://www.fixmystreet.com/report/9277629)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipped items, 11th April :- [9274799](https://www.fixmystreet.com/report/9274799)
 - Flytipped items, 11th April :- [9274753](https://www.fixmystreet.com/report/9274753)
 - Flytipped items, 11th April :- [9274722](https://www.fixmystreet.com/report/9274722)
-- Flytipped items, 11th April :- [9274687](https://www.fixmystreet.com/report/9274687)
-- Flytipped items, 11th April :- [9274668](https://www.fixmystreet.com/report/9274668)
-- American flags hanging from lamp posts, 11th April :- [9274121](https://www.fixmystreet.com/report/9274121)
 
 <!-- fix_marker ends -->

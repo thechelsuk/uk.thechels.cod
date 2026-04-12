@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light has been out for almost two months, 12th April :- [9277629](https://www.fixmystreet.com/report/9277629)
 - No signage for right of way, 11th April :- [9277552](https://www.fixmystreet.com/report/9277552)
 - Street lighting still not working, 11th April :- [9277514](https://www.fixmystreet.com/report/9277514)
 - Large, deep pothole on Aggs Hill causing vehicle damage – hazardous near bend, 11th April :- [9276904](https://www.fixmystreet.com/report/9276904)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - American flags hanging from lamp posts, 11th April :- [9274121](https://www.fixmystreet.com/report/9274121)
 - Rotting knee rails - falling to bits, 10th April :- [9273780](https://www.fixmystreet.com/report/9273780)
 - Wooden knee rails rotting and falling to bits, 10th April :- [9273767](https://www.fixmystreet.com/report/9273767)
-- Drain cover is rattling again!!! The drain is also full and needs to emptied, 10th April :- [9273191](https://www.fixmystreet.com/report/9273191)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in road, 12th April :- [9279831](https://www.fixmystreet.com/report/9279831)
+- Pothole in road, 12th April :- [9279817](https://www.fixmystreet.com/report/9279817)
+- Several street lights not working, 12th April :- [9279765](https://www.fixmystreet.com/report/9279765)
 - Fallen Tree, 12th April :- [9279175](https://www.fixmystreet.com/report/9279175)
 - Traffic light sensors don't detect cyclists, so right filter never activates, 12th April :- [9279074](https://www.fixmystreet.com/report/9279074)
 - Redundant barrier, 12th April :- [9278312](https://www.fixmystreet.com/report/9278312)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipped item, 11th April :- [9275756](https://www.fixmystreet.com/report/9275756)
 - Fly tipping, 11th April :- [9275399](https://www.fixmystreet.com/report/9275399)
 - 18" pothole in merestones drive, 11th April :- [9275311](https://www.fixmystreet.com/report/9275311)
-- Flytipped items, 11th April :- [9274799](https://www.fixmystreet.com/report/9274799)
-- Flytipped items, 11th April :- [9274753](https://www.fixmystreet.com/report/9274753)
-- Flytipped items, 11th April :- [9274722](https://www.fixmystreet.com/report/9274722)
 
 <!-- fix_marker ends -->

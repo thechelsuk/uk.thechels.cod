@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in road on bend, 12th April :- [9279782](https://www.fixmystreet.com/report/9279782)
+- Fly tipping, 12th April :- [9280285](https://www.fixmystreet.com/report/9280285)
 - Pothole in road, 12th April :- [9279831](https://www.fixmystreet.com/report/9279831)
 - Pothole in road, 12th April :- [9279817](https://www.fixmystreet.com/report/9279817)
 - Several street lights not working, 12th April :- [9279765](https://www.fixmystreet.com/report/9279765)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Collapsed fencing onto highway, 11th April :- [9276017](https://www.fixmystreet.com/report/9276017)
 - Flytipped item, 11th April :- [9275950](https://www.fixmystreet.com/report/9275950)
 - Flytipped item, 11th April :- [9275756](https://www.fixmystreet.com/report/9275756)
-- Fly tipping, 11th April :- [9275399](https://www.fixmystreet.com/report/9275399)
-- 18" pothole in merestones drive, 11th April :- [9275311](https://www.fixmystreet.com/report/9275311)
 
 <!-- fix_marker ends -->

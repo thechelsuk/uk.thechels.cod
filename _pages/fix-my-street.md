@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Severe damage to pavement on Norwich Drive nr junction with Oxford Way, 12th April :- [9281095](https://www.fixmystreet.com/report/9281095)
+- Outside number 23, 12th April :- [9280966](https://www.fixmystreet.com/report/9280966)
+- Damaged verge and blocked drainage ditch, 12th April :- [9280602](https://www.fixmystreet.com/report/9280602)
+- Under the Honeybourne bridge, 12th April :- [9280472](https://www.fixmystreet.com/report/9280472)
 - Pothole in road on bend, 12th April :- [9279782](https://www.fixmystreet.com/report/9279782)
 - Fly tipping, 12th April :- [9280285](https://www.fixmystreet.com/report/9280285)
 - Pothole in road, 12th April :- [9279831](https://www.fixmystreet.com/report/9279831)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large, deep pothole on Aggs Hill causing vehicle damage – hazardous near bend, 11th April :- [9276904](https://www.fixmystreet.com/report/9276904)
 - Big sign is broken missing information about the roundabout up ahead., 11th April :- [9276895](https://www.fixmystreet.com/report/9276895)
 - Tripping Hazard, 11th April :- [9276307](https://www.fixmystreet.com/report/9276307)
-- Trees have not been pruned since 2008 -now massive, 11th April :- [9276071](https://www.fixmystreet.com/report/9276071)
-- Collapsed fencing onto highway, 11th April :- [9276017](https://www.fixmystreet.com/report/9276017)
-- Flytipped item, 11th April :- [9275950](https://www.fixmystreet.com/report/9275950)
-- Flytipped item, 11th April :- [9275756](https://www.fixmystreet.com/report/9275756)
 
 <!-- fix_marker ends -->

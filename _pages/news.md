@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- A step back in time at vintage vehicle event ([9 hours ago](https://www.bbc.com/news/articles/cly7x3zn2n0o?at_medium=RSS&at_campaign=rss))
-- Campaigners brand £5m repairs to lido 'unnecessary' ([16 hours ago](https://www.bbc.com/news/articles/cx2ew9d7npno?at_medium=RSS&at_campaign=rss))
-- Grade II listed pub is saved from redevelopment ([18 hours ago](https://www.bbc.com/news/articles/cddq51p0eq9o?at_medium=RSS&at_campaign=rss))
-- 'Doctors strikes' and 'paw prints in space' ([19 hours ago](https://www.bbc.com/news/articles/c0krp1e7lkmo?at_medium=RSS&at_campaign=rss))
+- A step back in time at vintage vehicle event ([11 hours ago](https://www.bbc.com/news/articles/cly7x3zn2n0o?at_medium=RSS&at_campaign=rss))
+- Campaigners brand £5m repairs to lido 'unnecessary' ([18 hours ago](https://www.bbc.com/news/articles/cx2ew9d7npno?at_medium=RSS&at_campaign=rss))
+- Grade II listed pub is saved from redevelopment ([21 hours ago](https://www.bbc.com/news/articles/cddq51p0eq9o?at_medium=RSS&at_campaign=rss))
+- 'Doctors strikes' and 'paw prints in space' ([21 hours ago](https://www.bbc.com/news/articles/c0krp1e7lkmo?at_medium=RSS&at_campaign=rss))
 - Teens bailed after 73-year-old man died ([1 days ago](https://www.bbc.com/news/articles/c20qg8n8jy4o?at_medium=RSS&at_campaign=rss))
 - Special Parkrun to honour mum with Parkinson's ([1 days ago](https://www.bbc.com/news/articles/c2lwvld10k8o?at_medium=RSS&at_campaign=rss))
 - Travel warning as works take place on railway line ([1 days ago](https://www.bbc.com/news/articles/cvg3kzgy0y9o?at_medium=RSS&at_campaign=rss))

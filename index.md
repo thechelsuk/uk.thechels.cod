@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 13 April 2026
 
-- The average temperature today is 9.96˚C,
-- With highs of 9.96˚C and lows of 9.96˚C,
-- It may feel like 9.18˚C with clear sky
-- The wind speed is 1.96m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 76%
+- The average temperature today is 11.76˚C,
+- With highs of 11.76˚C and lows of 11.76˚C,
+- It may feel like 10.58˚C with clear sky
+- The wind speed is 2.46m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 61%
 - The sun will rise at 05:16 and set at 19:00
 
 <!-- weather_marker ends -->

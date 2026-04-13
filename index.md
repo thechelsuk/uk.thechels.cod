@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 12 April 2026
+## On Monday, 13 April 2026
 
-- The average temperature today is 5.13˚C,
-- With highs of 5.13˚C and lows of 5.13˚C,
-- It may feel like 2.95˚C with clear sky
-- The wind speed is 2.62m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 87%
+- The average temperature today is 3.85˚C,
+- With highs of 4.98˚C and lows of 2.69˚C,
+- It may feel like 3.85˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 90%
 - The sun will rise at 05:16 and set at 19:00
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SUBSTANTIAL
 
 - Current threat level: SUBSTANTIAL
-- It has been 768 days since the last change (2024-03-05)
+- It has been 769 days since the last change (2024-03-05)
 - Details: The current national threat level is SUBSTANTIAL. The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
 
 <!-- threat_marker ends -->

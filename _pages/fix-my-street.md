@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Numerous large potholes- very dangerous!, 13th April :- [9288123](https://www.fixmystreet.com/report/9288123)
+- 5 streetlights permanently out., 13th April :- [9287632](https://www.fixmystreet.com/report/9287632)
+- Street lighting not working constantly out and causing serious problems parking at night, 13th April :- [9287967](https://www.fixmystreet.com/report/9287967)
+- Green or amber traffic light is not working problem, 13th April :- [9287852](https://www.fixmystreet.com/report/9287852)
 - Parking bays, double yellows and dropped kerb markings need repainting. There’s a nursery on the road and parents have been parking across driveways, on the pavement blocking them. It’s not safe for pedestrians, and cars could get damaged as the road is narrow and cars parking where they shouldn’t makes it difficult to turn etc, 13th April :- [9287597](https://www.fixmystreet.com/report/9287597)
 - Potholes all along the road, 13th April :- [9287533](https://www.fixmystreet.com/report/9287533)
 - Abandoned bicycle, 13th April :- [9287485](https://www.fixmystreet.com/report/9287485)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 13th April :- [9286133](https://www.fixmystreet.com/report/9286133)
 - A pothole in road problem, 13th April :- [9285867](https://www.fixmystreet.com/report/9285867)
 - TMC - Defects -CW6 Potholes  problem, 13th April :- [9285900](https://www.fixmystreet.com/report/9285900)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285899](https://www.fixmystreet.com/report/9285899)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285897](https://www.fixmystreet.com/report/9285897)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285898](https://www.fixmystreet.com/report/9285898)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285896](https://www.fixmystreet.com/report/9285896)
 
 <!-- fix_marker ends -->

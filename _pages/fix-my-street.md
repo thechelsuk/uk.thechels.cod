@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Quite a number of flags flying non British, 13th April :- [9282070](https://www.fixmystreet.com/report/9282070)
+- No. 10 is back on the board!, 13th April :- [9281987](https://www.fixmystreet.com/report/9281987)
+- TMC - Defects - Other FW6  Surface problem, 13th April :- [9282025](https://www.fixmystreet.com/report/9282025)
 - Street lights not been working for weeks, 12th April :- [9281530](https://www.fixmystreet.com/report/9281530)
 - Pot hole on Climperwell road, 12th April :- [9281424](https://www.fixmystreet.com/report/9281424)
 - Severe damage to pavement on Norwich Drive nr junction with Oxford Way, 12th April :- [9281095](https://www.fixmystreet.com/report/9281095)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Potholes, 12th April :- [9278747](https://www.fixmystreet.com/report/9278747)
 - Sign is 90 degrees wrong, 12th April :- [9278314](https://www.fixmystreet.com/report/9278314)
 - Light has been out for almost two months, 12th April :- [9277629](https://www.fixmystreet.com/report/9277629)
-- No signage for right of way, 11th April :- [9277552](https://www.fixmystreet.com/report/9277552)
-- Street lighting still not working, 11th April :- [9277514](https://www.fixmystreet.com/report/9277514)
-- Large, deep pothole on Aggs Hill causing vehicle damage – hazardous near bend, 11th April :- [9276904](https://www.fixmystreet.com/report/9276904)
 
 <!-- fix_marker ends -->

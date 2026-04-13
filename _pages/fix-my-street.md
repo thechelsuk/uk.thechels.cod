@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Discarded pallet on pavement., 13th April :- [9288469](https://www.fixmystreet.com/report/9288469)
 - Numerous large potholes- very dangerous!, 13th April :- [9288123](https://www.fixmystreet.com/report/9288123)
 - 5 streetlights permanently out., 13th April :- [9287632](https://www.fixmystreet.com/report/9287632)
 - Street lighting not working constantly out and causing serious problems parking at night, 13th April :- [9287967](https://www.fixmystreet.com/report/9287967)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 13th April :- [9286135](https://www.fixmystreet.com/report/9286135)
 - A pothole in road problem, 13th April :- [9286133](https://www.fixmystreet.com/report/9286133)
 - A pothole in road problem, 13th April :- [9285867](https://www.fixmystreet.com/report/9285867)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285900](https://www.fixmystreet.com/report/9285900)
 
 <!-- fix_marker ends -->

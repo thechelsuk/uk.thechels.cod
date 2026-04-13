@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose manhole cover bangs every time someone drives over it- I can hear it from my house on Evesham Rd, 13th April :- [9286909](https://www.fixmystreet.com/report/9286909)
+- 3 m long pothole which is up to 40cm wide, 13th April :- [9286597](https://www.fixmystreet.com/report/9286597)
+- Elongated pothole, 13th April :- [9286552](https://www.fixmystreet.com/report/9286552)
 - Large pot hole in car park, 13th April :- [9286307](https://www.fixmystreet.com/report/9286307)
 - Large section of the gutter giving way, 13th April :- [9286175](https://www.fixmystreet.com/report/9286175)
 - Numerous Large Holes, 13th April :- [9286162](https://www.fixmystreet.com/report/9286162)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 13th April :- [9285894](https://www.fixmystreet.com/report/9285894)
 - TMC - Defects -CW6 Potholes  problem, 13th April :- [9285893](https://www.fixmystreet.com/report/9285893)
 - Tree outside 7 Hartlebury Way that previously caused subsidence is regrowing, 13th April :- [9285809](https://www.fixmystreet.com/report/9285809)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285892](https://www.fixmystreet.com/report/9285892)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285891](https://www.fixmystreet.com/report/9285891)
-- TMC - Defects - Covers, Gratings & Frames problem, 13th April :- [9285890](https://www.fixmystreet.com/report/9285890)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Parking bays, double yellows and dropped kerb markings need repainting. There’s a nursery on the road and parents have been parking across driveways, on the pavement blocking them. It’s not safe for pedestrians, and cars could get damaged as the road is narrow and cars parking where they shouldn’t makes it difficult to turn etc, 13th April :- [9287597](https://www.fixmystreet.com/report/9287597)
+- Potholes all along the road, 13th April :- [9287533](https://www.fixmystreet.com/report/9287533)
+- Abandoned bicycle, 13th April :- [9287485](https://www.fixmystreet.com/report/9287485)
+- Tree fallen, blocking garages, 13th April :- [9287212](https://www.fixmystreet.com/report/9287212)
 - Loose manhole cover bangs every time someone drives over it- I can hear it from my house on Evesham Rd, 13th April :- [9286909](https://www.fixmystreet.com/report/9286909)
 - 3 m long pothole which is up to 40cm wide, 13th April :- [9286597](https://www.fixmystreet.com/report/9286597)
 - Elongated pothole, 13th April :- [9286552](https://www.fixmystreet.com/report/9286552)
@@ -24,10 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 13th April :- [9285899](https://www.fixmystreet.com/report/9285899)
 - TMC - Defects -CW6 Potholes  problem, 13th April :- [9285897](https://www.fixmystreet.com/report/9285897)
 - TMC - Defects -CW6 Potholes  problem, 13th April :- [9285898](https://www.fixmystreet.com/report/9285898)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285895](https://www.fixmystreet.com/report/9285895)
 - TMC - Defects -CW6 Potholes  problem, 13th April :- [9285896](https://www.fixmystreet.com/report/9285896)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285894](https://www.fixmystreet.com/report/9285894)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9285893](https://www.fixmystreet.com/report/9285893)
-- Tree outside 7 Hartlebury Way that previously caused subsidence is regrowing, 13th April :- [9285809](https://www.fixmystreet.com/report/9285809)
 
 <!-- fix_marker ends -->

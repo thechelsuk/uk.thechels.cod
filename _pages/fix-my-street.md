@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Its right in the middle of the road, its outside 18 Kipling Road, 14th April :- [9289065](https://www.fixmystreet.com/report/9289065)
+- 4 street lamps are not working on the Cox’s Meadow path, 14th April :- [9289013](https://www.fixmystreet.com/report/9289013)
+- Broken fence encroaching alleyway has been like it for over a year. Dangerous condition., 14th April :- [9288803](https://www.fixmystreet.com/report/9288803)
 - Discarded pallet on pavement., 13th April :- [9288469](https://www.fixmystreet.com/report/9288469)
 - Numerous large potholes- very dangerous!, 13th April :- [9288123](https://www.fixmystreet.com/report/9288123)
 - 5 streetlights permanently out., 13th April :- [9287632](https://www.fixmystreet.com/report/9287632)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Numerous Large Holes, 13th April :- [9286162](https://www.fixmystreet.com/report/9286162)
 - TMC - Defects - Other problem, 13th April :- [9286137](https://www.fixmystreet.com/report/9286137)
 - The no cycling sign at the London Rd end of the footpath is missing, 13th April :- [9285951](https://www.fixmystreet.com/report/9285951)
-- TMC - Defects -CW6 Potholes  problem, 13th April :- [9286135](https://www.fixmystreet.com/report/9286135)
-- A pothole in road problem, 13th April :- [9286133](https://www.fixmystreet.com/report/9286133)
-- A pothole in road problem, 13th April :- [9285867](https://www.fixmystreet.com/report/9285867)
 
 <!-- fix_marker ends -->

@@ -11,12 +11,12 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 14 April 2026
 
-- The average temperature today is 12.28˚C,
-- With highs of 12.28˚C and lows of 12.28˚C,
-- It may feel like 11.94˚C with overcast clouds
-- The wind speed is 4.8m/s and visibility is 8825m
-- The pressure is 1014hPa and humidity is 91%
-- The sun will rise at 05:14 and set at 19:02
+- The average temperature today is 12.06˚C,
+- With highs of 12.2˚C and lows of 11.51˚C,
+- It may feel like 11.72˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 1119m
+- The pressure is 1013hPa and humidity is 92%
+- The sun will rise at 05:11 and set at 19:04
 
 <!-- weather_marker ends -->
 

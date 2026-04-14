@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree obstruction road visibility, 14th April :- [9294938](https://www.fixmystreet.com/report/9294938)
+- Pot hole returning towards left of mini roundabout, 14th April :- [9294758](https://www.fixmystreet.com/report/9294758)
+- Horizontal pothole to the left of road, 14th April :- [9294753](https://www.fixmystreet.com/report/9294753)
+- Pothole in middle of road, 14th April :- [9294746](https://www.fixmystreet.com/report/9294746)
+- The pictures show two pot separate pot holes fairly close to each other both have gravel coming out of them and are very similar in size, 14th April :- [9294573](https://www.fixmystreet.com/report/9294573)
 - Domestic/builders waste, 14th April :- [9294130](https://www.fixmystreet.com/report/9294130)
 - Several deep potholes have been present for a while, 14th April :- [9293980](https://www.fixmystreet.com/report/9293980)
 - Unstable paving slab and trip hazard., 14th April :- [9293429](https://www.fixmystreet.com/report/9293429)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Huge tree blocking light and killing garden grass, 14th April :- [9292624](https://www.fixmystreet.com/report/9292624)
 - TMC - Defects -CW6 Potholes  problem, 14th April :- [9292673](https://www.fixmystreet.com/report/9292673)
 - TMC - Defects -CW10 Potholes problem, 14th April :- [9292464](https://www.fixmystreet.com/report/9292464)
-- Request for a recycling / litter bin by B bus stop, 14th April :- [9292373](https://www.fixmystreet.com/report/9292373)
-- TMC - Defects -CW10 Potholes problem, 14th April :- [9292463](https://www.fixmystreet.com/report/9292463)
-- TMC - Defects -CW10 Potholes problem, 14th April :- [9292455](https://www.fixmystreet.com/report/9292455)
-- TMC - Defects - Other problem, 14th April :- [9292452](https://www.fixmystreet.com/report/9292452)
-- TMC - Defects - Covers, Gratings & Frames problem, 14th April :- [9292448](https://www.fixmystreet.com/report/9292448)
 
 <!-- fix_marker ends -->

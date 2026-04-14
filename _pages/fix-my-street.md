@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Domestic/builders waste, 14th April :- [9294130](https://www.fixmystreet.com/report/9294130)
+- Several deep potholes have been present for a while, 14th April :- [9293980](https://www.fixmystreet.com/report/9293980)
 - Unstable paving slab and trip hazard., 14th April :- [9293429](https://www.fixmystreet.com/report/9293429)
 - Huge pothole, 14th April :- [9293275](https://www.fixmystreet.com/report/9293275)
 - TMC - Defects - Vegetation problem, 14th April :- [9293418](https://www.fixmystreet.com/report/9293418)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 14th April :- [9292455](https://www.fixmystreet.com/report/9292455)
 - TMC - Defects - Other problem, 14th April :- [9292452](https://www.fixmystreet.com/report/9292452)
 - TMC - Defects - Covers, Gratings & Frames problem, 14th April :- [9292448](https://www.fixmystreet.com/report/9292448)
-- TMC - Defects -CW10 Potholes problem, 14th April :- [9292198](https://www.fixmystreet.com/report/9292198)
-- TMC - Defects - Kerbs and Channels problem, 14th April :- [9292191](https://www.fixmystreet.com/report/9292191)
 
 <!-- fix_marker ends -->

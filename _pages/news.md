@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Road closed after crash involving two vehicles ([3 hours ago](https://www.bbc.com/news/articles/cy013j0keygo?at_medium=RSS&at_campaign=rss))
-- Concerns new homes may pose security risk to King ([11 hours ago](https://www.bbc.com/news/articles/cz0egpr371mo?at_medium=RSS&at_campaign=rss))
-- Crematorium gets £5m upgrade and goes green ([17 hours ago](https://www.bbc.com/news/articles/c75kvp59wq6o?at_medium=RSS&at_campaign=rss))
-- Rising fuel costs puts strain on transport charity ([17 hours ago](https://www.bbc.com/news/articles/cwyxljjvnj2o?at_medium=RSS&at_campaign=rss))
+- Road closed after crash involving two vehicles ([5 hours ago](https://www.bbc.com/news/articles/cy013j0keygo?at_medium=RSS&at_campaign=rss))
+- Concerns new homes may pose security risk to King ([13 hours ago](https://www.bbc.com/news/articles/cz0egpr371mo?at_medium=RSS&at_campaign=rss))
+- Crematorium gets £5m upgrade and goes green ([19 hours ago](https://www.bbc.com/news/articles/c75kvp59wq6o?at_medium=RSS&at_campaign=rss))
+- Rising fuel costs puts strain on transport charity ([19 hours ago](https://www.bbc.com/news/articles/cwyxljjvnj2o?at_medium=RSS&at_campaign=rss))
 - A step back in time at vintage vehicle event ([1 days ago](https://www.bbc.com/news/articles/cly7x3zn2n0o?at_medium=RSS&at_campaign=rss))
 - Campaigners brand £5m repairs to lido 'unnecessary' ([1 days ago](https://www.bbc.com/news/articles/cx2ew9d7npno?at_medium=RSS&at_campaign=rss))
 - Grade II listed pub is saved from redevelopment ([1 days ago](https://www.bbc.com/news/articles/cddq51p0eq9o?at_medium=RSS&at_campaign=rss))

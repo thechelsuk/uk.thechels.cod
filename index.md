@@ -11,10 +11,10 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 15 April 2026
 
-- The average temperature today is 12.2˚C,
-- With highs of 12.75˚C and lows of 11.58˚C,
-- It may feel like 11.9˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 1460m
+- The average temperature today is 12.66˚C,
+- With highs of 12.66˚C and lows of 12.66˚C,
+- It may feel like 12.41˚C with overcast clouds
+- The wind speed is 5.28m/s and visibility is 10000m
 - The pressure is 1013hPa and humidity is 93%
 - The sun will rise at 05:11 and set at 19:04
 

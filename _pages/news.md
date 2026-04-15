@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man arrested over 1993 murder released on bail ([2 hours ago](https://www.bbc.com/news/articles/cx2338e80xzo?at_medium=RSS&at_campaign=rss))
-- Teenager released by police after death of man ([2 hours ago](https://www.bbc.com/news/articles/c9d44ze90z8o?at_medium=RSS&at_campaign=rss))
-- Brewery cancels book talk over public concerns ([3 hours ago](https://www.bbc.com/news/articles/cy41wxwjyw7o?at_medium=RSS&at_campaign=rss))
-- Archaeology work begins ahead of £13.8m project ([8 hours ago](https://www.bbc.com/news/articles/cp9vkgx4nnxo?at_medium=RSS&at_campaign=rss))
-- Plans to demolish city tower block submitted again ([13 hours ago](https://www.bbc.com/news/articles/cpd55n26wnxo?at_medium=RSS&at_campaign=rss))
-- Your guide to Cheltenham Borough Council elections ([13 hours ago](https://www.bbc.com/news/articles/c2k3477gl8no?at_medium=RSS&at_campaign=rss))
+- Man arrested over 1993 murder released on bail ([4 hours ago](https://www.bbc.com/news/articles/cx2338e80xzo?at_medium=RSS&at_campaign=rss))
+- Teenager released by police after death of man ([4 hours ago](https://www.bbc.com/news/articles/c9d44ze90z8o?at_medium=RSS&at_campaign=rss))
+- Brewery cancels book talk over public concerns ([5 hours ago](https://www.bbc.com/news/articles/cy41wxwjyw7o?at_medium=RSS&at_campaign=rss))
+- Archaeology work begins ahead of £13.8m project ([9 hours ago](https://www.bbc.com/news/articles/cp9vkgx4nnxo?at_medium=RSS&at_campaign=rss))
+- Plans to demolish city tower block submitted again ([15 hours ago](https://www.bbc.com/news/articles/cpd55n26wnxo?at_medium=RSS&at_campaign=rss))
+- Your guide to Cheltenham Borough Council elections ([15 hours ago](https://www.bbc.com/news/articles/c2k3477gl8no?at_medium=RSS&at_campaign=rss))
 - Colleges get slice of £175m skills funding ([1 days ago](https://www.bbc.com/news/articles/cg400vzx0elo?at_medium=RSS&at_campaign=rss))
 - Culture venues get £8m cash boost to secure future ([1 days ago](https://www.bbc.com/news/articles/czxrrkdqxzeo?at_medium=RSS&at_campaign=rss))
 - Man forced into body bag during six-hour torture ([1 days ago](https://www.bbc.com/news/articles/cgmee8g4dywo?at_medium=RSS&at_campaign=rss))

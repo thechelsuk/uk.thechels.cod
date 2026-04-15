@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Parking, 15th April :- [9300664](https://www.fixmystreet.com/report/9300664)
 - Parking, 15th April :- [9300433](https://www.fixmystreet.com/report/9300433)
 - Severely blocked drain near Queen’s Retreat, 15th April :- [9300097](https://www.fixmystreet.com/report/9300097)
 - Blocked drain on Queen’s Retreat and St George’s road, 15th April :- [9300072](https://www.fixmystreet.com/report/9300072)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [9298525](https://www.fixmystreet.com/report/9298525)
 - TMC - Defects -CW10 Potholes problem, 15th April :- [9298524](https://www.fixmystreet.com/report/9298524)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [9298519](https://www.fixmystreet.com/report/9298519)
-- TMC - Defects - Other FW6  Surface problem, 15th April :- [9298510](https://www.fixmystreet.com/report/9298510)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Incomplete yellow lines, 15th April :- [9299928](https://www.fixmystreet.com/report/9299928)
+- Along side the new cycle path between Newlands and the Skate park, non of the street lights are working and several are out on the opposite side of the road. Dark and dangerous, 15th April :- [9299613](https://www.fixmystreet.com/report/9299613)
+- Drains need clearing to enable falsh flodding to drain any quicker, 15th April :- [9299584](https://www.fixmystreet.com/report/9299584)
+- Button doesn't work for cyclists. Also doesn't seem to activate automatically., 15th April :- [9299532](https://www.fixmystreet.com/report/9299532)
+- Long deep hole - danger to motorcycle and cars., 15th April :- [9298412](https://www.fixmystreet.com/report/9298412)
 - Post or sign leaning slightly (less than 20 degrees) problem, 15th April :- [9299176](https://www.fixmystreet.com/report/9299176)
 - Tree is damaged problem, 15th April :- [9299175](https://www.fixmystreet.com/report/9299175)
 - All Stoplines on junction require refreshing, 15th April :- [9298875](https://www.fixmystreet.com/report/9298875)
@@ -20,14 +25,9 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 15th April :- [9298524](https://www.fixmystreet.com/report/9298524)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [9298519](https://www.fixmystreet.com/report/9298519)
 - TMC - Defects - Other FW6  Surface problem, 15th April :- [9298510](https://www.fixmystreet.com/report/9298510)
+- TMC - Defects -CW6 Potholes  problem, 15th April :- [9298512](https://www.fixmystreet.com/report/9298512)
 - TMC - Defects - Other FW6  Surface problem, 15th April :- [9298511](https://www.fixmystreet.com/report/9298511)
 - TMC - Defects - Other FW6  Surface problem, 15th April :- [9298509](https://www.fixmystreet.com/report/9298509)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [9298512](https://www.fixmystreet.com/report/9298512)
 - Anyone need a new sofa., 15th April :- [9298213](https://www.fixmystreet.com/report/9298213)
-- TMC - Defects - Signs & Street Furniture problem, 15th April :- [9298294](https://www.fixmystreet.com/report/9298294)
-- TMC - Defects - Kerbs and Channels problem, 15th April :- [9298281](https://www.fixmystreet.com/report/9298281)
-- A pothole in road problem, 15th April :- [9298273](https://www.fixmystreet.com/report/9298273)
-- TMC - Defects - Other FW6  Surface problem, 15th April :- [9298276](https://www.fixmystreet.com/report/9298276)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [9298275](https://www.fixmystreet.com/report/9298275)
 
 <!-- fix_marker ends -->

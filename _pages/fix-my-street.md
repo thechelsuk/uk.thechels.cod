@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Parking, 15th April :- [9300433](https://www.fixmystreet.com/report/9300433)
+- Severely blocked drain near Queen’s Retreat, 15th April :- [9300097](https://www.fixmystreet.com/report/9300097)
+- Blocked drain on Queen’s Retreat and St George’s road, 15th April :- [9300072](https://www.fixmystreet.com/report/9300072)
+- Drain needs clearing, 15th April :- [9300059](https://www.fixmystreet.com/report/9300059)
 - Incomplete yellow lines, 15th April :- [9299928](https://www.fixmystreet.com/report/9299928)
 - Along side the new cycle path between Newlands and the Skate park, non of the street lights are working and several are out on the opposite side of the road. Dark and dangerous, 15th April :- [9299613](https://www.fixmystreet.com/report/9299613)
 - Drains need clearing to enable falsh flodding to drain any quicker, 15th April :- [9299584](https://www.fixmystreet.com/report/9299584)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 15th April :- [9298524](https://www.fixmystreet.com/report/9298524)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [9298519](https://www.fixmystreet.com/report/9298519)
 - TMC - Defects - Other FW6  Surface problem, 15th April :- [9298510](https://www.fixmystreet.com/report/9298510)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [9298512](https://www.fixmystreet.com/report/9298512)
-- TMC - Defects - Other FW6  Surface problem, 15th April :- [9298511](https://www.fixmystreet.com/report/9298511)
-- TMC - Defects - Other FW6  Surface problem, 15th April :- [9298509](https://www.fixmystreet.com/report/9298509)
-- Anyone need a new sofa., 15th April :- [9298213](https://www.fixmystreet.com/report/9298213)
 
 <!-- fix_marker ends -->

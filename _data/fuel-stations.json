@@ -42,18 +42,18 @@
     "fuel_prices": [
       {
         "fuel_type": "E10",
-        "price": 154.7,
-        "price_last_updated": "2026-04-07T10:10:10.000Z",
-        "price_change_effective_timestamp": "2026-04-07T10:10:10.000Z"
+        "price": 155.7,
+        "price_last_updated": "2026-04-15T13:22:08.000Z",
+        "price_change_effective_timestamp": "2026-04-15T13:22:08.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 185.7,
-        "price_last_updated": "2026-04-07T10:10:10.000Z",
-        "price_change_effective_timestamp": "2026-04-07T10:10:10.000Z"
+        "price": 189.7,
+        "price_last_updated": "2026-04-14T15:43:09.000Z",
+        "price_change_effective_timestamp": "2026-04-14T15:43:09.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "039e649ade312ae4280ea0e6910b084cc9d877613696351a4783c6220ce3c4d3": {
     "trading_name": "Ledbury Road Services",
@@ -69,19 +69,13 @@
         "price_change_effective_timestamp": "2026-04-11T12:38:39.000Z"
       },
       {
-        "fuel_type": "E10",
-        "price": 156,
-        "price_last_updated": "2026-04-09T07:39:33.000Z",
-        "price_change_effective_timestamp": "2026-04-09T07:39:33.000Z"
-      },
-      {
         "fuel_type": "B7_STANDARD",
         "price": 190,
         "price_last_updated": "2026-04-11T12:38:00.000Z",
         "price_change_effective_timestamp": "2026-04-11T12:38:00.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "1742785e69f231a70f2eb1085277abeaad87763c4300fa99aa201f103b29dc95": {
     "trading_name": "Churcham Garage",
@@ -97,7 +91,7 @@
         "price_change_effective_timestamp": "2026-04-11T21:34:51.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "92fc4e05957da8a95fe6e814851a078a4ebc2596d94edacfaafda2c52ba724bb": {
     "trading_name": "MFG BOUNCERS LANE",
@@ -113,7 +107,7 @@
         "price_change_effective_timestamp": "2026-04-10T21:57:50.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "1c785dae6c70801885c7725f9be71db3876002c64ec59b15d23d751d366919bf": {
     "trading_name": "Chaxhill Service Station",
@@ -185,7 +179,7 @@
         "price_change_effective_timestamp": "2026-04-14T01:38:23.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "0da8a3bdb9325593a2b8882a3d38747237cdf267ecb523d5a0075401b9b40f59": {
     "trading_name": "ASCONA PARKLANDS SERVICE STATION",
@@ -195,19 +189,13 @@
     "address": "A40 NORTHERN BYPASS, GL2 9DJ",
     "fuel_prices": [
       {
-        "fuel_type": "E10",
-        "price": 157.9,
-        "price_last_updated": "2026-04-09T07:11:56.000Z",
-        "price_change_effective_timestamp": "2026-04-09T07:11:56.000Z"
-      },
-      {
-        "fuel_type": "B7_STANDARD",
-        "price": 191.9,
-        "price_last_updated": "2026-04-09T07:11:56.000Z",
-        "price_change_effective_timestamp": "2026-04-09T07:11:56.000Z"
+        "fuel_type": "B7_PREMIUM",
+        "price": 211.9,
+        "price_last_updated": "2026-04-15T14:15:25.000Z",
+        "price_change_effective_timestamp": "2026-04-15T14:09:57.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "b4b0bd7d6d396507fea6da635ebde0f49233bc3a966b8228ba3b3705e14e2218": {
     "trading_name": "MFG CENTURION",
@@ -223,7 +211,7 @@
         "price_change_effective_timestamp": "2026-04-10T22:49:30.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "69f41814e1ea169f872bf2cb6306f64f526780941c4dc8c9e2fffeea99c3c0a0": {
     "trading_name": "MFG SPARROWS WHARF",
@@ -283,19 +271,13 @@
     "address": "TEWKSBURY ROAD, GL2 9PG",
     "fuel_prices": [
       {
-        "fuel_type": "E10",
-        "price": 157.9,
-        "price_last_updated": "2026-04-09T07:12:19.000Z",
-        "price_change_effective_timestamp": "2026-04-09T07:12:19.000Z"
-      },
-      {
-        "fuel_type": "B7_STANDARD",
-        "price": 191.9,
-        "price_last_updated": "2026-04-09T07:12:19.000Z",
-        "price_change_effective_timestamp": "2026-04-09T07:12:19.000Z"
+        "fuel_type": "B7_PREMIUM",
+        "price": 211.9,
+        "price_last_updated": "2026-04-15T14:14:04.000Z",
+        "price_change_effective_timestamp": "2026-04-15T14:14:04.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "65777e266e0ca31405777eda7ca73f5f2942fe77c61b0b66b21cb3bb58659aed": {
     "trading_name": "CIRENCESTER EXTRA - PETROL FILLING STATION",
@@ -323,7 +305,7 @@
         "price_change_effective_timestamp": "2026-04-10T14:05:50.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "09c633aea50a867b83e5da5d1b9e785809ee2c4e35aa6881d741678c9b6beeb8": {
     "trading_name": "SUNNY LODGE",
@@ -333,31 +315,19 @@
     "address": "285 WORCESTER ROAD, WR14 1AB",
     "fuel_prices": [
       {
-        "fuel_type": "E5",
-        "price": 178.9,
-        "price_last_updated": "2026-04-08T09:41:18.135Z",
-        "price_change_effective_timestamp": "2026-04-08T10:37:19.000Z"
-      },
-      {
-        "fuel_type": "E10",
-        "price": 157.9,
-        "price_last_updated": "2026-04-08T09:41:18.135Z",
-        "price_change_effective_timestamp": "2026-04-08T10:37:19.000Z"
-      },
-      {
         "fuel_type": "B7_STANDARD",
-        "price": 191.9,
-        "price_last_updated": "2026-04-08T09:41:18.135Z",
-        "price_change_effective_timestamp": "2026-04-08T10:37:19.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-04-14T09:32:44.441Z",
+        "price_change_effective_timestamp": "2026-04-14T10:25:45.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
-        "price": 212.9,
-        "price_last_updated": "2026-04-08T09:41:18.135Z",
-        "price_change_effective_timestamp": "2026-04-08T10:37:19.000Z"
+        "price": 214.9,
+        "price_last_updated": "2026-04-14T09:32:44.441Z",
+        "price_change_effective_timestamp": "2026-04-14T10:25:45.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "0125e961cf3734fa7e1e909bd08c6e7d0ec9f21093415f35fffafdde632d14ea": {
     "trading_name": "h j taylor",
@@ -399,15 +369,9 @@
         "price": 156.9,
         "price_last_updated": "2026-04-10T22:48:10.000Z",
         "price_change_effective_timestamp": "2026-04-10T22:48:10.000Z"
-      },
-      {
-        "fuel_type": "B7_STANDARD",
-        "price": 191.9,
-        "price_last_updated": "2026-04-09T22:49:15.000Z",
-        "price_change_effective_timestamp": "2026-04-09T22:49:15.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "f5f7f5a45d55fc2b9dd0036ec8a5c09a9cc8fb99aabf03531d3ebd7404f31666": {
     "trading_name": "QUEDGELEY",
@@ -536,9 +500,9 @@
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 188.9,
-        "price_last_updated": "2026-04-10T21:40:07.000Z",
-        "price_change_effective_timestamp": "2026-04-10T21:40:07.000Z"
+        "price": 190.9,
+        "price_last_updated": "2026-04-15T11:25:24.000Z",
+        "price_change_effective_timestamp": "2026-04-15T11:25:24.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
@@ -547,7 +511,7 @@
         "price_change_effective_timestamp": "2026-04-10T12:07:00.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "6c542b188365710bb7ca8da12d113d11d5f811dcc8915390f9cf1487e671310a": {
     "trading_name": "Troopers Lodge Filling Station",
@@ -592,9 +556,9 @@
     "fuel_prices": [
       {
         "fuel_type": "E10",
-        "price": 154.7,
-        "price_last_updated": "2026-04-10T12:17:01.000Z",
-        "price_change_effective_timestamp": "2026-04-10T12:17:01.000Z"
+        "price": 156.7,
+        "price_last_updated": "2026-04-15T13:01:21.000Z",
+        "price_change_effective_timestamp": "2026-04-15T13:01:21.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
@@ -603,7 +567,7 @@
         "price_change_effective_timestamp": "2026-04-13T13:59:13.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "5917b1e173d820169f826a19a7c10f0e8f5133f68b88b45d9077a45f90ae0fec": {
     "trading_name": "MFG ARLE",
@@ -613,19 +577,13 @@
     "address": "PRINCESS ELIZABETH WAY, GL51 7PA",
     "fuel_prices": [
       {
-        "fuel_type": "E10",
-        "price": 159.9,
-        "price_last_updated": "2026-04-09T22:46:02.000Z",
-        "price_change_effective_timestamp": "2026-04-09T22:46:02.000Z"
-      },
-      {
         "fuel_type": "B7_STANDARD",
-        "price": 191.9,
-        "price_last_updated": "2026-04-09T22:46:02.000Z",
-        "price_change_effective_timestamp": "2026-04-09T22:46:02.000Z"
+        "price": 192.9,
+        "price_last_updated": "2026-04-14T22:49:48.000Z",
+        "price_change_effective_timestamp": "2026-04-14T22:49:48.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "950b0d3c22d7624bdf8daf66ae58c6ef214900043a8e5d5edaf0fd0e6741fe06": {
     "trading_name": "EVESHAM ESSO EXPRESS",
@@ -675,7 +633,7 @@
         "price_change_effective_timestamp": "2026-04-12T06:29:53.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "b5c5c03f3a1cc71bc2061bd69865779e240577f66454cc79a99f5a340944d32e": {
     "trading_name": "MFG MORRISONS UP HATHERLEY",
@@ -691,7 +649,7 @@
         "price_change_effective_timestamp": "2026-04-13T22:40:03.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "b87449c706fc1d66b0e9801c9ba3ae19ee520265b9f6e7b5b739c6c474cb04c1": {
     "trading_name": "Huntley Services",
@@ -735,7 +693,7 @@
         "price_change_effective_timestamp": "2026-04-10T22:08:05.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "b2971458b775e9fdd9f79b60b68818374a02e812d478ce2c484d1d9fbfe596fa": {
     "trading_name": "MFG DUDBRIDGE",
@@ -745,19 +703,13 @@
     "address": "DUDBRIDGE ROAD, GL5 3HF",
     "fuel_prices": [
       {
-        "fuel_type": "E10",
-        "price": 159.9,
-        "price_last_updated": "2026-04-09T22:51:01.000Z",
-        "price_change_effective_timestamp": "2026-04-09T22:51:01.000Z"
-      },
-      {
         "fuel_type": "B7_STANDARD",
         "price": 193.9,
         "price_last_updated": "2026-04-13T22:47:47.000Z",
         "price_change_effective_timestamp": "2026-04-13T22:47:47.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "383dc5f36695eadf7ee479a21b8e9946f06db95741d4b3fba11db5e11a58796c": {
     "trading_name": "GLOUCESTER BROCKWORTH EXTRA - PETROL FILLING STATION",
@@ -796,24 +748,24 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 178.9,
-        "price_last_updated": "2026-04-09T13:25:45.000Z",
-        "price_change_effective_timestamp": "2026-04-09T13:25:45.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-04-14T08:47:07.000Z",
+        "price_change_effective_timestamp": "2026-04-14T08:47:07.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 158.9,
-        "price_last_updated": "2026-04-09T13:25:45.000Z",
-        "price_change_effective_timestamp": "2026-04-09T13:25:45.000Z"
+        "price": 157.9,
+        "price_last_updated": "2026-04-14T08:47:07.000Z",
+        "price_change_effective_timestamp": "2026-04-14T08:47:07.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 190.9,
-        "price_last_updated": "2026-04-09T13:25:45.000Z",
-        "price_change_effective_timestamp": "2026-04-09T13:25:45.000Z"
+        "price": 189.9,
+        "price_last_updated": "2026-04-14T08:47:07.000Z",
+        "price_change_effective_timestamp": "2026-04-14T08:47:07.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "f5aea110aef682dabc3a5ff51cb2acb81c24de4a36d51be26d1db0637bdb6d9e": {
     "trading_name": "MFG NEW QUARRY",
@@ -829,7 +781,7 @@
         "price_change_effective_timestamp": "2026-04-13T22:00:15.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "2f2883a55ce364cc8f0ab76b9d93465ee6a21a0e91208e26882b61ebe51dde45": {
     "trading_name": "SAINSBURYS BARNWOOD",
@@ -845,7 +797,7 @@
         "price_change_effective_timestamp": "2026-04-13T21:54:27.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "35c16c28117bbffb9a8a60fb853200fb30c44b0d472a2b10c174cec871667a14": {
     "trading_name": "STROUD SUPERSTORE - PETROL FILLING STATION",
@@ -883,7 +835,7 @@
         "price_change_effective_timestamp": "2026-04-11T07:15:26.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "f650990316fb384afcbc3d25b69d7b6fd668ae8b83494856f1008246a76ba846": {
     "trading_name": "SHELL LITTLE WAITROSE OLDBURY",
@@ -894,12 +846,12 @@
     "fuel_prices": [
       {
         "fuel_type": "B7_STANDARD",
-        "price": 194.9,
-        "price_last_updated": "2026-04-11T12:20:02.000Z",
-        "price_change_effective_timestamp": "2026-04-10T13:20:00.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-04-15T12:20:02.000Z",
+        "price_change_effective_timestamp": "2026-04-15T12:02:00.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "8347cd22c40ae0a3b92a6c08a06da5c6ee6f278bc03322d30361113ef1e8189c": {
     "trading_name": "MFG MORRISONS TEWKESBURY",
@@ -915,7 +867,7 @@
         "price_change_effective_timestamp": "2026-04-10T21:06:13.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "74c707ce839d4ca629ffe89e8e95a23eaff05a44930db66b2da427619ab0ccb5": {
     "trading_name": "MFG HUCCLECOTE",
@@ -931,7 +883,7 @@
         "price_change_effective_timestamp": "2026-04-10T22:04:37.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "c41005d76f1309d6e789b087df1eee05db42ca06a70385b31103f9cf6b408fab": {
     "trading_name": "BP THREESPRINGS SERVICE STATION",
@@ -964,24 +916,24 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 179.9,
-        "price_last_updated": "2026-04-07T12:51:03.000Z",
-        "price_change_effective_timestamp": "2026-04-07T12:51:03.000Z"
+        "price": 178.9,
+        "price_last_updated": "2026-04-14T12:32:58.000Z",
+        "price_change_effective_timestamp": "2026-04-14T12:32:58.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 159.9,
-        "price_last_updated": "2026-04-07T12:51:01.000Z",
-        "price_change_effective_timestamp": "2026-04-07T12:51:01.000Z"
+        "price": 158.9,
+        "price_last_updated": "2026-04-14T12:38:26.000Z",
+        "price_change_effective_timestamp": "2026-04-14T12:38:26.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 189.9,
-        "price_last_updated": "2026-04-07T12:10:16.000Z",
-        "price_change_effective_timestamp": "2026-04-07T12:10:16.000Z"
+        "price": 187.9,
+        "price_last_updated": "2026-04-14T10:32:06.000Z",
+        "price_change_effective_timestamp": "2026-04-14T10:32:06.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "45cd2dbd76943c817bfd6120068c22d7845d8e0bccca224e1dd6ec1e324db45a": {
     "trading_name": "Wild Goose Garage",
@@ -1013,6 +965,12 @@
     "address": "Mill  Garage, GL11 5DH",
     "fuel_prices": [
       {
+        "fuel_type": "E5",
+        "price": 180.9,
+        "price_last_updated": "2026-04-15T11:10:03.000Z",
+        "price_change_effective_timestamp": "2026-04-15T11:10:03.000Z"
+      },
+      {
         "fuel_type": "E10",
         "price": 157.9,
         "price_last_updated": "2026-04-10T06:03:46.000Z",
@@ -1023,9 +981,15 @@
         "price": 189.9,
         "price_last_updated": "2026-04-10T06:03:46.000Z",
         "price_change_effective_timestamp": "2026-04-10T06:03:46.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 212.9,
+        "price_last_updated": "2026-04-15T11:10:03.000Z",
+        "price_change_effective_timestamp": "2026-04-15T11:10:03.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "b9ee84dd75824c9904b59dafca9aea89b00b55179e29a1aae531419fa2d4ac22": {
     "trading_name": "FROMEBRIDGE SERVICE STATION",
@@ -1113,31 +1077,13 @@
     "address": "LONDON ROAD, GL5 2AX",
     "fuel_prices": [
       {
-        "fuel_type": "E5",
-        "price": 177.9,
-        "price_last_updated": "2026-04-06T09:16:05.000Z",
-        "price_change_effective_timestamp": "2026-04-06T09:16:05.000Z"
-      },
-      {
-        "fuel_type": "E10",
-        "price": 158.9,
-        "price_last_updated": "2026-04-06T09:16:05.000Z",
-        "price_change_effective_timestamp": "2026-04-06T09:16:05.000Z"
-      },
-      {
-        "fuel_type": "B7_STANDARD",
-        "price": 190.9,
-        "price_last_updated": "2026-04-06T09:16:05.000Z",
-        "price_change_effective_timestamp": "2026-04-06T09:16:05.000Z"
-      },
-      {
         "fuel_type": "B7_PREMIUM",
-        "price": 208.9,
-        "price_last_updated": "2026-04-06T09:16:05.000Z",
-        "price_change_effective_timestamp": "2026-04-06T09:16:05.000Z"
+        "price": 209.9,
+        "price_last_updated": "2026-04-15T14:41:05.000Z",
+        "price_change_effective_timestamp": "2026-04-15T14:41:05.000Z"
       }
     ],
-    "prices_updated": "2026-04-09"
+    "prices_updated": "2026-04-15"
   },
   "fa18399f16552e392b525aba70b058c2257baae19d1e17f268f2c937259450d0": {
     "trading_name": "Holbrook Garage",
@@ -1181,7 +1127,7 @@
         "price_change_effective_timestamp": "2026-04-13T17:03:56.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "8ee294b4f69334222dbcf640809742b5cd0e621ba6f0308d1cb7a9200c65ea09": {
     "trading_name": "ASDA TUFFLEY EXPRESS PETROL",
@@ -1321,7 +1267,7 @@
         "price_change_effective_timestamp": "2026-04-13T21:22:21.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "0366b0f72ad5e8c0a9ab6f20d15e4882ebe49cfb9063cb8d1bc221a55f9060af": {
     "trading_name": "PJ NICHOLLS LTD LEDBURY",
@@ -1381,7 +1327,7 @@
         "price_change_effective_timestamp": "2026-04-13T17:00:38.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "e755b35f086237593c51da66ccb72fc9b6f7c41546451a6f825628703d5f0453": {
     "trading_name": "BARNWOOD SF CONNECT",
@@ -1403,7 +1349,7 @@
         "price_change_effective_timestamp": "2026-04-11T09:30:11.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "3cedb43da4503daa0002b96ab2bda53a29adce11d21ad775d2d5a0afd5d14829": {
     "trading_name": "RONTEC PIRTON CORNER",
@@ -1414,24 +1360,24 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 174.9,
-        "price_last_updated": "2026-04-06T09:12:57.000Z",
-        "price_change_effective_timestamp": "2026-04-06T09:12:57.000Z"
+        "price": 176.9,
+        "price_last_updated": "2026-04-14T16:26:46.000Z",
+        "price_change_effective_timestamp": "2026-04-14T16:26:46.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 155.9,
-        "price_last_updated": "2026-04-06T09:12:57.000Z",
-        "price_change_effective_timestamp": "2026-04-06T09:12:57.000Z"
+        "price": 157.9,
+        "price_last_updated": "2026-04-14T16:26:46.000Z",
+        "price_change_effective_timestamp": "2026-04-14T16:26:46.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 190.9,
-        "price_last_updated": "2026-04-06T09:12:57.000Z",
-        "price_change_effective_timestamp": "2026-04-06T09:12:57.000Z"
+        "price": 192.9,
+        "price_last_updated": "2026-04-14T16:26:46.000Z",
+        "price_change_effective_timestamp": "2026-04-14T16:26:46.000Z"
       }
     ],
-    "prices_updated": "2026-04-09"
+    "prices_updated": "2026-04-15"
   },
   "7c46209e813819329b23f5942e7c10943567342fb573b64a227292eb08567f40": {
     "trading_name": "ASDA CHELTENHAM",
@@ -1464,24 +1410,18 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 181.9,
-        "price_last_updated": "2026-04-07T08:03:46.000Z",
-        "price_change_effective_timestamp": "2026-04-07T08:03:46.000Z"
-      },
-      {
-        "fuel_type": "E10",
-        "price": 159.9,
-        "price_last_updated": "2026-04-07T08:03:46.000Z",
-        "price_change_effective_timestamp": "2026-04-07T08:03:46.000Z"
+        "price": 179.9,
+        "price_last_updated": "2026-04-14T14:13:18.000Z",
+        "price_change_effective_timestamp": "2026-04-14T14:13:18.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 192.9,
-        "price_last_updated": "2026-04-07T08:03:46.000Z",
-        "price_change_effective_timestamp": "2026-04-07T08:03:46.000Z"
+        "price": 189.9,
+        "price_last_updated": "2026-04-14T14:13:18.000Z",
+        "price_change_effective_timestamp": "2026-04-14T14:13:18.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "f9457c2cc801807f14b301545a644bf119c53ec5a9d4d409ef2347f00b1e5e72": {
     "trading_name": "ASHCHURCH SF CONNECT",
@@ -1503,7 +1443,7 @@
         "price_change_effective_timestamp": "2026-04-11T09:30:11.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "2de8833d3cd0d18c98f6ea451fe912a3e6954b8ba59366b5044b7039a4bb4ec3": {
     "trading_name": "Burford Road Filling station",
@@ -1513,19 +1453,13 @@
     "address": "BURFORD ROAD FILLING STATION, BURFORD ROAD, CIRENCESTER, GL7 5DS",
     "fuel_prices": [
       {
-        "fuel_type": "E5",
-        "price": 176.9,
-        "price_last_updated": "2026-04-09T13:51:47.000Z",
-        "price_change_effective_timestamp": "2026-04-09T13:51:47.000Z"
-      },
-      {
-        "fuel_type": "E10",
-        "price": 159.9,
-        "price_last_updated": "2026-04-09T13:51:47.000Z",
-        "price_change_effective_timestamp": "2026-04-09T13:51:47.000Z"
+        "fuel_type": "B7_STANDARD",
+        "price": 192.9,
+        "price_last_updated": "2026-04-15T08:28:59.000Z",
+        "price_change_effective_timestamp": "2026-04-15T08:28:59.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "3897365a27999584616c6ed7455aec28897564b10c4dc8ac47bdde3916af6fb5": {
     "trading_name": "ASDA SIXWAYS EXPRESS PETROL",
@@ -1557,13 +1491,25 @@
     "address": "TEWKESBURY ROAD, GL51 9SG",
     "fuel_prices": [
       {
+        "fuel_type": "E5",
+        "price": 176.9,
+        "price_last_updated": "2026-04-14T11:57:58.000Z",
+        "price_change_effective_timestamp": "2026-04-14T11:57:58.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 156.9,
+        "price_last_updated": "2026-04-14T11:57:51.000Z",
+        "price_change_effective_timestamp": "2026-04-14T11:57:51.000Z"
+      },
+      {
         "fuel_type": "B7_STANDARD",
-        "price": 192.9,
-        "price_last_updated": "2026-04-11T16:35:14.000Z",
-        "price_change_effective_timestamp": "2026-04-11T16:35:14.000Z"
+        "price": 188.9,
+        "price_last_updated": "2026-04-14T11:57:49.000Z",
+        "price_change_effective_timestamp": "2026-04-14T11:57:49.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "9aed21695a19dfa7866d72715d49521ed86ea27662cccbdefc504c47074fd852": {
     "trading_name": "PRESTBURY ROAD SF CONNECT",
@@ -1573,19 +1519,25 @@
     "address": "80-86 PRESTBURY ROAD, GL52 2DJ",
     "fuel_prices": [
       {
+        "fuel_type": "E10",
+        "price": 158.9,
+        "price_last_updated": "2026-04-14T11:45:07.000Z",
+        "price_change_effective_timestamp": "2026-04-14T11:45:07.000Z"
+      },
+      {
         "fuel_type": "B7_STANDARD",
-        "price": 191.9,
-        "price_last_updated": "2026-04-12T13:15:08.000Z",
-        "price_change_effective_timestamp": "2026-04-12T13:15:08.000Z"
+        "price": 192.9,
+        "price_last_updated": "2026-04-14T11:45:07.000Z",
+        "price_change_effective_timestamp": "2026-04-14T11:45:07.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
-        "price": 212.9,
-        "price_last_updated": "2026-04-12T13:15:08.000Z",
-        "price_change_effective_timestamp": "2026-04-12T13:15:08.000Z"
+        "price": 213.9,
+        "price_last_updated": "2026-04-14T11:45:07.000Z",
+        "price_change_effective_timestamp": "2026-04-14T11:45:07.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "5694ecb8f7263cdf72476037a3694d6dfc2b9bd29fa0a40b32c73b6f20ed6ebf": {
     "trading_name": "ASDA KINGSWOOD EXPRESS PETROL",
@@ -1617,25 +1569,19 @@
     "address": "BARRINGTON FILLING STATION, LITTLE BARRINGTON, BURFORD, OX18 4TN",
     "fuel_prices": [
       {
-        "fuel_type": "E5",
-        "price": 160.9,
-        "price_last_updated": "2026-04-07T12:11:25.000Z",
-        "price_change_effective_timestamp": "2026-04-07T12:11:25.000Z"
-      },
-      {
         "fuel_type": "E10",
-        "price": 157.9,
-        "price_last_updated": "2026-04-07T12:11:45.000Z",
-        "price_change_effective_timestamp": "2026-04-07T12:11:45.000Z"
+        "price": 155.9,
+        "price_last_updated": "2026-04-14T11:17:31.000Z",
+        "price_change_effective_timestamp": "2026-04-14T11:17:31.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 192.9,
-        "price_last_updated": "2026-04-07T12:12:10.000Z",
-        "price_change_effective_timestamp": "2026-04-07T12:12:10.000Z"
+        "price": 188.9,
+        "price_last_updated": "2026-04-14T11:16:29.000Z",
+        "price_change_effective_timestamp": "2026-04-14T11:16:29.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "e906ce2ebe3f05235895c3a2b0de473915a29e7a07582cc4215f214c22965e2d": {
     "trading_name": "STATION ROAD SF CONNECT",
@@ -1657,7 +1603,7 @@
         "price_change_effective_timestamp": "2026-04-11T10:30:09.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "6c0734f77d7899ad8ad6edbc9fd4ef27c8b7c86f07efb13c73b856639f2ec870": {
     "trading_name": "ASDA MARSH EXPRESS PETROL",
@@ -1668,18 +1614,18 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 175.9,
-        "price_last_updated": "2026-04-07T22:03:17.000Z",
-        "price_change_effective_timestamp": "2026-04-07T22:03:17.000Z"
+        "price": 174.9,
+        "price_last_updated": "2026-04-14T15:11:30.000Z",
+        "price_change_effective_timestamp": "2026-04-14T15:11:30.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 156.9,
-        "price_last_updated": "2026-04-07T22:03:17.000Z",
-        "price_change_effective_timestamp": "2026-04-07T22:03:17.000Z"
+        "price": 155.9,
+        "price_last_updated": "2026-04-14T15:11:30.000Z",
+        "price_change_effective_timestamp": "2026-04-14T15:11:30.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "71c1ddae9b9e47476fe083843f0516f603504921fad97cc9480c4ddb8eafe9e2": {
     "trading_name": "Daniels Petroleum Ltd",
@@ -1689,31 +1635,13 @@
     "address": "EVOLVING VISIONS, 220-224, WELLS ROAD, MALVERN, WR14 4HD",
     "fuel_prices": [
       {
-        "fuel_type": "E5",
-        "price": 168.9,
-        "price_last_updated": "2026-04-08T10:13:34.000Z",
-        "price_change_effective_timestamp": "2026-04-08T10:13:34.000Z"
-      },
-      {
         "fuel_type": "E10",
-        "price": 155.9,
-        "price_last_updated": "2026-04-08T10:13:34.000Z",
-        "price_change_effective_timestamp": "2026-04-08T10:13:34.000Z"
-      },
-      {
-        "fuel_type": "B7_STANDARD",
-        "price": 189.9,
-        "price_last_updated": "2026-04-08T10:13:34.000Z",
-        "price_change_effective_timestamp": "2026-04-08T10:13:34.000Z"
-      },
-      {
-        "fuel_type": "B7_PREMIUM",
-        "price": 204.9,
-        "price_last_updated": "2026-04-08T10:13:34.000Z",
-        "price_change_effective_timestamp": "2026-04-08T10:13:34.000Z"
+        "price": 157.9,
+        "price_last_updated": "2026-04-14T16:40:03.000Z",
+        "price_change_effective_timestamp": "2026-04-14T16:40:03.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "cee0dc2b75654ae087fb446b3e139297e20eb967061b3a39ab1f61116d363a5e": {
     "trading_name": "PJ NICHOLLS LTD MALVERN",
@@ -1729,7 +1657,7 @@
         "price_change_effective_timestamp": "2026-04-10T09:43:35.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "6f08efdf79c2f133e6fe3db2067667e413af3667b132d5138708b958006b51c0": {
     "trading_name": "ASDA STRENSHAM EXPRESS PETROL",
@@ -1740,18 +1668,18 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 203.9,
-        "price_last_updated": "2026-04-10T10:45:54.000Z",
-        "price_change_effective_timestamp": "2026-04-10T10:45:54.000Z"
+        "price": 204.9,
+        "price_last_updated": "2026-04-14T23:03:42.000Z",
+        "price_change_effective_timestamp": "2026-04-14T23:03:42.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 184.9,
-        "price_last_updated": "2026-04-10T10:45:54.000Z",
-        "price_change_effective_timestamp": "2026-04-10T10:45:54.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-04-14T23:03:42.000Z",
+        "price_change_effective_timestamp": "2026-04-14T23:03:42.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "1acd2a89bc59f556d4172510f5cc2ff1a53f466565da13ef0d5965d3735b3c94": {
     "trading_name": "STRENSHAM MWSA CONNECT",
@@ -1762,12 +1690,12 @@
     "fuel_prices": [
       {
         "fuel_type": "B7_STANDARD",
-        "price": 201.9,
-        "price_last_updated": "2026-04-13T10:00:06.000Z",
-        "price_change_effective_timestamp": "2026-04-13T10:00:06.000Z"
+        "price": 203.9,
+        "price_last_updated": "2026-04-14T15:45:08.000Z",
+        "price_change_effective_timestamp": "2026-04-14T15:45:08.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "22569be36c2fe908c59cd2e7f2e092ce7d3a248e5a80bd10c742e6fab283a201": {
     "trading_name": "Clerkenleap Service Station",
@@ -1865,9 +1793,21 @@
         "price": 157.9,
         "price_last_updated": "2026-04-10T22:58:51.000Z",
         "price_change_effective_timestamp": "2026-04-10T22:58:51.000Z"
+      },
+      {
+        "fuel_type": "B7_STANDARD",
+        "price": 191.9,
+        "price_last_updated": "2026-04-14T18:23:11.000Z",
+        "price_change_effective_timestamp": "2026-04-14T18:23:11.000Z"
+      },
+      {
+        "fuel_type": "B7_PREMIUM",
+        "price": 210.9,
+        "price_last_updated": "2026-04-14T18:23:11.000Z",
+        "price_change_effective_timestamp": "2026-04-14T18:23:11.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "b394ac25de51ec2f2bcef3f2e369f98118d21eeaf33624f5e21b0540eba11db7": {
     "trading_name": "Station Garage Stores Ltd",
@@ -1878,18 +1818,18 @@
     "fuel_prices": [
       {
         "fuel_type": "E10",
-        "price": 160.9,
-        "price_last_updated": "2026-04-08T19:24:39.000Z",
-        "price_change_effective_timestamp": "2026-04-08T19:24:39.000Z"
+        "price": 159.9,
+        "price_last_updated": "2026-04-15T07:02:51.000Z",
+        "price_change_effective_timestamp": "2026-04-15T07:02:51.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 195.9,
-        "price_last_updated": "2026-04-08T19:25:01.000Z",
-        "price_change_effective_timestamp": "2026-04-08T19:25:01.000Z"
+        "price": 191.9,
+        "price_last_updated": "2026-04-15T07:03:09.000Z",
+        "price_change_effective_timestamp": "2026-04-15T07:03:09.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "e6bade3cbdf0579e83d8e174895dd03b413bdc5b1abb9fe2eea12c435180281f": {
     "trading_name": "H J TAYLOR",
@@ -1927,25 +1867,13 @@
     "address": "LONDON ROAD, GL7 4DS",
     "fuel_prices": [
       {
-        "fuel_type": "E10",
-        "price": 159.9,
-        "price_last_updated": "2026-04-09T22:00:47.000Z",
-        "price_change_effective_timestamp": "2026-04-07T22:01:09.000Z"
-      },
-      {
         "fuel_type": "B7_STANDARD",
         "price": 193.9,
         "price_last_updated": "2026-04-10T22:01:24.000Z",
         "price_change_effective_timestamp": "2026-04-10T22:01:24.000Z"
-      },
-      {
-        "fuel_type": "B7_PREMIUM",
-        "price": 209.9,
-        "price_last_updated": "2026-04-09T22:00:47.000Z",
-        "price_change_effective_timestamp": "2026-04-07T22:01:09.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "542702a99b4aee87156b2adc5746885480dd710ce07fe748d3dfd3d37c0fed59": {
     "trading_name": "GLOUCESTER EASTERN AVE ESSO EXPRESS",
@@ -1967,7 +1895,7 @@
         "price_change_effective_timestamp": "2026-04-13T15:18:30.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "7e84cc0b2f22d927d55d87f59e6f56bf77a7be1a3e1f7d6c1d55a543fe8e165e": {
     "trading_name": "SAINSBURYS OAKLEY",
@@ -1995,7 +1923,7 @@
         "price_change_effective_timestamp": "2026-04-10T21:57:28.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "205b178e2038d52d0a1608c7a6366d044069e39b2ea8b83c2c7e0ceca31001b0": {
     "trading_name": "SAINSBURYS GLOUCESTER QUAYS",
@@ -2005,25 +1933,13 @@
     "address": "ST. ANN WAY, GL2 5SA",
     "fuel_prices": [
       {
-        "fuel_type": "E5",
-        "price": 162.9,
-        "price_last_updated": "2026-04-06T19:59:40.000Z",
-        "price_change_effective_timestamp": "2026-04-06T20:58:59.000Z"
-      },
-      {
-        "fuel_type": "E10",
-        "price": 150.9,
-        "price_last_updated": "2026-04-06T19:59:40.000Z",
-        "price_change_effective_timestamp": "2026-04-06T20:58:59.000Z"
-      },
-      {
         "fuel_type": "B7_STANDARD",
-        "price": 184.9,
-        "price_last_updated": "2026-04-06T19:59:40.000Z",
-        "price_change_effective_timestamp": "2026-04-06T20:58:59.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-04-14T22:56:28.000Z",
+        "price_change_effective_timestamp": "2026-04-14T22:56:05.000Z"
       }
     ],
-    "prices_updated": "2026-04-09"
+    "prices_updated": "2026-04-15"
   },
   "e56fe320d23f6d44ecdf8916ab4230b79d3cd528dd4f81a3f1873474a3e2cc9d": {
     "trading_name": "MALVERN",
@@ -2033,31 +1949,19 @@
     "address": "214-216 WORCESTER ROAD, WR14 1AG",
     "fuel_prices": [
       {
-        "fuel_type": "E5",
-        "price": 178.9,
-        "price_last_updated": "2026-04-08T09:41:10.545Z",
-        "price_change_effective_timestamp": "2026-04-08T10:36:18.000Z"
-      },
-      {
-        "fuel_type": "E10",
-        "price": 157.9,
-        "price_last_updated": "2026-04-08T09:41:10.545Z",
-        "price_change_effective_timestamp": "2026-04-08T10:36:18.000Z"
-      },
-      {
         "fuel_type": "B7_STANDARD",
-        "price": 191.9,
-        "price_last_updated": "2026-04-08T09:41:10.545Z",
-        "price_change_effective_timestamp": "2026-04-08T10:36:18.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-04-14T09:25:21.071Z",
+        "price_change_effective_timestamp": "2026-04-14T10:25:00.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
-        "price": 212.9,
-        "price_last_updated": "2026-04-08T09:41:10.545Z",
-        "price_change_effective_timestamp": "2026-04-08T10:36:18.000Z"
+        "price": 214.9,
+        "price_last_updated": "2026-04-14T09:25:21.071Z",
+        "price_change_effective_timestamp": "2026-04-14T10:25:00.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "49adbf7dfe4bc194b46fd59fed1088c7a1115341d83cf711b7d05e218e79df55": {
     "trading_name": "MFG TEDDINGTON HANDS",
@@ -2073,7 +1977,7 @@
         "price_change_effective_timestamp": "2026-04-10T23:00:26.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "c9b02bace32fc52120cef110a7c3015ed1b8cd03d17e1463b6f7a27ce1a83cbc": {
     "trading_name": "MFG MATSON",
@@ -2089,7 +1993,7 @@
         "price_change_effective_timestamp": "2026-04-10T22:07:28.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "65dfea44a6e51db8839c0022f4e03862b3a3026656bfb7344d962c29ecf8c1cd": {
     "trading_name": "SHELL LITTLE WAITROSE CHELTENHAM",
@@ -2106,9 +2010,9 @@
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 189.9,
-        "price_last_updated": "2026-04-11T12:20:02.000Z",
-        "price_change_effective_timestamp": "2026-04-11T11:53:00.000Z"
+        "price": 190.9,
+        "price_last_updated": "2026-04-15T11:10:04.000Z",
+        "price_change_effective_timestamp": "2026-04-15T10:54:00.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
@@ -2117,7 +2021,7 @@
         "price_change_effective_timestamp": "2026-04-11T11:53:00.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "e4e68bc39727d2342c8c3f54b5ed738bea3b323c7726d28e41c2b2a35c81700b": {
     "trading_name": "CHELTENHAM SUPERSTORE - PETROL FILLING STATION",
@@ -2155,7 +2059,7 @@
         "price_change_effective_timestamp": "2026-04-11T03:56:34.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "67b3f99f0ac9734bd4e1ed02730ab43a38b450ee1e193ccb538e4984f272d7fe": {
     "trading_name": "Fourways Garage Chalford Ltd",
@@ -2166,24 +2070,24 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 166.9,
-        "price_last_updated": "2026-04-07T13:27:34.000Z",
-        "price_change_effective_timestamp": "2026-04-07T13:27:34.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-04-15T10:45:37.000Z",
+        "price_change_effective_timestamp": "2026-04-15T10:45:37.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 156.9,
-        "price_last_updated": "2026-04-07T13:27:34.000Z",
-        "price_change_effective_timestamp": "2026-04-07T13:27:34.000Z"
+        "price": 158.9,
+        "price_last_updated": "2026-04-15T10:45:37.000Z",
+        "price_change_effective_timestamp": "2026-04-15T10:45:37.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 189.9,
-        "price_last_updated": "2026-04-07T13:27:34.000Z",
-        "price_change_effective_timestamp": "2026-04-07T13:27:34.000Z"
+        "price": 191.9,
+        "price_last_updated": "2026-04-15T10:45:37.000Z",
+        "price_change_effective_timestamp": "2026-04-15T10:45:37.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "b7b1be88fcedd4ed354b7d320a77cf3e637e46d7cfaf4b6759dffabafcaa49cc": {
     "trading_name": "BOURTON",
@@ -2215,19 +2119,13 @@
     "address": "131 CHELTENHAM ROAD, GL2 0JH",
     "fuel_prices": [
       {
-        "fuel_type": "E10",
-        "price": 157.9,
-        "price_last_updated": "2026-04-09T23:06:10.000Z",
-        "price_change_effective_timestamp": "2026-04-09T23:06:10.000Z"
-      },
-      {
         "fuel_type": "B7_STANDARD",
         "price": 192.9,
         "price_last_updated": "2026-04-10T22:42:59.000Z",
         "price_change_effective_timestamp": "2026-04-10T22:42:59.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "056f91975af3b9ea6b2fe01260a746d198ec9632637b90fe117c9cd7804098b6": {
     "trading_name": "SAINSBURYS TEWKESBURY ROAD",
@@ -2287,19 +2185,19 @@
     "address": "STROUD ROAD, GL6 0BE",
     "fuel_prices": [
       {
-        "fuel_type": "E10",
-        "price": 158.9,
-        "price_last_updated": "2026-04-08T16:14:03.000Z",
-        "price_change_effective_timestamp": "2026-04-08T16:05:00.000Z"
+        "fuel_type": "B7_STANDARD",
+        "price": 189.9,
+        "price_last_updated": "2026-04-15T12:44:03.000Z",
+        "price_change_effective_timestamp": "2026-04-15T12:21:00.000Z"
       },
       {
-        "fuel_type": "B7_STANDARD",
-        "price": 194.9,
-        "price_last_updated": "2026-04-08T16:14:03.000Z",
-        "price_change_effective_timestamp": "2026-04-08T16:05:00.000Z"
+        "fuel_type": "B7_PREMIUM",
+        "price": 214.9,
+        "price_last_updated": "2026-04-15T12:44:03.000Z",
+        "price_change_effective_timestamp": "2026-04-15T12:21:00.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "162ada7168f466f6be2d5c61e06f8f2a637dfd4578f81489a522f2322cd7394a": {
     "trading_name": "COOMBE HILL SERVICE STATION",
@@ -2359,7 +2257,7 @@
         "price_change_effective_timestamp": "2026-04-07T21:02:34.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "e3ce60b30082a12a17a0be13ea1d7ddbeafd5a2b56d93d31ce4627491e4588ad": {
     "trading_name": "LEDBURY",
@@ -2481,19 +2379,31 @@
     "address": "GLOUCESTER ROAD, GL18 1HP",
     "fuel_prices": [
       {
+        "fuel_type": "E5",
+        "price": 171.7,
+        "price_last_updated": "2026-04-15T13:34:33.000Z",
+        "price_change_effective_timestamp": "2026-04-15T13:34:33.000Z"
+      },
+      {
+        "fuel_type": "E10",
+        "price": 153.7,
+        "price_last_updated": "2026-04-15T13:34:33.000Z",
+        "price_change_effective_timestamp": "2026-04-15T13:34:33.000Z"
+      },
+      {
         "fuel_type": "B7_STANDARD",
-        "price": 185.7,
-        "price_last_updated": "2026-04-13T15:44:32.000Z",
-        "price_change_effective_timestamp": "2026-04-13T15:44:32.000Z"
+        "price": 186.7,
+        "price_last_updated": "2026-04-15T13:34:33.000Z",
+        "price_change_effective_timestamp": "2026-04-15T13:34:33.000Z"
       },
       {
         "fuel_type": "B7_PREMIUM",
-        "price": 203.7,
-        "price_last_updated": "2026-04-13T15:44:32.000Z",
-        "price_change_effective_timestamp": "2026-04-13T15:44:32.000Z"
+        "price": 204.7,
+        "price_last_updated": "2026-04-15T13:34:33.000Z",
+        "price_change_effective_timestamp": "2026-04-15T13:34:33.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "4a1fddda186b35f9c8c3b1b3ec14b74963cdd41db27846dfb2e70678e31503a4": {
     "trading_name": "East End Services",
@@ -2543,7 +2453,7 @@
         "price_change_effective_timestamp": "2026-04-13T22:04:05.000Z"
       }
     ],
-    "prices_updated": "2026-04-14"
+    "prices_updated": "2026-04-15"
   },
   "2ef4749bb97bdfdf328da2b710bc6264ddab2b8d8591ed90146c3caec62da0d7": {
     "trading_name": "SHELL CROSSHANDS",
@@ -2554,18 +2464,12 @@
     "fuel_prices": [
       {
         "fuel_type": "E10",
-        "price": 161.9,
-        "price_last_updated": "2026-04-08T16:23:02.000Z",
-        "price_change_effective_timestamp": "2026-04-08T16:15:00.000Z"
-      },
-      {
-        "fuel_type": "B7_STANDARD",
-        "price": 193.9,
-        "price_last_updated": "2026-04-08T16:23:02.000Z",
-        "price_change_effective_timestamp": "2026-04-08T16:15:00.000Z"
+        "price": 159.9,
+        "price_last_updated": "2026-04-15T12:20:02.000Z",
+        "price_change_effective_timestamp": "2026-04-15T12:04:00.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "00612bc7ab7c1c4bf8eb1962b2e53cfcb751e287338b3efbcb67b02eabc28008": {
     "trading_name": "SHELL WAITROSE  CHELTENHAM",
@@ -2575,19 +2479,13 @@
     "address": "HONEYBOURNE WAY, GL50 3QW",
     "fuel_prices": [
       {
-        "fuel_type": "E10",
-        "price": 158.9,
-        "price_last_updated": "2026-04-08T16:23:02.000Z",
-        "price_change_effective_timestamp": "2026-04-08T15:38:00.000Z"
-      },
-      {
         "fuel_type": "B7_STANDARD",
-        "price": 192.9,
-        "price_last_updated": "2026-04-08T16:23:02.000Z",
-        "price_change_effective_timestamp": "2026-04-08T15:38:00.000Z"
+        "price": 191.9,
+        "price_last_updated": "2026-04-15T14:36:03.000Z",
+        "price_change_effective_timestamp": "2026-04-15T11:56:00.000Z"
       }
     ],
-    "prices_updated": "2026-04-12"
+    "prices_updated": "2026-04-15"
   },
   "a155d2e50db1ff39d9f3548b0ef36687a9640f65088b2eb540b6abe9908b5662": {
     "trading_name": "EVESHAM WORCESTER RD SUPERSTORE - PETROL FILLING STATION",
@@ -2598,24 +2496,24 @@
     "fuel_prices": [
       {
         "fuel_type": "E5",
-        "price": 165.9,
-        "price_last_updated": "2026-04-04T14:35:55.670Z",
-        "price_change_effective_timestamp": "2026-04-04T15:33:38.000Z"
+        "price": 166.9,
+        "price_last_updated": "2026-04-14T13:29:25.953Z",
+        "price_change_effective_timestamp": "2026-04-14T14:25:24.000Z"
       },
       {
         "fuel_type": "E10",
-        "price": 156.9,
-        "price_last_updated": "2026-04-04T14:19:52.956Z",
-        "price_change_effective_timestamp": "2026-04-04T15:17:08.000Z"
+        "price": 157.9,
+        "price_last_updated": "2026-04-14T13:29:25.953Z",
+        "price_change_effective_timestamp": "2026-04-14T14:25:24.000Z"
       },
       {
         "fuel_type": "B7_STANDARD",
-        "price": 189.9,
-        "price_last_updated": "2026-04-04T14:35:55.670Z",
-        "price_change_effective_timestamp": "2026-04-04T15:33:38.000Z"
+        "price": 190.9,
+        "price_last_updated": "2026-04-14T13:29:25.953Z",
+        "price_change_effective_timestamp": "2026-04-14T14:25:24.000Z"
       }
     ],
-    "prices_updated": "2026-04-09"
+    "prices_updated": "2026-04-15"
   },
   "3cd54b7ec6a1c8266851beed78b90a0eeb9336557aa18d07778a41ab686de6c4": {
     "trading_name": "GLOUCESTER QUEDGELEY EXTRA - PETROL FILLING STATION",

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous potholes- cars swerving at speed to avoid, 15th April :- [9295502](https://www.fixmystreet.com/report/9295502)
 - Tree obstruction road visibility, 14th April :- [9294938](https://www.fixmystreet.com/report/9294938)
 - Pot hole returning towards left of mini roundabout, 14th April :- [9294758](https://www.fixmystreet.com/report/9294758)
 - Horizontal pothole to the left of road, 14th April :- [9294753](https://www.fixmystreet.com/report/9294753)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 14th April :- [9292923](https://www.fixmystreet.com/report/9292923)
 - Huge tree blocking light and killing garden grass, 14th April :- [9292624](https://www.fixmystreet.com/report/9292624)
 - TMC - Defects -CW6 Potholes  problem, 14th April :- [9292673](https://www.fixmystreet.com/report/9292673)
-- TMC - Defects -CW10 Potholes problem, 14th April :- [9292464](https://www.fixmystreet.com/report/9292464)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 16th April :- [9302369](https://www.fixmystreet.com/report/9302369)
+- TMC - Defects -CW10 Potholes problem, 16th April :- [9302365](https://www.fixmystreet.com/report/9302365)
+- Drain outside italian restaurant in parking bay blocked, 16th April :- [9302154](https://www.fixmystreet.com/report/9302154)
+- Drain blocked outside 2 Ashfield Close, 16th April :- [9302063](https://www.fixmystreet.com/report/9302063)
+- Pothole on pecked lane at junction of fieldgate rd, 16th April :- [9302047](https://www.fixmystreet.com/report/9302047)
+- Large pothole on the junction, 16th April :- [9301896](https://www.fixmystreet.com/report/9301896)
 - There is a road surface defect (dip/manhole/uneven surface) causing significant vibration to nearby residential properties when buses pass. The impact from heavy vehicles is clearly visible and felt inside the property, particularly on the first floor. This repeatedly happens to properties in this area, 16th April :- [9301649](https://www.fixmystreet.com/report/9301649)
 - More potholes, 16th April :- [9301628](https://www.fixmystreet.com/report/9301628)
 - Parking, 15th April :- [9300664](https://www.fixmystreet.com/report/9300664)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Long deep hole - danger to motorcycle and cars., 15th April :- [9298412](https://www.fixmystreet.com/report/9298412)
 - Post or sign leaning slightly (less than 20 degrees) problem, 15th April :- [9299176](https://www.fixmystreet.com/report/9299176)
 - Tree is damaged problem, 15th April :- [9299175](https://www.fixmystreet.com/report/9299175)
-- All Stoplines on junction require refreshing, 15th April :- [9298875](https://www.fixmystreet.com/report/9298875)
-- I reported this a number of weeks ago and nothing has been done about it…, 15th April :- [9298575](https://www.fixmystreet.com/report/9298575)
-- Long grass needs cutting, 15th April :- [9298465](https://www.fixmystreet.com/report/9298465)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [9298528](https://www.fixmystreet.com/report/9298528)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [9298529](https://www.fixmystreet.com/report/9298529)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [9298525](https://www.fixmystreet.com/report/9298525)
 
 <!-- fix_marker ends -->

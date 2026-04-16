@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There is a road surface defect (dip/manhole/uneven surface) causing significant vibration to nearby residential properties when buses pass. The impact from heavy vehicles is clearly visible and felt inside the property, particularly on the first floor. This repeatedly happens to properties in this area, 16th April :- [9301649](https://www.fixmystreet.com/report/9301649)
+- More potholes, 16th April :- [9301628](https://www.fixmystreet.com/report/9301628)
 - Parking, 15th April :- [9300664](https://www.fixmystreet.com/report/9300664)
 - Parking, 15th April :- [9300433](https://www.fixmystreet.com/report/9300433)
 - Severely blocked drain near Queen’s Retreat, 15th April :- [9300097](https://www.fixmystreet.com/report/9300097)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [9298528](https://www.fixmystreet.com/report/9298528)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [9298529](https://www.fixmystreet.com/report/9298529)
 - TMC - Defects -CW6 Potholes  problem, 15th April :- [9298525](https://www.fixmystreet.com/report/9298525)
-- TMC - Defects -CW10 Potholes problem, 15th April :- [9298524](https://www.fixmystreet.com/report/9298524)
-- TMC - Defects -CW6 Potholes  problem, 15th April :- [9298519](https://www.fixmystreet.com/report/9298519)
 
 <!-- fix_marker ends -->

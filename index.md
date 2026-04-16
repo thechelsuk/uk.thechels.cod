@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 16 April 2026
 
-- The average temperature today is 13.05˚C,
-- With highs of 13.05˚C and lows of 13.05˚C,
-- It may feel like 12.5˚C with broken clouds
-- The wind speed is 6.5m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 80%
+- The average temperature today is 14.41˚C,
+- With highs of 15.29˚C and lows of 13.73˚C,
+- It may feel like 13.63˚C with scattered clouds
+- The wind speed is 6.69m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 66%
 - The sun will rise at 05:09 and set at 19:06
 
 <!-- weather_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass bottles and other rubbish in park, 17th April :- [9307631](https://www.fixmystreet.com/report/9307631)
 - Huge Hole, 17th April :- [9307399](https://www.fixmystreet.com/report/9307399)
 - Large potholes causing damage to vehicles, 16th April :- [9306664](https://www.fixmystreet.com/report/9306664)
 - Road surface broken up and larger holes forming, 16th April :- [9306322](https://www.fixmystreet.com/report/9306322)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 16th April :- [9305664](https://www.fixmystreet.com/report/9305664)
 - TMC - Defects -CW6 Potholes  problem, 16th April :- [9305663](https://www.fixmystreet.com/report/9305663)
 - TMC - Defects -CW6 Potholes  problem, 16th April :- [9305662](https://www.fixmystreet.com/report/9305662)
-- TMC - Defects -other CW6 problem, 16th April :- [9305661](https://www.fixmystreet.com/report/9305661)
 
 <!-- fix_marker ends -->

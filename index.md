@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 17 April 2026
 
-- The average temperature today is 12.22˚C,
-- With highs of 12.22˚C and lows of 12.22˚C,
-- It may feel like 11.8˚C with broken clouds
-- The wind speed is 4.28m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 88%
+- The average temperature today is 10.75˚C,
+- With highs of 10.75˚C and lows of 10.75˚C,
+- It may feel like 10.2˚C with broken clouds
+- The wind speed is 3.37m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 89%
 - The sun will rise at 05:07 and set at 19:07
 
 <!-- weather_marker ends -->

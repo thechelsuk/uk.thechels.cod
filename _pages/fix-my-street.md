@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 x potholes, 17th April :- [9311895](https://www.fixmystreet.com/report/9311895)
+- Pavement seriously damaged by roots Pedestrians continually tripping here, 17th April :- [9308663](https://www.fixmystreet.com/report/9308663)
+- Unpermitted roadworks problem, 17th April :- [9311730](https://www.fixmystreet.com/report/9311730)
 - Multiple pot holes in mini roundabout, 17th April :- [9311310](https://www.fixmystreet.com/report/9311310)
 - TMC - Defects - Other FW6  Surface problem, 17th April :- [9310588](https://www.fixmystreet.com/report/9310588)
 - Large pothole, 17th April :- [9310477](https://www.fixmystreet.com/report/9310477)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Poorly patched potholes when traveling northeast, 17th April :- [9310233](https://www.fixmystreet.com/report/9310233)
 - Another group of potholes, separate from the other reports, 17th April :- [9310220](https://www.fixmystreet.com/report/9310220)
 - Another group of big potholes on the same road, 17th April :- [9310212](https://www.fixmystreet.com/report/9310212)
-- Patches of tarmac missing, 17th April :- [9310198](https://www.fixmystreet.com/report/9310198)
-- Potholes in the road, not all of them are painted, 17th April :- [9310190](https://www.fixmystreet.com/report/9310190)
-- Tree root intrusion to pavement closing the footpath on dangerous junction, 17th April :- [9310017](https://www.fixmystreet.com/report/9310017)
 
 <!-- fix_marker ends -->

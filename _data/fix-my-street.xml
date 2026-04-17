@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
@@ -14,6 +14,105 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -other CW6 problem, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309776</link>
+<description>Cway edge deterioration&amp;#10;Stat plan required &amp;#10;3900mmx330mmx65mm&amp;#10;Road closure TM required (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309776&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309776</guid>
+<pubDate>Fri, 17 Apr 2026 12:01:34 +0100</pubDate>
+<georss:point>51.9016403 -2.19559909999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309774</link>
+<description>CW pothole 600mm x 500mm x 42mm &amp;#10;Stop and go TM &amp;#10;Junction of Fieldgate Road (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309774&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309774</guid>
+<pubDate>Fri, 17 Apr 2026 11:58:39 +0100</pubDate>
+<georss:point>51.9460181 -2.05648930000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309770</link>
+<description>Cway pothole &amp;#10;Stat plan required&amp;#10;340mmx280mmx58mm&amp;#10;Road closure TM required &amp;#10;2nsd (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309770&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309770</guid>
+<pubDate>Fri, 17 Apr 2026 11:52:50 +0100</pubDate>
+<georss:point>51.9016282 -2.19370390000001</georss:point>
+</item>
+<item>
+<title>Unpermitted roadworks problem, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309504</link>
+<description>Severn Trent works - there is no access for patrons, cars are mounting the pavement constantly where a fence has been installed during the roadworks - cars are using other side of road.  Caller also reports that no contractors are on site whilst the road closure is in place &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309504&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Unpermitted roadworks</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309504</guid>
+<pubDate>Fri, 17 Apr 2026 11:26:14 +0100</pubDate>
+<georss:point>51.900601 -2.052956</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309512</link>
+<description>CW pothole 700mm x 300mm x 42mm &amp;#10;Give and take TM &amp;#10;Outside number 50 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309512&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309512</guid>
+<pubDate>Fri, 17 Apr 2026 11:18:21 +0100</pubDate>
+<georss:point>51.963817 -2.04990480000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309511</link>
+<description>CW pothole 600mm x 500mm x 40mm &amp;#10;4 x NSD &amp;#10;Give and take TM &amp;#10;School Entrance (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309511&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309511</guid>
+<pubDate>Fri, 17 Apr 2026 11:18:21 +0100</pubDate>
+<georss:point>51.9641343 -2.04994900000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309510</link>
+<description>CW pothole 600mm x 600mm x 40mm &amp;#10;Give and take TM &amp;#10;School Entrance (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309510&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309510</guid>
+<pubDate>Fri, 17 Apr 2026 11:18:20 +0100</pubDate>
+<georss:point>51.9641501 -2.04993830000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309508</link>
+<description>Cway pothole &amp;#10;950mmx800mmx65mm&amp;#10;Road closure TM required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309508&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309508</guid>
+<pubDate>Fri, 17 Apr 2026 11:14:04 +0100</pubDate>
+<georss:point>51.916681 -2.20524340000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309506</link>
+<description>Cway pothole &amp;#10;1100mmx600mmx55mm&amp;#10;3way traffic lights TM required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309506&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309506</guid>
+<pubDate>Fri, 17 Apr 2026 11:13:47 +0100</pubDate>
+<georss:point>51.9166133 -2.20517989999999</georss:point>
+</item>
+<item>
+<title>Parking outside Post Office causing congestion, 17th April</title>
+<link>https://www.fixmystreet.com/report/9308257</link>
+<description>The one or two cars that park outside the post office cause huge tailbacks along Hatherley Road. The road is too narrow for two cars to pass the parked cars. Cars should park elsewhere or halfway on wide car park to keep the traffic flowing. Go there any weekday morning or from 17:20 and you will see the problems it causes.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 238, Hatherley Road, Hatherley, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308257&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Line issue (Parking)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9308257</guid>
+<pubDate>Fri, 17 Apr 2026 11:10:27 +0100</pubDate>
+<georss:point>51.889388 -2.115669</georss:point>
+</item>
+<item>
+<title>Streetlight on hermitage street making buzzing noise when on at night, 17th April</title>
+<link>https://www.fixmystreet.com/report/9309173</link>
+<description>Streetlight on hermitage street outside the back of 38 Francis street is making audible buzzing noise at night. This is causing a disturbance. A component of this light may need replacing.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 40, Francis Street, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9309173&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Light is flickering/intermittent</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9309173</guid>
+<pubDate>Fri, 17 Apr 2026 10:54:10 +0100</pubDate>
+<georss:point>51.887942 -2.078997</georss:point>
+</item>
 <item>
 <title>Long area of potholes, 17th April</title>
 <link>https://www.fixmystreet.com/report/9308729</link>
@@ -94,105 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9308341</guid>
 <pubDate>Fri, 17 Apr 2026 09:25:32 +0100</pubDate>
 <georss:point>51.904463 -2.066711</georss:point>
-</item>
-<item>
-<title>Pothole in the road, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308331</link>
-<description>Pothole in the road, please see image&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308331.0.jpeg?a2b1d524&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 74, All Saints&#39; Road, Fairview, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308331&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308331</guid>
-<pubDate>Fri, 17 Apr 2026 09:24:52 +0100</pubDate>
-<georss:point>51.902463 -2.064543</georss:point>
-</item>
-<item>
-<title>Pothole in the road, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308329</link>
-<description>Pothole in the road, please see image&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308329.0.jpeg?8360aa1b&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 68, All Saints&#39; Road, Fairview, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308329&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308329</guid>
-<pubDate>Fri, 17 Apr 2026 09:24:28 +0100</pubDate>
-<georss:point>51.902163 -2.064598</georss:point>
-</item>
-<item>
-<title>Pothole in the road, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308322</link>
-<description>Pothole in the road, please see image&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308322.0.jpeg?6b378a7f&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 142, Fairview Road, Fairview, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308322&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308322</guid>
-<pubDate>Fri, 17 Apr 2026 09:23:49 +0100</pubDate>
-<georss:point>51.899521 -2.065816</georss:point>
-</item>
-<item>
-<title>Pothole in the road, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308307</link>
-<description>They keep patching this section to the point it is as bad as when the potholes were there&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308307.0.jpeg?f3661fc7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Lansdown Road, Warden Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308307&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308307</guid>
-<pubDate>Fri, 17 Apr 2026 09:21:44 +0100</pubDate>
-<georss:point>51.893605 -2.09173</georss:point>
-</item>
-<item>
-<title>Lots of deep potholes down the road, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308304</link>
-<description>Please see image&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308304.0.jpeg?a73aa1dd&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 32;34, Grafton Road, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308304&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308304</guid>
-<pubDate>Fri, 17 Apr 2026 09:20:48 +0100</pubDate>
-<georss:point>51.88818 -2.080566</georss:point>
-</item>
-<item>
-<title>Very very deep potholes in the road, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308300</link>
-<description>Please see image&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308300.0.jpeg?2562d46e&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 32;34, Grafton Road, Naunton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308300&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308300</guid>
-<pubDate>Fri, 17 Apr 2026 09:20:10 +0100</pubDate>
-<georss:point>51.888151 -2.080312</georss:point>
-</item>
-<item>
-<title>Pothole in the road, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308293</link>
-<description>Pothole in the road, please see image&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308293.0.jpeg?7aa61fb8&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Naunton Lane, Leckhampton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308293&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308293</guid>
-<pubDate>Fri, 17 Apr 2026 09:19:11 +0100</pubDate>
-<georss:point>51.884058 -2.079378</georss:point>
-</item>
-<item>
-<title>10inch potholes by Greyhound pub, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308291</link>
-<description>There are multiple potholes by the greyhound pub in a cluster. They were all previously marked however they have grown larger and the marking is no longer there. When driving I turned in the road and there was a car going around the potholes, almost had a head on collision. When is this going to be fixed? Been going on for months.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Greyhound Gardens, Elmbridge, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308291&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308291</guid>
-<pubDate>Fri, 17 Apr 2026 09:19:08 +0100</pubDate>
-<georss:point>51.877636 -2.204246</georss:point>
-</item>
-<item>
-<title>Pothole in the road, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308289</link>
-<description>Pothole in the road, previously repaired but still acts like a pothole&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308289.0.jpeg?196dd16f&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): B4070, Coberley, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308289&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308289</guid>
-<pubDate>Fri, 17 Apr 2026 09:18:38 +0100</pubDate>
-<georss:point>51.85073 -2.086558</georss:point>
-</item>
-<item>
-<title>Pothole in the road, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308279</link>
-<description>Looks like it has been fixed but the angle it has been fixed at means you smash over it as if it&amp;#39;s still there&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308279.0.jpeg?f6d1ff52&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): B4070, Coberley, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308279&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308279</guid>
-<pubDate>Fri, 17 Apr 2026 09:16:57 +0100</pubDate>
-<georss:point>51.846645 -2.093105</georss:point>
-</item>
-<item>
-<title>Strip of bumpy road where it has been previously dug up/repaired, 17th April</title>
-<link>https://www.fixmystreet.com/report/9308264</link>
-<description>Please see image&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9308264.0.jpeg?def41160&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Leckhampton Hill, Coberley, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9308264&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9308264</guid>
-<pubDate>Fri, 17 Apr 2026 09:15:11 +0100</pubDate>
-<georss:point>51.85429 -2.082905</georss:point>
 </item>
 </channel>
 </rss>

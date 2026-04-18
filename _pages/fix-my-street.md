@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain completely blocked outside Sunnyside, 18th April :- [9313278](https://www.fixmystreet.com/report/9313278)
 - Deep circular pothole in middle of road, 17th April :- [9312421](https://www.fixmystreet.com/report/9312421)
 - Number of potholes across road, 17th April :- [9312356](https://www.fixmystreet.com/report/9312356)
 - Huge amount of potholes, 17th April :- [9312341](https://www.fixmystreet.com/report/9312341)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 17th April :- [9310392](https://www.fixmystreet.com/report/9310392)
 - TMC - Defects -CW10 Potholes problem, 17th April :- [9310393](https://www.fixmystreet.com/report/9310393)
 - Pothole in the road, 17th April :- [9310265](https://www.fixmystreet.com/report/9310265)
-- More poorly repaired potholes, 17th April :- [9310247](https://www.fixmystreet.com/report/9310247)
 
 <!-- fix_marker ends -->

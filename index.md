@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 18 April 2026
 
-- The average temperature today is 15.03˚C,
-- With highs of 15.03˚C and lows of 15.03˚C,
-- It may feel like 14˚C with broken clouds
-- The wind speed is 5.36m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 54%
+- The average temperature today is 14.86˚C,
+- With highs of 14.86˚C and lows of 14.86˚C,
+- It may feel like 13.89˚C with broken clouds
+- The wind speed is 5.79m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 57%
 - The sun will rise at 05:05 and set at 19:09
 
 <!-- weather_marker ends -->

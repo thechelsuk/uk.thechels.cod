@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 18th April :- [9315215](https://www.fixmystreet.com/report/9315215)
+- Wobbly paving slabs outside 10 SRN, 18th April :- [9315102](https://www.fixmystreet.com/report/9315102)
+- A pair of holes, axle width apart, 18th April :- [9315068](https://www.fixmystreet.com/report/9315068)
+- Large pothole in road, 18th April :- [9315047](https://www.fixmystreet.com/report/9315047)
 - Potholes all along the road, 18th April :- [9314826](https://www.fixmystreet.com/report/9314826)
 - Lane sign vandalised and missing, 18th April :- [9314442](https://www.fixmystreet.com/report/9314442)
 - Between A417 and The Business Park entrance, 18th April :- [9314308](https://www.fixmystreet.com/report/9314308)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - 2 x potholes, 17th April :- [9311895](https://www.fixmystreet.com/report/9311895)
 - Pavement seriously damaged by roots Pedestrians continually tripping here, 17th April :- [9308663](https://www.fixmystreet.com/report/9308663)
 - Unpermitted roadworks problem, 17th April :- [9311730](https://www.fixmystreet.com/report/9311730)
-- Multiple pot holes in mini roundabout, 17th April :- [9311310](https://www.fixmystreet.com/report/9311310)
-- TMC - Defects - Other FW6  Surface problem, 17th April :- [9310588](https://www.fixmystreet.com/report/9310588)
-- Large pothole, 17th April :- [9310477](https://www.fixmystreet.com/report/9310477)
-- TMC - Defects - Other FW6  Surface problem, 17th April :- [9310585](https://www.fixmystreet.com/report/9310585)
 
 <!-- fix_marker ends -->

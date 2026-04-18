@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Really deep pothole destroyed my cars shock absorber, 18th April :- [9316373](https://www.fixmystreet.com/report/9316373)
+- Street lights out ahain, 18th April :- [9316360](https://www.fixmystreet.com/report/9316360)
+- Street light not working, 18th April :- [9316354](https://www.fixmystreet.com/report/9316354)
+- Lamppost isn’t on, 18th April :- [9316332](https://www.fixmystreet.com/report/9316332)
+- Street light out, 18th April :- [9316328](https://www.fixmystreet.com/report/9316328)
+- Flytipping, 18th April :- [9316323](https://www.fixmystreet.com/report/9316323)
+- Street lights not working on parabola road, 18th April :- [9316289](https://www.fixmystreet.com/report/9316289)
 - Vegetation encroaching onto footpath, 18th April :- [9316109](https://www.fixmystreet.com/report/9316109)
 - Bed parts flytipped, 18th April :- [9315949](https://www.fixmystreet.com/report/9315949)
 - Bicycle dumped in undergrowth, 18th April :- [9315768](https://www.fixmystreet.com/report/9315768)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Between A417 and The Business Park entrance, 18th April :- [9314308](https://www.fixmystreet.com/report/9314308)
 - The whole road is full of potholes and needs resurfacing, 18th April :- [9314165](https://www.fixmystreet.com/report/9314165)
 - Gulley blocked for months, 18th April :- [9314128](https://www.fixmystreet.com/report/9314128)
-- Blocked drain on old Bath road, 18th April :- [9313771](https://www.fixmystreet.com/report/9313771)
-- Long pothole on old Bath Road, 18th April :- [9313766](https://www.fixmystreet.com/report/9313766)
-- Parking Sign misaligned causing drivers to incur parking tickets, 18th April :- [9313635](https://www.fixmystreet.com/report/9313635)
-- Drain completely blocked outside Sunnyside, 18th April :- [9313278](https://www.fixmystreet.com/report/9313278)
-- Deep circular pothole in middle of road, 17th April :- [9312421](https://www.fixmystreet.com/report/9312421)
-- Number of potholes across road, 17th April :- [9312356](https://www.fixmystreet.com/report/9312356)
-- Huge amount of potholes, 17th April :- [9312341](https://www.fixmystreet.com/report/9312341)
 
 <!-- fix_marker ends -->

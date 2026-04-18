@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Volunteers celebrate ownership of meadows ([3 hours ago](https://www.bbc.com/news/articles/cn43d2xex8po?at_medium=RSS&at_campaign=rss))
-- AI part of £3.4m project to 'modernise' authority ([8 hours ago](https://www.bbc.com/news/articles/c1l9yqn7n01o?at_medium=RSS&at_campaign=rss))
-- Veteran who did not talk and slept outside remembered ([12 hours ago](https://www.bbc.com/news/articles/ckgxx6346r9o?at_medium=RSS&at_campaign=rss))
-- 'Van dweller eviction' and 'new hope for lido' ([12 hours ago](https://www.bbc.com/news/articles/cde54462d9go?at_medium=RSS&at_campaign=rss))
-- Motorcyclist dies after crash on A-road ([23 hours ago](https://www.bbc.com/news/articles/cp38x1zq5ljo?at_medium=RSS&at_campaign=rss))
+- Volunteers celebrate ownership of meadows ([5 hours ago](https://www.bbc.com/news/articles/cn43d2xex8po?at_medium=RSS&at_campaign=rss))
+- AI part of £3.4m project to 'modernise' authority ([10 hours ago](https://www.bbc.com/news/articles/c1l9yqn7n01o?at_medium=RSS&at_campaign=rss))
+- Veteran who did not talk and slept outside remembered ([14 hours ago](https://www.bbc.com/news/articles/ckgxx6346r9o?at_medium=RSS&at_campaign=rss))
+- 'Van dweller eviction' and 'new hope for lido' ([14 hours ago](https://www.bbc.com/news/articles/cde54462d9go?at_medium=RSS&at_campaign=rss))
+- Motorcyclist dies after crash on A-road ([1 days ago](https://www.bbc.com/news/articles/cp38x1zq5ljo?at_medium=RSS&at_campaign=rss))
 - Six more jailed after £3.4m luxury car theft spree ([1 days ago](https://www.bbc.com/news/articles/ce9mpl9x92po?at_medium=RSS&at_campaign=rss))
 - Man 'repeatedly tried to assault girl, 17, on bus' ([1 days ago](https://www.bbc.com/news/articles/c2k32q830kpo?at_medium=RSS&at_campaign=rss))
 - Music teacher charged with child sex offences ([1 days ago](https://www.bbc.com/news/articles/cy81wx7gww2o?at_medium=RSS&at_campaign=rss))

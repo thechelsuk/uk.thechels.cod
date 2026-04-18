@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Small coffee table inconsiderately dumped on the corner of Marsh Drive directly outside 5 Marsh Gardens, 18th April :- [9315507](https://www.fixmystreet.com/report/9315507)
 - Fly tipping, 18th April :- [9315215](https://www.fixmystreet.com/report/9315215)
 - Wobbly paving slabs outside 10 SRN, 18th April :- [9315102](https://www.fixmystreet.com/report/9315102)
 - A pair of holes, axle width apart, 18th April :- [9315068](https://www.fixmystreet.com/report/9315068)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A barrier has been placed across the road blocking traffic in both directions. The road has been indicated as closed all week. It is unclear why the road needs to be shut or if this is official as there is only a small hole in the pavement. There has been little activity near the hole and the road has been left closed with an obstructing fence placed across the road., 17th April :- [9312081](https://www.fixmystreet.com/report/9312081)
 - 2 x potholes, 17th April :- [9311895](https://www.fixmystreet.com/report/9311895)
 - Pavement seriously damaged by roots Pedestrians continually tripping here, 17th April :- [9308663](https://www.fixmystreet.com/report/9308663)
-- Unpermitted roadworks problem, 17th April :- [9311730](https://www.fixmystreet.com/report/9311730)
 
 <!-- fix_marker ends -->

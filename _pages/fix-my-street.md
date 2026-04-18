@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large potholes on kidnappers lane, 18th April :- [9316555](https://www.fixmystreet.com/report/9316555)
+- 3 smaller potholes end of 61 Apple Orchard plus loads on roads around nr no, 18th April :- [9316455](https://www.fixmystreet.com/report/9316455)
 - Really deep pothole destroyed my cars shock absorber, 18th April :- [9316373](https://www.fixmystreet.com/report/9316373)
 - Street lights out ahain, 18th April :- [9316360](https://www.fixmystreet.com/report/9316360)
 - Street light not working, 18th April :- [9316354](https://www.fixmystreet.com/report/9316354)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Potholes all along the road, 18th April :- [9314826](https://www.fixmystreet.com/report/9314826)
 - Lane sign vandalised and missing, 18th April :- [9314442](https://www.fixmystreet.com/report/9314442)
 - Between A417 and The Business Park entrance, 18th April :- [9314308](https://www.fixmystreet.com/report/9314308)
-- The whole road is full of potholes and needs resurfacing, 18th April :- [9314165](https://www.fixmystreet.com/report/9314165)
-- Gulley blocked for months, 18th April :- [9314128](https://www.fixmystreet.com/report/9314128)
 
 <!-- fix_marker ends -->

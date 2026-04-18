@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes all along the road, 18th April :- [9314826](https://www.fixmystreet.com/report/9314826)
+- Lane sign vandalised and missing, 18th April :- [9314442](https://www.fixmystreet.com/report/9314442)
+- Between A417 and The Business Park entrance, 18th April :- [9314308](https://www.fixmystreet.com/report/9314308)
 - The whole road is full of potholes and needs resurfacing, 18th April :- [9314165](https://www.fixmystreet.com/report/9314165)
 - Gulley blocked for months, 18th April :- [9314128](https://www.fixmystreet.com/report/9314128)
 - Blocked drain on old Bath road, 18th April :- [9313771](https://www.fixmystreet.com/report/9313771)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 17th April :- [9310588](https://www.fixmystreet.com/report/9310588)
 - Large pothole, 17th April :- [9310477](https://www.fixmystreet.com/report/9310477)
 - TMC - Defects - Other FW6  Surface problem, 17th April :- [9310585](https://www.fixmystreet.com/report/9310585)
-- Large pothole, 17th April :- [9310456](https://www.fixmystreet.com/report/9310456)
-- Broken road work sign abandoned, 17th April :- [9310436](https://www.fixmystreet.com/report/9310436)
-- TMC - Defects -CW10 Potholes problem, 17th April :- [9310396](https://www.fixmystreet.com/report/9310396)
 
 <!-- fix_marker ends -->

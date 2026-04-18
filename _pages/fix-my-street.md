@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The whole road is full of potholes and needs resurfacing, 18th April :- [9314165](https://www.fixmystreet.com/report/9314165)
+- Gulley blocked for months, 18th April :- [9314128](https://www.fixmystreet.com/report/9314128)
+- Blocked drain on old Bath road, 18th April :- [9313771](https://www.fixmystreet.com/report/9313771)
+- Long pothole on old Bath Road, 18th April :- [9313766](https://www.fixmystreet.com/report/9313766)
 - Parking Sign misaligned causing drivers to incur parking tickets, 18th April :- [9313635](https://www.fixmystreet.com/report/9313635)
 - Drain completely blocked outside Sunnyside, 18th April :- [9313278](https://www.fixmystreet.com/report/9313278)
 - Deep circular pothole in middle of road, 17th April :- [9312421](https://www.fixmystreet.com/report/9312421)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large pothole, 17th April :- [9310456](https://www.fixmystreet.com/report/9310456)
 - Broken road work sign abandoned, 17th April :- [9310436](https://www.fixmystreet.com/report/9310436)
 - TMC - Defects -CW10 Potholes problem, 17th April :- [9310396](https://www.fixmystreet.com/report/9310396)
-- TMC - Defects -CW10 Potholes problem, 17th April :- [9310395](https://www.fixmystreet.com/report/9310395)
-- TMC - Defects -CW10 Potholes problem, 17th April :- [9310394](https://www.fixmystreet.com/report/9310394)
-- TMC - Defects -CW10 Potholes problem, 17th April :- [9310392](https://www.fixmystreet.com/report/9310392)
-- TMC - Defects -CW10 Potholes problem, 17th April :- [9310393](https://www.fixmystreet.com/report/9310393)
 
 <!-- fix_marker ends -->

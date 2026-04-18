@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vegetation encroaching onto footpath, 18th April :- [9316109](https://www.fixmystreet.com/report/9316109)
+- Bed parts flytipped, 18th April :- [9315949](https://www.fixmystreet.com/report/9315949)
+- Bicycle dumped in undergrowth, 18th April :- [9315768](https://www.fixmystreet.com/report/9315768)
 - Small coffee table inconsiderately dumped on the corner of Marsh Drive directly outside 5 Marsh Gardens, 18th April :- [9315507](https://www.fixmystreet.com/report/9315507)
 - Fly tipping, 18th April :- [9315215](https://www.fixmystreet.com/report/9315215)
 - Wobbly paving slabs outside 10 SRN, 18th April :- [9315102](https://www.fixmystreet.com/report/9315102)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Deep circular pothole in middle of road, 17th April :- [9312421](https://www.fixmystreet.com/report/9312421)
 - Number of potholes across road, 17th April :- [9312356](https://www.fixmystreet.com/report/9312356)
 - Huge amount of potholes, 17th April :- [9312341](https://www.fixmystreet.com/report/9312341)
-- A barrier has been placed across the road blocking traffic in both directions. The road has been indicated as closed all week. It is unclear why the road needs to be shut or if this is official as there is only a small hole in the pavement. There has been little activity near the hole and the road has been left closed with an obstructing fence placed across the road., 17th April :- [9312081](https://www.fixmystreet.com/report/9312081)
-- 2 x potholes, 17th April :- [9311895](https://www.fixmystreet.com/report/9311895)
-- Pavement seriously damaged by roots Pedestrians continually tripping here, 17th April :- [9308663](https://www.fixmystreet.com/report/9308663)
 
 <!-- fix_marker ends -->

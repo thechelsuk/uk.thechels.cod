@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Three men arrested after burglary and police chase ([9 hours ago](https://www.bbc.com/news/articles/cr71kn7n2ezo?at_medium=RSS&at_campaign=rss))
-- Pool opens a month early due to demand ([9 hours ago](https://www.bbc.com/news/articles/cwyd2r2r4nwo?at_medium=RSS&at_campaign=rss))
-- What patriotism means to people in the West ([14 hours ago](https://www.bbc.com/news/articles/c3exx3gpv81o?at_medium=RSS&at_campaign=rss))
-- In pictures: Giant fish and jousting engagement ([14 hours ago](https://www.bbc.com/news/articles/c36r3349p9ro?at_medium=RSS&at_campaign=rss))
+- Three men arrested after burglary and police chase ([11 hours ago](https://www.bbc.com/news/articles/cr71kn7n2ezo?at_medium=RSS&at_campaign=rss))
+- Pool opens a month early due to demand ([11 hours ago](https://www.bbc.com/news/articles/cwyd2r2r4nwo?at_medium=RSS&at_campaign=rss))
+- What patriotism means to people in the West ([16 hours ago](https://www.bbc.com/news/articles/c3exx3gpv81o?at_medium=RSS&at_campaign=rss))
+- In pictures: Giant fish and jousting engagement ([16 hours ago](https://www.bbc.com/news/articles/c36r3349p9ro?at_medium=RSS&at_campaign=rss))
 - Volunteers celebrate ownership of meadows ([1 days ago](https://www.bbc.com/news/articles/cn43d2xex8po?at_medium=RSS&at_campaign=rss))
 - AI part of £3.4m project to 'modernise' authority ([1 days ago](https://www.bbc.com/news/articles/c1l9yqn7n01o?at_medium=RSS&at_campaign=rss))
 - Veteran who did not talk and slept outside remembered ([1 days ago](https://www.bbc.com/news/articles/ckgxx6346r9o?at_medium=RSS&at_campaign=rss))
@@ -27,7 +27,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - AI-created post 'wrongly said restaurant had shut' ([2 days ago](https://www.bbc.com/news/articles/c78lq2x8403o?at_medium=RSS&at_campaign=rss))
 - Historic lido could reopen amid repair cost review ([2 days ago](https://www.bbc.com/news/articles/c8r486mdppgo?at_medium=RSS&at_campaign=rss))
 - Fish cost forces chippy to up prices to stay open ([2 days ago](https://www.bbc.com/news/articles/c04xvwp10n2o?at_medium=RSS&at_campaign=rss))
-- Rising value of Pokémon cards sparks smash and grab crime spree ([2 days ago](https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss))
+- Rising value of Pokémon cards sparks smash and grab crime spree ([3 days ago](https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss))
 - Tributes paid to 'kindest' man who died after punch ([3 days ago](https://www.bbc.com/news/articles/c74vdqy744po?at_medium=RSS&at_campaign=rss))
 - Cheltenham venues adopt new ID policy ([3 days ago](https://gloucesternewscentre.co.uk/cheltenham-venues-adopt-new-id-policy/))
 - University staff strike over pay dispute ([3 days ago](https://gloucesternewscentre.co.uk/university-staff-strike-over-pay-dispute/))

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 19 April 2026
 
-- The average temperature today is 7.21˚C,
-- With highs of 7.21˚C and lows of 7.21˚C,
-- It may feel like 6.18˚C with clear sky
-- The wind speed is 1.76m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 88%
+- The average temperature today is 10.91˚C,
+- With highs of 10.91˚C and lows of 10.91˚C,
+- It may feel like 9.94˚C with clear sky
+- The wind speed is 3.32m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 72%
 - The sun will rise at 05:03 and set at 19:11
 
 <!-- weather_marker ends -->

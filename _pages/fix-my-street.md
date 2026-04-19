@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive pothole, 19th April :- [9316896](https://www.fixmystreet.com/report/9316896)
 - Large potholes on kidnappers lane, 18th April :- [9316555](https://www.fixmystreet.com/report/9316555)
 - 3 smaller potholes end of 61 Apple Orchard plus loads on roads around nr no, 18th April :- [9316455](https://www.fixmystreet.com/report/9316455)
 - Really deep pothole destroyed my cars shock absorber, 18th April :- [9316373](https://www.fixmystreet.com/report/9316373)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large pothole in road, 18th April :- [9315047](https://www.fixmystreet.com/report/9315047)
 - Potholes all along the road, 18th April :- [9314826](https://www.fixmystreet.com/report/9314826)
 - Lane sign vandalised and missing, 18th April :- [9314442](https://www.fixmystreet.com/report/9314442)
-- Between A417 and The Business Park entrance, 18th April :- [9314308](https://www.fixmystreet.com/report/9314308)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 19th April :- [9319791](https://www.fixmystreet.com/report/9319791)
 - Crosshands meadow, 19th April :- [9319298](https://www.fixmystreet.com/report/9319298)
 - Massive pothole coming into the housing estate, 19th April :- [9319279](https://www.fixmystreet.com/report/9319279)
 - Glass across pavement, 19th April :- [9319235](https://www.fixmystreet.com/report/9319235)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Trapped birds - welfare issue, 19th April :- [9317824](https://www.fixmystreet.com/report/9317824)
 - Flytipping multiple items side of 89 St Paul’s Road, 19th April :- [9317783](https://www.fixmystreet.com/report/9317783)
 - Wheel dumped?, 19th April :- [9317190](https://www.fixmystreet.com/report/9317190)
-- Massive pothole, 19th April :- [9316896](https://www.fixmystreet.com/report/9316896)
 
 <!-- fix_marker ends -->

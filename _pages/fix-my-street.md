@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gatepost still rotten. Gate could easily fall on a child., 19th April :- [9318327](https://www.fixmystreet.com/report/9318327)
+- Tagging on bin Winston Churchill Memorial Garden, 19th April :- [9318088](https://www.fixmystreet.com/report/9318088)
+- Flytipped tyre Winston Churchill Memorial Garden, 19th April :- [9318014](https://www.fixmystreet.com/report/9318014)
+- Flytipped bolster Winston Churchill Memorial Garden, 19th April :- [9317996](https://www.fixmystreet.com/report/9317996)
+- Trapped birds - welfare issue, 19th April :- [9317824](https://www.fixmystreet.com/report/9317824)
+- Flytipping multiple items side of 89 St Paul’s Road, 19th April :- [9317783](https://www.fixmystreet.com/report/9317783)
 - Wheel dumped?, 19th April :- [9317190](https://www.fixmystreet.com/report/9317190)
 - Massive pothole, 19th April :- [9316896](https://www.fixmystreet.com/report/9316896)
 - Large potholes on kidnappers lane, 18th April :- [9316555](https://www.fixmystreet.com/report/9316555)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Vegetation encroaching onto footpath, 18th April :- [9316109](https://www.fixmystreet.com/report/9316109)
 - Bed parts flytipped, 18th April :- [9315949](https://www.fixmystreet.com/report/9315949)
 - Bicycle dumped in undergrowth, 18th April :- [9315768](https://www.fixmystreet.com/report/9315768)
-- Small coffee table inconsiderately dumped on the corner of Marsh Drive directly outside 5 Marsh Gardens, 18th April :- [9315507](https://www.fixmystreet.com/report/9315507)
-- Fly tipping, 18th April :- [9315215](https://www.fixmystreet.com/report/9315215)
-- Wobbly paving slabs outside 10 SRN, 18th April :- [9315102](https://www.fixmystreet.com/report/9315102)
-- A pair of holes, axle width apart, 18th April :- [9315068](https://www.fixmystreet.com/report/9315068)
-- Large pothole in road, 18th April :- [9315047](https://www.fixmystreet.com/report/9315047)
-- Potholes all along the road, 18th April :- [9314826](https://www.fixmystreet.com/report/9314826)
 
 <!-- fix_marker ends -->

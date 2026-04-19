@@ -12,10 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Volunteers celebrate ownership of meadows ([13 hours ago](https://www.bbc.com/news/articles/cn43d2xex8po?at_medium=RSS&at_campaign=rss))
-- AI part of £3.4m project to 'modernise' authority ([19 hours ago](https://www.bbc.com/news/articles/c1l9yqn7n01o?at_medium=RSS&at_campaign=rss))
-- Veteran who did not talk and slept outside remembered ([22 hours ago](https://www.bbc.com/news/articles/ckgxx6346r9o?at_medium=RSS&at_campaign=rss))
-- 'Van dweller eviction' and 'new hope for lido' ([23 hours ago](https://www.bbc.com/news/articles/cde54462d9go?at_medium=RSS&at_campaign=rss))
+- What patriotism means to people in the West ([51 minutes ago](https://www.bbc.com/news/articles/c3exx3gpv81o?at_medium=RSS&at_campaign=rss))
+- In pictures: Giant fish and jousting engagement ([57 minutes ago](https://www.bbc.com/news/articles/c36r3349p9ro?at_medium=RSS&at_campaign=rss))
+- Volunteers celebrate ownership of meadows ([15 hours ago](https://www.bbc.com/news/articles/cn43d2xex8po?at_medium=RSS&at_campaign=rss))
+- AI part of £3.4m project to 'modernise' authority ([20 hours ago](https://www.bbc.com/news/articles/c1l9yqn7n01o?at_medium=RSS&at_campaign=rss))
+- Veteran who did not talk and slept outside remembered ([1 days ago](https://www.bbc.com/news/articles/ckgxx6346r9o?at_medium=RSS&at_campaign=rss))
+- 'Van dweller eviction' and 'new hope for lido' ([1 days ago](https://www.bbc.com/news/articles/cde54462d9go?at_medium=RSS&at_campaign=rss))
 - Motorcyclist dies after crash on A-road ([1 days ago](https://www.bbc.com/news/articles/cp38x1zq5ljo?at_medium=RSS&at_campaign=rss))
 - Six more jailed after £3.4m luxury car theft spree ([1 days ago](https://www.bbc.com/news/articles/ce9mpl9x92po?at_medium=RSS&at_campaign=rss))
 - Man 'repeatedly tried to assault girl, 17, on bus' ([1 days ago](https://www.bbc.com/news/articles/c2k32q830kpo?at_medium=RSS&at_campaign=rss))
@@ -25,9 +27,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Fish cost forces chippy to up prices to stay open ([2 days ago](https://www.bbc.com/news/articles/c04xvwp10n2o?at_medium=RSS&at_campaign=rss))
 - Rising value of Pokémon cards sparks smash and grab crime spree ([2 days ago](https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss))
 - 'Increasing frustration' over bridge closure ([2 days ago](https://www.bbc.com/news/articles/cy4118v9g1ko?at_medium=RSS&at_campaign=rss))
-- Jail for men who helped steal £3m of luxury cars ([2 days ago](https://www.bbc.com/news/articles/cn9qqrj21wgo?at_medium=RSS&at_campaign=rss))
 - Ex-cricketer's medal collection sells for £74k ([2 days ago](https://www.bbc.com/news/articles/cjw885j5ze8o?at_medium=RSS&at_campaign=rss))
-- New 'accessible' process for grammar school entry ([2 days ago](https://www.bbc.com/news/articles/cy01185ypdwo?at_medium=RSS&at_campaign=rss))
 - Tributes paid to 'kindest' man who died after punch ([2 days ago](https://www.bbc.com/news/articles/c74vdqy744po?at_medium=RSS&at_campaign=rss))
 - Cheltenham venues adopt new ID policy ([2 days ago](https://gloucesternewscentre.co.uk/cheltenham-venues-adopt-new-id-policy/))
 - University staff strike over pay dispute ([2 days ago](https://gloucesternewscentre.co.uk/university-staff-strike-over-pay-dispute/))
@@ -55,8 +55,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham mum to run London Marathon then 100 miles home in memory of friend ([26 days ago](https://gloucesternewscentre.co.uk/cheltenham-mum-to-run-london-marathon-then-100-miles-home-in-memory-of-friend/))
 - Calls for citizens’ assembly to have say future of airport ([26 days ago](https://gloucesternewscentre.co.uk/calls-for-citizens-assembly-to-have-say-future-of-airport/))
 - Don’t miss your right to vote, register by Monday 20 April 2026 ([26 days ago](https://www.cheltenham.gov.uk/news/article/3114/dont_miss_your_right_to_vote_register_by_monday_20_april_2026))
-- New countywide bus map launched for Gloucestershire ​ ([28 days ago](https://gloucesternewscentre.co.uk/new-countywide-bus-map-launched-for-gloucestershire/))
-- Four arrests at Cheltenham Festival despite record crowds ([28 days ago](https://gloucesternewscentre.co.uk/four-arrests-at-cheltenham-festival-despite-record-crowds/))
+- New countywide bus map launched for Gloucestershire ​ ([29 days ago](https://gloucesternewscentre.co.uk/new-countywide-bus-map-launched-for-gloucestershire/))
+- Four arrests at Cheltenham Festival despite record crowds ([29 days ago](https://gloucesternewscentre.co.uk/four-arrests-at-cheltenham-festival-despite-record-crowds/))
 - Councils pivot to support airport businesses as concerns grow over sale fiasco ([29 days ago](https://gloucesternewscentre.co.uk/councils-pivot-to-support-airport-businesses-as-concerns-grow-over-sale-fiasco/))
 
 <!-- news_marker ends -->

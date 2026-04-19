@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 18 April 2026
+## On Sunday, 19 April 2026
 
-- The average temperature today is 7.38˚C,
-- With highs of 7.38˚C and lows of 7.38˚C,
-- It may feel like 6.47˚C with clear sky
-- The wind speed is 1.67m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 89%
+- The average temperature today is 4.84˚C,
+- With highs of 6.09˚C and lows of 3.71˚C,
+- It may feel like 4.84˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 93%
 - The sun will rise at 05:03 and set at 19:11
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SUBSTANTIAL
 
 - Current threat level: SUBSTANTIAL
-- It has been 774 days since the last change (2024-03-05)
+- It has been 775 days since the last change (2024-03-05)
 - Details: The current national threat level is SUBSTANTIAL. The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
 
 <!-- threat_marker ends -->

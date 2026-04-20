@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 20 April 2026
 
-- The average temperature today is 7.39˚C,
-- With highs of 7.39˚C and lows of 7.39˚C,
-- It may feel like 6.19˚C with broken clouds
-- The wind speed is 1.96m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 85%
+- The average temperature today is 12.08˚C,
+- With highs of 12.51˚C and lows of 11.5˚C,
+- It may feel like 11.01˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 64%
 - The sun will rise at 05:01 and set at 19:12
 
 <!-- weather_marker ends -->

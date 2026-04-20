@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish from bags left by commercial premicies, 20th April :- [9326730](https://www.fixmystreet.com/report/9326730)
 - Several Signs have been hit by a vehicle and are now flat - including the WARNING CHEVRONS!!, 20th April :- [9326551](https://www.fixmystreet.com/report/9326551)
 - The bus stop sign is missing, it was knocked down years ago, 20th April :- [9326547](https://www.fixmystreet.com/report/9326547)
 - Plastic tipped in a tree, 20th April :- [9326303](https://www.fixmystreet.com/report/9326303)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 20th April :- [9324651](https://www.fixmystreet.com/report/9324651)
 - TMC - Defects - Other FW6  Surface problem, 20th April :- [9324635](https://www.fixmystreet.com/report/9324635)
 - TMC - Defects - Footways Slabs problem, 20th April :- [9324633](https://www.fixmystreet.com/report/9324633)
-- TMC - Defects - Other FW6  Surface problem, 20th April :- [9324632](https://www.fixmystreet.com/report/9324632)
 
 <!-- fix_marker ends -->

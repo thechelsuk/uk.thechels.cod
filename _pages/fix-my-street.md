@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several Signs have been hit by a vehicle and are now flat - including the WARNING CHEVRONS!!, 20th April :- [9326551](https://www.fixmystreet.com/report/9326551)
+- The bus stop sign is missing, it was knocked down years ago, 20th April :- [9326547](https://www.fixmystreet.com/report/9326547)
+- Plastic tipped in a tree, 20th April :- [9326303](https://www.fixmystreet.com/report/9326303)
+- Flytipped bags, 20th April :- [9326297](https://www.fixmystreet.com/report/9326297)
 - Several potholes not repaired, 20th April :- [9326086](https://www.fixmystreet.com/report/9326086)
 - Flytipped item, 20th April :- [9325726](https://www.fixmystreet.com/report/9325726)
 - A number of pot holes inthe middle of the carriage way, getting bigger and deeper., 20th April :- [9325675](https://www.fixmystreet.com/report/9325675)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 20th April :- [9324635](https://www.fixmystreet.com/report/9324635)
 - TMC - Defects - Footways Slabs problem, 20th April :- [9324633](https://www.fixmystreet.com/report/9324633)
 - TMC - Defects - Other FW6  Surface problem, 20th April :- [9324632](https://www.fixmystreet.com/report/9324632)
-- TMC - Defects - Other FW6  Surface problem, 20th April :- [9324634](https://www.fixmystreet.com/report/9324634)
-- TMC - Defects - Covers, Gratings & Frames problem, 20th April :- [9324636](https://www.fixmystreet.com/report/9324636)
-- TMC - Defects -CW6 Potholes  problem, 20th April :- [9324421](https://www.fixmystreet.com/report/9324421)
-- Graffiti, 20th April :- [9324294](https://www.fixmystreet.com/report/9324294)
 
 <!-- fix_marker ends -->

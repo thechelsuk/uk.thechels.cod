@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Big pothole as you go around a bend, 20th April :- [9320661](https://www.fixmystreet.com/report/9320661)
+- Deep pothole outside 11 Lambert Gardens, 20th April :- [9320579](https://www.fixmystreet.com/report/9320579)
 - Aggressive landowner, 20th April :- [9320365](https://www.fixmystreet.com/report/9320365)
 - Multiple large potholes outside junction to estate, 19th April :- [9320127](https://www.fixmystreet.com/report/9320127)
 - Uneven pavement. Mother in law tripped requiring an ambulance, 19th April :- [9319894](https://www.fixmystreet.com/report/9319894)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Damming of brook, 19th April :- [9318394](https://www.fixmystreet.com/report/9318394)
 - Gatepost still rotten. Gate could easily fall on a child., 19th April :- [9318327](https://www.fixmystreet.com/report/9318327)
 - Tagging on bin Winston Churchill Memorial Garden, 19th April :- [9318088](https://www.fixmystreet.com/report/9318088)
-- Flytipped tyre Winston Churchill Memorial Garden, 19th April :- [9318014](https://www.fixmystreet.com/report/9318014)
-- Flytipped bolster Winston Churchill Memorial Garden, 19th April :- [9317996](https://www.fixmystreet.com/report/9317996)
 
 <!-- fix_marker ends -->

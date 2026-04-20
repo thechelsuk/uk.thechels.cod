@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Three men arrested after burglary and police chase ([11 hours ago](https://www.bbc.com/news/articles/cr71kn7n2ezo?at_medium=RSS&at_campaign=rss))
-- Pool opens a month early due to demand ([11 hours ago](https://www.bbc.com/news/articles/cwyd2r2r4nwo?at_medium=RSS&at_campaign=rss))
-- What patriotism means to people in the West ([16 hours ago](https://www.bbc.com/news/articles/c3exx3gpv81o?at_medium=RSS&at_campaign=rss))
-- In pictures: Giant fish and jousting engagement ([16 hours ago](https://www.bbc.com/news/articles/c36r3349p9ro?at_medium=RSS&at_campaign=rss))
+- Three men arrested after burglary and police chase ([13 hours ago](https://www.bbc.com/news/articles/cr71kn7n2ezo?at_medium=RSS&at_campaign=rss))
+- Pool opens a month early due to demand ([14 hours ago](https://www.bbc.com/news/articles/cwyd2r2r4nwo?at_medium=RSS&at_campaign=rss))
+- What patriotism means to people in the West ([18 hours ago](https://www.bbc.com/news/articles/c3exx3gpv81o?at_medium=RSS&at_campaign=rss))
+- In pictures: Giant fish and jousting engagement ([19 hours ago](https://www.bbc.com/news/articles/c36r3349p9ro?at_medium=RSS&at_campaign=rss))
 - Volunteers celebrate ownership of meadows ([1 days ago](https://www.bbc.com/news/articles/cn43d2xex8po?at_medium=RSS&at_campaign=rss))
 - AI part of £3.4m project to 'modernise' authority ([1 days ago](https://www.bbc.com/news/articles/c1l9yqn7n01o?at_medium=RSS&at_campaign=rss))
 - Veteran who did not talk and slept outside remembered ([1 days ago](https://www.bbc.com/news/articles/ckgxx6346r9o?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Aggressive landowner, 20th April :- [9320365](https://www.fixmystreet.com/report/9320365)
 - Multiple large potholes outside junction to estate, 19th April :- [9320127](https://www.fixmystreet.com/report/9320127)
 - Uneven pavement. Mother in law tripped requiring an ambulance, 19th April :- [9319894](https://www.fixmystreet.com/report/9319894)
 - Flytipping, 19th April :- [9319791](https://www.fixmystreet.com/report/9319791)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tagging on bin Winston Churchill Memorial Garden, 19th April :- [9318088](https://www.fixmystreet.com/report/9318088)
 - Flytipped tyre Winston Churchill Memorial Garden, 19th April :- [9318014](https://www.fixmystreet.com/report/9318014)
 - Flytipped bolster Winston Churchill Memorial Garden, 19th April :- [9317996](https://www.fixmystreet.com/report/9317996)
-- Trapped birds - welfare issue, 19th April :- [9317824](https://www.fixmystreet.com/report/9317824)
 
 <!-- fix_marker ends -->

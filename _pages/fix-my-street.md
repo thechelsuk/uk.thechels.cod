@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes not repaired, 20th April :- [9326086](https://www.fixmystreet.com/report/9326086)
+- Flytipped item, 20th April :- [9325726](https://www.fixmystreet.com/report/9325726)
 - A number of pot holes inthe middle of the carriage way, getting bigger and deeper., 20th April :- [9325675](https://www.fixmystreet.com/report/9325675)
 - Potholes in road - endbof hall road, 20th April :- [9325583](https://www.fixmystreet.com/report/9325583)
 - Traffic lights getting stuck on red one way multiple times a day. Causing people to drive very dangerously and get angry, beeping horns. Big problem that needs fixing, 20th April :- [9325576](https://www.fixmystreet.com/report/9325576)
@@ -22,12 +24,10 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 20th April :- [9324651](https://www.fixmystreet.com/report/9324651)
 - TMC - Defects - Other FW6  Surface problem, 20th April :- [9324635](https://www.fixmystreet.com/report/9324635)
 - TMC - Defects - Footways Slabs problem, 20th April :- [9324633](https://www.fixmystreet.com/report/9324633)
-- TMC - Defects - Covers, Gratings & Frames problem, 20th April :- [9324636](https://www.fixmystreet.com/report/9324636)
 - TMC - Defects - Other FW6  Surface problem, 20th April :- [9324632](https://www.fixmystreet.com/report/9324632)
 - TMC - Defects - Other FW6  Surface problem, 20th April :- [9324634](https://www.fixmystreet.com/report/9324634)
+- TMC - Defects - Covers, Gratings & Frames problem, 20th April :- [9324636](https://www.fixmystreet.com/report/9324636)
 - TMC - Defects -CW6 Potholes  problem, 20th April :- [9324421](https://www.fixmystreet.com/report/9324421)
 - Graffiti, 20th April :- [9324294](https://www.fixmystreet.com/report/9324294)
-- TMC - Defects -other CW6 problem, 20th April :- [9324417](https://www.fixmystreet.com/report/9324417)
-- TMC - Defects -CW6 Potholes  problem, 20th April :- [9324416](https://www.fixmystreet.com/report/9324416)
 
 <!-- fix_marker ends -->

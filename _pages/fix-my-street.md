@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees require trimming., 21st April :- [9327438](https://www.fixmystreet.com/report/9327438)
+- Tyres, 21st April :- [9327205](https://www.fixmystreet.com/report/9327205)
+- Signs littering Street Light posts traffic lights, 21st April :- [9327149](https://www.fixmystreet.com/report/9327149)
+- Chair Dumped, 21st April :- [9327106](https://www.fixmystreet.com/report/9327106)
+- Road Arrow, 21st April :- [9327101](https://www.fixmystreet.com/report/9327101)
 - Chair at the Traffic light junction, 21st April :- [9327036](https://www.fixmystreet.com/report/9327036)
 - Still causing severe delays on the main route to gloucester business park - should be disabled between 8am and 9am at the very least, 21st April :- [9326913](https://www.fixmystreet.com/report/9326913)
 - Rubbish from bags left by commercial premicies, 20th April :- [9326730](https://www.fixmystreet.com/report/9326730)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Temporary traffic lights faulty, 20th April :- [9325564](https://www.fixmystreet.com/report/9325564)
 - Lots of potholes you didn't fix, 20th April :- [9325560](https://www.fixmystreet.com/report/9325560)
 - Multiple pot holes end of hall road. Needs resurfacing, 20th April :- [9325556](https://www.fixmystreet.com/report/9325556)
-- Multiple pot holes end of hall road. Needs resurfacing, 20th April :- [9325553](https://www.fixmystreet.com/report/9325553)
-- Multiple briken paving slabs, 20th April :- [9325541](https://www.fixmystreet.com/report/9325541)
-- Approximately 3ft x 4ft buckled payment. Caused by delivery vehicle, 20th April :- [9324587](https://www.fixmystreet.com/report/9324587)
-- Dead fox by pavement, 20th April :- [9324576](https://www.fixmystreet.com/report/9324576)
-- TMC - Defects - Road Markings problem, 20th April :- [9324651](https://www.fixmystreet.com/report/9324651)
 
 <!-- fix_marker ends -->

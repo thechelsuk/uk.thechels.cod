@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Still causing severe delays on the main route to gloucester business park - should be disabled between 8am and 9am at the very least, 21st April :- [9326913](https://www.fixmystreet.com/report/9326913)
 - Rubbish from bags left by commercial premicies, 20th April :- [9326730](https://www.fixmystreet.com/report/9326730)
 - Several Signs have been hit by a vehicle and are now flat - including the WARNING CHEVRONS!!, 20th April :- [9326551](https://www.fixmystreet.com/report/9326551)
 - The bus stop sign is missing, it was knocked down years ago, 20th April :- [9326547](https://www.fixmystreet.com/report/9326547)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dead fox by pavement, 20th April :- [9324576](https://www.fixmystreet.com/report/9324576)
 - TMC - Defects - Road Markings problem, 20th April :- [9324651](https://www.fixmystreet.com/report/9324651)
 - TMC - Defects - Other FW6  Surface problem, 20th April :- [9324635](https://www.fixmystreet.com/report/9324635)
-- TMC - Defects - Footways Slabs problem, 20th April :- [9324633](https://www.fixmystreet.com/report/9324633)
 
 <!-- fix_marker ends -->

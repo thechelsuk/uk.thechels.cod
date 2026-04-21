@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Monday, 20 April 2026
+## On Tuesday, 21 April 2026
 
-- The average temperature today is 6.4˚C,
-- With highs of 6.4˚C and lows of 6.4˚C,
-- It may feel like 4.31˚C with clear sky
-- The wind speed is 2.82m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 77%
+- The average temperature today is 5.47˚C,
+- With highs of 5.47˚C and lows of 4.84˚C,
+- It may feel like 3.2˚C with clear sky
+- The wind speed is 2.83m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 85%
 - The sun will rise at 04:59 and set at 19:14
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SUBSTANTIAL
 
 - Current threat level: SUBSTANTIAL
-- It has been 776 days since the last change (2024-03-05)
+- It has been 777 days since the last change (2024-03-05)
 - Details: The current national threat level is SUBSTANTIAL. The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
 
 <!-- threat_marker ends -->

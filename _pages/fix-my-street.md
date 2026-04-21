@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped items, 21st April :- [9332612](https://www.fixmystreet.com/report/9332612)
+- Tree now leaning at a 30 degree angle and loose - it will fall in a high wind, 21st April :- [9332485](https://www.fixmystreet.com/report/9332485)
+- Broken glass in road, 21st April :- [9332391](https://www.fixmystreet.com/report/9332391)
+- Relentless Illegal Parking, 21st April :- [9332378](https://www.fixmystreet.com/report/9332378)
+- Deep gouge on roundabout surface, 21st April :- [9332304](https://www.fixmystreet.com/report/9332304)
+- Road Closure barriers left on narrow road with no turning points, 21st April :- [9332223](https://www.fixmystreet.com/report/9332223)
 - Lots of pot holes coming off mini roundabouts on Church Road, 21st April :- [9332088](https://www.fixmystreet.com/report/9332088)
 - Large pot holes/multiple potholes where Grove Road meets Symphony road, 21st April :- [9332001](https://www.fixmystreet.com/report/9332001)
 - Huge pothole at the junction coming off the roundabout, 21st April :- [9331976](https://www.fixmystreet.com/report/9331976)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Flytipped items, 21st April :- [9331597](https://www.fixmystreet.com/report/9331597)
 - Unpermitted roadworks problem, 21st April :- [9331550](https://www.fixmystreet.com/report/9331550)
 - Very deep problem. Danger to cyclists, 21st April :- [9331167](https://www.fixmystreet.com/report/9331167)
-- TMC - Defects -CW6 Potholes  problem, 21st April :- [9331203](https://www.fixmystreet.com/report/9331203)
-- TMC - Defects -CW6 Potholes  problem, 21st April :- [9331204](https://www.fixmystreet.com/report/9331204)
-- TMC - Defects -CW6 Potholes  problem, 21st April :- [9331197](https://www.fixmystreet.com/report/9331197)
-- TMC - Defects -CW6 Potholes  problem, 21st April :- [9331196](https://www.fixmystreet.com/report/9331196)
-- TMC - Defects -CW6 Potholes  problem, 21st April :- [9331195](https://www.fixmystreet.com/report/9331195)
-- TMC - Defects -CW6 Potholes  problem, 21st April :- [9331186](https://www.fixmystreet.com/report/9331186)
 
 <!-- fix_marker ends -->

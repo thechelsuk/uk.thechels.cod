@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road barriers dumped for over a month. Newcourt Rd, 21st April :- [9333048](https://www.fixmystreet.com/report/9333048)
+- 3” of leaf mould in the gutters at the back of Sainsbury’s supermarket on Newcourt RD, 21st April :- [9333011](https://www.fixmystreet.com/report/9333011)
 - No street lights working at all, 21st April :- [9332817](https://www.fixmystreet.com/report/9332817)
 - Swing missing bar in middle- Longlands Park, 21st April :- [9332805](https://www.fixmystreet.com/report/9332805)
 - 4 street lights out, 21st April :- [9332788](https://www.fixmystreet.com/report/9332788)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - No proper Barrier to stop fall into water course, 21st April :- [9331943](https://www.fixmystreet.com/report/9331943)
 - Signage abandoned from Cycle Lane Works, 21st April :- [9331908](https://www.fixmystreet.com/report/9331908)
 - Sandbag Sign Weight abandoned for Cycle Lane Works, 21st April :- [9331899](https://www.fixmystreet.com/report/9331899)
-- Signage abandoned for Cycle Lane Works, 21st April :- [9331895](https://www.fixmystreet.com/report/9331895)
-- Tree causing issues with house next to it, 21st April :- [9331585](https://www.fixmystreet.com/report/9331585)
 
 <!-- fix_marker ends -->

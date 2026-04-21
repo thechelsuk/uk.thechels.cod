@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 21 April 2026
 
-- The average temperature today is 7.27˚C,
-- With highs of 7.27˚C and lows of 7.27˚C,
-- It may feel like 4.58˚C with scattered clouds
-- The wind speed is 4.13m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 88%
+- The average temperature today is 10.36˚C,
+- With highs of 10.94˚C and lows of 8.75˚C,
+- It may feel like 9.23˚C with broken clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 68%
 - The sun will rise at 04:59 and set at 19:14
 
 <!-- weather_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose copings on wall, 22nd April :- [9339098](https://www.fixmystreet.com/report/9339098)
+- Sandbag left behind, 22nd April :- [9339079](https://www.fixmystreet.com/report/9339079)
+- Broken glass on path, 22nd April :- [9339076](https://www.fixmystreet.com/report/9339076)
 - Weeds etc around safety barrier adjacent to Brockworth footpath 57 on Ermin st, 22nd April :- [9338441](https://www.fixmystreet.com/report/9338441)
 - Wide area of depression in pavement which is showing significant cracking- suggesting underlying issue, 22nd April :- [9338396](https://www.fixmystreet.com/report/9338396)
 - Fly tipping in ditch, 22nd April :- [9338333](https://www.fixmystreet.com/report/9338333)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 22nd April :- [9337029](https://www.fixmystreet.com/report/9337029)
 - Large, deep pothole on Hewlett rd outside no. 162. Urgent, dangerous just by a prep school., 22nd April :- [9336735](https://www.fixmystreet.com/report/9336735)
 - Dangerous item left near brook, 22nd April :- [9336677](https://www.fixmystreet.com/report/9336677)
-- TMC - Defects - Kerbs and Channels problem, 22nd April :- [9336817](https://www.fixmystreet.com/report/9336817)
-- TMC - Defects - Other problem, 22nd April :- [9336816](https://www.fixmystreet.com/report/9336816)
-- TMC - Defects - Other problem, 22nd April :- [9336815](https://www.fixmystreet.com/report/9336815)
 
 <!-- fix_marker ends -->

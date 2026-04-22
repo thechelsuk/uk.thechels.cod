@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeds etc around safety barrier adjacent to Brockworth footpath 57 on Ermin st, 22nd April :- [9338441](https://www.fixmystreet.com/report/9338441)
+- Wide area of depression in pavement which is showing significant cracking- suggesting underlying issue, 22nd April :- [9338396](https://www.fixmystreet.com/report/9338396)
+- Fly tipping in ditch, 22nd April :- [9338333](https://www.fixmystreet.com/report/9338333)
+- Pothole outside Glenhurst Villa, 22nd April :- [9338297](https://www.fixmystreet.com/report/9338297)
 - Dumping of clothes and household goods, 22nd April :- [9338108](https://www.fixmystreet.com/report/9338108)
 - Post or sign leaning slightly (less than 20 degrees) problem, 22nd April :- [9337869](https://www.fixmystreet.com/report/9337869)
 - Tree is damaged problem, 22nd April :- [9337483](https://www.fixmystreet.com/report/9337483)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Kerbs and Channels problem, 22nd April :- [9336817](https://www.fixmystreet.com/report/9336817)
 - TMC - Defects - Other problem, 22nd April :- [9336816](https://www.fixmystreet.com/report/9336816)
 - TMC - Defects - Other problem, 22nd April :- [9336815](https://www.fixmystreet.com/report/9336815)
-- TMC - Defects -CW10 Potholes problem, 22nd April :- [9336801](https://www.fixmystreet.com/report/9336801)
-- TMC - Defects -CW10 Potholes problem, 22nd April :- [9336601](https://www.fixmystreet.com/report/9336601)
-- TMC - Defects -CW10 Potholes problem, 22nd April :- [9336597](https://www.fixmystreet.com/report/9336597)
-- Bike that is padlocked to road sign needs removing as its a potential health and safety risk, 22nd April :- [9336487](https://www.fixmystreet.com/report/9336487)
 
 <!-- fix_marker ends -->

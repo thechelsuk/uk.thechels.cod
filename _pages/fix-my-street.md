@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumping of clothes and household goods, 22nd April :- [9338108](https://www.fixmystreet.com/report/9338108)
+- Post or sign leaning slightly (less than 20 degrees) problem, 22nd April :- [9337869](https://www.fixmystreet.com/report/9337869)
 - Tree is damaged problem, 22nd April :- [9337483](https://www.fixmystreet.com/report/9337483)
 - Road closure signs at junction and stating closed 27th April but the road is closed now., 22nd April :- [9337429](https://www.fixmystreet.com/report/9337429)
 - Resurfacing work is taking place in Swindon Lane. This has involved relaying and raising drain covers as well as tarmacing. During these processes tarmac, today, has been laid to such a depth that it reaches the top of a kerb stone as shown in the photographs. There is therefore no gully at the edge of the road to take surface water. The gully is therefore blocked and it is inevitable that surface water will flow down the drive to this house causing a flooding issue. There is a minimal gap between the new road surface and the other kerb stones adjacent. While contractors are on site, it seems sensible for these issues to be dealt now., 22nd April :- [9337358](https://www.fixmystreet.com/report/9337358)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 22nd April :- [9336601](https://www.fixmystreet.com/report/9336601)
 - TMC - Defects -CW10 Potholes problem, 22nd April :- [9336597](https://www.fixmystreet.com/report/9336597)
 - Bike that is padlocked to road sign needs removing as its a potential health and safety risk, 22nd April :- [9336487](https://www.fixmystreet.com/report/9336487)
-- TMC - Defects -CW10 Potholes problem, 22nd April :- [9336595](https://www.fixmystreet.com/report/9336595)
-- TMC - Defects -CW10 Potholes problem, 22nd April :- [9336593](https://www.fixmystreet.com/report/9336593)
 
 <!-- fix_marker ends -->

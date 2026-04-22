@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 22 April 2026
 
-- The average temperature today is 5.77˚C,
-- With highs of 5.77˚C and lows of 5.77˚C,
-- It may feel like 2.16˚C with clear sky
-- The wind speed is 5.3m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 80%
+- The average temperature today is 5.43˚C,
+- With highs of 5.43˚C and lows of 5.43˚C,
+- It may feel like 2.05˚C with clear sky
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 89%
 - The sun will rise at 04:57 and set at 19:16
 
 <!-- weather_marker ends -->

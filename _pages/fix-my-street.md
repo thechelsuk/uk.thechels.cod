@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trolley abandoned, 22nd April :- [9339454](https://www.fixmystreet.com/report/9339454)
+- The whole road is full of potholes he needs re surfacing, 22nd April :- [9339308](https://www.fixmystreet.com/report/9339308)
 - Loose copings on wall, 22nd April :- [9339098](https://www.fixmystreet.com/report/9339098)
 - Sandbag left behind, 22nd April :- [9339079](https://www.fixmystreet.com/report/9339079)
 - Broken glass on path, 22nd April :- [9339076](https://www.fixmystreet.com/report/9339076)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - You tried to fix this yesterday but it is still very bad, very bumpy and will come apart in the next few weeks, please have a look at it yourself thanks, 22nd April :- [9336966](https://www.fixmystreet.com/report/9336966)
 - TMC - Defects -other CW6 problem, 22nd April :- [9337028](https://www.fixmystreet.com/report/9337028)
 - TMC - Defects -other CW6 problem, 22nd April :- [9337029](https://www.fixmystreet.com/report/9337029)
-- Large, deep pothole on Hewlett rd outside no. 162. Urgent, dangerous just by a prep school., 22nd April :- [9336735](https://www.fixmystreet.com/report/9336735)
-- Dangerous item left near brook, 22nd April :- [9336677](https://www.fixmystreet.com/report/9336677)
 
 <!-- fix_marker ends -->

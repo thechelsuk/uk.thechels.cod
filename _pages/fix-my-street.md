@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 22nd April :- [9333720](https://www.fixmystreet.com/report/9333720)
+- Broken/cracked manhole cover reported May 2025, 22nd April :- [9333461](https://www.fixmystreet.com/report/9333461)
+- TMC - Defects - Footways Slabs problem, 22nd April :- [9333557](https://www.fixmystreet.com/report/9333557)
+- TMC - Defects -CW6 Potholes  problem, 22nd April :- [9333556](https://www.fixmystreet.com/report/9333556)
+- TMC - Defects - Footways Slabs problem, 22nd April :- [9333554](https://www.fixmystreet.com/report/9333554)
+- TMC - Defects - Footways Slabs problem, 22nd April :- [9333553](https://www.fixmystreet.com/report/9333553)
+- TMC - Defects - Other FW6  Surface problem, 22nd April :- [9333555](https://www.fixmystreet.com/report/9333555)
+- TMC - Defects - Footways Slabs problem, 22nd April :- [9333551](https://www.fixmystreet.com/report/9333551)
+- TMC - Defects - Footways Slabs problem, 22nd April :- [9333552](https://www.fixmystreet.com/report/9333552)
 - Road barriers dumped for over a month. Newcourt Rd, 21st April :- [9333048](https://www.fixmystreet.com/report/9333048)
 - 3” of leaf mould in the gutters at the back of Sainsbury’s supermarket on Newcourt RD, 21st April :- [9333011](https://www.fixmystreet.com/report/9333011)
 - No street lights working at all, 21st April :- [9332817](https://www.fixmystreet.com/report/9332817)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Tree now leaning at a 30 degree angle and loose - it will fall in a high wind, 21st April :- [9332485](https://www.fixmystreet.com/report/9332485)
 - Broken glass in road, 21st April :- [9332391](https://www.fixmystreet.com/report/9332391)
 - Relentless Illegal Parking, 21st April :- [9332378](https://www.fixmystreet.com/report/9332378)
-- Deep gouge on roundabout surface, 21st April :- [9332304](https://www.fixmystreet.com/report/9332304)
-- Road Closure barriers left on narrow road with no turning points, 21st April :- [9332223](https://www.fixmystreet.com/report/9332223)
-- Lots of pot holes coming off mini roundabouts on Church Road, 21st April :- [9332088](https://www.fixmystreet.com/report/9332088)
-- Large pot holes/multiple potholes where Grove Road meets Symphony road, 21st April :- [9332001](https://www.fixmystreet.com/report/9332001)
-- Huge pothole at the junction coming off the roundabout, 21st April :- [9331976](https://www.fixmystreet.com/report/9331976)
-- Way Marker Points Across to Wrong Field, 21st April :- [9331965](https://www.fixmystreet.com/report/9331965)
-- No proper Barrier to stop fall into water course, 21st April :- [9331943](https://www.fixmystreet.com/report/9331943)
-- Signage abandoned from Cycle Lane Works, 21st April :- [9331908](https://www.fixmystreet.com/report/9331908)
-- Sandbag Sign Weight abandoned for Cycle Lane Works, 21st April :- [9331899](https://www.fixmystreet.com/report/9331899)
 
 <!-- fix_marker ends -->

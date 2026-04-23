@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole, 23rd April :- [9344359](https://www.fixmystreet.com/report/9344359)
+- School warning sign not lined up with road. Needs to be twisted round post to be more visible, 23rd April :- [9343922](https://www.fixmystreet.com/report/9343922)
 - Pothole on throughabout, 23rd April :- [9343830](https://www.fixmystreet.com/report/9343830)
 - Epicormic growth obstructing pavement and junction visibility, 23rd April :- [9343694](https://www.fixmystreet.com/report/9343694)
 - Lower branches of small birch tree blocking view at junction, 23rd April :- [9343681](https://www.fixmystreet.com/report/9343681)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 23rd April :- [9341752](https://www.fixmystreet.com/report/9341752)
 - Parking bay obstruction, 23rd April :- [9340711](https://www.fixmystreet.com/report/9340711)
 - Stream blocked by branches in two places can be seen from bridge the one nearest bibry road., 23rd April :- [9340510](https://www.fixmystreet.com/report/9340510)
-- Metal bollard uprooted due to collision., 23rd April :- [9340329](https://www.fixmystreet.com/report/9340329)
-- Roadsigns attached to lamppost inappropriately, 23rd April :- [9340175](https://www.fixmystreet.com/report/9340175)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 23rd April :- [9342804](https://www.fixmystreet.com/report/9342804)
+- TMC - Defects -CW10 Potholes problem, 23rd April :- [9342798](https://www.fixmystreet.com/report/9342798)
+- Tree over hanging garden almost touching house, 23rd April :- [9342535](https://www.fixmystreet.com/report/9342535)
+- Base of trees overgrown, 23rd April :- [9342305](https://www.fixmystreet.com/report/9342305)
+- Multiple black bin bags, 23rd April :- [9342236](https://www.fixmystreet.com/report/9342236)
 - Unsatisfactory and incomplete repairs to pot holes, 23rd April :- [9341562](https://www.fixmystreet.com/report/9341562)
 - TMC - Defects - Vegetation problem, 23rd April :- [9341752](https://www.fixmystreet.com/report/9341752)
 - Parking bay obstruction, 23rd April :- [9340711](https://www.fixmystreet.com/report/9340711)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Sandbag left behind, 22nd April :- [9339079](https://www.fixmystreet.com/report/9339079)
 - Broken glass on path, 22nd April :- [9339076](https://www.fixmystreet.com/report/9339076)
 - Weeds etc around safety barrier adjacent to Brockworth footpath 57 on Ermin st, 22nd April :- [9338441](https://www.fixmystreet.com/report/9338441)
-- Wide area of depression in pavement which is showing significant cracking- suggesting underlying issue, 22nd April :- [9338396](https://www.fixmystreet.com/report/9338396)
-- Fly tipping in ditch, 22nd April :- [9338333](https://www.fixmystreet.com/report/9338333)
-- Pothole outside Glenhurst Villa, 22nd April :- [9338297](https://www.fixmystreet.com/report/9338297)
-- Dumping of clothes and household goods, 22nd April :- [9338108](https://www.fixmystreet.com/report/9338108)
-- Post or sign leaning slightly (less than 20 degrees) problem, 22nd April :- [9337869](https://www.fixmystreet.com/report/9337869)
 
 <!-- fix_marker ends -->

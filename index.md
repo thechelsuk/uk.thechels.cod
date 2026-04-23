@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 23 April 2026
 
-- The average temperature today is 7.93˚C,
-- With highs of 8.31˚C and lows of 6.58˚C,
-- It may feel like 5.67˚C with few clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1030hPa and humidity is 83%
+- The average temperature today is 11.64˚C,
+- With highs of 11.64˚C and lows of 11.64˚C,
+- It may feel like 10.77˚C with few clouds
+- The wind speed is 6.07m/s and visibility is 10000m
+- The pressure is 1029hPa and humidity is 73%
 - The sun will rise at 04:54 and set at 19:18
 
 <!-- weather_marker ends -->

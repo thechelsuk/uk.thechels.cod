@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Parking bay obstruction, 23rd April :- [9340711](https://www.fixmystreet.com/report/9340711)
+- Stream blocked by branches in two places can be seen from bridge the one nearest bibry road., 23rd April :- [9340510](https://www.fixmystreet.com/report/9340510)
+- Metal bollard uprooted due to collision., 23rd April :- [9340329](https://www.fixmystreet.com/report/9340329)
+- Roadsigns attached to lamppost inappropriately, 23rd April :- [9340175](https://www.fixmystreet.com/report/9340175)
 - The owner of 33 Sandford Street has repaired pavement with concrete and filler. Then painted it with black paint, 23rd April :- [9340114](https://www.fixmystreet.com/report/9340114)
 - Tgere are several potgoles along Ellison Rd in Cheltenham. 1 very large pothole at the top with the junction with Dowty Road, 23rd April :- [9339890](https://www.fixmystreet.com/report/9339890)
 - Under your ref. 8290956, I reported that there had been two 30 mph signs at this site, but one disappeared. You planned to set up a second sign to fix the issue. Last week, your workers removed the existing sign and replaced it with a new sign. So there is still only one sign and the issue has not been resolved. It seems as though there's been a communication problem., 23rd April :- [9339866](https://www.fixmystreet.com/report/9339866)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 22nd April :- [9337869](https://www.fixmystreet.com/report/9337869)
 - Tree is damaged problem, 22nd April :- [9337483](https://www.fixmystreet.com/report/9337483)
 - Road closure signs at junction and stating closed 27th April but the road is closed now., 22nd April :- [9337429](https://www.fixmystreet.com/report/9337429)
-- Resurfacing work is taking place in Swindon Lane. This has involved relaying and raising drain covers as well as tarmacing. During these processes tarmac, today, has been laid to such a depth that it reaches the top of a kerb stone as shown in the photographs. There is therefore no gully at the edge of the road to take surface water. The gully is therefore blocked and it is inevitable that surface water will flow down the drive to this house causing a flooding issue. There is a minimal gap between the new road surface and the other kerb stones adjacent. While contractors are on site, it seems sensible for these issues to be dealt now., 22nd April :- [9337358](https://www.fixmystreet.com/report/9337358)
-- Some fix but not all holes have been repaired - makes no sense to not repair all. They still damage the car, 22nd April :- [9337097](https://www.fixmystreet.com/report/9337097)
-- Post with the parking restrictions details was removed months ago and has not been replaced, leading to vehicles (including vans) parking for days at a time., 22nd April :- [9337022](https://www.fixmystreet.com/report/9337022)
-- TMC - Defects - Other problem, 22nd April :- [9337247](https://www.fixmystreet.com/report/9337247)
 
 <!-- fix_marker ends -->

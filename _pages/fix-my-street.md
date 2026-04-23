@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unsatisfactory and incomplete repairs to pot holes, 23rd April :- [9341562](https://www.fixmystreet.com/report/9341562)
+- TMC - Defects - Vegetation problem, 23rd April :- [9341752](https://www.fixmystreet.com/report/9341752)
 - Parking bay obstruction, 23rd April :- [9340711](https://www.fixmystreet.com/report/9340711)
 - Stream blocked by branches in two places can be seen from bridge the one nearest bibry road., 23rd April :- [9340510](https://www.fixmystreet.com/report/9340510)
 - Metal bollard uprooted due to collision., 23rd April :- [9340329](https://www.fixmystreet.com/report/9340329)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole outside Glenhurst Villa, 22nd April :- [9338297](https://www.fixmystreet.com/report/9338297)
 - Dumping of clothes and household goods, 22nd April :- [9338108](https://www.fixmystreet.com/report/9338108)
 - Post or sign leaning slightly (less than 20 degrees) problem, 22nd April :- [9337869](https://www.fixmystreet.com/report/9337869)
-- Tree is damaged problem, 22nd April :- [9337483](https://www.fixmystreet.com/report/9337483)
-- Road closure signs at junction and stating closed 27th April but the road is closed now., 22nd April :- [9337429](https://www.fixmystreet.com/report/9337429)
 
 <!-- fix_marker ends -->

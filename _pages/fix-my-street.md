@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Manhole cover loose on Redmarley Road, near pedestrian crossing, 23rd April :- [9344784](https://www.fixmystreet.com/report/9344784)
+- Huge deep pothole, 23rd April :- [9344512](https://www.fixmystreet.com/report/9344512)
+- Causing damage to cars even after closing the road to 'fix', 23rd April :- [9344480](https://www.fixmystreet.com/report/9344480)
 - Pot hole, 23rd April :- [9344359](https://www.fixmystreet.com/report/9344359)
 - School warning sign not lined up with road. Needs to be twisted round post to be more visible, 23rd April :- [9343922](https://www.fixmystreet.com/report/9343922)
 - Pothole on throughabout, 23rd April :- [9343830](https://www.fixmystreet.com/report/9343830)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Base of trees overgrown, 23rd April :- [9342305](https://www.fixmystreet.com/report/9342305)
 - Multiple black bin bags, 23rd April :- [9342236](https://www.fixmystreet.com/report/9342236)
 - Unsatisfactory and incomplete repairs to pot holes, 23rd April :- [9341562](https://www.fixmystreet.com/report/9341562)
-- TMC - Defects - Vegetation problem, 23rd April :- [9341752](https://www.fixmystreet.com/report/9341752)
-- Parking bay obstruction, 23rd April :- [9340711](https://www.fixmystreet.com/report/9340711)
-- Stream blocked by branches in two places can be seen from bridge the one nearest bibry road., 23rd April :- [9340510](https://www.fixmystreet.com/report/9340510)
 
 <!-- fix_marker ends -->

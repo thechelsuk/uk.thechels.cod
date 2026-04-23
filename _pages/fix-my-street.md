@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Uneven surface, 23rd April :- [9345626](https://www.fixmystreet.com/report/9345626)
 - Elmbridge Court Roundabout, 23rd April :- [9345376](https://www.fixmystreet.com/report/9345376)
 - Worn out road, 23rd April :- [9345336](https://www.fixmystreet.com/report/9345336)
 - Abandoned trolleys on track, 23rd April :- [9345151](https://www.fixmystreet.com/report/9345151)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Light sensor is not detecting vehicles problem, 23rd April :- [9343038](https://www.fixmystreet.com/report/9343038)
 - TMC - Defects -CW10 Potholes problem, 23rd April :- [9342804](https://www.fixmystreet.com/report/9342804)
 - TMC - Defects -CW10 Potholes problem, 23rd April :- [9342798](https://www.fixmystreet.com/report/9342798)
-- Tree over hanging garden almost touching house, 23rd April :- [9342535](https://www.fixmystreet.com/report/9342535)
 
 <!-- fix_marker ends -->

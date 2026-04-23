@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The owner of 33 Sandford Street has repaired pavement with concrete and filler. Then painted it with black paint, 23rd April :- [9340114](https://www.fixmystreet.com/report/9340114)
+- Tgere are several potgoles along Ellison Rd in Cheltenham. 1 very large pothole at the top with the junction with Dowty Road, 23rd April :- [9339890](https://www.fixmystreet.com/report/9339890)
+- Under your ref. 8290956, I reported that there had been two 30 mph signs at this site, but one disappeared. You planned to set up a second sign to fix the issue. Last week, your workers removed the existing sign and replaced it with a new sign. So there is still only one sign and the issue has not been resolved. It seems as though there's been a communication problem., 23rd April :- [9339866](https://www.fixmystreet.com/report/9339866)
 - Trolley abandoned, 22nd April :- [9339454](https://www.fixmystreet.com/report/9339454)
 - The whole road is full of potholes he needs re surfacing, 22nd April :- [9339308](https://www.fixmystreet.com/report/9339308)
 - Loose copings on wall, 22nd April :- [9339098](https://www.fixmystreet.com/report/9339098)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Some fix but not all holes have been repaired - makes no sense to not repair all. They still damage the car, 22nd April :- [9337097](https://www.fixmystreet.com/report/9337097)
 - Post with the parking restrictions details was removed months ago and has not been replaced, leading to vehicles (including vans) parking for days at a time., 22nd April :- [9337022](https://www.fixmystreet.com/report/9337022)
 - TMC - Defects - Other problem, 22nd April :- [9337247](https://www.fixmystreet.com/report/9337247)
-- You tried to fix this yesterday but it is still very bad, very bumpy and will come apart in the next few weeks, please have a look at it yourself thanks, 22nd April :- [9336966](https://www.fixmystreet.com/report/9336966)
-- TMC - Defects -other CW6 problem, 22nd April :- [9337029](https://www.fixmystreet.com/report/9337029)
-- TMC - Defects -other CW6 problem, 22nd April :- [9337028](https://www.fixmystreet.com/report/9337028)
 
 <!-- fix_marker ends -->

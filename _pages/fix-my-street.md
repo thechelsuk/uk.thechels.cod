@@ -27,7 +27,7 @@ permalink: /fix-my-street
 - Post with the parking restrictions details was removed months ago and has not been replaced, leading to vehicles (including vans) parking for days at a time., 22nd April :- [9337022](https://www.fixmystreet.com/report/9337022)
 - TMC - Defects - Other problem, 22nd April :- [9337247](https://www.fixmystreet.com/report/9337247)
 - You tried to fix this yesterday but it is still very bad, very bumpy and will come apart in the next few weeks, please have a look at it yourself thanks, 22nd April :- [9336966](https://www.fixmystreet.com/report/9336966)
-- TMC - Defects -other CW6 problem, 22nd April :- [9337028](https://www.fixmystreet.com/report/9337028)
 - TMC - Defects -other CW6 problem, 22nd April :- [9337029](https://www.fixmystreet.com/report/9337029)
+- TMC - Defects -other CW6 problem, 22nd April :- [9337028](https://www.fixmystreet.com/report/9337028)
 
 <!-- fix_marker ends -->

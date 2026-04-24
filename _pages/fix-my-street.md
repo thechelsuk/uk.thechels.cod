@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Litter on pavement and street, 24th April :- [9350653](https://www.fixmystreet.com/report/9350653)
+- Bus stop shelter, 24th April :- [9350625](https://www.fixmystreet.com/report/9350625)
+- Filthy road, 24th April :- [9350575](https://www.fixmystreet.com/report/9350575)
 - Bins not emptied, 24th April :- [9350496](https://www.fixmystreet.com/report/9350496)
 - Bad pothole repair, 24th April :- [9350457](https://www.fixmystreet.com/report/9350457)
 - Cluster of potholes, 24th April :- [9350247](https://www.fixmystreet.com/report/9350247)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole in the road, 24th April :- [9349112](https://www.fixmystreet.com/report/9349112)
 - TMC - Defects -CW6 Potholes  problem, 24th April :- [9349216](https://www.fixmystreet.com/report/9349216)
 - TMC - Defects -FW6 Potholes problem, 24th April :- [9349214](https://www.fixmystreet.com/report/9349214)
-- TMC - Defects -CW6 Potholes  problem, 24th April :- [9349211](https://www.fixmystreet.com/report/9349211)
-- TMC - Defects -CW6 Potholes  problem, 24th April :- [9349046](https://www.fixmystreet.com/report/9349046)
-- TMC - Defects -CW6 Potholes  problem, 24th April :- [9349039](https://www.fixmystreet.com/report/9349039)
 
 <!-- fix_marker ends -->

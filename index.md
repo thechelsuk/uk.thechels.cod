@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 24 April 2026
 
-- The average temperature today is 13.03˚C,
-- With highs of 13.03˚C and lows of 13.03˚C,
-- It may feel like 12.19˚C with few clouds
-- The wind speed is 2.42m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 69%
+- The average temperature today is 9.43˚C,
+- With highs of 10.38˚C and lows of 8.62˚C,
+- It may feel like 9.43˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 65%
 - The sun will rise at 04:52 and set at 19:19
 
 <!-- weather_marker ends -->

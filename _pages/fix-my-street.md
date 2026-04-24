@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic lights out, 24th April :- [9346186](https://www.fixmystreet.com/report/9346186)
+- Unsafe pavement for public walkway, 24th April :- [9346043](https://www.fixmystreet.com/report/9346043)
 - Uneven surface, 23rd April :- [9345626](https://www.fixmystreet.com/report/9345626)
 - Elmbridge Court Roundabout, 23rd April :- [9345376](https://www.fixmystreet.com/report/9345376)
 - Worn out road, 23rd April :- [9345336](https://www.fixmystreet.com/report/9345336)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 23rd April :- [9343311](https://www.fixmystreet.com/report/9343311)
 - TMC - Defects - Covers, Gratings & Frames problem, 23rd April :- [9343316](https://www.fixmystreet.com/report/9343316)
 - Light sensor is not detecting vehicles problem, 23rd April :- [9343038](https://www.fixmystreet.com/report/9343038)
-- TMC - Defects -CW10 Potholes problem, 23rd April :- [9342804](https://www.fixmystreet.com/report/9342804)
-- TMC - Defects -CW10 Potholes problem, 23rd April :- [9342798](https://www.fixmystreet.com/report/9342798)
 
 <!-- fix_marker ends -->

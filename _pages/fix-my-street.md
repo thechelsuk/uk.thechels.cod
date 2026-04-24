@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bins not emptied, 24th April :- [9350496](https://www.fixmystreet.com/report/9350496)
+- Bad pothole repair, 24th April :- [9350457](https://www.fixmystreet.com/report/9350457)
+- Cluster of potholes, 24th April :- [9350247](https://www.fixmystreet.com/report/9350247)
 - Potholes along road, 24th April :- [9349753](https://www.fixmystreet.com/report/9349753)
 - Adult and Children Walking sign ,misaligned, 24th April :- [9349728](https://www.fixmystreet.com/report/9349728)
 - TMC - Defects - Vegetation problem, 24th April :- [9349451](https://www.fixmystreet.com/report/9349451)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 24th April :- [9349211](https://www.fixmystreet.com/report/9349211)
 - TMC - Defects -CW6 Potholes  problem, 24th April :- [9349046](https://www.fixmystreet.com/report/9349046)
 - TMC - Defects -CW6 Potholes  problem, 24th April :- [9349039](https://www.fixmystreet.com/report/9349039)
-- TMC - Defects -CW6 Potholes  problem, 24th April :- [9348861](https://www.fixmystreet.com/report/9348861)
-- TMC - Defects - Other FW6  Surface problem, 24th April :- [9348860](https://www.fixmystreet.com/report/9348860)
-- TMC - Defects - Kerbs and Channels problem, 24th April :- [9348858](https://www.fixmystreet.com/report/9348858)
 
 <!-- fix_marker ends -->

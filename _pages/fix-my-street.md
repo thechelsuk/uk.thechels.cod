@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes along road, 24th April :- [9349753](https://www.fixmystreet.com/report/9349753)
+- Adult and Children Walking sign ,misaligned, 24th April :- [9349728](https://www.fixmystreet.com/report/9349728)
 - TMC - Defects - Vegetation problem, 24th April :- [9349451](https://www.fixmystreet.com/report/9349451)
 - Cones, recycling boxes and now painted white lines on road, 24th April :- [9349278](https://www.fixmystreet.com/report/9349278)
 - Manhole cover is low and loose on Old Bath Rd., 24th April :- [9349203](https://www.fixmystreet.com/report/9349203)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 24th April :- [9348861](https://www.fixmystreet.com/report/9348861)
 - TMC - Defects - Other FW6  Surface problem, 24th April :- [9348860](https://www.fixmystreet.com/report/9348860)
 - TMC - Defects - Kerbs and Channels problem, 24th April :- [9348858](https://www.fixmystreet.com/report/9348858)
-- TMC - Defects -CW6 Potholes  problem, 24th April :- [9348857](https://www.fixmystreet.com/report/9348857)
-- TMC - Defects -CW6 Potholes  problem, 24th April :- [9348856](https://www.fixmystreet.com/report/9348856)
 
 <!-- fix_marker ends -->

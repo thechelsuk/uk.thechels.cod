@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- The Beefy Boys bring BBQ cookbook tour to Cheltenham ([9 hours ago](https://gloucesternewscentre.co.uk/the-beefy-boys-bring-bbq-cookbook-tour-to-cheltenham/))
-- Ex councillor cleared of misconduct wants apology ([9 hours ago](https://www.bbc.com/news/articles/czd76gzv9gyo?at_medium=RSS&at_campaign=rss))
-- Man arrested for exposing himself to teenage girl ([11 hours ago](https://www.bbc.com/news/articles/cj94k7xj3m9o?at_medium=RSS&at_campaign=rss))
-- Dozens of jobs at risk as care home set to close ([16 hours ago](https://www.bbc.com/news/articles/cn43el7g95lo?at_medium=RSS&at_campaign=rss))
-- Repairs costing £100k start on heritage railway ([20 hours ago](https://www.bbc.com/news/articles/cwykzveexjdo?at_medium=RSS&at_campaign=rss))
-- New owners sought for artificial ski slope ([20 hours ago](https://www.bbc.com/news/articles/cvgkyeljkqvo?at_medium=RSS&at_campaign=rss))
+- The Beefy Boys bring BBQ cookbook tour to Cheltenham ([11 hours ago](https://gloucesternewscentre.co.uk/the-beefy-boys-bring-bbq-cookbook-tour-to-cheltenham/))
+- Ex councillor cleared of misconduct wants apology ([11 hours ago](https://www.bbc.com/news/articles/czd76gzv9gyo?at_medium=RSS&at_campaign=rss))
+- Man arrested for exposing himself to teenage girl ([14 hours ago](https://www.bbc.com/news/articles/cj94k7xj3m9o?at_medium=RSS&at_campaign=rss))
+- Dozens of jobs at risk as care home set to close ([18 hours ago](https://www.bbc.com/news/articles/cn43el7g95lo?at_medium=RSS&at_campaign=rss))
+- Repairs costing £100k start on heritage railway ([22 hours ago](https://www.bbc.com/news/articles/cwykzveexjdo?at_medium=RSS&at_campaign=rss))
+- New owners sought for artificial ski slope ([22 hours ago](https://www.bbc.com/news/articles/cvgkyeljkqvo?at_medium=RSS&at_campaign=rss))
 - Volunteers locked in kennels for charity ([1 days ago](https://www.bbc.com/news/articles/c4g451803y8o?at_medium=RSS&at_campaign=rss))
 - Roads closed following serious two-vehicle crash ([1 days ago](https://www.bbc.com/news/articles/cvg4d5rylj3o?at_medium=RSS&at_campaign=rss))
 - Options discussed for future of town's historic lido ([1 days ago](https://www.bbc.com/news/articles/c705g28zg5do?at_medium=RSS&at_campaign=rss))

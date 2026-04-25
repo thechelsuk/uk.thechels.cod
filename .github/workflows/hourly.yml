@@ -39,7 +39,8 @@ jobs:
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
-                  git diff --quiet || (git add -A && git commit -m "Chore: Pull latest data for `date +'%Y-%m-%d %H:%M:%S'`")
+                  git add -A
+                  git diff --staged --quiet || git commit -m "Chore: Pull latest data for `date +'%Y-%m-%d %H:%M'`"
                   git push
 
             - name: Set up Python
@@ -73,5 +74,6 @@ jobs:
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
-                  git diff --quiet || (git add -A && git commit -m "Chore: Process data for `date +'%Y-%m-%d %H:%M:%S'`")
+                  git add -A
+                  git diff --staged --quiet || git commit -m "Chore: Processing data for `date +'%Y-%m-%d %H:%M'`"
                   git push

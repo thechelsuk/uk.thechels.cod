@@ -1,6 +1,5 @@
 name: Fetch UK Bank Holidays
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron: '17 0 1 * *'

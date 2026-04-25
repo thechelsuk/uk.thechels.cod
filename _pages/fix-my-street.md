@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection., 25th April :- [9353636](https://www.fixmystreet.com/report/9353636)
 - Hole on the road, 25th April :- [9352647](https://www.fixmystreet.com/report/9352647)
 - Broken paving slab on the kerb, 25th April :- [9353201](https://www.fixmystreet.com/report/9353201)
 - Perspex broken, 25th April :- [9352972](https://www.fixmystreet.com/report/9352972)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Bus stop shelter, 24th April :- [9350625](https://www.fixmystreet.com/report/9350625)
 - Filthy road, 24th April :- [9350575](https://www.fixmystreet.com/report/9350575)
 - Bins not emptied, 24th April :- [9350496](https://www.fixmystreet.com/report/9350496)
-- Bad pothole repair, 24th April :- [9350457](https://www.fixmystreet.com/report/9350457)
 
 <!-- fix_marker ends -->

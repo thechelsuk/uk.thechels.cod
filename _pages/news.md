@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Record number of kids take part in charity sleep out ([2 hours ago](https://www.bbc.com/news/articles/c995ex70emxo?at_medium=RSS&at_campaign=rss))
-- Protest at RAF base being used in Iran conflict ([3 hours ago](https://www.bbc.com/news/articles/c9qd8e0v309o?at_medium=RSS&at_campaign=rss))
-- Lecturer creates disabled musician roster for gigs ([10 hours ago](https://www.bbc.com/news/articles/c77mmynj13ko?at_medium=RSS&at_campaign=rss))
-- Cat threat to birds and Porsche crash ([10 hours ago](https://www.bbc.com/news/articles/cq6jdqjg33po?at_medium=RSS&at_campaign=rss))
+- Record number of kids take part in charity sleep out ([4 hours ago](https://www.bbc.com/news/articles/c995ex70emxo?at_medium=RSS&at_campaign=rss))
+- Protest at RAF base being used in Iran conflict ([5 hours ago](https://www.bbc.com/news/articles/c9qd8e0v309o?at_medium=RSS&at_campaign=rss))
+- Lecturer creates disabled musician roster for gigs ([12 hours ago](https://www.bbc.com/news/articles/c77mmynj13ko?at_medium=RSS&at_campaign=rss))
+- Cat threat to birds and Porsche crash ([13 hours ago](https://www.bbc.com/news/articles/cq6jdqjg33po?at_medium=RSS&at_campaign=rss))
 - Motorcycle passenger killed in crash with lorry ([1 days ago](https://www.bbc.com/news/articles/c4g6npje91ro?at_medium=RSS&at_campaign=rss))
 - Building work can start on town's 'Silicon Valley' ([1 days ago](https://www.bbc.com/news/articles/c4gjnqzge8ro?at_medium=RSS&at_campaign=rss))
 - Cheltenham’s ‘Silicon Valley’ plans near GCHQ takes major step forward ([1 days ago](https://gloucesternewscentre.co.uk/cheltenhams-silicon-valley-plans-near-gchq-takes-major-step-forward/))
@@ -29,7 +29,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man arrested for exposing himself to teenage girl ([2 days ago](https://www.bbc.com/news/articles/cj94k7xj3m9o?at_medium=RSS&at_campaign=rss))
 - Dozens of jobs at risk as care home set to close ([2 days ago](https://www.bbc.com/news/articles/cn43el7g95lo?at_medium=RSS&at_campaign=rss))
 - New owners sought for artificial ski slope ([2 days ago](https://www.bbc.com/news/articles/cvgkyeljkqvo?at_medium=RSS&at_campaign=rss))
-- Roads closed following serious two-vehicle crash ([2 days ago](https://www.bbc.com/news/articles/cvg4d5rylj3o?at_medium=RSS&at_campaign=rss))
+- Roads closed following serious two-vehicle crash ([3 days ago](https://www.bbc.com/news/articles/cvg4d5rylj3o?at_medium=RSS&at_campaign=rss))
 - Man arrested on suspicion of indecent exposure in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/man-arrested-on-suspicion-of-indecent-exposure-in-cheltenham/))
 - Attempted murder charge after man shot inside vehicle ([3 days ago](https://www.bbc.com/news/articles/clyjmmzr8g9o?at_medium=RSS&at_campaign=rss))
 - Safer Roads scheme launches in Gloucestershire ([5 days ago](https://gloucesternewscentre.co.uk/safer-roads-scheme-launches-in-gloucestershire/))

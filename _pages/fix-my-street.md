@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Desk chair dumped on Berkeley Street, 25th April :- [9351698](https://www.fixmystreet.com/report/9351698)
 - Litter on pavement and street, 24th April :- [9350653](https://www.fixmystreet.com/report/9350653)
 - Bus stop shelter, 24th April :- [9350625](https://www.fixmystreet.com/report/9350625)
 - Filthy road, 24th April :- [9350575](https://www.fixmystreet.com/report/9350575)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole in middle of the road, 24th April :- [9349113](https://www.fixmystreet.com/report/9349113)
 - Pothole in the road, 24th April :- [9349112](https://www.fixmystreet.com/report/9349112)
 - TMC - Defects -CW6 Potholes  problem, 24th April :- [9349216](https://www.fixmystreet.com/report/9349216)
-- TMC - Defects -FW6 Potholes problem, 24th April :- [9349214](https://www.fixmystreet.com/report/9349214)
 
 <!-- fix_marker ends -->

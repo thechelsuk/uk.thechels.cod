@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain heavily blocked, 25th April :- [9352768](https://www.fixmystreet.com/report/9352768)
 - Broken signage, 25th April :- [9352197](https://www.fixmystreet.com/report/9352197)
 - Long stretch of potholes, 25th April :- [9352183](https://www.fixmystreet.com/report/9352183)
 - Long pothole, 25th April :- [9352178](https://www.fixmystreet.com/report/9352178)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Potholes along road, 24th April :- [9349753](https://www.fixmystreet.com/report/9349753)
 - Adult and Children Walking sign ,misaligned, 24th April :- [9349728](https://www.fixmystreet.com/report/9349728)
 - TMC - Defects - Vegetation problem, 24th April :- [9349451](https://www.fixmystreet.com/report/9349451)
-- Cones, recycling boxes and now painted white lines on road, 24th April :- [9349278](https://www.fixmystreet.com/report/9349278)
 
 <!-- fix_marker ends -->

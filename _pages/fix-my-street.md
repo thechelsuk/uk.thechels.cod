@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken paving slab on the kerb, 25th April :- [9353201](https://www.fixmystreet.com/report/9353201)
+- Perspex broken, 25th April :- [9352972](https://www.fixmystreet.com/report/9352972)
+- Tarmac pavement breaking up due to weeds., 25th April :- [9352921](https://www.fixmystreet.com/report/9352921)
 - Drain heavily blocked, 25th April :- [9352768](https://www.fixmystreet.com/report/9352768)
 - Broken signage, 25th April :- [9352197](https://www.fixmystreet.com/report/9352197)
 - Long stretch of potholes, 25th April :- [9352183](https://www.fixmystreet.com/report/9352183)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Bins not emptied, 24th April :- [9350496](https://www.fixmystreet.com/report/9350496)
 - Bad pothole repair, 24th April :- [9350457](https://www.fixmystreet.com/report/9350457)
 - Cluster of potholes, 24th April :- [9350247](https://www.fixmystreet.com/report/9350247)
-- Potholes along road, 24th April :- [9349753](https://www.fixmystreet.com/report/9349753)
-- Adult and Children Walking sign ,misaligned, 24th April :- [9349728](https://www.fixmystreet.com/report/9349728)
-- TMC - Defects - Vegetation problem, 24th April :- [9349451](https://www.fixmystreet.com/report/9349451)
 
 <!-- fix_marker ends -->

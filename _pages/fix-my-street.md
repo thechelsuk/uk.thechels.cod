@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hole on the road, 25th April :- [9352647](https://www.fixmystreet.com/report/9352647)
 - Broken paving slab on the kerb, 25th April :- [9353201](https://www.fixmystreet.com/report/9353201)
 - Perspex broken, 25th April :- [9352972](https://www.fixmystreet.com/report/9352972)
 - Tarmac pavement breaking up due to weeds., 25th April :- [9352921](https://www.fixmystreet.com/report/9352921)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Filthy road, 24th April :- [9350575](https://www.fixmystreet.com/report/9350575)
 - Bins not emptied, 24th April :- [9350496](https://www.fixmystreet.com/report/9350496)
 - Bad pothole repair, 24th April :- [9350457](https://www.fixmystreet.com/report/9350457)
-- Cluster of potholes, 24th April :- [9350247](https://www.fixmystreet.com/report/9350247)
 
 <!-- fix_marker ends -->

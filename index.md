@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 25 April 2026
 
-- The average temperature today is 17.75˚C,
-- With highs of 17.75˚C and lows of 14.97˚C,
-- It may feel like 16.42˚C with clear sky
-- The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 32%
+- The average temperature today is 11.24˚C,
+- With highs of 12.06˚C and lows of 10.29˚C,
+- It may feel like 9.88˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 56%
 - The sun will rise at 04:50 and set at 19:21
 
 <!-- weather_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pilgrove way after the roundabout at bushy way on the right smashed up glass, 25th April :- [9354121](https://www.fixmystreet.com/report/9354121)
+- Deep potholes throughout the road, 25th April :- [9354110](https://www.fixmystreet.com/report/9354110)
+- Rats living in crack in paving slab in alleg, 25th April :- [9353986](https://www.fixmystreet.com/report/9353986)
 - Volunteer litter pick bags ready for collection., 25th April :- [9353636](https://www.fixmystreet.com/report/9353636)
 - Hole on the road, 25th April :- [9352647](https://www.fixmystreet.com/report/9352647)
 - Broken paving slab on the kerb, 25th April :- [9353201](https://www.fixmystreet.com/report/9353201)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole outside 8 Pennsylvania Avenue, 25th April :- [9351828](https://www.fixmystreet.com/report/9351828)
 - Desk chair dumped on Berkeley Street, 25th April :- [9351698](https://www.fixmystreet.com/report/9351698)
 - Litter on pavement and street, 24th April :- [9350653](https://www.fixmystreet.com/report/9350653)
-- Bus stop shelter, 24th April :- [9350625](https://www.fixmystreet.com/report/9350625)
-- Filthy road, 24th April :- [9350575](https://www.fixmystreet.com/report/9350575)
-- Bins not emptied, 24th April :- [9350496](https://www.fixmystreet.com/report/9350496)
 
 <!-- fix_marker ends -->

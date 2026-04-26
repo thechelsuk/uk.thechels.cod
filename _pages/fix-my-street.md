@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned vehicle in turning area, 26th April :- [9354552](https://www.fixmystreet.com/report/9354552)
+- Terrible attempt at repair, 26th April :- [9354543](https://www.fixmystreet.com/report/9354543)
+- Sink holes all over rode after full by junction, 26th April :- [9354498](https://www.fixmystreet.com/report/9354498)
+- Signage and cones not removed, 26th April :- [9354495](https://www.fixmystreet.com/report/9354495)
 - Overflowing bin, 25th April :- [9354223](https://www.fixmystreet.com/report/9354223)
 - Pilgrove way after the roundabout at bushy way on the right smashed up glass, 25th April :- [9354121](https://www.fixmystreet.com/report/9354121)
 - Deep potholes throughout the road, 25th April :- [9354110](https://www.fixmystreet.com/report/9354110)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - T shaped pothole, 25th April :- [9352173](https://www.fixmystreet.com/report/9352173)
 - Cycle/Foot path sign has been moved and dumped, 25th April :- [9352151](https://www.fixmystreet.com/report/9352151)
 - Broken kerb outside #6, 25th April :- [9352148](https://www.fixmystreet.com/report/9352148)
-- Broken kerb outside #1, 25th April :- [9352128](https://www.fixmystreet.com/report/9352128)
-- Glass still on pavement, 25th April :- [9352119](https://www.fixmystreet.com/report/9352119)
-- Pothole outside 8 Pennsylvania Avenue, 25th April :- [9351828](https://www.fixmystreet.com/report/9351828)
-- Desk chair dumped on Berkeley Street, 25th April :- [9351698](https://www.fixmystreet.com/report/9351698)
 
 <!-- fix_marker ends -->

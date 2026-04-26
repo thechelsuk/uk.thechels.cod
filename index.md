@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 26 April 2026
 
-- The average temperature today is 6.79˚C,
-- With highs of 7.2˚C and lows of 4.91˚C,
-- It may feel like 5.24˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 84%
+- The average temperature today is 9.81˚C,
+- With highs of 10.85˚C and lows of 7.62˚C,
+- It may feel like 9.15˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 73%
 - The sun will rise at 04:48 and set at 19:23
 
 <!-- weather_marker ends -->

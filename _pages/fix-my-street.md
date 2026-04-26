@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Button temperamental at best, 26th April :- [9354797](https://www.fixmystreet.com/report/9354797)
 - Abandoned vehicle in turning area, 26th April :- [9354552](https://www.fixmystreet.com/report/9354552)
 - Terrible attempt at repair, 26th April :- [9354543](https://www.fixmystreet.com/report/9354543)
 - Sink holes all over rode after full by junction, 26th April :- [9354498](https://www.fixmystreet.com/report/9354498)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Long pothole, 25th April :- [9352178](https://www.fixmystreet.com/report/9352178)
 - T shaped pothole, 25th April :- [9352173](https://www.fixmystreet.com/report/9352173)
 - Cycle/Foot path sign has been moved and dumped, 25th April :- [9352151](https://www.fixmystreet.com/report/9352151)
-- Broken kerb outside #6, 25th April :- [9352148](https://www.fixmystreet.com/report/9352148)
 
 <!-- fix_marker ends -->

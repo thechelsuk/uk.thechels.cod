@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Record number of kids take part in charity sleep out ([10 hours ago](https://www.bbc.com/news/articles/c995ex70emxo?at_medium=RSS&at_campaign=rss))
-- Protest at RAF base being used in Iran conflict ([11 hours ago](https://www.bbc.com/news/articles/c9qd8e0v309o?at_medium=RSS&at_campaign=rss))
-- Lecturer creates disabled musician roster for gigs ([19 hours ago](https://www.bbc.com/news/articles/c77mmynj13ko?at_medium=RSS&at_campaign=rss))
-- Cat threat to birds and Porsche crash ([19 hours ago](https://www.bbc.com/news/articles/cq6jdqjg33po?at_medium=RSS&at_campaign=rss))
+- Record number of kids take part in charity sleep out ([13 hours ago](https://www.bbc.com/news/articles/c995ex70emxo?at_medium=RSS&at_campaign=rss))
+- Protest at RAF base being used in Iran conflict ([14 hours ago](https://www.bbc.com/news/articles/c9qd8e0v309o?at_medium=RSS&at_campaign=rss))
+- Lecturer creates disabled musician roster for gigs ([21 hours ago](https://www.bbc.com/news/articles/c77mmynj13ko?at_medium=RSS&at_campaign=rss))
+- Cat threat to birds and Porsche crash ([21 hours ago](https://www.bbc.com/news/articles/cq6jdqjg33po?at_medium=RSS&at_campaign=rss))
 - Motorcycle passenger killed in crash with lorry ([1 days ago](https://www.bbc.com/news/articles/c4g6npje91ro?at_medium=RSS&at_campaign=rss))
 - Building work can start on town's 'Silicon Valley' ([1 days ago](https://www.bbc.com/news/articles/c4gjnqzge8ro?at_medium=RSS&at_campaign=rss))
 - Cheltenham’s ‘Silicon Valley’ plans near GCHQ takes major step forward ([1 days ago](https://gloucesternewscentre.co.uk/cheltenhams-silicon-valley-plans-near-gchq-takes-major-step-forward/))

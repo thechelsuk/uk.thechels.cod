@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped items, 26th April :- [9355862](https://www.fixmystreet.com/report/9355862)
+- Flytipped item, 26th April :- [9355858](https://www.fixmystreet.com/report/9355858)
 - Roadwork signs left, 26th April :- [9355105](https://www.fixmystreet.com/report/9355105)
 - Button temperamental at best, 26th April :- [9354797](https://www.fixmystreet.com/report/9354797)
 - Abandoned vehicle in turning area, 26th April :- [9354552](https://www.fixmystreet.com/report/9354552)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain heavily blocked, 25th April :- [9352768](https://www.fixmystreet.com/report/9352768)
 - Broken signage, 25th April :- [9352197](https://www.fixmystreet.com/report/9352197)
 - Long stretch of potholes, 25th April :- [9352183](https://www.fixmystreet.com/report/9352183)
-- Long pothole, 25th April :- [9352178](https://www.fixmystreet.com/report/9352178)
-- T shaped pothole, 25th April :- [9352173](https://www.fixmystreet.com/report/9352173)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Roadwork signs left, 26th April :- [9355105](https://www.fixmystreet.com/report/9355105)
 - Button temperamental at best, 26th April :- [9354797](https://www.fixmystreet.com/report/9354797)
 - Abandoned vehicle in turning area, 26th April :- [9354552](https://www.fixmystreet.com/report/9354552)
 - Terrible attempt at repair, 26th April :- [9354543](https://www.fixmystreet.com/report/9354543)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Long stretch of potholes, 25th April :- [9352183](https://www.fixmystreet.com/report/9352183)
 - Long pothole, 25th April :- [9352178](https://www.fixmystreet.com/report/9352178)
 - T shaped pothole, 25th April :- [9352173](https://www.fixmystreet.com/report/9352173)
-- Cycle/Foot path sign has been moved and dumped, 25th April :- [9352151](https://www.fixmystreet.com/report/9352151)
 
 <!-- fix_marker ends -->

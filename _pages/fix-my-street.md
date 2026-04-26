@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of potholes in the run up to the roundabout and on the roundabout, 26th April :- [9357528](https://www.fixmystreet.com/report/9357528)
 - Dangerous parking, 26th April :- [9357222](https://www.fixmystreet.com/report/9357222)
 - Armchair left out on pavement, 26th April :- [9356646](https://www.fixmystreet.com/report/9356646)
 - Multiple wide potholes and road deterioration on Priory Walk, 26th April :- [9356285](https://www.fixmystreet.com/report/9356285)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Rats living in crack in paving slab in alleg, 25th April :- [9353986](https://www.fixmystreet.com/report/9353986)
 - Volunteer litter pick bags ready for collection., 25th April :- [9353636](https://www.fixmystreet.com/report/9353636)
 - Hole on the road, 25th April :- [9352647](https://www.fixmystreet.com/report/9352647)
-- Broken paving slab on the kerb, 25th April :- [9353201](https://www.fixmystreet.com/report/9353201)
 
 <!-- fix_marker ends -->

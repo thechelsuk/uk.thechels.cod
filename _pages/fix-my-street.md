@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Armchair left out on pavement, 26th April :- [9356646](https://www.fixmystreet.com/report/9356646)
 - Multiple wide potholes and road deterioration on Priory Walk, 26th April :- [9356285](https://www.fixmystreet.com/report/9356285)
 - 10inch hole, 26th April :- [9356126](https://www.fixmystreet.com/report/9356126)
 - Multiple pot holes, 26th April :- [9356008](https://www.fixmystreet.com/report/9356008)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Hole on the road, 25th April :- [9352647](https://www.fixmystreet.com/report/9352647)
 - Broken paving slab on the kerb, 25th April :- [9353201](https://www.fixmystreet.com/report/9353201)
 - Perspex broken, 25th April :- [9352972](https://www.fixmystreet.com/report/9352972)
-- Tarmac pavement breaking up due to weeds., 25th April :- [9352921](https://www.fixmystreet.com/report/9352921)
 
 <!-- fix_marker ends -->

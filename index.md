@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 27 April 2026
 
-- The average temperature today is 11.09˚C,
-- With highs of 12.75˚C and lows of 10.85˚C,
-- It may feel like 9.98˚C with overcast clouds
+- The average temperature today is 8.12˚C,
+- With highs of 8.17˚C and lows of 8.07˚C,
+- It may feel like 8.12˚C with broken clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 66%
+- The pressure is 1023hPa and humidity is 78%
 - The sun will rise at 04:46 and set at 19:24
 
 <!-- weather_marker ends -->

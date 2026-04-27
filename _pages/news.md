@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Motorcyclist airlifted to hospital after crash ([12 hours ago](https://www.bbc.com/news/articles/cvglgrzyv71o?at_medium=RSS&at_campaign=rss))
-- Warning as fire breaks out at military base ([13 hours ago](https://www.bbc.com/news/articles/czjwj78gr7go?at_medium=RSS&at_campaign=rss))
-- 'It's often easier for people to sing than to speak' ([16 hours ago](https://www.bbc.com/news/articles/cdrm86m24kdo?at_medium=RSS&at_campaign=rss))
-- Bristol Airport could expand again - what does it mean? ([16 hours ago](https://www.bbc.com/news/articles/cdj7vjxl033o?at_medium=RSS&at_campaign=rss))
-- In pictures: Crisp-tasting and newly-hatched cygnets ([16 hours ago](https://www.bbc.com/news/articles/cy41k184z08o?at_medium=RSS&at_campaign=rss))
+- Motorcyclist airlifted to hospital after crash ([14 hours ago](https://www.bbc.com/news/articles/cvglgrzyv71o?at_medium=RSS&at_campaign=rss))
+- Warning as fire breaks out at military base ([15 hours ago](https://www.bbc.com/news/articles/czjwj78gr7go?at_medium=RSS&at_campaign=rss))
+- 'It's often easier for people to sing than to speak' ([19 hours ago](https://www.bbc.com/news/articles/cdrm86m24kdo?at_medium=RSS&at_campaign=rss))
+- Bristol Airport could expand again - what does it mean? ([19 hours ago](https://www.bbc.com/news/articles/cdj7vjxl033o?at_medium=RSS&at_campaign=rss))
+- In pictures: Crisp-tasting and newly-hatched cygnets ([19 hours ago](https://www.bbc.com/news/articles/cy41k184z08o?at_medium=RSS&at_campaign=rss))
 - Record number of kids take part in charity sleep out ([1 days ago](https://www.bbc.com/news/articles/c995ex70emxo?at_medium=RSS&at_campaign=rss))
 - Protest at RAF base being used in Iran conflict ([1 days ago](https://www.bbc.com/news/articles/c9qd8e0v309o?at_medium=RSS&at_campaign=rss))
 - Lecturer creates disabled musician roster for gigs ([1 days ago](https://www.bbc.com/news/articles/c77mmynj13ko?at_medium=RSS&at_campaign=rss))

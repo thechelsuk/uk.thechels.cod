@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- More pitted than the moon, 27th April :- [9364121](https://www.fixmystreet.com/report/9364121)
 - The drain clangs everytime it’s driven over, 27th April :- [9364041](https://www.fixmystreet.com/report/9364041)
 - Number 31 Car Parking Issue, 27th April :- [9363721](https://www.fixmystreet.com/report/9363721)
 - Mud and leaves on pavement, slippery when wet., 27th April :- [9363676](https://www.fixmystreet.com/report/9363676)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Raised tarmac and pothole forming, 27th April :- [9363058](https://www.fixmystreet.com/report/9363058)
 - Bus stop seriously damaged and a health and safety hazard, 27th April :- [9362775](https://www.fixmystreet.com/report/9362775)
 - Outside 64, 27th April :- [9362476](https://www.fixmystreet.com/report/9362476)
-- Overgrown hedges/trees, 27th April :- [9362449](https://www.fixmystreet.com/report/9362449)
 
 <!-- fix_marker ends -->

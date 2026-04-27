@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin bag wrapped item, 27th April :- [9359499](https://www.fixmystreet.com/report/9359499)
+- The drain is blocked problem, 27th April :- [9359663](https://www.fixmystreet.com/report/9359663)
+- Garden waste dumping on council land, 27th April :- [9359038](https://www.fixmystreet.com/report/9359038)
+- The drain is blocked problem, 27th April :- [9359154](https://www.fixmystreet.com/report/9359154)
+- Post or sign leaning slightly (less than 20 degrees) problem, 27th April :- [9358900](https://www.fixmystreet.com/report/9358900)
 - Faulty pedestrian button, 27th April :- [9358580](https://www.fixmystreet.com/report/9358580)
 - Tree is damaged problem, 27th April :- [9358476](https://www.fixmystreet.com/report/9358476)
 - Fire Extinguisher 🧯 on pavement, 27th April :- [9358234](https://www.fixmystreet.com/report/9358234)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Button temperamental at best, 26th April :- [9354797](https://www.fixmystreet.com/report/9354797)
 - Abandoned vehicle in turning area, 26th April :- [9354552](https://www.fixmystreet.com/report/9354552)
 - Terrible attempt at repair, 26th April :- [9354543](https://www.fixmystreet.com/report/9354543)
-- Sink holes all over rode after full by junction, 26th April :- [9354498](https://www.fixmystreet.com/report/9354498)
-- Signage and cones not removed, 26th April :- [9354495](https://www.fixmystreet.com/report/9354495)
-- Overflowing bin, 25th April :- [9354223](https://www.fixmystreet.com/report/9354223)
-- Pilgrove way after the roundabout at bushy way on the right smashed up glass, 25th April :- [9354121](https://www.fixmystreet.com/report/9354121)
-- Deep potholes throughout the road, 25th April :- [9354110](https://www.fixmystreet.com/report/9354110)
 
 <!-- fix_marker ends -->

@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Ex-chaplain, 82, lifts 200kg in church fundraiser ([40 minutes ago](https://www.bbc.com/news/articles/c4g8g25yv93o?at_medium=RSS&at_campaign=rss))
-- Work to begin on new NHS dental hub at university ([6 hours ago](https://www.bbc.com/news/articles/c4gv1mgyvmgo?at_medium=RSS&at_campaign=rss))
-- Veteran hopes challenge will help people open up ([6 hours ago](https://www.bbc.com/news/articles/cvg025n7rzzo?at_medium=RSS&at_campaign=rss))
-- UK's biggest ever environmental pollution claim reaches High Court ([12 hours ago](https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss))
+- 'No plans' to close maternity hospital, says trust ([36 minutes ago](https://www.bbc.com/news/articles/cwyvy0grw04o?at_medium=RSS&at_campaign=rss))
+- Ex-chaplain, 82, lifts 200kg in church fundraiser ([2 hours ago](https://www.bbc.com/news/articles/c4g8g25yv93o?at_medium=RSS&at_campaign=rss))
+- Work to begin on new NHS dental hub at university ([8 hours ago](https://www.bbc.com/news/articles/c4gv1mgyvmgo?at_medium=RSS&at_campaign=rss))
+- Veteran hopes challenge will help people open up ([8 hours ago](https://www.bbc.com/news/articles/cvg025n7rzzo?at_medium=RSS&at_campaign=rss))
+- UK's biggest ever environmental pollution claim reaches High Court ([14 hours ago](https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss))
 - Motorcyclist airlifted to hospital after crash ([1 days ago](https://www.bbc.com/news/articles/cvglgrzyv71o?at_medium=RSS&at_campaign=rss))
 - Warning as fire breaks out at military base ([1 days ago](https://www.bbc.com/news/articles/czjwj78gr7go?at_medium=RSS&at_campaign=rss))
 - 'It's often easier for people to sing than to speak' ([1 days ago](https://www.bbc.com/news/articles/cdrm86m24kdo?at_medium=RSS&at_campaign=rss))
@@ -28,7 +29,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Motorcycle passenger killed in crash with lorry ([2 days ago](https://www.bbc.com/news/articles/c4g6npje91ro?at_medium=RSS&at_campaign=rss))
 - Building work can start on town's 'Silicon Valley' ([2 days ago](https://www.bbc.com/news/articles/c4gjnqzge8ro?at_medium=RSS&at_campaign=rss))
 - Cheltenham’s ‘Silicon Valley’ plans near GCHQ takes major step forward ([2 days ago](https://gloucesternewscentre.co.uk/cheltenhams-silicon-valley-plans-near-gchq-takes-major-step-forward/))
-- Memorial unveiled for Imjin River veterans ([2 days ago](https://www.bbc.com/news/articles/c747pj8vve8o?at_medium=RSS&at_campaign=rss))
 - Dogs fall ill after man 'poured bleach on ground' ([2 days ago](https://www.bbc.com/news/articles/c1w4rnvd59xo?at_medium=RSS&at_campaign=rss))
 - The Beefy Boys bring BBQ cookbook tour to Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/the-beefy-boys-bring-bbq-cookbook-tour-to-cheltenham/))
 - Man arrested on suspicion of indecent exposure in Cheltenham ([4 days ago](https://gloucesternewscentre.co.uk/man-arrested-on-suspicion-of-indecent-exposure-in-cheltenham/))

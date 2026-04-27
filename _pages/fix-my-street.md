@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 4 or 5 reasonably deep holes running along the front of my front plinth, 27th April :- [9361535](https://www.fixmystreet.com/report/9361535)
+- Post or sign leaning slightly (less than 20 degrees) problem, 27th April :- [9361475](https://www.fixmystreet.com/report/9361475)
+- Unpermitted roadworks problem, 27th April :- [9361473](https://www.fixmystreet.com/report/9361473)
+- Street light is permanently out problem, 27th April :- [9361205](https://www.fixmystreet.com/report/9361205)
+- TMC - Defects - Vegetation problem, 27th April :- [9361206](https://www.fixmystreet.com/report/9361206)
 - Tree root bringing up pavement and damaging wall, 27th April :- [9360591](https://www.fixmystreet.com/report/9360591)
 - A417 diversion route sign blocking visibility out of Old Gloucester Road onto the A4136, 27th April :- [9360446](https://www.fixmystreet.com/report/9360446)
 - Road manholes loosened after work creating noise, 27th April :- [9360397](https://www.fixmystreet.com/report/9360397)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Fire Extinguisher 🧯 on pavement, 27th April :- [9358234](https://www.fixmystreet.com/report/9358234)
 - Series of potholes in the run up to the roundabout and on the roundabout, 26th April :- [9357528](https://www.fixmystreet.com/report/9357528)
 - Dangerous parking, 26th April :- [9357222](https://www.fixmystreet.com/report/9357222)
-- Armchair left out on pavement, 26th April :- [9356646](https://www.fixmystreet.com/report/9356646)
-- Multiple wide potholes and road deterioration on Priory Walk, 26th April :- [9356285](https://www.fixmystreet.com/report/9356285)
-- 10inch hole, 26th April :- [9356126](https://www.fixmystreet.com/report/9356126)
-- Multiple pot holes, 26th April :- [9356008](https://www.fixmystreet.com/report/9356008)
-- Flytipped items, 26th April :- [9355862](https://www.fixmystreet.com/report/9355862)
 
 <!-- fix_marker ends -->

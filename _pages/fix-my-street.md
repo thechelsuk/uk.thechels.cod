@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Faulty pedestrian button, 27th April :- [9358580](https://www.fixmystreet.com/report/9358580)
+- Tree is damaged problem, 27th April :- [9358476](https://www.fixmystreet.com/report/9358476)
+- Fire Extinguisher 🧯 on pavement, 27th April :- [9358234](https://www.fixmystreet.com/report/9358234)
 - Series of potholes in the run up to the roundabout and on the roundabout, 26th April :- [9357528](https://www.fixmystreet.com/report/9357528)
 - Dangerous parking, 26th April :- [9357222](https://www.fixmystreet.com/report/9357222)
 - Armchair left out on pavement, 26th April :- [9356646](https://www.fixmystreet.com/report/9356646)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Overflowing bin, 25th April :- [9354223](https://www.fixmystreet.com/report/9354223)
 - Pilgrove way after the roundabout at bushy way on the right smashed up glass, 25th April :- [9354121](https://www.fixmystreet.com/report/9354121)
 - Deep potholes throughout the road, 25th April :- [9354110](https://www.fixmystreet.com/report/9354110)
-- Rats living in crack in paving slab in alleg, 25th April :- [9353986](https://www.fixmystreet.com/report/9353986)
-- Volunteer litter pick bags ready for collection., 25th April :- [9353636](https://www.fixmystreet.com/report/9353636)
-- Hole on the road, 25th April :- [9352647](https://www.fixmystreet.com/report/9352647)
 
 <!-- fix_marker ends -->

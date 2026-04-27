@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Washed out repair, 27th April :- [9363100](https://www.fixmystreet.com/report/9363100)
+- Ruts in Road forming long potholes, 27th April :- [9363077](https://www.fixmystreet.com/report/9363077)
+- Raised tarmac and pothole forming, 27th April :- [9363058](https://www.fixmystreet.com/report/9363058)
+- Bus stop seriously damaged and a health and safety hazard, 27th April :- [9362775](https://www.fixmystreet.com/report/9362775)
 - Outside 64, 27th April :- [9362476](https://www.fixmystreet.com/report/9362476)
 - Overgrown hedges/trees, 27th April :- [9362449](https://www.fixmystreet.com/report/9362449)
 - No maintenance done on stream by the road, now pouring down the road to the culvert at my property eroding tarmac and verge., 27th April :- [9362318](https://www.fixmystreet.com/report/9362318)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A417 diversion route sign blocking visibility out of Old Gloucester Road onto the A4136, 27th April :- [9360446](https://www.fixmystreet.com/report/9360446)
 - Road manholes loosened after work creating noise, 27th April :- [9360397](https://www.fixmystreet.com/report/9360397)
 - Roadworks blocking pavement and cycleway, 27th April :- [9360375](https://www.fixmystreet.com/report/9360375)
-- A number of large golf ball depth and 300 mm wide holes in the road by the layby., 27th April :- [9360194](https://www.fixmystreet.com/report/9360194)
-- Bin bag wrapped item, 27th April :- [9359499](https://www.fixmystreet.com/report/9359499)
-- The drain is blocked problem, 27th April :- [9359663](https://www.fixmystreet.com/report/9359663)
-- A pothole in road problem, 27th April :- [9362099](https://www.fixmystreet.com/report/9362099)
 
 <!-- fix_marker ends -->

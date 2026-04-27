@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The drain clangs everytime it’s driven over, 27th April :- [9364041](https://www.fixmystreet.com/report/9364041)
+- Number 31 Car Parking Issue, 27th April :- [9363721](https://www.fixmystreet.com/report/9363721)
 - Mud and leaves on pavement, slippery when wet., 27th April :- [9363676](https://www.fixmystreet.com/report/9363676)
 - Dropped Kerb, 27th April :- [9363658](https://www.fixmystreet.com/report/9363658)
 - Traffic lights un synchronised, 27th April :- [9363413](https://www.fixmystreet.com/report/9363413)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Bus stop seriously damaged and a health and safety hazard, 27th April :- [9362775](https://www.fixmystreet.com/report/9362775)
 - Outside 64, 27th April :- [9362476](https://www.fixmystreet.com/report/9362476)
 - Overgrown hedges/trees, 27th April :- [9362449](https://www.fixmystreet.com/report/9362449)
-- No maintenance done on stream by the road, now pouring down the road to the culvert at my property eroding tarmac and verge., 27th April :- [9362318](https://www.fixmystreet.com/report/9362318)
-- Street sign vandalised, missing, 27th April :- [9362280](https://www.fixmystreet.com/report/9362280)
 
 <!-- fix_marker ends -->

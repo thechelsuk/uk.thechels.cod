@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Superdry co-founder accused of raping woman ([56 minutes ago](https://www.bbc.com/news/articles/cly7yevvl2wo?at_medium=RSS&at_campaign=rss))
-- 'No plans' to close maternity hospital, says trust ([4 hours ago](https://www.bbc.com/news/articles/cwyvy0grw04o?at_medium=RSS&at_campaign=rss))
-- Ex-chaplain, 82, lifts 200kg in church fundraiser ([6 hours ago](https://www.bbc.com/news/articles/c4g8g25yv93o?at_medium=RSS&at_campaign=rss))
-- Work to begin on new NHS dental hub at university ([12 hours ago](https://www.bbc.com/news/articles/c4gv1mgyvmgo?at_medium=RSS&at_campaign=rss))
-- Veteran hopes challenge will help people open up ([12 hours ago](https://www.bbc.com/news/articles/cvg025n7rzzo?at_medium=RSS&at_campaign=rss))
-- UK's biggest ever environmental pollution claim reaches High Court ([18 hours ago](https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss))
+- Superdry co-founder accused of raping woman ([2 hours ago](https://www.bbc.com/news/articles/cly7yevvl2wo?at_medium=RSS&at_campaign=rss))
+- 'No plans' to close maternity hospital, says trust ([6 hours ago](https://www.bbc.com/news/articles/cwyvy0grw04o?at_medium=RSS&at_campaign=rss))
+- Ex-chaplain, 82, lifts 200kg in church fundraiser ([8 hours ago](https://www.bbc.com/news/articles/c4g8g25yv93o?at_medium=RSS&at_campaign=rss))
+- Work to begin on new NHS dental hub at university ([14 hours ago](https://www.bbc.com/news/articles/c4gv1mgyvmgo?at_medium=RSS&at_campaign=rss))
+- Veteran hopes challenge will help people open up ([14 hours ago](https://www.bbc.com/news/articles/cvg025n7rzzo?at_medium=RSS&at_campaign=rss))
+- UK's biggest ever environmental pollution claim reaches High Court ([20 hours ago](https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss))
 - Motorcyclist airlifted to hospital after crash ([1 days ago](https://www.bbc.com/news/articles/cvglgrzyv71o?at_medium=RSS&at_campaign=rss))
 - Warning as fire breaks out at military base ([1 days ago](https://www.bbc.com/news/articles/czjwj78gr7go?at_medium=RSS&at_campaign=rss))
 - 'It's often easier for people to sing than to speak' ([1 days ago](https://www.bbc.com/news/articles/cdrm86m24kdo?at_medium=RSS&at_campaign=rss))

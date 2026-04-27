@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mud and leaves on pavement, slippery when wet., 27th April :- [9363676](https://www.fixmystreet.com/report/9363676)
+- Dropped Kerb, 27th April :- [9363658](https://www.fixmystreet.com/report/9363658)
+- Traffic lights un synchronised, 27th April :- [9363413](https://www.fixmystreet.com/report/9363413)
+- Flytipped item, 27th April :- [9363356](https://www.fixmystreet.com/report/9363356)
+- Pothole by ironwork, 27th April :- [9363279](https://www.fixmystreet.com/report/9363279)
+- Exposed ironwork, 27th April :- [9363260](https://www.fixmystreet.com/report/9363260)
+- Washed out repair, 27th April :- [9363224](https://www.fixmystreet.com/report/9363224)
+- Poor repairs on roundabout, 27th April :- [9363196](https://www.fixmystreet.com/report/9363196)
+- Deep ruts on roundabout, 27th April :- [9363178](https://www.fixmystreet.com/report/9363178)
+- Ruts formed ng potholes on run up to roundabout, 27th April :- [9363166](https://www.fixmystreet.com/report/9363166)
+- Washed out repair, 27th April :- [9363148](https://www.fixmystreet.com/report/9363148)
+- Deep pothole, 27th April :- [9363141](https://www.fixmystreet.com/report/9363141)
 - Washed out repair, 27th April :- [9363100](https://www.fixmystreet.com/report/9363100)
 - Ruts in Road forming long potholes, 27th April :- [9363077](https://www.fixmystreet.com/report/9363077)
 - Raised tarmac and pothole forming, 27th April :- [9363058](https://www.fixmystreet.com/report/9363058)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - Overgrown hedges/trees, 27th April :- [9362449](https://www.fixmystreet.com/report/9362449)
 - No maintenance done on stream by the road, now pouring down the road to the culvert at my property eroding tarmac and verge., 27th April :- [9362318](https://www.fixmystreet.com/report/9362318)
 - Street sign vandalised, missing, 27th April :- [9362280](https://www.fixmystreet.com/report/9362280)
-- Potential Need for Double Yellows, 27th April :- [9308625](https://www.fixmystreet.com/report/9308625)
-- Volunteer litter picker, 27th April :- [9361933](https://www.fixmystreet.com/report/9361933)
-- There are 2 badly degraded sections of pavement on Glenfall Way close to 1 Warwick Crescent, 27th April :- [9361794](https://www.fixmystreet.com/report/9361794)
-- 4 or 5 reasonably deep holes running along the front of my front plinth, 27th April :- [9361535](https://www.fixmystreet.com/report/9361535)
-- Post or sign leaning slightly (less than 20 degrees) problem, 27th April :- [9361475](https://www.fixmystreet.com/report/9361475)
-- Unpermitted roadworks problem, 27th April :- [9361473](https://www.fixmystreet.com/report/9361473)
-- Street light is permanently out problem, 27th April :- [9361205](https://www.fixmystreet.com/report/9361205)
-- TMC - Defects - Vegetation problem, 27th April :- [9361206](https://www.fixmystreet.com/report/9361206)
-- Tree root bringing up pavement and damaging wall, 27th April :- [9360591](https://www.fixmystreet.com/report/9360591)
-- A417 diversion route sign blocking visibility out of Old Gloucester Road onto the A4136, 27th April :- [9360446](https://www.fixmystreet.com/report/9360446)
-- Road manholes loosened after work creating noise, 27th April :- [9360397](https://www.fixmystreet.com/report/9360397)
-- Roadworks blocking pavement and cycleway, 27th April :- [9360375](https://www.fixmystreet.com/report/9360375)
 
 <!-- fix_marker ends -->

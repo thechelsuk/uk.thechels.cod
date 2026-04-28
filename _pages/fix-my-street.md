@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes along this stretch of road, 28th April :- [9369005](https://www.fixmystreet.com/report/9369005)
+- Dead chestnut tree junction of Albert Rd. and Pittville lawn, 28th April :- [9368808](https://www.fixmystreet.com/report/9368808)
 - Dangerous pavement, 28th April :- [9368358](https://www.fixmystreet.com/report/9368358)
 - Large pot hole, 28th April :- [9368321](https://www.fixmystreet.com/report/9368321)
 - A complete sweep of the gutters in Appleton Way is required., 28th April :- [9368133](https://www.fixmystreet.com/report/9368133)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - Approx 10 x 3 inches. Loose gravel within and scattered on road, 28th April :- [9367407](https://www.fixmystreet.com/report/9367407)
 - TMC - Defects -CW6 Potholes  problem, 28th April :- [9367509](https://www.fixmystreet.com/report/9367509)
 - TMC - Defects -CW6 Potholes  problem, 28th April :- [9367508](https://www.fixmystreet.com/report/9367508)
-- TMC - Defects -CW6 Potholes  problem, 28th April :- [9367307](https://www.fixmystreet.com/report/9367307)
 - TMC - Defects -CW6 Potholes  problem, 28th April :- [9367308](https://www.fixmystreet.com/report/9367308)
-- TMC - Defects -CW6 Potholes  problem, 28th April :- [9367306](https://www.fixmystreet.com/report/9367306)
 
 <!-- fix_marker ends -->

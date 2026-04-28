@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 28 April 2026
 
-- The average temperature today is 14.29˚C,
-- With highs of 14.42˚C and lows of 13.86˚C,
-- It may feel like 13.18˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 54%
+- The average temperature today is 11.48˚C,
+- With highs of 12.19˚C and lows of 10.71˚C,
+- It may feel like 10.15˚C with clear sky
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 56%
 - The sun will rise at 04:44 and set at 19:26
 
 <!-- weather_marker ends -->

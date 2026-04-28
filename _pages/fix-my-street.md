@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pathway from opposite Ellison Close, 28th April :- [9368716](https://www.fixmystreet.com/report/9368716)
+- Cones still in place south and northbound, 28th April :- [9369299](https://www.fixmystreet.com/report/9369299)
+- Flytipped item, 28th April :- [9369275](https://www.fixmystreet.com/report/9369275)
 - Multiple potholes along this stretch of road, 28th April :- [9369005](https://www.fixmystreet.com/report/9369005)
 - Dead chestnut tree junction of Albert Rd. and Pittville lawn, 28th April :- [9368808](https://www.fixmystreet.com/report/9368808)
 - Dangerous pavement, 28th April :- [9368358](https://www.fixmystreet.com/report/9368358)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 28th April :- [9367511](https://www.fixmystreet.com/report/9367511)
 - TMC - Defects -CW6 Potholes  problem, 28th April :- [9367510](https://www.fixmystreet.com/report/9367510)
 - Approx 10 x 3 inches. Loose gravel within and scattered on road, 28th April :- [9367407](https://www.fixmystreet.com/report/9367407)
-- TMC - Defects -CW6 Potholes  problem, 28th April :- [9367509](https://www.fixmystreet.com/report/9367509)
-- TMC - Defects -CW6 Potholes  problem, 28th April :- [9367508](https://www.fixmystreet.com/report/9367508)
-- TMC - Defects -CW6 Potholes  problem, 28th April :- [9367308](https://www.fixmystreet.com/report/9367308)
 
 <!-- fix_marker ends -->

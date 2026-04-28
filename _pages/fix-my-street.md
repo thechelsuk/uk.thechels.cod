@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple pothole repairs of such poor quality riding a bicycle over the area is dangerous, 28th April :- [9370019](https://www.fixmystreet.com/report/9370019)
 - Green traffic light not working., 28th April :- [9369950](https://www.fixmystreet.com/report/9369950)
 - Massive failure of previous repair by a contractor who should be brought back to rectify - particularly dangerous for cyclists as it runs for several meters, 28th April :- [9369881](https://www.fixmystreet.com/report/9369881)
 - Light out, 28th April :- [9369833](https://www.fixmystreet.com/report/9369833)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Illegal closure of footway from James Way to Hucclecote Road, 28th April :- [9367613](https://www.fixmystreet.com/report/9367613)
 - TMC - Defects -CW6 Potholes  problem, 28th April :- [9367688](https://www.fixmystreet.com/report/9367688)
 - TMC - Defects - Covers, Gratings & Frames problem, 28th April :- [9367685](https://www.fixmystreet.com/report/9367685)
-- TMC - Defects -CW6 Potholes  problem, 28th April :- [9367512](https://www.fixmystreet.com/report/9367512)
 
 <!-- fix_marker ends -->

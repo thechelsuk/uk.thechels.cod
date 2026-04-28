@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Green traffic light not working., 28th April :- [9369950](https://www.fixmystreet.com/report/9369950)
+- Massive failure of previous repair by a contractor who should be brought back to rectify - particularly dangerous for cyclists as it runs for several meters, 28th April :- [9369881](https://www.fixmystreet.com/report/9369881)
+- Light out, 28th April :- [9369833](https://www.fixmystreet.com/report/9369833)
 - Pathway from opposite Ellison Close, 28th April :- [9368716](https://www.fixmystreet.com/report/9368716)
 - Cones still in place south and northbound, 28th April :- [9369299](https://www.fixmystreet.com/report/9369299)
 - Flytipped item, 28th April :- [9369275](https://www.fixmystreet.com/report/9369275)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 28th April :- [9367688](https://www.fixmystreet.com/report/9367688)
 - TMC - Defects - Covers, Gratings & Frames problem, 28th April :- [9367685](https://www.fixmystreet.com/report/9367685)
 - TMC - Defects -CW6 Potholes  problem, 28th April :- [9367512](https://www.fixmystreet.com/report/9367512)
-- TMC - Defects -CW6 Potholes  problem, 28th April :- [9367511](https://www.fixmystreet.com/report/9367511)
-- TMC - Defects -CW6 Potholes  problem, 28th April :- [9367510](https://www.fixmystreet.com/report/9367510)
-- Approx 10 x 3 inches. Loose gravel within and scattered on road, 28th April :- [9367407](https://www.fixmystreet.com/report/9367407)
 
 <!-- fix_marker ends -->

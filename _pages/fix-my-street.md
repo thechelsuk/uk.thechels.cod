@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light sensor is not detecting vehicles problem, 28th April :- [9365721](https://www.fixmystreet.com/report/9365721)
+- TMC - Defects - Footways Slabs problem, 28th April :- [9365726](https://www.fixmystreet.com/report/9365726)
+- Very large pothole where the road has fallen away. Unclear why potholes close by were filled and this was not. The road as a whole is in a terrible condition due to building and the use of heavy vehicles which has led to road collapse . Other residents and public using this public highway are suffering vehicle damage . There are also overgrown trees which were not adequately cut at the top of the road despite council notice last year. Similarly for trees at the bottom of the lane are also badly overgrown and damaging cars and vans, 28th April :- [9358513](https://www.fixmystreet.com/report/9358513)
+- Trees blocking highway access, 28th April :- [9358530](https://www.fixmystreet.com/report/9358530)
+- TMC - Defects - Road Markings problem, 28th April :- [9365068](https://www.fixmystreet.com/report/9365068)
+- TMC - Defects -CW6 Potholes  problem, 28th April :- [9365069](https://www.fixmystreet.com/report/9365069)
+- TMC - Defects -CW6 Potholes  problem, 28th April :- [9365067](https://www.fixmystreet.com/report/9365067)
+- TMC - Defects -other CW6 problem, 28th April :- [9365066](https://www.fixmystreet.com/report/9365066)
+- TMC - Defects -CW6 Potholes  problem, 28th April :- [9365065](https://www.fixmystreet.com/report/9365065)
+- Post or sign leaning slightly (less than 20 degrees) problem, 28th April :- [9365061](https://www.fixmystreet.com/report/9365061)
 - Weeds and rubbish, 28th April :- [9364594](https://www.fixmystreet.com/report/9364594)
 - Van been dumped there for about 5 weeks now, 28th April :- [9364570](https://www.fixmystreet.com/report/9364570)
 - More pitted than the moon, 27th April :- [9364121](https://www.fixmystreet.com/report/9364121)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Traffic lights un synchronised, 27th April :- [9363413](https://www.fixmystreet.com/report/9363413)
 - Flytipped item, 27th April :- [9363356](https://www.fixmystreet.com/report/9363356)
 - Pothole by ironwork, 27th April :- [9363279](https://www.fixmystreet.com/report/9363279)
-- Exposed ironwork, 27th April :- [9363260](https://www.fixmystreet.com/report/9363260)
-- Washed out repair, 27th April :- [9363224](https://www.fixmystreet.com/report/9363224)
-- Poor repairs on roundabout, 27th April :- [9363196](https://www.fixmystreet.com/report/9363196)
-- Deep ruts on roundabout, 27th April :- [9363178](https://www.fixmystreet.com/report/9363178)
-- Ruts formed ng potholes on run up to roundabout, 27th April :- [9363166](https://www.fixmystreet.com/report/9363166)
-- Washed out repair, 27th April :- [9363148](https://www.fixmystreet.com/report/9363148)
-- Deep pothole, 27th April :- [9363141](https://www.fixmystreet.com/report/9363141)
-- Washed out repair, 27th April :- [9363100](https://www.fixmystreet.com/report/9363100)
-- Ruts in Road forming long potholes, 27th April :- [9363077](https://www.fixmystreet.com/report/9363077)
-- Raised tarmac and pothole forming, 27th April :- [9363058](https://www.fixmystreet.com/report/9363058)
 
 <!-- fix_marker ends -->

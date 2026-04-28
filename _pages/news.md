@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Huge plumes of smoke as crews put out  garden fire ([4 hours ago](https://www.bbc.com/news/articles/clydyy5q5p5o?at_medium=RSS&at_campaign=rss))
-- Superdry co-founder accused of raping woman ([8 hours ago](https://www.bbc.com/news/articles/cly7yevvl2wo?at_medium=RSS&at_campaign=rss))
-- 'No plans' to close maternity hospital, says trust ([12 hours ago](https://www.bbc.com/news/articles/cwyvy0grw04o?at_medium=RSS&at_campaign=rss))
-- Ex-chaplain, 82, lifts 200kg in church fundraiser ([14 hours ago](https://www.bbc.com/news/articles/c4g8g25yv93o?at_medium=RSS&at_campaign=rss))
-- Work to begin on new NHS dental hub at university ([20 hours ago](https://www.bbc.com/news/articles/c4gv1mgyvmgo?at_medium=RSS&at_campaign=rss))
-- Veteran hopes challenge will help people open up ([20 hours ago](https://www.bbc.com/news/articles/cvg025n7rzzo?at_medium=RSS&at_campaign=rss))
+- Huge plumes of smoke as crews put out  garden fire ([6 hours ago](https://www.bbc.com/news/articles/clydyy5q5p5o?at_medium=RSS&at_campaign=rss))
+- Superdry co-founder accused of raping woman ([11 hours ago](https://www.bbc.com/news/articles/cly7yevvl2wo?at_medium=RSS&at_campaign=rss))
+- 'No plans' to close maternity hospital, says trust ([15 hours ago](https://www.bbc.com/news/articles/cwyvy0grw04o?at_medium=RSS&at_campaign=rss))
+- Ex-chaplain, 82, lifts 200kg in church fundraiser ([17 hours ago](https://www.bbc.com/news/articles/c4g8g25yv93o?at_medium=RSS&at_campaign=rss))
+- Work to begin on new NHS dental hub at university ([22 hours ago](https://www.bbc.com/news/articles/c4gv1mgyvmgo?at_medium=RSS&at_campaign=rss))
+- Veteran hopes challenge will help people open up ([22 hours ago](https://www.bbc.com/news/articles/cvg025n7rzzo?at_medium=RSS&at_campaign=rss))
 - UK's biggest ever environmental pollution claim reaches High Court ([1 days ago](https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss))
 - Motorcyclist airlifted to hospital after crash ([1 days ago](https://www.bbc.com/news/articles/cvglgrzyv71o?at_medium=RSS&at_campaign=rss))
 - Warning as fire breaks out at military base ([1 days ago](https://www.bbc.com/news/articles/czjwj78gr7go?at_medium=RSS&at_campaign=rss))

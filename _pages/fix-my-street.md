@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Weeds and rubbish, 28th April :- [9364594](https://www.fixmystreet.com/report/9364594)
+- Van been dumped there for about 5 weeks now, 28th April :- [9364570](https://www.fixmystreet.com/report/9364570)
 - More pitted than the moon, 27th April :- [9364121](https://www.fixmystreet.com/report/9364121)
 - The drain clangs everytime it’s driven over, 27th April :- [9364041](https://www.fixmystreet.com/report/9364041)
 - Number 31 Car Parking Issue, 27th April :- [9363721](https://www.fixmystreet.com/report/9363721)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Washed out repair, 27th April :- [9363100](https://www.fixmystreet.com/report/9363100)
 - Ruts in Road forming long potholes, 27th April :- [9363077](https://www.fixmystreet.com/report/9363077)
 - Raised tarmac and pothole forming, 27th April :- [9363058](https://www.fixmystreet.com/report/9363058)
-- Bus stop seriously damaged and a health and safety hazard, 27th April :- [9362775](https://www.fixmystreet.com/report/9362775)
-- Outside 64, 27th April :- [9362476](https://www.fixmystreet.com/report/9362476)
 
 <!-- fix_marker ends -->

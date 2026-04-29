@@ -9,6 +9,19 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large crater/depression in the road, 29th April :- [9372433](https://www.fixmystreet.com/report/9372433)
+- TMC - Defects - Kerbs and Channels problem, 29th April :- [9372389](https://www.fixmystreet.com/report/9372389)
+- TMC - Defects - Kerbs and Channels problem, 29th April :- [9372386](https://www.fixmystreet.com/report/9372386)
+- TMC - Defects - Kerbs and Channels problem, 29th April :- [9372387](https://www.fixmystreet.com/report/9372387)
+- TMC - Defects - Kerbs and Channels problem, 29th April :- [9372388](https://www.fixmystreet.com/report/9372388)
+- TMC - Defects - Kerbs and Channels problem, 29th April :- [9372390](https://www.fixmystreet.com/report/9372390)
+- TMC - Defects - Fences & Barriers problem, 29th April :- [9372381](https://www.fixmystreet.com/report/9372381)
+- Potholes in many areas - shocking road service, 29th April :- [9372070](https://www.fixmystreet.com/report/9372070)
+- TMC - Defects -CW6 Potholes  problem, 29th April :- [9372153](https://www.fixmystreet.com/report/9372153)
+- TMC - Defects -CW6 Potholes  problem, 29th April :- [9372152](https://www.fixmystreet.com/report/9372152)
+- TMC - Defects -CW6 Potholes  problem, 29th April :- [9372151](https://www.fixmystreet.com/report/9372151)
+- TMC - Defects - Footways Slabs problem, 29th April :- [9372149](https://www.fixmystreet.com/report/9372149)
+- TMC - Defects - Other FW6  Surface problem, 29th April :- [9371904](https://www.fixmystreet.com/report/9371904)
 - Damaged bollard, 29th April :- [9371517](https://www.fixmystreet.com/report/9371517)
 - TMC - Defects -CW10 Potholes problem, 29th April :- [9371663](https://www.fixmystreet.com/report/9371663)
 - Disabled bay markings, 29th April :- [9371451](https://www.fixmystreet.com/report/9371451)
@@ -16,18 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 29th April :- [9371649](https://www.fixmystreet.com/report/9371649)
 - TMC - Defects -CW6 Potholes  problem, 29th April :- [9371436](https://www.fixmystreet.com/report/9371436)
 - TMC - Defects - Kerbs and Channels problem, 29th April :- [9371433](https://www.fixmystreet.com/report/9371433)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9371431](https://www.fixmystreet.com/report/9371431)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9371438](https://www.fixmystreet.com/report/9371438)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9371434](https://www.fixmystreet.com/report/9371434)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9371437](https://www.fixmystreet.com/report/9371437)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9371435](https://www.fixmystreet.com/report/9371435)
-- Plooms of dust on road, 29th April :- [9371386](https://www.fixmystreet.com/report/9371386)
-- TMC - Defects - Other problem, 29th April :- [9371430](https://www.fixmystreet.com/report/9371430)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9371203](https://www.fixmystreet.com/report/9371203)
-- TMC - Defects -CW10 Potholes problem, 29th April :- [9371202](https://www.fixmystreet.com/report/9371202)
-- Fly tipped worn tyres, 29th April :- [9371030](https://www.fixmystreet.com/report/9371030)
-- TMC - Defects -FW6 Potholes problem, 29th April :- [9371193](https://www.fixmystreet.com/report/9371193)
-- TMC - Defects -FW6 Potholes problem, 29th April :- [9371194](https://www.fixmystreet.com/report/9371194)
-- TMC - Defects -CW10 Potholes problem, 29th April :- [9370915](https://www.fixmystreet.com/report/9370915)
 
 <!-- fix_marker ends -->

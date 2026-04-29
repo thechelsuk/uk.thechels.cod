@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 29th April :- [9370915](https://www.fixmystreet.com/report/9370915)
+- TMC - Defects -CW10 Potholes problem, 29th April :- [9370916](https://www.fixmystreet.com/report/9370916)
 - Multiple pothole repairs of such poor quality riding a bicycle over the area is dangerous, 28th April :- [9370019](https://www.fixmystreet.com/report/9370019)
 - Green traffic light not working., 28th April :- [9369950](https://www.fixmystreet.com/report/9369950)
 - Massive failure of previous repair by a contractor who should be brought back to rectify - particularly dangerous for cyclists as it runs for several meters, 28th April :- [9369881](https://www.fixmystreet.com/report/9369881)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 28th April :- [9367945](https://www.fixmystreet.com/report/9367945)
 - TMC - Defects -FW6 Potholes problem, 28th April :- [9367939](https://www.fixmystreet.com/report/9367939)
 - Illegal closure of footway from James Way to Hucclecote Road, 28th April :- [9367613](https://www.fixmystreet.com/report/9367613)
-- TMC - Defects -CW6 Potholes  problem, 28th April :- [9367688](https://www.fixmystreet.com/report/9367688)
-- TMC - Defects - Covers, Gratings & Frames problem, 28th April :- [9367685](https://www.fixmystreet.com/report/9367685)
 
 <!-- fix_marker ends -->

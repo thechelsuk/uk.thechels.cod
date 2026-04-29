@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Gloucestershire College to open new campus this year ([4 hours ago](https://gloucesternewscentre.co.uk/gloucestershire-college-to-open-new-campus-this-year/))
-- Superdry co-founder tells rape trial he had consent ([6 hours ago](https://www.bbc.com/news/articles/cewplwvqkxxo?at_medium=RSS&at_campaign=rss))
-- City centre roads closed after building fire ([7 hours ago](https://www.bbc.com/news/articles/cewp1ldv5z9o?at_medium=RSS&at_campaign=rss))
-- College expands into former university campus ([10 hours ago](https://www.bbc.com/news/articles/cgrpj8gx8d5o?at_medium=RSS&at_campaign=rss))
-- England's best brass band wins European title ([15 hours ago](https://www.bbc.com/news/articles/c1m20zrgk0yo?at_medium=RSS&at_campaign=rss))
-- Residents 'lose faith' after town's shop closures ([15 hours ago](https://www.bbc.com/news/articles/cj949keep2po?at_medium=RSS&at_campaign=rss))
+- Gloucestershire College to open new campus this year ([6 hours ago](https://gloucesternewscentre.co.uk/gloucestershire-college-to-open-new-campus-this-year/))
+- Superdry co-founder tells rape trial he had consent ([8 hours ago](https://www.bbc.com/news/articles/cewplwvqkxxo?at_medium=RSS&at_campaign=rss))
+- City centre roads closed after building fire ([9 hours ago](https://www.bbc.com/news/articles/cewp1ldv5z9o?at_medium=RSS&at_campaign=rss))
+- College expands into former university campus ([12 hours ago](https://www.bbc.com/news/articles/cgrpj8gx8d5o?at_medium=RSS&at_campaign=rss))
+- England's best brass band wins European title ([17 hours ago](https://www.bbc.com/news/articles/c1m20zrgk0yo?at_medium=RSS&at_campaign=rss))
+- Residents 'lose faith' after town's shop closures ([17 hours ago](https://www.bbc.com/news/articles/cj949keep2po?at_medium=RSS&at_campaign=rss))
 - Rape accused said 'I'm not going home', court told ([1 days ago](https://www.bbc.com/news/articles/c936pdd0vyeo?at_medium=RSS&at_campaign=rss))
 - Fire service issues water safety warning as warmer weather arrives ([1 days ago](https://gloucesternewscentre.co.uk/fire-service-issues-water-safety-warning-as-warmer-weather-arrives/))
 - Cheltenham and Cirencester among towns to get 5G+ boost ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-and-cirencester-among-towns-to-get-5g-boost/))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Severe surface defects,, 29th April :- [9376148](https://www.fixmystreet.com/report/9376148)
 - Two potholes in road, 29th April :- [9376002](https://www.fixmystreet.com/report/9376002)
 - There are about 5 deep and growing potholes from the main road junction towards Field Close, 29th April :- [9375983](https://www.fixmystreet.com/report/9375983)
 - Pothole and significant surface erosion next to recent patch repairs, 29th April :- [9375656](https://www.fixmystreet.com/report/9375656)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 29th April :- [9374422](https://www.fixmystreet.com/report/9374422)
 - Road signage left behind, 29th April :- [9374063](https://www.fixmystreet.com/report/9374063)
 - TMC - Defects -CW6 Potholes  problem, 29th April :- [9373793](https://www.fixmystreet.com/report/9373793)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9373783](https://www.fixmystreet.com/report/9373783)
 
 <!-- fix_marker ends -->

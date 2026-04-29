@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
 >
 
@@ -14,6 +14,24 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 29th April</title>
+<link>https://www.fixmystreet.com/report/9370915</link>
+<description>Cw pothole &amp;#10;Around gully &amp;#10;Stats required &amp;#10;501x500x56mm&amp;#10;Give and take (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9370915&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9370915</guid>
+<pubDate>Wed, 29 Apr 2026 08:04:39 +0100</pubDate>
+<georss:point>51.8869787 -2.13087889999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 29th April</title>
+<link>https://www.fixmystreet.com/report/9370916</link>
+<description>Cw pothole &amp;#10;604x300x42mm&amp;#10;X3 nsd &amp;#10;Rd closure (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9370916&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9370916</guid>
+<pubDate>Wed, 29 Apr 2026 08:04:39 +0100</pubDate>
+<georss:point>51.8880229261883 -2.13207098726407</georss:point>
+</item>
 <item>
 <title>Multiple pothole repairs of such poor quality riding a bicycle over the area is dangerous, 28th April</title>
 <link>https://www.fixmystreet.com/report/9370019</link>
@@ -175,24 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9367613</guid>
 <pubDate>Tue, 28 Apr 2026 14:23:57 +0100</pubDate>
 <georss:point>51.850549 -2.173266</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 28th April</title>
-<link>https://www.fixmystreet.com/report/9367688</link>
-<description>2 way stop and go 28 day  carriage way pothole 800x700x40mm approx number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9367688&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9367688</guid>
-<pubDate>Tue, 28 Apr 2026 14:15:42 +0100</pubDate>
-<georss:point>51.8986769269746 -2.03706870449576</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 28th April</title>
-<link>https://www.fixmystreet.com/report/9367685</link>
-<description>Noisy/ Rattling Cover&amp;#10;Please lift and investigate &amp;#10;2-Way Stop &amp;amp; Go + 2 TUSC&amp;#39;s (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9367685&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9367685</guid>
-<pubDate>Tue, 28 Apr 2026 14:07:06 +0100</pubDate>
-<georss:point>51.9106014842705 -2.08897211685261</georss:point>
 </item>
 </channel>
 </rss>

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Two potholes in road, 29th April :- [9376002](https://www.fixmystreet.com/report/9376002)
+- There are about 5 deep and growing potholes from the main road junction towards Field Close, 29th April :- [9375983](https://www.fixmystreet.com/report/9375983)
 - Pothole and significant surface erosion next to recent patch repairs, 29th April :- [9375656](https://www.fixmystreet.com/report/9375656)
 - Pavement damage, 29th April :- [9375502](https://www.fixmystreet.com/report/9375502)
 - Unusable cycle lane, 29th April :- [9375419](https://www.fixmystreet.com/report/9375419)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Road signage left behind, 29th April :- [9374063](https://www.fixmystreet.com/report/9374063)
 - TMC - Defects -CW6 Potholes  problem, 29th April :- [9373793](https://www.fixmystreet.com/report/9373793)
 - TMC - Defects -CW6 Potholes  problem, 29th April :- [9373783](https://www.fixmystreet.com/report/9373783)
-- TMC - Defects - Kerbs and Channels problem, 29th April :- [9373784](https://www.fixmystreet.com/report/9373784)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9373771](https://www.fixmystreet.com/report/9373771)
 
 <!-- fix_marker ends -->

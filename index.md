@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 29 April 2026
 
-- The average temperature today is 16.27˚C,
-- With highs of 16.27˚C and lows of 16.27˚C,
-- It may feel like 15.28˚C with clear sky
-- The wind speed is 9.56m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 51%
+- The average temperature today is 16.83˚C,
+- With highs of 16.83˚C and lows of 16.83˚C,
+- It may feel like 16.03˚C with scattered clouds
+- The wind speed is 9.07m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 56%
 - The sun will rise at 04:42 and set at 19:28
 
 <!-- weather_marker ends -->

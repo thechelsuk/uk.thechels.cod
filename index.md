@@ -11,12 +11,12 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 30 April 2026
 
-- The average temperature today is 12.69˚C,
-- With highs of 12.69˚C and lows of 12.69˚C,
-- It may feel like 11.32˚C with clear sky
-- The wind speed is 2.71m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 50%
-- The sun will rise at 04:41 and set at 19:29
+- The average temperature today is 11.71˚C,
+- With highs of 11.71˚C and lows of 11.71˚C,
+- It may feel like 10.32˚C with clear sky
+- The wind speed is 2.96m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 53%
+- The sun will rise at 04:39 and set at 19:31
 
 <!-- weather_marker ends -->
 

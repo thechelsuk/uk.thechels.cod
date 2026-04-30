@@ -25,9 +25,9 @@ permalink: /fix-my-street
 - TMC - Defects - Signs & Street Furniture problem, 30th April :- [9380172](https://www.fixmystreet.com/report/9380172)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [9379996](https://www.fixmystreet.com/report/9379996)
 - Overgrown trees in footpath affecting gardens, 30th April :- [9379937](https://www.fixmystreet.com/report/9379937)
-- TMC - Defects -CW6 Potholes  problem, 30th April :- [9379982](https://www.fixmystreet.com/report/9379982)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [9379983](https://www.fixmystreet.com/report/9379983)
-- TMC - Defects -CW6 Potholes  problem, 30th April :- [9379974](https://www.fixmystreet.com/report/9379974)
+- TMC - Defects -CW6 Potholes  problem, 30th April :- [9379982](https://www.fixmystreet.com/report/9379982)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [9379975](https://www.fixmystreet.com/report/9379975)
+- TMC - Defects -CW6 Potholes  problem, 30th April :- [9379974](https://www.fixmystreet.com/report/9379974)
 
 <!-- fix_marker ends -->

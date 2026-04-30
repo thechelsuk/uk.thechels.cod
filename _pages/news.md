@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Electric show comes to Cheltenham ([1 hours ago](https://gloucesternewscentre.co.uk/65914-2/))
-- Gloucester City celebrate play-off semi-final success in biggest ever night at New Meadow Park. ([2 hours ago](https://www.bbc.co.uk/sounds/play/p0nhkslj?at_medium=RSS&at_campaign=rss))
-- Van driver arrested after death of motorcyclist ([5 hours ago](https://www.bbc.com/news/articles/cd6pqxwvz8qo?at_medium=RSS&at_campaign=rss))
-- Wychwood Festival 2026: Everything you need to know ([11 hours ago](https://www.bbc.com/news/articles/cqxpj5g4857o?at_medium=RSS&at_campaign=rss))
-- Dog walker finds 3,000-year-old axe head in forest ([11 hours ago](https://www.bbc.com/news/articles/cdxplxz9808o?at_medium=RSS&at_campaign=rss))
+- Electric show comes to Cheltenham ([3 hours ago](https://gloucesternewscentre.co.uk/65914-2/))
+- Gloucester City celebrate play-off semi-final success in biggest ever night at New Meadow Park. ([4 hours ago](https://www.bbc.co.uk/sounds/play/p0nhkslj?at_medium=RSS&at_campaign=rss))
+- Van driver arrested after death of motorcyclist ([7 hours ago](https://www.bbc.com/news/articles/cd6pqxwvz8qo?at_medium=RSS&at_campaign=rss))
+- Wychwood Festival 2026: Everything you need to know ([13 hours ago](https://www.bbc.com/news/articles/cqxpj5g4857o?at_medium=RSS&at_campaign=rss))
+- Dog walker finds 3,000-year-old axe head in forest ([13 hours ago](https://www.bbc.com/news/articles/cdxplxz9808o?at_medium=RSS&at_campaign=rss))
 - Gloucestershire College to open new campus this year ([1 days ago](https://gloucesternewscentre.co.uk/gloucestershire-college-to-open-new-campus-this-year/))
 - Superdry co-founder tells rape trial he had consent ([1 days ago](https://www.bbc.com/news/articles/cewplwvqkxxo?at_medium=RSS&at_campaign=rss))
 - City centre roads closed after building fire ([1 days ago](https://www.bbc.com/news/articles/cewp1ldv5z9o?at_medium=RSS&at_campaign=rss))

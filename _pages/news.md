@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Wychwood Festival 2026: Everything you need to know ([4 hours ago](https://www.bbc.com/news/articles/cqxpj5g4857o?at_medium=RSS&at_campaign=rss))
-- Dog walker finds 3,000-year-old axe head in forest ([4 hours ago](https://www.bbc.com/news/articles/cdxplxz9808o?at_medium=RSS&at_campaign=rss))
-- Gloucestershire College to open new campus this year ([16 hours ago](https://gloucesternewscentre.co.uk/gloucestershire-college-to-open-new-campus-this-year/))
-- Superdry co-founder tells rape trial he had consent ([19 hours ago](https://www.bbc.com/news/articles/cewplwvqkxxo?at_medium=RSS&at_campaign=rss))
-- City centre roads closed after building fire ([19 hours ago](https://www.bbc.com/news/articles/cewp1ldv5z9o?at_medium=RSS&at_campaign=rss))
-- College expands into former university campus ([23 hours ago](https://www.bbc.com/news/articles/cgrpj8gx8d5o?at_medium=RSS&at_campaign=rss))
+- Wychwood Festival 2026: Everything you need to know ([5 hours ago](https://www.bbc.com/news/articles/cqxpj5g4857o?at_medium=RSS&at_campaign=rss))
+- Dog walker finds 3,000-year-old axe head in forest ([6 hours ago](https://www.bbc.com/news/articles/cdxplxz9808o?at_medium=RSS&at_campaign=rss))
+- Gloucestershire College to open new campus this year ([18 hours ago](https://gloucesternewscentre.co.uk/gloucestershire-college-to-open-new-campus-this-year/))
+- Superdry co-founder tells rape trial he had consent ([20 hours ago](https://www.bbc.com/news/articles/cewplwvqkxxo?at_medium=RSS&at_campaign=rss))
+- City centre roads closed after building fire ([21 hours ago](https://www.bbc.com/news/articles/cewp1ldv5z9o?at_medium=RSS&at_campaign=rss))
+- College expands into former university campus ([1 days ago](https://www.bbc.com/news/articles/cgrpj8gx8d5o?at_medium=RSS&at_campaign=rss))
 - England's best brass band wins European title ([1 days ago](https://www.bbc.com/news/articles/c1m20zrgk0yo?at_medium=RSS&at_campaign=rss))
 - Residents 'lose faith' after town's shop closures ([1 days ago](https://www.bbc.com/news/articles/cj949keep2po?at_medium=RSS&at_campaign=rss))
 - Rape accused said 'I'm not going home', court told ([1 days ago](https://www.bbc.com/news/articles/c936pdd0vyeo?at_medium=RSS&at_campaign=rss))

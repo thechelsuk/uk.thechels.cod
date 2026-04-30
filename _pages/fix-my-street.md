@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple large potholes on Gloucester Place, 30th April :- [9380985](https://www.fixmystreet.com/report/9380985)
+- Karge tree with lots of large dead branches, 30th April :- [9380852](https://www.fixmystreet.com/report/9380852)
 - Public Footpath improperly marked/diverted, 30th April :- [9380572](https://www.fixmystreet.com/report/9380572)
 - Large, deep pothole, likely to cause damage to cars, and a danger to cyclists, 30th April :- [9380197](https://www.fixmystreet.com/report/9380197)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [9380357](https://www.fixmystreet.com/report/9380357)
@@ -25,9 +27,7 @@ permalink: /fix-my-street
 - Overgrown trees in footpath affecting gardens, 30th April :- [9379937](https://www.fixmystreet.com/report/9379937)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [9379982](https://www.fixmystreet.com/report/9379982)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [9379983](https://www.fixmystreet.com/report/9379983)
-- TMC - Defects -CW6 Potholes  problem, 30th April :- [9379975](https://www.fixmystreet.com/report/9379975)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [9379974](https://www.fixmystreet.com/report/9379974)
-- Amber Light not working, 30th April :- [9379740](https://www.fixmystreet.com/report/9379740)
-- TMC - Defects -other CW6 problem, 30th April :- [9379719](https://www.fixmystreet.com/report/9379719)
+- TMC - Defects -CW6 Potholes  problem, 30th April :- [9379975](https://www.fixmystreet.com/report/9379975)
 
 <!-- fix_marker ends -->

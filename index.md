@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 30 April 2026
 
-- The average temperature today is 20.16˚C,
-- With highs of 20.16˚C and lows of 20.16˚C,
-- It may feel like 19.25˚C with clear sky
-- The wind speed is 6.37m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 39%
+- The average temperature today is 19.6˚C,
+- With highs of 19.6˚C and lows of 19.6˚C,
+- It may feel like 18.71˚C with clear sky
+- The wind speed is 5.6m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 42%
 - The sun will rise at 04:41 and set at 19:29
 
 <!-- weather_marker ends -->
@@ -42,10 +42,10 @@ The market will run on:
 Given proximity to GCHQ...
 
 <!-- threat_marker starts -->
-### SUBSTANTIAL
+### SEVERE
 
-- Current threat level: SUBSTANTIAL
-- It has been 786 days since the last change (2024-03-05)
-- Details: The current national threat level is SUBSTANTIAL. The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.
+- Current Threat Level: SEVERE
+- It has been 0 days since the last change (2026-04-30)
+- Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->

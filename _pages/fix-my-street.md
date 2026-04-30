@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Soddy unprofessional repair work!!!!, 30th April :- [9377111](https://www.fixmystreet.com/report/9377111)
 - Severe surface defects,, 29th April :- [9376148](https://www.fixmystreet.com/report/9376148)
 - Two potholes in road, 29th April :- [9376002](https://www.fixmystreet.com/report/9376002)
 - There are about 5 deep and growing potholes from the main road junction towards Field Close, 29th April :- [9375983](https://www.fixmystreet.com/report/9375983)
@@ -22,12 +23,11 @@ permalink: /fix-my-street
 - Pole is out of the ground and laying down, 29th April :- [9374752](https://www.fixmystreet.com/report/9374752)
 - Long, deep pothole by post box, 29th April :- [9374539](https://www.fixmystreet.com/report/9374539)
 - Shelter needs sprucing up, 29th April :- [9374364](https://www.fixmystreet.com/report/9374364)
-- TMC - Defects -CW10 Potholes problem, 29th April :- [9374421](https://www.fixmystreet.com/report/9374421)
 - TMC - Defects -CW10 Potholes problem, 29th April :- [9374418](https://www.fixmystreet.com/report/9374418)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9374419](https://www.fixmystreet.com/report/9374419)
+- TMC - Defects -CW10 Potholes problem, 29th April :- [9374421](https://www.fixmystreet.com/report/9374421)
 - TMC - Defects -CW6 Potholes  problem, 29th April :- [9374420](https://www.fixmystreet.com/report/9374420)
+- TMC - Defects -CW6 Potholes  problem, 29th April :- [9374419](https://www.fixmystreet.com/report/9374419)
 - TMC - Defects -CW10 Potholes problem, 29th April :- [9374422](https://www.fixmystreet.com/report/9374422)
 - Road signage left behind, 29th April :- [9374063](https://www.fixmystreet.com/report/9374063)
-- TMC - Defects -CW6 Potholes  problem, 29th April :- [9373793](https://www.fixmystreet.com/report/9373793)
 
 <!-- fix_marker ends -->

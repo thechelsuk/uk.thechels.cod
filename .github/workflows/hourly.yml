@@ -7,11 +7,16 @@ on:
 
 permissions:
     contents: write
+    pages: write
+    id-token: write
     pull-requests: read
     issues: read
 
 jobs:
     build:
+        outputs:
+            changed: ${{ steps.commit.outputs.changed }}
+            ref: ${{ steps.commit.outputs.ref }}
         permissions:
             contents: write
             pull-requests: read
@@ -34,19 +39,11 @@ jobs:
                   curl "https://data.police.uk/api/crimes-street/all-crime?lat=51.9042&lng=-2.10141" | jq . > _data/AA3_all_crime.json
                   curl "https://data.police.uk/api/crimes-street/stops-street?lat=51.9042&lng=-2.10141" | jq . > _data/AA3_stops_street.json
 
-            - name: Commit and push
-              run: |-
-                  git diff
-                  git config user.name "GitHub Action"
-                  git config user.email "action@github.com"
-                  git add -A
-                  git diff --staged --quiet || git commit -m "Chore: Pull latest data for `date +'%Y-%m-%d %H:%M'`"
-                  git push
-
             - name: Set up Python
               uses: actions/setup-python@v6
               with:
                   python-version: 3.13.2
+
             - uses: actions/cache@v5
               name: Configure pip Caching
               with:
@@ -54,9 +51,11 @@ jobs:
                   key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
                   restore-keys: |
                       ${{ runner.os }}-pip-
+
             - name: Install Python Dependencies
               run: |
                   python -m pip install -r requirements.txt
+
             - name: Processing Python Scripts
               env:
                   OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
@@ -69,11 +68,28 @@ jobs:
                   python '_python/weather.py'
                   python '_python/news.py'
 
-            - name: Commit and push
+            - name: Commit and push if changed
+              id: commit
               run: |-
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
                   git add -A
-                  git diff --staged --quiet || git commit -m "Chore: Processing data for `date +'%Y-%m-%d %H:%M'`"
+
+                  if git diff --staged --quiet; then
+                    echo "changed=false" >> "$GITHUB_OUTPUT"
+                    exit 0
+                  fi
+
+                  git commit -m "Chore: Refresh generated data for `date +'%Y-%m-%d %H:%M'`"
                   git push
+                  echo "changed=true" >> "$GITHUB_OUTPUT"
+                  echo "ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+    deploy:
+        needs: build
+        if: needs.build.outputs.changed == 'true'
+        uses: ./.github/workflows/deploy-pages.yml
+        with:
+            ref: ${{ needs.build.outputs.ref }}
+        secrets: inherit

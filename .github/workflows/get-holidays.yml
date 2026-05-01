@@ -1,25 +1,50 @@
 name: Fetch UK Bank Holidays
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '17 0 1 * *'
+    workflow_dispatch:
+    schedule:
+        - cron: "17 0 1 * *"
+
+permissions:
+    contents: write
+    pages: write
+    id-token: write
 
 jobs:
-  scheduled:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out this repo
-        uses: actions/checkout@v6
+    scheduled:
+        outputs:
+            changed: ${{ steps.commit.outputs.changed }}
+            ref: ${{ steps.commit.outputs.ref }}
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out this repo
+              uses: actions/checkout@v6
 
-      - name: Fetch latest data
-        run: |
-          curl https://www.gov.uk/bank-holidays.json | jq . > _data/holidays.json
+            - name: Fetch latest data
+              run: |
+                  curl https://www.gov.uk/bank-holidays.json | jq . > _data/holidays.json
 
-      - name: Commit and push if it changed
-        run: |
-          git diff
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git add -A
-          git diff --staged --quiet || git commit -m "Chore: Pull latest data for `date +'%Y-%m-%d %H:%M'`"
-          git push
+            - name: Commit and push if it changed
+              id: commit
+              run: |
+                  git diff
+                  git config user.name "GitHub Action"
+                  git config user.email "action@github.com"
+                  git add -A
+
+                  if git diff --staged --quiet; then
+                    echo "changed=false" >> "$GITHUB_OUTPUT"
+                    exit 0
+                  fi
+
+                  git commit -m "Chore: Pull latest data for `date +'%Y-%m-%d %H:%M'`"
+                  git push
+                  echo "changed=true" >> "$GITHUB_OUTPUT"
+                  echo "ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+    deploy:
+        needs: scheduled
+        if: needs.scheduled.outputs.changed == 'true'
+        uses: ./.github/workflows/deploy-pages.yml
+        with:
+            ref: ${{ needs.scheduled.outputs.ref }}
+        secrets: inherit

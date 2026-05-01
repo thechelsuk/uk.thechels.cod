@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 01 May 2026
 
-- The average temperature today is 15.38˚C,
-- With highs of 18.49˚C and lows of 14.83˚C,
-- It may feel like 14.98˚C with broken clouds
+- The average temperature today is 16.24˚C,
+- With highs of 17.94˚C and lows of 15.93˚C,
+- It may feel like 15.83˚C with broken clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 77%
+- The pressure is 1018hPa and humidity is 73%
 - The sun will rise at 04:39 and set at 19:31
 
 <!-- weather_marker ends -->

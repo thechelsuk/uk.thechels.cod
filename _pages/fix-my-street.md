@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- New, 1st May :- [9382657](https://www.fixmystreet.com/report/9382657)
 - Car parked with two wheels on pavement causing mobility transport and double prams to enter the road., 30th April :- [9382369](https://www.fixmystreet.com/report/9382369)
 - The trees around the bus shelter are overgrown. People waiting for the bus have to stand close to the kerb to see approaching buses, which can be dangerous as traffic is generally busy and vehicles travel at speed. Please arrange for the trees to be cut back to improve visibility., 30th April :- [9382175](https://www.fixmystreet.com/report/9382175)
 - Multiple large potholes on Gloucester Place, 30th April :- [9380985](https://www.fixmystreet.com/report/9380985)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [9379996](https://www.fixmystreet.com/report/9379996)
 - Overgrown trees in footpath affecting gardens, 30th April :- [9379937](https://www.fixmystreet.com/report/9379937)
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [9379983](https://www.fixmystreet.com/report/9379983)
-- TMC - Defects -CW6 Potholes  problem, 30th April :- [9379982](https://www.fixmystreet.com/report/9379982)
 
 <!-- fix_marker ends -->

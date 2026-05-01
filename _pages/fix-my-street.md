@@ -9,13 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Verge not mowed by council contractor, 1st May :- [9387103](https://www.fixmystreet.com/report/9387103)
 - Black tarmac used to patch/deface multimillion pound cycleway., 1st May :- [9386411](https://www.fixmystreet.com/report/9386411)
 - Lights not working, 1st May :- [9386327](https://www.fixmystreet.com/report/9386327)
 - Large area of broken surface, 1st May :- [9386263](https://www.fixmystreet.com/report/9386263)
 - Green or amber traffic light is not working problem, 1st May :- [9386198](https://www.fixmystreet.com/report/9386198)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [9386200](https://www.fixmystreet.com/report/9386200)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [9386056](https://www.fixmystreet.com/report/9386056)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [9386047](https://www.fixmystreet.com/report/9386047)
+- TMC - Defects -CW6 Potholes  problem, 1st May :- [9386056](https://www.fixmystreet.com/report/9386056)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [9386050](https://www.fixmystreet.com/report/9386050)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [9386046](https://www.fixmystreet.com/report/9386046)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [9386055](https://www.fixmystreet.com/report/9386055)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [9386053](https://www.fixmystreet.com/report/9386053)
 - Tree with dead bough which needs pruning, 1st May :- [9385517](https://www.fixmystreet.com/report/9385517)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [9385549](https://www.fixmystreet.com/report/9385549)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [9385531](https://www.fixmystreet.com/report/9385531)
 
 <!-- fix_marker ends -->

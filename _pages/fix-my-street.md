@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous deterioration of road surface, 1st May :- [9387648](https://www.fixmystreet.com/report/9387648)
 - Verge not mowed by council contractor, 1st May :- [9387103](https://www.fixmystreet.com/report/9387103)
 - Black tarmac used to patch/deface multimillion pound cycleway., 1st May :- [9386411](https://www.fixmystreet.com/report/9386411)
 - Lights not working, 1st May :- [9386327](https://www.fixmystreet.com/report/9386327)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [9386054](https://www.fixmystreet.com/report/9386054)
 - TMC - Defects -CW6 Potholes  problem, 1st May :- [9386052](https://www.fixmystreet.com/report/9386052)
 - Tree with dead bough which needs pruning, 1st May :- [9385517](https://www.fixmystreet.com/report/9385517)
-- TMC - Defects -CW6 Potholes  problem, 1st May :- [9385549](https://www.fixmystreet.com/report/9385549)
 
 <!-- fix_marker ends -->

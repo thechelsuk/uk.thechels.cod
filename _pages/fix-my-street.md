@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This is NOT fixed, 2nd May :- [9388641](https://www.fixmystreet.com/report/9388641)
+- For sale/let timber panel, 2nd May :- [9388640](https://www.fixmystreet.com/report/9388640)
 - Can’t see the markings, 2nd May :- [9388546](https://www.fixmystreet.com/report/9388546)
 - TMC - Defects -other CW10 problem, 2nd May :- [9388432](https://www.fixmystreet.com/report/9388432)
 - TMC - Defects -other CW10 problem, 2nd May :- [9388431](https://www.fixmystreet.com/report/9388431)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 2nd May :- [9388307](https://www.fixmystreet.com/report/9388307)
 - TMC - Defects -CW10 Potholes problem, 2nd May :- [9388306](https://www.fixmystreet.com/report/9388306)
 - Sunken Infill In Trench, 2nd May :- [9388050](https://www.fixmystreet.com/report/9388050)
-- Dangerous deterioration of road surface, 1st May :- [9387648](https://www.fixmystreet.com/report/9387648)
-- Verge not mowed by council contractor, 1st May :- [9387103](https://www.fixmystreet.com/report/9387103)
 
 <!-- fix_marker ends -->

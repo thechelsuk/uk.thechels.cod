@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Park equipment dirty, 2nd May :- [9389823](https://www.fixmystreet.com/report/9389823)
+- Pothole, 2nd May :- [9387067](https://www.fixmystreet.com/report/9387067)
+- Volunteer litter pick bags ready for collection, 2nd May :- [9389602](https://www.fixmystreet.com/report/9389602)
 - Abandoned vehicle, 2nd May :- [9389340](https://www.fixmystreet.com/report/9389340)
 - Flytipped items, 2nd May :- [9389334](https://www.fixmystreet.com/report/9389334)
 - Bicycle fly tipped in the river, 2nd May :- [9389131](https://www.fixmystreet.com/report/9389131)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 2nd May :- [9388313](https://www.fixmystreet.com/report/9388313)
 - TMC - Defects -other CW10 problem, 2nd May :- [9388312](https://www.fixmystreet.com/report/9388312)
 - TMC - Defects -CW10 Potholes problem, 2nd May :- [9388311](https://www.fixmystreet.com/report/9388311)
-- TMC - Defects -CW10 Potholes problem, 2nd May :- [9388310](https://www.fixmystreet.com/report/9388310)
-- TMC - Defects -CW10 Potholes problem, 2nd May :- [9388309](https://www.fixmystreet.com/report/9388309)
-- TMC - Defects -CW10 Potholes problem, 2nd May :- [9388308](https://www.fixmystreet.com/report/9388308)
 
 <!-- fix_marker ends -->

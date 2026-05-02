@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Commoners want rights protected over Unesco bid ([5 hours ago](https://www.bbc.com/news/articles/c172l8el92wo?at_medium=RSS&at_campaign=rss))
-- Region-wide arts trail celebrates 20th anniversary ([10 hours ago](https://www.bbc.com/news/articles/cg5n5gpe4eno?at_medium=RSS&at_campaign=rss))
-- Headlines: Rescued pine marten and dumped asbestos ([10 hours ago](https://www.bbc.com/news/articles/czx9xjlgpqwo?at_medium=RSS&at_campaign=rss))
-- Major road closed after serious two-vehicle crash ([22 hours ago](https://www.bbc.com/news/articles/c2026x7vl71o?at_medium=RSS&at_campaign=rss))
+- Library set to close for asbestos removal work ([1 hours ago](https://www.bbc.com/news/articles/czd25emmvp5o?at_medium=RSS&at_campaign=rss))
+- Commoners want rights protected over Unesco bid ([7 hours ago](https://www.bbc.com/news/articles/c172l8el92wo?at_medium=RSS&at_campaign=rss))
+- Region-wide arts trail celebrates 20th anniversary ([12 hours ago](https://www.bbc.com/news/articles/cg5n5gpe4eno?at_medium=RSS&at_campaign=rss))
+- Headlines: Rescued pine marten and dumped asbestos ([13 hours ago](https://www.bbc.com/news/articles/czx9xjlgpqwo?at_medium=RSS&at_campaign=rss))
+- Major road closed after serious two-vehicle crash ([1 days ago](https://www.bbc.com/news/articles/c2026x7vl71o?at_medium=RSS&at_campaign=rss))
 - Baby pine marten who lost siblings rescued from bin ([1 days ago](https://www.bbc.com/news/articles/c936y73643do?at_medium=RSS&at_campaign=rss))
 - Superdry co-founder guilty of rape ([1 days ago](https://www.bbc.com/news/articles/czx2gwpe9evo?at_medium=RSS&at_campaign=rss))
 - Care home ordered to pay £37k after patient death ([1 days ago](https://www.bbc.com/news/articles/ce8pyd9dlnzo?at_medium=RSS&at_campaign=rss))
@@ -30,7 +31,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Gloucestershire College to open new campus this year ([3 days ago](https://gloucesternewscentre.co.uk/gloucestershire-college-to-open-new-campus-this-year/))
 - Superdry co-founder tells rape trial he had consent ([3 days ago](https://www.bbc.com/news/articles/cewplwvqkxxo?at_medium=RSS&at_campaign=rss))
 - City centre roads closed after building fire ([3 days ago](https://www.bbc.com/news/articles/cewp1ldv5z9o?at_medium=RSS&at_campaign=rss))
-- College expands into former university campus ([3 days ago](https://www.bbc.com/news/articles/cgrpj8gx8d5o?at_medium=RSS&at_campaign=rss))
 - Residents 'lose faith' after town's shop closures ([3 days ago](https://www.bbc.com/news/articles/cj949keep2po?at_medium=RSS&at_campaign=rss))
 - Fire service issues water safety warning as warmer weather arrives ([4 days ago](https://gloucesternewscentre.co.uk/fire-service-issues-water-safety-warning-as-warmer-weather-arrives/))
 - Cheltenham and Cirencester among towns to get 5G+ boost ([4 days ago](https://gloucesternewscentre.co.uk/cheltenham-and-cirencester-among-towns-to-get-5g-boost/))

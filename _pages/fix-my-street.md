@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road markings need repainting, 2nd May :- [9388278](https://www.fixmystreet.com/report/9388278)
+- Several full black bags dumped at the side of the road, 2nd May :- [9390229](https://www.fixmystreet.com/report/9390229)
+- Over grown tree, not told how big it would grow, will effect my house insurance, 2nd May :- [9390220](https://www.fixmystreet.com/report/9390220)
 - Park equipment dirty, 2nd May :- [9389823](https://www.fixmystreet.com/report/9389823)
 - Pothole, 2nd May :- [9387067](https://www.fixmystreet.com/report/9387067)
 - Volunteer litter pick bags ready for collection, 2nd May :- [9389602](https://www.fixmystreet.com/report/9389602)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 2nd May :- [9388316](https://www.fixmystreet.com/report/9388316)
 - TMC - Defects -CW10 Potholes problem, 2nd May :- [9388315](https://www.fixmystreet.com/report/9388315)
 - TMC - Defects -other CW10 problem, 2nd May :- [9388314](https://www.fixmystreet.com/report/9388314)
-- TMC - Defects -other CW10 problem, 2nd May :- [9388313](https://www.fixmystreet.com/report/9388313)
-- TMC - Defects -other CW10 problem, 2nd May :- [9388312](https://www.fixmystreet.com/report/9388312)
-- TMC - Defects -CW10 Potholes problem, 2nd May :- [9388311](https://www.fixmystreet.com/report/9388311)
 
 <!-- fix_marker ends -->

@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Major road closed after serious two-vehicle crash ([6 hours ago](https://www.bbc.com/news/articles/c2026x7vl71o?at_medium=RSS&at_campaign=rss))
-- Baby pine marten who lost siblings rescued from bin ([9 hours ago](https://www.bbc.com/news/articles/c936y73643do?at_medium=RSS&at_campaign=rss))
-- Superdry co-founder guilty of rape ([10 hours ago](https://www.bbc.com/news/articles/czx2gwpe9evo?at_medium=RSS&at_campaign=rss))
-- Care home ordered to pay £37k after patient death ([15 hours ago](https://www.bbc.com/news/articles/ce8pyd9dlnzo?at_medium=RSS&at_campaign=rss))
-- How do I get to the Badminton Horse Trials? ([20 hours ago](https://www.bbc.com/news/articles/cvgz58j0m57o?at_medium=RSS&at_campaign=rss))
-- Tourists feel petrol pinch and cut down on day trips ([20 hours ago](https://www.bbc.com/news/articles/cpvp2y3rrlpo?at_medium=RSS&at_campaign=rss))
+- Major road closed after serious two-vehicle crash ([9 hours ago](https://www.bbc.com/news/articles/c2026x7vl71o?at_medium=RSS&at_campaign=rss))
+- Baby pine marten who lost siblings rescued from bin ([12 hours ago](https://www.bbc.com/news/articles/c936y73643do?at_medium=RSS&at_campaign=rss))
+- Superdry co-founder guilty of rape ([13 hours ago](https://www.bbc.com/news/articles/czx2gwpe9evo?at_medium=RSS&at_campaign=rss))
+- Care home ordered to pay £37k after patient death ([18 hours ago](https://www.bbc.com/news/articles/ce8pyd9dlnzo?at_medium=RSS&at_campaign=rss))
+- How do I get to the Badminton Horse Trials? ([22 hours ago](https://www.bbc.com/news/articles/cvgz58j0m57o?at_medium=RSS&at_campaign=rss))
+- Tourists feel petrol pinch and cut down on day trips ([22 hours ago](https://www.bbc.com/news/articles/cpvp2y3rrlpo?at_medium=RSS&at_campaign=rss))
 - Parents urge UK to act after son detained by Israel ([1 days ago](https://www.bbc.com/news/articles/c1w2nzx30jno?at_medium=RSS&at_campaign=rss))
 - Electric show comes to Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/65914-2/))
 - Gloucester City celebrate play-off semi-final success in biggest ever night at New Meadow Park. ([1 days ago](https://www.bbc.co.uk/sounds/play/p0nhkslj?at_medium=RSS&at_campaign=rss))

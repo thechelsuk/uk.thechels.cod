@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 02 May 2026
 
-- The average temperature today is 9.35˚C,
-- With highs of 10.54˚C and lows of 8.07˚C,
-- It may feel like 9.35˚C with overcast clouds
+- The average temperature today is 6.26˚C,
+- With highs of 8.73˚C and lows of 5.85˚C,
+- It may feel like 6.26˚C with overcast clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 89%
+- The pressure is 1018hPa and humidity is 93%
 - The sun will rise at 04:37 and set at 19:33
 
 <!-- weather_marker ends -->

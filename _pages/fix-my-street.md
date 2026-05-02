@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned vehicle, 2nd May :- [9389340](https://www.fixmystreet.com/report/9389340)
+- Flytipped items, 2nd May :- [9389334](https://www.fixmystreet.com/report/9389334)
+- Bicycle fly tipped in the river, 2nd May :- [9389131](https://www.fixmystreet.com/report/9389131)
 - This is NOT fixed, 2nd May :- [9388641](https://www.fixmystreet.com/report/9388641)
 - For sale/let timber panel, 2nd May :- [9388640](https://www.fixmystreet.com/report/9388640)
 - Can’t see the markings, 2nd May :- [9388546](https://www.fixmystreet.com/report/9388546)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 2nd May :- [9388310](https://www.fixmystreet.com/report/9388310)
 - TMC - Defects -CW10 Potholes problem, 2nd May :- [9388309](https://www.fixmystreet.com/report/9388309)
 - TMC - Defects -CW10 Potholes problem, 2nd May :- [9388308](https://www.fixmystreet.com/report/9388308)
-- TMC - Defects -other CW10 problem, 2nd May :- [9388307](https://www.fixmystreet.com/report/9388307)
-- TMC - Defects -CW10 Potholes problem, 2nd May :- [9388306](https://www.fixmystreet.com/report/9388306)
-- Sunken Infill In Trench, 2nd May :- [9388050](https://www.fixmystreet.com/report/9388050)
 
 <!-- fix_marker ends -->

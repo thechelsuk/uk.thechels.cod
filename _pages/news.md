@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Library drop-in sessions to discuss death and dying ([2 hours ago](https://www.bbc.com/news/articles/cy523wq2749o?at_medium=RSS&at_campaign=rss))
-- Could dog poo compost be used to grow fruit and veg? ([12 hours ago](https://www.bbc.com/news/articles/c2l2n15v80vo?at_medium=RSS&at_campaign=rss))
-- Waste warning over potentially dangerous items ([12 hours ago](https://www.bbc.com/news/articles/ce84e1dx73jo?at_medium=RSS&at_campaign=rss))
-- In pictures: US bomber returns and Marmalade Awards winner ([12 hours ago](https://www.bbc.com/news/articles/cg404656wpko?at_medium=RSS&at_campaign=rss))
+- Library drop-in sessions to discuss death and dying ([3 hours ago](https://www.bbc.com/news/articles/cy523wq2749o?at_medium=RSS&at_campaign=rss))
+- Could dog poo compost be used to grow fruit and veg? ([14 hours ago](https://www.bbc.com/news/articles/c2l2n15v80vo?at_medium=RSS&at_campaign=rss))
+- Waste warning over potentially dangerous items ([14 hours ago](https://www.bbc.com/news/articles/ce84e1dx73jo?at_medium=RSS&at_campaign=rss))
+- In pictures: US bomber returns and Marmalade Awards winner ([14 hours ago](https://www.bbc.com/news/articles/cg404656wpko?at_medium=RSS&at_campaign=rss))
 - Library set to close for asbestos removal work ([1 days ago](https://www.bbc.com/news/articles/czd25emmvp5o?at_medium=RSS&at_campaign=rss))
 - Commoners want rights protected over Unesco bid ([1 days ago](https://www.bbc.com/news/articles/c172l8el92wo?at_medium=RSS&at_campaign=rss))
 - Region-wide arts trail celebrates 20th anniversary ([1 days ago](https://www.bbc.com/news/articles/cg5n5gpe4eno?at_medium=RSS&at_campaign=rss))
@@ -26,7 +26,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Care home ordered to pay £37k after patient death ([2 days ago](https://www.bbc.com/news/articles/ce8pyd9dlnzo?at_medium=RSS&at_campaign=rss))
 - How do I get to the Badminton Horse Trials? ([2 days ago](https://www.bbc.com/news/articles/cvgz58j0m57o?at_medium=RSS&at_campaign=rss))
 - Tourists feel petrol pinch and cut down on day trips ([2 days ago](https://www.bbc.com/news/articles/cpvp2y3rrlpo?at_medium=RSS&at_campaign=rss))
-- Parents urge UK to act after son detained by Israel ([2 days ago](https://www.bbc.com/news/articles/c1w2nzx30jno?at_medium=RSS&at_campaign=rss))
+- Parents urge UK to act after son detained by Israel ([3 days ago](https://www.bbc.com/news/articles/c1w2nzx30jno?at_medium=RSS&at_campaign=rss))
 - Electric show comes to Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/65914-2/))
 - Gloucester City celebrate play-off semi-final success in biggest ever night at New Meadow Park. ([3 days ago](https://www.bbc.co.uk/sounds/play/p0nhkslj?at_medium=RSS&at_campaign=rss))
 - Van driver arrested after death of motorcyclist ([3 days ago](https://www.bbc.com/news/articles/cd6pqxwvz8qo?at_medium=RSS&at_campaign=rss))

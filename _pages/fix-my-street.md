@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumped tyres, 3rd May :- [9394121](https://www.fixmystreet.com/report/9394121)
+- Dumped furniture, 3rd May :- [9394100](https://www.fixmystreet.com/report/9394100)
 - Footpath ploughed out, 3rd May :- [9393800](https://www.fixmystreet.com/report/9393800)
 - The footpath is blocked and not marked, 3rd May :- [9393796](https://www.fixmystreet.com/report/9393796)
 - Loose sign, 3rd May :- [9393691](https://www.fixmystreet.com/report/9393691)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Raised paving slab higher than tarmac area, 3rd May :- [9391320](https://www.fixmystreet.com/report/9391320)
 - Blocked drain outside 146, 2nd May :- [9390534](https://www.fixmystreet.com/report/9390534)
 - Road markings need repainting, 2nd May :- [9388278](https://www.fixmystreet.com/report/9388278)
-- Several full black bags dumped at the side of the road, 2nd May :- [9390229](https://www.fixmystreet.com/report/9390229)
-- Over grown tree, not told how big it would grow, will effect my house insurance, 2nd May :- [9390220](https://www.fixmystreet.com/report/9390220)
 
 <!-- fix_marker ends -->

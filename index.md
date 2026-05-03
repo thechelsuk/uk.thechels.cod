@@ -11,12 +11,12 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 03 May 2026
 
-- The average temperature today is 13.08˚C,
-- With highs of 13.8˚C and lows of 12.6˚C,
-- It may feel like 12.77˚C with moderate rain
-- The wind speed is 0.81m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 89%
-- The sun will rise at 04:35 and set at 19:34
+- The average temperature today is 12.37˚C,
+- With highs of 12.76˚C and lows of 12.04˚C,
+- It may feel like 12.12˚C with overcast clouds
+- The wind speed is 1.55m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 94%
+- The sun will rise at 04:33 and set at 19:36
 
 <!-- weather_marker ends -->
 

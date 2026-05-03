@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Library set to close for asbestos removal work ([7 hours ago](https://www.bbc.com/news/articles/czd25emmvp5o?at_medium=RSS&at_campaign=rss))
-- Commoners want rights protected over Unesco bid ([14 hours ago](https://www.bbc.com/news/articles/c172l8el92wo?at_medium=RSS&at_campaign=rss))
-- Region-wide arts trail celebrates 20th anniversary ([19 hours ago](https://www.bbc.com/news/articles/cg5n5gpe4eno?at_medium=RSS&at_campaign=rss))
-- Headlines: Rescued pine marten and dumped asbestos ([19 hours ago](https://www.bbc.com/news/articles/czx9xjlgpqwo?at_medium=RSS&at_campaign=rss))
+- Library set to close for asbestos removal work ([10 hours ago](https://www.bbc.com/news/articles/czd25emmvp5o?at_medium=RSS&at_campaign=rss))
+- Commoners want rights protected over Unesco bid ([16 hours ago](https://www.bbc.com/news/articles/c172l8el92wo?at_medium=RSS&at_campaign=rss))
+- Region-wide arts trail celebrates 20th anniversary ([21 hours ago](https://www.bbc.com/news/articles/cg5n5gpe4eno?at_medium=RSS&at_campaign=rss))
+- Headlines: Rescued pine marten and dumped asbestos ([21 hours ago](https://www.bbc.com/news/articles/czx9xjlgpqwo?at_medium=RSS&at_campaign=rss))
 - Major road closed after serious two-vehicle crash ([1 days ago](https://www.bbc.com/news/articles/c2026x7vl71o?at_medium=RSS&at_campaign=rss))
 - Baby pine marten who lost siblings rescued from bin ([1 days ago](https://www.bbc.com/news/articles/c936y73643do?at_medium=RSS&at_campaign=rss))
 - Superdry co-founder guilty of rape ([1 days ago](https://www.bbc.com/news/articles/czx2gwpe9evo?at_medium=RSS&at_campaign=rss))

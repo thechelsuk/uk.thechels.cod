@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Another pot hole, 3rd May :- [9393370](https://www.fixmystreet.com/report/9393370)
+- Dangerous lack of visibility again, 3rd May :- [9393336](https://www.fixmystreet.com/report/9393336)
+- Wobbly slab in Prices Road, 3rd May :- [9393206](https://www.fixmystreet.com/report/9393206)
 - Blocked drain you can see discarded tin cans in there, 3rd May :- [9392415](https://www.fixmystreet.com/report/9392415)
 - Overflowing Bin, 3rd May :- [9392278](https://www.fixmystreet.com/report/9392278)
 - Flytipped items, 3rd May :- [9392038](https://www.fixmystreet.com/report/9392038)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Park equipment dirty, 2nd May :- [9389823](https://www.fixmystreet.com/report/9389823)
 - Pothole, 2nd May :- [9387067](https://www.fixmystreet.com/report/9387067)
 - Volunteer litter pick bags ready for collection, 2nd May :- [9389602](https://www.fixmystreet.com/report/9389602)
-- Abandoned vehicle, 2nd May :- [9389340](https://www.fixmystreet.com/report/9389340)
-- Flytipped items, 2nd May :- [9389334](https://www.fixmystreet.com/report/9389334)
-- Bicycle fly tipped in the river, 2nd May :- [9389131](https://www.fixmystreet.com/report/9389131)
 
 <!-- fix_marker ends -->

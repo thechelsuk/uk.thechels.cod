@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped items, 3rd May :- [9392038](https://www.fixmystreet.com/report/9392038)
+- Flytipped broken cupboard etc., 3rd May :- [9391958](https://www.fixmystreet.com/report/9391958)
+- 110cmx30cm pothole in Albert Road at GL52 2TN, 3rd May :- [9391950](https://www.fixmystreet.com/report/9391950)
+- Flytipped item, 3rd May :- [9391886](https://www.fixmystreet.com/report/9391886)
+- Flytipped wood sheets opposite ‘Production av’, 3rd May :- [9391814](https://www.fixmystreet.com/report/9391814)
+- Speed bumps, 3rd May :- [9391719](https://www.fixmystreet.com/report/9391719)
+- Speed sign demolished, 3rd May :- [9391588](https://www.fixmystreet.com/report/9391588)
 - Raised paving slab higher than tarmac area, 3rd May :- [9391320](https://www.fixmystreet.com/report/9391320)
 - Blocked drain outside 146, 2nd May :- [9390534](https://www.fixmystreet.com/report/9390534)
 - Road markings need repainting, 2nd May :- [9388278](https://www.fixmystreet.com/report/9388278)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Bicycle fly tipped in the river, 2nd May :- [9389131](https://www.fixmystreet.com/report/9389131)
 - This is NOT fixed, 2nd May :- [9388641](https://www.fixmystreet.com/report/9388641)
 - For sale/let timber panel, 2nd May :- [9388640](https://www.fixmystreet.com/report/9388640)
-- Can’t see the markings, 2nd May :- [9388546](https://www.fixmystreet.com/report/9388546)
-- TMC - Defects -other CW10 problem, 2nd May :- [9388432](https://www.fixmystreet.com/report/9388432)
-- TMC - Defects -other CW10 problem, 2nd May :- [9388431](https://www.fixmystreet.com/report/9388431)
-- TMC - Defects -CW10 Potholes problem, 2nd May :- [9388319](https://www.fixmystreet.com/report/9388319)
-- TMC - Defects -CW10 Potholes problem, 2nd May :- [9388318](https://www.fixmystreet.com/report/9388318)
-- TMC - Defects -CW10 Potholes problem, 2nd May :- [9388317](https://www.fixmystreet.com/report/9388317)
-- TMC - Defects -other CW10 problem, 2nd May :- [9388316](https://www.fixmystreet.com/report/9388316)
 
 <!-- fix_marker ends -->

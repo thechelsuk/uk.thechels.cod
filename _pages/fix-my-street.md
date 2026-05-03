@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Raised paving slab higher than tarmac area, 3rd May :- [9391320](https://www.fixmystreet.com/report/9391320)
 - Blocked drain outside 146, 2nd May :- [9390534](https://www.fixmystreet.com/report/9390534)
 - Road markings need repainting, 2nd May :- [9388278](https://www.fixmystreet.com/report/9388278)
 - Several full black bags dumped at the side of the road, 2nd May :- [9390229](https://www.fixmystreet.com/report/9390229)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 2nd May :- [9388318](https://www.fixmystreet.com/report/9388318)
 - TMC - Defects -CW10 Potholes problem, 2nd May :- [9388317](https://www.fixmystreet.com/report/9388317)
 - TMC - Defects -other CW10 problem, 2nd May :- [9388316](https://www.fixmystreet.com/report/9388316)
-- TMC - Defects -CW10 Potholes problem, 2nd May :- [9388315](https://www.fixmystreet.com/report/9388315)
 
 <!-- fix_marker ends -->

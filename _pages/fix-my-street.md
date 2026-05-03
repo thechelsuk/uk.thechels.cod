@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain you can see discarded tin cans in there, 3rd May :- [9392415](https://www.fixmystreet.com/report/9392415)
+- Overflowing Bin, 3rd May :- [9392278](https://www.fixmystreet.com/report/9392278)
 - Flytipped items, 3rd May :- [9392038](https://www.fixmystreet.com/report/9392038)
 - Flytipped broken cupboard etc., 3rd May :- [9391958](https://www.fixmystreet.com/report/9391958)
 - 110cmx30cm pothole in Albert Road at GL52 2TN, 3rd May :- [9391950](https://www.fixmystreet.com/report/9391950)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Abandoned vehicle, 2nd May :- [9389340](https://www.fixmystreet.com/report/9389340)
 - Flytipped items, 2nd May :- [9389334](https://www.fixmystreet.com/report/9389334)
 - Bicycle fly tipped in the river, 2nd May :- [9389131](https://www.fixmystreet.com/report/9389131)
-- This is NOT fixed, 2nd May :- [9388641](https://www.fixmystreet.com/report/9388641)
-- For sale/let timber panel, 2nd May :- [9388640](https://www.fixmystreet.com/report/9388640)
 
 <!-- fix_marker ends -->

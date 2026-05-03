@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath ploughed out, 3rd May :- [9393800](https://www.fixmystreet.com/report/9393800)
+- The footpath is blocked and not marked, 3rd May :- [9393796](https://www.fixmystreet.com/report/9393796)
+- Loose sign, 3rd May :- [9393691](https://www.fixmystreet.com/report/9393691)
 - Another pot hole, 3rd May :- [9393370](https://www.fixmystreet.com/report/9393370)
 - Dangerous lack of visibility again, 3rd May :- [9393336](https://www.fixmystreet.com/report/9393336)
 - Wobbly slab in Prices Road, 3rd May :- [9393206](https://www.fixmystreet.com/report/9393206)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Road markings need repainting, 2nd May :- [9388278](https://www.fixmystreet.com/report/9388278)
 - Several full black bags dumped at the side of the road, 2nd May :- [9390229](https://www.fixmystreet.com/report/9390229)
 - Over grown tree, not told how big it would grow, will effect my house insurance, 2nd May :- [9390220](https://www.fixmystreet.com/report/9390220)
-- Park equipment dirty, 2nd May :- [9389823](https://www.fixmystreet.com/report/9389823)
-- Pothole, 2nd May :- [9387067](https://www.fixmystreet.com/report/9387067)
-- Volunteer litter pick bags ready for collection, 2nd May :- [9389602](https://www.fixmystreet.com/report/9389602)
 
 <!-- fix_marker ends -->

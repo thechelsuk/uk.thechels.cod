@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Resident replaced curb grass with astroturf, 4th May :- [9394674](https://www.fixmystreet.com/report/9394674)
 - Dumped tyres, 3rd May :- [9394121](https://www.fixmystreet.com/report/9394121)
 - Dumped furniture, 3rd May :- [9394100](https://www.fixmystreet.com/report/9394100)
 - Footpath ploughed out, 3rd May :- [9393800](https://www.fixmystreet.com/report/9393800)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Speed sign demolished, 3rd May :- [9391588](https://www.fixmystreet.com/report/9391588)
 - Raised paving slab higher than tarmac area, 3rd May :- [9391320](https://www.fixmystreet.com/report/9391320)
 - Blocked drain outside 146, 2nd May :- [9390534](https://www.fixmystreet.com/report/9390534)
-- Road markings need repainting, 2nd May :- [9388278](https://www.fixmystreet.com/report/9388278)
 
 <!-- fix_marker ends -->

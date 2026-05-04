@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole on Blacksmith`s Lane, 4th May :- [9396276](https://www.fixmystreet.com/report/9396276)
+- Tree debris falling onto private property, 4th May :- [9396257](https://www.fixmystreet.com/report/9396257)
+- Large pothole on Blacksmith`s Lane, 4th May :- [9396250](https://www.fixmystreet.com/report/9396250)
+- Multiple potholes on Blacksmith`s Lane, The Leigh, 4th May :- [9396222](https://www.fixmystreet.com/report/9396222)
+- A pothole in road problem, 4th May :- [9395972](https://www.fixmystreet.com/report/9395972)
 - Curb stone is loose., 4th May :- [9395551](https://www.fixmystreet.com/report/9395551)
 - Potential flytipping on Hewlett Road, 4th May :- [9395519](https://www.fixmystreet.com/report/9395519)
 - Two trees felled on Village Road GL510AE, 4th May :- [9394734](https://www.fixmystreet.com/report/9394734)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Blocked drain you can see discarded tin cans in there, 3rd May :- [9392415](https://www.fixmystreet.com/report/9392415)
 - Overflowing Bin, 3rd May :- [9392278](https://www.fixmystreet.com/report/9392278)
 - Flytipped items, 3rd May :- [9392038](https://www.fixmystreet.com/report/9392038)
-- Flytipped broken cupboard etc., 3rd May :- [9391958](https://www.fixmystreet.com/report/9391958)
-- 110cmx30cm pothole in Albert Road at GL52 2TN, 3rd May :- [9391950](https://www.fixmystreet.com/report/9391950)
-- Flytipped item, 3rd May :- [9391886](https://www.fixmystreet.com/report/9391886)
-- Flytipped wood sheets opposite ‘Production av’, 3rd May :- [9391814](https://www.fixmystreet.com/report/9391814)
-- Speed bumps, 3rd May :- [9391719](https://www.fixmystreet.com/report/9391719)
 
 <!-- fix_marker ends -->

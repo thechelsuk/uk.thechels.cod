@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole and edge in front of drain cover, 4th May :- [9396956](https://www.fixmystreet.com/report/9396956)
+- Multiple potholes in middle of road, 4th May :- [9396719](https://www.fixmystreet.com/report/9396719)
+- Motorcycle dumped in alleyway very near brook, 4th May :- [9396417](https://www.fixmystreet.com/report/9396417)
 - Large pothole on Blacksmith`s Lane, 4th May :- [9396276](https://www.fixmystreet.com/report/9396276)
 - Tree debris falling onto private property, 4th May :- [9396257](https://www.fixmystreet.com/report/9396257)
 - Large pothole on Blacksmith`s Lane, 4th May :- [9396250](https://www.fixmystreet.com/report/9396250)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Another pot hole, 3rd May :- [9393370](https://www.fixmystreet.com/report/9393370)
 - Dangerous lack of visibility again, 3rd May :- [9393336](https://www.fixmystreet.com/report/9393336)
 - Wobbly slab in Prices Road, 3rd May :- [9393206](https://www.fixmystreet.com/report/9393206)
-- Blocked drain you can see discarded tin cans in there, 3rd May :- [9392415](https://www.fixmystreet.com/report/9392415)
-- Overflowing Bin, 3rd May :- [9392278](https://www.fixmystreet.com/report/9392278)
-- Flytipped items, 3rd May :- [9392038](https://www.fixmystreet.com/report/9392038)
 
 <!-- fix_marker ends -->

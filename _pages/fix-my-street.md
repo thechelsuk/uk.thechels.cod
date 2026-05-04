@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Curb stone is loose., 4th May :- [9395551](https://www.fixmystreet.com/report/9395551)
+- Potential flytipping on Hewlett Road, 4th May :- [9395519](https://www.fixmystreet.com/report/9395519)
 - Two trees felled on Village Road GL510AE, 4th May :- [9394734](https://www.fixmystreet.com/report/9394734)
 - Resident replaced curb grass with astroturf, 4th May :- [9394674](https://www.fixmystreet.com/report/9394674)
 - Dumped tyres, 3rd May :- [9394121](https://www.fixmystreet.com/report/9394121)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Flytipped item, 3rd May :- [9391886](https://www.fixmystreet.com/report/9391886)
 - Flytipped wood sheets opposite ‘Production av’, 3rd May :- [9391814](https://www.fixmystreet.com/report/9391814)
 - Speed bumps, 3rd May :- [9391719](https://www.fixmystreet.com/report/9391719)
-- Speed sign demolished, 3rd May :- [9391588](https://www.fixmystreet.com/report/9391588)
-- Raised paving slab higher than tarmac area, 3rd May :- [9391320](https://www.fixmystreet.com/report/9391320)
 
 <!-- fix_marker ends -->

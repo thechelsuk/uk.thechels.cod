@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Boy, 9, to climb Ben Nevis after heart surgery ([18 minutes ago](https://www.bbc.com/news/articles/c0e2wyjz44zo?at_medium=RSS&at_campaign=rss))
-- Renters reforms 'depend on proper council funding' ([3 hours ago](https://www.bbc.com/news/articles/crepz8j0e3qo?at_medium=RSS&at_campaign=rss))
-- Library drop-in sessions to discuss death and dying ([16 hours ago](https://www.bbc.com/news/articles/cy523wq2749o?at_medium=RSS&at_campaign=rss))
+- Boy, 9, to climb Ben Nevis after heart surgery ([2 hours ago](https://www.bbc.com/news/articles/c0e2wyjz44zo?at_medium=RSS&at_campaign=rss))
+- Renters reforms 'depend on proper council funding' ([5 hours ago](https://www.bbc.com/news/articles/crepz8j0e3qo?at_medium=RSS&at_campaign=rss))
+- Library drop-in sessions to discuss death and dying ([18 hours ago](https://www.bbc.com/news/articles/cy523wq2749o?at_medium=RSS&at_campaign=rss))
 - Could dog poo compost be used to grow fruit and veg? ([1 days ago](https://www.bbc.com/news/articles/c2l2n15v80vo?at_medium=RSS&at_campaign=rss))
 - Waste warning over potentially dangerous items ([1 days ago](https://www.bbc.com/news/articles/ce84e1dx73jo?at_medium=RSS&at_campaign=rss))
 - In pictures: US bomber returns and Marmalade Awards winner ([1 days ago](https://www.bbc.com/news/articles/cg404656wpko?at_medium=RSS&at_campaign=rss))
 - Library set to close for asbestos removal work ([1 days ago](https://www.bbc.com/news/articles/czd25emmvp5o?at_medium=RSS&at_campaign=rss))
-- Commoners want rights protected over Unesco bid ([1 days ago](https://www.bbc.com/news/articles/c172l8el92wo?at_medium=RSS&at_campaign=rss))
+- Commoners want rights protected over Unesco bid ([2 days ago](https://www.bbc.com/news/articles/c172l8el92wo?at_medium=RSS&at_campaign=rss))
 - Region-wide arts trail celebrates 20th anniversary ([2 days ago](https://www.bbc.com/news/articles/cg5n5gpe4eno?at_medium=RSS&at_campaign=rss))
 - Headlines: Rescued pine marten and dumped asbestos ([2 days ago](https://www.bbc.com/news/articles/czx9xjlgpqwo?at_medium=RSS&at_campaign=rss))
 - Major road closed after serious two-vehicle crash ([2 days ago](https://www.bbc.com/news/articles/c2026x7vl71o?at_medium=RSS&at_campaign=rss))

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 04 May 2026
 
-- The average temperature today is 13.73˚C,
-- With highs of 14.05˚C and lows of 13.17˚C,
-- It may feel like 13.17˚C with overcast clouds
+- The average temperature today is 10.87˚C,
+- With highs of 12.75˚C and lows of 9.73˚C,
+- It may feel like 10.23˚C with overcast clouds
 - The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 77%
+- The pressure is 1014hPa and humidity is 85%
 - The sun will rise at 04:33 and set at 19:36
 
 <!-- weather_marker ends -->

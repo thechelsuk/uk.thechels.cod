@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Our street light is not coming on it is right out side our house our house number is 58 Meadowleaze Gloucester GL2 0PS, 4th May :- [9398469](https://www.fixmystreet.com/report/9398469)
+- Bear 27 willowleaze, 4th May :- [9398269](https://www.fixmystreet.com/report/9398269)
+- Signs from contractors left at multiple places near the roundabout, 4th May :- [9398215](https://www.fixmystreet.com/report/9398215)
+- Pothole next to drain cover, 4th May :- [9398208](https://www.fixmystreet.com/report/9398208)
+- Rocking utilities cover in pavement with brocken bricks., 4th May :- [9398194](https://www.fixmystreet.com/report/9398194)
+- Potholes, 4th May :- [9398157](https://www.fixmystreet.com/report/9398157)
+- Pothole, 4th May :- [9398155](https://www.fixmystreet.com/report/9398155)
 - Teenagers have left a lot of rubbish, 4th May :- [9397999](https://www.fixmystreet.com/report/9397999)
 - There is a broken kerb stone on Priors Rd outside Harp Hill Mews, 4th May :- [9397937](https://www.fixmystreet.com/report/9397937)
 - Route closed, 4th May :- [9397756](https://www.fixmystreet.com/report/9397756)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Large pothole on Blacksmith`s Lane, 4th May :- [9396250](https://www.fixmystreet.com/report/9396250)
 - Multiple potholes on Blacksmith`s Lane, The Leigh, 4th May :- [9396222](https://www.fixmystreet.com/report/9396222)
 - A pothole in road problem, 4th May :- [9395972](https://www.fixmystreet.com/report/9395972)
-- Curb stone is loose., 4th May :- [9395551](https://www.fixmystreet.com/report/9395551)
-- Potential flytipping on Hewlett Road, 4th May :- [9395519](https://www.fixmystreet.com/report/9395519)
-- Two trees felled on Village Road GL510AE, 4th May :- [9394734](https://www.fixmystreet.com/report/9394734)
-- Resident replaced curb grass with astroturf, 4th May :- [9394674](https://www.fixmystreet.com/report/9394674)
-- Dumped tyres, 3rd May :- [9394121](https://www.fixmystreet.com/report/9394121)
-- Dumped furniture, 3rd May :- [9394100](https://www.fixmystreet.com/report/9394100)
-- Footpath ploughed out, 3rd May :- [9393800](https://www.fixmystreet.com/report/9393800)
 
 <!-- fix_marker ends -->

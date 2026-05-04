@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Speed limit 'overdue' to stop 'carnage' on roads ([7 hours ago](https://www.bbc.com/news/articles/c8jv9zv1gxeo?at_medium=RSS&at_campaign=rss))
-- Boy, 9, to climb Ben Nevis after heart surgery ([11 hours ago](https://www.bbc.com/news/articles/c0e2wyjz44zo?at_medium=RSS&at_campaign=rss))
-- Renters reforms 'depend on proper council funding' ([15 hours ago](https://www.bbc.com/news/articles/crepz8j0e3qo?at_medium=RSS&at_campaign=rss))
+- Speed limit 'overdue' to stop 'carnage' on roads ([9 hours ago](https://www.bbc.com/news/articles/c8jv9zv1gxeo?at_medium=RSS&at_campaign=rss))
+- Boy, 9, to climb Ben Nevis after heart surgery ([13 hours ago](https://www.bbc.com/news/articles/c0e2wyjz44zo?at_medium=RSS&at_campaign=rss))
+- Renters reforms 'depend on proper council funding' ([17 hours ago](https://www.bbc.com/news/articles/crepz8j0e3qo?at_medium=RSS&at_campaign=rss))
 - Library drop-in sessions to discuss death and dying ([1 days ago](https://www.bbc.com/news/articles/cy523wq2749o?at_medium=RSS&at_campaign=rss))
 - Could dog poo compost be used to grow fruit and veg? ([1 days ago](https://www.bbc.com/news/articles/c2l2n15v80vo?at_medium=RSS&at_campaign=rss))
 - Waste warning over potentially dangerous items ([1 days ago](https://www.bbc.com/news/articles/ce84e1dx73jo?at_medium=RSS&at_campaign=rss))

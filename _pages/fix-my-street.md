@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 Large potholes on Norfolk Avenue entrance by Cambridge Avenue, 4th May :- [9397531](https://www.fixmystreet.com/report/9397531)
 - Pot hole and edge in front of drain cover, 4th May :- [9396956](https://www.fixmystreet.com/report/9396956)
 - Multiple potholes in middle of road, 4th May :- [9396719](https://www.fixmystreet.com/report/9396719)
 - Motorcycle dumped in alleyway very near brook, 4th May :- [9396417](https://www.fixmystreet.com/report/9396417)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Loose sign, 3rd May :- [9393691](https://www.fixmystreet.com/report/9393691)
 - Another pot hole, 3rd May :- [9393370](https://www.fixmystreet.com/report/9393370)
 - Dangerous lack of visibility again, 3rd May :- [9393336](https://www.fixmystreet.com/report/9393336)
-- Wobbly slab in Prices Road, 3rd May :- [9393206](https://www.fixmystreet.com/report/9393206)
 
 <!-- fix_marker ends -->

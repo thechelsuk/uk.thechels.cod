@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 05 May 2026
 
-- The average temperature today is 7.38˚C,
-- With highs of 9.97˚C and lows of 6.49˚C,
-- It may feel like 7.38˚C with overcast clouds
+- The average temperature today is 7.88˚C,
+- With highs of 9.97˚C and lows of 7.6˚C,
+- It may feel like 7.88˚C with overcast clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 93%
+- The pressure is 1014hPa and humidity is 95%
 - The sun will rise at 04:31 and set at 19:38
 
 <!-- weather_marker ends -->

@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Speed limit 'overdue' to stop 'carnage' on roads ([14 hours ago](https://www.bbc.com/news/articles/c8jv9zv1gxeo?at_medium=RSS&at_campaign=rss))
-- Boy, 9, to climb Ben Nevis after heart surgery ([18 hours ago](https://www.bbc.com/news/articles/c0e2wyjz44zo?at_medium=RSS&at_campaign=rss))
-- Renters reforms 'depend on proper council funding' ([21 hours ago](https://www.bbc.com/news/articles/crepz8j0e3qo?at_medium=RSS&at_campaign=rss))
+- University staff to strike for three more days ([28 minutes ago](https://www.bbc.com/news/articles/ckgpz0g350yo?at_medium=RSS&at_campaign=rss))
+- Speed limit 'overdue' to stop 'carnage' on roads ([16 hours ago](https://www.bbc.com/news/articles/c8jv9zv1gxeo?at_medium=RSS&at_campaign=rss))
+- Boy, 9, to climb Ben Nevis after heart surgery ([20 hours ago](https://www.bbc.com/news/articles/c0e2wyjz44zo?at_medium=RSS&at_campaign=rss))
+- Renters reforms 'depend on proper council funding' ([23 hours ago](https://www.bbc.com/news/articles/crepz8j0e3qo?at_medium=RSS&at_campaign=rss))
 - Library drop-in sessions to discuss death and dying ([1 days ago](https://www.bbc.com/news/articles/cy523wq2749o?at_medium=RSS&at_campaign=rss))
 - Could dog poo compost be used to grow fruit and veg? ([1 days ago](https://www.bbc.com/news/articles/c2l2n15v80vo?at_medium=RSS&at_campaign=rss))
 - Waste warning over potentially dangerous items ([1 days ago](https://www.bbc.com/news/articles/ce84e1dx73jo?at_medium=RSS&at_campaign=rss))
@@ -27,8 +28,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Baby pine marten who lost siblings rescued from bin ([3 days ago](https://www.bbc.com/news/articles/c936y73643do?at_medium=RSS&at_campaign=rss))
 - Superdry co-founder guilty of rape ([3 days ago](https://www.bbc.com/news/articles/czx2gwpe9evo?at_medium=RSS&at_campaign=rss))
 - Care home ordered to pay £37k after patient death ([3 days ago](https://www.bbc.com/news/articles/ce8pyd9dlnzo?at_medium=RSS&at_campaign=rss))
-- How do I get to the Badminton Horse Trials? ([3 days ago](https://www.bbc.com/news/articles/cvgz58j0m57o?at_medium=RSS&at_campaign=rss))
-- Tourists feel petrol pinch and cut down on day trips ([3 days ago](https://www.bbc.com/news/articles/cpvp2y3rrlpo?at_medium=RSS&at_campaign=rss))
+- Tourists feel petrol pinch and cut down on day trips ([4 days ago](https://www.bbc.com/news/articles/cpvp2y3rrlpo?at_medium=RSS&at_campaign=rss))
 - Electric show comes to Cheltenham ([4 days ago](https://gloucesternewscentre.co.uk/65914-2/))
 - Gloucester City celebrate play-off semi-final success in biggest ever night at New Meadow Park. ([4 days ago](https://www.bbc.co.uk/sounds/play/p0nhkslj?at_medium=RSS&at_campaign=rss))
 - Gloucestershire College to open new campus this year ([5 days ago](https://gloucesternewscentre.co.uk/gloucestershire-college-to-open-new-campus-this-year/))

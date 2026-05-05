@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Porthole become a serious hazard, 5th May :- [9398938](https://www.fixmystreet.com/report/9398938)
 - Our street light is not coming on it is right out side our house our house number is 58 Meadowleaze Gloucester GL2 0PS, 4th May :- [9398469](https://www.fixmystreet.com/report/9398469)
 - Bear 27 willowleaze, 4th May :- [9398269](https://www.fixmystreet.com/report/9398269)
 - Signs from contractors left at multiple places near the roundabout, 4th May :- [9398215](https://www.fixmystreet.com/report/9398215)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree debris falling onto private property, 4th May :- [9396257](https://www.fixmystreet.com/report/9396257)
 - Large pothole on Blacksmith`s Lane, 4th May :- [9396250](https://www.fixmystreet.com/report/9396250)
 - Multiple potholes on Blacksmith`s Lane, The Leigh, 4th May :- [9396222](https://www.fixmystreet.com/report/9396222)
-- A pothole in road problem, 4th May :- [9395972](https://www.fixmystreet.com/report/9395972)
 
 <!-- fix_marker ends -->

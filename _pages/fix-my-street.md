@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Signs wrong way round, 5th May :- [9399174](https://www.fixmystreet.com/report/9399174)
+- 20 inch pothole that is getting excessively deep and in layers, 5th May :- [9399093](https://www.fixmystreet.com/report/9399093)
 - Porthole become a serious hazard, 5th May :- [9398938](https://www.fixmystreet.com/report/9398938)
 - Our street light is not coming on it is right out side our house our house number is 58 Meadowleaze Gloucester GL2 0PS, 4th May :- [9398469](https://www.fixmystreet.com/report/9398469)
 - Bear 27 willowleaze, 4th May :- [9398269](https://www.fixmystreet.com/report/9398269)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Motorcycle dumped in alleyway very near brook, 4th May :- [9396417](https://www.fixmystreet.com/report/9396417)
 - Large pothole on Blacksmith`s Lane, 4th May :- [9396276](https://www.fixmystreet.com/report/9396276)
 - Tree debris falling onto private property, 4th May :- [9396257](https://www.fixmystreet.com/report/9396257)
-- Large pothole on Blacksmith`s Lane, 4th May :- [9396250](https://www.fixmystreet.com/report/9396250)
-- Multiple potholes on Blacksmith`s Lane, The Leigh, 4th May :- [9396222](https://www.fixmystreet.com/report/9396222)
 
 <!-- fix_marker ends -->

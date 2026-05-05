@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pile, 5th May :- [9400079](https://www.fixmystreet.com/report/9400079)
+- TMC - Defects - Covers, Gratings & Frames problem, 5th May :- [9400234](https://www.fixmystreet.com/report/9400234)
+- Tree is damaged problem, 5th May :- [9399994](https://www.fixmystreet.com/report/9399994)
 - Signs wrong way round, 5th May :- [9399174](https://www.fixmystreet.com/report/9399174)
 - 20 inch pothole that is getting excessively deep and in layers, 5th May :- [9399093](https://www.fixmystreet.com/report/9399093)
 - Porthole become a serious hazard, 5th May :- [9398938](https://www.fixmystreet.com/report/9398938)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - 3 Large potholes on Norfolk Avenue entrance by Cambridge Avenue, 4th May :- [9397531](https://www.fixmystreet.com/report/9397531)
 - Pot hole and edge in front of drain cover, 4th May :- [9396956](https://www.fixmystreet.com/report/9396956)
 - Multiple potholes in middle of road, 4th May :- [9396719](https://www.fixmystreet.com/report/9396719)
-- Motorcycle dumped in alleyway very near brook, 4th May :- [9396417](https://www.fixmystreet.com/report/9396417)
-- Large pothole on Blacksmith`s Lane, 4th May :- [9396276](https://www.fixmystreet.com/report/9396276)
-- Tree debris falling onto private property, 4th May :- [9396257](https://www.fixmystreet.com/report/9396257)
 
 <!-- fix_marker ends -->

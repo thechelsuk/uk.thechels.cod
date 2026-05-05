@@ -12,8 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- University staff to strike for three more days ([4 hours ago](https://www.bbc.com/news/articles/ckgpz0g350yo?at_medium=RSS&at_campaign=rss))
-- Speed limit 'overdue' to stop 'carnage' on roads ([19 hours ago](https://www.bbc.com/news/articles/c8jv9zv1gxeo?at_medium=RSS&at_campaign=rss))
+- Cheltenham library to close for safety works ([1 hours ago](https://gloucesternewscentre.co.uk/cheltenham-library-to-close-for-safety-works/))
+- Council could be taken to court over state of Cheltenham streets ([1 hours ago](https://gloucesternewscentre.co.uk/council-could-be-taken-to-court-over-state-of-cheltenham-streets/))
+- University staff to strike for three more days ([6 hours ago](https://www.bbc.com/news/articles/ckgpz0g350yo?at_medium=RSS&at_campaign=rss))
+- Speed limit 'overdue' to stop 'carnage' on roads ([21 hours ago](https://www.bbc.com/news/articles/c8jv9zv1gxeo?at_medium=RSS&at_campaign=rss))
 - Boy, 9, to climb Ben Nevis after heart surgery ([1 days ago](https://www.bbc.com/news/articles/c0e2wyjz44zo?at_medium=RSS&at_campaign=rss))
 - Renters reforms 'depend on proper council funding' ([1 days ago](https://www.bbc.com/news/articles/crepz8j0e3qo?at_medium=RSS&at_campaign=rss))
 - Library drop-in sessions to discuss death and dying ([1 days ago](https://www.bbc.com/news/articles/cy523wq2749o?at_medium=RSS&at_campaign=rss))

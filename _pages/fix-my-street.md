@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 6th May :- [9406424](https://www.fixmystreet.com/report/9406424)
+- Pothole near entrance of Safran, 6th May :- [9406230](https://www.fixmystreet.com/report/9406230)
+- TMC - Defects - Other FW6  Surface problem, 6th May :- [9406231](https://www.fixmystreet.com/report/9406231)
 - Middle of the road, 5th May :- [9405673](https://www.fixmystreet.com/report/9405673)
 - Bus Shelter & Timetable, 5th May :- [9404558](https://www.fixmystreet.com/report/9404558)
 - Deep hole before Ford cobbles, 5th May :- [9404552](https://www.fixmystreet.com/report/9404552)
@@ -21,13 +24,10 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 5th May :- [9403086](https://www.fixmystreet.com/report/9403086)
 - TMC - Defects - Vegetation problem, 5th May :- [9403085](https://www.fixmystreet.com/report/9403085)
 - TMC - Defects - Vegetation problem, 5th May :- [9403084](https://www.fixmystreet.com/report/9403084)
-- TMC - Defects - Other FW6  Surface problem, 5th May :- [9403080](https://www.fixmystreet.com/report/9403080)
-- TMC - Defects - Vegetation problem, 5th May :- [9403076](https://www.fixmystreet.com/report/9403076)
-- TMC - Defects - Vegetation problem, 5th May :- [9403082](https://www.fixmystreet.com/report/9403082)
-- TMC - Defects - Footways Slabs problem, 5th May :- [9403078](https://www.fixmystreet.com/report/9403078)
-- TMC - Defects -CW6 Potholes  problem, 5th May :- [9403077](https://www.fixmystreet.com/report/9403077)
-- TMC - Defects - Footways Slabs problem, 5th May :- [9403081](https://www.fixmystreet.com/report/9403081)
-- TMC - Defects - Vegetation problem, 5th May :- [9403087](https://www.fixmystreet.com/report/9403087)
 - TMC - Defects - Vegetation problem, 5th May :- [9403083](https://www.fixmystreet.com/report/9403083)
+- TMC - Defects - Footways Slabs problem, 5th May :- [9403079](https://www.fixmystreet.com/report/9403079)
+- TMC - Defects - Other FW6  Surface problem, 5th May :- [9403080](https://www.fixmystreet.com/report/9403080)
+- TMC - Defects - Vegetation problem, 5th May :- [9403087](https://www.fixmystreet.com/report/9403087)
+- TMC - Defects - Vegetation problem, 5th May :- [9403076](https://www.fixmystreet.com/report/9403076)
 
 <!-- fix_marker ends -->

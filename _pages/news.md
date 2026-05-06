@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- M5 closed following serious crash ([30 minutes ago](https://www.bbc.com/news/articles/c1e2n7l2v38o?at_medium=RSS&at_campaign=rss))
-- Cheltenham rider and 18-year-old horse triumph in 64km endurance challenge ([5 hours ago](https://gloucesternewscentre.co.uk/cheltenham-rider-and-18-year-old-horse-triumph-in-64km-endurance-challenge/))
-- Woman in her 90s dies following crash ([6 hours ago](https://www.bbc.com/news/articles/c5yr4gz6kyro?at_medium=RSS&at_campaign=rss))
-- Lightning causes 'almighty bang' at petrol station ([7 hours ago](https://www.bbc.com/news/articles/cglpy18dl8ro?at_medium=RSS&at_campaign=rss))
-- Goods shed to be revamped following £216k award ([15 hours ago](https://www.bbc.com/news/articles/c9q3j14p8w5o?at_medium=RSS&at_campaign=rss))
-- Vulnerable teens sent far from home as unit stays shut ([15 hours ago](https://www.bbc.com/news/articles/ce8450p3gpzo?at_medium=RSS&at_campaign=rss))
+- M5 closed following serious crash ([2 hours ago](https://www.bbc.com/news/articles/c1e2n7l2v38o?at_medium=RSS&at_campaign=rss))
+- Cheltenham rider and 18-year-old horse triumph in 64km endurance challenge ([6 hours ago](https://gloucesternewscentre.co.uk/cheltenham-rider-and-18-year-old-horse-triumph-in-64km-endurance-challenge/))
+- Woman in her 90s dies following crash ([8 hours ago](https://www.bbc.com/news/articles/c5yr4gz6kyro?at_medium=RSS&at_campaign=rss))
+- Lightning causes 'almighty bang' at petrol station ([9 hours ago](https://www.bbc.com/news/articles/cglpy18dl8ro?at_medium=RSS&at_campaign=rss))
+- Goods shed to be revamped following £216k award ([17 hours ago](https://www.bbc.com/news/articles/c9q3j14p8w5o?at_medium=RSS&at_campaign=rss))
+- Vulnerable teens sent far from home as unit stays shut ([17 hours ago](https://www.bbc.com/news/articles/ce8450p3gpzo?at_medium=RSS&at_campaign=rss))
 - Home births to resume after safety concerns ([1 days ago](https://www.bbc.com/news/articles/cgep7q015yzo?at_medium=RSS&at_campaign=rss))
 - Recipes wanted for cookbook ([1 days ago](https://gloucesternewscentre.co.uk/recipes-wanted-for-cookbook/))
 - Council group leader charged with harassment ([1 days ago](https://www.bbc.com/news/articles/c5ye7prx2k7o?at_medium=RSS&at_campaign=rss))

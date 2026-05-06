@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branch overhanging into the path, 6th May :- [9410827](https://www.fixmystreet.com/report/9410827)
+- Tree branches overhanging into pathway., 6th May :- [9410819](https://www.fixmystreet.com/report/9410819)
+- Graffiti Graffiti on play equipment, 6th May :- [9410788](https://www.fixmystreet.com/report/9410788)
+- Fly tip in carpark, 6th May :- [9410772](https://www.fixmystreet.com/report/9410772)
+- Possible start of sinkhole, 6th May :- [9410480](https://www.fixmystreet.com/report/9410480)
 - TMC - Defects -CW6 Potholes  problem, 6th May :- [9409974](https://www.fixmystreet.com/report/9409974)
 - TMC - Defects -CW6 Potholes  problem, 6th May :- [9409973](https://www.fixmystreet.com/report/9409973)
 - The drain is blocked problem, 6th May :- [9409972](https://www.fixmystreet.com/report/9409972)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 6th May :- [9409287](https://www.fixmystreet.com/report/9409287)
 - TMC - Defects -other CW6 problem, 6th May :- [9409286](https://www.fixmystreet.com/report/9409286)
 - TMC - Defects -CW6 Potholes  problem, 6th May :- [9409285](https://www.fixmystreet.com/report/9409285)
-- Pothole, 6th May :- [9409127](https://www.fixmystreet.com/report/9409127)
-- Potholes on a road, 6th May :- [9409085](https://www.fixmystreet.com/report/9409085)
-- TMC - Defects -CW6 Potholes  problem, 6th May :- [9409278](https://www.fixmystreet.com/report/9409278)
-- TMC - Defects -CW6 Potholes  problem, 6th May :- [9409277](https://www.fixmystreet.com/report/9409277)
-- TMC - Defects -CW6 Potholes  problem, 6th May :- [9409276](https://www.fixmystreet.com/report/9409276)
 
 <!-- fix_marker ends -->

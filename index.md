@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 06 May 2026
 
-- The average temperature today is 11.23˚C,
-- With highs of 11.83˚C and lows of 10.4˚C,
-- It may feel like 10˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 61%
+- The average temperature today is 8.33˚C,
+- With highs of 8.87˚C and lows of 7.62˚C,
+- It may feel like 7.44˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 78%
 - The sun will rise at 04:29 and set at 19:39
 
 <!-- weather_marker ends -->

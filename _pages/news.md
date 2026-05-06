@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Goods shed to be revamped following £216k award ([6 hours ago](https://www.bbc.com/news/articles/c9q3j14p8w5o?at_medium=RSS&at_campaign=rss))
-- Vulnerable teens sent far from home as unit stays shut ([6 hours ago](https://www.bbc.com/news/articles/ce8450p3gpzo?at_medium=RSS&at_campaign=rss))
-- Home births to resume after safety concerns ([16 hours ago](https://www.bbc.com/news/articles/cgep7q015yzo?at_medium=RSS&at_campaign=rss))
-- Recipes wanted for cookbook ([20 hours ago](https://gloucesternewscentre.co.uk/recipes-wanted-for-cookbook/))
-- Council group leader charged with harassment ([21 hours ago](https://www.bbc.com/news/articles/c5ye7prx2k7o?at_medium=RSS&at_campaign=rss))
-- Music teacher denies alleged child sex offences ([22 hours ago](https://www.bbc.com/news/articles/ce9pnd3v8dgo?at_medium=RSS&at_campaign=rss))
+- Goods shed to be revamped following £216k award ([7 hours ago](https://www.bbc.com/news/articles/c9q3j14p8w5o?at_medium=RSS&at_campaign=rss))
+- Vulnerable teens sent far from home as unit stays shut ([8 hours ago](https://www.bbc.com/news/articles/ce8450p3gpzo?at_medium=RSS&at_campaign=rss))
+- Home births to resume after safety concerns ([18 hours ago](https://www.bbc.com/news/articles/cgep7q015yzo?at_medium=RSS&at_campaign=rss))
+- Recipes wanted for cookbook ([21 hours ago](https://gloucesternewscentre.co.uk/recipes-wanted-for-cookbook/))
+- Council group leader charged with harassment ([23 hours ago](https://www.bbc.com/news/articles/c5ye7prx2k7o?at_medium=RSS&at_campaign=rss))
+- Music teacher denies alleged child sex offences ([1 days ago](https://www.bbc.com/news/articles/ce9pnd3v8dgo?at_medium=RSS&at_campaign=rss))
 - Cheltenham library to close for safety works ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-library-to-close-for-safety-works/))
 - Council could be taken to court over state of Cheltenham streets ([1 days ago](https://gloucesternewscentre.co.uk/council-could-be-taken-to-court-over-state-of-cheltenham-streets/))
 - University staff to strike for three more days ([1 days ago](https://www.bbc.com/news/articles/ckgpz0g350yo?at_medium=RSS&at_campaign=rss))

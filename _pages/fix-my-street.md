@@ -9,25 +9,25 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, opp 8 Greenway Ln, 7th May :- [9416909](https://www.fixmystreet.com/report/9416909)
+- Old chair and other bits of furniture left by the pavement, 7th May :- [9416842](https://www.fixmystreet.com/report/9416842)
+- A number of pot holes along HillFields, 7th May :- [9416754](https://www.fixmystreet.com/report/9416754)
+- Stile missing step caused me to fall also extensive wear on path leading to flooding then path is impassabl, 7th May :- [9416708](https://www.fixmystreet.com/report/9416708)
+- Audi Car, 7th May :- [9415850](https://www.fixmystreet.com/report/9415850)
+- Not been cut, 7th May :- [9416512](https://www.fixmystreet.com/report/9416512)
 - Large pothole on side of road, 7th May :- [9416220](https://www.fixmystreet.com/report/9416220)
 - Multiple potholes on hill above Ethridges house, 7th May :- [9416179](https://www.fixmystreet.com/report/9416179)
 - TMC - Defects -other CW6 problem, 7th May :- [9416103](https://www.fixmystreet.com/report/9416103)
 - Road is chewed up, 4 potholes at least, 7th May :- [9415807](https://www.fixmystreet.com/report/9415807)
 - Many very bad potholes covering a mini roundabout by the Community Centre. It causes huge damage to cars and bikes, where the bump has been repaired incredibly badly previously, and needs to be completely resurfaced., 7th May :- [9415707](https://www.fixmystreet.com/report/9415707)
+- TMC - Defects -CW6 Potholes  problem, 7th May :- [9415873](https://www.fixmystreet.com/report/9415873)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [9415876](https://www.fixmystreet.com/report/9415876)
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [9415875](https://www.fixmystreet.com/report/9415875)
-- TMC - Defects -CW6 Potholes  problem, 7th May :- [9415873](https://www.fixmystreet.com/report/9415873)
-- TMC - Defects -CW6 Potholes  problem, 7th May :- [9415874](https://www.fixmystreet.com/report/9415874)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [9415877](https://www.fixmystreet.com/report/9415877)
+- TMC - Defects -CW6 Potholes  problem, 7th May :- [9415874](https://www.fixmystreet.com/report/9415874)
 - Several very bad potholes covering a speedbump at the end of Oldbury Orchard, turning left onto Brookfield Road. It causes huge damage to cars and bikes, where the bump has been repaired incredibly badly previously, and needs to be completely resurfaced., 7th May :- [9415633](https://www.fixmystreet.com/report/9415633)
 - TMC - Defects -CW10 Potholes problem, 7th May :- [9415511](https://www.fixmystreet.com/report/9415511)
 - TMC - Defects -CW10 Potholes problem, 7th May :- [9415509](https://www.fixmystreet.com/report/9415509)
 - TMC - Defects - Signs & Street Furniture problem, 7th May :- [9415144](https://www.fixmystreet.com/report/9415144)
-- TMC - Defects - Signs & Street Furniture problem, 7th May :- [9415143](https://www.fixmystreet.com/report/9415143)
-- TMC - Defects -CW6 Potholes  problem, 7th May :- [9415142](https://www.fixmystreet.com/report/9415142)
-- Can't see priority sign due to vegetation, 7th May :- [9414797](https://www.fixmystreet.com/report/9414797)
-- TMC - Defects -CW6 Potholes  problem, 7th May :- [9414964](https://www.fixmystreet.com/report/9414964)
-- TMC - Defects -CW10 Potholes problem, 7th May :- [9414955](https://www.fixmystreet.com/report/9414955)
-- TMC - Defects -CW10 Potholes problem, 7th May :- [9414954](https://www.fixmystreet.com/report/9414954)
 
 <!-- fix_marker ends -->

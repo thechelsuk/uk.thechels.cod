@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 07 May 2026
 
-- The average temperature today is 8.42˚C,
-- With highs of 8.72˚C and lows of 7.69˚C,
-- It may feel like 7.55˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 83%
+- The average temperature today is 11.31˚C,
+- With highs of 12.04˚C and lows of 10.54˚C,
+- It may feel like 10.4˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 73%
 - The sun will rise at 04:28 and set at 19:41
 
 <!-- weather_marker ends -->

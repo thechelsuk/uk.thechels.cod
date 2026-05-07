@@ -24,10 +24,10 @@ permalink: /fix-my-street
 - Road is chewed up, 4 potholes at least, 7th May :- [9415807](https://www.fixmystreet.com/report/9415807)
 - Many very bad potholes covering a mini roundabout by the Community Centre. It causes huge damage to cars and bikes, where the bump has been repaired incredibly badly previously, and needs to be completely resurfaced., 7th May :- [9415707](https://www.fixmystreet.com/report/9415707)
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [9415873](https://www.fixmystreet.com/report/9415873)
-- TMC - Defects - Other FW6  Surface problem, 7th May :- [9415877](https://www.fixmystreet.com/report/9415877)
-- TMC - Defects -CW6 Potholes  problem, 7th May :- [9415874](https://www.fixmystreet.com/report/9415874)
 - TMC - Defects -CW6 Potholes  problem, 7th May :- [9415875](https://www.fixmystreet.com/report/9415875)
 - TMC - Defects - Other FW6  Surface problem, 7th May :- [9415876](https://www.fixmystreet.com/report/9415876)
+- TMC - Defects - Other FW6  Surface problem, 7th May :- [9415877](https://www.fixmystreet.com/report/9415877)
+- TMC - Defects -CW6 Potholes  problem, 7th May :- [9415874](https://www.fixmystreet.com/report/9415874)
 - Several very bad potholes covering a speedbump at the end of Oldbury Orchard, turning left onto Brookfield Road. It causes huge damage to cars and bikes, where the bump has been repaired incredibly badly previously, and needs to be completely resurfaced., 7th May :- [9415633](https://www.fixmystreet.com/report/9415633)
 
 <!-- fix_marker ends -->

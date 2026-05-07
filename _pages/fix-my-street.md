@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 7th May :- [9412746](https://www.fixmystreet.com/report/9412746)
+- TMC - Defects -CW6 Potholes  problem, 7th May :- [9412747](https://www.fixmystreet.com/report/9412747)
+- TMC - Defects -CW6 Potholes  problem, 7th May :- [9412749](https://www.fixmystreet.com/report/9412749)
+- TMC - Defects -CW6 Potholes  problem, 7th May :- [9412748](https://www.fixmystreet.com/report/9412748)
+- Cars consistently parked at bus stop, 7th May :- [9412458](https://www.fixmystreet.com/report/9412458)
 - Planning ref - 20/00245/FUL, 6th May :- [9411183](https://www.fixmystreet.com/report/9411183)
 - Branches falling off, 6th May :- [9411165](https://www.fixmystreet.com/report/9411165)
 - Can we get yellow lines painted?, 6th May :- [9411141](https://www.fixmystreet.com/report/9411141)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 6th May :- [9409973](https://www.fixmystreet.com/report/9409973)
 - The drain is blocked problem, 6th May :- [9409972](https://www.fixmystreet.com/report/9409972)
 - Drain cover broken leaving hazardous hole, 6th May :- [9409001](https://www.fixmystreet.com/report/9409001)
-- Tree is damaged problem, 6th May :- [9409744](https://www.fixmystreet.com/report/9409744)
-- Completely Blocked Drain (See Photos), 6th May :- [9409681](https://www.fixmystreet.com/report/9409681)
-- 6x6 paving slab orchard avenue, 6th May :- [9409643](https://www.fixmystreet.com/report/9409643)
-- Overgrown hogweed, 6th May :- [9409548](https://www.fixmystreet.com/report/9409548)
-- TMC - Defects - Signs & Street Furniture problem, 6th May :- [9409524](https://www.fixmystreet.com/report/9409524)
 
 <!-- fix_marker ends -->

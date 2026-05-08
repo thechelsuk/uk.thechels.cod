@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Footpath sign rusted and leaning, 8th May :- [9422884](https://www.fixmystreet.com/report/9422884)
 - Dog fouling, 8th May :- [9422504](https://www.fixmystreet.com/report/9422504)
 - Utilities work unsafe and unfinished, 8th May :- [9422484](https://www.fixmystreet.com/report/9422484)
 - Sign/waymarker is damaged problem, 8th May :- [9422454](https://www.fixmystreet.com/report/9422454)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 8th May :- [9420943](https://www.fixmystreet.com/report/9420943)
 - Rookery road park rubbish everywhere, 8th May :- [9420399](https://www.fixmystreet.com/report/9420399)
 - TMC - Defects -other CW10 problem, 8th May :- [9420440](https://www.fixmystreet.com/report/9420440)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [9420214](https://www.fixmystreet.com/report/9420214)
 
 <!-- fix_marker ends -->

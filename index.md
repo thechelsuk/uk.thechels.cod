@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 08 May 2026
 
-- The average temperature today is 17.47˚C,
-- With highs of 17.69˚C and lows of 16.08˚C,
-- It may feel like 16.84˚C with broken clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 60%
+- The average temperature today is 15.57˚C,
+- With highs of 17.14˚C and lows of 14.42˚C,
+- It may feel like 15.01˚C with broken clouds
+- The wind speed is 2.68m/s and visibility is 8113m
+- The pressure is 1015hPa and humidity is 70%
 - The sun will rise at 04:26 and set at 19:43
 
 <!-- weather_marker ends -->

@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -150,24 +150,6 @@
 <georss:point>51.8835959 -2.1043117</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 7th May</title>
-<link>https://www.fixmystreet.com/report/9415875</link>
-<description>15db&amp;#10;Pothole CW&amp;#10;400x400x45mm approx&amp;#10;Road closure with 15db&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9415875&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9415875</guid>
-<pubDate>Thu, 07 May 2026 15:04:42 +0100</pubDate>
-<georss:point>51.8825058 -2.0965606</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 7th May</title>
-<link>https://www.fixmystreet.com/report/9415876</link>
-<description>Abrupt level differences FW&amp;#10;Patch required&amp;#10;3000x1000x20mm&amp;#10;Standard TM with temp FW closure&amp;#10;Stats (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9415876&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9415876</guid>
-<pubDate>Thu, 07 May 2026 15:04:42 +0100</pubDate>
-<georss:point>51.882498 -2.096578</georss:point>
-</item>
-<item>
 <title>TMC - Defects - Other FW6  Surface problem, 7th May</title>
 <link>https://www.fixmystreet.com/report/9415877</link>
 <description>Abrupt level differences FW&amp;#10;Patch required&amp;#10;2000x1000x20mm&amp;#10;Standard TM with temp FW closure&amp;#10;Stats (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9415877&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -184,6 +166,24 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9415874</guid>
 <pubDate>Thu, 07 May 2026 15:04:42 +0100</pubDate>
 <georss:point>51.8835931 -2.1043016</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 7th May</title>
+<link>https://www.fixmystreet.com/report/9415875</link>
+<description>15db&amp;#10;Pothole CW&amp;#10;400x400x45mm approx&amp;#10;Road closure with 15db&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9415875&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9415875</guid>
+<pubDate>Thu, 07 May 2026 15:04:42 +0100</pubDate>
+<georss:point>51.8825058 -2.0965606</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 7th May</title>
+<link>https://www.fixmystreet.com/report/9415876</link>
+<description>Abrupt level differences FW&amp;#10;Patch required&amp;#10;3000x1000x20mm&amp;#10;Standard TM with temp FW closure&amp;#10;Stats (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9415876&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9415876</guid>
+<pubDate>Thu, 07 May 2026 15:04:42 +0100</pubDate>
+<georss:point>51.882498 -2.096578</georss:point>
 </item>
 <item>
 <title>Several very bad potholes covering a speedbump at the end of Oldbury Orchard, turning left onto Brookfield Road. It causes huge damage to cars and bikes, where the bump has been repaired incredibly badly previously, and needs to be completely resurfaced., 7th May</title>

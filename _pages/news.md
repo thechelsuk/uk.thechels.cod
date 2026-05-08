@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man who ran cocaine gang from mum's house jailed ([3 hours ago](https://www.bbc.com/news/articles/c2k2jz8e22ko?at_medium=RSS&at_campaign=rss))
-- Superdry co-founder James Holder jailed for rape ([7 hours ago](https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss))
-- Council group leader denies harassment charge ([9 hours ago](https://www.bbc.com/news/articles/c4g094k1e2eo?at_medium=RSS&at_campaign=rss))
-- Man dies in crash on M5 in Gloucestershire ([10 hours ago](https://www.bbc.com/news/articles/c70vwkl7en0o?at_medium=RSS&at_campaign=rss))
-- HMO bought to house homeless 'empty' and 'unsecure' ([17 hours ago](https://www.bbc.com/news/articles/c5yx502lr47o?at_medium=RSS&at_campaign=rss))
-- Plans to get young workers out of 'benefit trap' ([17 hours ago](https://www.bbc.com/news/articles/cj4pnd5zdr1o?at_medium=RSS&at_campaign=rss))
+- Man who ran cocaine gang from mum's house jailed ([5 hours ago](https://www.bbc.com/news/articles/c2k2jz8e22ko?at_medium=RSS&at_campaign=rss))
+- Superdry co-founder James Holder jailed for rape ([9 hours ago](https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss))
+- Council group leader denies harassment charge ([11 hours ago](https://www.bbc.com/news/articles/c4g094k1e2eo?at_medium=RSS&at_campaign=rss))
+- Man dies in crash on M5 in Gloucestershire ([12 hours ago](https://www.bbc.com/news/articles/c70vwkl7en0o?at_medium=RSS&at_campaign=rss))
+- HMO bought to house homeless 'empty' and 'unsecure' ([20 hours ago](https://www.bbc.com/news/articles/c5yx502lr47o?at_medium=RSS&at_campaign=rss))
+- Plans to get young workers out of 'benefit trap' ([20 hours ago](https://www.bbc.com/news/articles/cj4pnd5zdr1o?at_medium=RSS&at_campaign=rss))
 - Cheltenham rider and 18-year-old horse triumph in 64km endurance challenge ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-rider-and-18-year-old-horse-triumph-in-64km-endurance-challenge/))
 - Woman in her 90s dies following crash ([1 days ago](https://www.bbc.com/news/articles/c5yr4gz6kyro?at_medium=RSS&at_campaign=rss))
 - Lightning causes 'almighty bang' at petrol station ([1 days ago](https://www.bbc.com/news/articles/cglpy18dl8ro?at_medium=RSS&at_campaign=rss))

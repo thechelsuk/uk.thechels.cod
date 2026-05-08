@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rookery road park - rubbish everywhere, 8th May :- [9420713](https://www.fixmystreet.com/report/9420713)
+- Large wooden planter full of weeds. Either it should be removed as an unsightly obstruction on the pavement or it should be planted and maintained. Thanks, 8th May :- [9420618](https://www.fixmystreet.com/report/9420618)
+- Rookery road park rubbish everywhere, 8th May :- [9420399](https://www.fixmystreet.com/report/9420399)
+- TMC - Defects -other CW10 problem, 8th May :- [9420440](https://www.fixmystreet.com/report/9420440)
+- TMC - Defects -CW6 Potholes  problem, 8th May :- [9420213](https://www.fixmystreet.com/report/9420213)
+- TMC - Defects -CW6 Potholes  problem, 8th May :- [9420214](https://www.fixmystreet.com/report/9420214)
+- Pothole x 2, 8th May :- [9420102](https://www.fixmystreet.com/report/9420102)
+- TMC - Defects -other CW6 problem, 8th May :- [9420193](https://www.fixmystreet.com/report/9420193)
+- TMC - Defects -other CW6 problem, 8th May :- [9420194](https://www.fixmystreet.com/report/9420194)
+- Hanging trees, 8th May :- [9419957](https://www.fixmystreet.com/report/9419957)
 - Tree blocking parhway, 8th May :- [9419833](https://www.fixmystreet.com/report/9419833)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [9419797](https://www.fixmystreet.com/report/9419797)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [9419796](https://www.fixmystreet.com/report/9419796)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [9419799](https://www.fixmystreet.com/report/9419799)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [9419794](https://www.fixmystreet.com/report/9419794)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [9419793](https://www.fixmystreet.com/report/9419793)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [9419787](https://www.fixmystreet.com/report/9419787)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [9419786](https://www.fixmystreet.com/report/9419786)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [9419778](https://www.fixmystreet.com/report/9419778)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [9419609](https://www.fixmystreet.com/report/9419609)
-- Green or amber traffic light is not working problem, 8th May :- [9419599](https://www.fixmystreet.com/report/9419599)
-- Mattress fly tipped on Festival Way, 8th May :- [9408771](https://www.fixmystreet.com/report/9408771)
-- TMC - Defects - Other FW6  Surface problem, 8th May :- [9419344](https://www.fixmystreet.com/report/9419344)
-- TMC - Defects - Vegetation problem, 8th May :- [9419341](https://www.fixmystreet.com/report/9419341)
-- TMC - Defects - Vegetation problem, 8th May :- [9419340](https://www.fixmystreet.com/report/9419340)
-- Tree is damaged problem, 8th May :- [9419146](https://www.fixmystreet.com/report/9419146)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Post or sign leaning slightly (less than 20 degrees) problem, 8th May :- [9423764](https://www.fixmystreet.com/report/9423764)
+- Massive dangerous potholes, 8th May :- [9423640](https://www.fixmystreet.com/report/9423640)
 - Footpath sign rusted and leaning, 8th May :- [9422884](https://www.fixmystreet.com/report/9422884)
 - Dog fouling, 8th May :- [9422504](https://www.fixmystreet.com/report/9422504)
 - Utilities work unsafe and unfinished, 8th May :- [9422484](https://www.fixmystreet.com/report/9422484)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [9420965](https://www.fixmystreet.com/report/9420965)
 - Large wooden planter full of weeds. Either it should be removed as an unsightly obstruction on the pavement or it should be planted and maintained. Thanks, 8th May :- [9420618](https://www.fixmystreet.com/report/9420618)
 - TMC - Defects -CW10 Potholes problem, 8th May :- [9420943](https://www.fixmystreet.com/report/9420943)
-- Rookery road park rubbish everywhere, 8th May :- [9420399](https://www.fixmystreet.com/report/9420399)
-- TMC - Defects -other CW10 problem, 8th May :- [9420440](https://www.fixmystreet.com/report/9420440)
 
 <!-- fix_marker ends -->

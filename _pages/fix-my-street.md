@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog fouling, 8th May :- [9422504](https://www.fixmystreet.com/report/9422504)
+- Utilities work unsafe and unfinished, 8th May :- [9422484](https://www.fixmystreet.com/report/9422484)
+- Sign/waymarker is damaged problem, 8th May :- [9422454](https://www.fixmystreet.com/report/9422454)
+- As we come out of Beech Close, we struggle to see cars on the right hand side and if we pull forward we usually have near misses if cars are on coming, 8th May :- [9422125](https://www.fixmystreet.com/report/9422125)
+- Drain hole sunk leaving deep drop, 8th May :- [9421936](https://www.fixmystreet.com/report/9421936)
 - Large tree, 8th May :- [9421563](https://www.fixmystreet.com/report/9421563)
 - TMC - Defects - Vegetation problem, 8th May :- [9421644](https://www.fixmystreet.com/report/9421644)
 - TMC - Defects - Vegetation problem, 8th May :- [9421375](https://www.fixmystreet.com/report/9421375)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Rookery road park rubbish everywhere, 8th May :- [9420399](https://www.fixmystreet.com/report/9420399)
 - TMC - Defects -other CW10 problem, 8th May :- [9420440](https://www.fixmystreet.com/report/9420440)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [9420214](https://www.fixmystreet.com/report/9420214)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [9420213](https://www.fixmystreet.com/report/9420213)
-- Pothole x 2, 8th May :- [9420102](https://www.fixmystreet.com/report/9420102)
-- TMC - Defects -other CW6 problem, 8th May :- [9420193](https://www.fixmystreet.com/report/9420193)
-- TMC - Defects -other CW6 problem, 8th May :- [9420194](https://www.fixmystreet.com/report/9420194)
-- Hanging trees, 8th May :- [9419957](https://www.fixmystreet.com/report/9419957)
 
 <!-- fix_marker ends -->

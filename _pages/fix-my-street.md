@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen tree across the bridleway, 9th May :- [9426378](https://www.fixmystreet.com/report/9426378)
+- Fly tipped chairs/ sofa, 9th May :- [9426380](https://www.fixmystreet.com/report/9426380)
 - Fly tipping, 9th May :- [9425618](https://www.fixmystreet.com/report/9425618)
 - Tree branches growing round telephone wires, 9th May :- [9425543](https://www.fixmystreet.com/report/9425543)
 - Flytipped item, 9th May :- [9425390](https://www.fixmystreet.com/report/9425390)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Drain hole sunk leaving deep drop, 8th May :- [9421936](https://www.fixmystreet.com/report/9421936)
 - Large tree, 8th May :- [9421563](https://www.fixmystreet.com/report/9421563)
 - TMC - Defects - Vegetation problem, 8th May :- [9421644](https://www.fixmystreet.com/report/9421644)
-- TMC - Defects - Vegetation problem, 8th May :- [9421375](https://www.fixmystreet.com/report/9421375)
-- TMC - Defects - Vegetation problem, 8th May :- [9421376](https://www.fixmystreet.com/report/9421376)
 
 <!-- fix_marker ends -->

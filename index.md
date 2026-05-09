@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 09 May 2026
 
-- The average temperature today is 14.6˚C,
-- With highs of 14.6˚C and lows of 14.6˚C,
-- It may feel like 13.97˚C with broken clouds
-- The wind speed is 5.12m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 71%
+- The average temperature today is 12.7˚C,
+- With highs of 12.7˚C and lows of 12.7˚C,
+- It may feel like 12.01˚C with overcast clouds
+- The wind speed is 3.96m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 76%
 - The sun will rise at 04:24 and set at 19:44
 
 <!-- weather_marker ends -->

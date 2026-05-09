@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown hedge, 9th May :- [9427206](https://www.fixmystreet.com/report/9427206)
+- Volunteer litter pick bags ready for collection, 9th May :- [9427097](https://www.fixmystreet.com/report/9427097)
 - Fallen tree across the bridleway, 9th May :- [9426378](https://www.fixmystreet.com/report/9426378)
 - Fly tipped chairs/ sofa, 9th May :- [9426380](https://www.fixmystreet.com/report/9426380)
 - Fly tipping, 9th May :- [9425618](https://www.fixmystreet.com/report/9425618)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Sign/waymarker is damaged problem, 8th May :- [9422454](https://www.fixmystreet.com/report/9422454)
 - As we come out of Beech Close, we struggle to see cars on the right hand side and if we pull forward we usually have near misses if cars are on coming, 8th May :- [9422125](https://www.fixmystreet.com/report/9422125)
 - Drain hole sunk leaving deep drop, 8th May :- [9421936](https://www.fixmystreet.com/report/9421936)
-- Large tree, 8th May :- [9421563](https://www.fixmystreet.com/report/9421563)
-- TMC - Defects - Vegetation problem, 8th May :- [9421644](https://www.fixmystreet.com/report/9421644)
 
 <!-- fix_marker ends -->

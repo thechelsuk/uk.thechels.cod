@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 9th May :- [9424330](https://www.fixmystreet.com/report/9424330)
 - Two potholes close together on the line dividing lane one and lane two, 8th May :- [9424134](https://www.fixmystreet.com/report/9424134)
 - Post or sign leaning slightly (less than 20 degrees) problem, 8th May :- [9423764](https://www.fixmystreet.com/report/9423764)
 - Massive dangerous potholes, 8th May :- [9423640](https://www.fixmystreet.com/report/9423640)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Rookery road park - rubbish everywhere, 8th May :- [9420713](https://www.fixmystreet.com/report/9420713)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [9420966](https://www.fixmystreet.com/report/9420966)
 - TMC - Defects -CW6 Potholes  problem, 8th May :- [9420965](https://www.fixmystreet.com/report/9420965)
-- Large wooden planter full of weeds. Either it should be removed as an unsightly obstruction on the pavement or it should be planted and maintained. Thanks, 8th May :- [9420618](https://www.fixmystreet.com/report/9420618)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped item, 9th May :- [9425390](https://www.fixmystreet.com/report/9425390)
+- Flytipped item, 9th May :- [9425342](https://www.fixmystreet.com/report/9425342)
+- Road is uneven and broken in many places causing damage to vehicles, 9th May :- [9425319](https://www.fixmystreet.com/report/9425319)
+- 20 inch pot hole in road, 9th May :- [9425304](https://www.fixmystreet.com/report/9425304)
 - Fly tipping, 9th May :- [9424330](https://www.fixmystreet.com/report/9424330)
 - Two potholes close together on the line dividing lane one and lane two, 8th May :- [9424134](https://www.fixmystreet.com/report/9424134)
 - Post or sign leaning slightly (less than 20 degrees) problem, 8th May :- [9423764](https://www.fixmystreet.com/report/9423764)
@@ -21,13 +25,9 @@ permalink: /fix-my-street
 - Drain hole sunk leaving deep drop, 8th May :- [9421936](https://www.fixmystreet.com/report/9421936)
 - Large tree, 8th May :- [9421563](https://www.fixmystreet.com/report/9421563)
 - TMC - Defects - Vegetation problem, 8th May :- [9421644](https://www.fixmystreet.com/report/9421644)
-- TMC - Defects - Vegetation problem, 8th May :- [9421376](https://www.fixmystreet.com/report/9421376)
 - TMC - Defects - Vegetation problem, 8th May :- [9421375](https://www.fixmystreet.com/report/9421375)
+- TMC - Defects - Vegetation problem, 8th May :- [9421376](https://www.fixmystreet.com/report/9421376)
 - TMC - Defects -other CW6 problem, 8th May :- [9420979](https://www.fixmystreet.com/report/9420979)
 - TMC - Defects -other CW6 problem, 8th May :- [9420978](https://www.fixmystreet.com/report/9420978)
-- TMC - Defects - Kerbs and Channels problem, 8th May :- [9420969](https://www.fixmystreet.com/report/9420969)
-- Rookery road park - rubbish everywhere, 8th May :- [9420713](https://www.fixmystreet.com/report/9420713)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [9420966](https://www.fixmystreet.com/report/9420966)
-- TMC - Defects -CW6 Potholes  problem, 8th May :- [9420965](https://www.fixmystreet.com/report/9420965)
 
 <!-- fix_marker ends -->

@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
@@ -115,21 +115,21 @@
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 8th May</title>
-<link>https://www.fixmystreet.com/report/9421376</link>
-<description>Cut hedge back to boundary 9mtrs&amp;#10;Stop and go TM &amp;#10;Outside Tithe barn (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9421376&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9421376</guid>
-<pubDate>Fri, 08 May 2026 13:25:27 +0100</pubDate>
-<georss:point>51.9469184 -2.06350879999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 8th May</title>
 <link>https://www.fixmystreet.com/report/9421375</link>
 <description>Cut overhanging branches for visibility of traffic signal head 20mtrs &amp;#10;Stop and go TM &amp;#10;Outside Kings Head (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9421375&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Vegetation</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9421375</guid>
 <pubDate>Fri, 08 May 2026 13:25:27 +0100</pubDate>
 <georss:point>51.9473062 -2.06303310000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 8th May</title>
+<link>https://www.fixmystreet.com/report/9421376</link>
+<description>Cut hedge back to boundary 9mtrs&amp;#10;Stop and go TM &amp;#10;Outside Tithe barn (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9421376&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9421376</guid>
+<pubDate>Fri, 08 May 2026 13:25:27 +0100</pubDate>
+<georss:point>51.9469184 -2.06350879999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 8th May</title>

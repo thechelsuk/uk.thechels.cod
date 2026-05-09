@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 9th May :- [9425618](https://www.fixmystreet.com/report/9425618)
+- Tree branches growing round telephone wires, 9th May :- [9425543](https://www.fixmystreet.com/report/9425543)
 - Flytipped item, 9th May :- [9425390](https://www.fixmystreet.com/report/9425390)
 - Flytipped item, 9th May :- [9425342](https://www.fixmystreet.com/report/9425342)
 - Road is uneven and broken in many places causing damage to vehicles, 9th May :- [9425319](https://www.fixmystreet.com/report/9425319)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 8th May :- [9421644](https://www.fixmystreet.com/report/9421644)
 - TMC - Defects - Vegetation problem, 8th May :- [9421375](https://www.fixmystreet.com/report/9421375)
 - TMC - Defects - Vegetation problem, 8th May :- [9421376](https://www.fixmystreet.com/report/9421376)
-- TMC - Defects -other CW6 problem, 8th May :- [9420979](https://www.fixmystreet.com/report/9420979)
-- TMC - Defects -other CW6 problem, 8th May :- [9420978](https://www.fixmystreet.com/report/9420978)
 
 <!-- fix_marker ends -->

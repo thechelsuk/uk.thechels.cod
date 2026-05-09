@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Nature recovery zones inspired by Attenborough ([6 hours ago](https://www.bbc.com/news/articles/c62eje88wy3o?at_medium=RSS&at_campaign=rss))
-- 'I didn't realise how deaf I was until I got hearing aids' ([10 hours ago](https://www.bbc.com/news/articles/crkpmk8p6g2o?at_medium=RSS&at_campaign=rss))
-- Headlines: Rave plane and helipad bus blocking ([11 hours ago](https://www.bbc.com/news/articles/clype7x73y2o?at_medium=RSS&at_campaign=rss))
+- Oral history project records 80 years of stories ([12 minutes ago](https://www.bbc.com/news/articles/cwy2qvzzp2xo?at_medium=RSS&at_campaign=rss))
+- Nature recovery zones inspired by Attenborough ([8 hours ago](https://www.bbc.com/news/articles/c62eje88wy3o?at_medium=RSS&at_campaign=rss))
+- 'I didn't realise how deaf I was until I got hearing aids' ([12 hours ago](https://www.bbc.com/news/articles/crkpmk8p6g2o?at_medium=RSS&at_campaign=rss))
+- Headlines: Rave plane and helipad bus blocking ([13 hours ago](https://www.bbc.com/news/articles/clype7x73y2o?at_medium=RSS&at_campaign=rss))
 - Liberal Democrats win county council by-election ([1 days ago](https://gloucesternewscentre.co.uk/liberal-democrats-win-county-council-by-election/))
 - Cheltenham ‘rejects politics of division’ as Lib Dems win council elections ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-rejects-politics-of-division-as-lib-dems-win-council-elections/))
 - Father, 30, killed in M5 crash was a 'gentle giant' ([1 days ago](https://www.bbc.com/news/articles/cx216q3j0w5o?at_medium=RSS&at_campaign=rss))
@@ -23,7 +24,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Strikes suspended at school as plan implemented ([1 days ago](https://www.bbc.com/news/articles/cx21yq7wgjjo?at_medium=RSS&at_campaign=rss))
 - Carers incorrectly identified as kidnappers stopped by stinger ([1 days ago](https://www.bbc.com/news/articles/cvgz9me01z4o?at_medium=RSS&at_campaign=rss))
 - Model railway celebrates 200 years of history ([1 days ago](https://www.bbc.com/news/articles/cy52ny6px1zo?at_medium=RSS&at_campaign=rss))
-- Garden revamp 'means the world' to disabled boy ([1 days ago](https://www.bbc.com/news/articles/c78k9x1kvl3o?at_medium=RSS&at_campaign=rss))
 - Daughters' victory after challenging father's will ([1 days ago](https://www.bbc.com/news/articles/clyp3j4mk25o?at_medium=RSS&at_campaign=rss))
 - Man who ran cocaine gang from mum's house jailed ([1 days ago](https://www.bbc.com/news/articles/c2k2jz8e22ko?at_medium=RSS&at_campaign=rss))
 - Superdry co-founder James Holder jailed for rape ([2 days ago](https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain cover not properly closed. This has in the past been coned off but the cones vanished and the issue persists, 10th May :- [9428328](https://www.fixmystreet.com/report/9428328)
 - Street lights GE Bishops Cleeve, 10th May :- [9428241](https://www.fixmystreet.com/report/9428241)
 - Y10 svr, 10th May :- [9427814](https://www.fixmystreet.com/report/9427814)
 - Pothole on pavement on corner of Ismay rd/Welch rd, 10th May :- [9427521](https://www.fixmystreet.com/report/9427521)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 8th May :- [9423764](https://www.fixmystreet.com/report/9423764)
 - Massive dangerous potholes, 8th May :- [9423640](https://www.fixmystreet.com/report/9423640)
 - Footpath sign rusted and leaning, 8th May :- [9422884](https://www.fixmystreet.com/report/9422884)
-- Dog fouling, 8th May :- [9422504](https://www.fixmystreet.com/report/9422504)
 
 <!-- fix_marker ends -->

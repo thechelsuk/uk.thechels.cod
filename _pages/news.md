@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Brain bleed was 'every parent's worst nightmare' ([1 hours ago](https://www.bbc.com/news/articles/c7v9773e5j7o?at_medium=RSS&at_campaign=rss))
-- The unexpected region fuelling UK's American football rise ([2 hours ago](https://www.bbc.com/news/articles/cyv1996r92eo?at_medium=RSS&at_campaign=rss))
-- In Pictures: Badminton and Attenborough tributes ([2 hours ago](https://www.bbc.com/news/articles/cz62p02x7j3o?at_medium=RSS&at_campaign=rss))
-- Oral history project records 80 years of stories ([16 hours ago](https://www.bbc.com/news/articles/cwy2qvzzp2xo?at_medium=RSS&at_campaign=rss))
+- Brain bleed was 'every parent's worst nightmare' ([3 hours ago](https://www.bbc.com/news/articles/c7v9773e5j7o?at_medium=RSS&at_campaign=rss))
+- The unexpected region fuelling UK's American football rise ([4 hours ago](https://www.bbc.com/news/articles/cyv1996r92eo?at_medium=RSS&at_campaign=rss))
+- In Pictures: Badminton and Attenborough tributes ([4 hours ago](https://www.bbc.com/news/articles/cz62p02x7j3o?at_medium=RSS&at_campaign=rss))
+- Oral history project records 80 years of stories ([18 hours ago](https://www.bbc.com/news/articles/cwy2qvzzp2xo?at_medium=RSS&at_campaign=rss))
 - Nature recovery zones inspired by Attenborough ([1 days ago](https://www.bbc.com/news/articles/c62eje88wy3o?at_medium=RSS&at_campaign=rss))
 - 'I didn't realise how deaf I was until I got hearing aids' ([1 days ago](https://www.bbc.com/news/articles/crkpmk8p6g2o?at_medium=RSS&at_campaign=rss))
 - Headlines: Rave plane and helipad bus blocking ([1 days ago](https://www.bbc.com/news/articles/clype7x73y2o?at_medium=RSS&at_campaign=rss))

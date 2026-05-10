@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Recycling point is overflowing, 10th May :- [9429811](https://www.fixmystreet.com/report/9429811)
+- Speed limit sign on north side of road is missing, sign on south side obscured by undergrowth., 10th May :- [9429644](https://www.fixmystreet.com/report/9429644)
+- Chunk of tree fallen, 10th May :- [9429584](https://www.fixmystreet.com/report/9429584)
+- Speed limit signs on both sides of road damaged/missing., 10th May :- [9429582](https://www.fixmystreet.com/report/9429582)
+- Pothole, 10th May :- [9429449](https://www.fixmystreet.com/report/9429449)
+- Deep pothole, 10th May :- [9429441](https://www.fixmystreet.com/report/9429441)
+- Pothole, 10th May :- [9429413](https://www.fixmystreet.com/report/9429413)
 - Pothole, 10th May :- [9429345](https://www.fixmystreet.com/report/9429345)
 - Large pothole, 10th May :- [9429325](https://www.fixmystreet.com/report/9429325)
 - Damaged and leaning gate., 10th May :- [9428846](https://www.fixmystreet.com/report/9428846)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection, 9th May :- [9427097](https://www.fixmystreet.com/report/9427097)
 - Fallen tree across the bridleway, 9th May :- [9426378](https://www.fixmystreet.com/report/9426378)
 - Fly tipped chairs/ sofa, 9th May :- [9426380](https://www.fixmystreet.com/report/9426380)
-- Fly tipping, 9th May :- [9425618](https://www.fixmystreet.com/report/9425618)
-- Tree branches growing round telephone wires, 9th May :- [9425543](https://www.fixmystreet.com/report/9425543)
-- Flytipped item, 9th May :- [9425390](https://www.fixmystreet.com/report/9425390)
-- Flytipped item, 9th May :- [9425342](https://www.fixmystreet.com/report/9425342)
-- Road is uneven and broken in many places causing damage to vehicles, 9th May :- [9425319](https://www.fixmystreet.com/report/9425319)
-- 20 inch pot hole in road, 9th May :- [9425304](https://www.fixmystreet.com/report/9425304)
-- Fly tipping, 9th May :- [9424330](https://www.fixmystreet.com/report/9424330)
 
 <!-- fix_marker ends -->

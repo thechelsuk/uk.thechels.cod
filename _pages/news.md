@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Investigation after police find man's body in ditch ([2 hours ago](https://www.bbc.com/news/articles/cy9205ww5q0o?at_medium=RSS&at_campaign=rss))
-- Brain bleed was 'every parent's worst nightmare' ([11 hours ago](https://www.bbc.com/news/articles/c7v9773e5j7o?at_medium=RSS&at_campaign=rss))
-- The unexpected region fuelling UK's American football rise ([12 hours ago](https://www.bbc.com/news/articles/cyv1996r92eo?at_medium=RSS&at_campaign=rss))
-- In Pictures: Badminton and Attenborough tributes ([12 hours ago](https://www.bbc.com/news/articles/cz62p02x7j3o?at_medium=RSS&at_campaign=rss))
+- Investigation after police find man's body in ditch ([4 hours ago](https://www.bbc.com/news/articles/cy9205ww5q0o?at_medium=RSS&at_campaign=rss))
+- Brain bleed was 'every parent's worst nightmare' ([13 hours ago](https://www.bbc.com/news/articles/c7v9773e5j7o?at_medium=RSS&at_campaign=rss))
+- The unexpected region fuelling UK's American football rise ([14 hours ago](https://www.bbc.com/news/articles/cyv1996r92eo?at_medium=RSS&at_campaign=rss))
+- In Pictures: Badminton and Attenborough tributes ([14 hours ago](https://www.bbc.com/news/articles/cz62p02x7j3o?at_medium=RSS&at_campaign=rss))
 - Oral history project records 80 years of stories ([1 days ago](https://www.bbc.com/news/articles/cwy2qvzzp2xo?at_medium=RSS&at_campaign=rss))
 - Nature recovery zones inspired by Attenborough ([1 days ago](https://www.bbc.com/news/articles/c62eje88wy3o?at_medium=RSS&at_campaign=rss))
 - 'I didn't realise how deaf I was until I got hearing aids' ([1 days ago](https://www.bbc.com/news/articles/crkpmk8p6g2o?at_medium=RSS&at_campaign=rss))

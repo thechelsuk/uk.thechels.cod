@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Long grass reduces visibility at exit from Malleson Road onto A435, 10th May :- [9430778](https://www.fixmystreet.com/report/9430778)
+- Dangerous footpath, narrow, edge falling away, barrier missing, 10th May :- [9430452](https://www.fixmystreet.com/report/9430452)
+- Alley way by the side of Emmanuel Church street light No 1, 10th May :- [9430344](https://www.fixmystreet.com/report/9430344)
 - Offensive graffiti on top of pedestrian crossing button, 10th May :- [9430071](https://www.fixmystreet.com/report/9430071)
 - Double yellow lines missing there's, 10th May :- [9430053](https://www.fixmystreet.com/report/9430053)
 - Sexual graffiti on road surface, 10th May :- [9430014](https://www.fixmystreet.com/report/9430014)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Drain cover not properly closed. This has in the past been coned off but the cones vanished and the issue persists, 10th May :- [9428328](https://www.fixmystreet.com/report/9428328)
 - Street lights GE Bishops Cleeve, 10th May :- [9428241](https://www.fixmystreet.com/report/9428241)
 - Y10 svr, 10th May :- [9427814](https://www.fixmystreet.com/report/9427814)
-- Pothole on pavement on corner of Ismay rd/Welch rd, 10th May :- [9427521](https://www.fixmystreet.com/report/9427521)
-- Very large pot hole on middle lane of roundabout, 9th May :- [9427387](https://www.fixmystreet.com/report/9427387)
-- Overgrown hedge, 9th May :- [9427206](https://www.fixmystreet.com/report/9427206)
 
 <!-- fix_marker ends -->

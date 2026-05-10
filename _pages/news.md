@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Brain bleed was 'every parent's worst nightmare' ([7 hours ago](https://www.bbc.com/news/articles/c7v9773e5j7o?at_medium=RSS&at_campaign=rss))
-- The unexpected region fuelling UK's American football rise ([8 hours ago](https://www.bbc.com/news/articles/cyv1996r92eo?at_medium=RSS&at_campaign=rss))
-- In Pictures: Badminton and Attenborough tributes ([8 hours ago](https://www.bbc.com/news/articles/cz62p02x7j3o?at_medium=RSS&at_campaign=rss))
-- Oral history project records 80 years of stories ([22 hours ago](https://www.bbc.com/news/articles/cwy2qvzzp2xo?at_medium=RSS&at_campaign=rss))
+- Investigation after police find man's body in ditch ([29 minutes ago](https://www.bbc.com/news/articles/cy9205ww5q0o?at_medium=RSS&at_campaign=rss))
+- Brain bleed was 'every parent's worst nightmare' ([9 hours ago](https://www.bbc.com/news/articles/c7v9773e5j7o?at_medium=RSS&at_campaign=rss))
+- The unexpected region fuelling UK's American football rise ([10 hours ago](https://www.bbc.com/news/articles/cyv1996r92eo?at_medium=RSS&at_campaign=rss))
+- In Pictures: Badminton and Attenborough tributes ([10 hours ago](https://www.bbc.com/news/articles/cz62p02x7j3o?at_medium=RSS&at_campaign=rss))
+- Oral history project records 80 years of stories ([1 days ago](https://www.bbc.com/news/articles/cwy2qvzzp2xo?at_medium=RSS&at_campaign=rss))
 - Nature recovery zones inspired by Attenborough ([1 days ago](https://www.bbc.com/news/articles/c62eje88wy3o?at_medium=RSS&at_campaign=rss))
 - 'I didn't realise how deaf I was until I got hearing aids' ([1 days ago](https://www.bbc.com/news/articles/crkpmk8p6g2o?at_medium=RSS&at_campaign=rss))
 - Headlines: Rave plane and helipad bus blocking ([1 days ago](https://www.bbc.com/news/articles/clype7x73y2o?at_medium=RSS&at_campaign=rss))
@@ -28,7 +29,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Carers incorrectly identified as kidnappers stopped by stinger ([2 days ago](https://www.bbc.com/news/articles/cvgz9me01z4o?at_medium=RSS&at_campaign=rss))
 - Model railway celebrates 200 years of history ([2 days ago](https://www.bbc.com/news/articles/cy52ny6px1zo?at_medium=RSS&at_campaign=rss))
 - Daughters' victory after challenging father's will ([2 days ago](https://www.bbc.com/news/articles/clyp3j4mk25o?at_medium=RSS&at_campaign=rss))
-- Man who ran cocaine gang from mum's house jailed ([2 days ago](https://www.bbc.com/news/articles/c2k2jz8e22ko?at_medium=RSS&at_campaign=rss))
 - Superdry co-founder James Holder jailed for rape ([3 days ago](https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss))
 - Council group leader denies harassment charge ([3 days ago](https://www.bbc.com/news/articles/c4g094k1e2eo?at_medium=RSS&at_campaign=rss))
 - Cheltenham rider and 18-year-old horse triumph in 64km endurance challenge ([4 days ago](https://gloucesternewscentre.co.uk/cheltenham-rider-and-18-year-old-horse-triumph-in-64km-endurance-challenge/))

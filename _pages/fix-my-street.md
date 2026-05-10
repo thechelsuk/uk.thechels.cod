@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Verges are overgrown and visibility at junction is now dangerous, 10th May :- [9431101](https://www.fixmystreet.com/report/9431101)
 - Long grass reduces visibility at exit from Malleson Road onto A435, 10th May :- [9430778](https://www.fixmystreet.com/report/9430778)
 - Dangerous footpath, narrow, edge falling away, barrier missing, 10th May :- [9430452](https://www.fixmystreet.com/report/9430452)
 - Alley way by the side of Emmanuel Church street light No 1, 10th May :- [9430344](https://www.fixmystreet.com/report/9430344)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Path through crop field not visible, 10th May :- [9428802](https://www.fixmystreet.com/report/9428802)
 - Drain cover not properly closed. This has in the past been coned off but the cones vanished and the issue persists, 10th May :- [9428328](https://www.fixmystreet.com/report/9428328)
 - Street lights GE Bishops Cleeve, 10th May :- [9428241](https://www.fixmystreet.com/report/9428241)
-- Y10 svr, 10th May :- [9427814](https://www.fixmystreet.com/report/9427814)
 
 <!-- fix_marker ends -->

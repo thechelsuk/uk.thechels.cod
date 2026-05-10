@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights GE Bishops Cleeve, 10th May :- [9428241](https://www.fixmystreet.com/report/9428241)
 - Y10 svr, 10th May :- [9427814](https://www.fixmystreet.com/report/9427814)
 - Pothole on pavement on corner of Ismay rd/Welch rd, 10th May :- [9427521](https://www.fixmystreet.com/report/9427521)
 - Very large pot hole on middle lane of roundabout, 9th May :- [9427387](https://www.fixmystreet.com/report/9427387)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Massive dangerous potholes, 8th May :- [9423640](https://www.fixmystreet.com/report/9423640)
 - Footpath sign rusted and leaning, 8th May :- [9422884](https://www.fixmystreet.com/report/9422884)
 - Dog fouling, 8th May :- [9422504](https://www.fixmystreet.com/report/9422504)
-- Utilities work unsafe and unfinished, 8th May :- [9422484](https://www.fixmystreet.com/report/9422484)
 
 <!-- fix_marker ends -->

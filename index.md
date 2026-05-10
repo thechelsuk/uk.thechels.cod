@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 10 May 2026
 
-- The average temperature today is 9.43˚C,
-- With highs of 9.73˚C and lows of 8.86˚C,
-- It may feel like 9.18˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 82%
+- The average temperature today is 9.85˚C,
+- With highs of 9.98˚C and lows of 9.05˚C,
+- It may feel like 9.85˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 79%
 - The sun will rise at 04:23 and set at 19:46
 
 <!-- weather_marker ends -->

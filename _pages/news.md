@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Oral history project records 80 years of stories ([4 hours ago](https://www.bbc.com/news/articles/cwy2qvzzp2xo?at_medium=RSS&at_campaign=rss))
-- Nature recovery zones inspired by Attenborough ([12 hours ago](https://www.bbc.com/news/articles/c62eje88wy3o?at_medium=RSS&at_campaign=rss))
-- 'I didn't realise how deaf I was until I got hearing aids' ([16 hours ago](https://www.bbc.com/news/articles/crkpmk8p6g2o?at_medium=RSS&at_campaign=rss))
-- Headlines: Rave plane and helipad bus blocking ([17 hours ago](https://www.bbc.com/news/articles/clype7x73y2o?at_medium=RSS&at_campaign=rss))
+- Oral history project records 80 years of stories ([6 hours ago](https://www.bbc.com/news/articles/cwy2qvzzp2xo?at_medium=RSS&at_campaign=rss))
+- Nature recovery zones inspired by Attenborough ([14 hours ago](https://www.bbc.com/news/articles/c62eje88wy3o?at_medium=RSS&at_campaign=rss))
+- 'I didn't realise how deaf I was until I got hearing aids' ([18 hours ago](https://www.bbc.com/news/articles/crkpmk8p6g2o?at_medium=RSS&at_campaign=rss))
+- Headlines: Rave plane and helipad bus blocking ([19 hours ago](https://www.bbc.com/news/articles/clype7x73y2o?at_medium=RSS&at_campaign=rss))
 - Liberal Democrats win county council by-election ([1 days ago](https://gloucesternewscentre.co.uk/liberal-democrats-win-county-council-by-election/))
 - Cheltenham ‘rejects politics of division’ as Lib Dems win council elections ([1 days ago](https://gloucesternewscentre.co.uk/cheltenham-rejects-politics-of-division-as-lib-dems-win-council-elections/))
 - Father, 30, killed in M5 crash was a 'gentle giant' ([1 days ago](https://www.bbc.com/news/articles/cx216q3j0w5o?at_medium=RSS&at_campaign=rss))

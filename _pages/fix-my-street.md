@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Western end, the first tread before the bridge is completely rotten, one side of the bridge support is rotten so it leans sideways. I have temporarily cleared vegetation from the handrail so you can hold it and keep to the safe side., 11th May :- [9435584](https://www.fixmystreet.com/report/9435584)
+- The road surface on Hales Close is wearing down to the concrete base which makes it difficult for cars and especially bikes to negotiate, 11th May :- [9435540](https://www.fixmystreet.com/report/9435540)
+- The section of pavement outside the drives of 12 and 14 Foxgrove Drive are badly degraded, 11th May :- [9435499](https://www.fixmystreet.com/report/9435499)
+- Significant Road Sinkage, 11th May :- [9435423](https://www.fixmystreet.com/report/9435423)
+- Dislodged kerbstone Pittville Circus Rd, by crossing near Selkirk Close, 11th May :- [9435396](https://www.fixmystreet.com/report/9435396)
+- Bamboo from 1 Colwyn Drive coming up through pavement, trip hazard, 11th May :- [9435120](https://www.fixmystreet.com/report/9435120)
+- Tree problem, 11th May :- [9435086](https://www.fixmystreet.com/report/9435086)
+- TMC - Defects -CW10 Potholes problem, 11th May :- [9435123](https://www.fixmystreet.com/report/9435123)
+- TMC - Defects -other CW10 problem, 11th May :- [9435122](https://www.fixmystreet.com/report/9435122)
+- TMC - Defects - Other problem, 11th May :- [9435121](https://www.fixmystreet.com/report/9435121)
 - Wrong path, 11th May :- [9434935](https://www.fixmystreet.com/report/9434935)
 - Confusing signage, 11th May :- [9434914](https://www.fixmystreet.com/report/9434914)
 - Pothole on Springbank Way, near junction of Springbank Close, 11th May :- [9434712](https://www.fixmystreet.com/report/9434712)
@@ -16,18 +26,8 @@ permalink: /fix-my-street
 - Tree is damaged problem, 11th May :- [9434876](https://www.fixmystreet.com/report/9434876)
 - TMC - Defects -CW6 Potholes  problem, 11th May :- [9434882](https://www.fixmystreet.com/report/9434882)
 - TMC - Defects -CW6 Potholes  problem, 11th May :- [9434883](https://www.fixmystreet.com/report/9434883)
-- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434886](https://www.fixmystreet.com/report/9434886)
 - TMC - Defects -CW6 Potholes  problem, 11th May :- [9434884](https://www.fixmystreet.com/report/9434884)
 - TMC - Defects -CW6 Potholes  problem, 11th May :- [9434885](https://www.fixmystreet.com/report/9434885)
-- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434880](https://www.fixmystreet.com/report/9434880)
-- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434881](https://www.fixmystreet.com/report/9434881)
-- TMC - Defects -other CW6 problem, 11th May :- [9434645](https://www.fixmystreet.com/report/9434645)
-- TMC - Defects - Vegetation problem, 11th May :- [9434643](https://www.fixmystreet.com/report/9434643)
-- Faint and disappearing white road and parking markings on Lansdown Walk resulting in cars parking blocking off streets, 11th May :- [9434535](https://www.fixmystreet.com/report/9434535)
-- TMC - Defects - Vegetation problem, 11th May :- [9434633](https://www.fixmystreet.com/report/9434633)
-- When pressing button - light around it doesn't always stay on - so green man signal doesn't always show when it is safe to cross, 11th May :- [9434481](https://www.fixmystreet.com/report/9434481)
-- Post or sign leaning slightly (less than 20 degrees) problem, 11th May :- [9434395](https://www.fixmystreet.com/report/9434395)
-- Large & deep pothole preventing access from all but off road vehicles, 11th May :- [9434304](https://www.fixmystreet.com/report/9434304)
-- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434412](https://www.fixmystreet.com/report/9434412)
+- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434886](https://www.fixmystreet.com/report/9434886)
 
 <!-- fix_marker ends -->

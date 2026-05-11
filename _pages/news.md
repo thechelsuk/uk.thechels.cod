@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Acrobatic gymnasts head to international event ([6 hours ago](https://www.bbc.com/news/articles/cdxpqyk3wwwo?at_medium=RSS&at_campaign=rss))
-- 'Ugly tarmac cowpats' could land council in court ([6 hours ago](https://www.bbc.com/news/articles/cgkpmyrydpvo?at_medium=RSS&at_campaign=rss))
-- Investigation after police find man's body in ditch ([17 hours ago](https://www.bbc.com/news/articles/cy9205ww5q0o?at_medium=RSS&at_campaign=rss))
-- Police launch investigation after body of missing man found near Cheltenham ([17 hours ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
+- Future of historic priory secured after £235k fund ([5 minutes ago](https://www.bbc.com/news/articles/c78q7p8e7g8o?at_medium=RSS&at_campaign=rss))
+- Acrobatic gymnasts head to international event ([8 hours ago](https://www.bbc.com/news/articles/cdxpqyk3wwwo?at_medium=RSS&at_campaign=rss))
+- 'Ugly tarmac cowpats' could land council in court ([8 hours ago](https://www.bbc.com/news/articles/cgkpmyrydpvo?at_medium=RSS&at_campaign=rss))
+- Investigation after police find man's body in ditch ([19 hours ago](https://www.bbc.com/news/articles/cy9205ww5q0o?at_medium=RSS&at_campaign=rss))
+- Police launch investigation after body of missing man found near Cheltenham ([19 hours ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
 - Brain bleed was 'every parent's worst nightmare' ([1 days ago](https://www.bbc.com/news/articles/c7v9773e5j7o?at_medium=RSS&at_campaign=rss))
 - The unexpected region fuelling UK's American football rise ([1 days ago](https://www.bbc.com/news/articles/cyv1996r92eo?at_medium=RSS&at_campaign=rss))
 - In Pictures: Badminton and Attenborough tributes ([1 days ago](https://www.bbc.com/news/articles/cz62p02x7j3o?at_medium=RSS&at_campaign=rss))
@@ -32,7 +33,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Strikes suspended at school as plan implemented ([2 days ago](https://www.bbc.com/news/articles/cx21yq7wgjjo?at_medium=RSS&at_campaign=rss))
 - Carers incorrectly identified as kidnappers stopped by stinger ([3 days ago](https://www.bbc.com/news/articles/cvgz9me01z4o?at_medium=RSS&at_campaign=rss))
 - Model railway celebrates 200 years of history ([3 days ago](https://www.bbc.com/news/articles/cy52ny6px1zo?at_medium=RSS&at_campaign=rss))
-- Daughters' victory after challenging father's will ([3 days ago](https://www.bbc.com/news/articles/clyp3j4mk25o?at_medium=RSS&at_campaign=rss))
 - Cheltenham rider and 18-year-old horse triumph in 64km endurance challenge ([4 days ago](https://gloucesternewscentre.co.uk/cheltenham-rider-and-18-year-old-horse-triumph-in-64km-endurance-challenge/))
 - Recipes wanted for cookbook ([5 days ago](https://gloucesternewscentre.co.uk/recipes-wanted-for-cookbook/))
 - Cheltenham library to close for safety works ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-library-to-close-for-safety-works/))
@@ -52,6 +52,5 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - University staff strike over pay dispute ([25 days ago](https://gloucesternewscentre.co.uk/university-staff-strike-over-pay-dispute/))
 - Most Gloucestershire children get preferred school ([25 days ago](https://gloucesternewscentre.co.uk/most-gloucestershire-children-get-preferred-school/))
 - Teen released in Cheltenham murder investigation ([25 days ago](https://gloucesternewscentre.co.uk/teen-released-in-cheltenham-murder-investigation/))
-- Two teenagers bailed in connection with death of man in Cheltenham ([29 days ago](https://gloucesternewscentre.co.uk/two-teenagers-bailed-in-connection-with-death-of-man-in-cheltenham/))
 
 <!-- news_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass on pavement, 11th May :- [9437493](https://www.fixmystreet.com/report/9437493)
+- Blocked drain mad has been for 8 months, 11th May :- [9437319](https://www.fixmystreet.com/report/9437319)
 - Trees/hedges along Shurdington Road are obstructing the use of the pavement. I am blind and had to step into the busy road to pass an already narrow stretch of pavement alongside Dutch Farm opposite the entrance to Church Lane., 11th May :- [9436990](https://www.fixmystreet.com/report/9436990)
 - A pothole in road problem, 11th May :- [9437027](https://www.fixmystreet.com/report/9437027)
 - Loose rotten cover on storm drain, 11th May :- [9436570](https://www.fixmystreet.com/report/9436570)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Wrong path, 11th May :- [9434935](https://www.fixmystreet.com/report/9434935)
 - Confusing signage, 11th May :- [9434914](https://www.fixmystreet.com/report/9434914)
 - Pothole on Springbank Way, near junction of Springbank Close, 11th May :- [9434712](https://www.fixmystreet.com/report/9434712)
-- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434897](https://www.fixmystreet.com/report/9434897)
-- Tree is damaged problem, 11th May :- [9434876](https://www.fixmystreet.com/report/9434876)
 
 <!-- fix_marker ends -->

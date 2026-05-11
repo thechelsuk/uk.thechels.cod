@@ -12,10 +12,10 @@ permalink: /
 ## On Monday, 11 May 2026
 
 - The average temperature today is 12.51˚C,
-- With highs of 13.49˚C and lows of 12.51˚C,
-- It may feel like 11.25˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 55%
+- With highs of 13.17˚C and lows of 12.14˚C,
+- It may feel like 11.12˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 50%
 - The sun will rise at 04:21 and set at 19:48
 
 <!-- weather_marker ends -->

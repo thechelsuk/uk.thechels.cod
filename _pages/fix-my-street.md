@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose rotten cover on storm drain, 11th May :- [9436570](https://www.fixmystreet.com/report/9436570)
+- Lidl trolley dumped miles from Lidl, 11th May :- [9436501](https://www.fixmystreet.com/report/9436501)
 - Manhole with tarmac missing around it, 11th May :- [9436106](https://www.fixmystreet.com/report/9436106)
 - Western end, the first tread before the bridge is completely rotten, one side of the bridge support is rotten so it leans sideways. I have temporarily cleared vegetation from the handrail so you can hold it and keep to the safe side., 11th May :- [9435584](https://www.fixmystreet.com/report/9435584)
 - The road surface on Hales Close is wearing down to the concrete base which makes it difficult for cars and especially bikes to negotiate, 11th May :- [9435540](https://www.fixmystreet.com/report/9435540)
@@ -25,9 +27,7 @@ permalink: /fix-my-street
 - Pothole on Springbank Way, near junction of Springbank Close, 11th May :- [9434712](https://www.fixmystreet.com/report/9434712)
 - TMC - Defects -CW6 Potholes  problem, 11th May :- [9434897](https://www.fixmystreet.com/report/9434897)
 - Tree is damaged problem, 11th May :- [9434876](https://www.fixmystreet.com/report/9434876)
-- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434882](https://www.fixmystreet.com/report/9434882)
-- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434883](https://www.fixmystreet.com/report/9434883)
-- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434886](https://www.fixmystreet.com/report/9434886)
 - TMC - Defects -CW6 Potholes  problem, 11th May :- [9434884](https://www.fixmystreet.com/report/9434884)
+- TMC - Defects -CW6 Potholes  problem, 11th May :- [9434885](https://www.fixmystreet.com/report/9434885)
 
 <!-- fix_marker ends -->

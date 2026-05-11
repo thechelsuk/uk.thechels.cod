@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose bolts along cyclepath line, 11th May :- [9431995](https://www.fixmystreet.com/report/9431995)
+- Yellow lines, 11th May :- [9431991](https://www.fixmystreet.com/report/9431991)
+- Temporary traffic lights, 11th May :- [9431870](https://www.fixmystreet.com/report/9431870)
+- Overhanging tree, 11th May :- [9431906](https://www.fixmystreet.com/report/9431906)
+- TMC - Defects - Other problem, 11th May :- [9431775](https://www.fixmystreet.com/report/9431775)
+- Post or sign leaning slightly (less than 20 degrees) problem, 11th May :- [9431767](https://www.fixmystreet.com/report/9431767)
 - TMC - Defects -CW6 Potholes  problem, 11th May :- [9431431](https://www.fixmystreet.com/report/9431431)
 - TMC - Defects - Footways Slabs problem, 11th May :- [9431432](https://www.fixmystreet.com/report/9431432)
 - Sightlines need mowing, 10th May :- [9431225](https://www.fixmystreet.com/report/9431225)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Recycling point is overflowing, 10th May :- [9429811](https://www.fixmystreet.com/report/9429811)
 - Speed limit sign on north side of road is missing, sign on south side obscured by undergrowth., 10th May :- [9429644](https://www.fixmystreet.com/report/9429644)
 - Chunk of tree fallen, 10th May :- [9429584](https://www.fixmystreet.com/report/9429584)
-- Speed limit signs on both sides of road damaged/missing., 10th May :- [9429582](https://www.fixmystreet.com/report/9429582)
-- Pothole, 10th May :- [9429449](https://www.fixmystreet.com/report/9429449)
-- Deep pothole, 10th May :- [9429441](https://www.fixmystreet.com/report/9429441)
-- Pothole, 10th May :- [9429413](https://www.fixmystreet.com/report/9429413)
-- Pothole, 10th May :- [9429345](https://www.fixmystreet.com/report/9429345)
-- Large pothole, 10th May :- [9429325](https://www.fixmystreet.com/report/9429325)
 
 <!-- fix_marker ends -->

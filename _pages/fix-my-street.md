@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW6 Potholes  problem, 11th May :- [9431431](https://www.fixmystreet.com/report/9431431)
+- TMC - Defects - Footways Slabs problem, 11th May :- [9431432](https://www.fixmystreet.com/report/9431432)
 - Sightlines need mowing, 10th May :- [9431225](https://www.fixmystreet.com/report/9431225)
 - School speed restriction sign flashing all night, 10th May :- [9431168](https://www.fixmystreet.com/report/9431168)
 - Verges are overgrown and visibility at junction is now dangerous, 10th May :- [9431101](https://www.fixmystreet.com/report/9431101)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole, 10th May :- [9429413](https://www.fixmystreet.com/report/9429413)
 - Pothole, 10th May :- [9429345](https://www.fixmystreet.com/report/9429345)
 - Large pothole, 10th May :- [9429325](https://www.fixmystreet.com/report/9429325)
-- Damaged and leaning gate., 10th May :- [9428846](https://www.fixmystreet.com/report/9428846)
-- Path through crop field not visible, 10th May :- [9428802](https://www.fixmystreet.com/report/9428802)
 
 <!-- fix_marker ends -->

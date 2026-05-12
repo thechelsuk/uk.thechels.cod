@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken slabs on pavement, 12th May :- [9437957](https://www.fixmystreet.com/report/9437957)
+- TMC - Defects - Footways Slabs problem, 12th May :- [9438146](https://www.fixmystreet.com/report/9438146)
+- TMC - Defects - Other FW6  Surface problem, 12th May :- [9438147](https://www.fixmystreet.com/report/9438147)
+- TMC - Defects - Other FW6  Surface problem, 12th May :- [9438148](https://www.fixmystreet.com/report/9438148)
+- TMC - Defects - Footways Slabs problem, 12th May :- [9438001](https://www.fixmystreet.com/report/9438001)
+- TMC - Defects - Footways Slabs problem, 12th May :- [9438000](https://www.fixmystreet.com/report/9438000)
+- TMC - Defects -CW6 Potholes  problem, 12th May :- [9437843](https://www.fixmystreet.com/report/9437843)
+- TMC - Defects -CW6 Potholes  problem, 12th May :- [9437842](https://www.fixmystreet.com/report/9437842)
 - Broken glass on pavement, 11th May :- [9437493](https://www.fixmystreet.com/report/9437493)
 - Blocked drain mad has been for 8 months, 11th May :- [9437319](https://www.fixmystreet.com/report/9437319)
 - Trees/hedges along Shurdington Road are obstructing the use of the pavement. I am blind and had to step into the busy road to pass an already narrow stretch of pavement alongside Dutch Farm opposite the entrance to Church Lane., 11th May :- [9436990](https://www.fixmystreet.com/report/9436990)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - The section of pavement outside the drives of 12 and 14 Foxgrove Drive are badly degraded, 11th May :- [9435499](https://www.fixmystreet.com/report/9435499)
 - Significant Road Sinkage, 11th May :- [9435423](https://www.fixmystreet.com/report/9435423)
 - Dislodged kerbstone Pittville Circus Rd, by crossing near Selkirk Close, 11th May :- [9435396](https://www.fixmystreet.com/report/9435396)
-- Bamboo from 1 Colwyn Drive coming up through pavement, trip hazard, 11th May :- [9435120](https://www.fixmystreet.com/report/9435120)
-- Tree problem, 11th May :- [9435086](https://www.fixmystreet.com/report/9435086)
-- TMC - Defects -CW10 Potholes problem, 11th May :- [9435123](https://www.fixmystreet.com/report/9435123)
-- TMC - Defects -other CW10 problem, 11th May :- [9435122](https://www.fixmystreet.com/report/9435122)
-- TMC - Defects - Other problem, 11th May :- [9435121](https://www.fixmystreet.com/report/9435121)
-- Wrong path, 11th May :- [9434935](https://www.fixmystreet.com/report/9434935)
-- Confusing signage, 11th May :- [9434914](https://www.fixmystreet.com/report/9434914)
-- Pothole on Springbank Way, near junction of Springbank Close, 11th May :- [9434712](https://www.fixmystreet.com/report/9434712)
 
 <!-- fix_marker ends -->

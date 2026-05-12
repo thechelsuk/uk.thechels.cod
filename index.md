@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 12 May 2026
 
-- The average temperature today is 4.45˚C,
-- With highs of 6.65˚C and lows of 3.15˚C,
-- It may feel like 4.45˚C with scattered clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 86%
+- The average temperature today is 10.12˚C,
+- With highs of 10.85˚C and lows of 8.86˚C,
+- It may feel like 8.88˚C with scattered clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 65%
 - The sun will rise at 04:19 and set at 19:49
 
 <!-- weather_marker ends -->

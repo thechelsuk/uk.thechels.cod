@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Path has not been re established for a number of years, 12th May :- [9442678](https://www.fixmystreet.com/report/9442678)
+- Electric fence blocking access to the stile, 12th May :- [9442666](https://www.fixmystreet.com/report/9442666)
+- Most of the path overgrown with weeds - increasingly inaccessible, 12th May :- [9442640](https://www.fixmystreet.com/report/9442640)
 - Grass too long on all verges all round Highgrove Estate. It looks very uncared for and untidy. Weeds are extremely tall and whole area looks terrible, 12th May :- [9442469](https://www.fixmystreet.com/report/9442469)
 - 50cm pothole in the middle of the road, 12th May :- [9442221](https://www.fixmystreet.com/report/9442221)
 - Degraded tarmac around metal covers, 12th May :- [9442242](https://www.fixmystreet.com/report/9442242)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The footpath part is covered by the hedge and people are having to walk on the cycle path, 12th May :- [9440338](https://www.fixmystreet.com/report/9440338)
 - There are lots of brambles that are pushing against the fence by rear of 88 sandyleaze which is on sandyleaze playing fields, 12th May :- [9440209](https://www.fixmystreet.com/report/9440209)
 - TMC - Defects -CW6 Potholes  problem, 12th May :- [9440482](https://www.fixmystreet.com/report/9440482)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [9440483](https://www.fixmystreet.com/report/9440483)
-- TMC - Defects - Footways Slabs problem, 12th May :- [9440481](https://www.fixmystreet.com/report/9440481)
-- TMC - Defects - Footways Slabs problem, 12th May :- [9440480](https://www.fixmystreet.com/report/9440480)
 
 <!-- fix_marker ends -->

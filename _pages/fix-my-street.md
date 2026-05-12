@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass too long on all verges all round Highgrove Estate. It looks very uncared for and untidy. Weeds are extremely tall and whole area looks terrible, 12th May :- [9442469](https://www.fixmystreet.com/report/9442469)
+- 50cm pothole in the middle of the road, 12th May :- [9442221](https://www.fixmystreet.com/report/9442221)
+- Degraded tarmac around metal covers, 12th May :- [9442242](https://www.fixmystreet.com/report/9442242)
+- Huge hole in pavement, obstructing driveways, 12th May :- [9442269](https://www.fixmystreet.com/report/9442269)
 - Foul smell, 12th May :- [9441705](https://www.fixmystreet.com/report/9441705)
 - Crumbling pothole repair on Shackleton Close, near the street lamp, 12th May :- [9441665](https://www.fixmystreet.com/report/9441665)
 - Streetlight has been out for a week or so., 12th May :- [9441612](https://www.fixmystreet.com/report/9441612)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th May :- [9440483](https://www.fixmystreet.com/report/9440483)
 - TMC - Defects - Footways Slabs problem, 12th May :- [9440481](https://www.fixmystreet.com/report/9440481)
 - TMC - Defects - Footways Slabs problem, 12th May :- [9440480](https://www.fixmystreet.com/report/9440480)
-- Fly tipping on bank of horsbere brook, 12th May :- [9440088](https://www.fixmystreet.com/report/9440088)
-- Overgrown grass on main road , hedge severely overgrown. Blocking light into houses. Trees overgrown & overhanging blocking light, 12th May :- [9439931](https://www.fixmystreet.com/report/9439931)
-- TMC - Defects -other CW6 problem, 12th May :- [9440071](https://www.fixmystreet.com/report/9440071)
-- TMC - Defects -other CW6 problem, 12th May :- [9440073](https://www.fixmystreet.com/report/9440073)
 
 <!-- fix_marker ends -->

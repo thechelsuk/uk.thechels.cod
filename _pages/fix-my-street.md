@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous branches overhanging property and pathway, 12th May :- [9443337](https://www.fixmystreet.com/report/9443337)
+- Discarded furniture, 12th May :- [9443222](https://www.fixmystreet.com/report/9443222)
+- Grass blocking views, 12th May :- [9442856](https://www.fixmystreet.com/report/9442856)
+- Clean Glass after Crash, 12th May :- [9442846](https://www.fixmystreet.com/report/9442846)
 - Path has not been re established for a number of years, 12th May :- [9442678](https://www.fixmystreet.com/report/9442678)
 - Electric fence blocking access to the stile, 12th May :- [9442666](https://www.fixmystreet.com/report/9442666)
 - Most of the path overgrown with weeds - increasingly inaccessible, 12th May :- [9442640](https://www.fixmystreet.com/report/9442640)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 12th May :- [9440712](https://www.fixmystreet.com/report/9440712)
 - On pavement, 12th May :- [9440506](https://www.fixmystreet.com/report/9440506)
 - TMC - Defects -CW6 Potholes  problem, 12th May :- [9440703](https://www.fixmystreet.com/report/9440703)
-- TMC - Defects - Vegetation problem, 12th May :- [9440496](https://www.fixmystreet.com/report/9440496)
-- The footpath part is covered by the hedge and people are having to walk on the cycle path, 12th May :- [9440338](https://www.fixmystreet.com/report/9440338)
-- There are lots of brambles that are pushing against the fence by rear of 88 sandyleaze which is on sandyleaze playing fields, 12th May :- [9440209](https://www.fixmystreet.com/report/9440209)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [9440482](https://www.fixmystreet.com/report/9440482)
 
 <!-- fix_marker ends -->

@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man gets world record certificate 40 years late ([8 hours ago](https://www.bbc.com/news/articles/cr5pvneg875o?at_medium=RSS&at_campaign=rss))
-- Award-winning photographer inspires Cheltenham retirees ([9 hours ago](https://gloucesternewscentre.co.uk/award-winning-photographer-inspires-cheltenham-retirees/))
-- Frustration as suspension of home births is extended ([10 hours ago](https://gloucesternewscentre.co.uk/frustration-as-suspension-of-home-births-is-extended/))
-- Future of historic priory secured after £235k fund ([11 hours ago](https://www.bbc.com/news/articles/c78q7p8e7g8o?at_medium=RSS&at_campaign=rss))
-- Acrobatic gymnasts head to international event ([19 hours ago](https://www.bbc.com/news/articles/cdxpqyk3wwwo?at_medium=RSS&at_campaign=rss))
-- 'Ugly tarmac cowpats' could land council in court ([20 hours ago](https://www.bbc.com/news/articles/cgkpmyrydpvo?at_medium=RSS&at_campaign=rss))
+- Man gets world record certificate 40 years late ([11 hours ago](https://www.bbc.com/news/articles/cr5pvneg875o?at_medium=RSS&at_campaign=rss))
+- Award-winning photographer inspires Cheltenham retirees ([12 hours ago](https://gloucesternewscentre.co.uk/award-winning-photographer-inspires-cheltenham-retirees/))
+- Frustration as suspension of home births is extended ([13 hours ago](https://gloucesternewscentre.co.uk/frustration-as-suspension-of-home-births-is-extended/))
+- Future of historic priory secured after £235k fund ([14 hours ago](https://www.bbc.com/news/articles/c78q7p8e7g8o?at_medium=RSS&at_campaign=rss))
+- Acrobatic gymnasts head to international event ([22 hours ago](https://www.bbc.com/news/articles/cdxpqyk3wwwo?at_medium=RSS&at_campaign=rss))
+- 'Ugly tarmac cowpats' could land council in court ([22 hours ago](https://www.bbc.com/news/articles/cgkpmyrydpvo?at_medium=RSS&at_campaign=rss))
 - Investigation after police find man's body in ditch ([1 days ago](https://www.bbc.com/news/articles/cy9205ww5q0o?at_medium=RSS&at_campaign=rss))
 - Police launch investigation after body of missing man found near Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
 - Brain bleed was 'every parent's worst nightmare' ([1 days ago](https://www.bbc.com/news/articles/c7v9773e5j7o?at_medium=RSS&at_campaign=rss))

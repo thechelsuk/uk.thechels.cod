@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Neighbour's car parked blocking easy access to my property., 13th May :- [9443877](https://www.fixmystreet.com/report/9443877)
+- Flytipping, 13th May :- [9443856](https://www.fixmystreet.com/report/9443856)
 - String of pot holes causing house to vibrate when vehicles drive over it, 13th May :- [9443757](https://www.fixmystreet.com/report/9443757)
 - Dangerous branches overhanging property and pathway, 12th May :- [9443337](https://www.fixmystreet.com/report/9443337)
 - Discarded furniture, 12th May :- [9443222](https://www.fixmystreet.com/report/9443222)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street light outside 124 Brooklyn Road not working, 12th May :- [9441253](https://www.fixmystreet.com/report/9441253)
 - Post or sign leaning slightly (less than 20 degrees) problem, 12th May :- [9441180](https://www.fixmystreet.com/report/9441180)
 - Multiple potholes, 12th May :- [9440797](https://www.fixmystreet.com/report/9440797)
-- TMC - Defects - Vegetation problem, 12th May :- [9440712](https://www.fixmystreet.com/report/9440712)
-- On pavement, 12th May :- [9440506](https://www.fixmystreet.com/report/9440506)
 
 <!-- fix_marker ends -->

@@ -11,12 +11,12 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 13 May 2026
 
-- The average temperature today is 7.71˚C,
-- With highs of 8.31˚C and lows of 7.04˚C,
-- It may feel like 6.73˚C with clear sky
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 79%
-- The sun will rise at 04:18 and set at 19:51
+- The average temperature today is 6.42˚C,
+- With highs of 7.19˚C and lows of 5.93˚C,
+- It may feel like 6.42˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1002hPa and humidity is 84%
+- The sun will rise at 04:16 and set at 19:52
 
 <!-- weather_marker ends -->
 

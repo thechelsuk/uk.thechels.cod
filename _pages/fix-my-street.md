@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep and wide pothole outside our drive, 13th May :- [9448225](https://www.fixmystreet.com/report/9448225)
+- All Saints Road, Cheltenham is full of 100's of potholes and sinkholes, 13th May :- [9447993](https://www.fixmystreet.com/report/9447993)
+- Flickering street light., 13th May :- [9447810](https://www.fixmystreet.com/report/9447810)
 - Tree hitting overhead telephone/broadband cable, 13th May :- [9447690](https://www.fixmystreet.com/report/9447690)
 - Light sensor is not detecting vehicles problem, 13th May :- [9447641](https://www.fixmystreet.com/report/9447641)
 - Curb has come away a from the path, 13th May :- [9447548](https://www.fixmystreet.com/report/9447548)
@@ -19,15 +22,12 @@ permalink: /fix-my-street
 - Overgrown tree causing blind spots, 13th May :- [9447001](https://www.fixmystreet.com/report/9447001)
 - Vegetation obstructing view when pulling out of junction, 13th May :- [9446970](https://www.fixmystreet.com/report/9446970)
 - Grill cover bars on kerb side all corroded away except 1. Could give way any time., 13th May :- [9446926](https://www.fixmystreet.com/report/9446926)
+- TMC - Defects - Other FW6  Surface problem, 13th May :- [9446879](https://www.fixmystreet.com/report/9446879)
 - TMC - Defects - Footways Slabs problem, 13th May :- [9446878](https://www.fixmystreet.com/report/9446878)
 - TMC - Defects - Footways Slabs problem, 13th May :- [9446875](https://www.fixmystreet.com/report/9446875)
 - TMC - Defects - Footways Slabs problem, 13th May :- [9446884](https://www.fixmystreet.com/report/9446884)
-- TMC - Defects - Footways Slabs problem, 13th May :- [9446881](https://www.fixmystreet.com/report/9446881)
 - TMC - Defects - Footways Slabs problem, 13th May :- [9446874](https://www.fixmystreet.com/report/9446874)
-- TMC - Defects - Other FW6  Surface problem, 13th May :- [9446879](https://www.fixmystreet.com/report/9446879)
-- TMC - Defects - Footways Slabs problem, 13th May :- [9446885](https://www.fixmystreet.com/report/9446885)
-- TMC - Defects - Other FW6  Surface problem, 13th May :- [9446882](https://www.fixmystreet.com/report/9446882)
-- TMC - Defects - Other FW6  Surface problem, 13th May :- [9446877](https://www.fixmystreet.com/report/9446877)
-- TMC - Defects - Other FW6  Surface problem, 13th May :- [9446870](https://www.fixmystreet.com/report/9446870)
+- TMC - Defects - Footways Slabs problem, 13th May :- [9446881](https://www.fixmystreet.com/report/9446881)
+- TMC - Defects - Other FW6  Surface problem, 13th May :- [9446871](https://www.fixmystreet.com/report/9446871)
 
 <!-- fix_marker ends -->

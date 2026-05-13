@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 13th May :- [9444256](https://www.fixmystreet.com/report/9444256)
+- Tree is damaged problem, 13th May :- [9444247](https://www.fixmystreet.com/report/9444247)
+- TMC - Defects - Kerbs and Channels problem, 13th May :- [9444096](https://www.fixmystreet.com/report/9444096)
 - Neighbour's car parked blocking easy access to my property., 13th May :- [9443877](https://www.fixmystreet.com/report/9443877)
 - Flytipping, 13th May :- [9443856](https://www.fixmystreet.com/report/9443856)
 - String of pot holes causing house to vibrate when vehicles drive over it, 13th May :- [9443757](https://www.fixmystreet.com/report/9443757)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Foul smell, 12th May :- [9441705](https://www.fixmystreet.com/report/9441705)
 - Crumbling pothole repair on Shackleton Close, near the street lamp, 12th May :- [9441665](https://www.fixmystreet.com/report/9441665)
 - Streetlight has been out for a week or so., 12th May :- [9441612](https://www.fixmystreet.com/report/9441612)
-- Street light outside 124 Brooklyn Road not working, 12th May :- [9441253](https://www.fixmystreet.com/report/9441253)
-- Post or sign leaning slightly (less than 20 degrees) problem, 12th May :- [9441180](https://www.fixmystreet.com/report/9441180)
-- Multiple potholes, 12th May :- [9440797](https://www.fixmystreet.com/report/9440797)
 
 <!-- fix_marker ends -->

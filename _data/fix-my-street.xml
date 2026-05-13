@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -15,184 +15,184 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445920</link>
-<description>Give and take 28 day carriage way   pothole approx 600x500x40mm tarmac parch  number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445920&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445920</guid>
-<pubDate>Wed, 13 May 2026 11:54:18 +0100</pubDate>
-<georss:point>51.8942885 -2.10997700000001</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446870</link>
+<description>Give and take  plus temporary footway closure  please relay x1 raised  900x600x30 mm slab number 1 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446870&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446870</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9094085988417 -2.06147302109076</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445912</link>
-<description>Cway pothole 15DB&amp;#10;800mm  x 700mm  x 64mm&amp;#10;Temporary road closure TM required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445912&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445912</guid>
-<pubDate>Wed, 13 May 2026 11:48:16 +0100</pubDate>
-<georss:point>51.8501875 -2.15169720000001</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446872</link>
+<description>Give and take  plus temporary footway closure  footway aburt level difference please ramp up over tree roots 1200x1500x30mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446872&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446872</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.908953 -2.06108939999999</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445913</link>
-<description>Cway pothole 15DB&amp;#10;600mm  x 500mm  x 54mm&amp;#10;Temporary road closure TM required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445913&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445913</guid>
-<pubDate>Wed, 13 May 2026 11:48:16 +0100</pubDate>
-<georss:point>51.8502332 -2.15166969999999</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446878</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken rocking sunken x1  900x600x20 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446878&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446878</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.909792 -2.0616116</georss:point>
 </item>
 <item>
-<title>Unpermitted roadworks problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445901</link>
-<description>Customer reports that they currently have a team on site, with all their equipment, who need to replace a bus shelter damaged in an RTC now. Unfortunately, they have overlooked obtaining a signal switch off permit to have the permanent signals switched off so they can install temporary signals. Assistance requested asap, as they need to get he job done.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445901&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Unpermitted roadworks</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445901</guid>
-<pubDate>Wed, 13 May 2026 11:41:46 +0100</pubDate>
-<georss:point>51.889321 -2.079197</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446877</link>
+<description>NWD Give and take  plus temporary footway closure  FOOTWAY ABURT LEVEL DIFFERENCE 1200X1100X60MM STATS REQUIRED (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446877&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446877</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9096148 -2.0614662</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Vegetation problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445907</link>
-<description>Give and take plus temporary footway closure please cut back overgrown hedge and vegetation approx 11 metres x3 meters high (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445907&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445907</guid>
-<pubDate>Wed, 13 May 2026 11:41:12 +0100</pubDate>
-<georss:point>51.8930971907279 -2.11037900497689</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446885</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken rocking  x1  600x600x20 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446885&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446885</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.909521 -2.06152679999999</georss:point>
 </item>
 <item>
-<title>Branches overhanging private property - potential risk, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445732</link>
-<description>Footpath between St Lawrence and Farm Court, GL51 9RB&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Farm Court, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445732&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445732</guid>
-<pubDate>Wed, 13 May 2026 11:40:30 +0100</pubDate>
-<georss:point>51.921982 -2.095964</georss:point>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446884</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken rocking  x1  600x600x20 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446884&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446884</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9096283017827 -2.0615625647011</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Vegetation problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445903</link>
-<description>Over grown verge&amp;#10;Cut approx 14mts&amp;#10;3 way traffic lights TM required (Embankment &amp;amp; Cuttings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445903&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445903</guid>
-<pubDate>Wed, 13 May 2026 11:33:32 +0100</pubDate>
-<georss:point>51.8673946 -1.99018940000001</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446882</link>
+<description>Give and take  plus temporary footway closure  footway aburt level difference   remove x1 600x600x20mm slab  replace with tarmac parch  stats required due to uneven footway   tree roots (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446882&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446882</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9097703 -2.06176840000002</georss:point>
 </item>
 <item>
-<title>Numerous potholes and surface of road generally in a vey bad condition, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445527</link>
-<description>Whole length of Ermin way has numerous potholes and various areas of the road has deteriorated.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Ermin Way, Birdlip, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445527&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446881</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken rocking  x1  600x600x20 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446881&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446881</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9097886837514 -2.06161414342113</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446871</link>
+<description>Give and take  plus temporary footway closure  footway aburt level difference please ramp up over tree roots 2100x500x25mm stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446871&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446871</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9092765 -2.06143079999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446874</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken rocking sunken x1  900x600x30 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446874&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446874</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9093203 -2.0612892</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446873</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken sunken x1  900x600x30 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446873&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446873</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9090886 -2.0611926</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446883</link>
+<description>Give and take  plus temporary footway closure  please relay  x2 rocking  600x600x20 mm slab number 1 (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446883&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446883</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9096299 -2.06158020000002</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446879</link>
+<description>Give and take  plus temporary footway closure  footway aburt level difference  600x600x30mm top up sunken  tarmac parch stats required (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446879&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446879</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.909799 -2.0616386</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446876</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken rocking raised x1  600x600x30 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446876&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446876</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9093909257528 -2.06132492071277</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446875</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken rocking sunken x1  900x600x20 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446875&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446875</guid>
+<pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
+<georss:point>51.9093759818942 -2.06131940975061</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446869</link>
+<description>Give and take  plus temporary footway closure  please replace  broken sunken x3  600x600x22 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446869&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446869</guid>
+<pubDate>Wed, 13 May 2026 14:20:20 +0100</pubDate>
+<georss:point>51.9094608 -2.06139979999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446868</link>
+<description>Abrupt level difference 600mm x 300mm x 21mm&amp;#10;Give and take TM &amp;#10;Outside number 29 (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446868&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446868</guid>
+<pubDate>Wed, 13 May 2026 14:18:34 +0100</pubDate>
+<georss:point>51.912957 -2.0534908</georss:point>
+</item>
+<item>
+<title>Pothole formed on the road next to the pavement, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446743</link>
+<description>Outside of 64 Abbots Leys Road&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Abbots Leys Road, Winchcombe, Winchcombe, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446743&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445527</guid>
-<pubDate>Wed, 13 May 2026 11:18:55 +0100</pubDate>
-<georss:point>51.827645 -2.108311</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446743</guid>
+<pubDate>Wed, 13 May 2026 14:16:11 +0100</pubDate>
+<georss:point>51.953576 -1.974567</georss:point>
 </item>
 <item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445668</link>
-<description>Cway pothole &amp;#10;800mmx500mmx40mm&amp;#10;Road closure TM required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445668&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445668</guid>
-<pubDate>Wed, 13 May 2026 11:16:12 +0100</pubDate>
-<georss:point>51.9349227 -1.9727685</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445669</link>
-<description>Cway pothole &amp;#10;900mmx400mmx45mm approx &amp;#10;Not marked &amp;#10;Road closure TM &amp;#10;Narrow lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445669&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445669</guid>
-<pubDate>Wed, 13 May 2026 11:16:12 +0100</pubDate>
-<georss:point>51.9323748 -1.96925029999998</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445656</link>
-<description>Overgrown tree &amp;#10;Please cut back to fway boundary &amp;#10;Fway closure TM required (Overgrown Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445656&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445656</guid>
-<pubDate>Wed, 13 May 2026 11:08:04 +0100</pubDate>
-<georss:point>51.8787773 -2.16953139999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445653</link>
-<description>Edge deterioration &amp;#10;Permanent repair &amp;#10;1400mmx700mmx95mm&amp;#10;Road closure TM required (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445653&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445653</guid>
-<pubDate>Wed, 13 May 2026 11:06:04 +0100</pubDate>
-<georss:point>51.9233581 -1.96045580000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445651</link>
-<description>Edge deterioration 2hr emergency &amp;#10;1400mmx700mmx95mm&amp;#10;Road closure TM required (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445651&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445651</guid>
-<pubDate>Wed, 13 May 2026 11:05:16 +0100</pubDate>
-<georss:point>51.9233024 -1.96041159999999</georss:point>
-</item>
-<item>
-<title>Unsafe and deteriorating pavement surfaces with repeated failed patch repairs and trip hazards, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445327</link>
-<description>Pavement along Clarence Road near the Holst Victorian House Museum / junction area shown on the map pin.&amp;#10;&amp;#10;The footway surface is heavily deteriorated with widespread cracking, uneven surfacing, failed patch repairs and inconsistent reinstatement materials across an extended section of pavement.&amp;#10;&amp;#10;There are multiple areas where asphalt patching appears to have broken down or deteriorated around existing paving slabs, creating uneven walking surfaces and potential trip hazards, particularly in wet conditions.&amp;#10;&amp;#10;The issue appears longstanding rather than isolated, with repeated patch-over-patch repairs visible across the route. Surface condition is poor for pedestrians, wheelchair users, pushchairs and those with mobility impairments.&amp;#10;&amp;#10;I have photographs and video evidence showing the condition and extent of the deterioration.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9445327.0.jpeg?64b4df02&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Clarence Road, Marle Hill, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445327&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>Other damage to pavement i.e. cobbles, raised mound/surface problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446851</link>
+<description>Customer reports that the grill in the pavement at the location is unstable. Furthermore, the concrete surround is breaking up and they fear that it may collapse imminently. They ask that this is investigated asap.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446851&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445327</guid>
-<pubDate>Wed, 13 May 2026 10:55:37 +0100</pubDate>
-<georss:point>51.904103 -2.070328</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446851</guid>
+<pubDate>Wed, 13 May 2026 14:12:44 +0100</pubDate>
+<georss:point>51.906361 -2.084596</georss:point>
 </item>
 <item>
-<title>Unsafe and deteriorating pavement surfaces with repeated failed patch repairs and trip hazards, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445295</link>
-<description>Pavement along Clarence Road near the Holst Victorian House Museum / junction area shown on the map pin. The footway surface is heavily deteriorated with widespread cracking, uneven surfacing, failed patch repairs and inconsistent reinstatement materials across an extended section of pavement. There are multiple areas where asphalt patching appears to have broken down or deteriorated around existing paving slabs, creating uneven walking surfaces and potential trip hazards, particularly in wet conditions. The issue appears longstanding rather than isolated, with repeated patch-over-patch repairs visible across the route. Surface condition is poor for pedestrians, wheelchair users, pushchairs and those with mobility impairments. I have photographs and video evidence showing the condition and extent of the deterioration.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9445295.0.jpeg?e1c64329&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 3, Clarence Road, Marle Hill, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445295&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Missing/broken/rocking/unstable slab</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445295</guid>
-<pubDate>Wed, 13 May 2026 10:55:29 +0100</pubDate>
-<georss:point>51.904102 -2.070491</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445403</link>
-<description>Give and take  28 days please lift and relay x1 sunken 600x100x40mm kerb stone stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445403&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445403</guid>
-<pubDate>Wed, 13 May 2026 10:55:05 +0100</pubDate>
-<georss:point>51.853946 -2.18987679999998</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445396</link>
-<description>Road closure 28 day carriage way   pothole approx 500x350x45mm tarmac parch  number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445396&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445396</guid>
-<pubDate>Wed, 13 May 2026 10:48:47 +0100</pubDate>
-<georss:point>51.8534859 -2.19187660000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445389</link>
-<description>Road closure 28 day carriage way   pothole approx 1100x500x44mm tarmac parch  number 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445389&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445389</guid>
-<pubDate>Wed, 13 May 2026 10:44:42 +0100</pubDate>
-<georss:point>51.8536423 -2.19217130000018</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9445387</link>
-<description>Cway pothole around Ironwork works &amp;#10;Stat plan required &amp;#10;1000mmx100mmx40mm&amp;#10;Road closure TM required (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445387&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445387</guid>
-<pubDate>Wed, 13 May 2026 10:37:20 +0100</pubDate>
-<georss:point>51.9554461 -1.96675669999999</georss:point>
-</item>
-<item>
-<title>The footpath has disappeared and is now a hedge., 13th May</title>
-<link>https://www.fixmystreet.com/report/9445196</link>
-<description>From where the footpath enters Highland Road from Southfield Approach, along the head of the cul-de-sac for approx 50m until it reaches the track.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9445196.0.jpeg?0ff926fc&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Southern Road, Ewens Farm, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9445196&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Overgrown vegetation on path/way</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9445196</guid>
-<pubDate>Wed, 13 May 2026 10:34:49 +0100</pubDate>
-<georss:point>51.87455 -2.067898</georss:point>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 13th May</title>
+<link>https://www.fixmystreet.com/report/9446857</link>
+<description>Reset broken cover and frame 600mm x 600mm x 100mm &amp;#10;Give and take TM &amp;#10;///bound.glare.lively (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446857&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446857</guid>
+<pubDate>Wed, 13 May 2026 14:03:36 +0100</pubDate>
+<georss:point>51.9304946 -2.0669218</georss:point>
 </item>
 </channel>
 </rss>

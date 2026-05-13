@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- String of pot holes causing house to vibrate when vehicles drive over it, 13th May :- [9443757](https://www.fixmystreet.com/report/9443757)
 - Dangerous branches overhanging property and pathway, 12th May :- [9443337](https://www.fixmystreet.com/report/9443337)
 - Discarded furniture, 12th May :- [9443222](https://www.fixmystreet.com/report/9443222)
 - Grass blocking views, 12th May :- [9442856](https://www.fixmystreet.com/report/9442856)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes, 12th May :- [9440797](https://www.fixmystreet.com/report/9440797)
 - TMC - Defects - Vegetation problem, 12th May :- [9440712](https://www.fixmystreet.com/report/9440712)
 - On pavement, 12th May :- [9440506](https://www.fixmystreet.com/report/9440506)
-- TMC - Defects -CW6 Potholes  problem, 12th May :- [9440703](https://www.fixmystreet.com/report/9440703)
 
 <!-- fix_marker ends -->

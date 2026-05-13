@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- INADEQUATE CLEARANCE & FAILED INSPECTION: Critical Skid Hazard Remains, 13th May :- [9448627](https://www.fixmystreet.com/report/9448627)
+- Dumped items, 13th May :- [9448517](https://www.fixmystreet.com/report/9448517)
+- Drain blocked, 13th May :- [9448501](https://www.fixmystreet.com/report/9448501)
+- Tree looks dead., 13th May :- [9448260](https://www.fixmystreet.com/report/9448260)
 - Deep and wide pothole outside our drive, 13th May :- [9448225](https://www.fixmystreet.com/report/9448225)
 - All Saints Road, Cheltenham is full of 100's of potholes and sinkholes, 13th May :- [9447993](https://www.fixmystreet.com/report/9447993)
 - Flickering street light., 13th May :- [9447810](https://www.fixmystreet.com/report/9447810)
@@ -23,11 +27,7 @@ permalink: /fix-my-street
 - Vegetation obstructing view when pulling out of junction, 13th May :- [9446970](https://www.fixmystreet.com/report/9446970)
 - Grill cover bars on kerb side all corroded away except 1. Could give way any time., 13th May :- [9446926](https://www.fixmystreet.com/report/9446926)
 - TMC - Defects - Other FW6  Surface problem, 13th May :- [9446879](https://www.fixmystreet.com/report/9446879)
-- TMC - Defects - Footways Slabs problem, 13th May :- [9446878](https://www.fixmystreet.com/report/9446878)
-- TMC - Defects - Footways Slabs problem, 13th May :- [9446875](https://www.fixmystreet.com/report/9446875)
 - TMC - Defects - Footways Slabs problem, 13th May :- [9446884](https://www.fixmystreet.com/report/9446884)
 - TMC - Defects - Footways Slabs problem, 13th May :- [9446874](https://www.fixmystreet.com/report/9446874)
-- TMC - Defects - Footways Slabs problem, 13th May :- [9446881](https://www.fixmystreet.com/report/9446881)
-- TMC - Defects - Other FW6  Surface problem, 13th May :- [9446871](https://www.fixmystreet.com/report/9446871)
 
 <!-- fix_marker ends -->

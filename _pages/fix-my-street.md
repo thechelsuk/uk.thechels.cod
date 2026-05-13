@@ -27,7 +27,7 @@ permalink: /fix-my-street
 - Vegetation obstructing view when pulling out of junction, 13th May :- [9446970](https://www.fixmystreet.com/report/9446970)
 - Grill cover bars on kerb side all corroded away except 1. Could give way any time., 13th May :- [9446926](https://www.fixmystreet.com/report/9446926)
 - TMC - Defects - Other FW6  Surface problem, 13th May :- [9446879](https://www.fixmystreet.com/report/9446879)
-- TMC - Defects - Footways Slabs problem, 13th May :- [9446884](https://www.fixmystreet.com/report/9446884)
-- TMC - Defects - Footways Slabs problem, 13th May :- [9446874](https://www.fixmystreet.com/report/9446874)
+- TMC - Defects - Footways Slabs problem, 13th May :- [9446878](https://www.fixmystreet.com/report/9446878)
+- TMC - Defects - Footways Slabs problem, 13th May :- [9446875](https://www.fixmystreet.com/report/9446875)
 
 <!-- fix_marker ends -->

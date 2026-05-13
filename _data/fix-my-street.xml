@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -178,21 +178,21 @@
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9446884</link>
-<description>Give and take  plus temporary footway closure  please replace x1 broken rocking  x1  600x600x20 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446884&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9446878</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken rocking sunken x1  900x600x20 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446878&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9446884</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446878</guid>
 <pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
-<georss:point>51.9096283017827 -2.0615625647011</georss:point>
+<georss:point>51.909792 -2.0616116</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Footways Slabs problem, 13th May</title>
-<link>https://www.fixmystreet.com/report/9446874</link>
-<description>Give and take  plus temporary footway closure  please replace x1 broken rocking sunken x1  900x600x30 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446874&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9446875</link>
+<description>Give and take  plus temporary footway closure  please replace x1 broken rocking sunken x1  900x600x20 mm slab number 1 (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9446875&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9446874</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9446875</guid>
 <pubDate>Wed, 13 May 2026 14:20:21 +0100</pubDate>
-<georss:point>51.9093203 -2.0612892</georss:point>
+<georss:point>51.9093759818942 -2.06131940975061</georss:point>
 </item>
 </channel>
 </rss>

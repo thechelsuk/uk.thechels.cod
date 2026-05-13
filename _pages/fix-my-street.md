@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The footpath has disappeared and is now a hedge., 13th May :- [9445196](https://www.fixmystreet.com/report/9445196)
+- TMC - Defects -other CW6 problem, 13th May :- [9444932](https://www.fixmystreet.com/report/9444932)
+- TMC - Defects -CW6 Potholes  problem, 13th May :- [9444931](https://www.fixmystreet.com/report/9444931)
+- TMC - Defects -CW6 Potholes  problem, 13th May :- [9444924](https://www.fixmystreet.com/report/9444924)
+- TMC - Defects - Other FW6  Surface problem, 13th May :- [9444923](https://www.fixmystreet.com/report/9444923)
+- TMC - Defects -other CW6 problem, 13th May :- [9444908](https://www.fixmystreet.com/report/9444908)
+- TMC - Defects -other CW6 problem, 13th May :- [9444677](https://www.fixmystreet.com/report/9444677)
+- TMC - Defects -other CW6 problem, 13th May :- [9444661](https://www.fixmystreet.com/report/9444661)
+- TMC - Defects - Vegetation problem, 13th May :- [9444658](https://www.fixmystreet.com/report/9444658)
+- TMC - Defects - Kerbs and Channels problem, 13th May :- [9444642](https://www.fixmystreet.com/report/9444642)
+- TMC - Defects -CW6 Potholes  problem, 13th May :- [9444641](https://www.fixmystreet.com/report/9444641)
+- TMC - Defects -CW6 Potholes  problem, 13th May :- [9444640](https://www.fixmystreet.com/report/9444640)
 - TMC - Defects - Kerbs and Channels problem, 13th May :- [9444256](https://www.fixmystreet.com/report/9444256)
 - Tree is damaged problem, 13th May :- [9444247](https://www.fixmystreet.com/report/9444247)
 - TMC - Defects - Kerbs and Channels problem, 13th May :- [9444096](https://www.fixmystreet.com/report/9444096)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - String of pot holes causing house to vibrate when vehicles drive over it, 13th May :- [9443757](https://www.fixmystreet.com/report/9443757)
 - Dangerous branches overhanging property and pathway, 12th May :- [9443337](https://www.fixmystreet.com/report/9443337)
 - Discarded furniture, 12th May :- [9443222](https://www.fixmystreet.com/report/9443222)
-- Grass blocking views, 12th May :- [9442856](https://www.fixmystreet.com/report/9442856)
-- Clean Glass after Crash, 12th May :- [9442846](https://www.fixmystreet.com/report/9442846)
-- Path has not been re established for a number of years, 12th May :- [9442678](https://www.fixmystreet.com/report/9442678)
-- Electric fence blocking access to the stile, 12th May :- [9442666](https://www.fixmystreet.com/report/9442666)
-- Most of the path overgrown with weeds - increasingly inaccessible, 12th May :- [9442640](https://www.fixmystreet.com/report/9442640)
-- Grass too long on all verges all round Highgrove Estate. It looks very uncared for and untidy. Weeds are extremely tall and whole area looks terrible, 12th May :- [9442469](https://www.fixmystreet.com/report/9442469)
-- 50cm pothole in the middle of the road, 12th May :- [9442221](https://www.fixmystreet.com/report/9442221)
-- Degraded tarmac around metal covers, 12th May :- [9442242](https://www.fixmystreet.com/report/9442242)
-- Huge hole in pavement, obstructing driveways, 12th May :- [9442269](https://www.fixmystreet.com/report/9442269)
-- Foul smell, 12th May :- [9441705](https://www.fixmystreet.com/report/9441705)
-- Crumbling pothole repair on Shackleton Close, near the street lamp, 12th May :- [9441665](https://www.fixmystreet.com/report/9441665)
-- Streetlight has been out for a week or so., 12th May :- [9441612](https://www.fixmystreet.com/report/9441612)
 
 <!-- fix_marker ends -->

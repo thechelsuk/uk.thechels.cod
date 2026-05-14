@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 14 May 2026
 
-- The average temperature today is 13.19˚C,
-- With highs of 13.31˚C and lows of 12.06˚C,
-- It may feel like 11.97˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 54%
+- The average temperature today is 11.2˚C,
+- With highs of 12.62˚C and lows of 10.54˚C,
+- It may feel like 9.92˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1001hPa and humidity is 59%
 - The sun will rise at 04:16 and set at 19:52
 
 <!-- weather_marker ends -->

@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Wednesday, 13 May 2026
+## On Thursday, 14 May 2026
 
-- The average temperature today is 6.42˚C,
-- With highs of 7.19˚C and lows of 5.93˚C,
-- It may feel like 6.42˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 84%
+- The average temperature today is 6.56˚C,
+- With highs of 6.65˚C and lows of 6.49˚C,
+- It may feel like 5.93˚C with scattered clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1003hPa and humidity is 83%
 - The sun will rise at 04:16 and set at 19:52
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 13 days since the last change (2026-04-30)
+- It has been 14 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->

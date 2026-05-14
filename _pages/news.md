@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- World's first vaccination clinic to reopen ([51 minutes ago](https://www.bbc.com/news/articles/cn7p2ry7k0zo?at_medium=RSS&at_campaign=rss))
-- 'Beekeeping really helped me after I left prison' ([51 minutes ago](https://www.bbc.com/news/articles/cp8pjlkr93po?at_medium=RSS&at_campaign=rss))
-- Behind the scenes on Rivals season two: 'It's bigger, bolder, bonkier!' ([6 hours ago](https://www.bbc.com/news/articles/cx210glmx19o?at_medium=RSS&at_campaign=rss))
-- What makes the chaotic cheese rolling event so special? ([13 hours ago](https://www.bbc.com/news/articles/crlpzkzndl1o?at_medium=RSS&at_campaign=rss))
-- Golden Valley will be fitting legacy for Borough Council, leader believes ([13 hours ago](https://gloucesternewscentre.co.uk/golden-valley-will-be-fitting-legacy-for-borough-council-leader-believes/))
-- ‘Good progress’ in efforts to reopen Cheltenham maternity unit this year ([14 hours ago](https://gloucesternewscentre.co.uk/good-progress-in-efforts-to-reopen-cheltenham-maternity-unit-this-year/))
-- Two women and girl, 16, arrested for alleged assault ([17 hours ago](https://www.bbc.com/news/articles/ce3pj2yd8nqo?at_medium=RSS&at_campaign=rss))
-- Concern over 'unnecessary' school name change plan ([17 hours ago](https://www.bbc.com/news/articles/czd205vl1v8o?at_medium=RSS&at_campaign=rss))
-- Motorists warned ahead of nine months of roadworks ([18 hours ago](https://www.bbc.com/news/articles/c7v9r09nl06o?at_medium=RSS&at_campaign=rss))
+- World's first vaccination clinic to reopen ([2 hours ago](https://www.bbc.com/news/articles/cn7p2ry7k0zo?at_medium=RSS&at_campaign=rss))
+- 'Beekeeping really helped me after I left prison' ([2 hours ago](https://www.bbc.com/news/articles/cp8pjlkr93po?at_medium=RSS&at_campaign=rss))
+- Behind the scenes on Rivals season two: 'It's bigger, bolder, bonkier!' ([8 hours ago](https://www.bbc.com/news/articles/cx210glmx19o?at_medium=RSS&at_campaign=rss))
+- What makes the chaotic cheese rolling event so special? ([15 hours ago](https://www.bbc.com/news/articles/crlpzkzndl1o?at_medium=RSS&at_campaign=rss))
+- Golden Valley will be fitting legacy for Borough Council, leader believes ([15 hours ago](https://gloucesternewscentre.co.uk/golden-valley-will-be-fitting-legacy-for-borough-council-leader-believes/))
+- ‘Good progress’ in efforts to reopen Cheltenham maternity unit this year ([15 hours ago](https://gloucesternewscentre.co.uk/good-progress-in-efforts-to-reopen-cheltenham-maternity-unit-this-year/))
+- Two women and girl, 16, arrested for alleged assault ([19 hours ago](https://www.bbc.com/news/articles/ce3pj2yd8nqo?at_medium=RSS&at_campaign=rss))
+- Concern over 'unnecessary' school name change plan ([19 hours ago](https://www.bbc.com/news/articles/czd205vl1v8o?at_medium=RSS&at_campaign=rss))
+- Motorists warned ahead of nine months of roadworks ([19 hours ago](https://www.bbc.com/news/articles/c7v9r09nl06o?at_medium=RSS&at_campaign=rss))
 - Historic buildings could be revamped in £2m deal ([1 days ago](https://www.bbc.com/news/articles/cvgznrp2wx2o?at_medium=RSS&at_campaign=rss))
 - Dance festival to go ahead despite noise concerns ([1 days ago](https://www.bbc.com/news/articles/cwy2qj4gw99o?at_medium=RSS&at_campaign=rss))
 - Family pays tribute to missing man who was found dead ([1 days ago](https://www.bbc.com/news/articles/cgmpwey7z4ko?at_medium=RSS&at_campaign=rss))
@@ -54,6 +54,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Safer Roads scheme launches in Gloucestershire ([23 days ago](https://gloucesternewscentre.co.uk/safer-roads-scheme-launches-in-gloucestershire/))
 - Fears Cheltenham’s Municipal Offices sale could fall through like airport deal ([23 days ago](https://gloucesternewscentre.co.uk/fears-cheltenhams-municipal-offices-sale-could-fall-through-like-airport-deal/))
 - Cheltenham venues adopt new ID policy ([27 days ago](https://gloucesternewscentre.co.uk/cheltenham-venues-adopt-new-id-policy/))
-- University staff strike over pay dispute ([27 days ago](https://gloucesternewscentre.co.uk/university-staff-strike-over-pay-dispute/))
+- University staff strike over pay dispute ([28 days ago](https://gloucesternewscentre.co.uk/university-staff-strike-over-pay-dispute/))
 
 <!-- news_marker ends -->

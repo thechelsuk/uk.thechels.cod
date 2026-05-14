@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous obstacle, 14th May :- [9449838](https://www.fixmystreet.com/report/9449838)
 - Long tyre track width pothole, 14th May :- [9449580](https://www.fixmystreet.com/report/9449580)
 - Trees overhanging on to pavement, 13th May :- [9449255](https://www.fixmystreet.com/report/9449255)
 - INADEQUATE CLEARANCE & FAILED INSPECTION: Critical Skid Hazard Remains, 13th May :- [9448627](https://www.fixmystreet.com/report/9448627)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Overgrown tree causing blind spots, 13th May :- [9447001](https://www.fixmystreet.com/report/9447001)
 - Vegetation obstructing view when pulling out of junction, 13th May :- [9446970](https://www.fixmystreet.com/report/9446970)
 - Grill cover bars on kerb side all corroded away except 1. Could give way any time., 13th May :- [9446926](https://www.fixmystreet.com/report/9446926)
-- TMC - Defects - Other FW6  Surface problem, 13th May :- [9446879](https://www.fixmystreet.com/report/9446879)
 
 <!-- fix_marker ends -->

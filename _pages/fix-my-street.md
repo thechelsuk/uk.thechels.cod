@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole, 14th May :- [9454669](https://www.fixmystreet.com/report/9454669)
+- Numerous deep potholes, 14th May :- [9454667](https://www.fixmystreet.com/report/9454667)
+- Parking on bend, 14th May :- [9454584](https://www.fixmystreet.com/report/9454584)
 - Missing traffic lights for cars at Brewery, 14th May :- [9454419](https://www.fixmystreet.com/report/9454419)
 - Trees significantly overgrown, 14th May :- [9454357](https://www.fixmystreet.com/report/9454357)
 - Deep pothole, 14th May :- [9453922](https://www.fixmystreet.com/report/9453922)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 14th May :- [9451390](https://www.fixmystreet.com/report/9451390)
 - TMC - Defects -CW10 Potholes problem, 14th May :- [9451389](https://www.fixmystreet.com/report/9451389)
 - TMC - Defects -CW10 Potholes problem, 14th May :- [9451388](https://www.fixmystreet.com/report/9451388)
-- TMC - Defects - Signs & Street Furniture problem, 14th May :- [9450891](https://www.fixmystreet.com/report/9450891)
-- TMC - Defects -CW10 Potholes problem, 14th May :- [9450886](https://www.fixmystreet.com/report/9450886)
-- TMC - Defects -other CW6 problem, 14th May :- [9450885](https://www.fixmystreet.com/report/9450885)
 
 <!-- fix_marker ends -->

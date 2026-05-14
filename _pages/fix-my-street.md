@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 14th May :- [9451391](https://www.fixmystreet.com/report/9451391)
+- TMC - Defects -other CW10 problem, 14th May :- [9451390](https://www.fixmystreet.com/report/9451390)
+- TMC - Defects -CW10 Potholes problem, 14th May :- [9451389](https://www.fixmystreet.com/report/9451389)
+- TMC - Defects -CW10 Potholes problem, 14th May :- [9451388](https://www.fixmystreet.com/report/9451388)
 - TMC - Defects - Signs & Street Furniture problem, 14th May :- [9450891](https://www.fixmystreet.com/report/9450891)
 - TMC - Defects -CW10 Potholes problem, 14th May :- [9450886](https://www.fixmystreet.com/report/9450886)
 - TMC - Defects -other CW6 problem, 14th May :- [9450884](https://www.fixmystreet.com/report/9450884)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Tree over hanging road, 14th May :- [9450115](https://www.fixmystreet.com/report/9450115)
 - Dangerous obstacle, 14th May :- [9449838](https://www.fixmystreet.com/report/9449838)
 - Long tyre track width pothole, 14th May :- [9449580](https://www.fixmystreet.com/report/9449580)
-- Trees overhanging on to pavement, 13th May :- [9449255](https://www.fixmystreet.com/report/9449255)
-- INADEQUATE CLEARANCE & FAILED INSPECTION: Critical Skid Hazard Remains, 13th May :- [9448627](https://www.fixmystreet.com/report/9448627)
-- Dumped items, 13th May :- [9448517](https://www.fixmystreet.com/report/9448517)
-- Drain blocked, 13th May :- [9448501](https://www.fixmystreet.com/report/9448501)
 
 <!-- fix_marker ends -->

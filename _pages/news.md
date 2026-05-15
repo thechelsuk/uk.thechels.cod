@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Hopes £1.5m cash boost could revive stalled scheme ([5 hours ago](https://www.bbc.com/news/articles/ce3pj0xny3yo?at_medium=RSS&at_campaign=rss))
-- Man due to be sentenced following investigation ([9 hours ago](https://gloucesternewscentre.co.uk/man-due-to-be-sentenced-following-investigation/))
-- Bereaved mum claims PM 'ignoring' meeting request ([12 hours ago](https://www.bbc.com/news/articles/cwy23j4z23do?at_medium=RSS&at_campaign=rss))
-- Man seriously injured in city centre assault ([13 hours ago](https://www.bbc.com/news/articles/c2l2724kkrzo?at_medium=RSS&at_campaign=rss))
-- World's first vaccination clinic to reopen ([20 hours ago](https://www.bbc.com/news/articles/cn7p2ry7k0zo?at_medium=RSS&at_campaign=rss))
-- 'Beekeeping really helped me after I left prison' ([20 hours ago](https://www.bbc.com/news/articles/cp8pjlkr93po?at_medium=RSS&at_campaign=rss))
+- Hopes £1.5m cash boost could revive stalled scheme ([8 hours ago](https://www.bbc.com/news/articles/ce3pj0xny3yo?at_medium=RSS&at_campaign=rss))
+- Man due to be sentenced following investigation ([11 hours ago](https://gloucesternewscentre.co.uk/man-due-to-be-sentenced-following-investigation/))
+- Bereaved mum claims PM 'ignoring' meeting request ([15 hours ago](https://www.bbc.com/news/articles/cwy23j4z23do?at_medium=RSS&at_campaign=rss))
+- Man seriously injured in city centre assault ([15 hours ago](https://www.bbc.com/news/articles/c2l2724kkrzo?at_medium=RSS&at_campaign=rss))
+- World's first vaccination clinic to reopen ([23 hours ago](https://www.bbc.com/news/articles/cn7p2ry7k0zo?at_medium=RSS&at_campaign=rss))
+- 'Beekeeping really helped me after I left prison' ([23 hours ago](https://www.bbc.com/news/articles/cp8pjlkr93po?at_medium=RSS&at_campaign=rss))
 - Behind the scenes on Rivals season two: 'It's bigger, bolder, bonkier!' ([1 days ago](https://www.bbc.com/news/articles/cx210glmx19o?at_medium=RSS&at_campaign=rss))
 - What makes the chaotic cheese rolling event so special? ([1 days ago](https://www.bbc.com/news/articles/crlpzkzndl1o?at_medium=RSS&at_campaign=rss))
 - Golden Valley will be fitting legacy for Borough Council, leader believes ([1 days ago](https://gloucesternewscentre.co.uk/golden-valley-will-be-fitting-legacy-for-borough-council-leader-believes/))

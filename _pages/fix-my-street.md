@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 15th May :- [9457257](https://www.fixmystreet.com/report/9457257)
+- Car been parked for 8 weeks no one has attrnded at all. Back window open., 15th May :- [9457054](https://www.fixmystreet.com/report/9457054)
+- Frequent abandoned voi scooter blocking drives. Inappropriate and careless parking. Please report to voi, 15th May :- [9457052](https://www.fixmystreet.com/report/9457052)
+- TMC - Defects - Covers, Gratings & Frames problem, 15th May :- [9457249](https://www.fixmystreet.com/report/9457249)
+- Large tree resting on the post adjacent to the gate. The post has moved and the tree is in danger of falling on someone passing through the gate., 15th May :- [9456727](https://www.fixmystreet.com/report/9456727)
+- TMC - Defects -CW10 Potholes problem, 15th May :- [9456812](https://www.fixmystreet.com/report/9456812)
 - Grass not being cut , it has been less than 10yds away, 15th May :- [9456439](https://www.fixmystreet.com/report/9456439)
 - Footway issue, 15th May :- [9456401](https://www.fixmystreet.com/report/9456401)
 - TMC - Defects -CW10 Potholes problem, 15th May :- [9456566](https://www.fixmystreet.com/report/9456566)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Trees significantly overgrown, 14th May :- [9454357](https://www.fixmystreet.com/report/9454357)
 - Deep pothole, 14th May :- [9453922](https://www.fixmystreet.com/report/9453922)
 - Pavement crumbling, 14th May :- [9453651](https://www.fixmystreet.com/report/9453651)
-- Overhanging and need pollarding, 14th May :- [9453609](https://www.fixmystreet.com/report/9453609)
-- Road marking white lines or studs problem, 14th May :- [9453287](https://www.fixmystreet.com/report/9453287)
-- TMC - Defects - Other problem, 14th May :- [9452894](https://www.fixmystreet.com/report/9452894)
-- Flytipping on pavement outside 52 St Paul’s St North, 14th May :- [9452732](https://www.fixmystreet.com/report/9452732)
-- Flytipping on pavement outside 34 St Paul’s St North, 14th May :- [9452672](https://www.fixmystreet.com/report/9452672)
-- Potholes on Church Lane, The Leigh, 14th May :- [9452366](https://www.fixmystreet.com/report/9452366)
 
 <!-- fix_marker ends -->

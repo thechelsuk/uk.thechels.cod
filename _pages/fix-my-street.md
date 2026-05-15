@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple accidents at junction. Road markings not visible., 15th May :- [9459756](https://www.fixmystreet.com/report/9459756)
+- Verge marker removed from ground. I left it leaning against the public footpath sign, 15th May :- [9459403](https://www.fixmystreet.com/report/9459403)
 - Wooden bridge is rotting and very unstable to walk on, 15th May :- [9459362](https://www.fixmystreet.com/report/9459362)
 - Traffic can be witnessed driving around this one which is just prior to the pedestrian controlled light heading into Cheltenham at this junction, 15th May :- [9459353](https://www.fixmystreet.com/report/9459353)
 - TMC - Defects -CW10 Potholes problem, 15th May :- [9458557](https://www.fixmystreet.com/report/9458557)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 15th May :- [9457976](https://www.fixmystreet.com/report/9457976)
 - Dumped 2 large canisters of nitrous oxide at the top of Cudnall St Charlton Kings - see position on attached photos, 15th May :- [9457839](https://www.fixmystreet.com/report/9457839)
 - TMC - Defects - Vegetation problem, 15th May :- [9457257](https://www.fixmystreet.com/report/9457257)
-- Car been parked for 8 weeks no one has attrnded at all. Back window open., 15th May :- [9457054](https://www.fixmystreet.com/report/9457054)
-- Frequent abandoned voi scooter blocking drives. Inappropriate and careless parking. Please report to voi, 15th May :- [9457052](https://www.fixmystreet.com/report/9457052)
 
 <!-- fix_marker ends -->

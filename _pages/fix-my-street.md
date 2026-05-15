@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road is really difficult to cycle and drive, 15th May :- [9460085](https://www.fixmystreet.com/report/9460085)
 - URGENT: Roadworks barriers illegally removed, traffic driving under dangerous hanging tree — Ref: EY102GH19010000041919-01, 15th May :- [9459908](https://www.fixmystreet.com/report/9459908)
 - Loose manhole, 15th May :- [9459878](https://www.fixmystreet.com/report/9459878)
 - Manhole rattles, 15th May :- [9459865](https://www.fixmystreet.com/report/9459865)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - Silver Birch Tree has died, 15th May :- [9458186](https://www.fixmystreet.com/report/9458186)
 - 25cm wide and 1m long across the rd front of 68Alstone lane, Cheltenham, 15th May :- [9458104](https://www.fixmystreet.com/report/9458104)
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [9458160](https://www.fixmystreet.com/report/9458160)
+- TMC - Defects -CW6 Potholes  problem, 15th May :- [9458163](https://www.fixmystreet.com/report/9458163)
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [9458161](https://www.fixmystreet.com/report/9458161)
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [9458162](https://www.fixmystreet.com/report/9458162)
-- TMC - Defects -CW6 Potholes  problem, 15th May :- [9458163](https://www.fixmystreet.com/report/9458163)
-- Cars parking on bend, 15th May :- [9457924](https://www.fixmystreet.com/report/9457924)
 
 <!-- fix_marker ends -->

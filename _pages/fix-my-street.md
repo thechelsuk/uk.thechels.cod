@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cars parking on bend, 15th May :- [9457924](https://www.fixmystreet.com/report/9457924)
+- TMC - Defects - Vegetation problem, 15th May :- [9457976](https://www.fixmystreet.com/report/9457976)
+- Dumped 2 large canisters of nitrous oxide at the top of Cudnall St Charlton Kings - see position on attached photos, 15th May :- [9457839](https://www.fixmystreet.com/report/9457839)
 - TMC - Defects - Vegetation problem, 15th May :- [9457257](https://www.fixmystreet.com/report/9457257)
 - Car been parked for 8 weeks no one has attrnded at all. Back window open., 15th May :- [9457054](https://www.fixmystreet.com/report/9457054)
 - Frequent abandoned voi scooter blocking drives. Inappropriate and careless parking. Please report to voi, 15th May :- [9457052](https://www.fixmystreet.com/report/9457052)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Numerous deep potholes, 14th May :- [9454667](https://www.fixmystreet.com/report/9454667)
 - Parking on bend, 14th May :- [9454584](https://www.fixmystreet.com/report/9454584)
 - Missing traffic lights for cars at Brewery, 14th May :- [9454419](https://www.fixmystreet.com/report/9454419)
-- Trees significantly overgrown, 14th May :- [9454357](https://www.fixmystreet.com/report/9454357)
-- Deep pothole, 14th May :- [9453922](https://www.fixmystreet.com/report/9453922)
-- Pavement crumbling, 14th May :- [9453651](https://www.fixmystreet.com/report/9453651)
 
 <!-- fix_marker ends -->

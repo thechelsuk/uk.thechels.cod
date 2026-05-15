@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Tree is damaged problem, 15th May</title>
+<link>https://www.fixmystreet.com/report/9455626</link>
+<description>Tree on grass verge is dead and dropping branches&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9455626&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree is damaged</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9455626</guid>
+<pubDate>Fri, 15 May 2026 08:05:53 +0100</pubDate>
+<georss:point>51.874415 -2.081314</georss:point>
+</item>
 <item>
 <title>Deep pothole, 14th May</title>
 <link>https://www.fixmystreet.com/report/9454669</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9451389</guid>
 <pubDate>Thu, 14 May 2026 11:28:38 +0100</pubDate>
 <georss:point>51.9593406 -2.05415420000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 14th May</title>
-<link>https://www.fixmystreet.com/report/9451388</link>
-<description>28DAY &amp;#10;CW Pothole Approx 700x600x43mm&amp;#10;Give and Take TM (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9451388&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9451388</guid>
-<pubDate>Thu, 14 May 2026 11:28:23 +0100</pubDate>
-<georss:point>51.9440587 -2.0642768</georss:point>
 </item>
 </channel>
 </rss>

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 15th May :- [9455626](https://www.fixmystreet.com/report/9455626)
 - Deep pothole, 14th May :- [9454669](https://www.fixmystreet.com/report/9454669)
 - Numerous deep potholes, 14th May :- [9454667](https://www.fixmystreet.com/report/9454667)
 - Parking on bend, 14th May :- [9454584](https://www.fixmystreet.com/report/9454584)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 14th May :- [9451391](https://www.fixmystreet.com/report/9451391)
 - TMC - Defects -other CW10 problem, 14th May :- [9451390](https://www.fixmystreet.com/report/9451390)
 - TMC - Defects -CW10 Potholes problem, 14th May :- [9451389](https://www.fixmystreet.com/report/9451389)
-- TMC - Defects -CW10 Potholes problem, 14th May :- [9451388](https://www.fixmystreet.com/report/9451388)
 
 <!-- fix_marker ends -->

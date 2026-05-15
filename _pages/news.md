@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Hospital under investigation over abuse concerns ([34 minutes ago](https://www.bbc.com/news/articles/czd7dm0nl5no?at_medium=RSS&at_campaign=rss))
-- Rivals filming puts West towns firmly in the spotlight ([49 minutes ago](https://www.bbc.com/news/articles/cx21p7e4zego?at_medium=RSS&at_campaign=rss))
-- Hopes £1.5m cash boost could revive stalled scheme ([9 hours ago](https://www.bbc.com/news/articles/ce3pj0xny3yo?at_medium=RSS&at_campaign=rss))
-- Man due to be sentenced following investigation ([13 hours ago](https://gloucesternewscentre.co.uk/man-due-to-be-sentenced-following-investigation/))
-- Bereaved mum claims PM 'ignoring' meeting request ([16 hours ago](https://www.bbc.com/news/articles/cwy23j4z23do?at_medium=RSS&at_campaign=rss))
-- Man seriously injured in city centre assault ([17 hours ago](https://www.bbc.com/news/articles/c2l2724kkrzo?at_medium=RSS&at_campaign=rss))
+- Hospital under investigation over abuse concerns ([2 hours ago](https://www.bbc.com/news/articles/czd7dm0nl5no?at_medium=RSS&at_campaign=rss))
+- Rivals filming puts West towns firmly in the spotlight ([2 hours ago](https://www.bbc.com/news/articles/cx21p7e4zego?at_medium=RSS&at_campaign=rss))
+- Hopes £1.5m cash boost could revive stalled scheme ([11 hours ago](https://www.bbc.com/news/articles/ce3pj0xny3yo?at_medium=RSS&at_campaign=rss))
+- Man due to be sentenced following investigation ([15 hours ago](https://gloucesternewscentre.co.uk/man-due-to-be-sentenced-following-investigation/))
+- Bereaved mum claims PM 'ignoring' meeting request ([18 hours ago](https://www.bbc.com/news/articles/cwy23j4z23do?at_medium=RSS&at_campaign=rss))
+- Man seriously injured in city centre assault ([19 hours ago](https://www.bbc.com/news/articles/c2l2724kkrzo?at_medium=RSS&at_campaign=rss))
 - World's first vaccination clinic to reopen ([1 days ago](https://www.bbc.com/news/articles/cn7p2ry7k0zo?at_medium=RSS&at_campaign=rss))
 - 'Beekeeping really helped me after I left prison' ([1 days ago](https://www.bbc.com/news/articles/cp8pjlkr93po?at_medium=RSS&at_campaign=rss))
 - Behind the scenes on Rivals season two: 'It's bigger, bolder, bonkier!' ([1 days ago](https://www.bbc.com/news/articles/cx210glmx19o?at_medium=RSS&at_campaign=rss))
@@ -54,6 +54,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man arrested on suspicion of indecent exposure in Cheltenham ([22 days ago](https://gloucesternewscentre.co.uk/man-arrested-on-suspicion-of-indecent-exposure-in-cheltenham/))
 - Safer Roads scheme launches in Gloucestershire ([24 days ago](https://gloucesternewscentre.co.uk/safer-roads-scheme-launches-in-gloucestershire/))
 - Fears Cheltenham’s Municipal Offices sale could fall through like airport deal ([24 days ago](https://gloucesternewscentre.co.uk/fears-cheltenhams-municipal-offices-sale-could-fall-through-like-airport-deal/))
-- Cheltenham venues adopt new ID policy ([28 days ago](https://gloucesternewscentre.co.uk/cheltenham-venues-adopt-new-id-policy/))
+- Cheltenham venues adopt new ID policy ([29 days ago](https://gloucesternewscentre.co.uk/cheltenham-venues-adopt-new-id-policy/))
 
 <!-- news_marker ends -->

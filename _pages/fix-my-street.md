@@ -9,10 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Wooden bridge is rotting and very unstable to walk on, 15th May :- [9459362](https://www.fixmystreet.com/report/9459362)
+- Traffic can be witnessed driving around this one which is just prior to the pedestrian controlled light heading into Cheltenham at this junction, 15th May :- [9459353](https://www.fixmystreet.com/report/9459353)
 - TMC - Defects -CW10 Potholes problem, 15th May :- [9458557](https://www.fixmystreet.com/report/9458557)
 - TMC - Defects -CW10 Potholes problem, 15th May :- [9458555](https://www.fixmystreet.com/report/9458555)
-- TMC - Defects -CW10 Potholes problem, 15th May :- [9458554](https://www.fixmystreet.com/report/9458554)
 - TMC - Defects -CW10 Potholes problem, 15th May :- [9458556](https://www.fixmystreet.com/report/9458556)
+- TMC - Defects -CW10 Potholes problem, 15th May :- [9458554](https://www.fixmystreet.com/report/9458554)
 - TMC - Defects -CW10 Potholes problem, 15th May :- [9458544](https://www.fixmystreet.com/report/9458544)
 - TMC - Defects -CW10 Potholes problem, 15th May :- [9458545](https://www.fixmystreet.com/report/9458545)
 - Silver Birch Tree has died, 15th May :- [9458186](https://www.fixmystreet.com/report/9458186)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 15th May :- [9457257](https://www.fixmystreet.com/report/9457257)
 - Car been parked for 8 weeks no one has attrnded at all. Back window open., 15th May :- [9457054](https://www.fixmystreet.com/report/9457054)
 - Frequent abandoned voi scooter blocking drives. Inappropriate and careless parking. Please report to voi, 15th May :- [9457052](https://www.fixmystreet.com/report/9457052)
-- TMC - Defects - Covers, Gratings & Frames problem, 15th May :- [9457249](https://www.fixmystreet.com/report/9457249)
-- Large tree resting on the post adjacent to the gate. The post has moved and the tree is in danger of falling on someone passing through the gate., 15th May :- [9456727](https://www.fixmystreet.com/report/9456727)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass not being cut , it has been less than 10yds away, 15th May :- [9456439](https://www.fixmystreet.com/report/9456439)
+- Footway issue, 15th May :- [9456401](https://www.fixmystreet.com/report/9456401)
+- TMC - Defects -CW10 Potholes problem, 15th May :- [9456566](https://www.fixmystreet.com/report/9456566)
+- TMC - Defects -CW10 Potholes problem, 15th May :- [9456565](https://www.fixmystreet.com/report/9456565)
+- Uneven footway, 15th May :- [9456380](https://www.fixmystreet.com/report/9456380)
+- Diversion sign left lying within verge junction Old Road and B4632, 15th May :- [9455878](https://www.fixmystreet.com/report/9455878)
 - Tree is damaged problem, 15th May :- [9455626](https://www.fixmystreet.com/report/9455626)
 - Deep pothole, 14th May :- [9454669](https://www.fixmystreet.com/report/9454669)
 - Numerous deep potholes, 14th May :- [9454667](https://www.fixmystreet.com/report/9454667)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Flytipping on pavement outside 52 St Paul’s St North, 14th May :- [9452732](https://www.fixmystreet.com/report/9452732)
 - Flytipping on pavement outside 34 St Paul’s St North, 14th May :- [9452672](https://www.fixmystreet.com/report/9452672)
 - Potholes on Church Lane, The Leigh, 14th May :- [9452366](https://www.fixmystreet.com/report/9452366)
-- TMC - Defects - Signs & Street Furniture problem, 14th May :- [9452499](https://www.fixmystreet.com/report/9452499)
-- Post or sign leaning slightly (less than 20 degrees) problem, 14th May :- [9452491](https://www.fixmystreet.com/report/9452491)
-- Holes on road near metal drain cover, 14th May :- [9451791](https://www.fixmystreet.com/report/9451791)
-- TMC - Defects -CW10 Potholes problem, 14th May :- [9451391](https://www.fixmystreet.com/report/9451391)
-- TMC - Defects -other CW10 problem, 14th May :- [9451390](https://www.fixmystreet.com/report/9451390)
-- TMC - Defects -CW10 Potholes problem, 14th May :- [9451389](https://www.fixmystreet.com/report/9451389)
 
 <!-- fix_marker ends -->

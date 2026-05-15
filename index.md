@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 15 May 2026
 
-- The average temperature today is 4.37˚C,
-- With highs of 5.54˚C and lows of 3.62˚C,
-- It may feel like 4.37˚C with overcast clouds
+- The average temperature today is 4.59˚C,
+- With highs of 5.47˚C and lows of 4.18˚C,
+- It may feel like 4.59˚C with overcast clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 92%
+- The pressure is 1008hPa and humidity is 94%
 - The sun will rise at 04:15 and set at 19:54
 
 <!-- weather_marker ends -->

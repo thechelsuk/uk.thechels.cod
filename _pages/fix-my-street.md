@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- URGENT: Roadworks barriers illegally removed, traffic driving under dangerous hanging tree — Ref: EY102GH19010000041919-01, 15th May :- [9459908](https://www.fixmystreet.com/report/9459908)
+- Loose manhole, 15th May :- [9459878](https://www.fixmystreet.com/report/9459878)
+- Manhole rattles, 15th May :- [9459865](https://www.fixmystreet.com/report/9459865)
 - Multiple accidents at junction. Road markings not visible., 15th May :- [9459756](https://www.fixmystreet.com/report/9459756)
 - Verge marker removed from ground. I left it leaning against the public footpath sign, 15th May :- [9459403](https://www.fixmystreet.com/report/9459403)
 - Wooden bridge is rotting and very unstable to walk on, 15th May :- [9459362](https://www.fixmystreet.com/report/9459362)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [9458162](https://www.fixmystreet.com/report/9458162)
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [9458163](https://www.fixmystreet.com/report/9458163)
 - Cars parking on bend, 15th May :- [9457924](https://www.fixmystreet.com/report/9457924)
-- TMC - Defects - Vegetation problem, 15th May :- [9457976](https://www.fixmystreet.com/report/9457976)
-- Dumped 2 large canisters of nitrous oxide at the top of Cudnall St Charlton Kings - see position on attached photos, 15th May :- [9457839](https://www.fixmystreet.com/report/9457839)
-- TMC - Defects - Vegetation problem, 15th May :- [9457257](https://www.fixmystreet.com/report/9457257)
 
 <!-- fix_marker ends -->

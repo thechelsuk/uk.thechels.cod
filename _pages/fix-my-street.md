@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There are a number of potholes in Windsor street, a number of then, 16th May :- [9452801](https://www.fixmystreet.com/report/9452801)
+- Motorbikes misusing restricted byway, 16th May :- [9462162](https://www.fixmystreet.com/report/9462162)
+- Branchs, 16th May :- [9462051](https://www.fixmystreet.com/report/9462051)
+- Volunteer litter pick bags ready for collection, 16th May :- [9462050](https://www.fixmystreet.com/report/9462050)
 - Several pot holes close to EUROTOW, 16th May :- [9461967](https://www.fixmystreet.com/report/9461967)
 - Keep clear box outside EuroTow compound, 16th May :- [9461956](https://www.fixmystreet.com/report/9461956)
 - Fallen tree blocking path, 16th May :- [9461456](https://www.fixmystreet.com/report/9461456)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Traffic can be witnessed driving around this one which is just prior to the pedestrian controlled light heading into Cheltenham at this junction, 15th May :- [9459353](https://www.fixmystreet.com/report/9459353)
 - TMC - Defects -CW10 Potholes problem, 15th May :- [9458557](https://www.fixmystreet.com/report/9458557)
 - TMC - Defects -CW10 Potholes problem, 15th May :- [9458555](https://www.fixmystreet.com/report/9458555)
-- TMC - Defects -CW10 Potholes problem, 15th May :- [9458556](https://www.fixmystreet.com/report/9458556)
-- TMC - Defects -CW10 Potholes problem, 15th May :- [9458554](https://www.fixmystreet.com/report/9458554)
-- TMC - Defects -CW10 Potholes problem, 15th May :- [9458544](https://www.fixmystreet.com/report/9458544)
-- TMC - Defects -CW10 Potholes problem, 15th May :- [9458545](https://www.fixmystreet.com/report/9458545)
 
 <!-- fix_marker ends -->

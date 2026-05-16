@@ -11,12 +11,14 @@ import requests
 from dateutil import parser as dateparser  # kept in case you want date filtering later
 
 API_KEY = os.getenv("API_KEY")
-MODEL_NAME = os.getenv("MODEL_NAME", "gemma4")
+MODEL_NAME = os.getenv("MODEL_NAME", "qwen3.5:4b")
 OLLAMA_BASE = os.getenv("API_BASE_URL", "https://ollama.com/api")
 
 SOURCES_YAML = "./_data/sources.yml"
 DIGEST_PATH = "newsletter/digest.md"
 MAX_CANDIDATES_PER_FEED = 20
+
+
 
 
 @dataclass
@@ -332,6 +334,7 @@ def ensure_output_dir():
 
 
 def main() -> int:
+    print(f"[debug] API_KEY present: {bool(API_KEY)}", file=sys.stderr)
     stories = fetch_rss_feeds()
     print(f"[main] gathered {len(stories)} RSS stories")
 

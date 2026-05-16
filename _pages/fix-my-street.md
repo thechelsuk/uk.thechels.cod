@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 16th May :- [9462704](https://www.fixmystreet.com/report/9462704)
+- A pothole in road problem, 16th May :- [9462691](https://www.fixmystreet.com/report/9462691)
+- This tree was a wonderful example, unfortunatley it has died and it would be very benificial to the comunity to replace it, 16th May :- [9462558](https://www.fixmystreet.com/report/9462558)
+- Fix the floor directions, 16th May :- [9462488](https://www.fixmystreet.com/report/9462488)
+- Green light out on traffic lights, 16th May :- [9462437](https://www.fixmystreet.com/report/9462437)
 - There are a number of potholes in Windsor street, a number of then, 16th May :- [9452801](https://www.fixmystreet.com/report/9452801)
 - Motorbikes misusing restricted byway, 16th May :- [9462162](https://www.fixmystreet.com/report/9462162)
 - Branchs, 16th May :- [9462051](https://www.fixmystreet.com/report/9462051)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Loose manhole, 15th May :- [9459878](https://www.fixmystreet.com/report/9459878)
 - Manhole rattles, 15th May :- [9459865](https://www.fixmystreet.com/report/9459865)
 - Multiple accidents at junction. Road markings not visible., 15th May :- [9459756](https://www.fixmystreet.com/report/9459756)
-- Verge marker removed from ground. I left it leaning against the public footpath sign, 15th May :- [9459403](https://www.fixmystreet.com/report/9459403)
-- Wooden bridge is rotting and very unstable to walk on, 15th May :- [9459362](https://www.fixmystreet.com/report/9459362)
-- Traffic can be witnessed driving around this one which is just prior to the pedestrian controlled light heading into Cheltenham at this junction, 15th May :- [9459353](https://www.fixmystreet.com/report/9459353)
-- TMC - Defects -CW10 Potholes problem, 15th May :- [9458557](https://www.fixmystreet.com/report/9458557)
-- TMC - Defects -CW10 Potholes problem, 15th May :- [9458555](https://www.fixmystreet.com/report/9458555)
 
 <!-- fix_marker ends -->

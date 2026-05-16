@@ -26,8 +26,8 @@ permalink: /fix-my-street
 - Silver Birch Tree has died, 15th May :- [9458186](https://www.fixmystreet.com/report/9458186)
 - 25cm wide and 1m long across the rd front of 68Alstone lane, Cheltenham, 15th May :- [9458104](https://www.fixmystreet.com/report/9458104)
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [9458160](https://www.fixmystreet.com/report/9458160)
-- TMC - Defects -CW6 Potholes  problem, 15th May :- [9458163](https://www.fixmystreet.com/report/9458163)
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [9458161](https://www.fixmystreet.com/report/9458161)
 - TMC - Defects -CW6 Potholes  problem, 15th May :- [9458162](https://www.fixmystreet.com/report/9458162)
+- TMC - Defects -CW6 Potholes  problem, 15th May :- [9458163](https://www.fixmystreet.com/report/9458163)
 
 <!-- fix_marker ends -->

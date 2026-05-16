@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -169,15 +169,6 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 15th May</title>
-<link>https://www.fixmystreet.com/report/9458163</link>
-<description>Pothole CW&amp;#10;600x500x55mm approx&amp;#10;Stop and go &amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9458163&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9458163</guid>
-<pubDate>Fri, 15 May 2026 14:04:51 +0100</pubDate>
-<georss:point>51.8541162 -2.19008659999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 15th May</title>
 <link>https://www.fixmystreet.com/report/9458161</link>
 <description>Pothole CW&amp;#10;400x400x45mm approx&amp;#10;Stop and go (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9458161&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
@@ -193,6 +184,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9458162</guid>
 <pubDate>Fri, 15 May 2026 14:04:51 +0100</pubDate>
 <georss:point>51.8542083 -2.19021</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 15th May</title>
+<link>https://www.fixmystreet.com/report/9458163</link>
+<description>Pothole CW&amp;#10;600x500x55mm approx&amp;#10;Stop and go &amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9458163&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9458163</guid>
+<pubDate>Fri, 15 May 2026 14:04:51 +0100</pubDate>
+<georss:point>51.8541162 -2.19008659999999</georss:point>
 </item>
 </channel>
 </rss>

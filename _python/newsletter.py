@@ -28,7 +28,7 @@ API_KEY = os.getenv("API_KEY")
 API_BASE_URL = os.getenv("API_BASE_URL")
 MODEL_NAME = os.getenv("MODEL_NAME", "gpt-4.1-mini")  # replace with your Ollama model
 
-SOURCES_YAML = "/_data/sources.yml"
+SOURCES_YAML = "./_data/sources.yml"
 DIGEST_PATH = "newsletter/digest.md"
 MAX_CANDIDATES_PER_FEED = 20
 
@@ -121,13 +121,13 @@ def fetch_rss_feeds() -> List[Story]:
 
 def render_fallback(stories: List[Story]) -> str:
     if not stories:
-        return "# Bi-weekly digest\n\n_No stories this time._\n"
+        return "# Weekly Newsletter\n\n_No stories this time._\n"
 
     today = datetime.now(timezone.utc).date().isoformat()
     lines = [
-        f"**Bi-weekly digest — {today}**",
+        f"**Weekly Newsletter — {today}**",
         "",
-        "### Picks (uncurated)",
+        "### Picks",
         "",
     ]
     for s in stories:
@@ -280,11 +280,11 @@ def llm_write_digest(client: OpenAI, shortlist, stories_by_url):
             ),
             "",
             "Formatting (markdown):",
-            f"- Start with one title line: **Bi-weekly digest — {today}**.",
+            f"- Start with one title line: **Weekly Newsletter — {today}**.",
             "- ### From the editors — expand fortnight_brief slightly (no new factual claims).",
             "- ### Themes — bullets from themes; you may merge or rephrase briefly.",
             "- ### Picks — for each pick: **[Title](url)** as a clickable heading (title links to EXACT url),",
-            "  then 1–2 sentences of hook (combine editor_note + your voice). Do NOT repeat the link after the hook.",
+            "  then no more than 3 sentences of hook (combine editor_note + your voice). Do NOT repeat the link after the hook.",
             "- Use ONLY urls from picks. No new links, no footnotes, no code blocks.",
             "- Keep total under 3500 characters if possible; tight prose.",
         ]

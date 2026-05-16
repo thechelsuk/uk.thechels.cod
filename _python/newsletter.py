@@ -1,16 +1,3 @@
-# newsletter.py
-# Requirements:
-#   pip install feedparser python-dateutil pyyaml openai
-#
-# Env:
-#   API_KEY        (your Ollama Cloud or other compatible key)
-#   API_BASE_URL   (e.g. https://api.ollama.cloud/v1)
-#   MODEL_NAME     (e.g. llama3.1:8b-instruct)
-#
-# Feeds from sources.yml in repo root:
-#   - id: BBC
-#     url: http://...
-
 import os
 import sys
 import textwrap
@@ -194,7 +181,7 @@ def llm_shortlist(client: OpenAI, stories: List[Story]):
             {
                 "role": "system",
                 "content": (
-                    "You are an editor shortlisting a bi-weekly local news digest. "
+                    "You are an editor shortlisting a weekly local news digest. "
                     "Output strict JSON only."
                 ),
             },

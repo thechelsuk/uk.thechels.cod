@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- PCC quits air support board over helicopter spend ([1 hours ago](https://www.bbc.com/news/articles/ce3p2934g32o?at_medium=RSS&at_campaign=rss))
-- Botched road sign directs traffic into no-entry lane ([6 hours ago](https://www.bbc.com/news/articles/cg4p293k1ryo?at_medium=RSS&at_campaign=rss))
-- Police adopt steps to help neurodiverse detainees ([10 hours ago](https://www.bbc.com/news/articles/c4g4lje1w2xo?at_medium=RSS&at_campaign=rss))
-- Thousands run city races and skunk on the loose ([11 hours ago](https://www.bbc.com/news/articles/c62xnk5ewwgo?at_medium=RSS&at_campaign=rss))
+- PCC quits air support board over helicopter spend ([3 hours ago](https://www.bbc.com/news/articles/ce3p2934g32o?at_medium=RSS&at_campaign=rss))
+- Botched road sign directs traffic into no-entry lane ([8 hours ago](https://www.bbc.com/news/articles/cg4p293k1ryo?at_medium=RSS&at_campaign=rss))
+- Police adopt steps to help neurodiverse detainees ([13 hours ago](https://www.bbc.com/news/articles/c4g4lje1w2xo?at_medium=RSS&at_campaign=rss))
+- Thousands run city races and skunk on the loose ([13 hours ago](https://www.bbc.com/news/articles/c62xnk5ewwgo?at_medium=RSS&at_campaign=rss))
 - Police hunt as man seriously injured in attack ([1 days ago](https://www.bbc.com/news/articles/cd7p2yexj2yo?at_medium=RSS&at_campaign=rss))
 - Speed watch groups to end as 20mph rollout planned ([1 days ago](https://www.bbc.com/news/articles/c3v2zw322n5o?at_medium=RSS&at_campaign=rss))
 - Historic lido could reopen for six weeks ([1 days ago](https://www.bbc.com/news/articles/cvgz9qy5zyno?at_medium=RSS&at_campaign=rss))
@@ -36,7 +36,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Family pay tribute to “much-loved husband and devoted dad” Andy Reed ([4 days ago](https://gloucesternewscentre.co.uk/family-pay-tribute-to-much-loved-husband-and-devoted-dad-andy-reed/))
 - Award-winning photographer inspires Cheltenham retirees ([5 days ago](https://gloucesternewscentre.co.uk/award-winning-photographer-inspires-cheltenham-retirees/))
 - Frustration as suspension of home births is extended ([5 days ago](https://gloucesternewscentre.co.uk/frustration-as-suspension-of-home-births-is-extended/))
-- Police launch investigation after body of missing man found near Cheltenham ([5 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
+- Police launch investigation after body of missing man found near Cheltenham ([6 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
 - Man sentenced to eight years in prison for raping woman in Cheltenham ([7 days ago](https://gloucesternewscentre.co.uk/man-sentenced-to-eight-years-in-prison-for-raping-woman-in-cheltenham/))
 - Liberal Democrats win county council by-election ([8 days ago](https://gloucesternewscentre.co.uk/liberal-democrats-win-county-council-by-election/))
 - Cheltenham ‘rejects politics of division’ as Lib Dems win council elections ([8 days ago](https://gloucesternewscentre.co.uk/cheltenham-rejects-politics-of-division-as-lib-dems-win-council-elections/))

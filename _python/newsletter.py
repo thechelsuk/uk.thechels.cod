@@ -7,13 +7,12 @@ from typing import List, Optional
 
 import feedparser
 import yaml
-from dateutil import parser as dateparser  # kept if you later want date filters
-from openai import OpenAI
-
+import requests
+from dateutil import parser as dateparser  # kept in case you want date filtering later
 
 API_KEY = os.getenv("API_KEY")
-API_BASE_URL = os.getenv("API_BASE_URL")
-MODEL_NAME = os.getenv("MODEL_NAME", "gpt-4.1-mini")  # replace with your Ollama model
+MODEL_NAME = os.getenv("MODEL_NAME", "gemma4")
+OLLAMA_BASE = os.getenv("API_BASE_URL", "https://ollama.com/api")
 
 SOURCES_YAML = "./_data/sources.yml"
 DIGEST_PATH = "newsletter/digest.md"
@@ -96,7 +95,7 @@ def fetch_rss_feeds() -> List[Story]:
                     title=title,
                     url=link,
                     source=source_title,
-                    category=category or "?",
+                    category=category or "uncategorised",
                 )
             )
             count += 1
@@ -108,32 +107,63 @@ def fetch_rss_feeds() -> List[Story]:
 
 def render_fallback(stories: List[Story]) -> str:
     if not stories:
-        return "# Weekly Newsletter\n\n_No stories this time._\n"
+        return "# Weekly digest\n\n_No stories this time._\n"
 
     today = datetime.now(timezone.utc).date().isoformat()
     lines = [
-        f"**Weekly Newsletter — {today}**",
+        f"## {today}",
         "",
         "### Picks",
         "",
     ]
     for s in stories:
-        lines.append(f"- **[{s.title}]({s.url})**  \n  _{s.source} · {s.category}_")
+        lines.append(f"- [{s.title}]({s.url})\n  _{s.source}_")
     return "\n".join(lines) + "\n"
 
 
-# ------------ LLM helpers (Ollama Cloud / compatible) ------------
+# ------------ Ollama cloud chat helper ------------
 
-def make_client() -> Optional[OpenAI]:
+def ollama_chat(prompt: str) -> Optional[str]:
     if not API_KEY:
         return None
-    kwargs = {"api_key": API_KEY}
-    if API_BASE_URL:
-        kwargs["base_url"] = API_BASE_URL
-    return OpenAI(**kwargs)
+
+    try:
+        resp = requests.post(
+            f"{OLLAMA_BASE}/chat",
+            headers={
+                "Authorization": f"Bearer {API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": MODEL_NAME,
+                "messages": [
+                    {"role": "user", "content": prompt},
+                ],
+                "stream": False,
+            },
+            timeout=120,
+        )
+    except Exception as e:
+        print(f"[ollama] request error: {e}", file=sys.stderr)
+        return None
+
+    if resp.status_code >= 400:
+        print(f"[ollama] HTTP {resp.status_code}: {resp.text[:300]}", file=sys.stderr)
+        return None
+
+    try:
+        data = resp.json()
+    except Exception as e:
+        print(f"[ollama] bad JSON: {e}", file=sys.stderr)
+        return None
+
+    content = data.get("message", {}).get("content", "")
+    return content.strip() or None
 
 
-def llm_shortlist(client: OpenAI, stories: List[Story]):
+# ------------ LLM shortlist ------------
+
+def llm_shortlist(stories: List[Story]):
     payload = [
         {
             "title": s.title,
@@ -173,22 +203,7 @@ def llm_shortlist(client: OpenAI, stories: List[Story]):
         ]
     )
 
-    resp = client.chat.completions.create(
-        model=MODEL_NAME,
-        temperature=0.4,
-        response_format={"type": "json_object"},
-        messages=[
-            {
-                "role": "system",
-                "content": (
-                    "You are an editor shortlisting a weekly local news digest. "
-                    "Output strict JSON only."
-                ),
-            },
-            {"role": "user", "content": user},
-        ],
-    )
-    text = (resp.choices[0].message.content or "").strip()
+    text = ollama_chat(user)
     if not text:
         return None
 
@@ -230,7 +245,9 @@ def llm_shortlist(client: OpenAI, stories: List[Story]):
     }
 
 
-def llm_write_digest(client: OpenAI, shortlist, stories_by_url):
+# ------------ LLM writer ------------
+
+def llm_write_digest(shortlist, stories_by_url: dict[str, Story]) -> Optional[str]:
     enriched = []
     for p in shortlist["picks"]:
         url = p["url"]
@@ -267,32 +284,18 @@ def llm_write_digest(client: OpenAI, shortlist, stories_by_url):
             ),
             "",
             "Formatting (markdown):",
-            f"- Start with one title line: **Weekly Newsletter — {today}**.",
+            f"- Start with one title line: **Bi-weekly digest — {today}**.",
             "- ### From the editors — expand fortnight_brief slightly (no new factual claims).",
             "- ### Themes — bullets from themes; you may merge or rephrase briefly.",
             "- ### Picks — for each pick: **[Title](url)** as a clickable heading (title links to EXACT url),",
-            "  then no more than 3 sentences of hook (combine editor_note + your voice). Do NOT repeat the link after the hook.",
+            "  then 1–2 sentences of hook (combine editor_note + your voice). Do NOT repeat the link after the hook.",
             "- Use ONLY urls from picks. No new links, no footnotes, no code blocks.",
             "- Keep total under 3500 characters if possible; tight prose.",
         ]
     )
 
-    resp = client.chat.completions.create(
-        model=MODEL_NAME,
-        temperature=0.7,
-        messages=[
-            {
-                "role": "system",
-                "content": (
-                    "You turn a structured shortlist into a readable markdown digest. "
-                    "Never invent URLs or facts not implied by the input."
-                ),
-            },
-            {"role": "user", "content": user},
-        ],
-    )
-    body = (resp.choices[0].message.content or "").strip()
-    return body or None
+    text = ollama_chat(user)
+    return text or None
 
 
 # ------------ Orchestration ------------
@@ -301,12 +304,11 @@ def curate_digest(stories: List[Story]) -> str:
     if not stories:
         return render_fallback([])
 
-    client = make_client()
-    if not client:
+    if not API_KEY:
         print("[curation] API_KEY missing; using fallback.", file=sys.stderr)
         return render_fallback(stories)
 
-    shortlist = llm_shortlist(client, stories)
+    shortlist = llm_shortlist(stories)
     if not shortlist:
         print("[curation] shortlist failed; using fallback.", file=sys.stderr)
         return render_fallback(stories)
@@ -317,7 +319,7 @@ def curate_digest(stories: List[Story]) -> str:
         print("[curation] shortlist had no valid urls; fallback.", file=sys.stderr)
         return render_fallback(stories)
 
-    body = llm_write_digest(client, shortlist, by_url)
+    body = llm_write_digest(shortlist, by_url)
     if not body:
         print("[curation] writer failed; fallback.", file=sys.stderr)
         return render_fallback(stories)
@@ -329,7 +331,7 @@ def ensure_output_dir():
     os.makedirs(os.path.dirname(DIGEST_PATH), exist_ok=True)
 
 
-def main():
+def main() -> int:
     stories = fetch_rss_feeds()
     print(f"[main] gathered {len(stories)} RSS stories")
 

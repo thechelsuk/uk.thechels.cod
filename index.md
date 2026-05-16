@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 16 May 2026
 
-- The average temperature today is 9.48˚C,
-- With highs of 9.82˚C and lows of 8.8˚C,
-- It may feel like 9.48˚C with overcast clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 75%
+- The average temperature today is 12.15˚C,
+- With highs of 12.51˚C and lows of 11.27˚C,
+- It may feel like 11.22˚C with few clouds
+- The wind speed is 3.09m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 69%
 - The sun will rise at 04:13 and set at 19:55
 
 <!-- weather_marker ends -->

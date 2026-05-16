@@ -1,0 +1,8 @@
+- id: BBC
+  url: http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/england/gloucestershire/rss.xml
+- id: Gloucestershire Police
+  url: https://www.gloucestershire.police.uk/news/gloucestershire/news/GetNewsRss/
+- id: Gloucester News Centre
+  url: https://gloucesternewscentre.co.uk/category/gloucestershire-news/cheltenham-news/feed/
+- id: Cheltenham Borough Council
+  url: https://www.cheltenham.gov.uk/rss/news

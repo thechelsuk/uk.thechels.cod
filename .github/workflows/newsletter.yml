@@ -1,0 +1,51 @@
+name: Weekly newsletter
+
+on:
+  schedule:
+    - cron: '30 16 * * 5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly-newsletter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate digest (weekly newsletter)
+        env:
+          API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+          API_BASE_URL: ${{ vars.OLLAMA_BASE_URL }}
+          MODEL_NAME: ${{ vars.MODEL_NAME }}
+        run: |
+          python newsletter.py
+
+      - name: Compute metadata
+        id: meta
+        run: |
+          DATE_UTC="$(date -u +'%Y-%m-%d')"
+          echo "date=${DATE_UTC}" >> "$GITHUB_OUTPUT"
+
+      - name: Publish GitHub Release (digest markdown)
+        uses: softprops/action-gh-release@v3.0.0
+        with:
+          tag_name: newsletter-${{ github.run_id }}
+          name: Newsletter ${{ steps.meta.outputs.date }}
+          body_path: newsletter/digest.md
+          files: newsletter/digest.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

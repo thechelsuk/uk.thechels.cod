@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Furniture dumped in layby, 16th May :- [9463360](https://www.fixmystreet.com/report/9463360)
 - Potholes, 16th May :- [9462704](https://www.fixmystreet.com/report/9462704)
 - A pothole in road problem, 16th May :- [9462691](https://www.fixmystreet.com/report/9462691)
 - This tree was a wonderful example, unfortunatley it has died and it would be very benificial to the comunity to replace it, 16th May :- [9462558](https://www.fixmystreet.com/report/9462558)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - URGENT: Roadworks barriers illegally removed, traffic driving under dangerous hanging tree — Ref: EY102GH19010000041919-01, 15th May :- [9459908](https://www.fixmystreet.com/report/9459908)
 - Loose manhole, 15th May :- [9459878](https://www.fixmystreet.com/report/9459878)
 - Manhole rattles, 15th May :- [9459865](https://www.fixmystreet.com/report/9459865)
-- Multiple accidents at junction. Road markings not visible., 15th May :- [9459756](https://www.fixmystreet.com/report/9459756)
 
 <!-- fix_marker ends -->

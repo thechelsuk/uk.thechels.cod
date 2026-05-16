@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Friday, 15 May 2026
+## On Saturday, 16 May 2026
 
-- The average temperature today is 4.04˚C,
-- With highs of 4.83˚C and lows of 3.25˚C,
-- It may feel like 4.04˚C with clear sky
+- The average temperature today is 4.01˚C,
+- With highs of 4.83˚C and lows of 2.69˚C,
+- It may feel like 4.01˚C with clear sky
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 84%
+- The pressure is 1009hPa and humidity is 88%
 - The sun will rise at 04:13 and set at 19:55
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 15 days since the last change (2026-04-30)
+- It has been 16 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->

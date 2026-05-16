@@ -119,7 +119,7 @@ def render_fallback(stories: List[Story]) -> str:
         "",
     ]
     for s in stories:
-        lines.append(f"- [{s.title}]({s.url})\n  _{s.source}_")
+        lines.append(f"- [{s.title}]({s.url})  _{s.source}_")
     return "\n".join(lines) + "\n"
 
 
@@ -193,7 +193,7 @@ def llm_shortlist(stories: List[Story]):
                   ]
                 }
 
-                Rules: pick 8–14 items. Maximize diversity across categories; drop near-duplicates;
+                Rules: pick 8-14 items. Maximize diversity across categories; drop near-duplicates;
                 prefer substantive reporting or analysis over fluff.
                 """
             ).strip(),
@@ -286,11 +286,11 @@ def llm_write_digest(shortlist, stories_by_url: dict[str, Story]) -> Optional[st
             ),
             "",
             "Formatting (markdown):",
-            f"- Start with one title line: **Bi-weekly digest — {today}**.",
+            f"- Start with one title line: ## weekly digest — {today}.",
             "- ### From the editors — expand fortnight_brief slightly (no new factual claims).",
             "- ### Themes — bullets from themes; you may merge or rephrase briefly.",
             "- ### Picks — for each pick: **[Title](url)** as a clickable heading (title links to EXACT url),",
-            "  then 1–2 sentences of hook (combine editor_note + your voice). Do NOT repeat the link after the hook.",
+            "  then no more than 3 sentences of hook (combine editor_note + your voice). Do NOT repeat the link after the hook.",
             "- Use ONLY urls from picks. No new links, no footnotes, no code blocks.",
             "- Keep total under 3500 characters if possible; tight prose.",
         ]

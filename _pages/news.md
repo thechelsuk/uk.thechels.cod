@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Police hunt as man seriously injured in attack ([9 hours ago](https://www.bbc.com/news/articles/cd7p2yexj2yo?at_medium=RSS&at_campaign=rss))
-- Speed watch groups to end as 20mph rollout planned ([11 hours ago](https://www.bbc.com/news/articles/c3v2zw322n5o?at_medium=RSS&at_campaign=rss))
-- Historic lido could reopen for six weeks ([13 hours ago](https://www.bbc.com/news/articles/cvgz9qy5zyno?at_medium=RSS&at_campaign=rss))
-- Hospital under investigation over abuse concerns ([19 hours ago](https://www.bbc.com/news/articles/czd7dm0nl5no?at_medium=RSS&at_campaign=rss))
-- Rivals filming puts West towns firmly in the spotlight ([20 hours ago](https://www.bbc.com/news/articles/cx21p7e4zego?at_medium=RSS&at_campaign=rss))
+- Police hunt as man seriously injured in attack ([11 hours ago](https://www.bbc.com/news/articles/cd7p2yexj2yo?at_medium=RSS&at_campaign=rss))
+- Speed watch groups to end as 20mph rollout planned ([14 hours ago](https://www.bbc.com/news/articles/c3v2zw322n5o?at_medium=RSS&at_campaign=rss))
+- Historic lido could reopen for six weeks ([15 hours ago](https://www.bbc.com/news/articles/cvgz9qy5zyno?at_medium=RSS&at_campaign=rss))
+- Hospital under investigation over abuse concerns ([22 hours ago](https://www.bbc.com/news/articles/czd7dm0nl5no?at_medium=RSS&at_campaign=rss))
+- Rivals filming puts West towns firmly in the spotlight ([22 hours ago](https://www.bbc.com/news/articles/cx21p7e4zego?at_medium=RSS&at_campaign=rss))
 - Hopes £1.5m cash boost could revive stalled scheme ([1 days ago](https://www.bbc.com/news/articles/ce3pj0xny3yo?at_medium=RSS&at_campaign=rss))
 - Man due to be sentenced following investigation ([1 days ago](https://gloucesternewscentre.co.uk/man-due-to-be-sentenced-following-investigation/))
 - Bereaved mum claims PM 'ignoring' meeting request ([1 days ago](https://www.bbc.com/news/articles/cwy23j4z23do?at_medium=RSS&at_campaign=rss))

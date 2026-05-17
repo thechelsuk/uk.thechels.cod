@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Thrills and spills at annual dragon boat race ([5 hours ago](https://www.bbc.com/news/articles/cn4p007d257o?at_medium=RSS&at_campaign=rss))
-- City centre £107m Forum officially open ([7 hours ago](https://www.bbc.com/news/articles/c93x11gdj5no?at_medium=RSS&at_campaign=rss))
-- Statue for designer of iconic plane's landing gear ([8 hours ago](https://www.bbc.com/news/articles/cgjpd1jd5q3o?at_medium=RSS&at_campaign=rss))
-- Couple quit jobs to start two-year cycle adventure ([14 hours ago](https://www.bbc.com/news/articles/cp8pz27le6no?at_medium=RSS&at_campaign=rss))
-- In Pictures: Blessed beasts and city's race day ([14 hours ago](https://www.bbc.com/news/articles/c0e2p8prxrjo?at_medium=RSS&at_campaign=rss))
+- Thrills and spills at annual dragon boat race ([7 hours ago](https://www.bbc.com/news/articles/cn4p007d257o?at_medium=RSS&at_campaign=rss))
+- City centre £107m Forum officially open ([9 hours ago](https://www.bbc.com/news/articles/c93x11gdj5no?at_medium=RSS&at_campaign=rss))
+- Statue for designer of iconic plane's landing gear ([10 hours ago](https://www.bbc.com/news/articles/cgjpd1jd5q3o?at_medium=RSS&at_campaign=rss))
+- Couple quit jobs to start two-year cycle adventure ([16 hours ago](https://www.bbc.com/news/articles/cp8pz27le6no?at_medium=RSS&at_campaign=rss))
+- In Pictures: Blessed beasts and city's race day ([16 hours ago](https://www.bbc.com/news/articles/c0e2p8prxrjo?at_medium=RSS&at_campaign=rss))
 - PCC quits air support board over helicopter spend ([1 days ago](https://www.bbc.com/news/articles/ce3p2934g32o?at_medium=RSS&at_campaign=rss))
 - Botched road sign directs traffic into no-entry lane ([1 days ago](https://www.bbc.com/news/articles/cg4p293k1ryo?at_medium=RSS&at_campaign=rss))
 - Police adopt steps to help neurodiverse detainees ([1 days ago](https://www.bbc.com/news/articles/c4g4lje1w2xo?at_medium=RSS&at_campaign=rss))

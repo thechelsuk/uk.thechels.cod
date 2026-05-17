@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Couple quit jobs to start two-year cycle adventure ([1 hours ago](https://www.bbc.com/news/articles/cp8pz27le6no?at_medium=RSS&at_campaign=rss))
-- In Pictures: Blessed beasts and city's race day ([1 hours ago](https://www.bbc.com/news/articles/c0e2p8prxrjo?at_medium=RSS&at_campaign=rss))
-- PCC quits air support board over helicopter spend ([16 hours ago](https://www.bbc.com/news/articles/ce3p2934g32o?at_medium=RSS&at_campaign=rss))
-- Botched road sign directs traffic into no-entry lane ([20 hours ago](https://www.bbc.com/news/articles/cg4p293k1ryo?at_medium=RSS&at_campaign=rss))
+- Couple quit jobs to start two-year cycle adventure ([3 hours ago](https://www.bbc.com/news/articles/cp8pz27le6no?at_medium=RSS&at_campaign=rss))
+- In Pictures: Blessed beasts and city's race day ([3 hours ago](https://www.bbc.com/news/articles/c0e2p8prxrjo?at_medium=RSS&at_campaign=rss))
+- PCC quits air support board over helicopter spend ([18 hours ago](https://www.bbc.com/news/articles/ce3p2934g32o?at_medium=RSS&at_campaign=rss))
+- Botched road sign directs traffic into no-entry lane ([22 hours ago](https://www.bbc.com/news/articles/cg4p293k1ryo?at_medium=RSS&at_campaign=rss))
 - Police adopt steps to help neurodiverse detainees ([1 days ago](https://www.bbc.com/news/articles/c4g4lje1w2xo?at_medium=RSS&at_campaign=rss))
 - Thousands run city races and skunk on the loose ([1 days ago](https://www.bbc.com/news/articles/c62xnk5ewwgo?at_medium=RSS&at_campaign=rss))
 - Police hunt as man seriously injured in attack ([1 days ago](https://www.bbc.com/news/articles/cd7p2yexj2yo?at_medium=RSS&at_campaign=rss))

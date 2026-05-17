@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- PCC quits air support board over helicopter spend ([7 hours ago](https://www.bbc.com/news/articles/ce3p2934g32o?at_medium=RSS&at_campaign=rss))
-- Botched road sign directs traffic into no-entry lane ([12 hours ago](https://www.bbc.com/news/articles/cg4p293k1ryo?at_medium=RSS&at_campaign=rss))
-- Police adopt steps to help neurodiverse detainees ([16 hours ago](https://www.bbc.com/news/articles/c4g4lje1w2xo?at_medium=RSS&at_campaign=rss))
-- Thousands run city races and skunk on the loose ([16 hours ago](https://www.bbc.com/news/articles/c62xnk5ewwgo?at_medium=RSS&at_campaign=rss))
+- PCC quits air support board over helicopter spend ([10 hours ago](https://www.bbc.com/news/articles/ce3p2934g32o?at_medium=RSS&at_campaign=rss))
+- Botched road sign directs traffic into no-entry lane ([14 hours ago](https://www.bbc.com/news/articles/cg4p293k1ryo?at_medium=RSS&at_campaign=rss))
+- Police adopt steps to help neurodiverse detainees ([19 hours ago](https://www.bbc.com/news/articles/c4g4lje1w2xo?at_medium=RSS&at_campaign=rss))
+- Thousands run city races and skunk on the loose ([19 hours ago](https://www.bbc.com/news/articles/c62xnk5ewwgo?at_medium=RSS&at_campaign=rss))
 - Police hunt as man seriously injured in attack ([1 days ago](https://www.bbc.com/news/articles/cd7p2yexj2yo?at_medium=RSS&at_campaign=rss))
 - Speed watch groups to end as 20mph rollout planned ([1 days ago](https://www.bbc.com/news/articles/c3v2zw322n5o?at_medium=RSS&at_campaign=rss))
 - Historic lido could reopen for six weeks ([1 days ago](https://www.bbc.com/news/articles/cvgz9qy5zyno?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain flattened when curb removed to make a driveway. Since cars driven over drain it has since flattened more., 17th May :- [9466636](https://www.fixmystreet.com/report/9466636)
+- Several potholes not filled at the bottom of hall road, 17th May :- [9466254](https://www.fixmystreet.com/report/9466254)
 - Fly-tipping right of way off lay-by, 17th May :- [9466159](https://www.fixmystreet.com/report/9466159)
 - Large pothole outside 101 Elmleaze, 17th May :- [9465726](https://www.fixmystreet.com/report/9465726)
 - Long pothole spanning half the road width, 17th May :- [9465654](https://www.fixmystreet.com/report/9465654)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Branchs, 16th May :- [9462051](https://www.fixmystreet.com/report/9462051)
 - Volunteer litter pick bags ready for collection, 16th May :- [9462050](https://www.fixmystreet.com/report/9462050)
 - Several pot holes close to EUROTOW, 16th May :- [9461967](https://www.fixmystreet.com/report/9461967)
-- Keep clear box outside EuroTow compound, 16th May :- [9461956](https://www.fixmystreet.com/report/9461956)
-- Fallen tree blocking path, 16th May :- [9461456](https://www.fixmystreet.com/report/9461456)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 17 May 2026
 
-- The average temperature today is 10.35˚C,
-- With highs of 12.62˚C and lows of 9.98˚C,
-- It may feel like 9.69˚C with scattered clouds
+- The average temperature today is 9.24˚C,
+- With highs of 9.75˚C and lows of 8.62˚C,
+- It may feel like 8.26˚C with scattered clouds
 - The wind speed is 2.06m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 86%
+- The pressure is 1009hPa and humidity is 89%
 - The sun will rise at 04:12 and set at 19:57
 
 <!-- weather_marker ends -->

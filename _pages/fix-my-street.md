@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly-tipping right of way off lay-by, 17th May :- [9466159](https://www.fixmystreet.com/report/9466159)
+- Large pothole outside 101 Elmleaze, 17th May :- [9465726](https://www.fixmystreet.com/report/9465726)
+- Long pothole spanning half the road width, 17th May :- [9465654](https://www.fixmystreet.com/report/9465654)
 - Drop kerbs unusable, 17th May :- [9464305](https://www.fixmystreet.com/report/9464305)
 - Bin overflowing, 17th May :- [9464100](https://www.fixmystreet.com/report/9464100)
 - Large tree dropping branches into bus stop, 17th May :- [9464053](https://www.fixmystreet.com/report/9464053)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Several pot holes close to EUROTOW, 16th May :- [9461967](https://www.fixmystreet.com/report/9461967)
 - Keep clear box outside EuroTow compound, 16th May :- [9461956](https://www.fixmystreet.com/report/9461956)
 - Fallen tree blocking path, 16th May :- [9461456](https://www.fixmystreet.com/report/9461456)
-- Road sign left, 16th May :- [9460788](https://www.fixmystreet.com/report/9460788)
-- Tarmac gone, 16th May :- [9460715](https://www.fixmystreet.com/report/9460715)
-- Kerb damaged sharp edge damaged tyre, 16th May :- [9460650](https://www.fixmystreet.com/report/9460650)
 
 <!-- fix_marker ends -->

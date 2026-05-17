@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drop kerbs unusable, 17th May :- [9464305](https://www.fixmystreet.com/report/9464305)
+- Bin overflowing, 17th May :- [9464100](https://www.fixmystreet.com/report/9464100)
+- Large tree dropping branches into bus stop, 17th May :- [9464053](https://www.fixmystreet.com/report/9464053)
 - Outside 75 Byron road and opposite, 17th May :- [9463534](https://www.fixmystreet.com/report/9463534)
 - Furniture dumped in layby, 16th May :- [9463360](https://www.fixmystreet.com/report/9463360)
 - Potholes, 16th May :- [9462704](https://www.fixmystreet.com/report/9462704)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Road sign left, 16th May :- [9460788](https://www.fixmystreet.com/report/9460788)
 - Tarmac gone, 16th May :- [9460715](https://www.fixmystreet.com/report/9460715)
 - Kerb damaged sharp edge damaged tyre, 16th May :- [9460650](https://www.fixmystreet.com/report/9460650)
-- Road is really difficult to cycle and drive, 15th May :- [9460085](https://www.fixmystreet.com/report/9460085)
-- URGENT: Roadworks barriers illegally removed, traffic driving under dangerous hanging tree — Ref: EY102GH19010000041919-01, 15th May :- [9459908](https://www.fixmystreet.com/report/9459908)
-- Loose manhole, 15th May :- [9459878](https://www.fixmystreet.com/report/9459878)
 
 <!-- fix_marker ends -->

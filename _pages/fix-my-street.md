@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside 75 Byron road and opposite, 17th May :- [9463534](https://www.fixmystreet.com/report/9463534)
 - Furniture dumped in layby, 16th May :- [9463360](https://www.fixmystreet.com/report/9463360)
 - Potholes, 16th May :- [9462704](https://www.fixmystreet.com/report/9462704)
 - A pothole in road problem, 16th May :- [9462691](https://www.fixmystreet.com/report/9462691)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Road is really difficult to cycle and drive, 15th May :- [9460085](https://www.fixmystreet.com/report/9460085)
 - URGENT: Roadworks barriers illegally removed, traffic driving under dangerous hanging tree — Ref: EY102GH19010000041919-01, 15th May :- [9459908](https://www.fixmystreet.com/report/9459908)
 - Loose manhole, 15th May :- [9459878](https://www.fixmystreet.com/report/9459878)
-- Manhole rattles, 15th May :- [9459865](https://www.fixmystreet.com/report/9459865)
 
 <!-- fix_marker ends -->

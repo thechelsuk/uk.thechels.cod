@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sydenham Rd North tree problem., 18th May :- [9473080](https://www.fixmystreet.com/report/9473080)
+- Barriers have been there for months., 18th May :- [9473060](https://www.fixmystreet.com/report/9473060)
+- 2 way signals in use however no sign of any work being done and website sugests it will be finished by Friday 15th may., 18th May :- [9472946](https://www.fixmystreet.com/report/9472946)
 - Car Front Bumper on Grass Verge, 18th May :- [9472503](https://www.fixmystreet.com/report/9472503)
 - Inappropriate van parking, 18th May :- [9472485](https://www.fixmystreet.com/report/9472485)
 - Pothole outside 19 Ravensgate Road, 18th May :- [9472159](https://www.fixmystreet.com/report/9472159)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - The drain of two and others in whole carpark blocked some fill of mud and damaged, 18th May :- [9471241](https://www.fixmystreet.com/report/9471241)
 - Hazard-prone Overgrown Tree, 18th May :- [9471217](https://www.fixmystreet.com/report/9471217)
 - Dran blocked overflows in rain its stoped raining for couple of hours still blocked, 18th May :- [9471190](https://www.fixmystreet.com/report/9471190)
-- TMC - Defects - Vegetation problem, 18th May :- [9471090](https://www.fixmystreet.com/report/9471090)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9471086](https://www.fixmystreet.com/report/9471086)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9471084](https://www.fixmystreet.com/report/9471084)
 
 <!-- fix_marker ends -->

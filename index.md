@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 17 May 2026
+## On Monday, 18 May 2026
 
-- The average temperature today is 7.93˚C,
-- With highs of 8.31˚C and lows of 7.6˚C,
-- It may feel like 7.93˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 90%
+- The average temperature today is 8.2˚C,
+- With highs of 8.86˚C and lows of 7.62˚C,
+- It may feel like 7.79˚C with overcast clouds
+- The wind speed is 1.34m/s and visibility is 8434m
+- The pressure is 1009hPa and humidity is 92%
 - The sun will rise at 04:10 and set at 19:58
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 17 days since the last change (2026-04-30)
+- It has been 18 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->

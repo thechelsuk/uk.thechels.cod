@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole outside 19 Ravensgate Road, 18th May :- [9472159](https://www.fixmystreet.com/report/9472159)
+- Metal cover in road not finished correctly when road resurface cause rapid deterioration of new surface., 18th May :- [9472145](https://www.fixmystreet.com/report/9472145)
+- Flooding outside 146/144 brooklyn Road Cheltenham, 18th May :- [9472080](https://www.fixmystreet.com/report/9472080)
+- Road edges very dirty and gravelly, 18th May :- [9472049](https://www.fixmystreet.com/report/9472049)
+- Multiple potholes now merge into one, 18th May :- [9471987](https://www.fixmystreet.com/report/9471987)
 - 10 inch pothole in parking bay at end of Millbrook Gardens, 18th May :- [9471794](https://www.fixmystreet.com/report/9471794)
 - Overhanging tree outside 188 Gloucester road Cheltenham, 18th May :- [9471591](https://www.fixmystreet.com/report/9471591)
 - Tree and weed roots affecting my fence, 18th May :- [9471415](https://www.fixmystreet.com/report/9471415)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 18th May :- [9471084](https://www.fixmystreet.com/report/9471084)
 - TMC - Defects -CW6 Potholes  problem, 18th May :- [9471083](https://www.fixmystreet.com/report/9471083)
 - Tree is damaged problem, 18th May :- [9471079](https://www.fixmystreet.com/report/9471079)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9471082](https://www.fixmystreet.com/report/9471082)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9471081](https://www.fixmystreet.com/report/9471081)
-- Upcut grass verge, 18th May :- [9470799](https://www.fixmystreet.com/report/9470799)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9470862](https://www.fixmystreet.com/report/9470862)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9470858](https://www.fixmystreet.com/report/9470858)
 
 <!-- fix_marker ends -->

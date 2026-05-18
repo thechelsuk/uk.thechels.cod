@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 10 inch pothole in parking bay at end of Millbrook Gardens, 18th May :- [9471794](https://www.fixmystreet.com/report/9471794)
+- Overhanging tree outside 188 Gloucester road Cheltenham, 18th May :- [9471591](https://www.fixmystreet.com/report/9471591)
+- Tree and weed roots affecting my fence, 18th May :- [9471415](https://www.fixmystreet.com/report/9471415)
+- TMC - Defects - Other FW6  Surface problem, 18th May :- [9471529](https://www.fixmystreet.com/report/9471529)
+- TMC - Defects - Other FW6  Surface problem, 18th May :- [9471528](https://www.fixmystreet.com/report/9471528)
+- TMC - Defects - Other FW6  Surface problem, 18th May :- [9471527](https://www.fixmystreet.com/report/9471527)
+- TMC - Defects -CW6 Potholes  problem, 18th May :- [9471322](https://www.fixmystreet.com/report/9471322)
+- The drain of two and others in whole carpark blocked some fill of mud and damaged, 18th May :- [9471241](https://www.fixmystreet.com/report/9471241)
+- Hazard-prone Overgrown Tree, 18th May :- [9471217](https://www.fixmystreet.com/report/9471217)
+- Dran blocked overflows in rain its stoped raining for couple of hours still blocked, 18th May :- [9471190](https://www.fixmystreet.com/report/9471190)
 - TMC - Defects - Vegetation problem, 18th May :- [9471090](https://www.fixmystreet.com/report/9471090)
 - TMC - Defects -CW6 Potholes  problem, 18th May :- [9471086](https://www.fixmystreet.com/report/9471086)
 - TMC - Defects -CW6 Potholes  problem, 18th May :- [9471084](https://www.fixmystreet.com/report/9471084)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Upcut grass verge, 18th May :- [9470799](https://www.fixmystreet.com/report/9470799)
 - TMC - Defects -CW6 Potholes  problem, 18th May :- [9470862](https://www.fixmystreet.com/report/9470862)
 - TMC - Defects -CW6 Potholes  problem, 18th May :- [9470858](https://www.fixmystreet.com/report/9470858)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9470859](https://www.fixmystreet.com/report/9470859)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9470857](https://www.fixmystreet.com/report/9470857)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9470860](https://www.fixmystreet.com/report/9470860)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9470861](https://www.fixmystreet.com/report/9470861)
-- There are some 4-6 potholes in close proximity, the largest seems to have a whote pait mark but it's obviously very old and worn. The largest pothole is very large, probably qualifies as tennis ball seep but it's more the fact that the spacing of the potholes is such that only a 4x4 can pass with any safety, 18th May :- [9470755](https://www.fixmystreet.com/report/9470755)
-- Work finished and cones still out for single lane, 18th May :- [9470733](https://www.fixmystreet.com/report/9470733)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9470856](https://www.fixmystreet.com/report/9470856)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9470853](https://www.fixmystreet.com/report/9470853)
-- Very poor repair to the road with a long stretch of raised surface of the infilling., 18th May :- [9470700](https://www.fixmystreet.com/report/9470700)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9470852](https://www.fixmystreet.com/report/9470852)
 
 <!-- fix_marker ends -->

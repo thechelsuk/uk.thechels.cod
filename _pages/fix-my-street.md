@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Car Front Bumper on Grass Verge, 18th May :- [9472503](https://www.fixmystreet.com/report/9472503)
+- Inappropriate van parking, 18th May :- [9472485](https://www.fixmystreet.com/report/9472485)
 - Pothole outside 19 Ravensgate Road, 18th May :- [9472159](https://www.fixmystreet.com/report/9472159)
 - Metal cover in road not finished correctly when road resurface cause rapid deterioration of new surface., 18th May :- [9472145](https://www.fixmystreet.com/report/9472145)
 - Flooding outside 146/144 brooklyn Road Cheltenham, 18th May :- [9472080](https://www.fixmystreet.com/report/9472080)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 18th May :- [9471090](https://www.fixmystreet.com/report/9471090)
 - TMC - Defects -CW6 Potholes  problem, 18th May :- [9471086](https://www.fixmystreet.com/report/9471086)
 - TMC - Defects -CW6 Potholes  problem, 18th May :- [9471084](https://www.fixmystreet.com/report/9471084)
-- TMC - Defects -CW6 Potholes  problem, 18th May :- [9471083](https://www.fixmystreet.com/report/9471083)
-- Tree is damaged problem, 18th May :- [9471079](https://www.fixmystreet.com/report/9471079)
 
 <!-- fix_marker ends -->

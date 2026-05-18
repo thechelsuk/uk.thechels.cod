@@ -11,10 +11,10 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 18 May 2026
 
-- The average temperature today is 11.44˚C,
-- With highs of 12.14˚C and lows of 11.09˚C,
-- It may feel like 10.91˚C with light rain
-- The wind speed is 3.6m/s and visibility is 10000m
+- The average temperature today is 10.95˚C,
+- With highs of 11.51˚C and lows of 10.75˚C,
+- It may feel like 10.37˚C with broken clouds
+- The wind speed is 4.12m/s and visibility is 10000m
 - The pressure is 1010hPa and humidity is 87%
 - The sun will rise at 04:10 and set at 19:58
 

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -FW6 Potholes problem, 18th May :- [9467272](https://www.fixmystreet.com/report/9467272)
+- TMC - Defects -FW6 Potholes problem, 18th May :- [9467271](https://www.fixmystreet.com/report/9467271)
 - Drain flattened when curb removed to make a driveway. Since cars driven over drain it has since flattened more., 17th May :- [9466636](https://www.fixmystreet.com/report/9466636)
 - Several potholes not filled at the bottom of hall road, 17th May :- [9466254](https://www.fixmystreet.com/report/9466254)
 - Fly-tipping right of way off lay-by, 17th May :- [9466159](https://www.fixmystreet.com/report/9466159)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - There are a number of potholes in Windsor street, a number of then, 16th May :- [9452801](https://www.fixmystreet.com/report/9452801)
 - Motorbikes misusing restricted byway, 16th May :- [9462162](https://www.fixmystreet.com/report/9462162)
 - Branchs, 16th May :- [9462051](https://www.fixmystreet.com/report/9462051)
-- Volunteer litter pick bags ready for collection, 16th May :- [9462050](https://www.fixmystreet.com/report/9462050)
-- Several pot holes close to EUROTOW, 16th May :- [9461967](https://www.fixmystreet.com/report/9461967)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Wait time on toucan crossing is too long, 19th May :- [9478247](https://www.fixmystreet.com/report/9478247)
+- Rubbish not being collected regularly, 19th May :- [9478097](https://www.fixmystreet.com/report/9478097)
+- Large pot holes on road near caravan site, 19th May :- [9478096](https://www.fixmystreet.com/report/9478096)
+- Fly tipped sofa has joined the dumped suitcase from Saturday., 19th May :- [9478054](https://www.fixmystreet.com/report/9478054)
+- Sign Frame and 2 x Sandbags left on island, 19th May :- [9477922](https://www.fixmystreet.com/report/9477922)
+- Faded old signage, 19th May :- [9477821](https://www.fixmystreet.com/report/9477821)
 - Manhole erupting water, 19th May :- [9477786](https://www.fixmystreet.com/report/9477786)
 - Tree is damaged problem, 19th May :- [9477611](https://www.fixmystreet.com/report/9477611)
 - Overflowing manhole during heavy rain, 19th May :- [9477425](https://www.fixmystreet.com/report/9477425)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 19th May :- [9476732](https://www.fixmystreet.com/report/9476732)
 - TMC - Defects -CW6 Potholes  problem, 19th May :- [9476748](https://www.fixmystreet.com/report/9476748)
 - TMC - Defects -CW6 Potholes  problem, 19th May :- [9476747](https://www.fixmystreet.com/report/9476747)
-- Pothole at junction that not fixed properly, 19th May :- [9476597](https://www.fixmystreet.com/report/9476597)
-- TMC - Defects - Vegetation problem, 19th May :- [9476534](https://www.fixmystreet.com/report/9476534)
-- TMC - Defects -other CW10 problem, 19th May :- [9476530](https://www.fixmystreet.com/report/9476530)
-- TMC - Defects -other CW10 problem, 19th May :- [9476529](https://www.fixmystreet.com/report/9476529)
-- TMC - Defects - Vegetation problem, 19th May :- [9476525](https://www.fixmystreet.com/report/9476525)
-- TMC - Defects - Vegetation problem, 19th May :- [9476287](https://www.fixmystreet.com/report/9476287)
 
 <!-- fix_marker ends -->

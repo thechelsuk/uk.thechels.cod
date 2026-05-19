@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -15,184 +15,184 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
-<title>TMC - Defects -other CW6 problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9475001</link>
-<description>15MDB &amp;#10;CWED &amp;#10;4000 x 400 x 50mm&amp;#10;MARKED AS NUMBER 25 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475001&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9475001</guid>
-<pubDate>Tue, 19 May 2026 11:00:49 +0100</pubDate>
-<georss:point>51.9114395 -1.95754819999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9475000</link>
-<description>15MDB &amp;#10;CWED &amp;#10;700 x 300 x 44mm&amp;#10;MARKED AS NUMBER 24 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475000&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9475000</guid>
-<pubDate>Tue, 19 May 2026 11:00:39 +0100</pubDate>
-<georss:point>51.9109248 -1.9607874</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474999</link>
-<description>15MDB &amp;#10;CWED &amp;#10;4000 x 500 x 60mm&amp;#10;MARKED AS NUMBER 23 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474999&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474999</guid>
-<pubDate>Tue, 19 May 2026 11:00:24 +0100</pubDate>
-<georss:point>51.9110766 -1.96267210000001</georss:point>
+<title>TMC - Defects - Vegetation problem, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475857</link>
+<description>3 way  stop and go  28 day  please cut back overgrown hedge and brambles and vegetation approx 40 metres x3 meters (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475857&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475857</guid>
+<pubDate>Tue, 19 May 2026 12:12:45 +0100</pubDate>
+<georss:point>51.9150706 -2.06470730000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474995</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;1100 x 500 x 50mm&amp;#10;MARKED AS NUMBER 21 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474995&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475852</link>
+<description>2 way stop and go 28 day  carriage way pothole approx 400x400x40mm tarmac patch plus x2 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475852&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474995</guid>
-<pubDate>Tue, 19 May 2026 11:00:09 +0100</pubDate>
-<georss:point>51.9111716999999 -1.96306</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474994</link>
-<description>15MDB &amp;#10;CWED &amp;#10;3000 x 400 x 42mm&amp;#10;MARKED AS NUMBER 21 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474994&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474994</guid>
-<pubDate>Tue, 19 May 2026 10:59:50 +0100</pubDate>
-<georss:point>51.9112305 -1.963299</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475852</guid>
+<pubDate>Tue, 19 May 2026 12:09:56 +0100</pubDate>
+<georss:point>51.9142884 -2.0560133</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474993</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;800 x 500 x 44mm&amp;#10;MARKED AS NUMBER 29 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474993&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475851</link>
+<description>2 way stop and go 28 day  carriage way pothole approx 400x300x40mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475851&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474993</guid>
-<pubDate>Tue, 19 May 2026 10:58:55 +0100</pubDate>
-<georss:point>51.9112801 -1.96366900000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475851</guid>
+<pubDate>Tue, 19 May 2026 12:09:56 +0100</pubDate>
+<georss:point>51.9142841 -2.055967</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474992</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;400 x 400 x 42mm&amp;#10;MARKED AS NUMBER 19 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474992&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475850</link>
+<description>2 way stop and go 28 day  carriage way pothole approx 500x500x40mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475850&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474992</guid>
-<pubDate>Tue, 19 May 2026 10:58:43 +0100</pubDate>
-<georss:point>51.9112897 -1.9637702</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475850</guid>
+<pubDate>Tue, 19 May 2026 12:09:56 +0100</pubDate>
+<georss:point>51.9142974 -2.05583100000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474990</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;800 x 500 x 65mm&amp;#10;MARKED AS NUMBER 18 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474990&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475849</link>
+<description>2 way stop and go 28 day  carriage way pothole approx 500x400x40mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475849&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474990</guid>
-<pubDate>Tue, 19 May 2026 10:58:33 +0100</pubDate>
-<georss:point>51.9113064 -1.96375049999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475849</guid>
+<pubDate>Tue, 19 May 2026 12:09:56 +0100</pubDate>
+<georss:point>51.9142946 -2.05319870000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474989</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;600 x 400 x 42mm&amp;#10;MARKED AS NUMBER 17 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474989&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475848</link>
+<description>2 way stop and go 28 day  carriage way pothole 800x300x50mm tarmac patch (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475848&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474989</guid>
-<pubDate>Tue, 19 May 2026 10:58:24 +0100</pubDate>
-<georss:point>51.9113405 -1.96388779999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475848</guid>
+<pubDate>Tue, 19 May 2026 12:09:56 +0100</pubDate>
+<georss:point>51.9140342154176 -2.0519631126144</georss:point>
+</item>
+<item>
+<title>Branches falling over car park, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475582</link>
+<description>Tree branches overhanging fence of left hand side of car park of St Patrick&amp;#39;s Church, St Patrick&amp;#39;s Court, GL3 4NT&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9475582.0.jpeg?cb64f8d0&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Saint Patrick&#39;s Court, Brockworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475582&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Trees</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475582</guid>
+<pubDate>Tue, 19 May 2026 12:02:32 +0100</pubDate>
+<georss:point>51.845008 -2.15753</georss:point>
+</item>
+<item>
+<title>Green or amber traffic light is not working problem, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475829</link>
+<description>05/50/26 email rcvd (attached) detailing perceived timing/sequence issues with signals&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475829&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Green or amber traffic light is not working</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475829</guid>
+<pubDate>Tue, 19 May 2026 12:00:22 +0100</pubDate>
+<georss:point>51.888094 -2.052425</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Road Markings problem, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475846</link>
+<description>FADED ROAD MARKINGS PLEASE REPAINT &amp;#10;9 X DOUBLE DOTS &amp;#10;12 X SINGLE DOTS &amp;#10;1 X CENTRE LINE &amp;#10;STOP AND GO (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475846&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Road Markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475846</guid>
+<pubDate>Tue, 19 May 2026 11:52:00 +0100</pubDate>
+<georss:point>51.872116439342 -1.97113266033975</georss:point>
+</item>
+<item>
+<title>Tree trunk over grown, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475459</link>
+<description>Tree outside house overgrown at base and blocking view of road from driveway making it dangerous to exit.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 8, Sydenham Road North, Ewens Farm, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475459&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Trees</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475459</guid>
+<pubDate>Tue, 19 May 2026 11:46:58 +0100</pubDate>
+<georss:point>51.897106 -2.06305</georss:point>
+</item>
+<item>
+<title>TMC - Defects -FW6 Potholes problem, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475837</link>
+<description>Give and take  28 days  footway pothole  footway  closure 250x100x70mm stats required number 1 (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475837&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475837</guid>
+<pubDate>Tue, 19 May 2026 11:46:31 +0100</pubDate>
+<georss:point>51.9151681010368 -2.06546779896331</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474988</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;400 x 400 x 42mm&amp;#10;MARKED AS NUMBER 16 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474988&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475835</link>
+<description>CWPH &amp;#10;5000 x 400 x 42mm&amp;#10;MARKED AS NUMBER 1&amp;#10;3 X WAY STOP AND GO (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475835&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474988</guid>
-<pubDate>Tue, 19 May 2026 10:58:14 +0100</pubDate>
-<georss:point>51.9113772 -1.96409489999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Signs &amp; Street Furniture problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474987</link>
-<description>NWD GIVE AND TAKE  PLEASE BRING X4 SMALL BARRIERS AND X4 SANDBAGS PLACE AROUND DAMAGED LOSE BT COVER  TO MAKE SAFE (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474987&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Signs &amp; Street Furniture</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474987</guid>
-<pubDate>Tue, 19 May 2026 10:58:10 +0100</pubDate>
-<georss:point>51.9055086 -2.04877979999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474986</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;800 x 500 x 42mm&amp;#10;MARKED AS NUMBER 15 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474986&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474986</guid>
-<pubDate>Tue, 19 May 2026 10:58:02 +0100</pubDate>
-<georss:point>51.9113766 -1.9642024</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474985</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;800 x 400 x 42mm&amp;#10;MARKED AS NUMBER 14 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474985&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474985</guid>
-<pubDate>Tue, 19 May 2026 10:57:33 +0100</pubDate>
-<georss:point>51.9113924 -1.96420210000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475835</guid>
+<pubDate>Tue, 19 May 2026 11:38:55 +0100</pubDate>
+<georss:point>51.8739999 -1.96735880000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474981</link>
-<description>15MDB &amp;#10;CWED &amp;#10;1000 x 500 x 45mm&amp;#10;MARKED AS NUMBER 13 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474981&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475311</link>
+<description>15MDB &amp;#10;CWED &amp;#10;1200 x 600 x 44mm&amp;#10;MARKED AS NUMBER 9 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475311&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474981</guid>
-<pubDate>Tue, 19 May 2026 10:50:51 +0100</pubDate>
-<georss:point>51.9113784 -1.96424509999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474978</link>
-<description>15MDB &amp;#10;CWPH &amp;#10;800 x 300 x 42mm&amp;#10;MARKED AS NUMBER 12 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474978&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474978</guid>
-<pubDate>Tue, 19 May 2026 10:40:47 +0100</pubDate>
-<georss:point>51.9113878 -1.9642604</georss:point>
-</item>
-<item>
-<title>Tree is damaged problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474971</link>
-<description>Tree keeps dropping branches and she thinks it needs checking to see if there is any deadwood etc in the tree&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474971&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474971</guid>
-<pubDate>Tue, 19 May 2026 10:39:55 +0100</pubDate>
-<georss:point>51.89099 -2.115663</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475311</guid>
+<pubDate>Tue, 19 May 2026 11:12:41 +0100</pubDate>
+<georss:point>51.9059611 -1.98357689999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474977</link>
-<description>15MDB &amp;#10;CWED &amp;#10;2500 x 1000 x 55mm&amp;#10;MARKED AS NUMBER 11 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474977&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475310</link>
+<description>15MDB &amp;#10;CWED &amp;#10;1000 x 400 x 42mm&amp;#10;MARKED AS NUMBER 8 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475310&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474977</guid>
-<pubDate>Tue, 19 May 2026 10:38:16 +0100</pubDate>
-<georss:point>51.9114065 -1.96421329999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475310</guid>
+<pubDate>Tue, 19 May 2026 11:11:35 +0100</pubDate>
+<georss:point>51.9072191 -1.98518659999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474744</link>
-<description>15MDB &amp;#10;OVERGROWN HEDGE OBSTRUCTING FINGER POST PLEASE CUT BACK TO ENSURE VISIBILITY (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474744&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475309</link>
+<description>Cut back overgrown hedge 5mtrs&amp;#10;Give and take TM &amp;#10;Opposite Bus shelter (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475309&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474744</guid>
-<pubDate>Tue, 19 May 2026 10:09:54 +0100</pubDate>
-<georss:point>51.912271 -1.95029130000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475309</guid>
+<pubDate>Tue, 19 May 2026 11:11:22 +0100</pubDate>
+<georss:point>51.8469288 -2.19044430000001</georss:point>
 </item>
 <item>
-<title>General state of disrepair around speed bumps, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474548</link>
-<description>The surface around both speed bumps is in a terrible state and is dangerous to road users - people are swerving to try and avoid the worst bits and could caouse an accident.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Brookfield Road, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474548&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474548</guid>
-<pubDate>Tue, 19 May 2026 10:05:24 +0100</pubDate>
-<georss:point>51.878463 -2.161576</georss:point>
+<title>TMC - Defects - Vegetation problem, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475307</link>
+<description>Cut back overhanging hedge 16mtrs&amp;#10;Give and take TM &amp;#10;At lamp column 23 (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475307&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475307</guid>
+<pubDate>Tue, 19 May 2026 11:09:24 +0100</pubDate>
+<georss:point>51.8469762 -2.19024900000001</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 19th May</title>
-<link>https://www.fixmystreet.com/report/9474739</link>
-<description>15MDB &amp;#10;CWED &amp;#10;1000 x 500 x 70mm&amp;#10;MARKED AS NUMBER 10 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9474739&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9475306</link>
+<description>15MDB &amp;#10;CWED &amp;#10;1000 x 500 x 80mm&amp;#10;MARKED AS NUMBER 7 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475306&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9474739</guid>
-<pubDate>Tue, 19 May 2026 10:01:56 +0100</pubDate>
-<georss:point>51.9175466 -1.9306899</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475306</guid>
+<pubDate>Tue, 19 May 2026 11:09:22 +0100</pubDate>
+<georss:point>51.9079217 -1.98567929999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475304</link>
+<description>15MDB &amp;#10;CWPH &amp;#10;1200 x 500 x 70mm&amp;#10;MARKED AS NUMBER 5 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475304&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475304</guid>
+<pubDate>Tue, 19 May 2026 11:08:23 +0100</pubDate>
+<georss:point>51.9079117 -1.98564249999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475302</link>
+<description>15MDB &amp;#10;CWED &amp;#10;1500 x 400 x 42mm&amp;#10;MARKED AS NUMBER 4 (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475302&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475302</guid>
+<pubDate>Tue, 19 May 2026 11:06:26 +0100</pubDate>
+<georss:point>51.9084527 -1.9859276</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 19th May</title>
+<link>https://www.fixmystreet.com/report/9475301</link>
+<description>15MDB &amp;#10;CWPH &amp;#10;1300 x 400 x 44mm&amp;#10;MARKED AS NUMBER 3 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9475301&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9475301</guid>
+<pubDate>Tue, 19 May 2026 11:05:44 +0100</pubDate>
+<georss:point>51.9084985 -1.9859912</georss:point>
 </item>
 </channel>
 </rss>

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole around edge of street drain, outside blenheim court, 19th May :- [9479005](https://www.fixmystreet.com/report/9479005)
+- Grass on the roundabout is too high, you can't see motorbikes!, 19th May :- [9478893](https://www.fixmystreet.com/report/9478893)
+- The tarmac surrounding a large inspection chamber cover appears to be sinking, 19th May :- [9478558](https://www.fixmystreet.com/report/9478558)
 - Wait time on toucan crossing is too long, 19th May :- [9478247](https://www.fixmystreet.com/report/9478247)
 - Rubbish not being collected regularly, 19th May :- [9478097](https://www.fixmystreet.com/report/9478097)
 - Large pot holes on road near caravan site, 19th May :- [9478096](https://www.fixmystreet.com/report/9478096)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 19th May :- [9476965](https://www.fixmystreet.com/report/9476965)
 - Gate post out of aline so gate can't be safely shut and closed, 19th May :- [9476774](https://www.fixmystreet.com/report/9476774)
 - TMC - Defects - Vegetation problem, 19th May :- [9476963](https://www.fixmystreet.com/report/9476963)
-- Tree is damaged problem, 19th May :- [9476732](https://www.fixmystreet.com/report/9476732)
-- TMC - Defects -CW6 Potholes  problem, 19th May :- [9476748](https://www.fixmystreet.com/report/9476748)
-- TMC - Defects -CW6 Potholes  problem, 19th May :- [9476747](https://www.fixmystreet.com/report/9476747)
 
 <!-- fix_marker ends -->

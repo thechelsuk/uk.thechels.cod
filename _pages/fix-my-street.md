@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 19th May :- [9473912](https://www.fixmystreet.com/report/9473912)
+- TMC - Defects - Other problem, 19th May :- [9473911](https://www.fixmystreet.com/report/9473911)
 - End of road leading to 3 footpaths, very uneven with grass growing over. Damage caused by stream bursting banks., 18th May :- [9473180](https://www.fixmystreet.com/report/9473180)
 - Sydenham Rd North tree problem., 18th May :- [9473080](https://www.fixmystreet.com/report/9473080)
 - Barriers have been there for months., 18th May :- [9473060](https://www.fixmystreet.com/report/9473060)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 18th May :- [9471528](https://www.fixmystreet.com/report/9471528)
 - TMC - Defects - Other FW6  Surface problem, 18th May :- [9471527](https://www.fixmystreet.com/report/9471527)
 - TMC - Defects -CW6 Potholes  problem, 18th May :- [9471322](https://www.fixmystreet.com/report/9471322)
-- The drain of two and others in whole carpark blocked some fill of mud and damaged, 18th May :- [9471241](https://www.fixmystreet.com/report/9471241)
-- Hazard-prone Overgrown Tree, 18th May :- [9471217](https://www.fixmystreet.com/report/9471217)
 
 <!-- fix_marker ends -->

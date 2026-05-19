@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 19 May 2026
 
-- The average temperature today is 14.23˚C,
-- With highs of 15.95˚C and lows of 13.71˚C,
-- It may feel like 13.88˚C with light intensity shower rain
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 83%
+- The average temperature today is 12.22˚C,
+- With highs of 13.17˚C and lows of 12.04˚C,
+- It may feel like 11.9˚C with broken clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 92%
 - The sun will rise at 04:09 and set at 20:00
 
 <!-- weather_marker ends -->

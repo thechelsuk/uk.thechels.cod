@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree on the grass verge has branches very low over the pavement. Possibly splitting and likely to fall, 20th May :- [9483621](https://www.fixmystreet.com/report/9483621)
+- Tree fallen, blocking the footway, 20th May :- [9483520](https://www.fixmystreet.com/report/9483520)
+- Double mattress now in underpass. 18.5.26, 20th May :- [9483441](https://www.fixmystreet.com/report/9483441)
 - Multiple potholes along centre of first couple hundred feet of Westbury Road - reported numerous times yet no-one ever fixes - why do I pay council tx?, 20th May :- [9483317](https://www.fixmystreet.com/report/9483317)
 - Pedestrian pathway, 20th May :- [9482875](https://www.fixmystreet.com/report/9482875)
 - TMC - Defects - Road Markings problem, 20th May :- [9483090](https://www.fixmystreet.com/report/9483090)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 20th May :- [9482259](https://www.fixmystreet.com/report/9482259)
 - TMC - Defects -CW6 Potholes  problem, 20th May :- [9482251](https://www.fixmystreet.com/report/9482251)
 - TMC - Defects -CW6 Potholes  problem, 20th May :- [9482250](https://www.fixmystreet.com/report/9482250)
-- TMC - Defects -CW10 Potholes problem, 20th May :- [9482248](https://www.fixmystreet.com/report/9482248)
-- Replacement Tree, 20th May :- [9481973](https://www.fixmystreet.com/report/9481973)
-- TMC - Defects - Other FW6  Surface problem, 20th May :- [9482025](https://www.fixmystreet.com/report/9482025)
 
 <!-- fix_marker ends -->

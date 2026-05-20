@@ -1,8 +1,8 @@
 name: Weekly newsletter
 
 on:
-  schedule:
-    - cron: '30 16 * * 5'
+#  schedule:
+#    - cron: '30 16 * * 5'
   workflow_dispatch:
 
 permissions:

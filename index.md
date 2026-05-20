@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 20 May 2026
 
-- The average temperature today is 16.15˚C,
-- With highs of 17.19˚C and lows of 15.71˚C,
-- It may feel like 15.78˚C with scattered clouds
+- The average temperature today is 15.92˚C,
+- With highs of 17.19˚C and lows of 15.39˚C,
+- It may feel like 15.63˚C with broken clouds
 - The wind speed is 6.69m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 75%
+- The pressure is 1019hPa and humidity is 79%
 - The sun will rise at 04:08 and set at 20:01
 
 <!-- weather_marker ends -->

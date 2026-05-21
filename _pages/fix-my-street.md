@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 21st May :- [9485800](https://www.fixmystreet.com/report/9485800)
+- TMC - Defects -FW6 Potholes problem, 21st May :- [9485799](https://www.fixmystreet.com/report/9485799)
+- Road marking white lines or studs problem, 21st May :- [9485608](https://www.fixmystreet.com/report/9485608)
+- Abandoned shopping trolley filled with rubbish, 21st May :- [9485362](https://www.fixmystreet.com/report/9485362)
 - Cycle path covered in debris, 20th May :- [9484645](https://www.fixmystreet.com/report/9484645)
 - Tree on the grass verge has branches very low over the pavement. Possibly splitting and likely to fall, 20th May :- [9483621](https://www.fixmystreet.com/report/9483621)
 - Tree fallen, blocking the footway, 20th May :- [9483520](https://www.fixmystreet.com/report/9483520)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large surface area damage with loose material, 20th May :- [9482468](https://www.fixmystreet.com/report/9482468)
 - Flytipping, again, 20th May :- [9482369](https://www.fixmystreet.com/report/9482369)
 - Flytipping, 20th May :- [9482330](https://www.fixmystreet.com/report/9482330)
-- Fly tipped kids ride on toy, 20th May :- [9482296](https://www.fixmystreet.com/report/9482296)
-- TMC - Defects - Other FW6  Surface problem, 20th May :- [9482475](https://www.fixmystreet.com/report/9482475)
-- TMC - Defects - Other FW6  Surface problem, 20th May :- [9482259](https://www.fixmystreet.com/report/9482259)
-- TMC - Defects -CW6 Potholes  problem, 20th May :- [9482251](https://www.fixmystreet.com/report/9482251)
 
 <!-- fix_marker ends -->

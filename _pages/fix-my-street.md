@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Damaged, broken and uneven footpaths along aeden road, 21st May :- [9489832](https://www.fixmystreet.com/report/9489832)
+- Poor repairs and missd pothole repairs on Hall Road, 21st May :- [9489814](https://www.fixmystreet.com/report/9489814)
+- Poor repairs and missd pothole repairs on Hall Road, 21st May :- [9489813](https://www.fixmystreet.com/report/9489813)
+- Both street lights are still out on the Tresmere / Burston House side of Pittville Circus., 21st May :- [9489786](https://www.fixmystreet.com/report/9489786)
 - Dead tree with disease, 21st May :- [9489265](https://www.fixmystreet.com/report/9489265)
 - A pothole in road problem, 21st May :- [9489272](https://www.fixmystreet.com/report/9489272)
 - Lowered kerb, no white line., 21st May :- [9489111](https://www.fixmystreet.com/report/9489111)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Overhanging tree, continually falling branches, 21st May :- [9487456](https://www.fixmystreet.com/report/9487456)
 - Ocado delivery van reversed into bollard, 21st May :- [9487241](https://www.fixmystreet.com/report/9487241)
 - Loads of potholes worsening on the junction, 21st May :- [9487043](https://www.fixmystreet.com/report/9487043)
-- TMC - Defects - Road Markings problem, 21st May :- [9487179](https://www.fixmystreet.com/report/9487179)
-- TMC - Defects -CW6 Potholes  problem, 21st May :- [9487177](https://www.fixmystreet.com/report/9487177)
-- TMC - Defects -CW6 Potholes  problem, 21st May :- [9487178](https://www.fixmystreet.com/report/9487178)
-- A tree with a dangerous branch overhanging my property, 21st May :- [9486722](https://www.fixmystreet.com/report/9486722)
 
 <!-- fix_marker ends -->

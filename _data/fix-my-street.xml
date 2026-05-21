@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -15,184 +15,184 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
 <item>
-<title>TMC - Defects -CW10 Potholes problem, 21st May</title>
-<link>https://www.fixmystreet.com/report/9485800</link>
-<description>CW Pothole 1300mm x 1000mm x 42mm&amp;#10;Traffic Lights TM &amp;#10;Junction with A38 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9485800&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9485800</guid>
-<pubDate>Thu, 21 May 2026 08:46:30 +0100</pubDate>
-<georss:point>51.9285725 -2.1842894</georss:point>
+<title>TMC - Defects - Other problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486686</link>
+<description>ENWD with Standard TM with fway closure please remove fallen tree debris by bus stop (Debris/Obstruction in CW)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486686&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486686</guid>
+<pubDate>Thu, 21 May 2026 10:50:25 +0100</pubDate>
+<georss:point>51.8719708 -1.9711911</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486483</link>
+<description>CW edge deterioration 700mm x 400mm x 51mm&amp;#10;Give and take TM &amp;#10;Outside number 75 (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486483&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486483</guid>
+<pubDate>Thu, 21 May 2026 10:24:28 +0100</pubDate>
+<georss:point>51.9447006 -2.0523053</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other FW6  Surface problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486473</link>
+<description>28day with Standard tm with fway closure FW edge deterioration 1150x300x35mm perm repair STATS (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486473&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486473</guid>
+<pubDate>Thu, 21 May 2026 10:22:22 +0100</pubDate>
+<georss:point>51.886566 -2.0498523</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486478</link>
+<description>28day with 2 way stop and go overgrown hedges obstructing footway approx 40.5m x 0.5m x 2.5m (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486478&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486478</guid>
+<pubDate>Thu, 21 May 2026 10:22:22 +0100</pubDate>
+<georss:point>51.8854442779967 -2.04821496253525</georss:point>
 </item>
 <item>
 <title>TMC - Defects -FW6 Potholes problem, 21st May</title>
-<link>https://www.fixmystreet.com/report/9485799</link>
-<description>ENWD with Standard TM with fway closure FW sinkhole 250x200x65mm temp repair (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9485799&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9486477</link>
+<description>28day with Standard tm with fway closure FW pothole 500x350x38mm perm repair STATS (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486477&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -FW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9485799</guid>
-<pubDate>Thu, 21 May 2026 08:42:15 +0100</pubDate>
-<georss:point>51.8862446 -2.04937440000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486477</guid>
+<pubDate>Thu, 21 May 2026 10:22:22 +0100</pubDate>
+<georss:point>51.8891734095355 -2.05456810483592</georss:point>
 </item>
 <item>
-<title>Road marking white lines or studs problem, 21st May</title>
-<link>https://www.fixmystreet.com/report/9485608</link>
-<description>Bulk Lining&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9485608&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road marking white lines or studs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9485608</guid>
-<pubDate>Thu, 21 May 2026 08:06:54 +0100</pubDate>
-<georss:point>51.875594 -2.021882</georss:point>
+<title>TMC - Defects -FW6 Potholes problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486476</link>
+<description>28day with Standard tm with fway closure FW pothole 700x700x52mm perm repair STATS (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486476&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486476</guid>
+<pubDate>Thu, 21 May 2026 10:22:22 +0100</pubDate>
+<georss:point>51.8891672 -2.0545007</georss:point>
 </item>
 <item>
-<title>Abandoned shopping trolley filled with rubbish, 21st May</title>
-<link>https://www.fixmystreet.com/report/9485362</link>
-<description>Arle Road junction of Enterprise Way,approx 2 weeks&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 42, Arle Road, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9485362&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9485362</guid>
-<pubDate>Thu, 21 May 2026 07:38:19 +0100</pubDate>
-<georss:point>51.90453 -2.094273</georss:point>
+<title>TMC - Defects - Other FW6  Surface problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486475</link>
+<description>28day with Standard tm with fway closure FW abrupt level 1250x350x27mm perm repair STATS (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486475&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other FW6  Surface</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486475</guid>
+<pubDate>Thu, 21 May 2026 10:22:22 +0100</pubDate>
+<georss:point>51.8887514 -2.05386770000001</georss:point>
 </item>
 <item>
-<title>Cycle path covered in debris, 20th May</title>
-<link>https://www.fixmystreet.com/report/9484645</link>
-<description>The cycle path between oxstalls road and elmbridge court is covered in debris on both sides of the road- broken glass and sharp stones and gravel left over from roadworks. I have had 3 punctures in 2 weeks. I use this path for commuting. Many children use it for getting to school. It urgently needs sweeping to clear the debris and make it safe for use.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 159, Cheltenham Road, Longlevens, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9484645&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9484645</guid>
-<pubDate>Wed, 20 May 2026 22:33:36 +0100</pubDate>
-<georss:point>51.875046 -2.207724</georss:point>
+<title>TMC - Defects - Kerbs and Channels problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486474</link>
+<description>28day with 2 way traffic lights lift and replace broken sunken kerb above gully 900x100x45mm STATS (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486474&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Kerbs and Channels</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486474</guid>
+<pubDate>Thu, 21 May 2026 10:22:22 +0100</pubDate>
+<georss:point>51.888753 -2.05388649999999</georss:point>
 </item>
 <item>
-<title>Tree on the grass verge has branches very low over the pavement. Possibly splitting and likely to fall, 20th May</title>
-<link>https://www.fixmystreet.com/report/9483621</link>
-<description>Tree on the verge on the left on the Cirencester Road before the left turn into Bradley Road&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Bradley Road, Ewens Farm, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9483621&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree causing damage/obstruction to pavement or road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9483621</guid>
-<pubDate>Wed, 20 May 2026 17:51:15 +0100</pubDate>
-<georss:point>51.877932 -2.054235</georss:point>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486468</link>
+<description>28day with 2 way traffic lights lift and reset sunken gully STATS (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486468&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486468</guid>
+<pubDate>Thu, 21 May 2026 10:20:18 +0100</pubDate>
+<georss:point>51.8778674 -2.00409990000001</georss:point>
 </item>
 <item>
-<title>Tree fallen, blocking the footway, 20th May</title>
-<link>https://www.fixmystreet.com/report/9483520</link>
-<description>A tree has fallen and is blocking the rather narrow footway forcing pedestrians to walk on the grass verge next to the A38&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9483520.0.jpeg?7da61030&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): A38, Down Hatherley, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9483520&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9483520</guid>
-<pubDate>Wed, 20 May 2026 17:26:28 +0100</pubDate>
-<georss:point>51.911034 -2.21249</georss:point>
-</item>
-<item>
-<title>Double mattress now in underpass. 18.5.26, 20th May</title>
-<link>https://www.fixmystreet.com/report/9483441</link>
-<description>2 mattresses dumped in underpass.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9483441.0.jpeg?e285f374&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Gloucester Road, Hatherley, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9483441&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Rubbish (refuse and recycling)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9483441</guid>
-<pubDate>Wed, 20 May 2026 17:08:11 +0100</pubDate>
-<georss:point>51.897052 -2.117499</georss:point>
-</item>
-<item>
-<title>Multiple potholes along centre of first couple hundred feet of Westbury Road - reported numerous times yet no-one ever fixes - why do I pay council tx?, 20th May</title>
-<link>https://www.fixmystreet.com/report/9483317</link>
-<description>From #2 thru #12 - down centre of street. This has been a problem for SEVERAL years - why is it not fixed yet? - Why do I pay council tax? Isn&amp;#39;t it supposed to cover this?&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 2, Westbury Road, Leckhampton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9483317&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>Pothole in centre of Bath Road opposite junction with St Phillips Street, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486352</link>
+<description>Pothole in centre of Bath Road opposite junction with St Phillips Street&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Flats 1-6, Saint Phillip&#39;s Street, Ewens Farm, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486352&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9483317</guid>
-<pubDate>Wed, 20 May 2026 16:44:09 +0100</pubDate>
-<georss:point>51.877655 -2.071985</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486352</guid>
+<pubDate>Thu, 21 May 2026 10:19:00 +0100</pubDate>
+<georss:point>51.888988 -2.079488</georss:point>
 </item>
 <item>
-<title>Pedestrian pathway, 20th May</title>
-<link>https://www.fixmystreet.com/report/9482875</link>
-<description>The pathway is in a complete and lots of tarmac cracked away , big holes. Very unsafe for pedestrians. It’s a large stretch of path about 60-70mtrs estimated.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 6, Oakfield Street, Warden Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482875&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482875</guid>
-<pubDate>Wed, 20 May 2026 15:32:25 +0100</pubDate>
-<georss:point>51.890541 -2.090115</georss:point>
+<title>Noisy manhole covers, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486351</link>
+<description>Very noisy manhole covers outside 25 gloucester st, gl54 5lx. This has gone on for months now with 2 previous &amp;#39;fixes&amp;#39; by you which have been completely ineffective. Within 2 hours the problem returns. In fact louder now than ever. Please fix my street, like you promise. To bodge the fix is a false economy. We pay for this service, please make our neighbourhood better. thanks.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Gloucester Street, Winchcombe, Winchcombe, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486351&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Loose/rattling cover/ironwork</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486351</guid>
+<pubDate>Thu, 21 May 2026 10:18:42 +0100</pubDate>
+<georss:point>51.951964 -1.970722</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Road Markings problem, 20th May</title>
-<link>https://www.fixmystreet.com/report/9483090</link>
-<description>Faded road markings. Please refresh. &amp;#10;29x 600x200 double dashes&amp;#10;12 x 600x100 single dashes &amp;#10;2 x 2m centre lines&amp;#10;Road closure (Faded Road Markings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9483090&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Road Markings</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9483090</guid>
-<pubDate>Wed, 20 May 2026 15:32:08 +0100</pubDate>
-<georss:point>51.9019891857926 -2.20534142154935</georss:point>
+<title>Post or sign leaning slightly (less than 20 degrees) problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486453</link>
+<description>Please pass to relevant ahr covering this area. Please raise PERM repair for leaning loose post on verge make safe raised 21.05.26&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486453&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Post or sign leaning slightly (less than 20 degrees)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486453</guid>
+<pubDate>Thu, 21 May 2026 10:18:38 +0100</pubDate>
+<georss:point>51.86702 -1.976039</georss:point>
 </item>
 <item>
-<title>Uneven pavement on the path between Laxton Road and Green Lane, 20th May</title>
-<link>https://www.fixmystreet.com/report/9482844</link>
-<description>The pavement between Laxton Road and Green Lane is uneven in parts. This can be hazardous for wheelchair users.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9482844.0.jpeg?650bd623&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Laxton Road, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482844&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482844</guid>
-<pubDate>Wed, 20 May 2026 15:28:14 +0100</pubDate>
-<georss:point>51.847235 -2.187632</georss:point>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486467</link>
+<description>ENWD with Standard TM please remove leaning loose post in verge (Damaged Sign Post)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486467&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486467</guid>
+<pubDate>Thu, 21 May 2026 10:17:33 +0100</pubDate>
+<georss:point>51.8669942 -1.9760314</georss:point>
 </item>
 <item>
-<title>Vegetation obscures lighting path feels unsafe after dark, 20th May</title>
-<link>https://www.fixmystreet.com/report/9482785</link>
-<description>Vegetation obscuring lighting. Pathway feels unsafe after dark. Most of path is poorly lit because of this&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Langdale Road, Hatherley, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482785&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Overgrown vegetation on path/way</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482785</guid>
-<pubDate>Wed, 20 May 2026 15:14:20 +0100</pubDate>
-<georss:point>51.884271 -2.096832</georss:point>
+<title>Tree blocking view, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486344</link>
+<description>I refer to the FixMyStreet ref: 8837238 (between 31 Orchard Avenue and Orchard Court) which you have closed but nothing has happened. Please re-open and let me know the course of action. Tree basal branches are blocking the view (caused at least 2 near misses collisions) and the top branches are touching and moving the overhead wires. I pointed this also to the kerb mowing contractor who took a picture and reported. This issue is now at least 6 months old.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9486344.0.jpeg?4ac8492e&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 40;42, Orchard Avenue, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486344&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree blocking visibility on road/junction</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486344</guid>
+<pubDate>Thu, 21 May 2026 10:16:58 +0100</pubDate>
+<georss:point>51.906727 -2.107742</georss:point>
 </item>
 <item>
-<title>TMC - Defects - Vegetation problem, 20th May</title>
-<link>https://www.fixmystreet.com/report/9482882</link>
-<description>3 way traffic lights 28 day  please cut back stinging netals and b brambles vegetation approx 45 metres x2  meters footway closure (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482882&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>TMC - Defects - Vegetation problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486455</link>
+<description>Cut back overgrown ivy around street lamp 1mtr&amp;#10;Give and take TM &amp;#10;Outside number 22 (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486455&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482882</guid>
-<pubDate>Wed, 20 May 2026 15:13:32 +0100</pubDate>
-<georss:point>51.8663433 -2.113326</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486455</guid>
+<pubDate>Thu, 21 May 2026 10:03:41 +0100</pubDate>
+<georss:point>51.9168900963444 -2.08725271609167</georss:point>
 </item>
 <item>
-<title>The way the Kissing gate opens blocks wheelchair users., 20th May</title>
-<link>https://www.fixmystreet.com/report/9482776</link>
-<description>Opposite Orchard Park. The Kissing gate connects Green Lane to Laxton Road. The way the gate swings when opened blocks wheelchair users from accessing Laxton Road.If it opened to the right (ie with hinges on the other side of the gate, access would be much easier. I am aware of at least one resident in a wheelchair who has fallen over while trying to get through.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9482776.0.jpeg?7df28e6d&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482776&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Gate is damaged/missing/locked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482776</guid>
-<pubDate>Wed, 20 May 2026 15:13:17 +0100</pubDate>
-<georss:point>51.847209 -2.187254</georss:point>
+<title>TMC - Defects -CW10 Potholes problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486251</link>
+<description>CW Pothole 700mm x 400mm x 46mm&amp;#10;Give and take TM &amp;#10;///pills.rocks.print (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486251&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486251</guid>
+<pubDate>Thu, 21 May 2026 09:46:33 +0100</pubDate>
+<georss:point>51.9156178 -2.13068020000001</georss:point>
 </item>
 <item>
-<title>Library garden needs maintenance, 20th May</title>
-<link>https://www.fixmystreet.com/report/9482737</link>
-<description>The grass hasn&amp;#39;t not been mown for over a month in the Heater Ways library garden.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 22, Goldsmith Road, Hatherley, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482737&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Parks/landscapes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482737</guid>
-<pubDate>Wed, 20 May 2026 15:05:47 +0100</pubDate>
-<georss:point>51.901771 -2.112696</georss:point>
+<title>TMC - Defects -other CW10 problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486252</link>
+<description>CW edge deterioration 1300mm x 400mm x 43mm&amp;#10;Give and take TM &amp;#10;Outside Pilgrove Farm (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486252&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486252</guid>
+<pubDate>Thu, 21 May 2026 09:46:33 +0100</pubDate>
+<georss:point>51.9157385 -2.1301207</georss:point>
 </item>
 <item>
-<title>Told not to walk here, 20th May</title>
-<link>https://www.fixmystreet.com/report/9482526</link>
-<description>People wearing official looking ID lanyards by the visitor centre over the weekend told a group of us that we had to stick to the official footpath, and directed us back through the carpark and onto a narrow track which looking at the map now wasn&amp;#39;t an official footpath and in fact leads straight to where we were walking anyway. they were quite intimidating and we cut our walk short and returned to the car via another route to avoid the people&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): A417, Badgeworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482526&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Dangerous or intimidating animals</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482526</guid>
-<pubDate>Wed, 20 May 2026 14:38:24 +0100</pubDate>
-<georss:point>51.84487 -2.103902</georss:point>
+<title>TMC - Defects -CW10 Potholes problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486250</link>
+<description>CW Pothole 700mm x 500mm x 43mm&amp;#10;Give and take TM &amp;#10;///youth.loaf.swear (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486250&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486250</guid>
+<pubDate>Thu, 21 May 2026 09:46:33 +0100</pubDate>
+<georss:point>51.9155992 -2.13079699999999</georss:point>
 </item>
 <item>
-<title>Large surface area damage with loose material, 20th May</title>
-<link>https://www.fixmystreet.com/report/9482468</link>
-<description>The lead-in section of road to number 24&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 24, Collum End Rise, Warden Hill, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482468&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482468</guid>
-<pubDate>Wed, 20 May 2026 14:33:26 +0100</pubDate>
-<georss:point>51.874403 -2.081278</georss:point>
+<title>TMC - Defects - Vegetation problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486247</link>
+<description>PLEASE CUT HEDGE BACK TO BOUNDARY &amp;#10;27M&amp;#10;FOOT WAY CLOSURE &amp;#10;NOT MARKED (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486247&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486247</guid>
+<pubDate>Thu, 21 May 2026 09:43:21 +0100</pubDate>
+<georss:point>51.8768677867453 -2.20453898530301</georss:point>
 </item>
 <item>
-<title>Flytipping, again, 20th May</title>
-<link>https://www.fixmystreet.com/report/9482369</link>
-<description>More flytipping in this location and in many other areas around here. I ask the council launch an investigation in to this ongoing issue. Simply cleaning it up and doing nothing else encourages further incidents. Precedent is being set that flytipping is an effective method of waste disposal.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Hayden Road, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482369&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482369</guid>
-<pubDate>Wed, 20 May 2026 14:21:00 +0100</pubDate>
-<georss:point>51.916115 -2.121937</georss:point>
-</item>
-<item>
-<title>Flytipping, 20th May</title>
-<link>https://www.fixmystreet.com/report/9482330</link>
-<description>More flytipping in the area. This is becoming a common occurrence.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9482330.0.jpeg?682c95d7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Withybridge Lane, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9482330&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9482330</guid>
-<pubDate>Wed, 20 May 2026 14:14:58 +0100</pubDate>
-<georss:point>51.919746 -2.140639</georss:point>
+<title>TMC - Defects -FW6 Potholes problem, 21st May</title>
+<link>https://www.fixmystreet.com/report/9486047</link>
+<description>ENWD with Standard TM with fway closure FW sinkhole 600x350x55mm temp repair (FW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9486047&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -FW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9486047</guid>
+<pubDate>Thu, 21 May 2026 09:24:53 +0100</pubDate>
+<georss:point>51.8891956 -2.05448480000001</georss:point>
 </item>
 </channel>
 </rss>

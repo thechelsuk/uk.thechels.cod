@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead tree with disease, 21st May :- [9489265](https://www.fixmystreet.com/report/9489265)
+- A pothole in road problem, 21st May :- [9489272](https://www.fixmystreet.com/report/9489272)
 - Lowered kerb, no white line., 21st May :- [9489111](https://www.fixmystreet.com/report/9489111)
 - Graffiti on bus stop, 21st May :- [9488920](https://www.fixmystreet.com/report/9488920)
 - Branches of tree broken by a lorry, 21st May :- [9488853](https://www.fixmystreet.com/report/9488853)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 21st May :- [9487177](https://www.fixmystreet.com/report/9487177)
 - TMC - Defects -CW6 Potholes  problem, 21st May :- [9487178](https://www.fixmystreet.com/report/9487178)
 - A tree with a dangerous branch overhanging my property, 21st May :- [9486722](https://www.fixmystreet.com/report/9486722)
-- TMC - Defects -CW6 Potholes  problem, 21st May :- [9487169](https://www.fixmystreet.com/report/9487169)
-- TMC - Defects - Road Markings problem, 21st May :- [9487165](https://www.fixmystreet.com/report/9487165)
 
 <!-- fix_marker ends -->

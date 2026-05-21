@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Unseen photo of Oscar Wilde sells at auction ([5 hours ago](https://www.bbc.com/news/articles/c4g5vx24427o?at_medium=RSS&at_campaign=rss))
-- Girl hit by car after family pleaded for new crossing ([5 hours ago](https://www.bbc.com/news/articles/c8xwd20kp78o?at_medium=RSS&at_campaign=rss))
-- Man jailed after huge illegal cigarette haul found ([10 hours ago](https://www.bbc.com/news/articles/cvgz1wdkz74o?at_medium=RSS&at_campaign=rss))
-- Man hires security to guard planning dispute wall ([17 hours ago](https://www.bbc.com/news/articles/cvgz88l30nxo?at_medium=RSS&at_campaign=rss))
+- Unseen photo of Oscar Wilde sells at auction ([7 hours ago](https://www.bbc.com/news/articles/c4g5vx24427o?at_medium=RSS&at_campaign=rss))
+- Girl hit by car after family pleaded for new crossing ([7 hours ago](https://www.bbc.com/news/articles/c8xwd20kp78o?at_medium=RSS&at_campaign=rss))
+- Man jailed after huge illegal cigarette haul found ([12 hours ago](https://www.bbc.com/news/articles/cvgz1wdkz74o?at_medium=RSS&at_campaign=rss))
+- Man hires security to guard planning dispute wall ([20 hours ago](https://www.bbc.com/news/articles/cvgz88l30nxo?at_medium=RSS&at_campaign=rss))
 - Councils could try again to sell Gloucestershire Airport ([1 days ago](https://gloucesternewscentre.co.uk/councils-could-try-again-to-sell-gloucestershire-airport/))
 - Businesses to fight council's A-board ban ([1 days ago](https://www.bbc.com/news/articles/c1d2z5z3yk9o?at_medium=RSS&at_campaign=rss))
 - YMCA Cheltenham marks 170 Years ([1 days ago](https://gloucesternewscentre.co.uk/ymca-cheltenham-marks-170-years/))

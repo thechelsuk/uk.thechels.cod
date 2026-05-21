@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 21 May 2026
 
-- The average temperature today is 12.14˚C,
-- With highs of 12.14˚C and lows of 12.14˚C,
-- It may feel like 11.73˚C with overcast clouds
-- The wind speed is 3.42m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 89%
+- The average temperature today is 13.19˚C,
+- With highs of 13.31˚C and lows of 12.14˚C,
+- It may feel like 12.84˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 87%
 - The sun will rise at 04:06 and set at 20:03
 
 <!-- weather_marker ends -->

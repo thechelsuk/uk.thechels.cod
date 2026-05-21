@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Atleast 2 street lights out on opposite 77 sandyleaze, 21st May :- [9490374](https://www.fixmystreet.com/report/9490374)
+- Falling branches and excessive birds dropping, 21st May :- [9490245](https://www.fixmystreet.com/report/9490245)
+- Potholes and failed tarmac, 21st May :- [9490218](https://www.fixmystreet.com/report/9490218)
+- Broken road surface in middle of junction turning right into Telstar way, 21st May :- [9490241](https://www.fixmystreet.com/report/9490241)
 - Damaged, broken and uneven footpaths along aeden road, 21st May :- [9489832](https://www.fixmystreet.com/report/9489832)
 - Poor repairs and missd pothole repairs on Hall Road, 21st May :- [9489814](https://www.fixmystreet.com/report/9489814)
 - Poor repairs and missd pothole repairs on Hall Road, 21st May :- [9489813](https://www.fixmystreet.com/report/9489813)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Signs & Street Furniture problem, 21st May :- [9488208](https://www.fixmystreet.com/report/9488208)
 - TMC - Defects - Signs & Street Furniture problem, 21st May :- [9488205](https://www.fixmystreet.com/report/9488205)
 - Shopping trolley on the site for 2 weeks now, 21st May :- [9487796](https://www.fixmystreet.com/report/9487796)
-- Overgrown Tree, 21st May :- [9487631](https://www.fixmystreet.com/report/9487631)
-- Overhanging tree, continually falling branches, 21st May :- [9487456](https://www.fixmystreet.com/report/9487456)
-- Ocado delivery van reversed into bollard, 21st May :- [9487241](https://www.fixmystreet.com/report/9487241)
-- Loads of potholes worsening on the junction, 21st May :- [9487043](https://www.fixmystreet.com/report/9487043)
 
 <!-- fix_marker ends -->

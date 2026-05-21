@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lowered kerb, no white line., 21st May :- [9489111](https://www.fixmystreet.com/report/9489111)
+- Graffiti on bus stop, 21st May :- [9488920](https://www.fixmystreet.com/report/9488920)
+- Branches of tree broken by a lorry, 21st May :- [9488853](https://www.fixmystreet.com/report/9488853)
+- Tree is damaged problem, 21st May :- [9488408](https://www.fixmystreet.com/report/9488408)
 - Multiple potholes / road sueface failed, 21st May :- [9488147](https://www.fixmystreet.com/report/9488147)
 - Children's car seat flytipped in Salisbury Avenue Play Area, 21st May :- [9488108](https://www.fixmystreet.com/report/9488108)
 - Car tyre flytipped in Salisbury Avenue Play Area, 21st May :- [9488097](https://www.fixmystreet.com/report/9488097)
@@ -24,10 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 21st May :- [9487178](https://www.fixmystreet.com/report/9487178)
 - A tree with a dangerous branch overhanging my property, 21st May :- [9486722](https://www.fixmystreet.com/report/9486722)
 - TMC - Defects -CW6 Potholes  problem, 21st May :- [9487169](https://www.fixmystreet.com/report/9487169)
-- TMC - Defects -CW6 Potholes  problem, 21st May :- [9487168](https://www.fixmystreet.com/report/9487168)
-- TMC - Defects -CW6 Potholes  problem, 21st May :- [9487167](https://www.fixmystreet.com/report/9487167)
 - TMC - Defects - Road Markings problem, 21st May :- [9487165](https://www.fixmystreet.com/report/9487165)
-- TMC - Defects - Vegetation problem, 21st May :- [9487164](https://www.fixmystreet.com/report/9487164)
-- TMC - Defects -CW6 Potholes  problem, 21st May :- [9487166](https://www.fixmystreet.com/report/9487166)
 
 <!-- fix_marker ends -->

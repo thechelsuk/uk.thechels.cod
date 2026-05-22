@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass all over the pavement, 22nd May :- [9494822](https://www.fixmystreet.com/report/9494822)
 - Suspected Japanese knotweed, 22nd May :- [9494616](https://www.fixmystreet.com/report/9494616)
 - Nine inch pothole outside 4 Delavale Road, Winchcombe GL545HN, 22nd May :- [9494580](https://www.fixmystreet.com/report/9494580)
 - No bus timtables, 22nd May :- [9494469](https://www.fixmystreet.com/report/9494469)
@@ -24,10 +25,9 @@ permalink: /fix-my-street
 - 1x10 inch hole, approx 5ft past door in school building., 22nd May :- [9492780](https://www.fixmystreet.com/report/9492780)
 - Tree is damaged problem, 22nd May :- [9492794](https://www.fixmystreet.com/report/9492794)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492609](https://www.fixmystreet.com/report/9492609)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492608](https://www.fixmystreet.com/report/9492608)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492607](https://www.fixmystreet.com/report/9492607)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492610](https://www.fixmystreet.com/report/9492610)
+- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492607](https://www.fixmystreet.com/report/9492607)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492611](https://www.fixmystreet.com/report/9492611)
-- Overgrown, 22nd May :- [9492185](https://www.fixmystreet.com/report/9492185)
+- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492608](https://www.fixmystreet.com/report/9492608)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 22 May 2026
 
-- The average temperature today is 22.88˚C,
-- With highs of 23.71˚C and lows of 21.75˚C,
-- It may feel like 22.89˚C with clear sky
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 64%
+- The average temperature today is 24.75˚C,
+- With highs of 25.47˚C and lows of 24.75˚C,
+- It may feel like 24.66˚C with few clouds
+- The wind speed is 6.69m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 53%
 - The sun will rise at 04:05 and set at 20:04
 
 <!-- weather_marker ends -->

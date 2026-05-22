@@ -25,9 +25,9 @@ permalink: /fix-my-street
 - 1x10 inch hole, approx 5ft past door in school building., 22nd May :- [9492780](https://www.fixmystreet.com/report/9492780)
 - Tree is damaged problem, 22nd May :- [9492794](https://www.fixmystreet.com/report/9492794)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492609](https://www.fixmystreet.com/report/9492609)
+- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492608](https://www.fixmystreet.com/report/9492608)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492610](https://www.fixmystreet.com/report/9492610)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492607](https://www.fixmystreet.com/report/9492607)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492611](https://www.fixmystreet.com/report/9492611)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492608](https://www.fixmystreet.com/report/9492608)
 
 <!-- fix_marker ends -->

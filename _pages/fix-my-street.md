@@ -9,11 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken tree damaging vehicles on road, 22nd May :- [9493274](https://www.fixmystreet.com/report/9493274)
+- Abandoned e scooters, 22nd May :- [9493199](https://www.fixmystreet.com/report/9493199)
+- TMC - Defects - Signs & Street Furniture problem, 22nd May :- [9493107](https://www.fixmystreet.com/report/9493107)
+- Deep pothole on roundabout, 22nd May :- [9492916](https://www.fixmystreet.com/report/9492916)
+- Unpermitted roadworks problem, 22nd May :- [9492926](https://www.fixmystreet.com/report/9492926)
+- 1x10 inch hole, approx 5ft past door in school building., 22nd May :- [9492780](https://www.fixmystreet.com/report/9492780)
+- Tree is damaged problem, 22nd May :- [9492794](https://www.fixmystreet.com/report/9492794)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492607](https://www.fixmystreet.com/report/9492607)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492611](https://www.fixmystreet.com/report/9492611)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492610](https://www.fixmystreet.com/report/9492610)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492609](https://www.fixmystreet.com/report/9492609)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492608](https://www.fixmystreet.com/report/9492608)
+- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492611](https://www.fixmystreet.com/report/9492611)
+- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492609](https://www.fixmystreet.com/report/9492609)
+- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492610](https://www.fixmystreet.com/report/9492610)
 - Overgrown, 22nd May :- [9492185](https://www.fixmystreet.com/report/9492185)
 - This device is causing electricity surges in my house. I wake up in the morning and my hair is stood up and I can feel the electricity pulsing through the house. I have spoken to gigaclear and National grid and they told me to contact you. Please can this be moved as people are selling their houses because of this., 22nd May :- [9491857](https://www.fixmystreet.com/report/9491857)
 - Loose slab and large gaps around catv box, 22nd May :- [9491738](https://www.fixmystreet.com/report/9491738)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW10 problem, 22nd May :- [9491833](https://www.fixmystreet.com/report/9491833)
 - Pine cones on cycle path for 50-100 yards, 22nd May :- [9491644](https://www.fixmystreet.com/report/9491644)
 - TMC - Defects -CW6 Potholes  problem, 22nd May :- [9491627](https://www.fixmystreet.com/report/9491627)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9491628](https://www.fixmystreet.com/report/9491628)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9491630](https://www.fixmystreet.com/report/9491630)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9491629](https://www.fixmystreet.com/report/9491629)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9491626](https://www.fixmystreet.com/report/9491626)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9491625](https://www.fixmystreet.com/report/9491625)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9491624](https://www.fixmystreet.com/report/9491624)
-- Post or sign leaning slightly (less than 20 degrees) problem, 22nd May :- [9491614](https://www.fixmystreet.com/report/9491614)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping over motorway railings from flyover. Rubbish is between footpath and M5 motorway, 23rd May :- [9496504](https://www.fixmystreet.com/report/9496504)
+- Long pothole measuring 10m+ in length where surface course has come away, particularly dangerous for people crossing the road and cyclists, 23rd May :- [9496446](https://www.fixmystreet.com/report/9496446)
+- Dangerous temporary traffic lights, 23rd May :- [9496194](https://www.fixmystreet.com/report/9496194)
 - Bin bag dumped next to mural on London Road/Keynsham Bank, 23rd May :- [9496063](https://www.fixmystreet.com/report/9496063)
 - Trees overhanging highway and pavement, 23rd May :- [9495701](https://www.fixmystreet.com/report/9495701)
 - Really, 23rd May :- [9495406](https://www.fixmystreet.com/report/9495406)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Abandoned e scooters, 22nd May :- [9493199](https://www.fixmystreet.com/report/9493199)
 - TMC - Defects - Signs & Street Furniture problem, 22nd May :- [9493107](https://www.fixmystreet.com/report/9493107)
 - Deep pothole on roundabout, 22nd May :- [9492916](https://www.fixmystreet.com/report/9492916)
-- Unpermitted roadworks problem, 22nd May :- [9492926](https://www.fixmystreet.com/report/9492926)
-- 1x10 inch hole, approx 5ft past door in school building., 22nd May :- [9492780](https://www.fixmystreet.com/report/9492780)
-- Tree is damaged problem, 22nd May :- [9492794](https://www.fixmystreet.com/report/9492794)
 
 <!-- fix_marker ends -->

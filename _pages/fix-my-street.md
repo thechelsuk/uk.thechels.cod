@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- This 20 ton RORO skip outside number 40 does not have any lights, 23rd May :- [9497046](https://www.fixmystreet.com/report/9497046)
+- A pothole in road problem, 23rd May :- [9496983](https://www.fixmystreet.com/report/9496983)
 - Volunteer litter pick bags ready for collection, 23rd May :- [9496849](https://www.fixmystreet.com/report/9496849)
 - Overflow recycling, 23rd May :- [9496602](https://www.fixmystreet.com/report/9496602)
 - 2 x sections of road not repaired, 23rd May :- [9496568](https://www.fixmystreet.com/report/9496568)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - No bus timtables, 22nd May :- [9494469](https://www.fixmystreet.com/report/9494469)
 - Gravell on the new cycleway at the entrance to the car boot site to Cheltenham Racecourse., 22nd May :- [9493923](https://www.fixmystreet.com/report/9493923)
 - Fly tipping from property on Marle Hill Parade, 22nd May :- [9493826](https://www.fixmystreet.com/report/9493826)
-- Street light not working, 22nd May :- [9493641](https://www.fixmystreet.com/report/9493641)
-- Flytipping, 22nd May :- [9493592](https://www.fixmystreet.com/report/9493592)
 
 <!-- fix_marker ends -->

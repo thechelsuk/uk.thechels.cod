@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain opposite 162 Hucclecote Road, Hucclecote, within Tewkesbury Borough Council area, 23rd May :- [9498096](https://www.fixmystreet.com/report/9498096)
+- Long pothole dent in road mid roundabout, 23rd May :- [9498075](https://www.fixmystreet.com/report/9498075)
+- College Drive - kerb is damaged, 23rd May :- [9497911](https://www.fixmystreet.com/report/9497911)
 - This 20 ton RORO skip outside number 40 does not have any lights, 23rd May :- [9497046](https://www.fixmystreet.com/report/9497046)
 - A pothole in road problem, 23rd May :- [9496983](https://www.fixmystreet.com/report/9496983)
 - Volunteer litter pick bags ready for collection, 23rd May :- [9496849](https://www.fixmystreet.com/report/9496849)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Broken glass all over the pavement, 22nd May :- [9494822](https://www.fixmystreet.com/report/9494822)
 - Suspected Japanese knotweed, 22nd May :- [9494616](https://www.fixmystreet.com/report/9494616)
 - Nine inch pothole outside 4 Delavale Road, Winchcombe GL545HN, 22nd May :- [9494580](https://www.fixmystreet.com/report/9494580)
-- No bus timtables, 22nd May :- [9494469](https://www.fixmystreet.com/report/9494469)
-- Gravell on the new cycleway at the entrance to the car boot site to Cheltenham Racecourse., 22nd May :- [9493923](https://www.fixmystreet.com/report/9493923)
-- Fly tipping from property on Marle Hill Parade, 22nd May :- [9493826](https://www.fixmystreet.com/report/9493826)
 
 <!-- fix_marker ends -->

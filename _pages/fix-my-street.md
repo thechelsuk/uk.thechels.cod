@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Volunteer litter pick bags ready for collection, 23rd May :- [9496849](https://www.fixmystreet.com/report/9496849)
+- Overflow recycling, 23rd May :- [9496602](https://www.fixmystreet.com/report/9496602)
+- 2 x sections of road not repaired, 23rd May :- [9496568](https://www.fixmystreet.com/report/9496568)
+- Barriers left by contractors, 23rd May :- [9496557](https://www.fixmystreet.com/report/9496557)
 - Fly tipping over motorway railings from flyover. Rubbish is between footpath and M5 motorway, 23rd May :- [9496504](https://www.fixmystreet.com/report/9496504)
 - Long pothole measuring 10m+ in length where surface course has come away, particularly dangerous for people crossing the road and cyclists, 23rd May :- [9496446](https://www.fixmystreet.com/report/9496446)
 - Dangerous temporary traffic lights, 23rd May :- [9496194](https://www.fixmystreet.com/report/9496194)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Fly tipping from property on Marle Hill Parade, 22nd May :- [9493826](https://www.fixmystreet.com/report/9493826)
 - Street light not working, 22nd May :- [9493641](https://www.fixmystreet.com/report/9493641)
 - Flytipping, 22nd May :- [9493592](https://www.fixmystreet.com/report/9493592)
-- Broken tree damaging vehicles on road, 22nd May :- [9493274](https://www.fixmystreet.com/report/9493274)
-- Abandoned e scooters, 22nd May :- [9493199](https://www.fixmystreet.com/report/9493199)
-- TMC - Defects - Signs & Street Furniture problem, 22nd May :- [9493107](https://www.fixmystreet.com/report/9493107)
-- Deep pothole on roundabout, 22nd May :- [9492916](https://www.fixmystreet.com/report/9492916)
 
 <!-- fix_marker ends -->

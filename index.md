@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 23 May 2026
 
-- The average temperature today is 15.44˚C,
-- With highs of 16.08˚C and lows of 14.83˚C,
-- It may feel like 15.29˚C with broken clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 86%
+- The average temperature today is 17.78˚C,
+- With highs of 19.41˚C and lows of 16.75˚C,
+- It may feel like 17.62˚C with few clouds
+- The wind speed is 1.54m/s and visibility is 10000m
+- The pressure is 1027hPa and humidity is 77%
 - The sun will rise at 04:04 and set at 20:06
 
 <!-- weather_marker ends -->

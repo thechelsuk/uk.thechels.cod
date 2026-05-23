@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin bag dumped next to mural on London Road/Keynsham Bank, 23rd May :- [9496063](https://www.fixmystreet.com/report/9496063)
 - Trees overhanging highway and pavement, 23rd May :- [9495701](https://www.fixmystreet.com/report/9495701)
 - Really, 23rd May :- [9495406](https://www.fixmystreet.com/report/9495406)
 - Dump car chair, 23rd May :- [9495405](https://www.fixmystreet.com/report/9495405)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Unpermitted roadworks problem, 22nd May :- [9492926](https://www.fixmystreet.com/report/9492926)
 - 1x10 inch hole, approx 5ft past door in school building., 22nd May :- [9492780](https://www.fixmystreet.com/report/9492780)
 - Tree is damaged problem, 22nd May :- [9492794](https://www.fixmystreet.com/report/9492794)
-- TMC - Defects -CW6 Potholes  problem, 22nd May :- [9492610](https://www.fixmystreet.com/report/9492610)
 
 <!-- fix_marker ends -->

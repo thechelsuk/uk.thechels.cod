@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Artist's delight as lion statue 'comes home' ([5 hours ago](https://www.bbc.com/news/articles/c2k28l1318wo?at_medium=RSS&at_campaign=rss))
-- Man 'claimed to be officer before assaulting two teenagers' ([10 hours ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
-- Newspapers: Mattresses for Ukraine and fire devastates business ([14 hours ago](https://www.bbc.com/news/articles/c202zwj89y4o?at_medium=RSS&at_campaign=rss))
+- Artist's delight as lion statue 'comes home' ([7 hours ago](https://www.bbc.com/news/articles/c2k28l1318wo?at_medium=RSS&at_campaign=rss))
+- Man 'claimed to be officer before assaulting two teenagers' ([12 hours ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
+- Newspapers: Mattresses for Ukraine and fire devastates business ([16 hours ago](https://www.bbc.com/news/articles/c202zwj89y4o?at_medium=RSS&at_campaign=rss))
 - Family wants 'Alice's Law' after mother's BBL death ([1 days ago](https://www.bbc.com/news/articles/czx24ykre9go?at_medium=RSS&at_campaign=rss))
 - RIAT 2026 cancelled amid Middle East conflict ([1 days ago](https://www.bbc.com/news/articles/cr5plvn0j5ro?at_medium=RSS&at_campaign=rss))
 - Councillor first elected aged 18 resigns ([1 days ago](https://www.bbc.com/news/articles/cjdp92v325do?at_medium=RSS&at_campaign=rss))

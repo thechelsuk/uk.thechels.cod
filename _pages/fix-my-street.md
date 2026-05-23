@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vegetation is growing and is obscuring view of traffic on pirton lane when emerging from yew tree way, 23rd May :- [9496116](https://www.fixmystreet.com/report/9496116)
 - Blocked drain opposite 162 Hucclecote Road, Hucclecote, within Tewkesbury Borough Council area, 23rd May :- [9498096](https://www.fixmystreet.com/report/9498096)
 - Long pothole dent in road mid roundabout, 23rd May :- [9498075](https://www.fixmystreet.com/report/9498075)
 - College Drive - kerb is damaged, 23rd May :- [9497911](https://www.fixmystreet.com/report/9497911)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dumped, 23rd May :- [9495403](https://www.fixmystreet.com/report/9495403)
 - Broken glass all over the pavement, 22nd May :- [9494822](https://www.fixmystreet.com/report/9494822)
 - Suspected Japanese knotweed, 22nd May :- [9494616](https://www.fixmystreet.com/report/9494616)
-- Nine inch pothole outside 4 Delavale Road, Winchcombe GL545HN, 22nd May :- [9494580](https://www.fixmystreet.com/report/9494580)
 
 <!-- fix_marker ends -->

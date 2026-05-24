@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bridleway completely impassable to ridden horses, 24th May :- [9500546](https://www.fixmystreet.com/report/9500546)
+- Bridle way is completely impassable by a horse, 24th May :- [9500497](https://www.fixmystreet.com/report/9500497)
 - Trolley in Brook, 24th May :- [9500201](https://www.fixmystreet.com/report/9500201)
 - Blocked drain cover, 24th May :- [9500175](https://www.fixmystreet.com/report/9500175)
 - Sign leads to overgrown path, 24th May :- [9499981](https://www.fixmystreet.com/report/9499981)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Vegetation is growing and is obscuring view of traffic on pirton lane when emerging from yew tree way, 23rd May :- [9496116](https://www.fixmystreet.com/report/9496116)
 - Blocked drain opposite 162 Hucclecote Road, Hucclecote, within Tewkesbury Borough Council area, 23rd May :- [9498096](https://www.fixmystreet.com/report/9498096)
 - Long pothole dent in road mid roundabout, 23rd May :- [9498075](https://www.fixmystreet.com/report/9498075)
-- College Drive - kerb is damaged, 23rd May :- [9497911](https://www.fixmystreet.com/report/9497911)
-- This 20 ton RORO skip outside number 40 does not have any lights, 23rd May :- [9497046](https://www.fixmystreet.com/report/9497046)
 
 <!-- fix_marker ends -->

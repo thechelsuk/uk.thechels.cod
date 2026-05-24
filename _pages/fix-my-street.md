@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 24th May :- [9498657](https://www.fixmystreet.com/report/9498657)
+- Tree falling down, if goes will end up smashing my gate and fence down and potentially hurting a person or dog if they happen to be in the garden at the time. It’s also limiting access to my gate out to little copse lane as scared will fall on me!, 24th May :- [9498558](https://www.fixmystreet.com/report/9498558)
 - Vegetation is growing and is obscuring view of traffic on pirton lane when emerging from yew tree way, 23rd May :- [9496116](https://www.fixmystreet.com/report/9496116)
 - Blocked drain opposite 162 Hucclecote Road, Hucclecote, within Tewkesbury Borough Council area, 23rd May :- [9498096](https://www.fixmystreet.com/report/9498096)
 - Long pothole dent in road mid roundabout, 23rd May :- [9498075](https://www.fixmystreet.com/report/9498075)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Really, 23rd May :- [9495406](https://www.fixmystreet.com/report/9495406)
 - Dump car chair, 23rd May :- [9495405](https://www.fixmystreet.com/report/9495405)
 - Dumped, 23rd May :- [9495403](https://www.fixmystreet.com/report/9495403)
-- Broken glass all over the pavement, 22nd May :- [9494822](https://www.fixmystreet.com/report/9494822)
-- Suspected Japanese knotweed, 22nd May :- [9494616](https://www.fixmystreet.com/report/9494616)
 
 <!-- fix_marker ends -->

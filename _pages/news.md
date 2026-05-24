@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man, 22, charged with sexual assault of two teens 'pretended to be an officer' ([10 hours ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
-- In Pictures: Festival fun in the sun and T20 wins ([11 hours ago](https://www.bbc.com/news/articles/c0m2pkw00vmo?at_medium=RSS&at_campaign=rss))
-- Are hardback books things of 'great beauty' or a dying art? ([12 hours ago](https://www.bbc.com/news/articles/c9weyrwn08lo?at_medium=RSS&at_campaign=rss))
-- Cheese that survives a 70mph hill run 'still tastes great' ([12 hours ago](https://www.bbc.com/news/articles/cg5pq23pvz0o?at_medium=RSS&at_campaign=rss))
+- Man, 22, charged with sexual assault of two teens 'pretended to be an officer' ([12 hours ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
+- In Pictures: Festival fun in the sun and T20 wins ([13 hours ago](https://www.bbc.com/news/articles/c0m2pkw00vmo?at_medium=RSS&at_campaign=rss))
+- Are hardback books things of 'great beauty' or a dying art? ([14 hours ago](https://www.bbc.com/news/articles/c9weyrwn08lo?at_medium=RSS&at_campaign=rss))
+- Cheese that survives a 70mph hill run 'still tastes great' ([14 hours ago](https://www.bbc.com/news/articles/cg5pq23pvz0o?at_medium=RSS&at_campaign=rss))
 - Artist's delight as lion statue 'comes home' ([1 days ago](https://www.bbc.com/news/articles/c2k28l1318wo?at_medium=RSS&at_campaign=rss))
 - Newspapers: Mattresses for Ukraine and fire devastates business ([1 days ago](https://www.bbc.com/news/articles/c202zwj89y4o?at_medium=RSS&at_campaign=rss))
 - Family wants 'Alice's Law' after mother's BBL death ([2 days ago](https://www.bbc.com/news/articles/czx24ykre9go?at_medium=RSS&at_campaign=rss))
@@ -43,7 +43,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Award-winning photographer inspires Cheltenham retirees ([13 days ago](https://gloucesternewscentre.co.uk/award-winning-photographer-inspires-cheltenham-retirees/))
 - Frustration as suspension of home births is extended ([13 days ago](https://gloucesternewscentre.co.uk/frustration-as-suspension-of-home-births-is-extended/))
 - Police launch investigation after body of missing man found near Cheltenham ([14 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
-- Man sentenced to eight years in prison for raping woman in Cheltenham ([15 days ago](https://gloucesternewscentre.co.uk/man-sentenced-to-eight-years-in-prison-for-raping-woman-in-cheltenham/))
+- Man sentenced to eight years in prison for raping woman in Cheltenham ([16 days ago](https://gloucesternewscentre.co.uk/man-sentenced-to-eight-years-in-prison-for-raping-woman-in-cheltenham/))
 - Liberal Democrats win county council by-election ([16 days ago](https://gloucesternewscentre.co.uk/liberal-democrats-win-county-council-by-election/))
 - Cheltenham ‘rejects politics of division’ as Lib Dems win council elections ([16 days ago](https://gloucesternewscentre.co.uk/cheltenham-rejects-politics-of-division-as-lib-dems-win-council-elections/))
 - Cheltenham rider and 18-year-old horse triumph in 64km endurance challenge ([18 days ago](https://gloucesternewscentre.co.uk/cheltenham-rider-and-18-year-old-horse-triumph-in-64km-endurance-challenge/))

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 24th May :- [9500920](https://www.fixmystreet.com/report/9500920)
+- Large herd of bullocks which are very keen to follow chase walkers. Very intimidating which make access to this field & those around it 'off limits' for many people., 24th May :- [9500799](https://www.fixmystreet.com/report/9500799)
 - Bridleway completely impassable to ridden horses, 24th May :- [9500546](https://www.fixmystreet.com/report/9500546)
 - Bridle way is completely impassable by a horse, 24th May :- [9500497](https://www.fixmystreet.com/report/9500497)
 - Trolley in Brook, 24th May :- [9500201](https://www.fixmystreet.com/report/9500201)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 24th May :- [9498657](https://www.fixmystreet.com/report/9498657)
 - Tree falling down, if goes will end up smashing my gate and fence down and potentially hurting a person or dog if they happen to be in the garden at the time. It’s also limiting access to my gate out to little copse lane as scared will fall on me!, 24th May :- [9498558](https://www.fixmystreet.com/report/9498558)
 - Vegetation is growing and is obscuring view of traffic on pirton lane when emerging from yew tree way, 23rd May :- [9496116](https://www.fixmystreet.com/report/9496116)
-- Blocked drain opposite 162 Hucclecote Road, Hucclecote, within Tewkesbury Borough Council area, 23rd May :- [9498096](https://www.fixmystreet.com/report/9498096)
-- Long pothole dent in road mid roundabout, 23rd May :- [9498075](https://www.fixmystreet.com/report/9498075)
 
 <!-- fix_marker ends -->

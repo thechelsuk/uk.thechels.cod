@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The bollard to stop vehicles using this public footpath has been removed leaving it open to unaithorised vehicle access., 24th May :- [9501115](https://www.fixmystreet.com/report/9501115)
 - Flytipping, 24th May :- [9500920](https://www.fixmystreet.com/report/9500920)
 - Large herd of bullocks which are very keen to follow chase walkers. Very intimidating which make access to this field & those around it 'off limits' for many people., 24th May :- [9500799](https://www.fixmystreet.com/report/9500799)
 - Bridleway completely impassable to ridden horses, 24th May :- [9500546](https://www.fixmystreet.com/report/9500546)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Left on green for months after resident moved house, 24th May :- [9498708](https://www.fixmystreet.com/report/9498708)
 - Fly tipping, 24th May :- [9498657](https://www.fixmystreet.com/report/9498657)
 - Tree falling down, if goes will end up smashing my gate and fence down and potentially hurting a person or dog if they happen to be in the garden at the time. It’s also limiting access to my gate out to little copse lane as scared will fall on me!, 24th May :- [9498558](https://www.fixmystreet.com/report/9498558)
-- Vegetation is growing and is obscuring view of traffic on pirton lane when emerging from yew tree way, 23rd May :- [9496116](https://www.fixmystreet.com/report/9496116)
 
 <!-- fix_marker ends -->

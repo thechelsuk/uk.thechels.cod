@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man, 22, charged with sexual assault of two teens 'pretended to be an officer' ([12 hours ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
-- In Pictures: Festival fun in the sun and T20 wins ([13 hours ago](https://www.bbc.com/news/articles/c0m2pkw00vmo?at_medium=RSS&at_campaign=rss))
-- Are hardback books things of 'great beauty' or a dying art? ([14 hours ago](https://www.bbc.com/news/articles/c9weyrwn08lo?at_medium=RSS&at_campaign=rss))
-- Cheese that survives a 70mph hill run 'still tastes great' ([14 hours ago](https://www.bbc.com/news/articles/cg5pq23pvz0o?at_medium=RSS&at_campaign=rss))
+- Man, 22, charged with sexual assault of two teens 'pretended to be an officer' ([14 hours ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
+- In Pictures: Festival fun in the sun and T20 wins ([15 hours ago](https://www.bbc.com/news/articles/c0m2pkw00vmo?at_medium=RSS&at_campaign=rss))
+- Are hardback books things of 'great beauty' or a dying art? ([16 hours ago](https://www.bbc.com/news/articles/c9weyrwn08lo?at_medium=RSS&at_campaign=rss))
+- Cheese that survives a 70mph hill run 'still tastes great' ([16 hours ago](https://www.bbc.com/news/articles/cg5pq23pvz0o?at_medium=RSS&at_campaign=rss))
 - Artist's delight as lion statue 'comes home' ([1 days ago](https://www.bbc.com/news/articles/c2k28l1318wo?at_medium=RSS&at_campaign=rss))
 - Newspapers: Mattresses for Ukraine and fire devastates business ([1 days ago](https://www.bbc.com/news/articles/c202zwj89y4o?at_medium=RSS&at_campaign=rss))
 - Family wants 'Alice's Law' after mother's BBL death ([2 days ago](https://www.bbc.com/news/articles/czx24ykre9go?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign leads to overgrown path, 24th May :- [9499981](https://www.fixmystreet.com/report/9499981)
+- Overflowing Dog waste bin, 24th May :- [9498853](https://www.fixmystreet.com/report/9498853)
 - Wide area pot hole road surface damage., 24th May :- [9499688](https://www.fixmystreet.com/report/9499688)
 - Large pothole, difficult to avoid in road, 24th May :- [9499605](https://www.fixmystreet.com/report/9499605)
 - Lack of Bus Shelter after a year, 24th May :- [9499574](https://www.fixmystreet.com/report/9499574)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - This 20 ton RORO skip outside number 40 does not have any lights, 23rd May :- [9497046](https://www.fixmystreet.com/report/9497046)
 - A pothole in road problem, 23rd May :- [9496983](https://www.fixmystreet.com/report/9496983)
 - Volunteer litter pick bags ready for collection, 23rd May :- [9496849](https://www.fixmystreet.com/report/9496849)
-- Overflow recycling, 23rd May :- [9496602](https://www.fixmystreet.com/report/9496602)
-- 2 x sections of road not repaired, 23rd May :- [9496568](https://www.fixmystreet.com/report/9496568)
 
 <!-- fix_marker ends -->

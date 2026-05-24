@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 6 gas bottles dumped, 24th May :- [9499021](https://www.fixmystreet.com/report/9499021)
+- Pothole, 24th May :- [9498753](https://www.fixmystreet.com/report/9498753)
+- Left on green for months after resident moved house, 24th May :- [9498708](https://www.fixmystreet.com/report/9498708)
 - Fly tipping, 24th May :- [9498657](https://www.fixmystreet.com/report/9498657)
 - Tree falling down, if goes will end up smashing my gate and fence down and potentially hurting a person or dog if they happen to be in the garden at the time. It’s also limiting access to my gate out to little copse lane as scared will fall on me!, 24th May :- [9498558](https://www.fixmystreet.com/report/9498558)
 - Vegetation is growing and is obscuring view of traffic on pirton lane when emerging from yew tree way, 23rd May :- [9496116](https://www.fixmystreet.com/report/9496116)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Dangerous temporary traffic lights, 23rd May :- [9496194](https://www.fixmystreet.com/report/9496194)
 - Bin bag dumped next to mural on London Road/Keynsham Bank, 23rd May :- [9496063](https://www.fixmystreet.com/report/9496063)
 - Trees overhanging highway and pavement, 23rd May :- [9495701](https://www.fixmystreet.com/report/9495701)
-- Really, 23rd May :- [9495406](https://www.fixmystreet.com/report/9495406)
-- Dump car chair, 23rd May :- [9495405](https://www.fixmystreet.com/report/9495405)
-- Dumped, 23rd May :- [9495403](https://www.fixmystreet.com/report/9495403)
 
 <!-- fix_marker ends -->

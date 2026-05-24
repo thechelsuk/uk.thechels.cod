@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trolley in Brook, 24th May :- [9500201](https://www.fixmystreet.com/report/9500201)
+- Blocked drain cover, 24th May :- [9500175](https://www.fixmystreet.com/report/9500175)
 - Sign leads to overgrown path, 24th May :- [9499981](https://www.fixmystreet.com/report/9499981)
 - Overflowing Dog waste bin, 24th May :- [9498853](https://www.fixmystreet.com/report/9498853)
 - Wide area pot hole road surface damage., 24th May :- [9499688](https://www.fixmystreet.com/report/9499688)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Long pothole dent in road mid roundabout, 23rd May :- [9498075](https://www.fixmystreet.com/report/9498075)
 - College Drive - kerb is damaged, 23rd May :- [9497911](https://www.fixmystreet.com/report/9497911)
 - This 20 ton RORO skip outside number 40 does not have any lights, 23rd May :- [9497046](https://www.fixmystreet.com/report/9497046)
-- A pothole in road problem, 23rd May :- [9496983](https://www.fixmystreet.com/report/9496983)
-- Volunteer litter pick bags ready for collection, 23rd May :- [9496849](https://www.fixmystreet.com/report/9496849)
 
 <!-- fix_marker ends -->

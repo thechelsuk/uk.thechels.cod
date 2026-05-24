@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown grass verges everywhere on abbotswood road, 24th May :- [9499296](https://www.fixmystreet.com/report/9499296)
 - 6 gas bottles dumped, 24th May :- [9499021](https://www.fixmystreet.com/report/9499021)
 - Pothole, 24th May :- [9498753](https://www.fixmystreet.com/report/9498753)
 - Left on green for months after resident moved house, 24th May :- [9498708](https://www.fixmystreet.com/report/9498708)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Long pothole measuring 10m+ in length where surface course has come away, particularly dangerous for people crossing the road and cyclists, 23rd May :- [9496446](https://www.fixmystreet.com/report/9496446)
 - Dangerous temporary traffic lights, 23rd May :- [9496194](https://www.fixmystreet.com/report/9496194)
 - Bin bag dumped next to mural on London Road/Keynsham Bank, 23rd May :- [9496063](https://www.fixmystreet.com/report/9496063)
-- Trees overhanging highway and pavement, 23rd May :- [9495701](https://www.fixmystreet.com/report/9495701)
 
 <!-- fix_marker ends -->

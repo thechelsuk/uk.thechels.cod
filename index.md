@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 24 May 2026
 
-- The average temperature today is 21.67˚C,
-- With highs of 22.76˚C and lows of 20.38˚C,
-- It may feel like 21.59˚C with broken clouds
-- The wind speed is 0.57m/s and visibility is 10000m
-- The pressure is 1031hPa and humidity is 65%
+- The average temperature today is 24.83˚C,
+- With highs of 24.91˚C and lows of 24.05˚C,
+- It may feel like 24.91˚C with broken clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1031hPa and humidity is 59%
 - The sun will rise at 04:03 and set at 20:07
 
 <!-- weather_marker ends -->

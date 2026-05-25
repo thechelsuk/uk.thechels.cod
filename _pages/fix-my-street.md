@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Long unsightly grass, 25th May :- [9501704](https://www.fixmystreet.com/report/9501704)
+- Weeds and brambles blocking path, 25th May :- [9501449](https://www.fixmystreet.com/report/9501449)
+- Dead Badger on the road, 25th May :- [9501423](https://www.fixmystreet.com/report/9501423)
 - The bollard to stop vehicles using this public footpath has been removed leaving it open to unaithorised vehicle access., 24th May :- [9501115](https://www.fixmystreet.com/report/9501115)
 - Flytipping, 24th May :- [9500920](https://www.fixmystreet.com/report/9500920)
 - Large herd of bullocks which are very keen to follow chase walkers. Very intimidating which make access to this field & those around it 'off limits' for many people., 24th May :- [9500799](https://www.fixmystreet.com/report/9500799)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Overgrown grass verges everywhere on abbotswood road, 24th May :- [9499296](https://www.fixmystreet.com/report/9499296)
 - 6 gas bottles dumped, 24th May :- [9499021](https://www.fixmystreet.com/report/9499021)
 - Pothole, 24th May :- [9498753](https://www.fixmystreet.com/report/9498753)
-- Left on green for months after resident moved house, 24th May :- [9498708](https://www.fixmystreet.com/report/9498708)
-- Fly tipping, 24th May :- [9498657](https://www.fixmystreet.com/report/9498657)
-- Tree falling down, if goes will end up smashing my gate and fence down and potentially hurting a person or dog if they happen to be in the garden at the time. It’s also limiting access to my gate out to little copse lane as scared will fall on me!, 24th May :- [9498558](https://www.fixmystreet.com/report/9498558)
 
 <!-- fix_marker ends -->

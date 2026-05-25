@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man, 22, charged with sexual assault of two teens 'pretended to be an officer' ([21 hours ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
-- In Pictures: Festival fun in the sun and T20 wins ([22 hours ago](https://www.bbc.com/news/articles/c0m2pkw00vmo?at_medium=RSS&at_campaign=rss))
-- Are hardback books things of 'great beauty' or a dying art? ([23 hours ago](https://www.bbc.com/news/articles/c9weyrwn08lo?at_medium=RSS&at_campaign=rss))
-- Cheese that survives a 70mph hill run 'still tastes great' ([23 hours ago](https://www.bbc.com/news/articles/cg5pq23pvz0o?at_medium=RSS&at_campaign=rss))
+- Dentists 'shocked' by number of NHS no-shows ([1 hours ago](https://www.bbc.com/news/articles/c072554e348o?at_medium=RSS&at_campaign=rss))
+- Man, 22, charged with sexual assault of two teens 'pretended to be an officer' ([23 hours ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
+- In Pictures: Festival fun in the sun and T20 wins ([1 days ago](https://www.bbc.com/news/articles/c0m2pkw00vmo?at_medium=RSS&at_campaign=rss))
+- Are hardback books things of 'great beauty' or a dying art? ([1 days ago](https://www.bbc.com/news/articles/c9weyrwn08lo?at_medium=RSS&at_campaign=rss))
+- Cheese that survives a 70mph hill run 'still tastes great' ([1 days ago](https://www.bbc.com/news/articles/cg5pq23pvz0o?at_medium=RSS&at_campaign=rss))
 - Artist's delight as lion statue 'comes home' ([1 days ago](https://www.bbc.com/news/articles/c2k28l1318wo?at_medium=RSS&at_campaign=rss))
 - Newspapers: Mattresses for Ukraine and fire devastates business ([2 days ago](https://www.bbc.com/news/articles/c202zwj89y4o?at_medium=RSS&at_campaign=rss))
 - Family wants 'Alice's Law' after mother's BBL death ([2 days ago](https://www.bbc.com/news/articles/czx24ykre9go?at_medium=RSS&at_campaign=rss))
@@ -27,7 +28,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Councillors accused of acting like 'spoilt children' ([3 days ago](https://www.bbc.com/news/articles/cn0pkvqwq4jo?at_medium=RSS&at_campaign=rss))
 - Car boot road safety concerns spark questions over new cycle path ([3 days ago](https://gloucesternewscentre.co.uk/car-boot-road-safety-concerns-spark-questions-over-new-cycle-path/))
 - Display to celebrate 150 years of town's hospital ([3 days ago](https://www.bbc.com/news/articles/c707lg4yj82o?at_medium=RSS&at_campaign=rss))
-- What is the Cooper's Hill cheese rolling tradition? ([4 days ago](https://www.bbc.com/news/articles/cz024gnm9z4o?at_medium=RSS&at_campaign=rss))
 - Grant to give walking footballers more pitch time ([4 days ago](https://www.bbc.com/news/articles/c8xwrvynqr9o?at_medium=RSS&at_campaign=rss))
 - How to avoid QR code parking scams as warnings issued ([4 days ago](https://www.bbc.com/news/articles/crrpknqpgzlo?at_medium=RSS&at_campaign=rss))
 - Councils could try again to sell Gloucestershire Airport ([5 days ago](https://gloucesternewscentre.co.uk/councils-could-try-again-to-sell-gloucestershire-airport/))

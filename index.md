@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 25 May 2026
 
-- The average temperature today is 25.09˚C,
-- With highs of 25.54˚C and lows of 23.49˚C,
-- It may feel like 25.22˚C with clear sky
-- The wind speed is 1.65m/s and visibility is 10000m
-- The pressure is 1030hPa and humidity is 60%
+- The average temperature today is 27.51˚C,
+- With highs of 28.3˚C and lows of 26.75˚C,
+- It may feel like 27.7˚C with clear sky
+- The wind speed is 1.03m/s and visibility is 10000m
+- The pressure is 1031hPa and humidity is 47%
 - The sun will rise at 04:01 and set at 20:08
 
 <!-- weather_marker ends -->

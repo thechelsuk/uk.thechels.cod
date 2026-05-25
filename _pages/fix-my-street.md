@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Branches overhanging pathway forcing cyclists/walkers to divert, 25th May :- [9502053](https://www.fixmystreet.com/report/9502053)
 - Long unsightly grass, 25th May :- [9501704](https://www.fixmystreet.com/report/9501704)
 - Weeds and brambles blocking path, 25th May :- [9501449](https://www.fixmystreet.com/report/9501449)
 - Dead Badger on the road, 25th May :- [9501423](https://www.fixmystreet.com/report/9501423)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 24th May :- [9499451](https://www.fixmystreet.com/report/9499451)
 - Overgrown grass verges everywhere on abbotswood road, 24th May :- [9499296](https://www.fixmystreet.com/report/9499296)
 - 6 gas bottles dumped, 24th May :- [9499021](https://www.fixmystreet.com/report/9499021)
-- Pothole, 24th May :- [9498753](https://www.fixmystreet.com/report/9498753)
 
 <!-- fix_marker ends -->

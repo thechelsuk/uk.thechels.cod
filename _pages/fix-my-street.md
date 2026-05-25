@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dinner plate size pothole in eastbound carriageway, 25th May :- [9504472](https://www.fixmystreet.com/report/9504472)
+- Street light out, 25th May :- [9504302](https://www.fixmystreet.com/report/9504302)
 - Many clothes bags dumped by full clothes bins, 25th May :- [9503798](https://www.fixmystreet.com/report/9503798)
 - Toilet and handbasin left in street, 25th May :- [9503790](https://www.fixmystreet.com/report/9503790)
 - Fly tipping, 25th May :- [9503670](https://www.fixmystreet.com/report/9503670)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Westbound primary direction sign is missing top half, 25th May :- [9502559](https://www.fixmystreet.com/report/9502559)
 - Path at bungalow, 25th May :- [9502507](https://www.fixmystreet.com/report/9502507)
 - Fly tipping, 25th May :- [9502472](https://www.fixmystreet.com/report/9502472)
-- Growth at base of tree blocking view of road when exiting driveway making it very dangerous, 25th May :- [9502248](https://www.fixmystreet.com/report/9502248)
-- Branches overhanging pathway forcing cyclists/walkers to divert, 25th May :- [9502053](https://www.fixmystreet.com/report/9502053)
 
 <!-- fix_marker ends -->

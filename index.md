@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 24 May 2026
+## On Monday, 25 May 2026
 
-- The average temperature today is 18.11˚C,
-- With highs of 19.27˚C and lows of 16.58˚C,
-- It may feel like 17.93˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1030hPa and humidity is 75%
+- The average temperature today is 16.49˚C,
+- With highs of 17.05˚C and lows of 15.38˚C,
+- It may feel like 16.36˚C with clear sky
+- The wind speed is 1.01m/s and visibility is 10000m
+- The pressure is 1030hPa and humidity is 83%
 - The sun will rise at 04:01 and set at 20:08
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 24 days since the last change (2026-04-30)
+- It has been 25 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->

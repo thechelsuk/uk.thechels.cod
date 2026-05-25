@@ -12,7 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Dentists 'shocked' by number of NHS no-shows ([5 hours ago](https://www.bbc.com/news/articles/c072554e348o?at_medium=RSS&at_campaign=rss))
+- German YouTuber retains cheese roll champion title ([47 minutes ago](https://www.bbc.com/news/articles/c98rrde2d9no?at_medium=RSS&at_campaign=rss))
+- Dentists 'shocked' by number of NHS no-shows ([7 hours ago](https://www.bbc.com/news/articles/c072554e348o?at_medium=RSS&at_campaign=rss))
 - Man, 22, charged with sexual assault of two teens 'pretended to be an officer' ([1 days ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
 - In Pictures: Festival fun in the sun and T20 wins ([1 days ago](https://www.bbc.com/news/articles/c0m2pkw00vmo?at_medium=RSS&at_campaign=rss))
 - Are hardback books things of 'great beauty' or a dying art? ([1 days ago](https://www.bbc.com/news/articles/c9weyrwn08lo?at_medium=RSS&at_campaign=rss))
@@ -20,8 +21,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Artist's delight as lion statue 'comes home' ([1 days ago](https://www.bbc.com/news/articles/c2k28l1318wo?at_medium=RSS&at_campaign=rss))
 - Newspapers: Mattresses for Ukraine and fire devastates business ([2 days ago](https://www.bbc.com/news/articles/c202zwj89y4o?at_medium=RSS&at_campaign=rss))
 - Family wants 'Alice's Law' after mother's BBL death ([2 days ago](https://www.bbc.com/news/articles/czx24ykre9go?at_medium=RSS&at_campaign=rss))
-- RIAT 2026 cancelled amid Middle East conflict ([2 days ago](https://www.bbc.com/news/articles/cr5plvn0j5ro?at_medium=RSS&at_campaign=rss))
-- Councillor first elected aged 18 resigns ([2 days ago](https://www.bbc.com/news/articles/cjdp92v325do?at_medium=RSS&at_campaign=rss))
+- RIAT 2026 cancelled amid Middle East conflict ([3 days ago](https://www.bbc.com/news/articles/cr5plvn0j5ro?at_medium=RSS&at_campaign=rss))
+- Councillor first elected aged 18 resigns ([3 days ago](https://www.bbc.com/news/articles/cjdp92v325do?at_medium=RSS&at_campaign=rss))
 - Wheelbarrows and woolsacks - quirky West events ([3 days ago](https://www.bbc.com/news/articles/cwy2w6kpy6eo?at_medium=RSS&at_campaign=rss))
 - West Country heat warning as temperatures soar ([3 days ago](https://www.bbc.com/news/articles/cwy2r9lx21ko?at_medium=RSS&at_campaign=rss))
 - Adrenaline rush brings YouTubers to Cooper's Hill ([3 days ago](https://www.bbc.com/news/articles/cn8pxzn46lqo?at_medium=RSS&at_campaign=rss))
@@ -31,7 +32,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Grant to give walking footballers more pitch time ([4 days ago](https://www.bbc.com/news/articles/c8xwrvynqr9o?at_medium=RSS&at_campaign=rss))
 - Councils could try again to sell Gloucestershire Airport ([5 days ago](https://gloucesternewscentre.co.uk/councils-could-try-again-to-sell-gloucestershire-airport/))
 - YMCA Cheltenham marks 170 Years ([5 days ago](https://gloucesternewscentre.co.uk/ymca-cheltenham-marks-170-years/))
-- Cheltenham Town ([6 days ago](https://www.bbc.co.uk/sounds/play/p0nlzr2c?at_medium=RSS&at_campaign=rss))
 - Cheltenham 20mph plans proposed ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-20mph-plans-proposed/))
 - New A435 cycleway to be officially opened ([6 days ago](https://gloucesternewscentre.co.uk/new-a435-cycleway-to-be-officially-opened/))
 - Police release images of women they want to identify following Cheltenham Racecourse assault ([6 days ago](https://gloucesternewscentre.co.uk/police-release-images-of-women-they-want-to-identify-following-cheltenham-racecourse-assault/))

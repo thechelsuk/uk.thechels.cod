@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree by side of Hyde Brook has fallen, 25th May :- [9503012](https://www.fixmystreet.com/report/9503012)
+- Fly Tipping, 25th May :- [9502923](https://www.fixmystreet.com/report/9502923)
 - Patent and Child Sign pointing the wrong way, 25th May :- [9502628](https://www.fixmystreet.com/report/9502628)
 - Electrical substation work commenced but not finished after over two months, temporary barriers left place, attached by cable ties, 25th May :- [9502587](https://www.fixmystreet.com/report/9502587)
 - SUGGESTION : Could more dotted lines be added on Arle Court roundabout, leading to A40 west ?, 25th May :- [9502583](https://www.fixmystreet.com/report/9502583)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Bridleway completely impassable to ridden horses, 24th May :- [9500546](https://www.fixmystreet.com/report/9500546)
 - Bridle way is completely impassable by a horse, 24th May :- [9500497](https://www.fixmystreet.com/report/9500497)
 - Trolley in Brook, 24th May :- [9500201](https://www.fixmystreet.com/report/9500201)
-- Blocked drain cover, 24th May :- [9500175](https://www.fixmystreet.com/report/9500175)
-- Sign leads to overgrown path, 24th May :- [9499981](https://www.fixmystreet.com/report/9499981)
 
 <!-- fix_marker ends -->

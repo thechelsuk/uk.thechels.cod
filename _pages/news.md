@@ -12,7 +12,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Dentists 'shocked' by number of NHS no-shows ([3 hours ago](https://www.bbc.com/news/articles/c072554e348o?at_medium=RSS&at_campaign=rss))
+- Dentists 'shocked' by number of NHS no-shows ([5 hours ago](https://www.bbc.com/news/articles/c072554e348o?at_medium=RSS&at_campaign=rss))
 - Man, 22, charged with sexual assault of two teens 'pretended to be an officer' ([1 days ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
 - In Pictures: Festival fun in the sun and T20 wins ([1 days ago](https://www.bbc.com/news/articles/c0m2pkw00vmo?at_medium=RSS&at_campaign=rss))
 - Are hardback books things of 'great beauty' or a dying art? ([1 days ago](https://www.bbc.com/news/articles/c9weyrwn08lo?at_medium=RSS&at_campaign=rss))
@@ -22,7 +22,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Family wants 'Alice's Law' after mother's BBL death ([2 days ago](https://www.bbc.com/news/articles/czx24ykre9go?at_medium=RSS&at_campaign=rss))
 - RIAT 2026 cancelled amid Middle East conflict ([2 days ago](https://www.bbc.com/news/articles/cr5plvn0j5ro?at_medium=RSS&at_campaign=rss))
 - Councillor first elected aged 18 resigns ([2 days ago](https://www.bbc.com/news/articles/cjdp92v325do?at_medium=RSS&at_campaign=rss))
-- Wheelbarrows and woolsacks - quirky West events ([2 days ago](https://www.bbc.com/news/articles/cwy2w6kpy6eo?at_medium=RSS&at_campaign=rss))
+- Wheelbarrows and woolsacks - quirky West events ([3 days ago](https://www.bbc.com/news/articles/cwy2w6kpy6eo?at_medium=RSS&at_campaign=rss))
 - West Country heat warning as temperatures soar ([3 days ago](https://www.bbc.com/news/articles/cwy2r9lx21ko?at_medium=RSS&at_campaign=rss))
 - Adrenaline rush brings YouTubers to Cooper's Hill ([3 days ago](https://www.bbc.com/news/articles/cn8pxzn46lqo?at_medium=RSS&at_campaign=rss))
 - Councillors accused of acting like 'spoilt children' ([3 days ago](https://www.bbc.com/news/articles/cn0pkvqwq4jo?at_medium=RSS&at_campaign=rss))

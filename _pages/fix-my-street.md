@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Patent and Child Sign pointing the wrong way, 25th May :- [9502628](https://www.fixmystreet.com/report/9502628)
+- Electrical substation work commenced but not finished after over two months, temporary barriers left place, attached by cable ties, 25th May :- [9502587](https://www.fixmystreet.com/report/9502587)
+- SUGGESTION : Could more dotted lines be added on Arle Court roundabout, leading to A40 west ?, 25th May :- [9502583](https://www.fixmystreet.com/report/9502583)
+- Rocky and uneven pathway following work by electrical company to the sub station, 25th May :- [9502578](https://www.fixmystreet.com/report/9502578)
+- Westbound primary direction sign is missing top half, 25th May :- [9502559](https://www.fixmystreet.com/report/9502559)
+- Path at bungalow, 25th May :- [9502507](https://www.fixmystreet.com/report/9502507)
+- Fly tipping, 25th May :- [9502472](https://www.fixmystreet.com/report/9502472)
+- Growth at base of tree blocking view of road when exiting driveway making it very dangerous, 25th May :- [9502248](https://www.fixmystreet.com/report/9502248)
 - Branches overhanging pathway forcing cyclists/walkers to divert, 25th May :- [9502053](https://www.fixmystreet.com/report/9502053)
 - Long unsightly grass, 25th May :- [9501704](https://www.fixmystreet.com/report/9501704)
 - Weeds and brambles blocking path, 25th May :- [9501449](https://www.fixmystreet.com/report/9501449)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Trolley in Brook, 24th May :- [9500201](https://www.fixmystreet.com/report/9500201)
 - Blocked drain cover, 24th May :- [9500175](https://www.fixmystreet.com/report/9500175)
 - Sign leads to overgrown path, 24th May :- [9499981](https://www.fixmystreet.com/report/9499981)
-- Overflowing Dog waste bin, 24th May :- [9498853](https://www.fixmystreet.com/report/9498853)
-- Wide area pot hole road surface damage., 24th May :- [9499688](https://www.fixmystreet.com/report/9499688)
-- Large pothole, difficult to avoid in road, 24th May :- [9499605](https://www.fixmystreet.com/report/9499605)
-- Lack of Bus Shelter after a year, 24th May :- [9499574](https://www.fixmystreet.com/report/9499574)
-- 2 big potholes outside number 27. Big stones coming out of it. A few times the stones have hit the car in the driveway it is outside. There are lot of heavy lorries going to mira showers which makes it worse. Stones on the path and kids kicking them along., 24th May :- [9499470](https://www.fixmystreet.com/report/9499470)
-- Fly tipping, 24th May :- [9499451](https://www.fixmystreet.com/report/9499451)
-- Overgrown grass verges everywhere on abbotswood road, 24th May :- [9499296](https://www.fixmystreet.com/report/9499296)
-- 6 gas bottles dumped, 24th May :- [9499021](https://www.fixmystreet.com/report/9499021)
 
 <!-- fix_marker ends -->

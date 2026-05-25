@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping overgrown grass weeds, 25th May :- [9503323](https://www.fixmystreet.com/report/9503323)
+- Pothole in road outside 1 Snowdon Gardens, 25th May :- [9503262](https://www.fixmystreet.com/report/9503262)
+- Tree roots damaging wall, 25th May :- [9503210](https://www.fixmystreet.com/report/9503210)
+- Plants growing out of drain, 25th May :- [9503095](https://www.fixmystreet.com/report/9503095)
 - Tree by side of Hyde Brook has fallen, 25th May :- [9503012](https://www.fixmystreet.com/report/9503012)
 - Fly Tipping, 25th May :- [9502923](https://www.fixmystreet.com/report/9502923)
 - Patent and Child Sign pointing the wrong way, 25th May :- [9502628](https://www.fixmystreet.com/report/9502628)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Dead Badger on the road, 25th May :- [9501423](https://www.fixmystreet.com/report/9501423)
 - The bollard to stop vehicles using this public footpath has been removed leaving it open to unaithorised vehicle access., 24th May :- [9501115](https://www.fixmystreet.com/report/9501115)
 - Flytipping, 24th May :- [9500920](https://www.fixmystreet.com/report/9500920)
-- Large herd of bullocks which are very keen to follow chase walkers. Very intimidating which make access to this field & those around it 'off limits' for many people., 24th May :- [9500799](https://www.fixmystreet.com/report/9500799)
-- Bridleway completely impassable to ridden horses, 24th May :- [9500546](https://www.fixmystreet.com/report/9500546)
-- Bridle way is completely impassable by a horse, 24th May :- [9500497](https://www.fixmystreet.com/report/9500497)
-- Trolley in Brook, 24th May :- [9500201](https://www.fixmystreet.com/report/9500201)
 
 <!-- fix_marker ends -->

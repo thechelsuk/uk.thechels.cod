@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light obscured by overgrown tree, 25th May :- [9504712](https://www.fixmystreet.com/report/9504712)
 - Dinner plate size pothole in eastbound carriageway, 25th May :- [9504472](https://www.fixmystreet.com/report/9504472)
 - Street light out, 25th May :- [9504302](https://www.fixmystreet.com/report/9504302)
 - Many clothes bags dumped by full clothes bins, 25th May :- [9503798](https://www.fixmystreet.com/report/9503798)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Rocky and uneven pathway following work by electrical company to the sub station, 25th May :- [9502578](https://www.fixmystreet.com/report/9502578)
 - Westbound primary direction sign is missing top half, 25th May :- [9502559](https://www.fixmystreet.com/report/9502559)
 - Path at bungalow, 25th May :- [9502507](https://www.fixmystreet.com/report/9502507)
-- Fly tipping, 25th May :- [9502472](https://www.fixmystreet.com/report/9502472)
 
 <!-- fix_marker ends -->

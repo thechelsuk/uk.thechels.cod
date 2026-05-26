@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 26 May 2026
 
-- The average temperature today is 31.75˚C,
-- With highs of 31.75˚C and lows of 31.75˚C,
-- It may feel like 31.44˚C with few clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 37%
+- The average temperature today is 30.75˚C,
+- With highs of 30.75˚C and lows of 30.75˚C,
+- It may feel like 30.59˚C with few clouds
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 40%
 - The sun will rise at 04:00 and set at 20:10
 
 <!-- weather_marker ends -->

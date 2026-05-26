@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog poo bin overflowing, not emptied recently, 26th May :- [9509622](https://www.fixmystreet.com/report/9509622)
 - Rattling drainage cover, 26th May :- [9509458](https://www.fixmystreet.com/report/9509458)
 - Broken paving slab sticking a few inches above the pavement, 26th May :- [9509408](https://www.fixmystreet.com/report/9509408)
 - Large hole between BT? 5G cabinets, 26th May :- [9509321](https://www.fixmystreet.com/report/9509321)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Overflowing bins, 26th May :- [9508137](https://www.fixmystreet.com/report/9508137)
 - TMC - Defects - Vegetation problem, 26th May :- [9508103](https://www.fixmystreet.com/report/9508103)
 - TMC - Defects -CW6 Potholes  problem, 26th May :- [9508098](https://www.fixmystreet.com/report/9508098)
-- TMC - Defects -CW6 Potholes  problem, 26th May :- [9508097](https://www.fixmystreet.com/report/9508097)
 
 <!-- fix_marker ends -->

@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In Pictures: West basks in bank holiday heatwave ([7 hours ago](https://www.bbc.com/news/articles/c0722n7ez4yo?at_medium=RSS&at_campaign=rss))
-- German YouTuber retains cheese roll champion title ([10 hours ago](https://www.bbc.com/news/articles/c98rrde2d9no?at_medium=RSS&at_campaign=rss))
-- Dentists 'shocked' by number of NHS no-shows ([16 hours ago](https://www.bbc.com/news/articles/c072554e348o?at_medium=RSS&at_campaign=rss))
+- In Pictures: West basks in bank holiday heatwave ([10 hours ago](https://www.bbc.com/news/articles/c0722n7ez4yo?at_medium=RSS&at_campaign=rss))
+- German YouTuber retains cheese roll champion title ([12 hours ago](https://www.bbc.com/news/articles/c98rrde2d9no?at_medium=RSS&at_campaign=rss))
+- Dentists 'shocked' by number of NHS no-shows ([19 hours ago](https://www.bbc.com/news/articles/c072554e348o?at_medium=RSS&at_campaign=rss))
 - Man, 22, charged with sexual assault of two teens 'pretended to be an officer' ([1 days ago](https://www.bbc.com/news/articles/ceqpv4z37ero?at_medium=RSS&at_campaign=rss))
 - In Pictures: Festival fun in the sun and T20 wins ([1 days ago](https://www.bbc.com/news/articles/c0m2pkw00vmo?at_medium=RSS&at_campaign=rss))
 - Are hardback books things of 'great beauty' or a dying art? ([1 days ago](https://www.bbc.com/news/articles/c9weyrwn08lo?at_medium=RSS&at_campaign=rss))

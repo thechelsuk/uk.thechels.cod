@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bin cover removed and thrown over railway line gated access, 26th May :- [9510787](https://www.fixmystreet.com/report/9510787)
+- Street light flickering, 26th May :- [9510785](https://www.fixmystreet.com/report/9510785)
+- Overgrown hedge and hanging branch obstructing the footpath, 26th May :- [9510617](https://www.fixmystreet.com/report/9510617)
+- Pothole in road opposite no 118 and 122, 26th May :- [9510583](https://www.fixmystreet.com/report/9510583)
 - Unknown car blocking drive access, 26th May :- [9510515](https://www.fixmystreet.com/report/9510515)
 - Dog poo bin overflowing, not emptied recently, 26th May :- [9509622](https://www.fixmystreet.com/report/9509622)
 - Rattling drainage cover, 26th May :- [9509458](https://www.fixmystreet.com/report/9509458)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 26th May :- [9508544](https://www.fixmystreet.com/report/9508544)
 - TMC - Defects -CW6 Potholes  problem, 26th May :- [9508304](https://www.fixmystreet.com/report/9508304)
 - TMC - Defects -CW6 Potholes  problem, 26th May :- [9508305](https://www.fixmystreet.com/report/9508305)
-- TMC - Defects -CW6 Potholes  problem, 26th May :- [9508291](https://www.fixmystreet.com/report/9508291)
-- TMC - Defects -other CW6 problem, 26th May :- [9508290](https://www.fixmystreet.com/report/9508290)
-- Overflowing bins, 26th May :- [9508137](https://www.fixmystreet.com/report/9508137)
-- TMC - Defects - Vegetation problem, 26th May :- [9508103](https://www.fixmystreet.com/report/9508103)
 
 <!-- fix_marker ends -->

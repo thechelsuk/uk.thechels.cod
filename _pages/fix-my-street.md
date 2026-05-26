@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass verge at crossroads by golf club need cutting as causing visibility issues at busy junction, 26th May :- [9505665](https://www.fixmystreet.com/report/9505665)
+- Ive not included photos since this is the same pothole around the sewage access point that is caused by the continual erosion around the sewage infrastructure and the excessive use of the road by industrial traffic. The hole is between highbury church and 44/46 Carlton street., 26th May :- [9505393](https://www.fixmystreet.com/report/9505393)
 - Street light obscured by overgrown tree, 25th May :- [9504712](https://www.fixmystreet.com/report/9504712)
 - Dinner plate size pothole in eastbound carriageway, 25th May :- [9504472](https://www.fixmystreet.com/report/9504472)
 - Street light out, 25th May :- [9504302](https://www.fixmystreet.com/report/9504302)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Electrical substation work commenced but not finished after over two months, temporary barriers left place, attached by cable ties, 25th May :- [9502587](https://www.fixmystreet.com/report/9502587)
 - SUGGESTION : Could more dotted lines be added on Arle Court roundabout, leading to A40 west ?, 25th May :- [9502583](https://www.fixmystreet.com/report/9502583)
 - Rocky and uneven pathway following work by electrical company to the sub station, 25th May :- [9502578](https://www.fixmystreet.com/report/9502578)
-- Westbound primary direction sign is missing top half, 25th May :- [9502559](https://www.fixmystreet.com/report/9502559)
-- Path at bungalow, 25th May :- [9502507](https://www.fixmystreet.com/report/9502507)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 27 May 2026
 
-- The average temperature today is 27.21˚C,
-- With highs of 27.76˚C and lows of 25.71˚C,
-- It may feel like 27.75˚C with clear sky
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 52%
+- The average temperature today is 27.75˚C,
+- With highs of 27.75˚C and lows of 26.83˚C,
+- It may feel like 28.26˚C with clear sky
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 51%
 - The sun will rise at 03:59 and set at 20:11
 
 <!-- weather_marker ends -->

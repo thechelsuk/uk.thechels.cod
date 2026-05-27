@@ -9,7 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping - bag of rubbish, 27th May :- [9515788](https://www.fixmystreet.com/report/9515788)
+- Fly tipping and vandalised fencing, 27th May :- [9515747](https://www.fixmystreet.com/report/9515747)
+- 4 large trade refuse bins, 27th May :- [9515545](https://www.fixmystreet.com/report/9515545)
+- I have been asked to raise an enquiry to have the H marking extended to include the entrance to my 2 car off road parking area in Fairfield Avenue, 27th May :- [9515299](https://www.fixmystreet.com/report/9515299)
+- Drains are blocked and hole coming by gas manhole, 27th May :- [9515196](https://www.fixmystreet.com/report/9515196)
+- TMC - Defects -CW6 Potholes  problem, 27th May :- [9515227](https://www.fixmystreet.com/report/9515227)
+- TMC - Defects -CW6 Potholes  problem, 27th May :- [9515226](https://www.fixmystreet.com/report/9515226)
+- TMC - Defects - Vegetation problem, 27th May :- [9515225](https://www.fixmystreet.com/report/9515225)
+- TMC - Defects - Vegetation problem, 27th May :- [9515224](https://www.fixmystreet.com/report/9515224)
+- TMC - Defects - Vegetation problem, 27th May :- [9515223](https://www.fixmystreet.com/report/9515223)
 - Railing at top of small incline has been damaged and now poses a serious risk of injury to passing cyclists, 27th May :- [9514991](https://www.fixmystreet.com/report/9514991)
+- TMC - Defects - Vegetation problem, 27th May :- [9515032](https://www.fixmystreet.com/report/9515032)
 - Pavement is so baddly patched that is almost impossible for anyone with a wheelchair or with a pushchair to use., 27th May :- [9514788](https://www.fixmystreet.com/report/9514788)
 - TMC - Defects -CW6 Potholes  problem, 27th May :- [9514852](https://www.fixmystreet.com/report/9514852)
 - TMC - Defects -CW6 Potholes  problem, 27th May :- [9514851](https://www.fixmystreet.com/report/9514851)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 27th May :- [9514658](https://www.fixmystreet.com/report/9514658)
 - TMC - Defects -CW6 Potholes  problem, 27th May :- [9514659](https://www.fixmystreet.com/report/9514659)
 - TMC - Defects -other CW6 problem, 27th May :- [9514644](https://www.fixmystreet.com/report/9514644)
-- TMC - Defects -CW6 Potholes  problem, 27th May :- [9514643](https://www.fixmystreet.com/report/9514643)
-- TMC - Defects -CW6 Potholes  problem, 27th May :- [9514642](https://www.fixmystreet.com/report/9514642)
-- Streetname signs need repainting., 27th May :- [9514181](https://www.fixmystreet.com/report/9514181)
-- TMC - Defects - Covers, Gratings & Frames problem, 27th May :- [9514262](https://www.fixmystreet.com/report/9514262)
-- TMC - Defects -other CW6 problem, 27th May :- [9514259](https://www.fixmystreet.com/report/9514259)
-- TMC - Defects -other CW6 problem, 27th May :- [9514258](https://www.fixmystreet.com/report/9514258)
-- Vandalism racist, 27th May :- [9514139](https://www.fixmystreet.com/report/9514139)
-- Grass verges badly overgrown., 27th May :- [9514125](https://www.fixmystreet.com/report/9514125)
-- Overgrown verges along Glevum Way, along alley by railway line. Dangerous for young children, as well as disabled people, due to overgrown stinging nettles at eye height., 27th May :- [9514102](https://www.fixmystreet.com/report/9514102)
-- TMC - Defects -CW6 Potholes  problem, 27th May :- [9513814](https://www.fixmystreet.com/report/9513814)
-- TMC - Defects -CW6 Potholes  problem, 27th May :- [9513804](https://www.fixmystreet.com/report/9513804)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned sign, 27th May :- [9511534](https://www.fixmystreet.com/report/9511534)
 - Bin cover removed and thrown over railway line gated access, 26th May :- [9510787](https://www.fixmystreet.com/report/9510787)
 - Street light flickering, 26th May :- [9510785](https://www.fixmystreet.com/report/9510785)
 - Overgrown hedge and hanging branch obstructing the footpath, 26th May :- [9510617](https://www.fixmystreet.com/report/9510617)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 26th May :- [9508546](https://www.fixmystreet.com/report/9508546)
 - TMC - Defects -CW6 Potholes  problem, 26th May :- [9508544](https://www.fixmystreet.com/report/9508544)
 - TMC - Defects -CW6 Potholes  problem, 26th May :- [9508304](https://www.fixmystreet.com/report/9508304)
-- TMC - Defects -CW6 Potholes  problem, 26th May :- [9508305](https://www.fixmystreet.com/report/9508305)
 
 <!-- fix_marker ends -->

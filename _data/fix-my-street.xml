@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects - Vegetation problem, 27th May</title>
+<link>https://www.fixmystreet.com/report/9512232</link>
+<description>ENWD with Standard TM with fway closure please cut back overgrown brambles/hedges back to boundary approx 12m x 1.5m x 1.5m (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9512232&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9512232</guid>
+<pubDate>Wed, 27 May 2026 08:47:35 +0100</pubDate>
+<georss:point>51.938829949472 -2.07029538695038</georss:point>
+</item>
 <item>
 <title>Abandoned sign, 27th May</title>
 <link>https://www.fixmystreet.com/report/9511534</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9508544</guid>
 <pubDate>Tue, 26 May 2026 14:07:13 +0100</pubDate>
 <georss:point>51.9383947 -2.03122300000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 26th May</title>
-<link>https://www.fixmystreet.com/report/9508304</link>
-<description>15DB CW: Pothole &amp;#10;700mmx700mmx62mm&amp;#10;TM: temporary road closure &amp;#10;Next to BT Post No 1 (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9508304&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9508304</guid>
-<pubDate>Tue, 26 May 2026 13:58:26 +0100</pubDate>
-<georss:point>51.9382199 -2.02842280000001</georss:point>
 </item>
 </channel>
 </rss>

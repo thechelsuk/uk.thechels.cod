@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown vegetation obstructing foot and cycle path, 28th May :- [9523262](https://www.fixmystreet.com/report/9523262)
+- Road has multiple potholes causing issues for cars to avoid them, 28th May :- [9523024](https://www.fixmystreet.com/report/9523024)
+- Grubby stickers on bin, 28th May :- [9523021](https://www.fixmystreet.com/report/9523021)
 - Serious visibility problem, 28th May :- [9522773](https://www.fixmystreet.com/report/9522773)
 - Very deep hole at junction of Painswick Road and Suffolk Road, 28th May :- [9522397](https://www.fixmystreet.com/report/9522397)
 - Alleyway footpath, 28th May :- [9522370](https://www.fixmystreet.com/report/9522370)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Bollard shell is damaged/vandalised problem, 28th May :- [9521052](https://www.fixmystreet.com/report/9521052)
 - TMC - Defects - Vegetation problem, 28th May :- [9521073](https://www.fixmystreet.com/report/9521073)
 - Several trees requiring pruning, 28th May :- [9520918](https://www.fixmystreet.com/report/9520918)
-- TMC - Defects -CW6 Potholes  problem, 28th May :- [9521053](https://www.fixmystreet.com/report/9521053)
-- TMC - Defects -CW6 Potholes  problem, 28th May :- [9521055](https://www.fixmystreet.com/report/9521055)
-- TMC - Defects - Footways Slabs problem, 28th May :- [9521054](https://www.fixmystreet.com/report/9521054)
 
 <!-- fix_marker ends -->

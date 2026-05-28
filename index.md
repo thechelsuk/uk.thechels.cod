@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 28 May 2026
 
-- The average temperature today is 15.53˚C,
-- With highs of 15.94˚C and lows of 14.36˚C,
-- It may feel like 15.18˚C with broken clouds
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 78%
+- The average temperature today is 19.77˚C,
+- With highs of 20.39˚C and lows of 18.86˚C,
+- It may feel like 19.63˚C with clear sky
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 70%
 - The sun will rise at 03:58 and set at 20:12
 
 <!-- weather_marker ends -->

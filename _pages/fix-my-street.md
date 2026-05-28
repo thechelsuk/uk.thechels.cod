@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drains on A435 are still blocked, 29th May :- [9524012](https://www.fixmystreet.com/report/9524012)
+- Road surface north of Hilcot crossroads is dangerous, 28th May :- [9523988](https://www.fixmystreet.com/report/9523988)
 - Overgrown vegetation obstructing foot and cycle path, 28th May :- [9523262](https://www.fixmystreet.com/report/9523262)
 - Road has multiple potholes causing issues for cars to avoid them, 28th May :- [9523024](https://www.fixmystreet.com/report/9523024)
 - Grubby stickers on bin, 28th May :- [9523021](https://www.fixmystreet.com/report/9523021)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Grass verges, 28th May :- [9521040](https://www.fixmystreet.com/report/9521040)
 - Bus Stop has pen, 28th May :- [9521209](https://www.fixmystreet.com/report/9521209)
 - Bollard shell is damaged/vandalised problem, 28th May :- [9521052](https://www.fixmystreet.com/report/9521052)
-- TMC - Defects - Vegetation problem, 28th May :- [9521073](https://www.fixmystreet.com/report/9521073)
-- Several trees requiring pruning, 28th May :- [9520918](https://www.fixmystreet.com/report/9520918)
 
 <!-- fix_marker ends -->

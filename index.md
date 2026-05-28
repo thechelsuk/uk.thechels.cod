@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Wednesday, 27 May 2026
+## On Thursday, 28 May 2026
 
-- The average temperature today is 15.23˚C,
-- With highs of 15.23˚C and lows of 15.23˚C,
-- It may feel like 14.61˚C with few clouds
-- The wind speed is 3.63m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 69%
+- The average temperature today is 14.6˚C,
+- With highs of 14.6˚C and lows of 14.6˚C,
+- It may feel like 14˚C with heavy intensity rain
+- The wind speed is 2.88m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 72%
 - The sun will rise at 03:58 and set at 20:12
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 27 days since the last change (2026-04-30)
+- It has been 28 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->

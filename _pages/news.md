@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Heatwave sparks record number of ambulance callouts ([7 hours ago](https://www.bbc.com/news/articles/ckgp83vj1e4o?at_medium=RSS&at_campaign=rss))
-- Yellow weather warning for thunderstorms issued ([10 hours ago](https://www.bbc.com/news/articles/cgmpdw92031o?at_medium=RSS&at_campaign=rss))
-- Abuse among under-16s 'rising due to extreme porn' ([11 hours ago](https://www.bbc.com/news/articles/c8e82pwyg33o?at_medium=RSS&at_campaign=rss))
-- 'First of its kind' hub to focus on female sport ([13 hours ago](https://www.bbc.com/news/articles/cnvp95v3v6no?at_medium=RSS&at_campaign=rss))
-- New trail aims to connect humans to wildlife ([20 hours ago](https://www.bbc.com/news/articles/c4gv683j21go?at_medium=RSS&at_campaign=rss))
-- Nurse's plea to end 'impersonal' property bags ([20 hours ago](https://www.bbc.com/news/articles/cm2p8v4kzyxo?at_medium=RSS&at_campaign=rss))
+- Heatwave sparks record number of ambulance callouts ([10 hours ago](https://www.bbc.com/news/articles/ckgp83vj1e4o?at_medium=RSS&at_campaign=rss))
+- Yellow weather warning for thunderstorms issued ([13 hours ago](https://www.bbc.com/news/articles/cgmpdw92031o?at_medium=RSS&at_campaign=rss))
+- Abuse among under-16s 'rising due to extreme porn' ([14 hours ago](https://www.bbc.com/news/articles/c8e82pwyg33o?at_medium=RSS&at_campaign=rss))
+- 'First of its kind' hub to focus on female sport ([16 hours ago](https://www.bbc.com/news/articles/cnvp95v3v6no?at_medium=RSS&at_campaign=rss))
+- New trail aims to connect humans to wildlife ([22 hours ago](https://www.bbc.com/news/articles/c4gv683j21go?at_medium=RSS&at_campaign=rss))
+- Nurse's plea to end 'impersonal' property bags ([22 hours ago](https://www.bbc.com/news/articles/cm2p8v4kzyxo?at_medium=RSS&at_campaign=rss))
 - Hospital power outage hits IT systems and phone lines ([1 days ago](https://www.bbc.com/news/articles/cedppqy4nq6o?at_medium=RSS&at_campaign=rss))
 - Gloucester man arrested for secretly filming women ([1 days ago](https://gloucesternewscentre.co.uk/gloucester-man-arrested-for-secretly-filming-women/))
 - 'Risk of fatalities' posed by firework company ([1 days ago](https://www.bbc.com/news/articles/cd6ppew7jp0o?at_medium=RSS&at_campaign=rss))

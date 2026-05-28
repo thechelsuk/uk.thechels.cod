@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Serious visibility problem, 28th May :- [9522773](https://www.fixmystreet.com/report/9522773)
 - Very deep hole at junction of Painswick Road and Suffolk Road, 28th May :- [9522397](https://www.fixmystreet.com/report/9522397)
 - Alleyway footpath, 28th May :- [9522370](https://www.fixmystreet.com/report/9522370)
 - Large sharp edge on speed bump, 28th May :- [9522273](https://www.fixmystreet.com/report/9522273)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 28th May :- [9521053](https://www.fixmystreet.com/report/9521053)
 - TMC - Defects -CW6 Potholes  problem, 28th May :- [9521055](https://www.fixmystreet.com/report/9521055)
 - TMC - Defects - Footways Slabs problem, 28th May :- [9521054](https://www.fixmystreet.com/report/9521054)
-- TMC - Defects - Footways Slabs problem, 28th May :- [9521062](https://www.fixmystreet.com/report/9521062)
 
 <!-- fix_marker ends -->

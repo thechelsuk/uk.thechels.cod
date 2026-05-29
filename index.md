@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 29 May 2026
 
-- The average temperature today is 17.35˚C,
-- With highs of 18.07˚C and lows of 16.75˚C,
-- It may feel like 17.12˚C with few clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 76%
+- The average temperature today is 17.98˚C,
+- With highs of 19.05˚C and lows of 17.61˚C,
+- It may feel like 17.71˚C with light rain
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 72%
 - The sun will rise at 03:57 and set at 20:14
 
 <!-- weather_marker ends -->

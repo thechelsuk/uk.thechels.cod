@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole cannot be avoided, 29th May :- [9529579](https://www.fixmystreet.com/report/9529579)
 - No grass cutting as been done this year., 29th May :- [9529346](https://www.fixmystreet.com/report/9529346)
 - Bus Stop has been battered, 29th May :- [9529318](https://www.fixmystreet.com/report/9529318)
 - Trees desperately need pruning, emergency services unable to view CCTV of the street clearing onscuring view of CCTV in that area., 29th May :- [9529236](https://www.fixmystreet.com/report/9529236)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Incorrect Signage, 29th May :- [9526033](https://www.fixmystreet.com/report/9526033)
 - TMC - Defects -CW10 Potholes problem, 29th May :- [9526578](https://www.fixmystreet.com/report/9526578)
 - TMC - Defects -other CW6 problem, 29th May :- [9526576](https://www.fixmystreet.com/report/9526576)
-- TMC - Defects - Other FW6  Surface problem, 29th May :- [9526575](https://www.fixmystreet.com/report/9526575)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Visibility poor - dangerous on 'give way' both sides, 29th May :- [9528017](https://www.fixmystreet.com/report/9528017)
+- Replacement of bus stop, 29th May :- [9527983](https://www.fixmystreet.com/report/9527983)
+- Tree & vegetation, 29th May :- [9527855](https://www.fixmystreet.com/report/9527855)
+- 12" pothole on pavement, 29th May :- [9527639](https://www.fixmystreet.com/report/9527639)
+- 8 ft long pothole - was marked with a large white dot last year by Highways. Due to rain and mud which remain in the hole this marker eventually disappeared. The other pothole by No19 was marked today with a box - it had a round dot last year the same as ours. No 10 had a box drawn today around a very small pothole which is the same depth as the one outside No 8 which is also very much longer., 29th May :- [9527579](https://www.fixmystreet.com/report/9527579)
+- TMC - Defects -CW6 Potholes  problem, 29th May :- [9527610](https://www.fixmystreet.com/report/9527610)
 - Inear drainage channel/gully that’s been asphalted over rather than properly reinstated., 29th May :- [9523205](https://www.fixmystreet.com/report/9523205)
 - Grass not cut for 2 months., 29th May :- [9526677](https://www.fixmystreet.com/report/9526677)
 - Road sign left behind. Reported this 3 months ago, case closed 2 days ago without collecting, 29th May :- [9526607](https://www.fixmystreet.com/report/9526607)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 29th May :- [9526573](https://www.fixmystreet.com/report/9526573)
 - TMC - Defects -CW6 Potholes  problem, 29th May :- [9526574](https://www.fixmystreet.com/report/9526574)
 - TMC - Defects -CW6 Potholes  problem, 29th May :- [9526572](https://www.fixmystreet.com/report/9526572)
-- Bin At Bus Stop Overflowing, 29th May :- [9526355](https://www.fixmystreet.com/report/9526355)
-- Dead tree close to footpath, 29th May :- [9526244](https://www.fixmystreet.com/report/9526244)
-- TMC - Defects -CW6 Potholes  problem, 29th May :- [9526331](https://www.fixmystreet.com/report/9526331)
-- TMC - Defects - Footways Slabs problem, 29th May :- [9526330](https://www.fixmystreet.com/report/9526330)
-- TMC - Defects - Other FW6  Surface problem, 29th May :- [9526095](https://www.fixmystreet.com/report/9526095)
-- Bridleway blocked by fallen tree, 29th May :- [9525998](https://www.fixmystreet.com/report/9525998)
 
 <!-- fix_marker ends -->

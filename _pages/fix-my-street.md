@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Damage to speed bump, 29th May :- [9524801](https://www.fixmystreet.com/report/9524801)
+- Post or sign leaning slightly (less than 20 degrees) problem, 29th May :- [9524879](https://www.fixmystreet.com/report/9524879)
+- Post or sign leaning slightly (less than 20 degrees) problem, 29th May :- [9524877](https://www.fixmystreet.com/report/9524877)
+- Drain cover in road is loose therefore creating loud bang every time a vehicle drivers over/on it., 29th May :- [9524736](https://www.fixmystreet.com/report/9524736)
+- TMC - Defects - Signs & Street Furniture problem, 29th May :- [9524881](https://www.fixmystreet.com/report/9524881)
+- Cavity in road, 29th May :- [9524678](https://www.fixmystreet.com/report/9524678)
+- Abandoned fire, 29th May :- [9524460](https://www.fixmystreet.com/report/9524460)
 - Abandoned temporary sign, 29th May :- [9524050](https://www.fixmystreet.com/report/9524050)
 - Signs are filthy and obstructed by vegetation, 29th May :- [9524045](https://www.fixmystreet.com/report/9524045)
 - Drain blocked outside Ashmeade Logde, B4070 Leckhampton Hill, 29th May :- [9524041](https://www.fixmystreet.com/report/9524041)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Alleyway footpath, 28th May :- [9522370](https://www.fixmystreet.com/report/9522370)
 - Large sharp edge on speed bump, 28th May :- [9522273](https://www.fixmystreet.com/report/9522273)
 - Fly tipping, 28th May :- [9522145](https://www.fixmystreet.com/report/9522145)
-- Abandoned car for several weeks on double yellow line, 28th May :- [9521682](https://www.fixmystreet.com/report/9521682)
-- Fly tipping, 28th May :- [9521967](https://www.fixmystreet.com/report/9521967)
-- Disabled parking bay no longer needed, 28th May :- [9521807](https://www.fixmystreet.com/report/9521807)
-- Low hanging branch, 28th May :- [9521804](https://www.fixmystreet.com/report/9521804)
-- EX utility repair needs repair, 28th May :- [9521762](https://www.fixmystreet.com/report/9521762)
-- This tree and general overgrown surroundings need cutting, 28th May :- [9521735](https://www.fixmystreet.com/report/9521735)
-- Single lines dropped curb, 28th May :- [9521354](https://www.fixmystreet.com/report/9521354)
 
 <!-- fix_marker ends -->

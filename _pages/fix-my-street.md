@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned temporary sign, 29th May :- [9524050](https://www.fixmystreet.com/report/9524050)
+- Signs are filthy and obstructed by vegetation, 29th May :- [9524045](https://www.fixmystreet.com/report/9524045)
+- Drain blocked outside Ashmeade Logde, B4070 Leckhampton Hill, 29th May :- [9524041](https://www.fixmystreet.com/report/9524041)
 - Drains on A435 are still blocked, 29th May :- [9524012](https://www.fixmystreet.com/report/9524012)
 - Road surface north of Hilcot crossroads is dangerous, 28th May :- [9523988](https://www.fixmystreet.com/report/9523988)
 - Overgrown vegetation obstructing foot and cycle path, 28th May :- [9523262](https://www.fixmystreet.com/report/9523262)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - EX utility repair needs repair, 28th May :- [9521762](https://www.fixmystreet.com/report/9521762)
 - This tree and general overgrown surroundings need cutting, 28th May :- [9521735](https://www.fixmystreet.com/report/9521735)
 - Single lines dropped curb, 28th May :- [9521354](https://www.fixmystreet.com/report/9521354)
-- Grass verges, 28th May :- [9521040](https://www.fixmystreet.com/report/9521040)
-- Bus Stop has pen, 28th May :- [9521209](https://www.fixmystreet.com/report/9521209)
-- Bollard shell is damaged/vandalised problem, 28th May :- [9521052](https://www.fixmystreet.com/report/9521052)
 
 <!-- fix_marker ends -->

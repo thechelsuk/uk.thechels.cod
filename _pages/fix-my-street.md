@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No grass cutting as been done this year., 29th May :- [9529346](https://www.fixmystreet.com/report/9529346)
+- Bus Stop has been battered, 29th May :- [9529318](https://www.fixmystreet.com/report/9529318)
+- Trees desperately need pruning, emergency services unable to view CCTV of the street clearing onscuring view of CCTV in that area., 29th May :- [9529236](https://www.fixmystreet.com/report/9529236)
 - Visibility poor - dangerous on 'give way' both sides, 29th May :- [9528017](https://www.fixmystreet.com/report/9528017)
 - Replacement of bus stop, 29th May :- [9527983](https://www.fixmystreet.com/report/9527983)
 - Tree & vegetation, 29th May :- [9527855](https://www.fixmystreet.com/report/9527855)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 29th May :- [9526578](https://www.fixmystreet.com/report/9526578)
 - TMC - Defects -other CW6 problem, 29th May :- [9526576](https://www.fixmystreet.com/report/9526576)
 - TMC - Defects - Other FW6  Surface problem, 29th May :- [9526575](https://www.fixmystreet.com/report/9526575)
-- TMC - Defects -CW6 Potholes  problem, 29th May :- [9526573](https://www.fixmystreet.com/report/9526573)
-- TMC - Defects -CW6 Potholes  problem, 29th May :- [9526574](https://www.fixmystreet.com/report/9526574)
-- TMC - Defects -CW6 Potholes  problem, 29th May :- [9526572](https://www.fixmystreet.com/report/9526572)
 
 <!-- fix_marker ends -->

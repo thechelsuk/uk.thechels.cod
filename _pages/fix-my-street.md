@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Why do you keep closing this down with no further action required?, 31st May :- [9533128](https://www.fixmystreet.com/report/9533128)
+- Road is disintegrating and needs resurfacing., 30th May :- [9533102](https://www.fixmystreet.com/report/9533102)
+- Overgrown grass making emerging from junctions tricky, 30th May :- [9533091](https://www.fixmystreet.com/report/9533091)
+- Please erect bus stop here bus driving past intending passenger, 30th May :- [9533087](https://www.fixmystreet.com/report/9533087)
 - Fly tipping, 30th May :- [9532643](https://www.fixmystreet.com/report/9532643)
 - Fly tipping, 30th May :- [9532632](https://www.fixmystreet.com/report/9532632)
 - Fly tipping, 30th May :- [9532631](https://www.fixmystreet.com/report/9532631)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Flytipping, 30th May :- [9531081](https://www.fixmystreet.com/report/9531081)
 - Cycling signage at start of alley way between Selkirk Gardens and Whaddon Road, Cheltenham, 30th May :- [9530804](https://www.fixmystreet.com/report/9530804)
 - Fly tipped childs seat, 30th May :- [9530796](https://www.fixmystreet.com/report/9530796)
-- Trees growing by boundary wall, 30th May :- [9530788](https://www.fixmystreet.com/report/9530788)
-- Rubbish including building waste Hungerford St, 30th May :- [9530760](https://www.fixmystreet.com/report/9530760)
-- Flytipped item, 30th May :- [9530732](https://www.fixmystreet.com/report/9530732)
-- Flytipped item, 30th May :- [9530720](https://www.fixmystreet.com/report/9530720)
 
 <!-- fix_marker ends -->

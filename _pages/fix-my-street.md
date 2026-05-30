@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping - old woood/garden furniture, 30th May :- [9530268](https://www.fixmystreet.com/report/9530268)
 - Fallen tree on bridleway, 30th May :- [9530100](https://www.fixmystreet.com/report/9530100)
 - Mattress fly tipped, 30th May :- [9529926](https://www.fixmystreet.com/report/9529926)
 - I am afraid that there are potholes appearing all along this road, 30th May :- [9529852](https://www.fixmystreet.com/report/9529852)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Grass not cut for 2 months., 29th May :- [9526677](https://www.fixmystreet.com/report/9526677)
 - Road sign left behind. Reported this 3 months ago, case closed 2 days ago without collecting, 29th May :- [9526607](https://www.fixmystreet.com/report/9526607)
 - TMC - Defects -CW6 Potholes  problem, 29th May :- [9526579](https://www.fixmystreet.com/report/9526579)
-- TMC - Defects -other CW6 problem, 29th May :- [9526581](https://www.fixmystreet.com/report/9526581)
 
 <!-- fix_marker ends -->

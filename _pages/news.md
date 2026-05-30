@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Surreal' to reach 20 years says festival founder ([3 hours ago](https://www.bbc.com/news/articles/c3d2305ymxno?at_medium=RSS&at_campaign=rss))
-- 'World's first' pin factory restored with £150,000 ([8 hours ago](https://www.bbc.com/news/articles/c5yrzny791no?at_medium=RSS&at_campaign=rss))
-- Imbruglia 'so excited' about concert with Tom Jones ([12 hours ago](https://www.bbc.com/news/articles/c98rvl11r2lo?at_medium=RSS&at_campaign=rss))
-- New row of spa town flats 'looks like a prison' ([15 hours ago](https://www.bbc.com/news/articles/cj4pg4x41qlo?at_medium=RSS&at_campaign=rss))
-- Nipple tattoos 'a necessity' for people post-surgery ([17 hours ago](https://www.bbc.com/news/articles/c332y55ezlpo?at_medium=RSS&at_campaign=rss))
-- Fans raise thousands to save footballer's career ([18 hours ago](https://www.bbc.com/news/articles/c1j2ywpz7zko?at_medium=RSS&at_campaign=rss))
+- 'Surreal' to reach 20 years says festival founder ([5 hours ago](https://www.bbc.com/news/articles/c3d2305ymxno?at_medium=RSS&at_campaign=rss))
+- 'World's first' pin factory restored with £150,000 ([11 hours ago](https://www.bbc.com/news/articles/c5yrzny791no?at_medium=RSS&at_campaign=rss))
+- Imbruglia 'so excited' about concert with Tom Jones ([14 hours ago](https://www.bbc.com/news/articles/c98rvl11r2lo?at_medium=RSS&at_campaign=rss))
+- New row of spa town flats 'looks like a prison' ([17 hours ago](https://www.bbc.com/news/articles/cj4pg4x41qlo?at_medium=RSS&at_campaign=rss))
+- Nipple tattoos 'a necessity' for people post-surgery ([20 hours ago](https://www.bbc.com/news/articles/c332y55ezlpo?at_medium=RSS&at_campaign=rss))
+- Fans raise thousands to save footballer's career ([20 hours ago](https://www.bbc.com/news/articles/c1j2ywpz7zko?at_medium=RSS&at_campaign=rss))
 - Woman in her 80s dies following car crash ([1 days ago](https://www.bbc.com/news/articles/c5yrv3d5gxvo?at_medium=RSS&at_campaign=rss))
 - Lloyds to relocate Cheltenham town centre bank branch ([1 days ago](https://gloucesternewscentre.co.uk/lloyds-to-relocate-cheltenham-town-centre-bank-branch/))
 - Air show cancellation a 'crashing loss' for firms ([1 days ago](https://www.bbc.com/news/articles/c7755p1erezo?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 30th May :- [9532643](https://www.fixmystreet.com/report/9532643)
+- Fly tipping, 30th May :- [9532632](https://www.fixmystreet.com/report/9532632)
+- Fly tipping, 30th May :- [9532631](https://www.fixmystreet.com/report/9532631)
+- Fly tipping, 30th May :- [9532621](https://www.fixmystreet.com/report/9532621)
+- Esso longlevens service station, 30th May :- [9532526](https://www.fixmystreet.com/report/9532526)
 - Flytipped fridge freezer on pavement of Grosvenor street, 30th May :- [9532138](https://www.fixmystreet.com/report/9532138)
 - Grass is too long on the chicane. I cannot see cars coming on the other side of the road because my car is low., 30th May :- [9520457](https://www.fixmystreet.com/report/9520457)
 - Overgrown grass verges, 30th May :- [9532053](https://www.fixmystreet.com/report/9532053)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Rubbish including building waste Hungerford St, 30th May :- [9530760](https://www.fixmystreet.com/report/9530760)
 - Flytipped item, 30th May :- [9530732](https://www.fixmystreet.com/report/9530732)
 - Flytipped item, 30th May :- [9530720](https://www.fixmystreet.com/report/9530720)
-- Flytipped chair, 30th May :- [9530658](https://www.fixmystreet.com/report/9530658)
-- Fly tipped mattress and furniture in lame off St Paul’s road, 30th May :- [9530648](https://www.fixmystreet.com/report/9530648)
-- Flytipped armchair St Paul’s Road, 30th May :- [9530639](https://www.fixmystreet.com/report/9530639)
-- Fly tipping - old woood/garden furniture, 30th May :- [9530268](https://www.fixmystreet.com/report/9530268)
-- Fallen tree on bridleway, 30th May :- [9530100](https://www.fixmystreet.com/report/9530100)
 
 <!-- fix_marker ends -->

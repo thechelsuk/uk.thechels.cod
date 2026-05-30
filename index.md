@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 30 May 2026
 
-- The average temperature today is 23.75˚C,
-- With highs of 23.75˚C and lows of 23.75˚C,
-- It may feel like 23.38˚C with clear sky
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 46%
+- The average temperature today is 19.83˚C,
+- With highs of 20.75˚C and lows of 19.83˚C,
+- It may feel like 19.28˚C with clear sky
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 54%
 - The sun will rise at 03:56 and set at 20:15
 
 <!-- weather_marker ends -->

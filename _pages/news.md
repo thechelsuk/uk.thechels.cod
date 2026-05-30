@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Can West Country lidos ever be safe from closure? ([3 hours ago](https://www.bbc.com/news/articles/cgrpz95kplzo?at_medium=RSS&at_campaign=rss))
-- Lake 'plagued by drinking youths' and 'drivers speeding outside school' ([3 hours ago](https://www.bbc.com/news/articles/cp3pp0xkg35o?at_medium=RSS&at_campaign=rss))
-- 'Surreal' to reach 20 years says festival founder ([13 hours ago](https://www.bbc.com/news/articles/c3d2305ymxno?at_medium=RSS&at_campaign=rss))
-- 'World's first' pin factory restored with £150,000 ([19 hours ago](https://www.bbc.com/news/articles/c5yrzny791no?at_medium=RSS&at_campaign=rss))
-- Imbruglia 'so excited' about concert with Tom Jones ([23 hours ago](https://www.bbc.com/news/articles/c98rvl11r2lo?at_medium=RSS&at_campaign=rss))
+- Can West Country lidos ever be safe from closure? ([5 hours ago](https://www.bbc.com/news/articles/cgrpz95kplzo?at_medium=RSS&at_campaign=rss))
+- Lake 'plagued by drinking youths' and 'drivers speeding outside school' ([5 hours ago](https://www.bbc.com/news/articles/cp3pp0xkg35o?at_medium=RSS&at_campaign=rss))
+- 'Surreal' to reach 20 years says festival founder ([15 hours ago](https://www.bbc.com/news/articles/c3d2305ymxno?at_medium=RSS&at_campaign=rss))
+- 'World's first' pin factory restored with £150,000 ([20 hours ago](https://www.bbc.com/news/articles/c5yrzny791no?at_medium=RSS&at_campaign=rss))
+- Imbruglia 'so excited' about concert with Tom Jones ([1 days ago](https://www.bbc.com/news/articles/c98rvl11r2lo?at_medium=RSS&at_campaign=rss))
 - New row of spa town flats 'looks like a prison' ([1 days ago](https://www.bbc.com/news/articles/cj4pg4x41qlo?at_medium=RSS&at_campaign=rss))
 - Nipple tattoos 'a necessity' for people post-surgery ([1 days ago](https://www.bbc.com/news/articles/c332y55ezlpo?at_medium=RSS&at_campaign=rss))
 - Fans raise thousands to save footballer's career ([1 days ago](https://www.bbc.com/news/articles/c1j2ywpz7zko?at_medium=RSS&at_campaign=rss))
@@ -32,7 +32,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police hunt man in connection with assault in Cheltenham ([3 days ago](https://gloucesternewscentre.co.uk/police-hunt-man-in-connection-with-assault-in-cheltenham/))
 - Fireworks supplier and director plead guilty to illegal storage offences ([3 days ago](https://gloucesternewscentre.co.uk/fireworks-supplier-and-director-plead-guilty-to-illegal-storage-offences/))
 - Care home residents wrap the cheese ready for rolling ([5 days ago](https://www.bbc.com/news/videos/c1w253wynpgo?at_medium=RSS&at_campaign=rss))
-- Watch the 190-year-old cheese rolling proclamation ([5 days ago](https://www.bbc.com/news/videos/c1k2gwprx3wo?at_medium=RSS&at_campaign=rss))
+- Watch the 190-year-old cheese rolling proclamation ([6 days ago](https://www.bbc.com/news/videos/c1k2gwprx3wo?at_medium=RSS&at_campaign=rss))
 - A look back on the 2025 cheese rolling ([6 days ago](https://www.bbc.com/news/videos/cn9p2wyg47zo?at_medium=RSS&at_campaign=rss))
 - Why cheese rolling went ahead without cheese ([7 days ago](https://www.bbc.com/news/videos/cy82jzdp6d5o?at_medium=RSS&at_campaign=rss))
 - Car boot road safety concerns spark questions over new cycle path ([8 days ago](https://gloucesternewscentre.co.uk/car-boot-road-safety-concerns-spark-questions-over-new-cycle-path/))
@@ -59,8 +59,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham ‘rejects politics of division’ as Lib Dems win council elections ([21 days ago](https://gloucesternewscentre.co.uk/cheltenham-rejects-politics-of-division-as-lib-dems-win-council-elections/))
 - Cheltenham rider and 18-year-old horse triumph in 64km endurance challenge ([23 days ago](https://gloucesternewscentre.co.uk/cheltenham-rider-and-18-year-old-horse-triumph-in-64km-endurance-challenge/))
 - Recipes wanted for cookbook ([24 days ago](https://gloucesternewscentre.co.uk/recipes-wanted-for-cookbook/))
-- Cheltenham library to close for safety works ([24 days ago](https://gloucesternewscentre.co.uk/cheltenham-library-to-close-for-safety-works/))
-- Council could be taken to court over state of Cheltenham streets ([24 days ago](https://gloucesternewscentre.co.uk/council-could-be-taken-to-court-over-state-of-cheltenham-streets/))
+- Cheltenham library to close for safety works ([25 days ago](https://gloucesternewscentre.co.uk/cheltenham-library-to-close-for-safety-works/))
+- Council could be taken to court over state of Cheltenham streets ([25 days ago](https://gloucesternewscentre.co.uk/council-could-be-taken-to-court-over-state-of-cheltenham-streets/))
 - Electric show comes to Cheltenham ([29 days ago](https://gloucesternewscentre.co.uk/65914-2/))
 
 <!-- news_marker ends -->

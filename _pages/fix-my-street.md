@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cycling signage at start of alley way between Selkirk Gardens and Whaddon Road, Cheltenham, 30th May :- [9530804](https://www.fixmystreet.com/report/9530804)
+- Fly tipped childs seat, 30th May :- [9530796](https://www.fixmystreet.com/report/9530796)
+- Trees growing by boundary wall, 30th May :- [9530788](https://www.fixmystreet.com/report/9530788)
+- Rubbish including building waste Hungerford St, 30th May :- [9530760](https://www.fixmystreet.com/report/9530760)
+- Flytipped item, 30th May :- [9530732](https://www.fixmystreet.com/report/9530732)
+- Flytipped item, 30th May :- [9530720](https://www.fixmystreet.com/report/9530720)
+- Flytipped chair, 30th May :- [9530658](https://www.fixmystreet.com/report/9530658)
+- Fly tipped mattress and furniture in lame off St Paul’s road, 30th May :- [9530648](https://www.fixmystreet.com/report/9530648)
+- Flytipped armchair St Paul’s Road, 30th May :- [9530639](https://www.fixmystreet.com/report/9530639)
 - Fly tipping - old woood/garden furniture, 30th May :- [9530268](https://www.fixmystreet.com/report/9530268)
 - Fallen tree on bridleway, 30th May :- [9530100](https://www.fixmystreet.com/report/9530100)
 - Mattress fly tipped, 30th May :- [9529926](https://www.fixmystreet.com/report/9529926)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Bus Stop has been battered, 29th May :- [9529318](https://www.fixmystreet.com/report/9529318)
 - Trees desperately need pruning, emergency services unable to view CCTV of the street clearing onscuring view of CCTV in that area., 29th May :- [9529236](https://www.fixmystreet.com/report/9529236)
 - Visibility poor - dangerous on 'give way' both sides, 29th May :- [9528017](https://www.fixmystreet.com/report/9528017)
-- Replacement of bus stop, 29th May :- [9527983](https://www.fixmystreet.com/report/9527983)
-- Tree & vegetation, 29th May :- [9527855](https://www.fixmystreet.com/report/9527855)
-- 12" pothole on pavement, 29th May :- [9527639](https://www.fixmystreet.com/report/9527639)
-- 8 ft long pothole - was marked with a large white dot last year by Highways. Due to rain and mud which remain in the hole this marker eventually disappeared. The other pothole by No19 was marked today with a box - it had a round dot last year the same as ours. No 10 had a box drawn today around a very small pothole which is the same depth as the one outside No 8 which is also very much longer., 29th May :- [9527579](https://www.fixmystreet.com/report/9527579)
-- TMC - Defects -CW6 Potholes  problem, 29th May :- [9527610](https://www.fixmystreet.com/report/9527610)
-- Inear drainage channel/gully that’s been asphalted over rather than properly reinstated., 29th May :- [9523205](https://www.fixmystreet.com/report/9523205)
-- Grass not cut for 2 months., 29th May :- [9526677](https://www.fixmystreet.com/report/9526677)
-- Road sign left behind. Reported this 3 months ago, case closed 2 days ago without collecting, 29th May :- [9526607](https://www.fixmystreet.com/report/9526607)
-- TMC - Defects -CW6 Potholes  problem, 29th May :- [9526579](https://www.fixmystreet.com/report/9526579)
 
 <!-- fix_marker ends -->

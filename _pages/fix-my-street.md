@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole / bumpy road in the middle of the road, 30th May :- [9529776](https://www.fixmystreet.com/report/9529776)
+- Pothole / bumpy road in the middle of the junction, 30th May :- [9529773](https://www.fixmystreet.com/report/9529773)
 - Pot hole cannot be avoided, 29th May :- [9529579](https://www.fixmystreet.com/report/9529579)
 - No grass cutting as been done this year., 29th May :- [9529346](https://www.fixmystreet.com/report/9529346)
 - Bus Stop has been battered, 29th May :- [9529318](https://www.fixmystreet.com/report/9529318)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 29th May :- [9526582](https://www.fixmystreet.com/report/9526582)
 - TMC - Defects -other CW6 problem, 29th May :- [9526580](https://www.fixmystreet.com/report/9526580)
 - Incorrect Signage, 29th May :- [9526033](https://www.fixmystreet.com/report/9526033)
-- TMC - Defects -CW10 Potholes problem, 29th May :- [9526578](https://www.fixmystreet.com/report/9526578)
-- TMC - Defects -other CW6 problem, 29th May :- [9526576](https://www.fixmystreet.com/report/9526576)
 
 <!-- fix_marker ends -->

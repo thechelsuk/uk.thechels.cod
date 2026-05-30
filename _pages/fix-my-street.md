@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There are potholes all along the N Upton Ln road from Barnwood Rd to Crasby Cl.. They are very bad for my car, not to mention the danger they pose to bike riders., 30th May :- [9530785](https://www.fixmystreet.com/report/9530785)
+- Volunteer litter pick bags ready for collection, 30th May :- [9531560](https://www.fixmystreet.com/report/9531560)
+- Rattling iron man hole cover, 30th May :- [9531546](https://www.fixmystreet.com/report/9531546)
+- A large tree has fallen and is completely blocking thr footpath as you approach the steps, 30th May :- [9531541](https://www.fixmystreet.com/report/9531541)
 - 1st of 3 signs broken/missing info, 30th May :- [9531305](https://www.fixmystreet.com/report/9531305)
 - Flytipping, 30th May :- [9531081](https://www.fixmystreet.com/report/9531081)
 - Cycling signage at start of alley way between Selkirk Gardens and Whaddon Road, Cheltenham, 30th May :- [9530804](https://www.fixmystreet.com/report/9530804)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Mattress fly tipped, 30th May :- [9529926](https://www.fixmystreet.com/report/9529926)
 - I am afraid that there are potholes appearing all along this road, 30th May :- [9529852](https://www.fixmystreet.com/report/9529852)
 - Pothole / bumpy road in the middle of the road, 30th May :- [9529776](https://www.fixmystreet.com/report/9529776)
-- Pothole / bumpy road in the middle of the junction, 30th May :- [9529773](https://www.fixmystreet.com/report/9529773)
-- Pot hole cannot be avoided, 29th May :- [9529579](https://www.fixmystreet.com/report/9529579)
-- No grass cutting as been done this year., 29th May :- [9529346](https://www.fixmystreet.com/report/9529346)
-- Bus Stop has been battered, 29th May :- [9529318](https://www.fixmystreet.com/report/9529318)
 
 <!-- fix_marker ends -->

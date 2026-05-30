@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped fridge freezer on pavement of Grosvenor street, 30th May :- [9532138](https://www.fixmystreet.com/report/9532138)
+- Grass is too long on the chicane. I cannot see cars coming on the other side of the road because my car is low., 30th May :- [9520457](https://www.fixmystreet.com/report/9520457)
+- Overgrown grass verges, 30th May :- [9532053](https://www.fixmystreet.com/report/9532053)
 - There are potholes all along the N Upton Ln road from Barnwood Rd to Crasby Cl.. They are very bad for my car, not to mention the danger they pose to bike riders., 30th May :- [9530785](https://www.fixmystreet.com/report/9530785)
 - Volunteer litter pick bags ready for collection, 30th May :- [9531560](https://www.fixmystreet.com/report/9531560)
 - Rattling iron man hole cover, 30th May :- [9531546](https://www.fixmystreet.com/report/9531546)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipped armchair St Paul’s Road, 30th May :- [9530639](https://www.fixmystreet.com/report/9530639)
 - Fly tipping - old woood/garden furniture, 30th May :- [9530268](https://www.fixmystreet.com/report/9530268)
 - Fallen tree on bridleway, 30th May :- [9530100](https://www.fixmystreet.com/report/9530100)
-- Mattress fly tipped, 30th May :- [9529926](https://www.fixmystreet.com/report/9529926)
-- I am afraid that there are potholes appearing all along this road, 30th May :- [9529852](https://www.fixmystreet.com/report/9529852)
-- Pothole / bumpy road in the middle of the road, 30th May :- [9529776](https://www.fixmystreet.com/report/9529776)
 
 <!-- fix_marker ends -->

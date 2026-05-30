@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 1st of 3 signs broken/missing info, 30th May :- [9531305](https://www.fixmystreet.com/report/9531305)
+- Flytipping, 30th May :- [9531081](https://www.fixmystreet.com/report/9531081)
 - Cycling signage at start of alley way between Selkirk Gardens and Whaddon Road, Cheltenham, 30th May :- [9530804](https://www.fixmystreet.com/report/9530804)
 - Fly tipped childs seat, 30th May :- [9530796](https://www.fixmystreet.com/report/9530796)
 - Trees growing by boundary wall, 30th May :- [9530788](https://www.fixmystreet.com/report/9530788)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pot hole cannot be avoided, 29th May :- [9529579](https://www.fixmystreet.com/report/9529579)
 - No grass cutting as been done this year., 29th May :- [9529346](https://www.fixmystreet.com/report/9529346)
 - Bus Stop has been battered, 29th May :- [9529318](https://www.fixmystreet.com/report/9529318)
-- Trees desperately need pruning, emergency services unable to view CCTV of the street clearing onscuring view of CCTV in that area., 29th May :- [9529236](https://www.fixmystreet.com/report/9529236)
-- Visibility poor - dangerous on 'give way' both sides, 29th May :- [9528017](https://www.fixmystreet.com/report/9528017)
 
 <!-- fix_marker ends -->

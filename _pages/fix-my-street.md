@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen tree on bridleway, 30th May :- [9530100](https://www.fixmystreet.com/report/9530100)
+- Mattress fly tipped, 30th May :- [9529926](https://www.fixmystreet.com/report/9529926)
+- I am afraid that there are potholes appearing all along this road, 30th May :- [9529852](https://www.fixmystreet.com/report/9529852)
 - Pothole / bumpy road in the middle of the road, 30th May :- [9529776](https://www.fixmystreet.com/report/9529776)
 - Pothole / bumpy road in the middle of the junction, 30th May :- [9529773](https://www.fixmystreet.com/report/9529773)
 - Pot hole cannot be avoided, 29th May :- [9529579](https://www.fixmystreet.com/report/9529579)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Road sign left behind. Reported this 3 months ago, case closed 2 days ago without collecting, 29th May :- [9526607](https://www.fixmystreet.com/report/9526607)
 - TMC - Defects -CW6 Potholes  problem, 29th May :- [9526579](https://www.fixmystreet.com/report/9526579)
 - TMC - Defects -other CW6 problem, 29th May :- [9526581](https://www.fixmystreet.com/report/9526581)
-- TMC - Defects -other CW6 problem, 29th May :- [9526582](https://www.fixmystreet.com/report/9526582)
-- TMC - Defects -other CW6 problem, 29th May :- [9526580](https://www.fixmystreet.com/report/9526580)
-- Incorrect Signage, 29th May :- [9526033](https://www.fixmystreet.com/report/9526033)
 
 <!-- fix_marker ends -->

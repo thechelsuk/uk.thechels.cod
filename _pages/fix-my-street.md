@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Surely this whole road is next on the list?, 31st May :- [9533141](https://www.fixmystreet.com/report/9533141)
 - Why do you keep closing this down with no further action required?, 31st May :- [9533128](https://www.fixmystreet.com/report/9533128)
 - Road is disintegrating and needs resurfacing., 30th May :- [9533102](https://www.fixmystreet.com/report/9533102)
 - Overgrown grass making emerging from junctions tricky, 30th May :- [9533091](https://www.fixmystreet.com/report/9533091)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 1st of 3 signs broken/missing info, 30th May :- [9531305](https://www.fixmystreet.com/report/9531305)
 - Flytipping, 30th May :- [9531081](https://www.fixmystreet.com/report/9531081)
 - Cycling signage at start of alley way between Selkirk Gardens and Whaddon Road, Cheltenham, 30th May :- [9530804](https://www.fixmystreet.com/report/9530804)
-- Fly tipped childs seat, 30th May :- [9530796](https://www.fixmystreet.com/report/9530796)
 
 <!-- fix_marker ends -->

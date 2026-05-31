@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Shin-kicking champion crowned at ancient games ([11 hours ago](https://www.bbc.com/news/articles/c62ekrgl0e7o?at_medium=RSS&at_campaign=rss))
-- Family of clown-loving boy follow circus across UK ([16 hours ago](https://www.bbc.com/news/articles/clyp50xz4qno?at_medium=RSS&at_campaign=rss))
-- Can West Country lidos ever be safe from closure? ([17 hours ago](https://www.bbc.com/news/articles/cgrpz95kplzo?at_medium=RSS&at_campaign=rss))
-- Lake 'plagued by drinking youths' and 'drivers speeding outside school' ([17 hours ago](https://www.bbc.com/news/articles/cp3pp0xkg35o?at_medium=RSS&at_campaign=rss))
+- Shin-kicking champion crowned at ancient games ([14 hours ago](https://www.bbc.com/news/articles/c62ekrgl0e7o?at_medium=RSS&at_campaign=rss))
+- Family of clown-loving boy follow circus across UK ([19 hours ago](https://www.bbc.com/news/articles/clyp50xz4qno?at_medium=RSS&at_campaign=rss))
+- Can West Country lidos ever be safe from closure? ([19 hours ago](https://www.bbc.com/news/articles/cgrpz95kplzo?at_medium=RSS&at_campaign=rss))
+- Lake 'plagued by drinking youths' and 'drivers speeding outside school' ([19 hours ago](https://www.bbc.com/news/articles/cp3pp0xkg35o?at_medium=RSS&at_campaign=rss))
 - 'Surreal' to reach 20 years says festival founder ([1 days ago](https://www.bbc.com/news/articles/c3d2305ymxno?at_medium=RSS&at_campaign=rss))
 - 'World's first' pin factory restored with £150,000 ([1 days ago](https://www.bbc.com/news/articles/c5yrzny791no?at_medium=RSS&at_campaign=rss))
 - Imbruglia 'so excited' about concert with Tom Jones ([1 days ago](https://www.bbc.com/news/articles/c98rvl11r2lo?at_medium=RSS&at_campaign=rss))

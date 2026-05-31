@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 30 May 2026
+## On Sunday, 31 May 2026
 
-- The average temperature today is 15.94˚C,
-- With highs of 15.94˚C and lows of 15.38˚C,
-- It may feel like 15.44˚C with overcast clouds
-- The wind speed is 1.58m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 71%
+- The average temperature today is 13.07˚C,
+- With highs of 13.07˚C and lows of 13.07˚C,
+- It may feel like 12.42˚C with scattered clouds
+- The wind speed is 2.62m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 76%
 - The sun will rise at 03:55 and set at 20:16
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 30 days since the last change (2026-04-30)
+- It has been 31 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->

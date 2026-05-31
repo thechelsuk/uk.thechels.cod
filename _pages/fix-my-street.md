@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cracking arouns manhole cover, 31st May :- [9535985](https://www.fixmystreet.com/report/9535985)
+- Kerb stones missing, removed or broken, 31st May :- [9535966](https://www.fixmystreet.com/report/9535966)
+- Skip bag fly tipped, 31st May :- [9535883](https://www.fixmystreet.com/report/9535883)
 - Street needs a desperate clean, pavement & road, 31st May :- [9535681](https://www.fixmystreet.com/report/9535681)
 - Sign faded not easily visible., 31st May :- [9535064](https://www.fixmystreet.com/report/9535064)
 - Pavement permanently inaccessible due to it being used for storage, 31st May :- [9535049](https://www.fixmystreet.com/report/9535049)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Please erect bus stop here bus driving past intending passenger, 30th May :- [9533087](https://www.fixmystreet.com/report/9533087)
 - Fly tipping, 30th May :- [9532643](https://www.fixmystreet.com/report/9532643)
 - Fly tipping, 30th May :- [9532632](https://www.fixmystreet.com/report/9532632)
-- Fly tipping, 30th May :- [9532631](https://www.fixmystreet.com/report/9532631)
-- Fly tipping, 30th May :- [9532621](https://www.fixmystreet.com/report/9532621)
-- Esso longlevens service station, 30th May :- [9532526](https://www.fixmystreet.com/report/9532526)
 
 <!-- fix_marker ends -->

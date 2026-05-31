@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen tree blocking bridleway., 31st May :- [9534028](https://www.fixmystreet.com/report/9534028)
+- The bus stop was knocked over a long time ago and has never been replaced, 31st May :- [9533616](https://www.fixmystreet.com/report/9533616)
 - Surely this whole road is next on the list?, 31st May :- [9533141](https://www.fixmystreet.com/report/9533141)
 - Why do you keep closing this down with no further action required?, 31st May :- [9533128](https://www.fixmystreet.com/report/9533128)
 - Road is disintegrating and needs resurfacing., 30th May :- [9533102](https://www.fixmystreet.com/report/9533102)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Rattling iron man hole cover, 30th May :- [9531546](https://www.fixmystreet.com/report/9531546)
 - A large tree has fallen and is completely blocking thr footpath as you approach the steps, 30th May :- [9531541](https://www.fixmystreet.com/report/9531541)
 - 1st of 3 signs broken/missing info, 30th May :- [9531305](https://www.fixmystreet.com/report/9531305)
-- Flytipping, 30th May :- [9531081](https://www.fixmystreet.com/report/9531081)
-- Cycling signage at start of alley way between Selkirk Gardens and Whaddon Road, Cheltenham, 30th May :- [9530804](https://www.fixmystreet.com/report/9530804)
 
 <!-- fix_marker ends -->

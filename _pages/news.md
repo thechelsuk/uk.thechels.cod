@@ -12,8 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In Pictures: Leaping sheep and lightning bolts ([1 hours ago](https://www.bbc.com/news/articles/c24222e35njo?at_medium=RSS&at_campaign=rss))
-- Shin-kicking champion crowned at ancient games ([20 hours ago](https://www.bbc.com/news/articles/c62ekrgl0e7o?at_medium=RSS&at_campaign=rss))
+- Museum buys Iron Age hoard found by detectorist ([14 minutes ago](https://www.bbc.com/news/articles/cy82z435g00o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Leaping sheep and lightning bolts ([3 hours ago](https://www.bbc.com/news/articles/c24222e35njo?at_medium=RSS&at_campaign=rss))
+- Shin-kicking champion crowned at ancient games ([22 hours ago](https://www.bbc.com/news/articles/c62ekrgl0e7o?at_medium=RSS&at_campaign=rss))
 - Family of clown-loving boy follow circus across UK ([1 days ago](https://www.bbc.com/news/articles/clyp50xz4qno?at_medium=RSS&at_campaign=rss))
 - Can West Country lidos ever be safe from closure? ([1 days ago](https://www.bbc.com/news/articles/cgrpz95kplzo?at_medium=RSS&at_campaign=rss))
 - Lake 'plagued by drinking youths' and 'drivers speeding outside school' ([1 days ago](https://www.bbc.com/news/articles/cp3pp0xkg35o?at_medium=RSS&at_campaign=rss))
@@ -25,7 +26,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Fans raise thousands to save footballer's career ([2 days ago](https://www.bbc.com/news/articles/c1j2ywpz7zko?at_medium=RSS&at_campaign=rss))
 - Woman in her 80s dies following car crash ([2 days ago](https://www.bbc.com/news/articles/c5yrv3d5gxvo?at_medium=RSS&at_campaign=rss))
 - Lloyds to relocate Cheltenham town centre bank branch ([2 days ago](https://gloucesternewscentre.co.uk/lloyds-to-relocate-cheltenham-town-centre-bank-branch/))
-- Air show cancellation a 'crashing loss' for firms ([2 days ago](https://www.bbc.com/news/articles/c7755p1erezo?at_medium=RSS&at_campaign=rss))
 - Man charged with fraud over £1m gold bullion scam ([2 days ago](https://www.bbc.com/news/articles/c3v2yq6k6pno?at_medium=RSS&at_campaign=rss))
 - Why Henry vacuum maker is turning to solar power ([3 days ago](https://www.bbc.com/news/videos/cj4pp0e2jvwo?at_medium=RSS&at_campaign=rss))
 - Gloucester man arrested for secretly filming women ([4 days ago](https://gloucesternewscentre.co.uk/gloucester-man-arrested-for-secretly-filming-women/))

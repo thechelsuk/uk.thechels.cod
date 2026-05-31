@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street needs a desperate clean, pavement & road, 31st May :- [9535681](https://www.fixmystreet.com/report/9535681)
 - Sign faded not easily visible., 31st May :- [9535064](https://www.fixmystreet.com/report/9535064)
 - Pavement permanently inaccessible due to it being used for storage, 31st May :- [9535049](https://www.fixmystreet.com/report/9535049)
 - Flytipped armchair St George’s St, 31st May :- [9534704](https://www.fixmystreet.com/report/9534704)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 30th May :- [9532631](https://www.fixmystreet.com/report/9532631)
 - Fly tipping, 30th May :- [9532621](https://www.fixmystreet.com/report/9532621)
 - Esso longlevens service station, 30th May :- [9532526](https://www.fixmystreet.com/report/9532526)
-- Flytipped fridge freezer on pavement of Grosvenor street, 30th May :- [9532138](https://www.fixmystreet.com/report/9532138)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 31 May 2026
 
-- The average temperature today is 19.08˚C,
-- With highs of 19.91˚C and lows of 18.72˚C,
-- It may feel like 18.61˚C with scattered clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 60%
+- The average temperature today is 20.17˚C,
+- With highs of 20.85˚C and lows of 19.75˚C,
+- It may feel like 19.78˚C with scattered clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 59%
 - The sun will rise at 03:55 and set at 20:16
 
 <!-- weather_marker ends -->

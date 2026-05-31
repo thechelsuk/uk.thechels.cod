@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole, 31st May :- [9534498](https://www.fixmystreet.com/report/9534498)
+- Fly tipping, 31st May :- [9534248](https://www.fixmystreet.com/report/9534248)
+- Large pot hole on footpath, 31st May :- [9534231](https://www.fixmystreet.com/report/9534231)
+- Footpath access blocked by gate operated by livery yard, 31st May :- [9534184](https://www.fixmystreet.com/report/9534184)
 - Fallen tree blocking bridleway., 31st May :- [9534028](https://www.fixmystreet.com/report/9534028)
 - The bus stop was knocked over a long time ago and has never been replaced, 31st May :- [9533616](https://www.fixmystreet.com/report/9533616)
 - Surely this whole road is next on the list?, 31st May :- [9533141](https://www.fixmystreet.com/report/9533141)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Grass is too long on the chicane. I cannot see cars coming on the other side of the road because my car is low., 30th May :- [9520457](https://www.fixmystreet.com/report/9520457)
 - Overgrown grass verges, 30th May :- [9532053](https://www.fixmystreet.com/report/9532053)
 - There are potholes all along the N Upton Ln road from Barnwood Rd to Crasby Cl.. They are very bad for my car, not to mention the danger they pose to bike riders., 30th May :- [9530785](https://www.fixmystreet.com/report/9530785)
-- Volunteer litter pick bags ready for collection, 30th May :- [9531560](https://www.fixmystreet.com/report/9531560)
-- Rattling iron man hole cover, 30th May :- [9531546](https://www.fixmystreet.com/report/9531546)
-- A large tree has fallen and is completely blocking thr footpath as you approach the steps, 30th May :- [9531541](https://www.fixmystreet.com/report/9531541)
-- 1st of 3 signs broken/missing info, 30th May :- [9531305](https://www.fixmystreet.com/report/9531305)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hole in road, noticed it today, 31st May :- [9536740](https://www.fixmystreet.com/report/9536740)
+- 4 trees sunrise ave, 31st May :- [9536037](https://www.fixmystreet.com/report/9536037)
+- Following RTC early hrs Sunday morning, 31st May :- [9536414](https://www.fixmystreet.com/report/9536414)
+- Tree is overgrown with dead limbs likely to fall off into the road/pavement ans peoples property in windy weather., 31st May :- [9536391](https://www.fixmystreet.com/report/9536391)
+- Completely overgrown grass verges making visibility zero round 2 corners, 31st May :- [9536314](https://www.fixmystreet.com/report/9536314)
 - Cracking arouns manhole cover, 31st May :- [9535985](https://www.fixmystreet.com/report/9535985)
 - Kerb stones missing, removed or broken, 31st May :- [9535966](https://www.fixmystreet.com/report/9535966)
 - Skip bag fly tipped, 31st May :- [9535883](https://www.fixmystreet.com/report/9535883)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - The bus stop was knocked over a long time ago and has never been replaced, 31st May :- [9533616](https://www.fixmystreet.com/report/9533616)
 - Surely this whole road is next on the list?, 31st May :- [9533141](https://www.fixmystreet.com/report/9533141)
 - Why do you keep closing this down with no further action required?, 31st May :- [9533128](https://www.fixmystreet.com/report/9533128)
-- Road is disintegrating and needs resurfacing., 30th May :- [9533102](https://www.fixmystreet.com/report/9533102)
-- Overgrown grass making emerging from junctions tricky, 30th May :- [9533091](https://www.fixmystreet.com/report/9533091)
-- Please erect bus stop here bus driving past intending passenger, 30th May :- [9533087](https://www.fixmystreet.com/report/9533087)
-- Fly tipping, 30th May :- [9532643](https://www.fixmystreet.com/report/9532643)
-- Fly tipping, 30th May :- [9532632](https://www.fixmystreet.com/report/9532632)
 
 <!-- fix_marker ends -->

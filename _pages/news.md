@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Rugby players raise money for injured team mates ([2 hours ago](https://www.bbc.com/news/articles/cn9pwe0839go?at_medium=RSS&at_campaign=rss))
-- Volunteers rehearse life-saving disaster response ([4 hours ago](https://www.bbc.com/news/articles/cwy2ey111j2o?at_medium=RSS&at_campaign=rss))
-- Museum buys Iron Age hoard found by detectorist ([7 hours ago](https://www.bbc.com/news/articles/cy82z435g00o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Leaping sheep and lightning bolts ([11 hours ago](https://www.bbc.com/news/articles/c24222e35njo?at_medium=RSS&at_campaign=rss))
+- Rugby players raise money for injured team mates ([4 hours ago](https://www.bbc.com/news/articles/cn9pwe0839go?at_medium=RSS&at_campaign=rss))
+- Volunteers rehearse life-saving disaster response ([6 hours ago](https://www.bbc.com/news/articles/cwy2ey111j2o?at_medium=RSS&at_campaign=rss))
+- Museum buys Iron Age hoard found by detectorist ([9 hours ago](https://www.bbc.com/news/articles/cy82z435g00o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Leaping sheep and lightning bolts ([13 hours ago](https://www.bbc.com/news/articles/c24222e35njo?at_medium=RSS&at_campaign=rss))
 - Shin-kicking champion crowned at ancient games ([1 days ago](https://www.bbc.com/news/articles/c62ekrgl0e7o?at_medium=RSS&at_campaign=rss))
 - Family of clown-loving boy follow circus across UK ([1 days ago](https://www.bbc.com/news/articles/clyp50xz4qno?at_medium=RSS&at_campaign=rss))
 - Can West Country lidos ever be safe from closure? ([1 days ago](https://www.bbc.com/news/articles/cgrpz95kplzo?at_medium=RSS&at_campaign=rss))
@@ -53,7 +53,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - 'I've always learnt to love my skin' ([19 days ago](https://www.bbc.com/news/videos/cqxp2w0w425o?at_medium=RSS&at_campaign=rss))
 - Award-winning photographer inspires Cheltenham retirees ([20 days ago](https://gloucesternewscentre.co.uk/award-winning-photographer-inspires-cheltenham-retirees/))
 - Frustration as suspension of home births is extended ([20 days ago](https://gloucesternewscentre.co.uk/frustration-as-suspension-of-home-births-is-extended/))
-- Police launch investigation after body of missing man found near Cheltenham ([20 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
+- Police launch investigation after body of missing man found near Cheltenham ([21 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
 - Man sentenced to eight years in prison for raping woman in Cheltenham ([22 days ago](https://gloucesternewscentre.co.uk/man-sentenced-to-eight-years-in-prison-for-raping-woman-in-cheltenham/))
 - Liberal Democrats win county council by-election ([23 days ago](https://gloucesternewscentre.co.uk/liberal-democrats-win-county-council-by-election/))
 - Cheltenham ‘rejects politics of division’ as Lib Dems win council elections ([23 days ago](https://gloucesternewscentre.co.uk/cheltenham-rejects-politics-of-division-as-lib-dems-win-council-elections/))

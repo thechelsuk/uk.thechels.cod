@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Rugby players raise money for injured team mates ([8 hours ago](https://www.bbc.com/news/articles/cn9pwe0839go?at_medium=RSS&at_campaign=rss))
-- Volunteers rehearse life-saving disaster response ([10 hours ago](https://www.bbc.com/news/articles/cwy2ey111j2o?at_medium=RSS&at_campaign=rss))
-- Museum buys Iron Age hoard found by detectorist ([13 hours ago](https://www.bbc.com/news/articles/cy82z435g00o?at_medium=RSS&at_campaign=rss))
-- In Pictures: Leaping sheep and lightning bolts ([16 hours ago](https://www.bbc.com/news/articles/c24222e35njo?at_medium=RSS&at_campaign=rss))
+- Rugby players raise money for injured team mates ([10 hours ago](https://www.bbc.com/news/articles/cn9pwe0839go?at_medium=RSS&at_campaign=rss))
+- Volunteers rehearse life-saving disaster response ([13 hours ago](https://www.bbc.com/news/articles/cwy2ey111j2o?at_medium=RSS&at_campaign=rss))
+- Museum buys Iron Age hoard found by detectorist ([16 hours ago](https://www.bbc.com/news/articles/cy82z435g00o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Leaping sheep and lightning bolts ([19 hours ago](https://www.bbc.com/news/articles/c24222e35njo?at_medium=RSS&at_campaign=rss))
 - Shin-kicking champion crowned at ancient games ([1 days ago](https://www.bbc.com/news/articles/c62ekrgl0e7o?at_medium=RSS&at_campaign=rss))
 - Family of clown-loving boy follow circus across UK ([1 days ago](https://www.bbc.com/news/articles/clyp50xz4qno?at_medium=RSS&at_campaign=rss))
 - Can West Country lidos ever be safe from closure? ([1 days ago](https://www.bbc.com/news/articles/cgrpz95kplzo?at_medium=RSS&at_campaign=rss))

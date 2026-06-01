@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Currently not on, 1st June :- [9537519](https://www.fixmystreet.com/report/9537519)
 - Dangerous junction, 31st May :- [9536850](https://www.fixmystreet.com/report/9536850)
 - Hole in road, noticed it today, 31st May :- [9536740](https://www.fixmystreet.com/report/9536740)
 - 4 trees sunrise ave, 31st May :- [9536037](https://www.fixmystreet.com/report/9536037)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Footpath access blocked by gate operated by livery yard, 31st May :- [9534184](https://www.fixmystreet.com/report/9534184)
 - Fallen tree blocking bridleway., 31st May :- [9534028](https://www.fixmystreet.com/report/9534028)
 - The bus stop was knocked over a long time ago and has never been replaced, 31st May :- [9533616](https://www.fixmystreet.com/report/9533616)
-- Surely this whole road is next on the list?, 31st May :- [9533141](https://www.fixmystreet.com/report/9533141)
 
 <!-- fix_marker ends -->

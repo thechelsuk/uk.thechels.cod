@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned Caravan, 1st June :- [9543696](https://www.fixmystreet.com/report/9543696)
+- Traffic sign has fallen down the pole, 1st June :- [9543608](https://www.fixmystreet.com/report/9543608)
 - Historic kerbstones destroyed/removed in Cudnall St conservation area., 1st June :- [9543327](https://www.fixmystreet.com/report/9543327)
 - Unauthorised painting on pavement, 1st June :- [9542903](https://www.fixmystreet.com/report/9542903)
 - Community Improvement Group - Hartlebury Way and Pembridge Close, 1st June :- [9542687](https://www.fixmystreet.com/report/9542687)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 1st June :- [9541892](https://www.fixmystreet.com/report/9541892)
 - Large potholes with white dots still not repaired - end of hall rd, 1st June :- [9541794](https://www.fixmystreet.com/report/9541794)
 - Stop line requires refreshing, 1st June :- [9541750](https://www.fixmystreet.com/report/9541750)
-- TMC - Defects - Vegetation problem, 1st June :- [9542115](https://www.fixmystreet.com/report/9542115)
-- Fly tipping by waitrose ataurs, 1st June :- [9541680](https://www.fixmystreet.com/report/9541680)
 
 <!-- fix_marker ends -->

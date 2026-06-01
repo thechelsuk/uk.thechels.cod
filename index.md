@@ -13,9 +13,9 @@ permalink: /
 
 - The average temperature today is 15.59˚C,
 - With highs of 16.08˚C and lows of 15.39˚C,
-- It may feel like 15.63˚C with moderate rain
-- The wind speed is 2.68m/s and visibility is 3773m
-- The pressure is 1007hPa and humidity is 93%
+- It may feel like 15.66˚C with moderate rain
+- The wind speed is 1.79m/s and visibility is 1777m
+- The pressure is 1006hPa and humidity is 94%
 - The sun will rise at 03:55 and set at 20:17
 
 <!-- weather_marker ends -->

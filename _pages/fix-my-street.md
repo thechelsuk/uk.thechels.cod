@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Historic kerbstones destroyed/removed in Cudnall St conservation area., 1st June :- [9543327](https://www.fixmystreet.com/report/9543327)
+- Unauthorised painting on pavement, 1st June :- [9542903](https://www.fixmystreet.com/report/9542903)
 - Community Improvement Group - Hartlebury Way and Pembridge Close, 1st June :- [9542687](https://www.fixmystreet.com/report/9542687)
 - Very wide, deep and dangerous pothole on kidnappers lane, 1st June :- [9542683](https://www.fixmystreet.com/report/9542683)
 - A pothole in road problem, 1st June :- [9542706](https://www.fixmystreet.com/report/9542706)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Stop line requires refreshing, 1st June :- [9541750](https://www.fixmystreet.com/report/9541750)
 - TMC - Defects - Vegetation problem, 1st June :- [9542115](https://www.fixmystreet.com/report/9542115)
 - Fly tipping by waitrose ataurs, 1st June :- [9541680](https://www.fixmystreet.com/report/9541680)
-- Tree and bushes over grown uo cover street light and in garden, 1st June :- [9541619](https://www.fixmystreet.com/report/9541619)
-- Incorrect Road Sign, 1st June :- [9541592](https://www.fixmystreet.com/report/9541592)
 
 <!-- fix_marker ends -->

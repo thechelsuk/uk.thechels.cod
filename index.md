@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 01 June 2026
 
-- The average temperature today is 16.36˚C,
-- With highs of 17.51˚C and lows of 15.75˚C,
-- It may feel like 16.06˚C with broken clouds
+- The average temperature today is 17.91˚C,
+- With highs of 18.62˚C and lows of 17.2˚C,
+- It may feel like 17.74˚C with broken clouds
 - The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 77%
+- The pressure is 1013hPa and humidity is 76%
 - The sun will rise at 03:55 and set at 20:17
 
 <!-- weather_marker ends -->

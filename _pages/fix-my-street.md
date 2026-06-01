@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Many hedges are overhanging/overgrown along this footpath, 1st June :- [9542017](https://www.fixmystreet.com/report/9542017)
+- Both footpaths on arden road damaged and uneven - dangerous trip hazard, 1st June :- [9541885](https://www.fixmystreet.com/report/9541885)
+- Loose BT cover - unstable, noisy and not fixed, 1st June :- [9541868](https://www.fixmystreet.com/report/9541868)
+- Fallen tree completely blocking bridlepath gate, 1st June :- [9541840](https://www.fixmystreet.com/report/9541840)
+- TMC - Defects - Vegetation problem, 1st June :- [9541892](https://www.fixmystreet.com/report/9541892)
+- Large potholes with white dots still not repaired - end of hall rd, 1st June :- [9541794](https://www.fixmystreet.com/report/9541794)
+- Stop line requires refreshing, 1st June :- [9541750](https://www.fixmystreet.com/report/9541750)
+- Fly tipping by waitrose ataurs, 1st June :- [9541680](https://www.fixmystreet.com/report/9541680)
+- Tree and bushes over grown uo cover street light and in garden, 1st June :- [9541619](https://www.fixmystreet.com/report/9541619)
+- Incorrect Road Sign, 1st June :- [9541592](https://www.fixmystreet.com/report/9541592)
+- Car parked over double yellow lines, 1st June :- [9541300](https://www.fixmystreet.com/report/9541300)
+- TMC - Defects - Vegetation problem, 1st June :- [9541452](https://www.fixmystreet.com/report/9541452)
 - TMC - Defects - Covers, Gratings & Frames problem, 1st June :- [9540919](https://www.fixmystreet.com/report/9540919)
 - Keep left bollard has been knocked over, 1st June :- [9540569](https://www.fixmystreet.com/report/9540569)
 - Overgrown vegetation and leaning pole, 1st June :- [9540546](https://www.fixmystreet.com/report/9540546)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 1st June :- [9540403](https://www.fixmystreet.com/report/9540403)
 - TMC - Defects - Kerbs and Channels problem, 1st June :- [9540105](https://www.fixmystreet.com/report/9540105)
 - Volunteer litter picker, 1st June :- [9539948](https://www.fixmystreet.com/report/9539948)
-- TMC - Defects -CW6 Potholes  problem, 1st June :- [9540102](https://www.fixmystreet.com/report/9540102)
-- TMC - Defects -CW6 Potholes  problem, 1st June :- [9540103](https://www.fixmystreet.com/report/9540103)
-- TMC - Defects - Other problem, 1st June :- [9540104](https://www.fixmystreet.com/report/9540104)
-- TMC - Defects -other CW6 problem, 1st June :- [9540101](https://www.fixmystreet.com/report/9540101)
-- TMC - Defects -CW10 Potholes problem, 1st June :- [9540085](https://www.fixmystreet.com/report/9540085)
-- TMC - Defects - Covers, Gratings & Frames problem, 1st June :- [9540084](https://www.fixmystreet.com/report/9540084)
-- TMC - Defects -CW10 Potholes problem, 1st June :- [9540082](https://www.fixmystreet.com/report/9540082)
-- TMC - Defects - Footways Slabs problem, 1st June :- [9539762](https://www.fixmystreet.com/report/9539762)
-- TMC - Defects -CW10 Potholes problem, 1st June :- [9539755](https://www.fixmystreet.com/report/9539755)
-- TMC - Defects - Footways Slabs problem, 1st June :- [9539757](https://www.fixmystreet.com/report/9539757)
-- TMC - Defects - Footways Slabs problem, 1st June :- [9539756](https://www.fixmystreet.com/report/9539756)
-- TMC - Defects -other CW10 problem, 1st June :- [9539761](https://www.fixmystreet.com/report/9539761)
 
 <!-- fix_marker ends -->

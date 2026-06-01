@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Public art walk to transform Honeybourne Line ([5 hours ago](https://www.bbc.com/news/articles/c3r25p0l7zpo?at_medium=RSS&at_campaign=rss))
-- Arrest after man 'attacked with barbecue fork' ([6 hours ago](https://www.bbc.com/news/articles/cy82lnk8710o?at_medium=RSS&at_campaign=rss))
-- Man banned from city centre for threatening girls ([8 hours ago](https://www.bbc.com/news/articles/cy42xl02qg7o?at_medium=RSS&at_campaign=rss))
-- New parish council will 'avoid boundary confusion' ([8 hours ago](https://www.bbc.com/news/articles/cgjp9636306o?at_medium=RSS&at_campaign=rss))
-- Traffic cameras to target illegal parking in city ([16 hours ago](https://www.bbc.com/news/articles/c4g9vqgyer7o?at_medium=RSS&at_campaign=rss))
-- 'I was told police could be called after home birth' ([16 hours ago](https://www.bbc.com/news/articles/c0l29w34x5xo?at_medium=RSS&at_campaign=rss))
+- Public art walk to transform Honeybourne Line ([6 hours ago](https://www.bbc.com/news/articles/c3r25p0l7zpo?at_medium=RSS&at_campaign=rss))
+- Arrest after man 'attacked with barbecue fork' ([7 hours ago](https://www.bbc.com/news/articles/cy82lnk8710o?at_medium=RSS&at_campaign=rss))
+- Man banned from city centre for threatening girls ([9 hours ago](https://www.bbc.com/news/articles/cy42xl02qg7o?at_medium=RSS&at_campaign=rss))
+- New parish council will 'avoid boundary confusion' ([9 hours ago](https://www.bbc.com/news/articles/cgjp9636306o?at_medium=RSS&at_campaign=rss))
+- Traffic cameras to target illegal parking in city ([18 hours ago](https://www.bbc.com/news/articles/c4g9vqgyer7o?at_medium=RSS&at_campaign=rss))
+- 'I was told police could be called after home birth' ([18 hours ago](https://www.bbc.com/news/articles/c0l29w34x5xo?at_medium=RSS&at_campaign=rss))
 - Rugby players raise money for injured team mates ([1 days ago](https://www.bbc.com/news/articles/cn9pwe0839go?at_medium=RSS&at_campaign=rss))
 - Volunteers rehearse life-saving disaster response ([1 days ago](https://www.bbc.com/news/articles/cwy2ey111j2o?at_medium=RSS&at_campaign=rss))
 - Museum buys Iron Age hoard found by detectorist ([1 days ago](https://www.bbc.com/news/articles/cy82z435g00o?at_medium=RSS&at_campaign=rss))

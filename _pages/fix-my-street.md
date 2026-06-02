@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The grass verges are now extremely high and dangerous restricting visibility at both ends of the chicane. It is impossible to see oncoming traffic before going through the chicane. This could lead to a serious accident. Please cut the grass and ensure the cutting is done on a regular schedule throughout the spring and summer, 2nd June :- [9544432](https://www.fixmystreet.com/report/9544432)
 - Abandoned Caravan, 1st June :- [9543696](https://www.fixmystreet.com/report/9543696)
 - Traffic sign has fallen down the pole, 1st June :- [9543608](https://www.fixmystreet.com/report/9543608)
 - Historic kerbstones destroyed/removed in Cudnall St conservation area., 1st June :- [9543327](https://www.fixmystreet.com/report/9543327)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fallen tree completely blocking bridlepath gate, 1st June :- [9541840](https://www.fixmystreet.com/report/9541840)
 - TMC - Defects - Vegetation problem, 1st June :- [9541892](https://www.fixmystreet.com/report/9541892)
 - Large potholes with white dots still not repaired - end of hall rd, 1st June :- [9541794](https://www.fixmystreet.com/report/9541794)
-- Stop line requires refreshing, 1st June :- [9541750](https://www.fixmystreet.com/report/9541750)
 
 <!-- fix_marker ends -->

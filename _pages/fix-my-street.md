@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 2nd June :- [9550015](https://www.fixmystreet.com/report/9550015)
 - 24” pothole, 2nd June :- [9549586](https://www.fixmystreet.com/report/9549586)
 - Gulleys blocked and very slow to drain, 2nd June :- [9549555](https://www.fixmystreet.com/report/9549555)
 - Blocked gully SRN side princes street, 2nd June :- [9549289](https://www.fixmystreet.com/report/9549289)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 2nd June :- [9548797](https://www.fixmystreet.com/report/9548797)
 - Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 2nd June :- [9549025](https://www.fixmystreet.com/report/9549025)
 - Overflowing Bin, 2nd June :- [9548564](https://www.fixmystreet.com/report/9548564)
-- TMC - Defects - Vegetation problem, 2nd June :- [9548577](https://www.fixmystreet.com/report/9548577)
 
 <!-- fix_marker ends -->

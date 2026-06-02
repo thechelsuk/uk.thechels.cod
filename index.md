@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 02 June 2026
 
-- The average temperature today is 15.05˚C,
-- With highs of 15.05˚C and lows of 15.05˚C,
-- It may feel like 14.83˚C with clear sky
-- The wind speed is 3.96m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 85%
+- The average temperature today is 14.38˚C,
+- With highs of 14.42˚C and lows of 14.18˚C,
+- It may feel like 14.12˚C with clear sky
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 86%
 - The sun will rise at 03:54 and set at 20:18
 
 <!-- weather_marker ends -->

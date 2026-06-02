@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain lid is lifted and causing a health and safety risk in the pathway, 2nd June :- [9544652](https://www.fixmystreet.com/report/9544652)
+- Blocked Drain., 2nd June :- [9544589](https://www.fixmystreet.com/report/9544589)
 - The grass verges are now extremely high and dangerous restricting visibility at both ends of the chicane. It is impossible to see oncoming traffic before going through the chicane. This could lead to a serious accident. Please cut the grass and ensure the cutting is done on a regular schedule throughout the spring and summer, 2nd June :- [9544432](https://www.fixmystreet.com/report/9544432)
 - Abandoned Caravan, 1st June :- [9543696](https://www.fixmystreet.com/report/9543696)
 - Traffic sign has fallen down the pole, 1st June :- [9543608](https://www.fixmystreet.com/report/9543608)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Both footpaths on arden road damaged and uneven - dangerous trip hazard, 1st June :- [9541885](https://www.fixmystreet.com/report/9541885)
 - Loose BT cover - unstable, noisy and not fixed, 1st June :- [9541868](https://www.fixmystreet.com/report/9541868)
 - Fallen tree completely blocking bridlepath gate, 1st June :- [9541840](https://www.fixmystreet.com/report/9541840)
-- TMC - Defects - Vegetation problem, 1st June :- [9541892](https://www.fixmystreet.com/report/9541892)
-- Large potholes with white dots still not repaired - end of hall rd, 1st June :- [9541794](https://www.fixmystreet.com/report/9541794)
 
 <!-- fix_marker ends -->

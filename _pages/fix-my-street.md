@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole not fixed, 3rd June :- [9554375](https://www.fixmystreet.com/report/9554375)
+- Traffic lights but no work ever being fonet, 3rd June :- [9556237](https://www.fixmystreet.com/report/9556237)
 - Red ringway sign left by contractors near 23/25 Brookway road, 3rd June :- [9556141](https://www.fixmystreet.com/report/9556141)
 - Damaged tree parts falling on the public footpath, 3rd June :- [9556075](https://www.fixmystreet.com/report/9556075)
 - Road closure signs and barriers blocking the road on the B4634., 3rd June :- [9556076](https://www.fixmystreet.com/report/9556076)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 3rd June :- [9554848](https://www.fixmystreet.com/report/9554848)
 - TMC - Defects - Vegetation problem, 3rd June :- [9554619](https://www.fixmystreet.com/report/9554619)
 - TMC - Defects -CW10 Potholes problem, 3rd June :- [9554617](https://www.fixmystreet.com/report/9554617)
-- Eroded road surface/holes, 3rd June :- [9554486](https://www.fixmystreet.com/report/9554486)
-- Passing place potholes causing car damage, 3rd June :- [9554440](https://www.fixmystreet.com/report/9554440)
 
 <!-- fix_marker ends -->

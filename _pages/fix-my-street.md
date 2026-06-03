@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Red ringway sign left by contractors near 23/25 Brookway road, 3rd June :- [9556141](https://www.fixmystreet.com/report/9556141)
+- Damaged tree parts falling on the public footpath, 3rd June :- [9556075](https://www.fixmystreet.com/report/9556075)
+- Road closure signs and barriers blocking the road on the B4634., 3rd June :- [9556076](https://www.fixmystreet.com/report/9556076)
+- Vehicle has been dumped here in the night a couple of nights ago, 3rd June :- [9555630](https://www.fixmystreet.com/report/9555630)
+- Numerous connected potholes, edge of tarmac breaking away., 3rd June :- [9555329](https://www.fixmystreet.com/report/9555329)
+- The drain is blocked problem, 3rd June :- [9555346](https://www.fixmystreet.com/report/9555346)
 - Scheduled street clean unsatisfactory, 3rd June :- [9555133](https://www.fixmystreet.com/report/9555133)
 - Large amount of tree branch fallen onto public footpath, 3rd June :- [9555091](https://www.fixmystreet.com/report/9555091)
 - Dead branch over pavement and road, 3rd June :- [9555010](https://www.fixmystreet.com/report/9555010)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 3rd June :- [9554617](https://www.fixmystreet.com/report/9554617)
 - Eroded road surface/holes, 3rd June :- [9554486](https://www.fixmystreet.com/report/9554486)
 - Passing place potholes causing car damage, 3rd June :- [9554440](https://www.fixmystreet.com/report/9554440)
-- Pothole in middle of road causing significant bang through car suspension, 3rd June :- [9554333](https://www.fixmystreet.com/report/9554333)
-- TMC - Defects - Kerbs and Channels problem, 3rd June :- [9554387](https://www.fixmystreet.com/report/9554387)
-- TMC - Defects - Footways Slabs problem, 3rd June :- [9554388](https://www.fixmystreet.com/report/9554388)
-- Yellow lines in poor condition, 3rd June :- [9554143](https://www.fixmystreet.com/report/9554143)
-- Large craters! Road is a disgrace, 3rd June :- [9554140](https://www.fixmystreet.com/report/9554140)
-- TMC - Defects -other CW10 problem, 3rd June :- [9554190](https://www.fixmystreet.com/report/9554190)
 
 <!-- fix_marker ends -->

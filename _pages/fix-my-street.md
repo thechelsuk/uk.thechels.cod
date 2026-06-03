@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is a health risk and safety hazard, 3rd June :- [9557669](https://www.fixmystreet.com/report/9557669)
 - Uneven surface and pavement deteriorating, 3rd June :- [9557311](https://www.fixmystreet.com/report/9557311)
 - Dip in road and poor surface conditions worsening, 3rd June :- [9557279](https://www.fixmystreet.com/report/9557279)
 - 20 potholes and damage to road surface continuing to get worse, 3rd June :- [9557235](https://www.fixmystreet.com/report/9557235)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Drain gulley beneath pavement is blocked., 3rd June :- [9554960](https://www.fixmystreet.com/report/9554960)
 - TMC - Defects - Vegetation problem, 3rd June :- [9555124](https://www.fixmystreet.com/report/9555124)
 - TMC - Defects -CW6 Potholes  problem, 3rd June :- [9555120](https://www.fixmystreet.com/report/9555120)
-- TMC - Defects -CW10 Potholes problem, 3rd June :- [9555118](https://www.fixmystreet.com/report/9555118)
 
 <!-- fix_marker ends -->

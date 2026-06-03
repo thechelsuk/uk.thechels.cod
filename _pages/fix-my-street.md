@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Uneven surface and pavement deteriorating, 3rd June :- [9557311](https://www.fixmystreet.com/report/9557311)
+- Dip in road and poor surface conditions worsening, 3rd June :- [9557279](https://www.fixmystreet.com/report/9557279)
+- 20 potholes and damage to road surface continuing to get worse, 3rd June :- [9557235](https://www.fixmystreet.com/report/9557235)
+- Fly tipped litter and household items, 3rd June :- [9557231](https://www.fixmystreet.com/report/9557231)
+- Fast growing weeds obstructing the pavement, 3rd June :- [9557153](https://www.fixmystreet.com/report/9557153)
 - Pot hole not fixed, 3rd June :- [9554375](https://www.fixmystreet.com/report/9554375)
 - Traffic lights but no work ever being fonet, 3rd June :- [9556237](https://www.fixmystreet.com/report/9556237)
 - Red ringway sign left by contractors near 23/25 Brookway road, 3rd June :- [9556141](https://www.fixmystreet.com/report/9556141)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 3rd June :- [9555124](https://www.fixmystreet.com/report/9555124)
 - TMC - Defects -CW6 Potholes  problem, 3rd June :- [9555120](https://www.fixmystreet.com/report/9555120)
 - TMC - Defects -CW10 Potholes problem, 3rd June :- [9555118](https://www.fixmystreet.com/report/9555118)
-- TMC - Defects - Vegetation problem, 3rd June :- [9554853](https://www.fixmystreet.com/report/9554853)
-- Tree is damaged problem, 3rd June :- [9554846](https://www.fixmystreet.com/report/9554846)
-- TMC - Defects -CW6 Potholes  problem, 3rd June :- [9554848](https://www.fixmystreet.com/report/9554848)
-- TMC - Defects - Vegetation problem, 3rd June :- [9554619](https://www.fixmystreet.com/report/9554619)
-- TMC - Defects -CW10 Potholes problem, 3rd June :- [9554617](https://www.fixmystreet.com/report/9554617)
 
 <!-- fix_marker ends -->

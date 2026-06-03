@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 03 June 2026
 
-- The average temperature today is 15.55˚C,
-- With highs of 16.51˚C and lows of 15.38˚C,
-- It may feel like 15.12˚C with clear sky
-- The wind speed is 5.81m/s and visibility is 10000m
-- The pressure is 995hPa and humidity is 75%
+- The average temperature today is 14.44˚C,
+- With highs of 14.97˚C and lows of 14.26˚C,
+- It may feel like 13.95˚C with scattered clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 995hPa and humidity is 77%
 - The sun will rise at 03:53 and set at 20:19
 
 <!-- weather_marker ends -->

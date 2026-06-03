@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes across junction, 3rd June :- [9552193](https://www.fixmystreet.com/report/9552193)
+- Pothole, 3rd June :- [9552173](https://www.fixmystreet.com/report/9552173)
+- Pothole, 3rd June :- [9552163](https://www.fixmystreet.com/report/9552163)
+- Drains overflowing, 3rd June :- [9552137](https://www.fixmystreet.com/report/9552137)
+- TMC - Defects -FW6 Potholes problem, 3rd June :- [9552195](https://www.fixmystreet.com/report/9552195)
+- Pedestrian crossing not working, 3rd June :- [9551896](https://www.fixmystreet.com/report/9551896)
+- Tree is damaged problem, 3rd June :- [9551939](https://www.fixmystreet.com/report/9551939)
+- TMC - Defects - Vegetation problem, 3rd June :- [9551750](https://www.fixmystreet.com/report/9551750)
+- Blocked drain, 3rd June :- [9551637](https://www.fixmystreet.com/report/9551637)
 - Pot hole that is constantly being repaired and sinking within days, 3rd June :- [9551239](https://www.fixmystreet.com/report/9551239)
 - The street light has not worked for at least two nights, 2nd June :- [9550928](https://www.fixmystreet.com/report/9550928)
 - Overgrown grass, 2nd June :- [9550885](https://www.fixmystreet.com/report/9550885)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Gulleys blocked and very slow to drain, 2nd June :- [9549555](https://www.fixmystreet.com/report/9549555)
 - Blocked gully SRN side princes street, 2nd June :- [9549289](https://www.fixmystreet.com/report/9549289)
 - The drain is blocked problem, 2nd June :- [9549481](https://www.fixmystreet.com/report/9549481)
-- Surface water drains are blocked on Mendip road, 2nd June :- [9549154](https://www.fixmystreet.com/report/9549154)
-- The drain is blocked problem, 2nd June :- [9549240](https://www.fixmystreet.com/report/9549240)
-- Drain outside 53 London Road is blocked, when it rains hard the water runs down pavement and potential to flood basement flat., 2nd June :- [9549089](https://www.fixmystreet.com/report/9549089)
-- The drain at the bottom of Ham Hill and across from Ham Lane is Blocked, 2nd June :- [9549053](https://www.fixmystreet.com/report/9549053)
-- Blocked drain making access road inaccessible on foot, 2nd June :- [9548938](https://www.fixmystreet.com/report/9548938)
-- Ridiculously huge puddles on new crossing, 2nd June :- [9548917](https://www.fixmystreet.com/report/9548917)
-- Flooding difficult to drive through, 2nd June :- [9548903](https://www.fixmystreet.com/report/9548903)
-- TMC - Defects - Covers, Gratings & Frames problem, 2nd June :- [9549026](https://www.fixmystreet.com/report/9549026)
-- Blocked drains, 2nd June :- [9548736](https://www.fixmystreet.com/report/9548736)
 
 <!-- fix_marker ends -->

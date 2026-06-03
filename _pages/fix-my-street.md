@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole that is constantly being repaired and sinking within days, 3rd June :- [9551239](https://www.fixmystreet.com/report/9551239)
 - The street light has not worked for at least two nights, 2nd June :- [9550928](https://www.fixmystreet.com/report/9550928)
 - Overgrown grass, 2nd June :- [9550885](https://www.fixmystreet.com/report/9550885)
 - Deep ruts where footpath meets carriageway is hazardous for cyclists, 2nd June :- [9550862](https://www.fixmystreet.com/report/9550862)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Flooding difficult to drive through, 2nd June :- [9548903](https://www.fixmystreet.com/report/9548903)
 - TMC - Defects - Covers, Gratings & Frames problem, 2nd June :- [9549026](https://www.fixmystreet.com/report/9549026)
 - Blocked drains, 2nd June :- [9548736](https://www.fixmystreet.com/report/9548736)
-- The drain is blocked problem, 2nd June :- [9548793](https://www.fixmystreet.com/report/9548793)
 
 <!-- fix_marker ends -->

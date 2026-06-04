@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,87 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -other CW6 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9558954</link>
+<description>28day with road closure CW edge deterioration approx 700x500x65mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558954&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9558954</guid>
+<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
+<georss:point>51.9011228894668 -2.2054718713169</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9558959</link>
+<description>28day with road closure CW edge deterioration approx 800x400x60mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558959&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9558959</guid>
+<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
+<georss:point>51.8976202 -2.20486550000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9558958</link>
+<description>28day with road closure CW edge deterioration approx 500x500x60mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558958&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9558958</guid>
+<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
+<georss:point>51.8971948340309 -2.20466444922577</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9558957</link>
+<description>28day with road closure CW edge deterioration approx 700x400x60mm perm repair unmarked and unable to take photos due to traffic volume (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558957&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9558957</guid>
+<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
+<georss:point>51.8972258048403 -2.20459071689561</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9558955</link>
+<description>28day with road closure CW edge deterioration approx 800x400x60mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558955&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9558955</guid>
+<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
+<georss:point>51.9007559995951 -2.20547313325523</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9558956</link>
+<description>28day with road closure CW edge deterioration approx 800x400x60mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558956&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9558956</guid>
+<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
+<georss:point>51.8980297 -2.2049574</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9558960</link>
+<description>28day with road closure CW edge deterioration approx 900x400x55mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558960&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9558960</guid>
+<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
+<georss:point>51.8979634217191 -2.20497549182351</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9558961</link>
+<description>28day with road closure CW edge deterioration approx 1200x300x55mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558961&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9558961</guid>
+<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
+<georss:point>51.9008238321773 -2.20552507484083</georss:point>
+</item>
+<item>
+<title>Road sign left after work by Severn Trent, 4th June</title>
+<link>https://www.fixmystreet.com/report/9558731</link>
+<description>There is a road sign that has been left, opposite 16 Bibury Road, following work carried out by Severn Trent in Bibury Road. All the other signs were removed but one has been left. It has been collapsed so it is flat on the grass verge.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 18, Bibury Road, Hatherley, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558731&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Sign plate is misaligned (Non illuminating sign)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9558731</guid>
+<pubDate>Thu, 04 Jun 2026 08:32:07 +0100</pubDate>
+<georss:point>51.893713 -2.11645</georss:point>
+</item>
 <item>
 <title>Entire Road is not fit for Purpose, 4th June</title>
 <link>https://www.fixmystreet.com/report/9558357</link>
@@ -112,87 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9556141</guid>
 <pubDate>Wed, 03 Jun 2026 17:19:24 +0100</pubDate>
 <georss:point>51.886244 -2.05615</georss:point>
-</item>
-<item>
-<title>Damaged tree parts falling on the public footpath, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9556075</link>
-<description>10 metres from 31 Honeybourne Drive Cheltenham GL510QJ&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9556075.0.jpeg?5d12f9ab&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 28, Honeybourne Drive, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9556075&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree causing damage/obstruction to pavement or road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9556075</guid>
-<pubDate>Wed, 03 Jun 2026 17:11:30 +0100</pubDate>
-<georss:point>51.91305 -2.119955</georss:point>
-</item>
-<item>
-<title>Road closure signs and barriers blocking the road on the B4634., 3rd June</title>
-<link>https://www.fixmystreet.com/report/9556076</link>
-<description>Road closure signs and barriers blocking Old Gloucester Road B4634 from the House In The Tree pub towards Cheltenham saying the road is closed and no through traffic. There is no mention of this on any websites and no notifications that they are there until you hit them. The road is still open and you can get through. The signs are causing a big problem with people turning around in the road blocking traffic heading towards the house in the tree and from Withybridge Lane. They gave been there for two days now&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Hayden Lane, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9556076&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Signs &amp; Barriers left behind by Contractor</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9556076</guid>
-<pubDate>Wed, 03 Jun 2026 17:10:44 +0100</pubDate>
-<georss:point>51.911332 -2.143385</georss:point>
-</item>
-<item>
-<title>Vehicle has been dumped here in the night a couple of nights ago, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9555630</link>
-<description>The vehicle is smashed up and undrivable. The front and rear windscreen is smashed to smithereens.&amp;#10;&amp;#10;The vehicle is not a regular vehicle round here.&amp;#10;&amp;#10;Have logged with DVLA and Guinness partnership aswell.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9555630.0.jpeg?46b024ce&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Evergreen Walk, Longlevens, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9555630&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned vehicle</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9555630</guid>
-<pubDate>Wed, 03 Jun 2026 16:10:39 +0100</pubDate>
-<georss:point>51.88318 -2.206724</georss:point>
-</item>
-<item>
-<title>Numerous connected potholes, edge of tarmac breaking away., 3rd June</title>
-<link>https://www.fixmystreet.com/report/9555329</link>
-<description>Halfway to the golf course clubhouse car park. This section of road has been deteriorating for several weeks now.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Wickfield Lane, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9555329&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9555329</guid>
-<pubDate>Wed, 03 Jun 2026 15:31:28 +0100</pubDate>
-<georss:point>51.944338 -2.017122</georss:point>
-</item>
-<item>
-<title>The drain is blocked problem, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9555346</link>
-<description>Water running down from Headlands as per pin on map down to The Mill, water is running constantly&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9555346&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9555346</guid>
-<pubDate>Wed, 03 Jun 2026 15:26:27 +0100</pubDate>
-<georss:point>51.916857 -2.028603</georss:point>
-</item>
-<item>
-<title>Scheduled street clean unsatisfactory, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9555133</link>
-<description>Street not cleaned and basements at risk of flooding from blocked road drains&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9555133.0.jpeg?9239b130&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 38, St Lukes Road, Ewens Farm, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9555133&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9555133</guid>
-<pubDate>Wed, 03 Jun 2026 15:04:35 +0100</pubDate>
-<georss:point>51.895159 -2.072687</georss:point>
-</item>
-<item>
-<title>Large amount of tree branch fallen onto public footpath, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9555091</link>
-<description>10 metres from 31 Honeybourne Drive Cheltenham GL510QJ Was programmed to be re-pollarded by end March this year but wasn&amp;#39;t carried out Ref number 11498269&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9555091.0.jpeg?93a6e744&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 31, Honeybourne Drive, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9555091&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9555091</guid>
-<pubDate>Wed, 03 Jun 2026 15:02:30 +0100</pubDate>
-<georss:point>51.913191 -2.119957</georss:point>
-</item>
-<item>
-<title>Dead branch over pavement and road, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9555010</link>
-<description>Danger to pedestrian and motorist&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9555010.0.jpeg?b5cd5497&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 38, St Lukes Road, Ewens Farm, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9555010&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9555010</guid>
-<pubDate>Wed, 03 Jun 2026 14:55:25 +0100</pubDate>
-<georss:point>51.895159 -2.072687</georss:point>
-</item>
-<item>
-<title>Drain gulley beneath pavement is blocked., 3rd June</title>
-<link>https://www.fixmystreet.com/report/9554960</link>
-<description>Drain under pavement at 20 Albert Street GL50 4HS is filled with mud to the extent that my downpipe is beginning to fill with rubble from bottom up. Photo shows rubble shaken loose from down pipe when kicked loose.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9554960.0.jpeg?0ce147df&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 36, Larput Place, Marle Hill, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9554960&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9554960</guid>
-<pubDate>Wed, 03 Jun 2026 14:50:11 +0100</pubDate>
-<georss:point>51.908066 -2.07847</georss:point>
 </item>
 </channel>
 </rss>

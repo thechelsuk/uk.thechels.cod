@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,168 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559751</link>
+<description>15DB CW: Pothole &amp;#10;300mmx400mmx43mm&amp;#10;TM: temporary road closure &amp;#10;///guessing.rollover.novelists (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559751&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559751</guid>
+<pubDate>Thu, 04 Jun 2026 10:18:20 +0100</pubDate>
+<georss:point>51.8620258 -2.08172309999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559749</link>
+<description>CW Pothole 600mm x 500mm x 45mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside little Orchard (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559749&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559749</guid>
+<pubDate>Thu, 04 Jun 2026 10:06:03 +0100</pubDate>
+<georss:point>51.9538862 -2.11315309999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559750</link>
+<description>CW Pothole 800mm x 500mm x 43mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside Buttermilk Cottage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559750&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559750</guid>
+<pubDate>Thu, 04 Jun 2026 10:06:03 +0100</pubDate>
+<georss:point>51.9537065 -2.1135168</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559508</link>
+<description>CW Pothole 700mm x 500mm x 42mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside Greystones (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559508&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559508</guid>
+<pubDate>Thu, 04 Jun 2026 09:44:18 +0100</pubDate>
+<georss:point>51.951376 -2.1210207</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559271</link>
+<description>CW edge deterioration 800mm x 300mm x 46mm&amp;#10;Temporary Closure 15min db &amp;#10;///chucked.defining.cadet (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559271&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559271</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9512261 -2.16647110000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559270</link>
+<description>CW Pothole 500mm x 300mm x 40mm&amp;#10;Temporary Closure 15min db &amp;#10;///starfish.mermaids.tailwind (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559270&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559270</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9511993 -2.16668939999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559258</link>
+<description>CW Pothole 900mm x 400mm x 43mm&amp;#10;Temporary Closure 15min db &amp;#10;///embellish.combos.sake (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559258&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559258</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9576682 -2.17753570000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559269</link>
+<description>CW Pothole 1000mm x 600mm x 42mm&amp;#10;Temporary Closure 15min db &amp;#10;///repaying.beakers.newsreel (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559269&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559269</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9511906015076 -2.16670469170854</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559268</link>
+<description>CW Pothole 1000mm x 700mm x 54mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside Manor Cottage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559268&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559268</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.951115 -2.1674437</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559266</link>
+<description>CW Pothole 900mm x 900mm x 40mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside Manor Cottage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559266&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559266</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9510901 -2.1676436</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559265</link>
+<description>CW Pothole 800mm x 400mm x 42mm&amp;#10;Temporary Closure 15min db &amp;#10;Opposite Manor Cottage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559265&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559265</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9510536 -2.1676676</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559259</link>
+<description>CW Pothole 600mm x 400mm x 45mm&amp;#10;Temporary Closure 15min db &amp;#10;///pizzeria.dented.shrug (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559259&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559259</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9575607 -2.1772716</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559264</link>
+<description>CW Pothole 700mm x 600mm x 46mm&amp;#10;Temporary Closure 15min db &amp;#10;Opposite Manor Cottage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559264&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559264</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9510183 -2.1678556</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW10 problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559263</link>
+<description>CW edge deterioration 1000mm x 300mm x 42mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside Notcliffe House (CW10 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559263&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW10</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559263</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9556039 -2.1744824</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559267</link>
+<description>CW Pothole 600mm x 600mm x 42mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside Manor Cottage (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559267&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559267</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9511165 -2.16746399999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559262</link>
+<description>CW Pothole 900mm x 500mm x 44mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside Notcliffe House (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559262&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559262</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.956384 -2.1758912</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559260</link>
+<description>CW Pothole 600mm x 400mm x 41mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside Notcliffe House (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559260&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559260</guid>
+<pubDate>Thu, 04 Jun 2026 09:19:54 +0100</pubDate>
+<georss:point>51.9564237 -2.17588549999999</georss:point>
+</item>
+<item>
+<title>Obstruction caused by tree problem, 4th June</title>
+<link>https://www.fixmystreet.com/report/9559491</link>
+<description>I have contacted Cheltenham B.C. and they advised me to contact Gloucestershire C.C.. It&amp;#39;s regarding an overhanging tree on the footpath between Bradley Road and Croft Road. Our postcode GL538DU. The tree is now very high and covering the footpath also our back garden. I would appreciate if someone can visit and resolve this problem. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9559491&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Obstruction caused by tree</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9559491</guid>
+<pubDate>Thu, 04 Jun 2026 08:50:53 +0100</pubDate>
+<georss:point>51.878697 -2.052918</georss:point>
+</item>
 <item>
 <title>TMC - Defects -other CW6 problem, 4th June</title>
 <link>https://www.fixmystreet.com/report/9558954</link>
@@ -31,168 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9558959</guid>
 <pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
 <georss:point>51.8976202 -2.20486550000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 4th June</title>
-<link>https://www.fixmystreet.com/report/9558958</link>
-<description>28day with road closure CW edge deterioration approx 500x500x60mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558958&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9558958</guid>
-<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
-<georss:point>51.8971948340309 -2.20466444922577</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 4th June</title>
-<link>https://www.fixmystreet.com/report/9558957</link>
-<description>28day with road closure CW edge deterioration approx 700x400x60mm perm repair unmarked and unable to take photos due to traffic volume (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558957&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9558957</guid>
-<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
-<georss:point>51.8972258048403 -2.20459071689561</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 4th June</title>
-<link>https://www.fixmystreet.com/report/9558955</link>
-<description>28day with road closure CW edge deterioration approx 800x400x60mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558955&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9558955</guid>
-<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
-<georss:point>51.9007559995951 -2.20547313325523</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 4th June</title>
-<link>https://www.fixmystreet.com/report/9558956</link>
-<description>28day with road closure CW edge deterioration approx 800x400x60mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558956&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9558956</guid>
-<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
-<georss:point>51.8980297 -2.2049574</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 4th June</title>
-<link>https://www.fixmystreet.com/report/9558960</link>
-<description>28day with road closure CW edge deterioration approx 900x400x55mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558960&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9558960</guid>
-<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
-<georss:point>51.8979634217191 -2.20497549182351</georss:point>
-</item>
-<item>
-<title>TMC - Defects -other CW6 problem, 4th June</title>
-<link>https://www.fixmystreet.com/report/9558961</link>
-<description>28day with road closure CW edge deterioration approx 1200x300x55mm perm repair unmarked and no photos due to traffic volume. (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558961&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9558961</guid>
-<pubDate>Thu, 04 Jun 2026 08:39:00 +0100</pubDate>
-<georss:point>51.9008238321773 -2.20552507484083</georss:point>
-</item>
-<item>
-<title>Road sign left after work by Severn Trent, 4th June</title>
-<link>https://www.fixmystreet.com/report/9558731</link>
-<description>There is a road sign that has been left, opposite 16 Bibury Road, following work carried out by Severn Trent in Bibury Road. All the other signs were removed but one has been left. It has been collapsed so it is flat on the grass verge.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 18, Bibury Road, Hatherley, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558731&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Sign plate is misaligned (Non illuminating sign)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9558731</guid>
-<pubDate>Thu, 04 Jun 2026 08:32:07 +0100</pubDate>
-<georss:point>51.893713 -2.11645</georss:point>
-</item>
-<item>
-<title>Entire Road is not fit for Purpose, 4th June</title>
-<link>https://www.fixmystreet.com/report/9558357</link>
-<description>Finlay Road between Blackberry Grove and Bramble Chase is in such a poor state due to poor construction and areas that have been widened badly is causing considerable vibration to the adjacent properties to the extent that my security camera send me a message every time a heavy duty/bus vehicle come past and my doors rattle&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9558357.0.jpeg?74873adf&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Bramble Chase, Bishop&#39;s Cleeve, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558357&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Poor repairs (reinstatement)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9558357</guid>
-<pubDate>Thu, 04 Jun 2026 07:14:41 +0100</pubDate>
-<georss:point>51.948975 -2.067959</georss:point>
-</item>
-<item>
-<title>Overgrown vegetation, tree limbs obstructing footpath, 4th June</title>
-<link>https://www.fixmystreet.com/report/9558340</link>
-<description>From Shipton Oliffe Crossroads lights down the A40 to Andoversford turn, the public footpath is obscured by hanging branches and vegetation. The footpath is so overgrown, pedestrians have to walk on the busy A40 to avoid the obstacles, dangerous at any time. (Also, there are no lights/lamp posts long this path making walking even more unsafe in dark or wet conditions.)&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): A40, Shipton, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9558340&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9558340</guid>
-<pubDate>Thu, 04 Jun 2026 07:10:24 +0100</pubDate>
-<georss:point>51.864583 -1.959003</georss:point>
-</item>
-<item>
-<title>Tree is a health risk and safety hazard, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9557669</link>
-<description>Tree located on Brookway Road. One of the branches extends over our driveway, resulting in excessive bird droppings covering the entire area, along with continual debris falling from the tree. As we have two young children aged 5 and under, we are increasingly concerned that this presents both a health risk and a safety hazard.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 33, Brookway Road, Ewens Farm, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9557669&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Ash Tree located on Highway land</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9557669</guid>
-<pubDate>Wed, 03 Jun 2026 22:20:21 +0100</pubDate>
-<georss:point>51.884722 -2.055713</georss:point>
-</item>
-<item>
-<title>Uneven surface and pavement deteriorating, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9557311</link>
-<description>Outside numbers 3,7 and 9 the pavements have been deteriorating over time and now have dips and grooves starting which could lead to more of the pavement coming up and some concerns over trip hazards. Some residents do not use the paths because of their unevenness and choose to walk on the road - unfortunately with that now becoming a bigger problem and risk both need investigating.&amp;#10;&amp;#10;The area outside 9 has started around where the internet cabling comes up. The area outside 7 is where the drain cover is and it has created a step by the side of it. The area outside 3 is poor surface quality and starting to deteriorate.&amp;#10;&amp;#10;This is all combined with the poor general surface condition of the roadway which includes pot holes, cracks etc as reported in the separate report.&amp;#10;&amp;#10;Thanks very much for your time and consideration on this.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9557311.0.jpeg?34cdffa5&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 3, Flint Road, Hatherley, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9557311&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9557311</guid>
-<pubDate>Wed, 03 Jun 2026 20:43:04 +0100</pubDate>
-<georss:point>51.887104 -2.117361</georss:point>
-</item>
-<item>
-<title>Dip in road and poor surface conditions worsening, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9557279</link>
-<description>As a follow on to the more fuller report of the road surface condition please find 3 additional photos of the large dip in the roadway near a drain and the potholes and poor surface conditions leading to that. I have put the majority of issues in the other report but this is quite significant as well and could lead to issues with the drain and water run off etc. thank you&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9557279.0.jpeg?dfa3582f&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Flint Road, Hatherley, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9557279&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9557279</guid>
-<pubDate>Wed, 03 Jun 2026 20:34:41 +0100</pubDate>
-<georss:point>51.887025 -2.117507</georss:point>
-</item>
-<item>
-<title>20 potholes and damage to road surface continuing to get worse, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9557235</link>
-<description>Flint road has been deteriorating with the amount of car traffic it receives. The surface has got a variety of issues ranging from cracks/splits to patchwork repairs and pot holes as well as a large dip/recess. The potholes are quite significant in size and number and are dotted throughout the road but noticeably in front of 3.4.6.9 and the turning circle. Some of the potholes pictured have loose material in and in some cases the edging bricks have come away or been damaged. This loose material gets removed from the holes by passing traffic each day and they get larger. Caernarvon Road was fully resurfaced not too long ago and it would be advantageous to get these problems aligned and resurfaced too to save damage to cars or they get significantly degraded not allowing suitable access. I will also submit a further ticket for the dip in the road. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9557235.0.jpeg?45fb55f0&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 3, Flint Road, Hatherley, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9557235&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9557235</guid>
-<pubDate>Wed, 03 Jun 2026 20:28:39 +0100</pubDate>
-<georss:point>51.887174 -2.117315</georss:point>
-</item>
-<item>
-<title>Fly tipped litter and household items, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9557231</link>
-<description>On Waterloo Street litter, fly tipped in corner near Addis street. I imagine people dumping rubbish because swindon road tip is closed.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 22, Waterloo Street, Wymans Brook, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9557231&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9557231</guid>
-<pubDate>Wed, 03 Jun 2026 20:26:58 +0100</pubDate>
-<georss:point>51.909805 -2.089872</georss:point>
-</item>
-<item>
-<title>Fast growing weeds obstructing the pavement, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9557153</link>
-<description>This is the third year of reporting the same issue! Weeds are very rapidly growing on the right hand side as you head towards Stoke Orchard on Stoke Orchard Road between Lyndley Chase and Farriers Reach. This is narrowing the pavement and could well be poisonous.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9557153.0.jpeg?b234b3dd&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Stoke Orchard Road, Bishop&#39;s Cleeve, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9557153&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Giant Hogweed</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9557153</guid>
-<pubDate>Wed, 03 Jun 2026 20:12:25 +0100</pubDate>
-<georss:point>51.945865 -2.075549</georss:point>
-</item>
-<item>
-<title>Pot hole not fixed, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9554375</link>
-<description>The pothole is as you leave hulbert close turn left and then immediately turn right . The junction has the pothole and it is getting bigger&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 68, Church Road, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9554375&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9554375</guid>
-<pubDate>Wed, 03 Jun 2026 18:13:54 +0100</pubDate>
-<georss:point>51.923493 -2.097775</georss:point>
-</item>
-<item>
-<title>Traffic lights but no work ever being fonet, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9556237</link>
-<description>Please can you explain why the temporary traffic lights are still in situ where the car was on fire but no work has ever been done to sweep debris away or repair the road. The lights make journeys along he A46 even more unbearable than we have to endure on a daily basis and the frustration of these lights with no evidence of any work ever done makes it worse. Thanks&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Painswick Road, Brockworth, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9556237&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Poor repairs (reinstatement)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9556237</guid>
-<pubDate>Wed, 03 Jun 2026 17:35:35 +0100</pubDate>
-<georss:point>51.835377 -2.161473</georss:point>
-</item>
-<item>
-<title>Red ringway sign left by contractors near 23/25 Brookway road, 3rd June</title>
-<link>https://www.fixmystreet.com/report/9556141</link>
-<description>Sign left since I think January 2026&amp;#10;&amp;#10;Outside 23/25 Brookway road, GL53 8HF.&amp;#10;&amp;#10;What3words is oven.towns.mash&amp;#10;&amp;#10;Thanks!&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 43a, Cirencester Road, Ewens Farm, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9556141&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Signs &amp; Barriers left behind by Contractor</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9556141</guid>
-<pubDate>Wed, 03 Jun 2026 17:19:24 +0100</pubDate>
-<georss:point>51.886244 -2.05615</georss:point>
 </item>
 </channel>
 </rss>

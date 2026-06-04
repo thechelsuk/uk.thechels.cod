@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abbotswood is a mess!, 4th June :- [9564128](https://www.fixmystreet.com/report/9564128)
+- Fridge dumped on Priory Street, 4th June :- [9564112](https://www.fixmystreet.com/report/9564112)
+- Several pot holes and damaged surface around junction, 4th June :- [9564059](https://www.fixmystreet.com/report/9564059)
+- Drain opposite Dunalley Primary School blocked, flooding to road., 4th June :- [9564057](https://www.fixmystreet.com/report/9564057)
+- Blocked drain, 4th June :- [9564042](https://www.fixmystreet.com/report/9564042)
+- Enormous pothole in access road to rear of court road, 4th June :- [9564025](https://www.fixmystreet.com/report/9564025)
 - Overgrown grass, 4th June :- [9563790](https://www.fixmystreet.com/report/9563790)
 - Road Dear Max, We love trees and cherish their continued presence in our community. However, the horse chestnut on the grass verge to the left of our house, which has been home to us since 31.03.84 l, is now massive. In the 40 years that we have lived at 38, Moorend Park Road, I can’t recall it having ever been pruned. Many of the branches overhang our garden blocking out sunlight. There are telephone wires which cross - cross through the branches too- not sure how safe that is. I have periodically contacted h the Cheltenham Borough Council to ask for this tree to be pruned but to date I have had no response nor any action., 4th June :- [9562975](https://www.fixmystreet.com/report/9562975)
 - Footpath turning into a death trap for the elderly and disabled, 4th June :- [9562943](https://www.fixmystreet.com/report/9562943)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th June :- [9561033](https://www.fixmystreet.com/report/9561033)
 - TMC - Defects -CW6 Potholes  problem, 4th June :- [9561032](https://www.fixmystreet.com/report/9561032)
 - Potholes, 4th June :- [9560952](https://www.fixmystreet.com/report/9560952)
-- Tree falling into subway, 4th June :- [9560861](https://www.fixmystreet.com/report/9560861)
-- Dangerous parking causing accidents; road rage and congestion, 4th June :- [9560692](https://www.fixmystreet.com/report/9560692)
-- TMC - Defects - Vegetation problem, 4th June :- [9561013](https://www.fixmystreet.com/report/9561013)
-- Bridleway is not accessible, 4th June :- [9560581](https://www.fixmystreet.com/report/9560581)
-- Bus stop sign is missing, 4th June :- [9560495](https://www.fixmystreet.com/report/9560495)
-- Fallen branch from tree, 4th June :- [9560097](https://www.fixmystreet.com/report/9560097)
 
 <!-- fix_marker ends -->

@@ -9,7 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 4th June :- [9561691](https://www.fixmystreet.com/report/9561691)
+- Blocking visibility on road/junction (Grass/verge) problem, 4th June :- [9561689](https://www.fixmystreet.com/report/9561689)
+- TMC - Defects - Vegetation problem, 4th June :- [9561707](https://www.fixmystreet.com/report/9561707)
+- I reported a sink hole last week outside my driveway and this was temporarily fixed on 28th May. A delivery drove it this morning and as you can see from the photo the ground gave way. The hole is a good 30cm wide and deep and poses a safety hazard., 4th June :- [9561392](https://www.fixmystreet.com/report/9561392)
+- The entire length of Carlton Street has a number of surface issues, 4th June :- [9561157](https://www.fixmystreet.com/report/9561157)
+- TMC - Defects -CW6 Potholes  problem, 4th June :- [9561280](https://www.fixmystreet.com/report/9561280)
+- TMC - Defects -CW6 Potholes  problem, 4th June :- [9561033](https://www.fixmystreet.com/report/9561033)
+- TMC - Defects -CW6 Potholes  problem, 4th June :- [9561032](https://www.fixmystreet.com/report/9561032)
+- Potholes, 4th June :- [9560952](https://www.fixmystreet.com/report/9560952)
+- Tree falling into subway, 4th June :- [9560861](https://www.fixmystreet.com/report/9560861)
 - Dangerous parking causing accidents; road rage and congestion, 4th June :- [9560692](https://www.fixmystreet.com/report/9560692)
+- TMC - Defects - Vegetation problem, 4th June :- [9561013](https://www.fixmystreet.com/report/9561013)
 - Bridleway is not accessible, 4th June :- [9560581](https://www.fixmystreet.com/report/9560581)
 - Bus stop sign is missing, 4th June :- [9560495](https://www.fixmystreet.com/report/9560495)
 - Fallen branch from tree, 4th June :- [9560097](https://www.fixmystreet.com/report/9560097)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th June :- [9560242](https://www.fixmystreet.com/report/9560242)
 - TMC - Defects -CW6 Potholes  problem, 4th June :- [9560243](https://www.fixmystreet.com/report/9560243)
 - TMC - Defects -CW6 Potholes  problem, 4th June :- [9559751](https://www.fixmystreet.com/report/9559751)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [9559750](https://www.fixmystreet.com/report/9559750)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [9559749](https://www.fixmystreet.com/report/9559749)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [9559508](https://www.fixmystreet.com/report/9559508)
-- TMC - Defects -other CW10 problem, 4th June :- [9559271](https://www.fixmystreet.com/report/9559271)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [9559267](https://www.fixmystreet.com/report/9559267)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [9559266](https://www.fixmystreet.com/report/9559266)
-- TMC - Defects -other CW10 problem, 4th June :- [9559263](https://www.fixmystreet.com/report/9559263)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [9559262](https://www.fixmystreet.com/report/9559262)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [9559265](https://www.fixmystreet.com/report/9559265)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [9559264](https://www.fixmystreet.com/report/9559264)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [9559270](https://www.fixmystreet.com/report/9559270)
 
 <!-- fix_marker ends -->

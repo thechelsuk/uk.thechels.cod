@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dog fouling, 4th June :- [9562434](https://www.fixmystreet.com/report/9562434)
+- Very overgrown footpath, 4th June :- [9562332](https://www.fixmystreet.com/report/9562332)
 - Tree is damaged problem, 4th June :- [9561691](https://www.fixmystreet.com/report/9561691)
 - Blocking visibility on road/junction (Grass/verge) problem, 4th June :- [9561689](https://www.fixmystreet.com/report/9561689)
 - TMC - Defects - Vegetation problem, 4th June :- [9561707](https://www.fixmystreet.com/report/9561707)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 4th June :- [9560244](https://www.fixmystreet.com/report/9560244)
 - TMC - Defects -CW6 Potholes  problem, 4th June :- [9560241](https://www.fixmystreet.com/report/9560241)
 - TMC - Defects -CW6 Potholes  problem, 4th June :- [9560242](https://www.fixmystreet.com/report/9560242)
-- TMC - Defects -CW6 Potholes  problem, 4th June :- [9560243](https://www.fixmystreet.com/report/9560243)
-- TMC - Defects -CW6 Potholes  problem, 4th June :- [9559751](https://www.fixmystreet.com/report/9559751)
 
 <!-- fix_marker ends -->

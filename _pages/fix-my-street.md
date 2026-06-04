@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Entire Road is not fit for Purpose, 4th June :- [9558357](https://www.fixmystreet.com/report/9558357)
+- Overgrown vegetation, tree limbs obstructing footpath, 4th June :- [9558340](https://www.fixmystreet.com/report/9558340)
 - Tree is a health risk and safety hazard, 3rd June :- [9557669](https://www.fixmystreet.com/report/9557669)
 - Uneven surface and pavement deteriorating, 3rd June :- [9557311](https://www.fixmystreet.com/report/9557311)
 - Dip in road and poor surface conditions worsening, 3rd June :- [9557279](https://www.fixmystreet.com/report/9557279)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large amount of tree branch fallen onto public footpath, 3rd June :- [9555091](https://www.fixmystreet.com/report/9555091)
 - Dead branch over pavement and road, 3rd June :- [9555010](https://www.fixmystreet.com/report/9555010)
 - Drain gulley beneath pavement is blocked., 3rd June :- [9554960](https://www.fixmystreet.com/report/9554960)
-- TMC - Defects - Vegetation problem, 3rd June :- [9555124](https://www.fixmystreet.com/report/9555124)
-- TMC - Defects -CW6 Potholes  problem, 3rd June :- [9555120](https://www.fixmystreet.com/report/9555120)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road Dear Max, We love trees and cherish their continued presence in our community. However, the horse chestnut on the grass verge to the left of our house, which has been home to us since 31.03.84 l, is now massive. In the 40 years that we have lived at 38, Moorend Park Road, I can’t recall it having ever been pruned. Many of the branches overhang our garden blocking out sunlight. There are telephone wires which cross - cross through the branches too- not sure how safe that is. I have periodically contacted h the Cheltenham Borough Council to ask for this tree to be pruned but to date I have had no response nor any action., 4th June :- [9562975](https://www.fixmystreet.com/report/9562975)
+- Footpath turning into a death trap for the elderly and disabled, 4th June :- [9562943](https://www.fixmystreet.com/report/9562943)
 - Dog fouling, 4th June :- [9562434](https://www.fixmystreet.com/report/9562434)
 - Very overgrown footpath, 4th June :- [9562332](https://www.fixmystreet.com/report/9562332)
 - Tree is damaged problem, 4th June :- [9561691](https://www.fixmystreet.com/report/9561691)
@@ -26,8 +28,6 @@ permalink: /fix-my-street
 - Bridleway is not accessible, 4th June :- [9560581](https://www.fixmystreet.com/report/9560581)
 - Bus stop sign is missing, 4th June :- [9560495](https://www.fixmystreet.com/report/9560495)
 - Fallen branch from tree, 4th June :- [9560097](https://www.fixmystreet.com/report/9560097)
-- TMC - Defects -CW6 Potholes  problem, 4th June :- [9560244](https://www.fixmystreet.com/report/9560244)
-- TMC - Defects -CW6 Potholes  problem, 4th June :- [9560241](https://www.fixmystreet.com/report/9560241)
-- TMC - Defects -CW6 Potholes  problem, 4th June :- [9560242](https://www.fixmystreet.com/report/9560242)
+- TMC - Defects -CW6 Potholes  problem, 4th June :- [9560243](https://www.fixmystreet.com/report/9560243)
 
 <!-- fix_marker ends -->

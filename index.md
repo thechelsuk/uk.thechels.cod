@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 04 June 2026
 
-- The average temperature today is 16.35˚C,
-- With highs of 16.64˚C and lows of 16.09˚C,
-- It may feel like 16.03˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 998hPa and humidity is 76%
+- The average temperature today is 15.56˚C,
+- With highs of 16.58˚C and lows of 15.38˚C,
+- It may feel like 15.31˚C with light rain
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 82%
 - The sun will rise at 03:52 and set at 20:20
 
 <!-- weather_marker ends -->

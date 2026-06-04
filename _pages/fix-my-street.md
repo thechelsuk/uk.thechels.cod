@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole in the asphalt between the concrete, 4th June :- [9564435](https://www.fixmystreet.com/report/9564435)
+- It’s a blind corner that’s poorly lit, 4th June :- [9564285](https://www.fixmystreet.com/report/9564285)
+- Excessive grass growth, 4th June :- [9564194](https://www.fixmystreet.com/report/9564194)
 - Abbotswood is a mess!, 4th June :- [9564128](https://www.fixmystreet.com/report/9564128)
 - Fridge dumped on Priory Street, 4th June :- [9564112](https://www.fixmystreet.com/report/9564112)
 - Several pot holes and damaged surface around junction, 4th June :- [9564059](https://www.fixmystreet.com/report/9564059)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - I reported a sink hole last week outside my driveway and this was temporarily fixed on 28th May. A delivery drove it this morning and as you can see from the photo the ground gave way. The hole is a good 30cm wide and deep and poses a safety hazard., 4th June :- [9561392](https://www.fixmystreet.com/report/9561392)
 - The entire length of Carlton Street has a number of surface issues, 4th June :- [9561157](https://www.fixmystreet.com/report/9561157)
 - TMC - Defects -CW6 Potholes  problem, 4th June :- [9561280](https://www.fixmystreet.com/report/9561280)
-- TMC - Defects -CW6 Potholes  problem, 4th June :- [9561033](https://www.fixmystreet.com/report/9561033)
-- TMC - Defects -CW6 Potholes  problem, 4th June :- [9561032](https://www.fixmystreet.com/report/9561032)
-- Potholes, 4th June :- [9560952](https://www.fixmystreet.com/report/9560952)
 
 <!-- fix_marker ends -->

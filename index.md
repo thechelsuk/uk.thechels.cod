@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 05 June 2026
 
-- The average temperature today is 15.83˚C,
-- With highs of 16.96˚C and lows of 15.38˚C,
-- It may feel like 15.06˚C with broken clouds
+- The average temperature today is 16.3˚C,
+- With highs of 16.5˚C and lows of 15.47˚C,
+- It may feel like 15.66˚C with overcast clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 61%
+- The pressure is 1010hPa and humidity is 64%
 - The sun will rise at 03:52 and set at 20:21
 
 <!-- weather_marker ends -->

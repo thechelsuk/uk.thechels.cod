@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Debris requires sweeping up please, 5th June :- [9569902](https://www.fixmystreet.com/report/9569902)
+- Standing Water, 5th June :- [9569890](https://www.fixmystreet.com/report/9569890)
 - During heavy rain the drains further up the hill rapidly become blocked by leaves and other debris causing sand gravel and stones to be dep.osited in the drain in question. Although the chamber is not completely full the gravel is above the entry and exit pipes and water flowing in simply flows out again down Ham lane., 5th June :- [9569682](https://www.fixmystreet.com/report/9569682)
 - Ponding on poorly designed road junction of Grebe Gardens with Gaun Road, 5th June :- [9569680](https://www.fixmystreet.com/report/9569680)
 - Suspected Fly-Tipping of Garden Waste from 39 Abbotswood Road, 5th June :- [9568964](https://www.fixmystreet.com/report/9568964)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 5th June :- [9568138](https://www.fixmystreet.com/report/9568138)
 - TMC - Defects -CW6 Potholes  problem, 5th June :- [9568133](https://www.fixmystreet.com/report/9568133)
 - TMC - Defects -CW6 Potholes  problem, 5th June :- [9568135](https://www.fixmystreet.com/report/9568135)
-- TMC - Defects -CW6 Potholes  problem, 5th June :- [9568134](https://www.fixmystreet.com/report/9568134)
-- TMC - Defects -CW6 Potholes  problem, 5th June :- [9568131](https://www.fixmystreet.com/report/9568131)
 
 <!-- fix_marker ends -->

@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Sisters who go 'above and beyond' for brother recognised ([1 hours ago](https://www.bbc.com/news/articles/cg5pj94jpyjo?at_medium=RSS&at_campaign=rss))
-- Almost 250,000 badgers were culled: was it worth it? ([1 hours ago](https://www.bbc.com/news/articles/c62ekydkdnzo?at_medium=RSS&at_campaign=rss))
-- Lorry left hanging off side of bridge after crash ([14 hours ago](https://www.bbc.com/news/articles/c4g0nggdejxo?at_medium=RSS&at_campaign=rss))
-- Climbing centre to make activity 'more accessible' ([16 hours ago](https://www.bbc.com/news/articles/ce9pkly9n93o?at_medium=RSS&at_campaign=rss))
-- Historic lido set to reopen as repair costs approved ([20 hours ago](https://www.bbc.com/news/articles/c0523vz2j7yo?at_medium=RSS&at_campaign=rss))
+- Sisters who go 'above and beyond' for brother recognised ([3 hours ago](https://www.bbc.com/news/articles/cg5pj94jpyjo?at_medium=RSS&at_campaign=rss))
+- Almost 250,000 badgers were culled: was it worth it? ([3 hours ago](https://www.bbc.com/news/articles/c62ekydkdnzo?at_medium=RSS&at_campaign=rss))
+- Lorry left hanging off side of bridge after crash ([16 hours ago](https://www.bbc.com/news/articles/c4g0nggdejxo?at_medium=RSS&at_campaign=rss))
+- Climbing centre to make activity 'more accessible' ([18 hours ago](https://www.bbc.com/news/articles/ce9pkly9n93o?at_medium=RSS&at_campaign=rss))
+- Historic lido set to reopen as repair costs approved ([22 hours ago](https://www.bbc.com/news/articles/c0523vz2j7yo?at_medium=RSS&at_campaign=rss))
 - New nature reserve formed by order of King Charles ([1 days ago](https://www.bbc.com/news/articles/cvgz204l1mvo?at_medium=RSS&at_campaign=rss))
 - Half of town's festival events to be free by 2030 ([1 days ago](https://www.bbc.com/news/articles/clypl9qqjd4o?at_medium=RSS&at_campaign=rss))
 - Devil’s Chimney reserve gains national status ([1 days ago](https://gloucesternewscentre.co.uk/devils-chimney-reserve-gains-national-status/))

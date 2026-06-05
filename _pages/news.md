@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Lorry left hanging off side of bridge after crash ([7 hours ago](https://www.bbc.com/news/articles/c4g0nggdejxo?at_medium=RSS&at_campaign=rss))
-- Climbing centre to make activity 'more accessible' ([9 hours ago](https://www.bbc.com/news/articles/ce9pkly9n93o?at_medium=RSS&at_campaign=rss))
-- Historic lido set to reopen as repair costs approved ([13 hours ago](https://www.bbc.com/news/articles/c0523vz2j7yo?at_medium=RSS&at_campaign=rss))
-- New nature reserve formed by order of King Charles ([17 hours ago](https://www.bbc.com/news/articles/cvgz204l1mvo?at_medium=RSS&at_campaign=rss))
-- Half of town's festival events to be free by 2030 ([18 hours ago](https://www.bbc.com/news/articles/clypl9qqjd4o?at_medium=RSS&at_campaign=rss))
-- Devil’s Chimney reserve gains national status ([18 hours ago](https://gloucesternewscentre.co.uk/devils-chimney-reserve-gains-national-status/))
+- Lorry left hanging off side of bridge after crash ([9 hours ago](https://www.bbc.com/news/articles/c4g0nggdejxo?at_medium=RSS&at_campaign=rss))
+- Climbing centre to make activity 'more accessible' ([11 hours ago](https://www.bbc.com/news/articles/ce9pkly9n93o?at_medium=RSS&at_campaign=rss))
+- Historic lido set to reopen as repair costs approved ([15 hours ago](https://www.bbc.com/news/articles/c0523vz2j7yo?at_medium=RSS&at_campaign=rss))
+- New nature reserve formed by order of King Charles ([20 hours ago](https://www.bbc.com/news/articles/cvgz204l1mvo?at_medium=RSS&at_campaign=rss))
+- Half of town's festival events to be free by 2030 ([20 hours ago](https://www.bbc.com/news/articles/clypl9qqjd4o?at_medium=RSS&at_campaign=rss))
+- Devil’s Chimney reserve gains national status ([21 hours ago](https://gloucesternewscentre.co.uk/devils-chimney-reserve-gains-national-status/))
 - 'Rare' Tolkien books fail to sell at auction ([1 days ago](https://www.bbc.com/news/articles/c0l234dz5gdo?at_medium=RSS&at_campaign=rss))
 - Gang of teenagers 'threatened to rape woman' ([1 days ago](https://www.bbc.com/news/articles/cy02xpy899qo?at_medium=RSS&at_campaign=rss))
 - Cabinet to decide on next stage of M5 Junction 10 project ([1 days ago](https://gloucesternewscentre.co.uk/cabinet-to-decide-on-next-stage-of-m5-junction-10-project/))

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Surface water across the highway, 5th June :- [9567806](https://www.fixmystreet.com/report/9567806)
+- TMC - Defects -CW10 Potholes problem, 5th June :- [9567633](https://www.fixmystreet.com/report/9567633)
+- TMC - Defects -CW10 Potholes problem, 5th June :- [9567401](https://www.fixmystreet.com/report/9567401)
+- Rainwater not draining into grating after recent resurfacing of road, 5th June :- [9567261](https://www.fixmystreet.com/report/9567261)
+- Large pothole repeatedly comes back despite been fixed a few times, 5th June :- [9550705](https://www.fixmystreet.com/report/9550705)
 - Bus stop shelter needed urgently, 5th June :- [9566688](https://www.fixmystreet.com/report/9566688)
 - Wobbly raised paving slab, 5th June :- [9566908](https://www.fixmystreet.com/report/9566908)
 - Rattling/loose manhole cover, 5th June :- [9566850](https://www.fixmystreet.com/report/9566850)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 5th June :- [9566541](https://www.fixmystreet.com/report/9566541)
 - TMC - Defects - Kerbs and Channels problem, 5th June :- [9566542](https://www.fixmystreet.com/report/9566542)
 - Speed sign faded and leaning, 5th June :- [9566283](https://www.fixmystreet.com/report/9566283)
-- Speed sign faded and rotated, 5th June :- [9566262](https://www.fixmystreet.com/report/9566262)
-- TMC - Defects -CW6 Potholes  problem, 5th June :- [9566313](https://www.fixmystreet.com/report/9566313)
-- The brunches blocking the pavement, 5th June :- [9566207](https://www.fixmystreet.com/report/9566207)
-- 2 slaps unstable on path that leads to drive, 5th June :- [9566036](https://www.fixmystreet.com/report/9566036)
-- Several potholes at top end of road nearest Arle road, 5th June :- [9565996](https://www.fixmystreet.com/report/9565996)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Over grown grass, 6th June :- [9538523](https://www.fixmystreet.com/report/9538523)
+- Builders bag full of rubbish, 6th June :- [9573045](https://www.fixmystreet.com/report/9573045)
 - Sharp objects and flytipping, 6th June :- [9572617](https://www.fixmystreet.com/report/9572617)
 - Graffiti on bus stop, 6th June :- [9572556](https://www.fixmystreet.com/report/9572556)
 - Number 91, 6th June :- [9572371](https://www.fixmystreet.com/report/9572371)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Street lights out Warden Hill Rd, 6th June :- [9571856](https://www.fixmystreet.com/report/9571856)
 - More graffiti, 6th June :- [9571817](https://www.fixmystreet.com/report/9571817)
 - Glass shatte, 6th June :- [9571795](https://www.fixmystreet.com/report/9571795)
-- Road surface vibration from heavy vehicles on Village Road, causing property damage, 6th June :- [9571625](https://www.fixmystreet.com/report/9571625)
-- The grass verge outside number 33 Brooklyn Road has been removed and is going to be tarmacked also the paving slabs there are now all broken or dislodged, 6th June :- [9571531](https://www.fixmystreet.com/report/9571531)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- More graffiti, 6th June :- [9570913](https://www.fixmystreet.com/report/9570913)
+- Graffiti on bus stop, 6th June :- [9570829](https://www.fixmystreet.com/report/9570829)
 - Blocked road drain causing flooding to half of road surface during heavy rain, 6th June :- [9570579](https://www.fixmystreet.com/report/9570579)
 - 20inch pothole outside 8 Coberley Road, Benhall, Cheltenham, 6th June :- [9570550](https://www.fixmystreet.com/report/9570550)
 - 10inch pothole outside 8 Coberley Road, Benhall, Cheltenham, 6th June :- [9570543](https://www.fixmystreet.com/report/9570543)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 5th June :- [9568570](https://www.fixmystreet.com/report/9568570)
 - Flytipped fencings, 5th June :- [9568272](https://www.fixmystreet.com/report/9568272)
 - Graffiti on EV Feeder pillar unit in Lyefield Road East, 5th June :- [9568175](https://www.fixmystreet.com/report/9568175)
-- TMC - Defects -other CW6 problem, 5th June :- [9568142](https://www.fixmystreet.com/report/9568142)
-- TMC - Defects -CW6 Potholes  problem, 5th June :- [9568137](https://www.fixmystreet.com/report/9568137)
 
 <!-- fix_marker ends -->

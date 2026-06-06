@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sharp objects and flytipping, 6th June :- [9572617](https://www.fixmystreet.com/report/9572617)
+- Graffiti on bus stop, 6th June :- [9572556](https://www.fixmystreet.com/report/9572556)
 - Number 91, 6th June :- [9572371](https://www.fixmystreet.com/report/9572371)
 - Giant Hogweed growing on the verge, 6th June :- [9572334](https://www.fixmystreet.com/report/9572334)
 - By number 6, 6th June :- [9572329](https://www.fixmystreet.com/report/9572329)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Glass shatte, 6th June :- [9571795](https://www.fixmystreet.com/report/9571795)
 - Road surface vibration from heavy vehicles on Village Road, causing property damage, 6th June :- [9571625](https://www.fixmystreet.com/report/9571625)
 - The grass verge outside number 33 Brooklyn Road has been removed and is going to be tarmacked also the paving slabs there are now all broken or dislodged, 6th June :- [9571531](https://www.fixmystreet.com/report/9571531)
-- On the corner of the road outside number 1, 6th June :- [9571520](https://www.fixmystreet.com/report/9571520)
-- Dangerous damage to paving on right of way next to main drain, 6th June :- [9571055](https://www.fixmystreet.com/report/9571055)
 
 <!-- fix_marker ends -->

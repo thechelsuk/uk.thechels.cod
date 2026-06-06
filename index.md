@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 06 June 2026
 
-- The average temperature today is 14.97˚C,
-- With highs of 15.95˚C and lows of 14.73˚C,
-- It may feel like 14.72˚C with broken clouds
+- The average temperature today is 13.88˚C,
+- With highs of 14.28˚C and lows of 13.71˚C,
+- It may feel like 13.44˚C with broken clouds
 - The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 84%
+- The pressure is 1010hPa and humidity is 81%
 - The sun will rise at 03:51 and set at 20:22
 
 <!-- weather_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree down, 6th June :- [9570451](https://www.fixmystreet.com/report/9570451)
+- Metal warning sign abandoned in hedgerow, 6th June :- [9570448](https://www.fixmystreet.com/report/9570448)
 - Debris requires sweeping up please, 5th June :- [9569902](https://www.fixmystreet.com/report/9569902)
 - Standing Water, 5th June :- [9569890](https://www.fixmystreet.com/report/9569890)
 - During heavy rain the drains further up the hill rapidly become blocked by leaves and other debris causing sand gravel and stones to be dep.osited in the drain in question. Although the chamber is not completely full the gravel is above the entry and exit pipes and water flowing in simply flows out again down Ham lane., 5th June :- [9569682](https://www.fixmystreet.com/report/9569682)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 5th June :- [9568140](https://www.fixmystreet.com/report/9568140)
 - TMC - Defects -CW6 Potholes  problem, 5th June :- [9568139](https://www.fixmystreet.com/report/9568139)
 - TMC - Defects -CW6 Potholes  problem, 5th June :- [9568138](https://www.fixmystreet.com/report/9568138)
-- TMC - Defects -CW6 Potholes  problem, 5th June :- [9568133](https://www.fixmystreet.com/report/9568133)
-- TMC - Defects -CW6 Potholes  problem, 5th June :- [9568135](https://www.fixmystreet.com/report/9568135)
 
 <!-- fix_marker ends -->

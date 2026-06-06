@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked road drain causing flooding to half of road surface during heavy rain, 6th June :- [9570579](https://www.fixmystreet.com/report/9570579)
+- 20inch pothole outside 8 Coberley Road, Benhall, Cheltenham, 6th June :- [9570550](https://www.fixmystreet.com/report/9570550)
+- 10inch pothole outside 8 Coberley Road, Benhall, Cheltenham, 6th June :- [9570543](https://www.fixmystreet.com/report/9570543)
+- 25 inch pothole outside 8 Coberley Road, Benhall, Cheltenham, 6th June :- [9570527](https://www.fixmystreet.com/report/9570527)
 - Tree down, 6th June :- [9570451](https://www.fixmystreet.com/report/9570451)
 - Metal warning sign abandoned in hedgerow, 6th June :- [9570448](https://www.fixmystreet.com/report/9570448)
 - Debris requires sweeping up please, 5th June :- [9569902](https://www.fixmystreet.com/report/9569902)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Graffiti on EV Feeder pillar unit in Lyefield Road East, 5th June :- [9568175](https://www.fixmystreet.com/report/9568175)
 - TMC - Defects -other CW6 problem, 5th June :- [9568142](https://www.fixmystreet.com/report/9568142)
 - TMC - Defects -CW6 Potholes  problem, 5th June :- [9568137](https://www.fixmystreet.com/report/9568137)
-- TMC - Defects -CW6 Potholes  problem, 5th June :- [9568141](https://www.fixmystreet.com/report/9568141)
-- TMC - Defects - Other FW6  Surface problem, 5th June :- [9568140](https://www.fixmystreet.com/report/9568140)
-- TMC - Defects -CW6 Potholes  problem, 5th June :- [9568139](https://www.fixmystreet.com/report/9568139)
-- TMC - Defects -CW6 Potholes  problem, 5th June :- [9568138](https://www.fixmystreet.com/report/9568138)
 
 <!-- fix_marker ends -->

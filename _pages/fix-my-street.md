@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Path, 6th June :- [9573563](https://www.fixmystreet.com/report/9573563)
+- Deep and wide pothole at the junction of Maple Avenue and Cherry Dr, 6th June :- [9573449](https://www.fixmystreet.com/report/9573449)
 - Over grown grass, 6th June :- [9538523](https://www.fixmystreet.com/report/9538523)
 - Builders bag full of rubbish, 6th June :- [9573045](https://www.fixmystreet.com/report/9573045)
 - Sharp objects and flytipping, 6th June :- [9572617](https://www.fixmystreet.com/report/9572617)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Middle of road very deep between cats eyes and road on edge next to house has now eroded to give a drop on the white line, 6th June :- [9571956](https://www.fixmystreet.com/report/9571956)
 - Drain blocked with mud, 6th June :- [9571867](https://www.fixmystreet.com/report/9571867)
 - Street lights out Warden Hill Rd, 6th June :- [9571856](https://www.fixmystreet.com/report/9571856)
-- More graffiti, 6th June :- [9571817](https://www.fixmystreet.com/report/9571817)
-- Glass shatte, 6th June :- [9571795](https://www.fixmystreet.com/report/9571795)
 
 <!-- fix_marker ends -->

@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 06 June 2026
+## On Sunday, 07 June 2026
 
-- The average temperature today is 13.2˚C,
-- With highs of 13.73˚C and lows of 12.6˚C,
-- It may feel like 12.66˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 80%
+- The average temperature today is 11.39˚C,
+- With highs of 11.65˚C and lows of 10.94˚C,
+- It may feel like 10.83˚C with few clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 86%
 - The sun will rise at 03:51 and set at 20:23
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 37 days since the last change (2026-04-30)
+- It has been 38 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->

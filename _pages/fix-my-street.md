@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes in Blacksmiths Lane, The Leigh., 7th June :- [9576619](https://www.fixmystreet.com/report/9576619)
+- Large pothole on Blacksmiths Lane, 7th June :- [9576590](https://www.fixmystreet.com/report/9576590)
+- Large potholes on Blacksmiths Lane, 7th June :- [9576572](https://www.fixmystreet.com/report/9576572)
+- Evesham Rd/Central Cross Drive Pedestrian Crossing & Cycle Lane poor drainage, 7th June :- [9576213](https://www.fixmystreet.com/report/9576213)
+- Fridge fly tipped on pavement, 7th June :- [9576199](https://www.fixmystreet.com/report/9576199)
+- No sound on Bath Rd Pedestrian Crossing, 7th June :- [9576164](https://www.fixmystreet.com/report/9576164)
 - Flytipping on corner for Hucclecote Road and Hillview Road by Pied Piper Appeal, 7th June :- [9576104](https://www.fixmystreet.com/report/9576104)
 - See photo, it's getting bigger by the day, 7th June :- [9575722](https://www.fixmystreet.com/report/9575722)
 - Faded double yellow lines in front of 3 Ryeworth Road, 7th June :- [9575627](https://www.fixmystreet.com/report/9575627)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Pothole, 7th June :- [9574303](https://www.fixmystreet.com/report/9574303)
 - Trees cut and dumped, 7th June :- [9573901](https://www.fixmystreet.com/report/9573901)
 - Overhanging trees, 7th June :- [9573676](https://www.fixmystreet.com/report/9573676)
-- Path, 6th June :- [9573563](https://www.fixmystreet.com/report/9573563)
-- Deep and wide pothole at the junction of Maple Avenue and Cherry Dr, 6th June :- [9573449](https://www.fixmystreet.com/report/9573449)
-- Over grown grass, 6th June :- [9538523](https://www.fixmystreet.com/report/9538523)
-- Builders bag full of rubbish, 6th June :- [9573045](https://www.fixmystreet.com/report/9573045)
-- Sharp objects and flytipping, 6th June :- [9572617](https://www.fixmystreet.com/report/9572617)
-- Graffiti on bus stop, 6th June :- [9572556](https://www.fixmystreet.com/report/9572556)
 
 <!-- fix_marker ends -->

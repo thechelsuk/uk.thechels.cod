@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous exposed wires, 7th June :- [9574361](https://www.fixmystreet.com/report/9574361)
+- Crumbling egde to speed bump, 7th June :- [9574149](https://www.fixmystreet.com/report/9574149)
+- Pothole, 7th June :- [9574303](https://www.fixmystreet.com/report/9574303)
 - Trees cut and dumped, 7th June :- [9573901](https://www.fixmystreet.com/report/9573901)
 - Overhanging trees, 7th June :- [9573676](https://www.fixmystreet.com/report/9573676)
 - Path, 6th June :- [9573563](https://www.fixmystreet.com/report/9573563)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection, 6th June :- [9572194](https://www.fixmystreet.com/report/9572194)
 - Footpath to Frogmill overgrown with vegetation, 6th June :- [9572104](https://www.fixmystreet.com/report/9572104)
 - 4 inch deep hot hole which takes up most of the road in broken up tarmac, 6th June :- [9572001](https://www.fixmystreet.com/report/9572001)
-- Drain still blocked - by substation on Wellington Lane, 6th June :- [9571989](https://www.fixmystreet.com/report/9571989)
-- The path should be 2m wide as it is a bridleway - currently it is 6” and the crop is oats which will grow to 5ft, 6th June :- [9571971](https://www.fixmystreet.com/report/9571971)
-- Middle of road very deep between cats eyes and road on edge next to house has now eroded to give a drop on the white line, 6th June :- [9571956](https://www.fixmystreet.com/report/9571956)
 
 <!-- fix_marker ends -->

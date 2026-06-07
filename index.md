@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 07 June 2026
 
-- The average temperature today is 11.39˚C,
-- With highs of 11.65˚C and lows of 10.94˚C,
-- It may feel like 10.83˚C with few clouds
+- The average temperature today is 12.64˚C,
+- With highs of 13.07˚C and lows of 11.58˚C,
+- It may feel like 12.26˚C with scattered clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 86%
+- The pressure is 1015hPa and humidity is 88%
 - The sun will rise at 03:51 and set at 20:23
 
 <!-- weather_marker ends -->

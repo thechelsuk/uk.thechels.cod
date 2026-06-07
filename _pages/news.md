@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- King's nephew Peter Phillips marries NHS nurse ([10 hours ago](https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss))
-- Man who 'discreetly supplied' class A drugs jailed ([15 hours ago](https://www.bbc.com/news/articles/cwy0jl3pgw8o?at_medium=RSS&at_campaign=rss))
-- Meet those working behind the scenes at World Cup ([19 hours ago](https://www.bbc.com/news/articles/c392erern48o?at_medium=RSS&at_campaign=rss))
-- Newspapers: DIY safety warning and dead river fish ([19 hours ago](https://www.bbc.com/news/articles/czj2xd40km8o?at_medium=RSS&at_campaign=rss))
+- King's nephew Peter Phillips marries NHS nurse ([13 hours ago](https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss))
+- Man who 'discreetly supplied' class A drugs jailed ([17 hours ago](https://www.bbc.com/news/articles/cwy0jl3pgw8o?at_medium=RSS&at_campaign=rss))
+- Meet those working behind the scenes at World Cup ([22 hours ago](https://www.bbc.com/news/articles/c392erern48o?at_medium=RSS&at_campaign=rss))
+- Newspapers: DIY safety warning and dead river fish ([22 hours ago](https://www.bbc.com/news/articles/czj2xd40km8o?at_medium=RSS&at_campaign=rss))
 - School forced into lockdown as man wields knife ([1 days ago](https://www.bbc.com/news/articles/cd6p6p27gdgo?at_medium=RSS&at_campaign=rss))
 - Royals to gather for wedding of King's nephew to NHS nurse ([1 days ago](https://www.bbc.com/news/articles/cz020g9v2yxo?at_medium=RSS&at_campaign=rss))
 - Climber breaks record with 20th Everest ascent ([1 days ago](https://www.bbc.com/news/articles/cpvp999ewggo?at_medium=RSS&at_campaign=rss))

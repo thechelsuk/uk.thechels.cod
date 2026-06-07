@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping on corner for Hucclecote Road and Hillview Road by Pied Piper Appeal, 7th June :- [9576104](https://www.fixmystreet.com/report/9576104)
+- See photo, it's getting bigger by the day, 7th June :- [9575722](https://www.fixmystreet.com/report/9575722)
+- Faded double yellow lines in front of 3 Ryeworth Road, 7th June :- [9575627](https://www.fixmystreet.com/report/9575627)
 - Really dirty toilets, 7th June :- [9575469](https://www.fixmystreet.com/report/9575469)
 - Junction of Gotherington Lane and Sanderling Way roundabout, 7th June :- [9575136](https://www.fixmystreet.com/report/9575136)
 - Have to walk on the road with a pushchair as brambles overgrown pathway, 7th June :- [9574551](https://www.fixmystreet.com/report/9574551)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Builders bag full of rubbish, 6th June :- [9573045](https://www.fixmystreet.com/report/9573045)
 - Sharp objects and flytipping, 6th June :- [9572617](https://www.fixmystreet.com/report/9572617)
 - Graffiti on bus stop, 6th June :- [9572556](https://www.fixmystreet.com/report/9572556)
-- Number 91, 6th June :- [9572371](https://www.fixmystreet.com/report/9572371)
-- Giant Hogweed growing on the verge, 6th June :- [9572334](https://www.fixmystreet.com/report/9572334)
-- By number 6, 6th June :- [9572329](https://www.fixmystreet.com/report/9572329)
 
 <!-- fix_marker ends -->

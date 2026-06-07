@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Bid to build 180 homes recommended for approval ([7 hours ago](https://www.bbc.com/news/articles/cg7494yj9g7o?at_medium=RSS&at_campaign=rss))
-- Who is NHS nurse and newest royal Harriet Sperling? ([9 hours ago](https://www.bbc.com/news/articles/c1jylk8wxgno?at_medium=RSS&at_campaign=rss))
-- King's nephew Peter Phillips marries NHS nurse ([9 hours ago](https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss))
-- Football gives people with Parkinson's 'new lease of life' ([10 hours ago](https://www.bbc.com/news/articles/c1my0kr4lzjo?at_medium=RSS&at_campaign=rss))
-- New grammar school test 'won't stop tutoring gap' ([14 hours ago](https://www.bbc.com/news/articles/clyple9qpldo?at_medium=RSS&at_campaign=rss))
-- In Pictures: Cricketing triumph and bubble cars ([15 hours ago](https://www.bbc.com/news/articles/c0j20143x0jo?at_medium=RSS&at_campaign=rss))
+- Bid to build 180 homes recommended for approval ([9 hours ago](https://www.bbc.com/news/articles/cg7494yj9g7o?at_medium=RSS&at_campaign=rss))
+- Who is NHS nurse and newest royal Harriet Sperling? ([11 hours ago](https://www.bbc.com/news/articles/c1jylk8wxgno?at_medium=RSS&at_campaign=rss))
+- King's nephew Peter Phillips marries NHS nurse ([11 hours ago](https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss))
+- Football gives people with Parkinson's 'new lease of life' ([12 hours ago](https://www.bbc.com/news/articles/c1my0kr4lzjo?at_medium=RSS&at_campaign=rss))
+- New grammar school test 'won't stop tutoring gap' ([16 hours ago](https://www.bbc.com/news/articles/clyple9qpldo?at_medium=RSS&at_campaign=rss))
+- In Pictures: Cricketing triumph and bubble cars ([17 hours ago](https://www.bbc.com/news/articles/c0j20143x0jo?at_medium=RSS&at_campaign=rss))
 - Man who 'discreetly supplied' class A drugs jailed ([1 days ago](https://www.bbc.com/news/articles/cwy0jl3pgw8o?at_medium=RSS&at_campaign=rss))
 - Meet those working behind the scenes at World Cup ([1 days ago](https://www.bbc.com/news/articles/c392erern48o?at_medium=RSS&at_campaign=rss))
 - Newspapers: DIY safety warning and dead river fish ([1 days ago](https://www.bbc.com/news/articles/czj2xd40km8o?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- New shoots from tree trunks blocking sight at crossroads by College Bath Road and turning right on to Keyndham rd., 7th June :- [9577744](https://www.fixmystreet.com/report/9577744)
+- Drain completely blocked, 7th June :- [9575833](https://www.fixmystreet.com/report/9575833)
 - Possible stream blockage of Hatherley Brook, 7th June :- [9577117](https://www.fixmystreet.com/report/9577117)
 - Small drain cover is broken, 7th June :- [9576904](https://www.fixmystreet.com/report/9576904)
 - Potholes in Blacksmiths Lane, The Leigh., 7th June :- [9576619](https://www.fixmystreet.com/report/9576619)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tenant who has moved out of 4A Glenville Parade has filled the bins with wood and his household furniture and left a table in the car park and gym equipment, 7th June :- [9574516](https://www.fixmystreet.com/report/9574516)
 - Part dead tree on pavement, 7th June :- [9574456](https://www.fixmystreet.com/report/9574456)
 - Dangerous exposed wires, 7th June :- [9574361](https://www.fixmystreet.com/report/9574361)
-- Crumbling egde to speed bump, 7th June :- [9574149](https://www.fixmystreet.com/report/9574149)
-- Pothole, 7th June :- [9574303](https://www.fixmystreet.com/report/9574303)
 
 <!-- fix_marker ends -->

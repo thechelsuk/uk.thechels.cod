@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Really dirty toilets, 7th June :- [9575469](https://www.fixmystreet.com/report/9575469)
+- Junction of Gotherington Lane and Sanderling Way roundabout, 7th June :- [9575136](https://www.fixmystreet.com/report/9575136)
 - Have to walk on the road with a pushchair as brambles overgrown pathway, 7th June :- [9574551](https://www.fixmystreet.com/report/9574551)
 - Top half of tree has fallen down, fell on road prior to moving, 7th June :- [9574524](https://www.fixmystreet.com/report/9574524)
 - Tenant who has moved out of 4A Glenville Parade has filled the bins with wood and his household furniture and left a table in the car park and gym equipment, 7th June :- [9574516](https://www.fixmystreet.com/report/9574516)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Number 91, 6th June :- [9572371](https://www.fixmystreet.com/report/9572371)
 - Giant Hogweed growing on the verge, 6th June :- [9572334](https://www.fixmystreet.com/report/9572334)
 - By number 6, 6th June :- [9572329](https://www.fixmystreet.com/report/9572329)
-- Several potholes on the bridge next to pavement, 6th June :- [9572277](https://www.fixmystreet.com/report/9572277)
-- Large sign has fallen down the post, 6th June :- [9572249](https://www.fixmystreet.com/report/9572249)
 
 <!-- fix_marker ends -->

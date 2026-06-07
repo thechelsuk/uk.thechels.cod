@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees cut and dumped, 7th June :- [9573901](https://www.fixmystreet.com/report/9573901)
 - Overhanging trees, 7th June :- [9573676](https://www.fixmystreet.com/report/9573676)
 - Path, 6th June :- [9573563](https://www.fixmystreet.com/report/9573563)
 - Deep and wide pothole at the junction of Maple Avenue and Cherry Dr, 6th June :- [9573449](https://www.fixmystreet.com/report/9573449)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Drain still blocked - by substation on Wellington Lane, 6th June :- [9571989](https://www.fixmystreet.com/report/9571989)
 - The path should be 2m wide as it is a bridleway - currently it is 6” and the crop is oats which will grow to 5ft, 6th June :- [9571971](https://www.fixmystreet.com/report/9571971)
 - Middle of road very deep between cats eyes and road on edge next to house has now eroded to give a drop on the white line, 6th June :- [9571956](https://www.fixmystreet.com/report/9571956)
-- Drain blocked with mud, 6th June :- [9571867](https://www.fixmystreet.com/report/9571867)
 
 <!-- fix_marker ends -->

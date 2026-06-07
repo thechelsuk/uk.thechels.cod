@@ -12,16 +12,16 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Bid to build 180 homes recommended for approval ([3 hours ago](https://www.bbc.com/news/articles/cg7494yj9g7o?at_medium=RSS&at_campaign=rss))
-- Who is NHS nurse and newest royal Harriet Sperling? ([5 hours ago](https://www.bbc.com/news/articles/c1jylk8wxgno?at_medium=RSS&at_campaign=rss))
-- King's nephew Peter Phillips marries NHS nurse ([5 hours ago](https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss))
-- Football gives people with Parkinson's 'new lease of life' ([6 hours ago](https://www.bbc.com/news/articles/c1my0kr4lzjo?at_medium=RSS&at_campaign=rss))
-- New grammar school test 'won't stop tutoring gap' ([10 hours ago](https://www.bbc.com/news/articles/clyple9qpldo?at_medium=RSS&at_campaign=rss))
-- In Pictures: Cricketing triumph and bubble cars ([11 hours ago](https://www.bbc.com/news/articles/c0j20143x0jo?at_medium=RSS&at_campaign=rss))
+- Bid to build 180 homes recommended for approval ([5 hours ago](https://www.bbc.com/news/articles/cg7494yj9g7o?at_medium=RSS&at_campaign=rss))
+- Who is NHS nurse and newest royal Harriet Sperling? ([7 hours ago](https://www.bbc.com/news/articles/c1jylk8wxgno?at_medium=RSS&at_campaign=rss))
+- King's nephew Peter Phillips marries NHS nurse ([8 hours ago](https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss))
+- Football gives people with Parkinson's 'new lease of life' ([8 hours ago](https://www.bbc.com/news/articles/c1my0kr4lzjo?at_medium=RSS&at_campaign=rss))
+- New grammar school test 'won't stop tutoring gap' ([13 hours ago](https://www.bbc.com/news/articles/clyple9qpldo?at_medium=RSS&at_campaign=rss))
+- In Pictures: Cricketing triumph and bubble cars ([13 hours ago](https://www.bbc.com/news/articles/c0j20143x0jo?at_medium=RSS&at_campaign=rss))
 - Man who 'discreetly supplied' class A drugs jailed ([1 days ago](https://www.bbc.com/news/articles/cwy0jl3pgw8o?at_medium=RSS&at_campaign=rss))
 - Meet those working behind the scenes at World Cup ([1 days ago](https://www.bbc.com/news/articles/c392erern48o?at_medium=RSS&at_campaign=rss))
 - Newspapers: DIY safety warning and dead river fish ([1 days ago](https://www.bbc.com/news/articles/czj2xd40km8o?at_medium=RSS&at_campaign=rss))
-- School forced into lockdown as man wields knife ([1 days ago](https://www.bbc.com/news/articles/cd6p6p27gdgo?at_medium=RSS&at_campaign=rss))
+- School forced into lockdown as man wields knife ([2 days ago](https://www.bbc.com/news/articles/cd6p6p27gdgo?at_medium=RSS&at_campaign=rss))
 - Royals to gather for wedding of King's nephew to NHS nurse ([2 days ago](https://www.bbc.com/news/articles/cz020g9v2yxo?at_medium=RSS&at_campaign=rss))
 - Climber breaks record with 20th Everest ascent ([2 days ago](https://www.bbc.com/news/articles/cpvp999ewggo?at_medium=RSS&at_campaign=rss))
 - Pupils hit by strikes 'should get exam allowances' ([2 days ago](https://www.bbc.com/news/articles/cwy2yrn0zw0o?at_medium=RSS&at_campaign=rss))
@@ -51,7 +51,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Family pay tribute to “much-loved husband and devoted dad” Andy Reed ([26 days ago](https://gloucesternewscentre.co.uk/family-pay-tribute-to-much-loved-husband-and-devoted-dad-andy-reed/))
 - Award-winning photographer inspires Cheltenham retirees ([27 days ago](https://gloucesternewscentre.co.uk/award-winning-photographer-inspires-cheltenham-retirees/))
 - Frustration as suspension of home births is extended ([27 days ago](https://gloucesternewscentre.co.uk/frustration-as-suspension-of-home-births-is-extended/))
-- Police launch investigation after body of missing man found near Cheltenham ([27 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
+- Police launch investigation after body of missing man found near Cheltenham ([28 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
 - Man sentenced to eight years in prison for raping woman in Cheltenham ([29 days ago](https://gloucesternewscentre.co.uk/man-sentenced-to-eight-years-in-prison-for-raping-woman-in-cheltenham/))
 
 <!-- news_marker ends -->

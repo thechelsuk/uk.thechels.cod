@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Possible stream blockage of Hatherley Brook, 7th June :- [9577117](https://www.fixmystreet.com/report/9577117)
+- Small drain cover is broken, 7th June :- [9576904](https://www.fixmystreet.com/report/9576904)
 - Potholes in Blacksmiths Lane, The Leigh., 7th June :- [9576619](https://www.fixmystreet.com/report/9576619)
 - Large pothole on Blacksmiths Lane, 7th June :- [9576590](https://www.fixmystreet.com/report/9576590)
 - Large potholes on Blacksmiths Lane, 7th June :- [9576572](https://www.fixmystreet.com/report/9576572)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dangerous exposed wires, 7th June :- [9574361](https://www.fixmystreet.com/report/9574361)
 - Crumbling egde to speed bump, 7th June :- [9574149](https://www.fixmystreet.com/report/9574149)
 - Pothole, 7th June :- [9574303](https://www.fixmystreet.com/report/9574303)
-- Trees cut and dumped, 7th June :- [9573901](https://www.fixmystreet.com/report/9573901)
-- Overhanging trees, 7th June :- [9573676](https://www.fixmystreet.com/report/9573676)
 
 <!-- fix_marker ends -->

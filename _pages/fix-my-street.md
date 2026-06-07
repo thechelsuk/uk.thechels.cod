@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Have to walk on the road with a pushchair as brambles overgrown pathway, 7th June :- [9574551](https://www.fixmystreet.com/report/9574551)
+- Top half of tree has fallen down, fell on road prior to moving, 7th June :- [9574524](https://www.fixmystreet.com/report/9574524)
+- Tenant who has moved out of 4A Glenville Parade has filled the bins with wood and his household furniture and left a table in the car park and gym equipment, 7th June :- [9574516](https://www.fixmystreet.com/report/9574516)
+- Part dead tree on pavement, 7th June :- [9574456](https://www.fixmystreet.com/report/9574456)
 - Dangerous exposed wires, 7th June :- [9574361](https://www.fixmystreet.com/report/9574361)
 - Crumbling egde to speed bump, 7th June :- [9574149](https://www.fixmystreet.com/report/9574149)
 - Pothole, 7th June :- [9574303](https://www.fixmystreet.com/report/9574303)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - By number 6, 6th June :- [9572329](https://www.fixmystreet.com/report/9572329)
 - Several potholes on the bridge next to pavement, 6th June :- [9572277](https://www.fixmystreet.com/report/9572277)
 - Large sign has fallen down the post, 6th June :- [9572249](https://www.fixmystreet.com/report/9572249)
-- 2 potholes in the road, 6th June :- [9572232](https://www.fixmystreet.com/report/9572232)
-- Volunteer litter pick bags ready for collection, 6th June :- [9572194](https://www.fixmystreet.com/report/9572194)
-- Footpath to Frogmill overgrown with vegetation, 6th June :- [9572104](https://www.fixmystreet.com/report/9572104)
-- 4 inch deep hot hole which takes up most of the road in broken up tarmac, 6th June :- [9572001](https://www.fixmystreet.com/report/9572001)
 
 <!-- fix_marker ends -->

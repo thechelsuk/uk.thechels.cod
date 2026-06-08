@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 08 June 2026
 
-- The average temperature today is 13.32˚C,
-- With highs of 13.73˚C and lows of 12.69˚C,
-- It may feel like 13.01˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 88%
+- The average temperature today is 13.61˚C,
+- With highs of 13.87˚C and lows of 12.69˚C,
+- It may feel like 13.32˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 88%
 - The sun will rise at 03:50 and set at 20:24
 
 <!-- weather_marker ends -->

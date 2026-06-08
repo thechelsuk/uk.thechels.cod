@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside 13 insley gardens, 8th June :- [9584536](https://www.fixmystreet.com/report/9584536)
+- Fly tipping on both sides of the road, 8th June :- [9584286](https://www.fixmystreet.com/report/9584286)
 - Multiple roadwork barriers and sandbags on their sides for days now maybe weeks they are a trip hazard. I don’t know what they are supposed to be safeguarding as at the moment they are more than a hazard, 8th June :- [9583710](https://www.fixmystreet.com/report/9583710)
 - The growth around the trunks of the trees on the verges & pavements on Battledown Approach are obstructing the pavements, 8th June :- [9583340](https://www.fixmystreet.com/report/9583340)
 - Potholes in road by Cotswold Architectural Products, 8th June :- [9583178](https://www.fixmystreet.com/report/9583178)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 8th June :- [9581737](https://www.fixmystreet.com/report/9581737)
 - TMC - Defects -CW6 Potholes  problem, 8th June :- [9581735](https://www.fixmystreet.com/report/9581735)
 - TMC - Defects -CW6 Potholes  problem, 8th June :- [9581736](https://www.fixmystreet.com/report/9581736)
-- TMC - Defects - Vegetation problem, 8th June :- [9581723](https://www.fixmystreet.com/report/9581723)
-- TMC - Defects -other CW6 problem, 8th June :- [9581486](https://www.fixmystreet.com/report/9581486)
 
 <!-- fix_marker ends -->

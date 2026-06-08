@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The growth around the trunks of the trees on the verges & pavements on Battledown Approach are obstructing the pavements, 8th June :- [9583340](https://www.fixmystreet.com/report/9583340)
+- Potholes in road by Cotswold Architectural Products, 8th June :- [9583178](https://www.fixmystreet.com/report/9583178)
 - School pick up time - nearly hit twice in the last two weeks by trying entry road, 8th June :- [9582844](https://www.fixmystreet.com/report/9582844)
 - Large pothole, 8th June :- [9582742](https://www.fixmystreet.com/report/9582742)
 - The grass on the verge died several years ago and has not grown back. The verge is full of weeds and rather overgrown. Please can the weeds be removed and the grass verge reseeded, 8th June :- [9582695](https://www.fixmystreet.com/report/9582695)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 8th June :- [9581723](https://www.fixmystreet.com/report/9581723)
 - TMC - Defects -CW6 Potholes  problem, 8th June :- [9581482](https://www.fixmystreet.com/report/9581482)
 - TMC - Defects - Other problem, 8th June :- [9581494](https://www.fixmystreet.com/report/9581494)
-- TMC - Defects - Other problem, 8th June :- [9581495](https://www.fixmystreet.com/report/9581495)
-- TMC - Defects - Other problem, 8th June :- [9581493](https://www.fixmystreet.com/report/9581493)
 
 <!-- fix_marker ends -->

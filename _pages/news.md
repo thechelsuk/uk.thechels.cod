@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Outpouring of love' for nurse killed in crash ([1 hours ago](https://www.bbc.com/news/articles/c8e2l19x65po?at_medium=RSS&at_campaign=rss))
-- 'Unduly lenient' prison term for rapist increased ([1 hours ago](https://www.bbc.com/news/articles/cjeg3lvv2pno?at_medium=RSS&at_campaign=rss))
-- Appeal for information following theft of 6,000 litres of petrol ([1 hours ago](https://gloucesternewscentre.co.uk/appeal-for-information-following-theft-of-6000-litres-of-petrol/))
-- Gold ring 'once in a lifetime find' for detectorist ([4 hours ago](https://www.bbc.com/news/articles/c20ypnpkxyqo?at_medium=RSS&at_campaign=rss))
-- Vandalism of war memorial 'heart-wrenching' ([5 hours ago](https://www.bbc.com/news/articles/cj3g1npmv1no?at_medium=RSS&at_campaign=rss))
-- Abuse survivor's fury at mum's early jail release ([12 hours ago](https://www.bbc.com/news/articles/c2d2kggr2e1o?at_medium=RSS&at_campaign=rss))
-- How kayak capsize led to powerlifting championship ([12 hours ago](https://www.bbc.com/news/articles/cgmp33legrxo?at_medium=RSS&at_campaign=rss))
-- 'Male football fans told me to get in the kitchen' ([12 hours ago](https://www.bbc.com/news/articles/cpvpv71xmdgo?at_medium=RSS&at_campaign=rss))
+- 'Outpouring of love' for nurse killed in crash ([2 hours ago](https://www.bbc.com/news/articles/c8e2l19x65po?at_medium=RSS&at_campaign=rss))
+- 'Unduly lenient' prison term for rapist increased ([3 hours ago](https://www.bbc.com/news/articles/cjeg3lvv2pno?at_medium=RSS&at_campaign=rss))
+- Appeal for information following theft of 6,000 litres of petrol ([3 hours ago](https://gloucesternewscentre.co.uk/appeal-for-information-following-theft-of-6000-litres-of-petrol/))
+- Gold ring 'once in a lifetime find' for detectorist ([6 hours ago](https://www.bbc.com/news/articles/c20ypnpkxyqo?at_medium=RSS&at_campaign=rss))
+- Vandalism of war memorial 'heart-wrenching' ([7 hours ago](https://www.bbc.com/news/articles/cj3g1npmv1no?at_medium=RSS&at_campaign=rss))
+- Abuse survivor's fury at mum's early jail release ([14 hours ago](https://www.bbc.com/news/articles/c2d2kggr2e1o?at_medium=RSS&at_campaign=rss))
+- How kayak capsize led to powerlifting championship ([14 hours ago](https://www.bbc.com/news/articles/cgmp33legrxo?at_medium=RSS&at_campaign=rss))
+- 'Male football fans told me to get in the kitchen' ([14 hours ago](https://www.bbc.com/news/articles/cpvpv71xmdgo?at_medium=RSS&at_campaign=rss))
 - Bid to build 180 homes recommended for approval ([1 days ago](https://www.bbc.com/news/articles/cg7494yj9g7o?at_medium=RSS&at_campaign=rss))
 - Who is NHS nurse and newest royal Harriet Sperling? ([1 days ago](https://www.bbc.com/news/articles/c1jylk8wxgno?at_medium=RSS&at_campaign=rss))
 - King's nephew Peter Phillips marries NHS nurse ([1 days ago](https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss))
@@ -52,6 +52,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Family pay tribute to “much-loved husband and devoted dad” Andy Reed ([27 days ago](https://gloucesternewscentre.co.uk/family-pay-tribute-to-much-loved-husband-and-devoted-dad-andy-reed/))
 - Award-winning photographer inspires Cheltenham retirees ([28 days ago](https://gloucesternewscentre.co.uk/award-winning-photographer-inspires-cheltenham-retirees/))
 - Frustration as suspension of home births is extended ([28 days ago](https://gloucesternewscentre.co.uk/frustration-as-suspension-of-home-births-is-extended/))
-- Police launch investigation after body of missing man found near Cheltenham ([28 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
+- Police launch investigation after body of missing man found near Cheltenham ([29 days ago](https://gloucesternewscentre.co.uk/police-launch-investigation-after-body-of-missing-man-found-near-cheltenham/))
 
 <!-- news_marker ends -->

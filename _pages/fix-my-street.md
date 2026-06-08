@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large London plane tree overhanging branches has caused considerable damage by blocking the gutters with leaves, seeds and twigs, has cost a lot of money to repair., 8th June :- [9579896](https://www.fixmystreet.com/report/9579896)
+- Broken drain now a trip hazard, 8th June :- [9579787](https://www.fixmystreet.com/report/9579787)
+- TMC - Defects -CW6 Potholes  problem, 8th June :- [9579836](https://www.fixmystreet.com/report/9579836)
+- TMC - Defects -CW6 Potholes  problem, 8th June :- [9579835](https://www.fixmystreet.com/report/9579835)
+- Flooded road, 8th June :- [9579701](https://www.fixmystreet.com/report/9579701)
+- Low growth blocks visibility out onto Leckhampton Rd, 8th June :- [9579332](https://www.fixmystreet.com/report/9579332)
+- TMC - Defects -CW6 Potholes  problem, 8th June :- [9579528](https://www.fixmystreet.com/report/9579528)
+- Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 8th June :- [9579194](https://www.fixmystreet.com/report/9579194)
+- Fly tipping, 8th June :- [9578981](https://www.fixmystreet.com/report/9578981)
+- Appalling damaged road surface., 8th June :- [9578775](https://www.fixmystreet.com/report/9578775)
 - Dead deer middle of road, 8th June :- [9578201](https://www.fixmystreet.com/report/9578201)
 - Broken glass in children’s park, 8th June :- [9577967](https://www.fixmystreet.com/report/9577967)
 - Fly tipping, 8th June :- [9577920](https://www.fixmystreet.com/report/9577920)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Potholes in Blacksmiths Lane, The Leigh., 7th June :- [9576619](https://www.fixmystreet.com/report/9576619)
 - Large pothole on Blacksmiths Lane, 7th June :- [9576590](https://www.fixmystreet.com/report/9576590)
 - Large potholes on Blacksmiths Lane, 7th June :- [9576572](https://www.fixmystreet.com/report/9576572)
-- Evesham Rd/Central Cross Drive Pedestrian Crossing & Cycle Lane poor drainage, 7th June :- [9576213](https://www.fixmystreet.com/report/9576213)
-- Fridge fly tipped on pavement, 7th June :- [9576199](https://www.fixmystreet.com/report/9576199)
-- No sound on Bath Rd Pedestrian Crossing, 7th June :- [9576164](https://www.fixmystreet.com/report/9576164)
-- Flytipping on corner for Hucclecote Road and Hillview Road by Pied Piper Appeal, 7th June :- [9576104](https://www.fixmystreet.com/report/9576104)
-- See photo, it's getting bigger by the day, 7th June :- [9575722](https://www.fixmystreet.com/report/9575722)
-- Faded double yellow lines in front of 3 Ryeworth Road, 7th June :- [9575627](https://www.fixmystreet.com/report/9575627)
-- Really dirty toilets, 7th June :- [9575469](https://www.fixmystreet.com/report/9575469)
-- Junction of Gotherington Lane and Sanderling Way roundabout, 7th June :- [9575136](https://www.fixmystreet.com/report/9575136)
-- Have to walk on the road with a pushchair as brambles overgrown pathway, 7th June :- [9574551](https://www.fixmystreet.com/report/9574551)
-- Top half of tree has fallen down, fell on road prior to moving, 7th June :- [9574524](https://www.fixmystreet.com/report/9574524)
 
 <!-- fix_marker ends -->

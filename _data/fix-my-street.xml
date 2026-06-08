@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -16,183 +16,183 @@
 
 <item>
 <title>TMC - Defects - Vegetation problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580920</link>
-<description>283ay with Standard tm please cut tall grass obstructing footway approx 25m (Embankment &amp;amp; Cuttings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580920&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9582006</link>
+<description>ENWD with 3 way traffic lights plus fway closure cut back overgrown hedges back to boundary approx 20m (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9582006&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580920</guid>
-<pubDate>Mon, 08 Jun 2026 12:55:46 +0100</pubDate>
-<georss:point>51.8401808532638 -2.15435248817726</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9582006</guid>
+<pubDate>Mon, 08 Jun 2026 14:50:50 +0100</pubDate>
+<georss:point>51.8597608916173 -2.20005150079624</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Covers, Gratings &amp; Frames problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581989</link>
+<description>Broken chamber Cover &amp;amp; Frame &amp;#10;1 x 600mm x 600mm CI cover - take up and reset &amp;#10;Further investigation may be required &amp;#10;STAT PLAN REQUIRED &amp;#10;Temporary road closure TM required (Broken Chamber Cover/Frame)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581989&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Covers, Gratings &amp; Frames</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581989</guid>
+<pubDate>Mon, 08 Jun 2026 14:40:26 +0100</pubDate>
+<georss:point>51.84122 -2.1815493</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580919</link>
-<description>ENWD &amp;#10;15MDB &amp;#10;ARBS TEAM REQUIRED &amp;#10;DAMAGED LIMB PLEASE REMOVE (Damaged Tree)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580919&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9581741</link>
+<description>ENWD with 2 way stop and go plus fway closure cut back overgrown hedges back to boundary approx 12m (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581741&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580919</guid>
-<pubDate>Mon, 08 Jun 2026 12:50:08 +0100</pubDate>
-<georss:point>51.8184279 -2.01298539999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581741</guid>
+<pubDate>Mon, 08 Jun 2026 14:27:54 +0100</pubDate>
+<georss:point>51.8534280920782 -2.18856730503017</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581740</link>
+<description>28day with 3 way stop and go CW pothole 1350x400x45mm perm repair unmarked (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581740&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581740</guid>
+<pubDate>Mon, 08 Jun 2026 14:27:29 +0100</pubDate>
+<georss:point>51.8532269305678 -2.18846158198317</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Vegetation problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580918</link>
-<description>28day with Standard tm please cut tall grass by junction approx 20m (Embankment &amp;amp; Cuttings)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580918&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9581739</link>
+<description>Overgrown Hedge FW 4m x 1m &amp;#10;Give and take TM With Temporary FW Closure &amp;#10;Cut back from FW (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581739&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580918</guid>
-<pubDate>Mon, 08 Jun 2026 12:48:57 +0100</pubDate>
-<georss:point>51.8427153092933 -2.15433122807094</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581739</guid>
+<pubDate>Mon, 08 Jun 2026 14:26:37 +0100</pubDate>
+<georss:point>51.888036 -2.05282669999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581737</link>
+<description>ENWD with 2 way stop and go plus fway closure cut back overgrown hedges back to boundary approx 12m (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581737&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581737</guid>
+<pubDate>Mon, 08 Jun 2026 14:25:17 +0100</pubDate>
+<georss:point>51.8534280920782 -2.18856730503017</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581735</link>
+<description>28day with 2 way stop and go CW pothole 1000x600x75mm perm repair unmarked (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581735&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581735</guid>
+<pubDate>Mon, 08 Jun 2026 14:22:51 +0100</pubDate>
+<georss:point>51.853496 -2.1887163</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581736</link>
+<description>ENWD with 2 way stop and go CW pothole 1000x600x75mm temp repair unmarked (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581736&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581736</guid>
+<pubDate>Mon, 08 Jun 2026 14:22:51 +0100</pubDate>
+<georss:point>51.8534733 -2.18873919999998</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Vegetation problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581723</link>
+<description>28day with Standard tm please cut overgrown hedge obstructing visibility out of driveway approx 5m (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581723&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Vegetation</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581723</guid>
+<pubDate>Mon, 08 Jun 2026 14:05:01 +0100</pubDate>
+<georss:point>51.8501893994412 -2.17524715555041</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581482</link>
+<description>15DB &amp;#10;Pothole CW 620mm  x 320mm  x 49mm &amp;#10;Road Closure TM &amp;#10;Very Narrow lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581482&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581482</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9438339 -2.01709989999998</georss:point>
 </item>
 <item>
 <title>TMC - Defects - Other problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580917</link>
-<description>15MDB &amp;#10;PLANNINGS REQUIRED &amp;#10;CW OVERIDING &amp;#10;8000 X 500 X 100MM&amp;#10;MARKED AS NUMBER 1 (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580917&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9581494</link>
+<description>15DB &amp;#10;Overriding CW 11m  x 600mm x 73mm &amp;#10;Road Closure TM &amp;#10;Very Narrow Lane &amp;#10;Fill with plainings (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581494&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects - Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580917</guid>
-<pubDate>Mon, 08 Jun 2026 12:47:44 +0100</pubDate>
-<georss:point>51.8184468 -2.01296090000001</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581494</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9459775 -2.01659930000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581495</link>
+<description>15DB &amp;#10;Overriding CW 2600mm  x 500mm x 65mm &amp;#10;Road Closure TM &amp;#10;Very Narrow Lane &amp;#10;Fill with plainings &amp;#10;Stats Required (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581495&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581495</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9458176 -2.0166941</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581493</link>
+<description>15DB &amp;#10;Overriding CW 6m  x 600mm x 73mm &amp;#10;Road Closure TM &amp;#10;Very Narrow Lane &amp;#10;Fill with plainings &amp;#10;Stats Required (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581493&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581493</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9458014 -2.01671900000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Other problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581488</link>
+<description>15DB &amp;#10;Overriding CW 2600mm  x 600mm x 70mm &amp;#10;Road Closure TM &amp;#10;Very Narrow Lane &amp;#10;Fill with plainings (CW Over-Riding)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581488&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581488</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9449918 -2.0169229</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580915</link>
-<description>15DB &amp;#10;Pothole CW 900mm  x 590mm  x 51mm &amp;#10;Road Closure TM (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580915&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9581487</link>
+<description>15DB &amp;#10;Pothole CW 900mm  x 380mm  x 42mm &amp;#10;Road Closure TM &amp;#10;Very Narrow lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581487&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580915</guid>
-<pubDate>Mon, 08 Jun 2026 12:42:18 +0100</pubDate>
-<georss:point>51.9235046 -2.09776</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581487</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9448181 -2.0169763</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580687</link>
-<description>28day with road closure CW pothole approx 3400x1500x60mm perm repair unmarked due to wet road (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580687&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9581484</link>
+<description>15DB &amp;#10;Pothole CW 600mm  x 400mm  x 43mm &amp;#10;Road Closure TM &amp;#10;Very Narrow lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581484&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580687</guid>
-<pubDate>Mon, 08 Jun 2026 12:21:00 +0100</pubDate>
-<georss:point>51.8475466889072 -2.1585759302727</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580684</link>
-<description>28day with road closure CW pothole 750x700x90mm perm repair STATS unmarked due to wet road (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580684&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580684</guid>
-<pubDate>Mon, 08 Jun 2026 12:12:20 +0100</pubDate>
-<georss:point>51.8486956 -2.1567247</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580686</link>
-<description>28day with road closure CW pothole 300x250x55mm perm repair unmarked due to wet road. (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580686&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580686</guid>
-<pubDate>Mon, 08 Jun 2026 12:12:20 +0100</pubDate>
-<georss:point>51.8487178 -2.15648349999999</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581484</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9443739 -2.01705609999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -other CW6 problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580685</link>
-<description>28day with road closure CW depression 1100x800x65mm perm repair unmarked due to wet road (CW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580685&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9581483</link>
+<description>15DB &amp;#10;Edge deterioration CW 2300mm  x 300mm  x 48mm &amp;#10;Road Closure TM &amp;#10;Very Narrow Lane (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581483&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -other CW6</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580685</guid>
-<pubDate>Mon, 08 Jun 2026 12:12:20 +0100</pubDate>
-<georss:point>51.8487218135578 -2.15667138260172</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581483</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9443416773553 -2.01711218730463</georss:point>
+</item>
+<item>
+<title>TMC - Defects -other CW6 problem, 8th June</title>
+<link>https://www.fixmystreet.com/report/9581492</link>
+<description>15DB &amp;#10;Edge deterioration CW 3600mm  x 900mm  x 47mm &amp;#10;Road Closure TM &amp;#10;Very Narrow Lane (CW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581492&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581492</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9455198 -2.01687160000002</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580675</link>
-<description>15DB ENWD with road closure CW pothole 750x700x90mm temp repair unmarked due to wet road (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580675&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9581490</link>
+<description>15DB &amp;#10;Pothole CW 1000mm  x 880mm  x 54mm &amp;#10;Road Closure TM &amp;#10;Very Narrow lane &amp;#10;Stats Required &amp;#10;Fill around ironwork (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581490&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580675</guid>
-<pubDate>Mon, 08 Jun 2026 12:08:13 +0100</pubDate>
-<georss:point>51.8486929765088 -2.15672832870574</georss:point>
-</item>
-<item>
-<title>Hedgeovergrown so cannot see oncoming traffic, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580365</link>
-<description>The stile/exit onto A435 crossing East - you cannot see cars coming around the corner until it is too late. I have nearly been hit crossing as I have had to run at the last minute. Visibility is poor looking both north and south (better looking south however). It is not the grass verge, but overhanging branches that are the issue.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9580365.0.jpeg?297141fa&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cheltenham Road, Coberley, Cotswold&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580365&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Overgrown vegetation on path/way</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580365</guid>
-<pubDate>Mon, 08 Jun 2026 12:00:57 +0100</pubDate>
-<georss:point>51.839474 -2.046143</georss:point>
-</item>
-<item>
-<title>Flooded drain, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580264</link>
-<description>Please see photo. On Alstone Lane, opposite 1 Alstone Court.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9580264.0.jpeg?96b3ec57&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 48, Alstone Lane, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580264&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580264</guid>
-<pubDate>Mon, 08 Jun 2026 11:58:49 +0100</pubDate>
-<georss:point>51.902632 -2.095719</georss:point>
-</item>
-<item>
-<title>Several more holes near junction with Blake Croft, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580330</link>
-<description>Several more unmarked potholes on Springbank Way, near junction with Blake Croft.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 52, Springbank Way, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580330&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580330</guid>
-<pubDate>Mon, 08 Jun 2026 11:58:11 +0100</pubDate>
-<georss:point>51.913229 -2.118042</georss:point>
-</item>
-<item>
-<title>Potholes, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580298</link>
-<description>Apologies, no photos. Please look.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 6, Pates Avenue, Kingsditch, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580298&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580298</guid>
-<pubDate>Mon, 08 Jun 2026 11:57:48 +0100</pubDate>
-<georss:point>51.901897 -2.093596</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Vegetation problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9580429</link>
-<description>OVERGROWN HEDGE OBSTRUCTING CROSSROADS SIGN PLEASE CUT BACK TO ENSURE VISIBILITY &amp;#10;STOP AND GO (Overgrown Hedge)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9580429&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Vegetation</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9580429</guid>
-<pubDate>Mon, 08 Jun 2026 11:53:22 +0100</pubDate>
-<georss:point>51.863752873851 -1.96112911590411</georss:point>
-</item>
-<item>
-<title>Large London plane tree overhanging branches has caused considerable damage by blocking the gutters with leaves, seeds and twigs, has cost a lot of money to repair., 8th June</title>
-<link>https://www.fixmystreet.com/report/9579896</link>
-<description>10 Pittville Lawn, on road in front of 10 Pittville Lawn,&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9579896.0.jpeg?9cfc4449&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 4, Pittville Mews, Marle Hill, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9579896&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Trees</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9579896</guid>
-<pubDate>Mon, 08 Jun 2026 11:14:14 +0100</pubDate>
-<georss:point>51.904496 -2.070183</georss:point>
-</item>
-<item>
-<title>Broken drain now a trip hazard, 8th June</title>
-<link>https://www.fixmystreet.com/report/9579787</link>
-<description>Nailsworth Terrace along the pavement&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9579787.0.jpeg?98559eb7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 16a, Hereford Place, Marle Hill, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9579787&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9579787</guid>
-<pubDate>Mon, 08 Jun 2026 11:01:48 +0100</pubDate>
-<georss:point>51.904939 -2.081512</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581490</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.9454985 -2.01687369999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9579836</link>
-<description>Pothole CW 1400mm  x 300mm  x 42mm &amp;#10;Road Closure TM &amp;#10;Unmarked sizes approximate unsafe to measure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9579836&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9581489</link>
+<description>15DB &amp;#10;Pothole CW 600mm  x 600mm  x 64mm &amp;#10;Road Closure TM &amp;#10;Very Narrow lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9581489&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9579836</guid>
-<pubDate>Mon, 08 Jun 2026 11:01:33 +0100</pubDate>
-<georss:point>51.911530572119 -2.09134712186296</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 8th June</title>
-<link>https://www.fixmystreet.com/report/9579835</link>
-<description>Pothole CW 1200mm  x 1000mm  x 42mm &amp;#10;Road Closure TM &amp;#10;Unmarked sizes approximate unsafe to measure (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9579835&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9579835</guid>
-<pubDate>Mon, 08 Jun 2026 11:01:32 +0100</pubDate>
-<georss:point>51.9141563896513 -2.09188487873968</georss:point>
-</item>
-<item>
-<title>Flooded road, 8th June</title>
-<link>https://www.fixmystreet.com/report/9579701</link>
-<description>In Wellington road, GL52 2BE south side between Pittville Lawn and Pittville Circus&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9579701.0.jpeg?9d574201&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 5, Wellington Road, Marle Hill, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9579701&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The drain is blocked</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9579701</guid>
-<pubDate>Mon, 08 Jun 2026 10:54:19 +0100</pubDate>
-<georss:point>51.905355 -2.068605</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9581489</guid>
+<pubDate>Mon, 08 Jun 2026 14:01:50 +0100</pubDate>
+<georss:point>51.945185 -2.0169737</georss:point>
 </item>
 </channel>
 </rss>

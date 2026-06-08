@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead deer middle of road, 8th June :- [9578201](https://www.fixmystreet.com/report/9578201)
 - Broken glass in children’s park, 8th June :- [9577967](https://www.fixmystreet.com/report/9577967)
 - Fly tipping, 8th June :- [9577920](https://www.fixmystreet.com/report/9577920)
 - New shoots from tree trunks blocking sight at crossroads by College Bath Road and turning right on to Keyndham rd., 7th June :- [9577744](https://www.fixmystreet.com/report/9577744)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Junction of Gotherington Lane and Sanderling Way roundabout, 7th June :- [9575136](https://www.fixmystreet.com/report/9575136)
 - Have to walk on the road with a pushchair as brambles overgrown pathway, 7th June :- [9574551](https://www.fixmystreet.com/report/9574551)
 - Top half of tree has fallen down, fell on road prior to moving, 7th June :- [9574524](https://www.fixmystreet.com/report/9574524)
-- Tenant who has moved out of 4A Glenville Parade has filled the bins with wood and his household furniture and left a table in the car park and gym equipment, 7th June :- [9574516](https://www.fixmystreet.com/report/9574516)
 
 <!-- fix_marker ends -->

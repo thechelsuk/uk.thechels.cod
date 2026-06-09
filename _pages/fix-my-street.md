@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes close to the driveway which were repaired recently are exposed again and becoming a hazard., 9th June :- [9585404](https://www.fixmystreet.com/report/9585404)
+- Multiple potholes by green outside 11 & 15 Chase Avenue, 9th June :- [9585365](https://www.fixmystreet.com/report/9585365)
+- 50+ Potholes in this section of road, 9th June :- [9585138](https://www.fixmystreet.com/report/9585138)
+- Very overgrown public footpath/bike path, 9th June :- [9585114](https://www.fixmystreet.com/report/9585114)
 - Large branch. Risk to life, 9th June :- [9582614](https://www.fixmystreet.com/report/9582614)
 - Outside 13 insley gardens, 8th June :- [9584536](https://www.fixmystreet.com/report/9584536)
 - Fly tipping on both sides of the road, 8th June :- [9584286](https://www.fixmystreet.com/report/9584286)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 8th June :- [9582006](https://www.fixmystreet.com/report/9582006)
 - TMC - Defects - Covers, Gratings & Frames problem, 8th June :- [9581989](https://www.fixmystreet.com/report/9581989)
 - TMC - Defects - Vegetation problem, 8th June :- [9581741](https://www.fixmystreet.com/report/9581741)
-- TMC - Defects -CW6 Potholes  problem, 8th June :- [9581740](https://www.fixmystreet.com/report/9581740)
-- TMC - Defects - Vegetation problem, 8th June :- [9581739](https://www.fixmystreet.com/report/9581739)
-- TMC - Defects - Vegetation problem, 8th June :- [9581737](https://www.fixmystreet.com/report/9581737)
-- TMC - Defects -CW6 Potholes  problem, 8th June :- [9581735](https://www.fixmystreet.com/report/9581735)
 
 <!-- fix_marker ends -->

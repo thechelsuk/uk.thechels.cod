@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 pot holes one 80cm by 75 cm, one 110 by 100cm, 9th June :- [9591237](https://www.fixmystreet.com/report/9591237)
 - Trees overhanging Cycle Path, 9th June :- [9590876](https://www.fixmystreet.com/report/9590876)
 - Rubbish been on side of road over three weeks now, 9th June :- [9590788](https://www.fixmystreet.com/report/9590788)
 - The tree trunk has grown many suckers reducing visibility and blocking pavement, 9th June :- [9590247](https://www.fixmystreet.com/report/9590247)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 9th June :- [9588788](https://www.fixmystreet.com/report/9588788)
 - TMC - Defects -CW10 Potholes problem, 9th June :- [9588785](https://www.fixmystreet.com/report/9588785)
 - TMC - Defects -CW6 Potholes  problem, 9th June :- [9588572](https://www.fixmystreet.com/report/9588572)
-- TMC - Defects -CW10 Potholes problem, 9th June :- [9588571](https://www.fixmystreet.com/report/9588571)
 
 <!-- fix_marker ends -->

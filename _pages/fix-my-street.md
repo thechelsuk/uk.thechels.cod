@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The tree trunk has grown many suckers reducing visibility and blocking pavement, 9th June :- [9590247](https://www.fixmystreet.com/report/9590247)
+- Pothole in singletrack driving line, 9th June :- [9589924](https://www.fixmystreet.com/report/9589924)
 - Outside number 5, 9th June :- [9589846](https://www.fixmystreet.com/report/9589846)
 - Outside 53, 9th June :- [9589823](https://www.fixmystreet.com/report/9589823)
 - Outside number 64, 9th June :- [9589811](https://www.fixmystreet.com/report/9589811)
@@ -24,10 +26,8 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 9th June :- [9588788](https://www.fixmystreet.com/report/9588788)
 - TMC - Defects -CW10 Potholes problem, 9th June :- [9588785](https://www.fixmystreet.com/report/9588785)
 - TMC - Defects -CW6 Potholes  problem, 9th June :- [9588572](https://www.fixmystreet.com/report/9588572)
-- TMC - Defects -CW10 Potholes problem, 9th June :- [9588570](https://www.fixmystreet.com/report/9588570)
 - TMC - Defects -CW10 Potholes problem, 9th June :- [9588571](https://www.fixmystreet.com/report/9588571)
+- TMC - Defects -CW10 Potholes problem, 9th June :- [9588570](https://www.fixmystreet.com/report/9588570)
 - Degraded road repair with holes, 9th June :- [9588159](https://www.fixmystreet.com/report/9588159)
-- TMC - Defects - Vegetation problem, 9th June :- [9588270](https://www.fixmystreet.com/report/9588270)
-- 2 deep potholes, 9th June :- [9588071](https://www.fixmystreet.com/report/9588071)
 
 <!-- fix_marker ends -->

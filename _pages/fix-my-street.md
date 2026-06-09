@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees overhanging Cycle Path, 9th June :- [9590876](https://www.fixmystreet.com/report/9590876)
+- Rubbish been on side of road over three weeks now, 9th June :- [9590788](https://www.fixmystreet.com/report/9590788)
 - The tree trunk has grown many suckers reducing visibility and blocking pavement, 9th June :- [9590247](https://www.fixmystreet.com/report/9590247)
 - Pothole in singletrack driving line, 9th June :- [9589924](https://www.fixmystreet.com/report/9589924)
 - Outside number 5, 9th June :- [9589846](https://www.fixmystreet.com/report/9589846)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 9th June :- [9588785](https://www.fixmystreet.com/report/9588785)
 - TMC - Defects -CW6 Potholes  problem, 9th June :- [9588572](https://www.fixmystreet.com/report/9588572)
 - TMC - Defects -CW10 Potholes problem, 9th June :- [9588571](https://www.fixmystreet.com/report/9588571)
-- TMC - Defects -CW10 Potholes problem, 9th June :- [9588570](https://www.fixmystreet.com/report/9588570)
-- Degraded road repair with holes, 9th June :- [9588159](https://www.fixmystreet.com/report/9588159)
 
 <!-- fix_marker ends -->

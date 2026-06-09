@@ -9,7 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside number 5, 9th June :- [9589846](https://www.fixmystreet.com/report/9589846)
+- Outside 53, 9th June :- [9589823](https://www.fixmystreet.com/report/9589823)
+- Outside number 64, 9th June :- [9589811](https://www.fixmystreet.com/report/9589811)
+- Obstruction, 9th June :- [9589762](https://www.fixmystreet.com/report/9589762)
+- Pitville park trampolines, 9th June :- [9589679](https://www.fixmystreet.com/report/9589679)
+- Tree and roots being undermined possibly by rats, 9th June :- [9589656](https://www.fixmystreet.com/report/9589656)
+- Drain blocked for 3 months, 9th June :- [9589514](https://www.fixmystreet.com/report/9589514)
+- TMC - Defects - Vegetation problem, 9th June :- [9589036](https://www.fixmystreet.com/report/9589036)
 - Loose / raised kerb stone - tripping hazard, 9th June :- [9588852](https://www.fixmystreet.com/report/9588852)
+- TMC - Defects - Vegetation problem, 9th June :- [9589032](https://www.fixmystreet.com/report/9589032)
 - TMC - Defects -CW10 Potholes problem, 9th June :- [9588790](https://www.fixmystreet.com/report/9588790)
 - TMC - Defects -CW10 Potholes problem, 9th June :- [9588789](https://www.fixmystreet.com/report/9588789)
 - TMC - Defects - Vegetation problem, 9th June :- [9588788](https://www.fixmystreet.com/report/9588788)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Degraded road repair with holes, 9th June :- [9588159](https://www.fixmystreet.com/report/9588159)
 - TMC - Defects - Vegetation problem, 9th June :- [9588270](https://www.fixmystreet.com/report/9588270)
 - 2 deep potholes, 9th June :- [9588071](https://www.fixmystreet.com/report/9588071)
-- TMC - Defects -CW10 Potholes problem, 9th June :- [9588269](https://www.fixmystreet.com/report/9588269)
-- TMC - Defects -CW10 Potholes problem, 9th June :- [9588268](https://www.fixmystreet.com/report/9588268)
-- TMC - Defects -CW10 Potholes problem, 9th June :- [9587988](https://www.fixmystreet.com/report/9587988)
-- TMC - Defects - Footways Slabs problem, 9th June :- [9587985](https://www.fixmystreet.com/report/9587985)
-- TMC - Defects - Footways Slabs problem, 9th June :- [9587984](https://www.fixmystreet.com/report/9587984)
-- TMC - Defects - Footways Slabs problem, 9th June :- [9587983](https://www.fixmystreet.com/report/9587983)
-- TMC - Defects - Vegetation problem, 9th June :- [9587981](https://www.fixmystreet.com/report/9587981)
-- Tree is damaged problem, 9th June :- [9587676](https://www.fixmystreet.com/report/9587676)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 9th June :- [9587677](https://www.fixmystreet.com/report/9587677)
 
 <!-- fix_marker ends -->

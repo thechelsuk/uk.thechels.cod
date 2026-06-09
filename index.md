@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 09 June 2026
 
-- The average temperature today is 17.05˚C,
-- With highs of 17.62˚C and lows of 16.58˚C,
-- It may feel like 16.35˚C with broken clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 59%
+- The average temperature today is 16.2˚C,
+- With highs of 16.96˚C and lows of 15.54˚C,
+- It may feel like 15.55˚C with broken clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 64%
 - The sun will rise at 03:50 and set at 20:25
 
 <!-- weather_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 10 June 2026
 
-- The average temperature today is 16.13˚C,
-- With highs of 17.06˚C and lows of 15.85˚C,
-- It may feel like 15.57˚C with scattered clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 68%
+- The average temperature today is 13.38˚C,
+- With highs of 13.38˚C and lows of 13.38˚C,
+- It may feel like 12.73˚C with few clouds
+- The wind speed is 3.09m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 75%
 - The sun will rise at 03:49 and set at 20:26
 
 <!-- weather_marker ends -->

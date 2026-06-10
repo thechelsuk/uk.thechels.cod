@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Woman, 103, publishes first book alongside podcasts ([52 minutes ago](https://www.bbc.com/news/articles/ckg50nr314lo?at_medium=RSS&at_campaign=rss))
-- UK pint prices up 36% since last World Cup – here's why ([58 minutes ago](https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss))
-- Man jailed for abuse and humiliation of woman ([16 hours ago](https://www.bbc.com/news/articles/c4gyqnp55eyo?at_medium=RSS&at_campaign=rss))
-- Plans for six-storey apartment building scrapped ([18 hours ago](https://www.bbc.com/news/articles/c621geredgzo?at_medium=RSS&at_campaign=rss))
-- Cyclist dies in hospital after crash ([19 hours ago](https://www.bbc.com/news/articles/cgevy48n4l5o?at_medium=RSS&at_campaign=rss))
-- Schools funding will make buildings safe and warm ([22 hours ago](https://www.bbc.com/news/articles/c5yennjnvezo?at_medium=RSS&at_campaign=rss))
+- Woman, 103, publishes first book alongside podcasts ([2 hours ago](https://www.bbc.com/news/articles/ckg50nr314lo?at_medium=RSS&at_campaign=rss))
+- UK pint prices up 36% since last World Cup – here's why ([2 hours ago](https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss))
+- Man jailed for abuse and humiliation of woman ([18 hours ago](https://www.bbc.com/news/articles/c4gyqnp55eyo?at_medium=RSS&at_campaign=rss))
+- Plans for six-storey apartment building scrapped ([20 hours ago](https://www.bbc.com/news/articles/c621geredgzo?at_medium=RSS&at_campaign=rss))
+- Cyclist dies in hospital after crash ([21 hours ago](https://www.bbc.com/news/articles/cgevy48n4l5o?at_medium=RSS&at_campaign=rss))
+- Schools funding will make buildings safe and warm ([1 days ago](https://www.bbc.com/news/articles/c5yennjnvezo?at_medium=RSS&at_campaign=rss))
 - Woman rides school railbus again after 60 years ([1 days ago](https://www.bbc.com/news/articles/ckgp4erl3d7o?at_medium=RSS&at_campaign=rss))
 - World Cup 'may distract from US policies' ([1 days ago](https://www.bbc.com/news/articles/c98rzgrv7vmo?at_medium=RSS&at_campaign=rss))
 - 'Outpouring of love' for nurse killed in crash ([1 days ago](https://www.bbc.com/news/articles/c8e2l19x65po?at_medium=RSS&at_campaign=rss))

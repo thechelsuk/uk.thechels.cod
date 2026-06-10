@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree branches on verge, 10th June :- [9596959](https://www.fixmystreet.com/report/9596959)
+- Pothole across the whole road, 10th June :- [9596947](https://www.fixmystreet.com/report/9596947)
+- Pothole near the junction of Winchester Way, 10th June :- [9596883](https://www.fixmystreet.com/report/9596883)
+- 12inch by 13inch pothole approximately 2inches deep, 10th June :- [9596784](https://www.fixmystreet.com/report/9596784)
+- Wide pothole on left side of road as you are going towards the main road (A435), 10th June :- [9596545](https://www.fixmystreet.com/report/9596545)
+- Red 'block' road surface has lifted and left a large hole - hazardous to cyclists, 10th June :- [9596519](https://www.fixmystreet.com/report/9596519)
+- Continuous potholes on this area of road, 10th June :- [9596493](https://www.fixmystreet.com/report/9596493)
 - Tree branches falling and overgrown, 10th June :- [9596215](https://www.fixmystreet.com/report/9596215)
 - Road surface raised above dropped curb, 10th June :- [9595969](https://www.fixmystreet.com/report/9595969)
 - Getting worse, 10th June :- [9595854](https://www.fixmystreet.com/report/9595854)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 10th June :- [9594510](https://www.fixmystreet.com/report/9594510)
 - TMC - Defects -CW6 Potholes  problem, 10th June :- [9594516](https://www.fixmystreet.com/report/9594516)
 - Outside 2, 10th June :- [9594395](https://www.fixmystreet.com/report/9594395)
-- Outside 12, 10th June :- [9594377](https://www.fixmystreet.com/report/9594377)
-- Outside British heart, 10th June :- [9594357](https://www.fixmystreet.com/report/9594357)
-- TMC - Defects - Vegetation problem, 10th June :- [9594513](https://www.fixmystreet.com/report/9594513)
-- Outside 116, 10th June :- [9594206](https://www.fixmystreet.com/report/9594206)
-- A pothole in road problem, 10th June :- [9594507](https://www.fixmystreet.com/report/9594507)
-- TMC - Defects - Vegetation problem, 10th June :- [9594185](https://www.fixmystreet.com/report/9594185)
-- TMC - Defects -FW6 Potholes problem, 10th June :- [9593864](https://www.fixmystreet.com/report/9593864)
 
 <!-- fix_marker ends -->

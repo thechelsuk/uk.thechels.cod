@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Outside 116, 10th June :- [9594206](https://www.fixmystreet.com/report/9594206)
+- TMC - Defects - Vegetation problem, 10th June :- [9594185](https://www.fixmystreet.com/report/9594185)
+- TMC - Defects -FW6 Potholes problem, 10th June :- [9593864](https://www.fixmystreet.com/report/9593864)
+- Unsafe traffic lights and pedestrian crossing at a busy school junction., 10th June :- [9593448](https://www.fixmystreet.com/report/9593448)
+- TMC - Defects -CW10 Potholes problem, 10th June :- [9593575](https://www.fixmystreet.com/report/9593575)
+- TMC - Defects -other CW10 problem, 10th June :- [9593307](https://www.fixmystreet.com/report/9593307)
+- Traffic lights changing when queue backed up at roundabout so traffic going other way cannot get through. Roadworks. 4 way lights., 10th June :- [9593135](https://www.fixmystreet.com/report/9593135)
+- TMC - Defects - Vegetation problem, 10th June :- [9593306](https://www.fixmystreet.com/report/9593306)
+- TMC - Defects - Vegetation problem, 10th June :- [9593305](https://www.fixmystreet.com/report/9593305)
+- Post or sign leaning slightly (less than 20 degrees) problem, 10th June :- [9593291](https://www.fixmystreet.com/report/9593291)
+- TMC - Defects - Signs & Street Furniture problem, 10th June :- [9593294](https://www.fixmystreet.com/report/9593294)
+- TMC - Defects - Vegetation problem, 10th June :- [9593292](https://www.fixmystreet.com/report/9593292)
 - TMC - Defects - Vegetation problem, 10th June :- [9592971](https://www.fixmystreet.com/report/9592971)
 - Overhanging tree branches blocking pavement, 10th June :- [9592928](https://www.fixmystreet.com/report/9592928)
 - Post or sign leaning slightly (less than 20 degrees) problem, 10th June :- [9592959](https://www.fixmystreet.com/report/9592959)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 10th June :- [9592721](https://www.fixmystreet.com/report/9592721)
 - Collection if potholes outside 22 Whittington Road, 10th June :- [9592272](https://www.fixmystreet.com/report/9592272)
 - TMC - Defects - Vegetation problem, 10th June :- [9591982](https://www.fixmystreet.com/report/9591982)
-- 2 pot holes one 80cm by 75 cm, one 110 by 100cm, 9th June :- [9591237](https://www.fixmystreet.com/report/9591237)
-- Trees overhanging Cycle Path, 9th June :- [9590876](https://www.fixmystreet.com/report/9590876)
-- Rubbish been on side of road over three weeks now, 9th June :- [9590788](https://www.fixmystreet.com/report/9590788)
-- The tree trunk has grown many suckers reducing visibility and blocking pavement, 9th June :- [9590247](https://www.fixmystreet.com/report/9590247)
-- Pothole in singletrack driving line, 9th June :- [9589924](https://www.fixmystreet.com/report/9589924)
-- Outside number 5, 9th June :- [9589846](https://www.fixmystreet.com/report/9589846)
-- Outside 53, 9th June :- [9589823](https://www.fixmystreet.com/report/9589823)
-- Outside number 64, 9th June :- [9589811](https://www.fixmystreet.com/report/9589811)
-- Obstruction, 9th June :- [9589762](https://www.fixmystreet.com/report/9589762)
-- Pitville park trampolines, 9th June :- [9589679](https://www.fixmystreet.com/report/9589679)
-- Tree and roots being undermined possibly by rats, 9th June :- [9589656](https://www.fixmystreet.com/report/9589656)
-- Drain blocked for 3 months, 9th June :- [9589514](https://www.fixmystreet.com/report/9589514)
 
 <!-- fix_marker ends -->

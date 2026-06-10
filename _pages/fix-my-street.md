@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree down blocking bridleway. No other way pass on a horse., 10th June :- [9597988](https://www.fixmystreet.com/report/9597988)
+- Half a job done, 10th June :- [9597851](https://www.fixmystreet.com/report/9597851)
+- Flytipped item, 10th June :- [9597757](https://www.fixmystreet.com/report/9597757)
+- Pothole outside No. 6 Brookway Rd, 10th June :- [9597686](https://www.fixmystreet.com/report/9597686)
+- Fence erected over 1.5 m. Causing vison obstruction for traffic/people using deep street , church lane, 10th June :- [9597579](https://www.fixmystreet.com/report/9597579)
 - Tree branches on verge, 10th June :- [9596959](https://www.fixmystreet.com/report/9596959)
 - Pothole across the whole road, 10th June :- [9596947](https://www.fixmystreet.com/report/9596947)
 - Pothole near the junction of Winchester Way, 10th June :- [9596883](https://www.fixmystreet.com/report/9596883)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Overgrown large bush / tree, 10th June :- [9595463](https://www.fixmystreet.com/report/9595463)
 - 30 sign knocked down and needs replacing, 10th June :- [9594879](https://www.fixmystreet.com/report/9594879)
 - Side of road falling apart, 10th June :- [9594663](https://www.fixmystreet.com/report/9594663)
-- TMC - Defects -CW10 Potholes problem, 10th June :- [9594762](https://www.fixmystreet.com/report/9594762)
-- TMC - Defects -CW10 Potholes problem, 10th June :- [9594761](https://www.fixmystreet.com/report/9594761)
-- A pothole in road problem, 10th June :- [9594510](https://www.fixmystreet.com/report/9594510)
-- TMC - Defects -CW6 Potholes  problem, 10th June :- [9594516](https://www.fixmystreet.com/report/9594516)
-- Outside 2, 10th June :- [9594395](https://www.fixmystreet.com/report/9594395)
 
 <!-- fix_marker ends -->

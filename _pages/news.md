@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Worrying' pollution in Cotswolds river - volunteers ([1 hours ago](https://www.bbc.com/news/articles/c0eynd2ndz7o?at_medium=RSS&at_campaign=rss))
-- 'Nostalgic' display unveiled at shopping centre ([9 hours ago](https://www.bbc.com/news/articles/c8629g410x0o?at_medium=RSS&at_campaign=rss))
-- Woman, 103, publishes first book alongside podcasts ([14 hours ago](https://www.bbc.com/news/articles/ckg50nr314lo?at_medium=RSS&at_campaign=rss))
-- UK pint prices up 36% since last World Cup – here's why ([14 hours ago](https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss))
+- 'Worrying' pollution in Cotswolds river - volunteers ([3 hours ago](https://www.bbc.com/news/articles/c0eynd2ndz7o?at_medium=RSS&at_campaign=rss))
+- 'Nostalgic' display unveiled at shopping centre ([11 hours ago](https://www.bbc.com/news/articles/c8629g410x0o?at_medium=RSS&at_campaign=rss))
+- Woman, 103, publishes first book alongside podcasts ([16 hours ago](https://www.bbc.com/news/articles/ckg50nr314lo?at_medium=RSS&at_campaign=rss))
+- UK pint prices up 36% since last World Cup – here's why ([16 hours ago](https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss))
 - Man jailed for abuse and humiliation of woman ([1 days ago](https://www.bbc.com/news/articles/c4gyqnp55eyo?at_medium=RSS&at_campaign=rss))
 - Plans for six-storey apartment building scrapped ([1 days ago](https://www.bbc.com/news/articles/c621geredgzo?at_medium=RSS&at_campaign=rss))
 - Cyclist dies in hospital after crash ([1 days ago](https://www.bbc.com/news/articles/cgevy48n4l5o?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mirror obstructed by hedgerows/trees, 10th June :- [9599014](https://www.fixmystreet.com/report/9599014)
 - Sign facing in the wrong direction, 10th June :- [9598339](https://www.fixmystreet.com/report/9598339)
 - Tree down blocking bridleway. No other way pass on a horse., 10th June :- [9597988](https://www.fixmystreet.com/report/9597988)
 - Half a job done, 10th June :- [9597851](https://www.fixmystreet.com/report/9597851)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - 2 trees, 10th June :- [9595824](https://www.fixmystreet.com/report/9595824)
 - Dumped microwve and rubbish bag, 10th June :- [9595810](https://www.fixmystreet.com/report/9595810)
 - Overgrown large bush / tree, 10th June :- [9595463](https://www.fixmystreet.com/report/9595463)
-- 30 sign knocked down and needs replacing, 10th June :- [9594879](https://www.fixmystreet.com/report/9594879)
 
 <!-- fix_marker ends -->

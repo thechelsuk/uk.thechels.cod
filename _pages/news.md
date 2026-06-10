@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man jailed for abuse and humiliation of woman ([9 hours ago](https://www.bbc.com/news/articles/c4gyqnp55eyo?at_medium=RSS&at_campaign=rss))
-- Plans for six-storey apartment building scrapped ([11 hours ago](https://www.bbc.com/news/articles/c621geredgzo?at_medium=RSS&at_campaign=rss))
-- Cyclist dies in hospital after crash ([12 hours ago](https://www.bbc.com/news/articles/cgevy48n4l5o?at_medium=RSS&at_campaign=rss))
-- Schools funding will make buildings safe and warm ([15 hours ago](https://www.bbc.com/news/articles/c5yennjnvezo?at_medium=RSS&at_campaign=rss))
-- Woman rides school railbus again after 60 years ([17 hours ago](https://www.bbc.com/news/articles/ckgp4erl3d7o?at_medium=RSS&at_campaign=rss))
-- World Cup 'may distract from US policies' ([18 hours ago](https://www.bbc.com/news/articles/c98rzgrv7vmo?at_medium=RSS&at_campaign=rss))
+- Man jailed for abuse and humiliation of woman ([11 hours ago](https://www.bbc.com/news/articles/c4gyqnp55eyo?at_medium=RSS&at_campaign=rss))
+- Plans for six-storey apartment building scrapped ([14 hours ago](https://www.bbc.com/news/articles/c621geredgzo?at_medium=RSS&at_campaign=rss))
+- Cyclist dies in hospital after crash ([15 hours ago](https://www.bbc.com/news/articles/cgevy48n4l5o?at_medium=RSS&at_campaign=rss))
+- Schools funding will make buildings safe and warm ([17 hours ago](https://www.bbc.com/news/articles/c5yennjnvezo?at_medium=RSS&at_campaign=rss))
+- Woman rides school railbus again after 60 years ([20 hours ago](https://www.bbc.com/news/articles/ckgp4erl3d7o?at_medium=RSS&at_campaign=rss))
+- World Cup 'may distract from US policies' ([20 hours ago](https://www.bbc.com/news/articles/c98rzgrv7vmo?at_medium=RSS&at_campaign=rss))
 - 'Outpouring of love' for nurse killed in crash ([1 days ago](https://www.bbc.com/news/articles/c8e2l19x65po?at_medium=RSS&at_campaign=rss))
 - 'Unduly lenient' prison term for rapist increased ([1 days ago](https://www.bbc.com/news/articles/cjeg3lvv2pno?at_medium=RSS&at_campaign=rss))
 - Appeal for information following theft of 6,000 litres of petrol ([1 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-following-theft-of-6000-litres-of-petrol/))

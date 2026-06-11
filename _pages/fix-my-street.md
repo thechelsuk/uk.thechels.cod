@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A double white mattress dumped for a week, 11th June :- [9605975](https://www.fixmystreet.com/report/9605975)
+- There is a large white double fridge dumped outside, 11th June :- [9605935](https://www.fixmystreet.com/report/9605935)
 - Pothole outside 83 Warden Hill Road again., 11th June :- [9605352](https://www.fixmystreet.com/report/9605352)
 - Fallen Wall, 11th June :- [9605224](https://www.fixmystreet.com/report/9605224)
 - Multiple potholes in usual place as latest repair has failed, 11th June :- [9598918](https://www.fixmystreet.com/report/9598918)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Green light not working, 11th June :- [9604591](https://www.fixmystreet.com/report/9604591)
 - Group of 5 potholes over about 15 metres middle of road opposite 2A Fairhavrn, 11th June :- [9604571](https://www.fixmystreet.com/report/9604571)
 - Yellow no parking/clearway cones blocking footway o/s n.42 plus several yellow correx signs still mounted on lamp columns regarding a maintenance event & parking restriction that was completed towards the end of last month!, 11th June :- [9604490](https://www.fixmystreet.com/report/9604490)
-- Roundabout need resurfacing, 11th June :- [9604453](https://www.fixmystreet.com/report/9604453)
-- STREETWORKS!... Recently renewed ironwork is already banging & clanking like hell - needs redoing or getting contractor/utility back pronto if not originally undertaken by GCC., 11th June :- [9604450](https://www.fixmystreet.com/report/9604450)
 
 <!-- fix_marker ends -->

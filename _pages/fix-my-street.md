@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The lack of double yellow line on this part of the road means that vehicles often park like the white van pictured. Today this has lead to the bin lorry not being able to access a large proportion of the lane. This would also prevent emergency services accessing the lane too and could ultimately lead to an unnecessary death potentially. It's under 1 year since the double yellow line were first put on the lane and this particular location being missed off is presenting a public safety issue time and time again!, 11th June :- [9600673](https://www.fixmystreet.com/report/9600673)
+- Dangerous hole in ground, 11th June :- [9600624](https://www.fixmystreet.com/report/9600624)
+- Broken branch hanging down, 11th June :- [9600533](https://www.fixmystreet.com/report/9600533)
+- Drain blocked, 11th June :- [9600430](https://www.fixmystreet.com/report/9600430)
 - A pothole in road problem, 11th June :- [9599606](https://www.fixmystreet.com/report/9599606)
 - Mirror obstructed by hedgerows/trees, 10th June :- [9599014](https://www.fixmystreet.com/report/9599014)
 - Sign facing in the wrong direction, 10th June :- [9598339](https://www.fixmystreet.com/report/9598339)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Red 'block' road surface has lifted and left a large hole - hazardous to cyclists, 10th June :- [9596519](https://www.fixmystreet.com/report/9596519)
 - Continuous potholes on this area of road, 10th June :- [9596493](https://www.fixmystreet.com/report/9596493)
 - Tree branches falling and overgrown, 10th June :- [9596215](https://www.fixmystreet.com/report/9596215)
-- Road surface raised above dropped curb, 10th June :- [9595969](https://www.fixmystreet.com/report/9595969)
-- Getting worse, 10th June :- [9595854](https://www.fixmystreet.com/report/9595854)
-- 2 trees, 10th June :- [9595824](https://www.fixmystreet.com/report/9595824)
-- Dumped microwve and rubbish bag, 10th June :- [9595810](https://www.fixmystreet.com/report/9595810)
 
 <!-- fix_marker ends -->

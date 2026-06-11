@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 11 June 2026
 
-- The average temperature today is 10.67˚C,
-- With highs of 10.93˚C and lows of 10.39˚C,
-- It may feel like 10.04˚C with overcast clouds
+- The average temperature today is 11.8˚C,
+- With highs of 12.51˚C and lows of 10.47˚C,
+- It may feel like 11.36˚C with light rain
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 86%
+- The pressure is 1018hPa and humidity is 89%
 - The sun will rise at 03:49 and set at 20:26
 
 <!-- weather_marker ends -->

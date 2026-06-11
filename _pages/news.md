@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- New section of A417 Missing Link project to open ([2 hours ago](https://www.bbc.com/news/articles/c1kynzvlk8xo?at_medium=RSS&at_campaign=rss))
-- 'Being able to play football again is just amazing' ([2 hours ago](https://www.bbc.com/news/articles/czde1vvqvevo?at_medium=RSS&at_campaign=rss))
-- Can pubs stay open late for World Cup matches? ([3 hours ago](https://www.bbc.com/news/articles/czx5rwpde1eo?at_medium=RSS&at_campaign=rss))
-- 'Worrying' pollution in Cotswolds river - volunteers ([14 hours ago](https://www.bbc.com/news/articles/c0eynd2ndz7o?at_medium=RSS&at_campaign=rss))
-- 'Nostalgic' display unveiled at shopping centre ([22 hours ago](https://www.bbc.com/news/articles/c8629g410x0o?at_medium=RSS&at_campaign=rss))
+- New section of A417 Missing Link project to open ([4 hours ago](https://www.bbc.com/news/articles/c1kynzvlk8xo?at_medium=RSS&at_campaign=rss))
+- 'Being able to play football again is just amazing' ([4 hours ago](https://www.bbc.com/news/articles/czde1vvqvevo?at_medium=RSS&at_campaign=rss))
+- Can pubs stay open late for World Cup matches? ([4 hours ago](https://www.bbc.com/news/articles/czx5rwpde1eo?at_medium=RSS&at_campaign=rss))
+- 'Worrying' pollution in Cotswolds river - volunteers ([16 hours ago](https://www.bbc.com/news/articles/c0eynd2ndz7o?at_medium=RSS&at_campaign=rss))
+- 'Nostalgic' display unveiled at shopping centre ([1 days ago](https://www.bbc.com/news/articles/c8629g410x0o?at_medium=RSS&at_campaign=rss))
 - Woman, 103, publishes first book alongside podcasts ([1 days ago](https://www.bbc.com/news/articles/ckg50nr314lo?at_medium=RSS&at_campaign=rss))
 - UK pint prices up 36% since last World Cup – here's why ([1 days ago](https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss))
 - Man jailed for abuse and humiliation of woman ([1 days ago](https://www.bbc.com/news/articles/c4gyqnp55eyo?at_medium=RSS&at_campaign=rss))
@@ -48,7 +48,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man due to be sentenced following investigation ([27 days ago](https://gloucesternewscentre.co.uk/man-due-to-be-sentenced-following-investigation/))
 - Golden Valley will be fitting legacy for Borough Council, leader believes ([28 days ago](https://gloucesternewscentre.co.uk/golden-valley-will-be-fitting-legacy-for-borough-council-leader-believes/))
 - ‘Good progress’ in efforts to reopen Cheltenham maternity unit this year ([28 days ago](https://gloucesternewscentre.co.uk/good-progress-in-efforts-to-reopen-cheltenham-maternity-unit-this-year/))
-- A40 Over bridge works to bring months of delays near Gloucester ([28 days ago](https://www.bbc.co.uk/sounds/play/p0nkxhvd?at_medium=RSS&at_campaign=rss))
+- A40 Over bridge works to bring months of delays near Gloucester ([29 days ago](https://www.bbc.co.uk/sounds/play/p0nkxhvd?at_medium=RSS&at_campaign=rss))
 - Family pay tribute to “much-loved husband and devoted dad” Andy Reed ([29 days ago](https://gloucesternewscentre.co.uk/family-pay-tribute-to-much-loved-husband-and-devoted-dad-andy-reed/))
 
 <!-- news_marker ends -->

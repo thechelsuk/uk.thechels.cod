@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 11th June :- [9599606](https://www.fixmystreet.com/report/9599606)
 - Mirror obstructed by hedgerows/trees, 10th June :- [9599014](https://www.fixmystreet.com/report/9599014)
 - Sign facing in the wrong direction, 10th June :- [9598339](https://www.fixmystreet.com/report/9598339)
 - Tree down blocking bridleway. No other way pass on a horse., 10th June :- [9597988](https://www.fixmystreet.com/report/9597988)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Getting worse, 10th June :- [9595854](https://www.fixmystreet.com/report/9595854)
 - 2 trees, 10th June :- [9595824](https://www.fixmystreet.com/report/9595824)
 - Dumped microwve and rubbish bag, 10th June :- [9595810](https://www.fixmystreet.com/report/9595810)
-- Overgrown large bush / tree, 10th June :- [9595463](https://www.fixmystreet.com/report/9595463)
 
 <!-- fix_marker ends -->

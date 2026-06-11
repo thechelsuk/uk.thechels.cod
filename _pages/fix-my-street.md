@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole outside 83 Warden Hill Road again., 11th June :- [9605352](https://www.fixmystreet.com/report/9605352)
+- Fallen Wall, 11th June :- [9605224](https://www.fixmystreet.com/report/9605224)
 - Multiple potholes in usual place as latest repair has failed, 11th June :- [9598918](https://www.fixmystreet.com/report/9598918)
 - Large number of potholes at junction of chancel way/st Edward’s walk and school rear exit roadway and pavement, 11th June :- [9604971](https://www.fixmystreet.com/report/9604971)
 - Low hanging broken tree branch overhanging the road, 11th June :- [9604856](https://www.fixmystreet.com/report/9604856)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Yellow no parking/clearway cones blocking footway o/s n.42 plus several yellow correx signs still mounted on lamp columns regarding a maintenance event & parking restriction that was completed towards the end of last month!, 11th June :- [9604490](https://www.fixmystreet.com/report/9604490)
 - Roundabout need resurfacing, 11th June :- [9604453](https://www.fixmystreet.com/report/9604453)
 - STREETWORKS!... Recently renewed ironwork is already banging & clanking like hell - needs redoing or getting contractor/utility back pronto if not originally undertaken by GCC., 11th June :- [9604450](https://www.fixmystreet.com/report/9604450)
-- Ponding on pavement dice to uneven surface and poor reinstatement works outside 157/159 Hucclecote Road, 11th June :- [9604424](https://www.fixmystreet.com/report/9604424)
-- Ponding on pavement due to poor quality reinstatement works outside 155 Hucclecote Road, 11th June :- [9604404](https://www.fixmystreet.com/report/9604404)
 
 <!-- fix_marker ends -->

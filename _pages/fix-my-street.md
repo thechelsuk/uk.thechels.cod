@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 11th June :- [9602792](https://www.fixmystreet.com/report/9602792)
+- TMC - Defects - Other problem, 11th June :- [9602785](https://www.fixmystreet.com/report/9602785)
+- Tree is damaged problem, 11th June :- [9602583](https://www.fixmystreet.com/report/9602583)
+- An inspection chamber cover in the public footpath has been driven over and damaged. The cover has partial sunken in and rocks when you walk over it. This represents a significant trip hazard., 11th June :- [9602289](https://www.fixmystreet.com/report/9602289)
+- Tunnel under road is flooded, 11th June :- [9602077](https://www.fixmystreet.com/report/9602077)
+- Pothole in the middle of the road., 11th June :- [9602028](https://www.fixmystreet.com/report/9602028)
 - Second Report of Multiple Potholes, 11th June :- [9601800](https://www.fixmystreet.com/report/9601800)
 - Blocked drain carlton place, 11th June :- [9601599](https://www.fixmystreet.com/report/9601599)
 - Blocked drain st Pauls Road, 11th June :- [9601556](https://www.fixmystreet.com/report/9601556)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Drain blocked, 11th June :- [9600430](https://www.fixmystreet.com/report/9600430)
 - A pothole in road problem, 11th June :- [9599606](https://www.fixmystreet.com/report/9599606)
 - Mirror obstructed by hedgerows/trees, 10th June :- [9599014](https://www.fixmystreet.com/report/9599014)
-- Sign facing in the wrong direction, 10th June :- [9598339](https://www.fixmystreet.com/report/9598339)
-- Tree down blocking bridleway. No other way pass on a horse., 10th June :- [9597988](https://www.fixmystreet.com/report/9597988)
-- Half a job done, 10th June :- [9597851](https://www.fixmystreet.com/report/9597851)
-- Flytipped item, 10th June :- [9597757](https://www.fixmystreet.com/report/9597757)
-- Pothole outside No. 6 Brookway Rd, 10th June :- [9597686](https://www.fixmystreet.com/report/9597686)
-- Fence erected over 1.5 m. Causing vison obstruction for traffic/people using deep street , church lane, 10th June :- [9597579](https://www.fixmystreet.com/report/9597579)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- At the junction of Buckholt Road and the B40470 new pothole around manhole cover, 12th June :- [9606362](https://www.fixmystreet.com/report/9606362)
 - Potholes and broken up road between carriageways turning right from Telstar Way onto A40, 11th June :- [9606113](https://www.fixmystreet.com/report/9606113)
 - A double white mattress dumped for a week, 11th June :- [9605975](https://www.fixmystreet.com/report/9605975)
 - There is a large white double fridge dumped outside, 11th June :- [9605935](https://www.fixmystreet.com/report/9605935)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Group of potholes over about 20 metres near to Lamppost 4 Fairhaven, 11th June :- [9604626](https://www.fixmystreet.com/report/9604626)
 - Weeds growing out of detritus and loose road chippings also lot of loose chippings in road, 11th June :- [9604596](https://www.fixmystreet.com/report/9604596)
 - Green light not working, 11th June :- [9604591](https://www.fixmystreet.com/report/9604591)
-- Group of 5 potholes over about 15 metres middle of road opposite 2A Fairhavrn, 11th June :- [9604571](https://www.fixmystreet.com/report/9604571)
 
 <!-- fix_marker ends -->

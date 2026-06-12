@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 12 June 2026
 
-- The average temperature today is 15.56˚C,
-- With highs of 16.4˚C and lows of 14.83˚C,
-- It may feel like 15.44˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 4415m
-- The pressure is 1017hPa and humidity is 87%
+- The average temperature today is 16.63˚C,
+- With highs of 17.62˚C and lows of 16.09˚C,
+- It may feel like 16.57˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 85%
 - The sun will rise at 03:49 and set at 20:27
 
 <!-- weather_marker ends -->

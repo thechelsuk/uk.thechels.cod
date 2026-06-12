@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain in road completely blocked, 12th June :- [9607117](https://www.fixmystreet.com/report/9607117)
+- Large Dead Badger in Road, 12th June :- [9607058](https://www.fixmystreet.com/report/9607058)
+- Fly tipping rubbish bye pumping station, 12th June :- [9605837](https://www.fixmystreet.com/report/9605837)
 - At the junction of Buckholt Road and the B40470 new pothole around manhole cover, 12th June :- [9606362](https://www.fixmystreet.com/report/9606362)
 - Potholes and broken up road between carriageways turning right from Telstar Way onto A40, 11th June :- [9606113](https://www.fixmystreet.com/report/9606113)
 - A double white mattress dumped for a week, 11th June :- [9605975](https://www.fixmystreet.com/report/9605975)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Pothole opposite entrance to block of flats, 11th June :- [9604684](https://www.fixmystreet.com/report/9604684)
 - Pothole on area of old reinstatement works failed about 30 metres from phone box nearly opposite national star shop, 11th June :- [9604672](https://www.fixmystreet.com/report/9604672)
 - Disabled bay is never used by blue badge holder and is therefore redundant (check your records for intended user and verify) and needs restoring to a conventional bay to ease local parling difficulties., 11th June :- [9604649](https://www.fixmystreet.com/report/9604649)
-- Group of potholes over about 20 metres near to Lamppost 4 Fairhaven, 11th June :- [9604626](https://www.fixmystreet.com/report/9604626)
-- Weeds growing out of detritus and loose road chippings also lot of loose chippings in road, 11th June :- [9604596](https://www.fixmystreet.com/report/9604596)
-- Green light not working, 11th June :- [9604591](https://www.fixmystreet.com/report/9604591)
 
 <!-- fix_marker ends -->

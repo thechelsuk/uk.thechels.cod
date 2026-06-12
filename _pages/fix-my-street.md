@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned vehicle with no tax, CU59NJO, 12th June :- [9611455](https://www.fixmystreet.com/report/9611455)
+- Abandoned untaxed no-MOT car EF59GYJ, 12th June :- [9611440](https://www.fixmystreet.com/report/9611440)
+- Pothole in road near bend causing cars to swerve and is dangerous, 12th June :- [9611354](https://www.fixmystreet.com/report/9611354)
+- Green light flickers and goes out, 12th June :- [9611246](https://www.fixmystreet.com/report/9611246)
+- The picture is of the field prior to arriving at the footpath for an idea of where it is. Overgrown weeds and brambles, 12th June :- [9611122](https://www.fixmystreet.com/report/9611122)
 - Long time standing water, 12th June :- [9610831](https://www.fixmystreet.com/report/9610831)
 - Damaged bench, 12th June :- [9610708](https://www.fixmystreet.com/report/9610708)
 - Branches falling from trees, 12th June :- [9610490](https://www.fixmystreet.com/report/9610490)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 12th June :- [9610022](https://www.fixmystreet.com/report/9610022)
 - TMC - Defects -CW10 Potholes problem, 12th June :- [9610020](https://www.fixmystreet.com/report/9610020)
 - TMC - Defects -CW10 Potholes problem, 12th June :- [9610024](https://www.fixmystreet.com/report/9610024)
-- Broken tree overhanging riad, 12th June :- [9609662](https://www.fixmystreet.com/report/9609662)
-- Big pot hole with sharp edge, 12th June :- [9609541](https://www.fixmystreet.com/report/9609541)
-- Fly tipping near wardens wood, 12th June :- [9609471](https://www.fixmystreet.com/report/9609471)
-- TMC - Defects -CW10 Potholes problem, 12th June :- [9609344](https://www.fixmystreet.com/report/9609344)
-- TMC - Defects -CW10 Potholes problem, 12th June :- [9609343](https://www.fixmystreet.com/report/9609343)
 
 <!-- fix_marker ends -->

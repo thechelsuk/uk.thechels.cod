@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Long time standing water, 12th June :- [9610831](https://www.fixmystreet.com/report/9610831)
+- Damaged bench, 12th June :- [9610708](https://www.fixmystreet.com/report/9610708)
+- Branches falling from trees, 12th June :- [9610490](https://www.fixmystreet.com/report/9610490)
+- TMC - Defects -CW6 Potholes  problem, 12th June :- [9610473](https://www.fixmystreet.com/report/9610473)
+- TMC - Defects -CW6 Potholes  problem, 12th June :- [9610466](https://www.fixmystreet.com/report/9610466)
+- TMC - Defects -CW6 Potholes  problem, 12th June :- [9610467](https://www.fixmystreet.com/report/9610467)
 - Barriers around damaged roundabout at junction of Bath Road, Shurdington Road and Leckhampton Road,, 12th June :- [9610175](https://www.fixmystreet.com/report/9610175)
 - Dog poo bin at crickley hill needs emptying, 12th June :- [9609039](https://www.fixmystreet.com/report/9609039)
 - TMC - Defects - Other problem, 12th June :- [9610038](https://www.fixmystreet.com/report/9610038)
@@ -21,13 +27,7 @@ permalink: /fix-my-street
 - Broken tree overhanging riad, 12th June :- [9609662](https://www.fixmystreet.com/report/9609662)
 - Big pot hole with sharp edge, 12th June :- [9609541](https://www.fixmystreet.com/report/9609541)
 - Fly tipping near wardens wood, 12th June :- [9609471](https://www.fixmystreet.com/report/9609471)
-- TMC - Defects -CW10 Potholes problem, 12th June :- [9609343](https://www.fixmystreet.com/report/9609343)
 - TMC - Defects -CW10 Potholes problem, 12th June :- [9609344](https://www.fixmystreet.com/report/9609344)
-- Post or sign leaning slightly (less than 20 degrees) problem, 12th June :- [9609331](https://www.fixmystreet.com/report/9609331)
-- Vegetation spilling onto roadway on both sides, long overdue a cutback, 12th June :- [9609120](https://www.fixmystreet.com/report/9609120)
-- Post or sign leaning slightly (less than 20 degrees) problem, 12th June :- [9609097](https://www.fixmystreet.com/report/9609097)
-- TMC - Defects - Vegetation problem, 12th June :- [9608889](https://www.fixmystreet.com/report/9608889)
-- TMC - Defects -CW10 Potholes problem, 12th June :- [9608881](https://www.fixmystreet.com/report/9608881)
-- TMC - Defects -CW10 Potholes problem, 12th June :- [9608880](https://www.fixmystreet.com/report/9608880)
+- TMC - Defects -CW10 Potholes problem, 12th June :- [9609343](https://www.fixmystreet.com/report/9609343)
 
 <!-- fix_marker ends -->

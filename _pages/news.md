@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Preferred new council names put forward ([6 hours ago](https://gloucesternewscentre.co.uk/preferred-new-council-names-put-forward/))
-- Tributes to 'kindest boy' after sudden death ([10 hours ago](https://www.bbc.com/news/articles/cvgd9xpnq50o?at_medium=RSS&at_campaign=rss))
-- Can pubs stay open late for World Cup matches? ([11 hours ago](https://www.bbc.com/news/articles/czx5rwpde1eo?at_medium=RSS&at_campaign=rss))
-- E-scooters could soon be rolled out to new areas ([11 hours ago](https://www.bbc.com/news/articles/ckg4rkv31gpo?at_medium=RSS&at_campaign=rss))
-- New section of A417 Missing Link project to open ([17 hours ago](https://www.bbc.com/news/articles/c1kynzvlk8xo?at_medium=RSS&at_campaign=rss))
-- 'Being able to play football again is just amazing' ([17 hours ago](https://www.bbc.com/news/articles/czde1vvqvevo?at_medium=RSS&at_campaign=rss))
+- Preferred new council names put forward ([8 hours ago](https://gloucesternewscentre.co.uk/preferred-new-council-names-put-forward/))
+- Tributes to 'kindest boy' after sudden death ([12 hours ago](https://www.bbc.com/news/articles/cvgd9xpnq50o?at_medium=RSS&at_campaign=rss))
+- Can pubs stay open late for World Cup matches? ([13 hours ago](https://www.bbc.com/news/articles/czx5rwpde1eo?at_medium=RSS&at_campaign=rss))
+- E-scooters could soon be rolled out to new areas ([13 hours ago](https://www.bbc.com/news/articles/ckg4rkv31gpo?at_medium=RSS&at_campaign=rss))
+- New section of A417 Missing Link project to open ([20 hours ago](https://www.bbc.com/news/articles/c1kynzvlk8xo?at_medium=RSS&at_campaign=rss))
+- 'Being able to play football again is just amazing' ([20 hours ago](https://www.bbc.com/news/articles/czde1vvqvevo?at_medium=RSS&at_campaign=rss))
 - 'Worrying' pollution in Cotswolds river - volunteers ([1 days ago](https://www.bbc.com/news/articles/c0eynd2ndz7o?at_medium=RSS&at_campaign=rss))
 - 'Nostalgic' display unveiled at shopping centre ([1 days ago](https://www.bbc.com/news/articles/c8629g410x0o?at_medium=RSS&at_campaign=rss))
 - Woman, 103, publishes first book alongside podcasts ([1 days ago](https://www.bbc.com/news/articles/ckg50nr314lo?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poor quality of repairs, 12th June :- [9608170](https://www.fixmystreet.com/report/9608170)
+- Flooding opposite Bulford close evevery time it rains,water is bypassing drain on the main road because it has partially collapsed, 12th June :- [9601034](https://www.fixmystreet.com/report/9601034)
+- Particularly bad patch of road in front of 7-9 Clyde Road, 12th June :- [9608153](https://www.fixmystreet.com/report/9608153)
+- Small pothole on entrance to Tamar Road on Trent Road, 12th June :- [9608114](https://www.fixmystreet.com/report/9608114)
+- Degraded reinstatement works outside main school entrance - there are a number of similar issues here which have been here so long they have been painted over, 12th June :- [9607996](https://www.fixmystreet.com/report/9607996)
+- Degraded tarmac around drain grid at entrance to brethren meting room on vicarage road also adjoining pavement is poor condition too, 12th June :- [9607975](https://www.fixmystreet.com/report/9607975)
+- TMC - Defects - Vegetation problem, 12th June :- [9608088](https://www.fixmystreet.com/report/9608088)
+- Degraded pothole repairs at entrance to Vicarage Lane just after traffic table ends, 12th June :- [9607952](https://www.fixmystreet.com/report/9607952)
+- Ermin Street - degraded roadway around sewer access point, 12th June :- [9607925](https://www.fixmystreet.com/report/9607925)
+- Degraded sewer access cover opposite Invista entrance near 37 Ermin Street, 12th June :- [9607905](https://www.fixmystreet.com/report/9607905)
+- Light sensor is not detecting vehicles problem, 12th June :- [9608072](https://www.fixmystreet.com/report/9608072)
 - Drain in road completely blocked, 12th June :- [9607117](https://www.fixmystreet.com/report/9607117)
 - Large Dead Badger in Road, 12th June :- [9607058](https://www.fixmystreet.com/report/9607058)
 - Fly tipping rubbish bye pumping station, 12th June :- [9605837](https://www.fixmystreet.com/report/9605837)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - There is a large white double fridge dumped outside, 11th June :- [9605935](https://www.fixmystreet.com/report/9605935)
 - Pothole outside 83 Warden Hill Road again., 11th June :- [9605352](https://www.fixmystreet.com/report/9605352)
 - Fallen Wall, 11th June :- [9605224](https://www.fixmystreet.com/report/9605224)
-- Multiple potholes in usual place as latest repair has failed, 11th June :- [9598918](https://www.fixmystreet.com/report/9598918)
-- Large number of potholes at junction of chancel way/st Edward’s walk and school rear exit roadway and pavement, 11th June :- [9604971](https://www.fixmystreet.com/report/9604971)
-- Low hanging broken tree branch overhanging the road, 11th June :- [9604856](https://www.fixmystreet.com/report/9604856)
-- Pothole at entrance to Invista site on Ermin Street, 11th June :- [9604730](https://www.fixmystreet.com/report/9604730)
-- Signage left behind when a metal bollard was removed, 11th June :- [9604711](https://www.fixmystreet.com/report/9604711)
-- Another section of failed reinstatement works about 50 metres from Green Street junction on Ermin Street, 11th June :- [9604710](https://www.fixmystreet.com/report/9604710)
-- Priority roadmarkings need installing at this loc'n as two vehicles cannot pass at this awkward pinchpoint elbow in carriageway, frequent roadrage incidents as a result over priority and several minor RTCs (only minor as to date no vehicles has yet veered into pedestrians/other legitimate footway users)., 11th June :- [9604700](https://www.fixmystreet.com/report/9604700)
-- Reinstatement works failed - Ermin street 30 metres from Green Street junction, 11th June :- [9604697](https://www.fixmystreet.com/report/9604697)
-- Pothole opposite entrance to block of flats, 11th June :- [9604684](https://www.fixmystreet.com/report/9604684)
-- Pothole on area of old reinstatement works failed about 30 metres from phone box nearly opposite national star shop, 11th June :- [9604672](https://www.fixmystreet.com/report/9604672)
-- Disabled bay is never used by blue badge holder and is therefore redundant (check your records for intended user and verify) and needs restoring to a conventional bay to ease local parling difficulties., 11th June :- [9604649](https://www.fixmystreet.com/report/9604649)
 
 <!-- fix_marker ends -->

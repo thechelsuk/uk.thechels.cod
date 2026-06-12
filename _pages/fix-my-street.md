@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vegetation spilling onto roadway on both sides, long overdue a cutback, 12th June :- [9609120](https://www.fixmystreet.com/report/9609120)
+- Post or sign leaning slightly (less than 20 degrees) problem, 12th June :- [9609097](https://www.fixmystreet.com/report/9609097)
+- TMC - Defects - Vegetation problem, 12th June :- [9608889](https://www.fixmystreet.com/report/9608889)
+- TMC - Defects -CW10 Potholes problem, 12th June :- [9608880](https://www.fixmystreet.com/report/9608880)
+- TMC - Defects -CW10 Potholes problem, 12th June :- [9608881](https://www.fixmystreet.com/report/9608881)
+- Obstruction caused by fence problem, 12th June :- [9608860](https://www.fixmystreet.com/report/9608860)
+- Huge Ash tree , Ash die-back evident, huge branch overhanging the Public High Way ( Butts Lane), 12th June :- [9608504](https://www.fixmystreet.com/report/9608504)
+- TMC - Defects -CW10 Potholes problem, 12th June :- [9608868](https://www.fixmystreet.com/report/9608868)
+- TMC - Defects -CW10 Potholes problem, 12th June :- [9608867](https://www.fixmystreet.com/report/9608867)
+- TMC - Defects -CW10 Potholes problem, 12th June :- [9608866](https://www.fixmystreet.com/report/9608866)
+- TMC - Defects -CW10 Potholes problem, 12th June :- [9608864](https://www.fixmystreet.com/report/9608864)
 - Poor quality of repairs, 12th June :- [9608170](https://www.fixmystreet.com/report/9608170)
 - Flooding opposite Bulford close evevery time it rains,water is bypassing drain on the main road because it has partially collapsed, 12th June :- [9601034](https://www.fixmystreet.com/report/9601034)
 - Particularly bad patch of road in front of 7-9 Clyde Road, 12th June :- [9608153](https://www.fixmystreet.com/report/9608153)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 12th June :- [9608088](https://www.fixmystreet.com/report/9608088)
 - Degraded pothole repairs at entrance to Vicarage Lane just after traffic table ends, 12th June :- [9607952](https://www.fixmystreet.com/report/9607952)
 - Ermin Street - degraded roadway around sewer access point, 12th June :- [9607925](https://www.fixmystreet.com/report/9607925)
-- Degraded sewer access cover opposite Invista entrance near 37 Ermin Street, 12th June :- [9607905](https://www.fixmystreet.com/report/9607905)
-- Light sensor is not detecting vehicles problem, 12th June :- [9608072](https://www.fixmystreet.com/report/9608072)
-- Drain in road completely blocked, 12th June :- [9607117](https://www.fixmystreet.com/report/9607117)
-- Large Dead Badger in Road, 12th June :- [9607058](https://www.fixmystreet.com/report/9607058)
-- Fly tipping rubbish bye pumping station, 12th June :- [9605837](https://www.fixmystreet.com/report/9605837)
-- At the junction of Buckholt Road and the B40470 new pothole around manhole cover, 12th June :- [9606362](https://www.fixmystreet.com/report/9606362)
-- Potholes and broken up road between carriageways turning right from Telstar Way onto A40, 11th June :- [9606113](https://www.fixmystreet.com/report/9606113)
-- A double white mattress dumped for a week, 11th June :- [9605975](https://www.fixmystreet.com/report/9605975)
-- There is a large white double fridge dumped outside, 11th June :- [9605935](https://www.fixmystreet.com/report/9605935)
-- Pothole outside 83 Warden Hill Road again., 11th June :- [9605352](https://www.fixmystreet.com/report/9605352)
-- Fallen Wall, 11th June :- [9605224](https://www.fixmystreet.com/report/9605224)
 
 <!-- fix_marker ends -->

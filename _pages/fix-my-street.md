@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Cement ramp added, 13th June :- [9615478](https://www.fixmystreet.com/report/9615478)
 - Previously reported damage to road not repaired, 13th June :- [9615095](https://www.fixmystreet.com/report/9615095)
 - A row of potholes , been fixed before but now quite dangerous, 13th June :- [9615052](https://www.fixmystreet.com/report/9615052)
 - Nitrous Oxide canister, 13th June :- [9615021](https://www.fixmystreet.com/report/9615021)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Big holes in the park off Paygrove Lane / Park Avenue, 13th June :- [9614521](https://www.fixmystreet.com/report/9614521)
 - Over hanging tree, 13th June :- [9614362](https://www.fixmystreet.com/report/9614362)
 - Pothole just before the giveaway section again, 13th June :- [9614236](https://www.fixmystreet.com/report/9614236)
-- Volunteer litter pick bags ready for collection, 13th June :- [9614208](https://www.fixmystreet.com/report/9614208)
 
 <!-- fix_marker ends -->

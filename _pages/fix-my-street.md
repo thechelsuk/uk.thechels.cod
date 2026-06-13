@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Trees block the traffic lights., 13th June :- [9614532](https://www.fixmystreet.com/report/9614532)
+- Big holes in the park off Paygrove Lane / Park Avenue, 13th June :- [9614521](https://www.fixmystreet.com/report/9614521)
+- Over hanging tree, 13th June :- [9614362](https://www.fixmystreet.com/report/9614362)
 - Pothole just before the giveaway section again, 13th June :- [9614236](https://www.fixmystreet.com/report/9614236)
 - Volunteer litter pick bags ready for collection, 13th June :- [9614208](https://www.fixmystreet.com/report/9614208)
 - Fly tipping, 13th June :- [9614189](https://www.fixmystreet.com/report/9614189)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Abandoned untaxed no-MOT car EF59GYJ, 12th June :- [9611440](https://www.fixmystreet.com/report/9611440)
 - Pothole in road near bend causing cars to swerve and is dangerous, 12th June :- [9611354](https://www.fixmystreet.com/report/9611354)
 - Green light flickers and goes out, 12th June :- [9611246](https://www.fixmystreet.com/report/9611246)
-- The picture is of the field prior to arriving at the footpath for an idea of where it is. Overgrown weeds and brambles, 12th June :- [9611122](https://www.fixmystreet.com/report/9611122)
-- Long time standing water, 12th June :- [9610831](https://www.fixmystreet.com/report/9610831)
-- Damaged bench, 12th June :- [9610708](https://www.fixmystreet.com/report/9610708)
 
 <!-- fix_marker ends -->

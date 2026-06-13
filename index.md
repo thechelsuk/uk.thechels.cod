@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 13 June 2026
 
-- The average temperature today is 14.44˚C,
-- With highs of 14.44˚C and lows of 14.44˚C,
-- It may feel like 13.82˚C with broken clouds
-- The wind speed is 2.84m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 72%
+- The average temperature today is 11.64˚C,
+- With highs of 12.14˚C and lows of 11.4˚C,
+- It may feel like 10.97˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 81%
 - The sun will rise at 03:48 and set at 20:28
 
 <!-- weather_marker ends -->

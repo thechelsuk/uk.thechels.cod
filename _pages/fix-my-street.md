@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Giant hogweed growing on verge before the railway bridge on Hyde Lane on side of road towards kingsditch. Very obviously giant hogweed, 13th June :- [9606011](https://www.fixmystreet.com/report/9606011)
+- Crashed into car on side of road, 13th June :- [9612777](https://www.fixmystreet.com/report/9612777)
 - Blocked Drain, 12th June :- [9563884](https://www.fixmystreet.com/report/9563884)
 - Several potholes down Malden Road from the junction with Central Cross Drive, going southwards, (towards town.), 12th June :- [9612147](https://www.fixmystreet.com/report/9612147)
 - Could not locate Public footpath after passing through the farmyard from Shurdington, 12th June :- [9611923](https://www.fixmystreet.com/report/9611923)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th June :- [9610466](https://www.fixmystreet.com/report/9610466)
 - Barriers around damaged roundabout at junction of Bath Road, Shurdington Road and Leckhampton Road,, 12th June :- [9610175](https://www.fixmystreet.com/report/9610175)
 - Dog poo bin at crickley hill needs emptying, 12th June :- [9609039](https://www.fixmystreet.com/report/9609039)
-- TMC - Defects - Other problem, 12th June :- [9610038](https://www.fixmystreet.com/report/9610038)
-- Green or amber traffic light is not working problem, 12th June :- [9610018](https://www.fixmystreet.com/report/9610018)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole just before the giveaway section again, 13th June :- [9614236](https://www.fixmystreet.com/report/9614236)
+- Volunteer litter pick bags ready for collection, 13th June :- [9614208](https://www.fixmystreet.com/report/9614208)
+- Fly tipping, 13th June :- [9614189](https://www.fixmystreet.com/report/9614189)
+- Giant hogweed in flower on verge, 13th June :- [9614127](https://www.fixmystreet.com/report/9614127)
+- Overhang too low, 13th June :- [9614039](https://www.fixmystreet.com/report/9614039)
 - Fly poster promoting purchasing weed canabis, 13th June :- [9613651](https://www.fixmystreet.com/report/9613651)
 - Giant hogweed growing on verge before the railway bridge on Hyde Lane on side of road towards kingsditch. Very obviously giant hogweed, 13th June :- [9606011](https://www.fixmystreet.com/report/9606011)
 - Crashed into car on side of road, 13th June :- [9612777](https://www.fixmystreet.com/report/9612777)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - The picture is of the field prior to arriving at the footpath for an idea of where it is. Overgrown weeds and brambles, 12th June :- [9611122](https://www.fixmystreet.com/report/9611122)
 - Long time standing water, 12th June :- [9610831](https://www.fixmystreet.com/report/9610831)
 - Damaged bench, 12th June :- [9610708](https://www.fixmystreet.com/report/9610708)
-- Branches falling from trees, 12th June :- [9610490](https://www.fixmystreet.com/report/9610490)
-- TMC - Defects -CW6 Potholes  problem, 12th June :- [9610473](https://www.fixmystreet.com/report/9610473)
-- TMC - Defects -CW6 Potholes  problem, 12th June :- [9610467](https://www.fixmystreet.com/report/9610467)
-- TMC - Defects -CW6 Potholes  problem, 12th June :- [9610466](https://www.fixmystreet.com/report/9610466)
-- Barriers around damaged roundabout at junction of Bath Road, Shurdington Road and Leckhampton Road,, 12th June :- [9610175](https://www.fixmystreet.com/report/9610175)
 
 <!-- fix_marker ends -->

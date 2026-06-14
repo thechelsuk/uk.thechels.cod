@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In Pictures: Action Man balloon, cheese rolling and a royal wedding ([9 minutes ago](https://www.bbc.com/news/articles/cd0me5n2p0ko?at_medium=RSS&at_campaign=rss))
-- 'I thought I was broken - but I was just undiagnosed' ([11 minutes ago](https://www.bbc.com/news/articles/c1my9emmk0eo?at_medium=RSS&at_campaign=rss))
-- 'Teens threw stones at man before racially abusing him' ([16 hours ago](https://www.bbc.com/news/articles/crlwkkl7gd5o?at_medium=RSS&at_campaign=rss))
-- Bus hero and town crier in King's Birthday Honours ([18 hours ago](https://www.bbc.com/news/articles/czxq53gynrgo?at_medium=RSS&at_campaign=rss))
-- Charity shops are closing amid 'terrifying' costs ([23 hours ago](https://www.bbc.com/news/articles/cn8p8vm311mo?at_medium=RSS&at_campaign=rss))
-- 'World Cup flag warning' and 'Police called to Hinkley dispute' ([23 hours ago](https://www.bbc.com/news/articles/cgmdg1480x2o?at_medium=RSS&at_campaign=rss))
+- In Pictures: Action Man balloon, cheese rolling and a royal wedding ([2 hours ago](https://www.bbc.com/news/articles/cd0me5n2p0ko?at_medium=RSS&at_campaign=rss))
+- 'I thought I was broken - I was just undiagnosed' ([2 hours ago](https://www.bbc.com/news/articles/c1my9emmk0eo?at_medium=RSS&at_campaign=rss))
+- 'Teens threw stones at man before racially abusing him' ([18 hours ago](https://www.bbc.com/news/articles/crlwkkl7gd5o?at_medium=RSS&at_campaign=rss))
+- Bus hero and town crier in King's Birthday Honours ([20 hours ago](https://www.bbc.com/news/articles/czxq53gynrgo?at_medium=RSS&at_campaign=rss))
+- Charity shops are closing amid 'terrifying' costs ([1 days ago](https://www.bbc.com/news/articles/cn8p8vm311mo?at_medium=RSS&at_campaign=rss))
+- 'World Cup flag warning' and 'Police called to Hinkley dispute' ([1 days ago](https://www.bbc.com/news/articles/cgmdg1480x2o?at_medium=RSS&at_campaign=rss))
 - Man, 25, jailed for six years for burglary spree ([1 days ago](https://www.bbc.com/news/articles/ckg4n4ddv74o?at_medium=RSS&at_campaign=rss))
 - Council leader defends flying Pride flag ([1 days ago](https://www.bbc.com/news/articles/c982lrk6wy1o?at_medium=RSS&at_campaign=rss))
 - Young people urged to get meningitis B vaccine ([1 days ago](https://www.bbc.com/news/articles/ckg89pvnymro?at_medium=RSS&at_campaign=rss))

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Settee in sections - fly tipped, 14th June :- [9618897](https://www.fixmystreet.com/report/9618897)
+- Fallen branch, 14th June :- [9618830](https://www.fixmystreet.com/report/9618830)
+- Since the pedestrian crossing went live at this traffic light junction, traffic now backs up regularly all the way back to the London Rd, College & Hewlett Rd traffic light junction., 14th June :- [9618692](https://www.fixmystreet.com/report/9618692)
 - Flytipping - lots of full boxes, 14th June :- [9618311](https://www.fixmystreet.com/report/9618311)
 - Numerous potholes and delamination, 14th June :- [9618013](https://www.fixmystreet.com/report/9618013)
 - Pothole likely to cause damage to vehicles, 14th June :- [9617961](https://www.fixmystreet.com/report/9617961)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Kerb edging smashed or missing at many places along foot/cycle pathway, 14th June :- [9617441](https://www.fixmystreet.com/report/9617441)
 - Barriers from recent works in dangerous positions, 14th June :- [9617437](https://www.fixmystreet.com/report/9617437)
 - Unable to see/use style both sides due to hedgerow growth, 14th June :- [9617417](https://www.fixmystreet.com/report/9617417)
-- Temporary road sign face down in verge, 14th June :- [9617405](https://www.fixmystreet.com/report/9617405)
-- Drain is blocked and rain spills out onto the road, 14th June :- [9617022](https://www.fixmystreet.com/report/9617022)
-- Loose manhole or drain cover, 14th June :- [9616863](https://www.fixmystreet.com/report/9616863)
 
 <!-- fix_marker ends -->

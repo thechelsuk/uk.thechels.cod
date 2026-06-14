@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Kerb edging smashed or missing at many places along foot/cycle pathway, 14th June :- [9617441](https://www.fixmystreet.com/report/9617441)
+- Barriers from recent works in dangerous positions, 14th June :- [9617437](https://www.fixmystreet.com/report/9617437)
+- Unable to see/use style both sides due to hedgerow growth, 14th June :- [9617417](https://www.fixmystreet.com/report/9617417)
+- Temporary road sign face down in verge, 14th June :- [9617405](https://www.fixmystreet.com/report/9617405)
+- Drain is blocked and rain spills out onto the road, 14th June :- [9617022](https://www.fixmystreet.com/report/9617022)
 - Loose manhole or drain cover, 14th June :- [9616863](https://www.fixmystreet.com/report/9616863)
 - Fly tipping, 14th June :- [9616539](https://www.fixmystreet.com/report/9616539)
 - Cement ramp added, 13th June :- [9615478](https://www.fixmystreet.com/report/9615478)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - 2 potholes in front of 105 greenbank as illustrated in photo, 13th June :- [9614847](https://www.fixmystreet.com/report/9614847)
 - Three potholes in front of 105-107 Greenbank as shown in photo, 13th June :- [9614836](https://www.fixmystreet.com/report/9614836)
 - Junction of Green Street with Watermead has multiple potholes over about a 5 metre section, 13th June :- [9614817](https://www.fixmystreet.com/report/9614817)
-- Green Street (spur from A46) from dead end to junction with watermead is severely poor condition, 13th June :- [9614813](https://www.fixmystreet.com/report/9614813)
-- Pothole in Green Street near boundary between 31 and 33, 13th June :- [9614794](https://www.fixmystreet.com/report/9614794)
-- Potholes in Green Street adjacent to 5-7, 13th June :- [9614778](https://www.fixmystreet.com/report/9614778)
-- Trees block the traffic lights., 13th June :- [9614532](https://www.fixmystreet.com/report/9614532)
-- Big holes in the park off Paygrove Lane / Park Avenue, 13th June :- [9614521](https://www.fixmystreet.com/report/9614521)
 
 <!-- fix_marker ends -->

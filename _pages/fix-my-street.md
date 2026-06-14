@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumped fridge and chair, 14th June :- [9617797](https://www.fixmystreet.com/report/9617797)
+- Abbotswood Mini roundabout is in very poor condition, 14th June :- [9617698](https://www.fixmystreet.com/report/9617698)
+- Large area of detritus in middle is road on Ermin street near Abottswood roundabout, 14th June :- [9617675](https://www.fixmystreet.com/report/9617675)
+- Loose sewer cover rattling every time vehicle goes over it on A46 near Toby Carvery entrance, 14th June :- [9617638](https://www.fixmystreet.com/report/9617638)
+- Pothold in middle of road, at junction of Cheltenham Road East, Parton Road and Innsworth Lane, 14th June :- [9617627](https://www.fixmystreet.com/report/9617627)
+- High level of detritus and weeds growing in detritus in middle of A46 near to Toby Carvery, 14th June :- [9617626](https://www.fixmystreet.com/report/9617626)
+- Entrance to Toby Carvery (within Highway boundary) there are series of potholes more prominent on entrance lane, 14th June :- [9617606](https://www.fixmystreet.com/report/9617606)
+- Weeds up to 12ft high, 5ft nettles, brambes, path basically blocked, 14th June :- [9617595](https://www.fixmystreet.com/report/9617595)
+- Pothole on Giveway junction at Oldbury Orchard/Paynes Pitch, 14th June :- [9617551](https://www.fixmystreet.com/report/9617551)
+- Edging stones from recent works raised and moving, 14th June :- [9617460](https://www.fixmystreet.com/report/9617460)
+- Multiple Signs left against the wall on the footpath near the roundabout, 14th June :- [9617449](https://www.fixmystreet.com/report/9617449)
 - Kerb edging smashed or missing at many places along foot/cycle pathway, 14th June :- [9617441](https://www.fixmystreet.com/report/9617441)
 - Barriers from recent works in dangerous positions, 14th June :- [9617437](https://www.fixmystreet.com/report/9617437)
 - Unable to see/use style both sides due to hedgerow growth, 14th June :- [9617417](https://www.fixmystreet.com/report/9617417)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 14th June :- [9616539](https://www.fixmystreet.com/report/9616539)
 - Cement ramp added, 13th June :- [9615478](https://www.fixmystreet.com/report/9615478)
 - Previously reported damage to road not repaired, 13th June :- [9615095](https://www.fixmystreet.com/report/9615095)
-- A row of potholes , been fixed before but now quite dangerous, 13th June :- [9615052](https://www.fixmystreet.com/report/9615052)
-- Nitrous Oxide canister, 13th June :- [9615021](https://www.fixmystreet.com/report/9615021)
-- Number of potholes on junction of Lea Road with Moorfield Road, 13th June :- [9614981](https://www.fixmystreet.com/report/9614981)
-- Two areas of broken surface outside 4 Hebden close, 13th June :- [9614959](https://www.fixmystreet.com/report/9614959)
-- Pathways completely overgrown, 13th June :- [9614949](https://www.fixmystreet.com/report/9614949)
-- Series of potholes on entrance/exit from Tone Road, 13th June :- [9614941](https://www.fixmystreet.com/report/9614941)
-- 2 potholes in greenbank in front of No 24, 13th June :- [9614897](https://www.fixmystreet.com/report/9614897)
-- Area of deteriorating roadway in front of no 1 of roadway leading to Wildwalk Walk, 13th June :- [9614874](https://www.fixmystreet.com/report/9614874)
-- 2 potholes in front of 105 greenbank as illustrated in photo, 13th June :- [9614847](https://www.fixmystreet.com/report/9614847)
-- Three potholes in front of 105-107 Greenbank as shown in photo, 13th June :- [9614836](https://www.fixmystreet.com/report/9614836)
-- Junction of Green Street with Watermead has multiple potholes over about a 5 metre section, 13th June :- [9614817](https://www.fixmystreet.com/report/9614817)
 
 <!-- fix_marker ends -->

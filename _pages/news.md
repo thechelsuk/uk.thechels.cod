@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- A&E to remain open as doctors' strike called off ([3 hours ago](https://www.bbc.com/news/articles/cy8wpz316lgo?at_medium=RSS&at_campaign=rss))
-- In Pictures: Action Man balloon, cheese rolling and a royal wedding ([11 hours ago](https://www.bbc.com/news/articles/cd0me5n2p0ko?at_medium=RSS&at_campaign=rss))
-- 'I was not broken - I had undiagnosed ADHD' ([11 hours ago](https://www.bbc.com/news/articles/c1my9emmk0eo?at_medium=RSS&at_campaign=rss))
+- A&E to remain open as doctors' strike called off ([5 hours ago](https://www.bbc.com/news/articles/cy8wpz316lgo?at_medium=RSS&at_campaign=rss))
+- In Pictures: Action Man balloon, cheese rolling and a royal wedding ([13 hours ago](https://www.bbc.com/news/articles/cd0me5n2p0ko?at_medium=RSS&at_campaign=rss))
+- 'I was not broken - I had undiagnosed ADHD' ([13 hours ago](https://www.bbc.com/news/articles/c1my9emmk0eo?at_medium=RSS&at_campaign=rss))
 - 'Teens threw stones at man before racially abusing him' ([1 days ago](https://www.bbc.com/news/articles/crlwkkl7gd5o?at_medium=RSS&at_campaign=rss))
 - Bus hero and town crier in King's Birthday Honours ([1 days ago](https://www.bbc.com/news/articles/czxq53gynrgo?at_medium=RSS&at_campaign=rss))
 - Charity shops are closing amid 'terrifying' costs ([1 days ago](https://www.bbc.com/news/articles/cn8p8vm311mo?at_medium=RSS&at_campaign=rss))

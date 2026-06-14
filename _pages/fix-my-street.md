@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping - lots of full boxes, 14th June :- [9618311](https://www.fixmystreet.com/report/9618311)
+- Numerous potholes and delamination, 14th June :- [9618013](https://www.fixmystreet.com/report/9618013)
+- Pothole likely to cause damage to vehicles, 14th June :- [9617961](https://www.fixmystreet.com/report/9617961)
 - Dumped fridge and chair, 14th June :- [9617797](https://www.fixmystreet.com/report/9617797)
 - Abbotswood Mini roundabout is in very poor condition, 14th June :- [9617698](https://www.fixmystreet.com/report/9617698)
 - Large area of detritus in middle is road on Ermin street near Abottswood roundabout, 14th June :- [9617675](https://www.fixmystreet.com/report/9617675)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Temporary road sign face down in verge, 14th June :- [9617405](https://www.fixmystreet.com/report/9617405)
 - Drain is blocked and rain spills out onto the road, 14th June :- [9617022](https://www.fixmystreet.com/report/9617022)
 - Loose manhole or drain cover, 14th June :- [9616863](https://www.fixmystreet.com/report/9616863)
-- Fly tipping, 14th June :- [9616539](https://www.fixmystreet.com/report/9616539)
-- Cement ramp added, 13th June :- [9615478](https://www.fixmystreet.com/report/9615478)
-- Previously reported damage to road not repaired, 13th June :- [9615095](https://www.fixmystreet.com/report/9615095)
 
 <!-- fix_marker ends -->

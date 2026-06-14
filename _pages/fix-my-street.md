@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement is slumping down and disintergrating due to being used continually for parking from bournside school. It is very dangerous as diffrent levels and trip hazzard, 14th June :- [9619448](https://www.fixmystreet.com/report/9619448)
 - Settee in sections - fly tipped, 14th June :- [9618897](https://www.fixmystreet.com/report/9618897)
 - Fallen branch, 14th June :- [9618830](https://www.fixmystreet.com/report/9618830)
 - Since the pedestrian crossing went live at this traffic light junction, traffic now backs up regularly all the way back to the London Rd, College & Hewlett Rd traffic light junction., 14th June :- [9618692](https://www.fixmystreet.com/report/9618692)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Multiple Signs left against the wall on the footpath near the roundabout, 14th June :- [9617449](https://www.fixmystreet.com/report/9617449)
 - Kerb edging smashed or missing at many places along foot/cycle pathway, 14th June :- [9617441](https://www.fixmystreet.com/report/9617441)
 - Barriers from recent works in dangerous positions, 14th June :- [9617437](https://www.fixmystreet.com/report/9617437)
-- Unable to see/use style both sides due to hedgerow growth, 14th June :- [9617417](https://www.fixmystreet.com/report/9617417)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose manhole or drain cover, 14th June :- [9616863](https://www.fixmystreet.com/report/9616863)
+- Fly tipping, 14th June :- [9616539](https://www.fixmystreet.com/report/9616539)
 - Cement ramp added, 13th June :- [9615478](https://www.fixmystreet.com/report/9615478)
 - Previously reported damage to road not repaired, 13th June :- [9615095](https://www.fixmystreet.com/report/9615095)
 - A row of potholes , been fixed before but now quite dangerous, 13th June :- [9615052](https://www.fixmystreet.com/report/9615052)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Potholes in Green Street adjacent to 5-7, 13th June :- [9614778](https://www.fixmystreet.com/report/9614778)
 - Trees block the traffic lights., 13th June :- [9614532](https://www.fixmystreet.com/report/9614532)
 - Big holes in the park off Paygrove Lane / Park Avenue, 13th June :- [9614521](https://www.fixmystreet.com/report/9614521)
-- Over hanging tree, 13th June :- [9614362](https://www.fixmystreet.com/report/9614362)
-- Pothole just before the giveaway section again, 13th June :- [9614236](https://www.fixmystreet.com/report/9614236)
 
 <!-- fix_marker ends -->

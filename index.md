@@ -12,8 +12,8 @@ permalink: /
 ## On Monday, 15 June 2026
 
 - The average temperature today is 13.31˚C,
-- With highs of 13.31˚C and lows of 13.31˚C,
-- It may feel like 12.84˚C with overcast clouds
+- With highs of 14.83˚C and lows of 13.31˚C,
+- It may feel like 12.84˚C with light rain
 - The wind speed is 3.58m/s and visibility is 10000m
 - The pressure is 1011hPa and humidity is 82%
 - The sun will rise at 03:48 and set at 20:29

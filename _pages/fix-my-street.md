@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Christmas trees, 15th June :- [9620333](https://www.fixmystreet.com/report/9620333)
 - We have no bus shelter since a car dismantled it during Cheltenham race week. We are getting soaked, waiting for the bus, in the rain., 14th June :- [9619940](https://www.fixmystreet.com/report/9619940)
 - Pavement is slumping down and disintergrating due to being used continually for parking from bournside school. It is very dangerous as diffrent levels and trip hazzard, 14th June :- [9619448](https://www.fixmystreet.com/report/9619448)
 - Settee in sections - fly tipped, 14th June :- [9618897](https://www.fixmystreet.com/report/9618897)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole on Giveway junction at Oldbury Orchard/Paynes Pitch, 14th June :- [9617551](https://www.fixmystreet.com/report/9617551)
 - Edging stones from recent works raised and moving, 14th June :- [9617460](https://www.fixmystreet.com/report/9617460)
 - Multiple Signs left against the wall on the footpath near the roundabout, 14th June :- [9617449](https://www.fixmystreet.com/report/9617449)
-- Kerb edging smashed or missing at many places along foot/cycle pathway, 14th June :- [9617441](https://www.fixmystreet.com/report/9617441)
 
 <!-- fix_marker ends -->

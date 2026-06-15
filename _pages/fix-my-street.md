@@ -9,7 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree pulling on overhead broadband line, 15th June :- [9625205](https://www.fixmystreet.com/report/9625205)
+- Broken bin, 15th June :- [9625101](https://www.fixmystreet.com/report/9625101)
+- A pothole in road problem, 15th June :- [9625140](https://www.fixmystreet.com/report/9625140)
+- TMC - Defects - Signs & Street Furniture problem, 15th June :- [9625147](https://www.fixmystreet.com/report/9625147)
 - Beer boxes and large nitrous oxide cannisters, 15th June :- [9624948](https://www.fixmystreet.com/report/9624948)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 15th June :- [9625138](https://www.fixmystreet.com/report/9625138)
+- TMC - Defects -CW6 Potholes  problem, 15th June :- [9625145](https://www.fixmystreet.com/report/9625145)
+- TMC - Defects -CW6 Potholes  problem, 15th June :- [9625144](https://www.fixmystreet.com/report/9625144)
+- TMC - Defects -CW6 Potholes  problem, 15th June :- [9625141](https://www.fixmystreet.com/report/9625141)
 - TMC - Defects -CW6 Potholes  problem, 15th June :- [9624631](https://www.fixmystreet.com/report/9624631)
 - Cirencester Road leading to Little Witcombe - pavement narrowed by weeds growing in detritus, 15th June :- [9624509](https://www.fixmystreet.com/report/9624509)
 - TMC - Defects -CW6 Potholes  problem, 15th June :- [9624630](https://www.fixmystreet.com/report/9624630)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 15th June :- [9624064](https://www.fixmystreet.com/report/9624064)
 - TMC - Defects - Vegetation problem, 15th June :- [9624059](https://www.fixmystreet.com/report/9624059)
 - TMC - Defects - Vegetation problem, 15th June :- [9624062](https://www.fixmystreet.com/report/9624062)
-- TMC - Defects - Vegetation problem, 15th June :- [9624061](https://www.fixmystreet.com/report/9624061)
-- TMC - Defects - Vegetation problem, 15th June :- [9624057](https://www.fixmystreet.com/report/9624057)
-- TMC - Defects - Vegetation problem, 15th June :- [9624056](https://www.fixmystreet.com/report/9624056)
-- TMC - Defects - Vegetation problem, 15th June :- [9624060](https://www.fixmystreet.com/report/9624060)
-- TMC - Defects - Vegetation problem, 15th June :- [9624058](https://www.fixmystreet.com/report/9624058)
-- TMC - Defects - Vegetation problem, 15th June :- [9624055](https://www.fixmystreet.com/report/9624055)
-- TMC - Defects - Vegetation problem, 15th June :- [9624054](https://www.fixmystreet.com/report/9624054)
-- TMC - Defects - Other FW6  Surface problem, 15th June :- [9624052](https://www.fixmystreet.com/report/9624052)
 
 <!-- fix_marker ends -->

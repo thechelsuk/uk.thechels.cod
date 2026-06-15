@@ -12,10 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Green light for car boot sale amid cycle path hazard fears ([1 hours ago](https://gloucesternewscentre.co.uk/green-light-for-car-boot-sale-amid-cycle-path-hazard-fears/))
-- Social media ban 'fantastic' says bereaved mum ([5 hours ago](https://www.bbc.com/news/articles/cj9g23vmz42o?at_medium=RSS&at_campaign=rss))
-- Motorbike school will 'push on' despite robberies ([13 hours ago](https://www.bbc.com/news/articles/cj9g0012mm0o?at_medium=RSS&at_campaign=rss))
-- Can you block a driveway without a dropped kerb? ([13 hours ago](https://www.bbc.com/news/articles/c775y0ledk6o?at_medium=RSS&at_campaign=rss))
+- NHS fined after death traced to contaminated water ([49 minutes ago](https://www.bbc.com/news/articles/clywnlgjl8jo?at_medium=RSS&at_campaign=rss))
+- Green light for car boot sale amid cycle path hazard fears ([3 hours ago](https://gloucesternewscentre.co.uk/green-light-for-car-boot-sale-amid-cycle-path-hazard-fears/))
+- Social media ban 'fantastic' says bereaved mum ([7 hours ago](https://www.bbc.com/news/articles/cj9g23vmz42o?at_medium=RSS&at_campaign=rss))
+- Motorbike school will 'push on' despite robberies ([14 hours ago](https://www.bbc.com/news/articles/cj9g0012mm0o?at_medium=RSS&at_campaign=rss))
+- Can you block a driveway without a dropped kerb? ([14 hours ago](https://www.bbc.com/news/articles/c775y0ledk6o?at_medium=RSS&at_campaign=rss))
 - A&E to remain open as doctors' strike called off ([1 days ago](https://www.bbc.com/news/articles/cy8wpz316lgo?at_medium=RSS&at_campaign=rss))
 - In Pictures: Action Man balloon, cheese rolling and a royal wedding ([1 days ago](https://www.bbc.com/news/articles/cd0me5n2p0ko?at_medium=RSS&at_campaign=rss))
 - 'I was not broken - I had undiagnosed ADHD' ([1 days ago](https://www.bbc.com/news/articles/c1my9emmk0eo?at_medium=RSS&at_campaign=rss))
@@ -27,7 +28,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Council leader defends flying Pride flag ([3 days ago](https://www.bbc.com/news/articles/c982lrk6wy1o?at_medium=RSS&at_campaign=rss))
 - Young people urged to get meningitis B vaccine ([3 days ago](https://www.bbc.com/news/articles/ckg89pvnymro?at_medium=RSS&at_campaign=rss))
 - Major A&E changes announced amid strikes ([3 days ago](https://www.bbc.com/news/articles/c5yzdq8g758o?at_medium=RSS&at_campaign=rss))
-- 'Most unusual book' by Stroud author wins fiction prize ([3 days ago](https://www.bbc.com/news/articles/crkv0mv1p87o?at_medium=RSS&at_campaign=rss))
 - New city market expected to open within a year ([3 days ago](https://www.bbc.com/news/articles/cvgqrwv22ewo?at_medium=RSS&at_campaign=rss))
 - 'Police only took me seriously after my  TikTok post' ([3 days ago](https://www.bbc.com/news/articles/cgjpj42pvjgo?at_medium=RSS&at_campaign=rss))
 - Preferred new council names put forward ([4 days ago](https://gloucesternewscentre.co.uk/preferred-new-council-names-put-forward/))

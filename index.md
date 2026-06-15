@@ -9,13 +9,13 @@ permalink: /
 ![Logo](/images/logo.jpg){:width="860px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 14 June 2026
+## On Monday, 15 June 2026
 
-- The average temperature today is 14.36˚C,
-- With highs of 14.36˚C and lows of 14.36˚C,
-- It may feel like 13.89˚C with light rain
-- The wind speed is 2.89m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 78%
+- The average temperature today is 14.03˚C,
+- With highs of 14.42˚C and lows of 13.17˚C,
+- It may feel like 13.66˚C with light rain
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 83%
 - The sun will rise at 03:48 and set at 20:29
 
 <!-- weather_marker ends -->
@@ -45,7 +45,7 @@ Given proximity to GCHQ...
 ### SEVERE
 
 - Current Threat Level: SEVERE
-- It has been 45 days since the last change (2026-04-30)
+- It has been 46 days since the last change (2026-04-30)
 - Details: <p>The current national threat level is SEVERE. &nbsp;The threat to Northern Ireland from Northern Ireland-related terrorism is SUBSTANTIAL.</p>
 
 <!-- threat_marker ends -->

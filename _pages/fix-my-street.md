@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Grass is so long it is obscuring my view when reversing out of my drive causing a hazard. Also it is making the neighbourhood look scruffy, 15th June :- [9626126](https://www.fixmystreet.com/report/9626126)
+- Broken glass at skatepark, 15th June :- [9626112](https://www.fixmystreet.com/report/9626112)
 - Tree pulling on overhead broadband line, 15th June :- [9625205](https://www.fixmystreet.com/report/9625205)
 - Broken bin, 15th June :- [9625101](https://www.fixmystreet.com/report/9625101)
 - A pothole in road problem, 15th June :- [9625140](https://www.fixmystreet.com/report/9625140)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 15th June :- [9624308](https://www.fixmystreet.com/report/9624308)
 - TMC - Defects -CW10 Potholes problem, 15th June :- [9624063](https://www.fixmystreet.com/report/9624063)
 - TMC - Defects -CW10 Potholes problem, 15th June :- [9624064](https://www.fixmystreet.com/report/9624064)
-- TMC - Defects - Vegetation problem, 15th June :- [9624059](https://www.fixmystreet.com/report/9624059)
-- TMC - Defects - Vegetation problem, 15th June :- [9624062](https://www.fixmystreet.com/report/9624062)
 
 <!-- fix_marker ends -->

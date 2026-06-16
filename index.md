@@ -11,12 +11,12 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 16 June 2026
 
-- The average temperature today is 17.95˚C,
-- With highs of 18.15˚C and lows of 17.61˚C,
-- It may feel like 17.99˚C with light rain
+- The average temperature today is 17.21˚C,
+- With highs of 17.75˚C and lows of 17.04˚C,
+- It may feel like 17.31˚C with overcast clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 84%
-- The sun will rise at 03:48 and set at 20:29
+- The pressure is 1014hPa and humidity is 89%
+- The sun will rise at 03:48 and set at 20:30
 
 <!-- weather_marker ends -->
 

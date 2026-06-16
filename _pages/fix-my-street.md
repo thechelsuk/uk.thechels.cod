@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead Tree on Grass Verge, 16th June :- [9627994](https://www.fixmystreet.com/report/9627994)
 - Pothole or concrete collapse, 15th June :- [9627232](https://www.fixmystreet.com/report/9627232)
 - Grass is so long it is obscuring my view when reversing out of my drive causing a hazard. Also it is making the neighbourhood look scruffy, 15th June :- [9626126](https://www.fixmystreet.com/report/9626126)
 - Broken glass at skatepark, 15th June :- [9626112](https://www.fixmystreet.com/report/9626112)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - You can't make this stuff up!, 15th June :- [9624149](https://www.fixmystreet.com/report/9624149)
 - TMC - Defects - Vegetation problem, 15th June :- [9624310](https://www.fixmystreet.com/report/9624310)
 - TMC - Defects - Vegetation problem, 15th June :- [9624308](https://www.fixmystreet.com/report/9624308)
-- TMC - Defects -CW10 Potholes problem, 15th June :- [9624063](https://www.fixmystreet.com/report/9624063)
 
 <!-- fix_marker ends -->

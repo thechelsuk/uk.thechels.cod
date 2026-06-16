@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- NHS fined after death traced to contaminated water ([6 hours ago](https://www.bbc.com/news/articles/clywnlgjl8jo?at_medium=RSS&at_campaign=rss))
-- Green light for car boot sale amid cycle path hazard fears ([8 hours ago](https://gloucesternewscentre.co.uk/green-light-for-car-boot-sale-amid-cycle-path-hazard-fears/))
-- Social media ban 'fantastic' says bereaved mum ([13 hours ago](https://www.bbc.com/news/articles/cj9g23vmz42o?at_medium=RSS&at_campaign=rss))
-- Motorbike school will 'push on' despite thefts ([20 hours ago](https://www.bbc.com/news/articles/cj9g0012mm0o?at_medium=RSS&at_campaign=rss))
-- Can you block a driveway without a dropped kerb? ([20 hours ago](https://www.bbc.com/news/articles/c775y0ledk6o?at_medium=RSS&at_campaign=rss))
+- NHS fined after death traced to contaminated water ([9 hours ago](https://www.bbc.com/news/articles/clywnlgjl8jo?at_medium=RSS&at_campaign=rss))
+- Green light for car boot sale amid cycle path hazard fears ([11 hours ago](https://gloucesternewscentre.co.uk/green-light-for-car-boot-sale-amid-cycle-path-hazard-fears/))
+- Social media ban 'fantastic' says bereaved mum ([15 hours ago](https://www.bbc.com/news/articles/cj9g23vmz42o?at_medium=RSS&at_campaign=rss))
+- Motorbike school will 'push on' despite thefts ([23 hours ago](https://www.bbc.com/news/articles/cj9g0012mm0o?at_medium=RSS&at_campaign=rss))
+- Can you block a driveway without a dropped kerb? ([23 hours ago](https://www.bbc.com/news/articles/c775y0ledk6o?at_medium=RSS&at_campaign=rss))
 - A&E to remain open as doctors' strike called off ([1 days ago](https://www.bbc.com/news/articles/cy8wpz316lgo?at_medium=RSS&at_campaign=rss))
 - In Pictures: Action Man balloon, cheese rolling and a royal wedding ([1 days ago](https://www.bbc.com/news/articles/cd0me5n2p0ko?at_medium=RSS&at_campaign=rss))
 - 'I was not broken - I had undiagnosed ADHD' ([1 days ago](https://www.bbc.com/news/articles/c1my9emmk0eo?at_medium=RSS&at_campaign=rss))

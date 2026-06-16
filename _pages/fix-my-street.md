@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole, 16th June :- [9633491](https://www.fixmystreet.com/report/9633491)
+- Whole merb is collapsed, 16th June :- [9633432](https://www.fixmystreet.com/report/9633432)
+- By traffic light crossing, 16th June :- [9633405](https://www.fixmystreet.com/report/9633405)
+- Hole in the road, 16th June :- [9633287](https://www.fixmystreet.com/report/9633287)
+- Collapsed manhole cover, 16th June :- [9633345](https://www.fixmystreet.com/report/9633345)
 - Mess Russell street no 20.(again), 16th June :- [9632883](https://www.fixmystreet.com/report/9632883)
 - Please add a keep clear or double yellow lines in this turning space., 16th June :- [9632864](https://www.fixmystreet.com/report/9632864)
 - Overgrown nettles blocking back access to property, 16th June :- [9632794](https://www.fixmystreet.com/report/9632794)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Rocking Slab outside 41 Arle Gardens, 16th June :- [9631978](https://www.fixmystreet.com/report/9631978)
 - TMC - Defects -CW6 Potholes  problem, 16th June :- [9632100](https://www.fixmystreet.com/report/9632100)
 - TMC - Defects -CW6 Potholes  problem, 16th June :- [9632101](https://www.fixmystreet.com/report/9632101)
-- TMC - Defects -CW6 Potholes  problem, 16th June :- [9632102](https://www.fixmystreet.com/report/9632102)
-- TMC - Defects -CW6 Potholes  problem, 16th June :- [9632095](https://www.fixmystreet.com/report/9632095)
-- TMC - Defects -CW6 Potholes  problem, 16th June :- [9632099](https://www.fixmystreet.com/report/9632099)
-- TMC - Defects -CW6 Potholes  problem, 16th June :- [9632096](https://www.fixmystreet.com/report/9632096)
-- TMC - Defects -CW6 Potholes  problem, 16th June :- [9632098](https://www.fixmystreet.com/report/9632098)
 
 <!-- fix_marker ends -->

@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,24 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 17th June</title>
+<link>https://www.fixmystreet.com/report/9638644</link>
+<description>2 hour make safe with x4 small barriers if possible damaged chamber frame in grass verge (Damaged Street Furniture)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9638644&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9638644</guid>
+<pubDate>Wed, 17 Jun 2026 15:13:46 +0100</pubDate>
+<georss:point>51.8891634 -2.11353380000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Signs &amp; Street Furniture problem, 17th June</title>
+<link>https://www.fixmystreet.com/report/9638639</link>
+<description>Road closure  28 day  please replace x1 non laminated keep left  bollard stats required (Damaged Bollard)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9638639&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Signs &amp; Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9638639</guid>
+<pubDate>Wed, 17 Jun 2026 15:05:33 +0100</pubDate>
+<georss:point>51.8924086 -2.13020450000001</georss:point>
+</item>
 <item>
 <title>A pothole in road problem, 17th June</title>
 <link>https://www.fixmystreet.com/report/9638405</link>
@@ -40,6 +58,15 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9638411</guid>
 <pubDate>Wed, 17 Jun 2026 14:24:47 +0100</pubDate>
 <georss:point>51.8971204 -2.117928</georss:point>
+</item>
+<item>
+<title>Bollard shell is damaged/vandalised (Non illuminating bollard or post) problem, 17th June</title>
+<link>https://www.fixmystreet.com/report/9638636</link>
+<description>Customer asking for details of when the bollard will be reinstated by Highways as people are parking here.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9638636&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Bollard shell is damaged/vandalised (Non illuminating bollard or post)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9638636</guid>
+<pubDate>Wed, 17 Jun 2026 14:19:58 +0100</pubDate>
+<georss:point>51.878275 -2.16212</georss:point>
 </item>
 <item>
 <title>Fly tipping, 17th June</title>
@@ -88,21 +115,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 17th June</title>
-<link>https://www.fixmystreet.com/report/9637963</link>
-<description>28day with road closure CW pothole 1200x550x55mm perm repair narrow road unsuitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9637963&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9637963</guid>
-<pubDate>Wed, 17 Jun 2026 13:48:54 +0100</pubDate>
-<georss:point>51.8427917 -2.05782799999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 17th June</title>
 <link>https://www.fixmystreet.com/report/9637962</link>
 <description>28day with road closure CW pothole 600x500x50mm perm repair narrow road unsuitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9637962&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9637962</guid>
 <pubDate>Wed, 17 Jun 2026 13:48:54 +0100</pubDate>
 <georss:point>51.8427671774562 -2.05776595003212</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 17th June</title>
+<link>https://www.fixmystreet.com/report/9637963</link>
+<description>28day with road closure CW pothole 1200x550x55mm perm repair narrow road unsuitable for large vehicles (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9637963&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9637963</guid>
+<pubDate>Wed, 17 Jun 2026 13:48:54 +0100</pubDate>
+<georss:point>51.8427917 -2.05782799999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 17th June</title>
@@ -166,33 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9637717</guid>
 <pubDate>Wed, 17 Jun 2026 13:29:40 +0100</pubDate>
 <georss:point>51.8580861 -2.19481110000001</georss:point>
-</item>
-<item>
-<title>Overgrown hedge on pavement on Bath Parade opposite park, 17th June</title>
-<link>https://www.fixmystreet.com/report/9637663</link>
-<description>From Bath Parade Cheltenham the pavement starting opposite end of parking places on Sandford Park side to College Road there is an overgrown hedge causing an obstruction which is where I fell. It happened between 9.15 and 9.30 today.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9637663.0.jpeg?a0d2f666&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 42, Bath Parade, Ewens Farm, Cheltenham, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9637663&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other damage to pavement i.e. cobbles, raised mound/surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9637663</guid>
-<pubDate>Wed, 17 Jun 2026 13:29:10 +0100</pubDate>
-<georss:point>51.895706 -2.071764</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 17th June</title>
-<link>https://www.fixmystreet.com/report/9637711</link>
-<description>CW Pothole 300mm x 300mm x 43mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside number 22 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9637711&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9637711</guid>
-<pubDate>Wed, 17 Jun 2026 13:14:17 +0100</pubDate>
-<georss:point>51.8945179 -2.12140960000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 17th June</title>
-<link>https://www.fixmystreet.com/report/9637712</link>
-<description>CW Pothole 500mm x 300mm x 42mm&amp;#10;Temporary Closure 15min db &amp;#10;Outside number 22 (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9637712&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9637712</guid>
-<pubDate>Wed, 17 Jun 2026 13:14:17 +0100</pubDate>
-<georss:point>51.8945215 -2.12138549999999</georss:point>
 </item>
 </channel>
 </rss>

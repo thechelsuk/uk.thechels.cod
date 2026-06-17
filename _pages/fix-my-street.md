@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The bus stop is no longer in use and should be removed. People still stand tgere wauting for tge 97/98 bus, 17th June :- [9639734](https://www.fixmystreet.com/report/9639734)
+- Uncut grass, 17th June :- [9639504](https://www.fixmystreet.com/report/9639504)
 - TMC - Defects - Signs & Street Furniture problem, 17th June :- [9638644](https://www.fixmystreet.com/report/9638644)
 - TMC - Defects - Signs & Street Furniture problem, 17th June :- [9638639](https://www.fixmystreet.com/report/9638639)
 - A pothole in road problem, 17th June :- [9638405](https://www.fixmystreet.com/report/9638405)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Graffit, 17th June :- [9637742](https://www.fixmystreet.com/report/9637742)
 - Post or sign leaning slightly (less than 20 degrees) problem, 17th June :- [9637939](https://www.fixmystreet.com/report/9637939)
 - TMC - Defects -CW10 Potholes problem, 17th June :- [9637718](https://www.fixmystreet.com/report/9637718)
-- TMC - Defects -CW6 Potholes  problem, 17th June :- [9637716](https://www.fixmystreet.com/report/9637716)
-- TMC - Defects -CW6 Potholes  problem, 17th June :- [9637717](https://www.fixmystreet.com/report/9637717)
 
 <!-- fix_marker ends -->

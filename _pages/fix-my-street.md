@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole in road, 17th June :- [9640584](https://www.fixmystreet.com/report/9640584)
 - Giant hogweed- may touch cyclists and will cause permanent skin damage, 17th June :- [9639847](https://www.fixmystreet.com/report/9639847)
 - The bus stop is no longer in use and should be removed. People still stand tgere wauting for tge 97/98 bus, 17th June :- [9639734](https://www.fixmystreet.com/report/9639734)
 - Uncut grass, 17th June :- [9639504](https://www.fixmystreet.com/report/9639504)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 17th June :- [9637945](https://www.fixmystreet.com/report/9637945)
 - Post or sign leaning slightly (less than 20 degrees) problem, 17th June :- [9637940](https://www.fixmystreet.com/report/9637940)
 - Graffit, 17th June :- [9637742](https://www.fixmystreet.com/report/9637742)
-- Post or sign leaning slightly (less than 20 degrees) problem, 17th June :- [9637939](https://www.fixmystreet.com/report/9637939)
 
 <!-- fix_marker ends -->

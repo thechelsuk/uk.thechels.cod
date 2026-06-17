@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 17 June 2026
 
-- The average temperature today is 18.52˚C,
-- With highs of 19.41˚C and lows of 18.15˚C,
-- It may feel like 18.73˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 88%
+- The average temperature today is 20.09˚C,
+- With highs of 20.52˚C and lows of 19.83˚C,
+- It may feel like 20.27˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 81%
 - The sun will rise at 03:48 and set at 20:30
 
 <!-- weather_marker ends -->

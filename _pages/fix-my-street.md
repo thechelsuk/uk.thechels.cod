@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish, 18th June :- [9646544](https://www.fixmystreet.com/report/9646544)
+- Disgusting fly tipping, 18th June :- [9646533](https://www.fixmystreet.com/report/9646533)
+- Flying tipping, 18th June :- [9646526](https://www.fixmystreet.com/report/9646526)
+- Junk, 18th June :- [9646518](https://www.fixmystreet.com/report/9646518)
+- Parked on corner and on pavement, 18th June :- [9646292](https://www.fixmystreet.com/report/9646292)
 - The height of signage and placememt at junction when in car mini vx crossland, 18th June :- [9645753](https://www.fixmystreet.com/report/9645753)
 - Pathway from bus stop is overgrown causing walkers to step into the road to get through. This is highly dangerous, 18th June :- [9645398](https://www.fixmystreet.com/report/9645398)
 - Innsworth Lane is extremely dangerous for pedestrians, especially at school times, and needs traffic lights or at least a pedestrian crossing., 18th June :- [9645429](https://www.fixmystreet.com/report/9645429)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Footways Slabs problem, 18th June :- [9644790](https://www.fixmystreet.com/report/9644790)
 - TMC - Defects - Footways Slabs problem, 18th June :- [9644789](https://www.fixmystreet.com/report/9644789)
 - Dangerous crossing requires zebra crossing, 18th June :- [9644662](https://www.fixmystreet.com/report/9644662)
-- Overgrown verge obstructing view from junction, 18th June :- [9644636](https://www.fixmystreet.com/report/9644636)
-- TMC - Defects -CW6 Potholes  problem, 18th June :- [9644770](https://www.fixmystreet.com/report/9644770)
-- TMC - Defects -CW6 Potholes  problem, 18th June :- [9644767](https://www.fixmystreet.com/report/9644767)
-- TMC - Defects -CW6 Potholes  problem, 18th June :- [9644769](https://www.fixmystreet.com/report/9644769)
-- TMC - Defects -CW6 Potholes  problem, 18th June :- [9644768](https://www.fixmystreet.com/report/9644768)
 
 <!-- fix_marker ends -->

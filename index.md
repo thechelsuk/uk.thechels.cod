@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 18 June 2026
 
-- The average temperature today is 23.3˚C,
-- With highs of 23.3˚C and lows of 23.3˚C,
-- It may feel like 23.64˚C with overcast clouds
-- The wind speed is 4.05m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 75%
+- The average temperature today is 20.28˚C,
+- With highs of 20.28˚C and lows of 20.28˚C,
+- It may feel like 20.43˚C with few clouds
+- The wind speed is 3.23m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 79%
 - The sun will rise at 03:48 and set at 20:30
 
 <!-- weather_marker ends -->

@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Two men arrested after shot fired ([7 hours ago](https://www.bbc.com/news/articles/c33yz2651rko?at_medium=RSS&at_campaign=rss))
-- Park remains closed after moles dig up asbestos ([8 hours ago](https://www.bbc.com/news/articles/cx2kyd5404po?at_medium=RSS&at_campaign=rss))
-- Shipbuilder worried for future amid silt in docks ([15 hours ago](https://www.bbc.com/news/articles/cm2rd26n173o?at_medium=RSS&at_campaign=rss))
-- Rare 1950s speedboat returns to lake after 60 years ([20 hours ago](https://www.bbc.com/news/articles/c78k8r593m1o?at_medium=RSS&at_campaign=rss))
-- Under-16s social media ban: What parents need to know ([20 hours ago](https://www.bbc.com/news/articles/cp3xy3gq79eo?at_medium=RSS&at_campaign=rss))
+- Two men arrested after shot fired ([10 hours ago](https://www.bbc.com/news/articles/c33yz2651rko?at_medium=RSS&at_campaign=rss))
+- Park remains closed after moles dig up asbestos ([11 hours ago](https://www.bbc.com/news/articles/cx2kyd5404po?at_medium=RSS&at_campaign=rss))
+- Shipbuilder worried for future amid silt in docks ([18 hours ago](https://www.bbc.com/news/articles/cm2rd26n173o?at_medium=RSS&at_campaign=rss))
+- Rare 1950s speedboat returns to lake after 60 years ([22 hours ago](https://www.bbc.com/news/articles/c78k8r593m1o?at_medium=RSS&at_campaign=rss))
+- Under-16s social media ban: What parents need to know ([23 hours ago](https://www.bbc.com/news/articles/cp3xy3gq79eo?at_medium=RSS&at_campaign=rss))
 - Presenter praises strangers' 'kindness' after theft ([1 days ago](https://www.bbc.com/news/articles/c0my90mnzweo?at_medium=RSS&at_campaign=rss))
 - Hurt social media firms' pockets, bereaved mum says ([1 days ago](https://www.bbc.com/news/articles/c79y3wddlg1o?at_medium=RSS&at_campaign=rss))
 - Aldi reveals locations for 16 new stores ([1 days ago](https://www.bbc.com/news/articles/c04y5924r53o?at_medium=RSS&at_campaign=rss))

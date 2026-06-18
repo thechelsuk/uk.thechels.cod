@@ -13,9 +13,9 @@ permalink: /
 
 - The average temperature today is 23.3˚C,
 - With highs of 23.3˚C and lows of 23.3˚C,
-- It may feel like 23.54˚C with overcast clouds
-- The wind speed is 4.36m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 71%
+- It may feel like 23.64˚C with overcast clouds
+- The wind speed is 4.05m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 75%
 - The sun will rise at 03:48 and set at 20:30
 
 <!-- weather_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Manhole causing noise when cars being driven over, 19th June :- [9652205](https://www.fixmystreet.com/report/9652205)
 - Pavement along driveway, 19th June :- [9651875](https://www.fixmystreet.com/report/9651875)
 - Pavement is severely damaged, with rocking slabs and damaged kerbs., 19th June :- [9651832](https://www.fixmystreet.com/report/9651832)
 - Dip on pavement after removing grown up grass, 19th June :- [9651761](https://www.fixmystreet.com/report/9651761)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Students rubbish, 19th June :- [9650157](https://www.fixmystreet.com/report/9650157)
 - TMC - Defects - Vegetation problem, 19th June :- [9650044](https://www.fixmystreet.com/report/9650044)
 - TMC - Defects -other CW6 problem, 19th June :- [9650040](https://www.fixmystreet.com/report/9650040)
-- TMC - Defects -other CW6 problem, 19th June :- [9650041](https://www.fixmystreet.com/report/9650041)
 
 <!-- fix_marker ends -->

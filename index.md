@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 19 June 2026
 
-- The average temperature today is 24.14˚C,
-- With highs of 25.13˚C and lows of 23.56˚C,
-- It may feel like 24.39˚C with broken clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 68%
+- The average temperature today is 21.51˚C,
+- With highs of 22.69˚C and lows of 21.08˚C,
+- It may feel like 21.73˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 77%
 - The sun will rise at 03:48 and set at 20:30
 
 <!-- weather_marker ends -->

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pavement along driveway, 19th June :- [9651875](https://www.fixmystreet.com/report/9651875)
+- Pavement is severely damaged, with rocking slabs and damaged kerbs., 19th June :- [9651832](https://www.fixmystreet.com/report/9651832)
+- Dip on pavement after removing grown up grass, 19th June :- [9651761](https://www.fixmystreet.com/report/9651761)
+- Several empty nitrous oxides canisters and associated cardboard boxes dumped at the side of the track., 19th June :- [9651678](https://www.fixmystreet.com/report/9651678)
 - Three broken slabs outside 81, 19th June :- [9651197](https://www.fixmystreet.com/report/9651197)
 - Large potholes, 19th June :- [9650857](https://www.fixmystreet.com/report/9650857)
 - Tree is damaged problem, 19th June :- [9650777](https://www.fixmystreet.com/report/9650777)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 19th June :- [9650044](https://www.fixmystreet.com/report/9650044)
 - TMC - Defects -other CW6 problem, 19th June :- [9650040](https://www.fixmystreet.com/report/9650040)
 - TMC - Defects -other CW6 problem, 19th June :- [9650041](https://www.fixmystreet.com/report/9650041)
-- TMC - Defects -CW6 Potholes  problem, 19th June :- [9650039](https://www.fixmystreet.com/report/9650039)
-- TMC - Defects -other CW6 problem, 19th June :- [9650038](https://www.fixmystreet.com/report/9650038)
-- People living in van, 19th June :- [9649874](https://www.fixmystreet.com/report/9649874)
-- Inconvenient parking, 19th June :- [9649754](https://www.fixmystreet.com/report/9649754)
 
 <!-- fix_marker ends -->

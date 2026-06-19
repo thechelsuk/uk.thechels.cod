@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overhanging branches impeding pavement, 19th June :- [9652625](https://www.fixmystreet.com/report/9652625)
+- Impaired visibility, 19th June :- [9652388](https://www.fixmystreet.com/report/9652388)
+- Junction obscured by tree or foliage, 19th June :- [9652346](https://www.fixmystreet.com/report/9652346)
 - Manhole causing noise when cars being driven over, 19th June :- [9652205](https://www.fixmystreet.com/report/9652205)
 - Pavement along driveway, 19th June :- [9651875](https://www.fixmystreet.com/report/9651875)
 - Pavement is severely damaged, with rocking slabs and damaged kerbs., 19th June :- [9651832](https://www.fixmystreet.com/report/9651832)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Streetlight out, 19th June :- [9650400](https://www.fixmystreet.com/report/9650400)
 - Double yellow lines across nursery driveway, 19th June :- [9650328](https://www.fixmystreet.com/report/9650328)
 - Pot holes everywhere, 19th June :- [9650300](https://www.fixmystreet.com/report/9650300)
-- Students rubbish, 19th June :- [9650157](https://www.fixmystreet.com/report/9650157)
-- TMC - Defects - Vegetation problem, 19th June :- [9650044](https://www.fixmystreet.com/report/9650044)
-- TMC - Defects -other CW6 problem, 19th June :- [9650040](https://www.fixmystreet.com/report/9650040)
 
 <!-- fix_marker ends -->

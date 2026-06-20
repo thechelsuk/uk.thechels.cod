@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole, 20th June :- [9654041](https://www.fixmystreet.com/report/9654041)
+- Large pothole, 20th June :- [9654030](https://www.fixmystreet.com/report/9654030)
 - Wooden Pallet, 20th June :- [9653416](https://www.fixmystreet.com/report/9653416)
 - Graffiti, 20th June :- [9653234](https://www.fixmystreet.com/report/9653234)
 - No streetlights working for the full stretch of road and hence the cycle path and bus stop are pitch black and dangerous, 20th June :- [9653085](https://www.fixmystreet.com/report/9653085)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The tree (not the pine tree) at the rear of my property on council land needs to be removed, 19th June :- [9650595](https://www.fixmystreet.com/report/9650595)
 - TMC - Defects -CW6 Potholes  problem, 19th June :- [9650603](https://www.fixmystreet.com/report/9650603)
 - Tree is damaged problem, 19th June :- [9650597](https://www.fixmystreet.com/report/9650597)
-- Tree is damaged problem, 19th June :- [9650596](https://www.fixmystreet.com/report/9650596)
-- TMC - Defects - Covers, Gratings & Frames problem, 19th June :- [9650598](https://www.fixmystreet.com/report/9650598)
 
 <!-- fix_marker ends -->

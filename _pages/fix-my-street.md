@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti, 20th June :- [9653234](https://www.fixmystreet.com/report/9653234)
 - No streetlights working for the full stretch of road and hence the cycle path and bus stop are pitch black and dangerous, 20th June :- [9653085](https://www.fixmystreet.com/report/9653085)
 - Overhanging branches impeding pavement, 19th June :- [9652625](https://www.fixmystreet.com/report/9652625)
 - Impaired visibility, 19th June :- [9652388](https://www.fixmystreet.com/report/9652388)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Tree is damaged problem, 19th June :- [9650596](https://www.fixmystreet.com/report/9650596)
 - TMC - Defects - Covers, Gratings & Frames problem, 19th June :- [9650598](https://www.fixmystreet.com/report/9650598)
 - Streetlight out, 19th June :- [9650400](https://www.fixmystreet.com/report/9650400)
-- Double yellow lines across nursery driveway, 19th June :- [9650328](https://www.fixmystreet.com/report/9650328)
 
 <!-- fix_marker ends -->

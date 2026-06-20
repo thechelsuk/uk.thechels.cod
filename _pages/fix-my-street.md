@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose drain cover is keeping us awake at night. This happens every few months. Can you please find a permanent solution. Thank you., 20th June :- [9655890](https://www.fixmystreet.com/report/9655890)
 - Outside 13 Insley Gardens, 20th June :- [9655278](https://www.fixmystreet.com/report/9655278)
 - Hole around water meter appeared within 24 hour period.Also hole in road appeared which neighbours filled with rubble, 20th June :- [9654392](https://www.fixmystreet.com/report/9654392)
 - Deep pothole, 20th June :- [9654041](https://www.fixmystreet.com/report/9654041)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large potholes, 19th June :- [9650857](https://www.fixmystreet.com/report/9650857)
 - Tree is damaged problem, 19th June :- [9650777](https://www.fixmystreet.com/report/9650777)
 - TMC - Defects -CW6 Potholes  problem, 19th June :- [9650778](https://www.fixmystreet.com/report/9650778)
-- The tree (not the pine tree) at the rear of my property on council land needs to be removed, 19th June :- [9650595](https://www.fixmystreet.com/report/9650595)
 
 <!-- fix_marker ends -->

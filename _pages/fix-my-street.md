@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hole around water meter appeared within 24 hour period.Also hole in road appeared which neighbours filled with rubble, 20th June :- [9654392](https://www.fixmystreet.com/report/9654392)
 - Deep pothole, 20th June :- [9654041](https://www.fixmystreet.com/report/9654041)
 - Large pothole, 20th June :- [9654030](https://www.fixmystreet.com/report/9654030)
 - Wooden Pallet, 20th June :- [9653416](https://www.fixmystreet.com/report/9653416)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 19th June :- [9650778](https://www.fixmystreet.com/report/9650778)
 - The tree (not the pine tree) at the rear of my property on council land needs to be removed, 19th June :- [9650595](https://www.fixmystreet.com/report/9650595)
 - TMC - Defects -CW6 Potholes  problem, 19th June :- [9650603](https://www.fixmystreet.com/report/9650603)
-- Tree is damaged problem, 19th June :- [9650597](https://www.fixmystreet.com/report/9650597)
 
 <!-- fix_marker ends -->

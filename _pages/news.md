@@ -12,14 +12,14 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- People offered chance to buy £500 shares in town hub ([5 hours ago](https://www.bbc.com/news/articles/cy06x19w348o?at_medium=RSS&at_campaign=rss))
-- Bridge linking Wales and England partly reopens - but will shut again if it gets too hot ([5 hours ago](https://www.bbc.com/news/articles/cvgdnwj003zo?at_medium=RSS&at_campaign=rss))
-- 'World Cup fan zones' and 'seagull saga' ([5 hours ago](https://www.bbc.com/news/articles/c05ymee33z2o?at_medium=RSS&at_campaign=rss))
-- Motorcycle gang members jailed for  'violent assault' ([18 hours ago](https://www.bbc.com/news/articles/cp9l2p1pn8vo?at_medium=RSS&at_campaign=rss))
-- Arrest as man in critical condition after attack ([19 hours ago](https://www.bbc.com/news/articles/cd7wgl7q23xo?at_medium=RSS&at_campaign=rss))
-- Murder accused teenagers appear in court ([21 hours ago](https://www.bbc.com/news/articles/cn4rgr279l0o?at_medium=RSS&at_campaign=rss))
-- Man in hospital after seven-vehicle crash ([21 hours ago](https://www.bbc.com/news/articles/cd0mlm9xgk8o?at_medium=RSS&at_campaign=rss))
-- MP arrested on suspicion of assault and coercion ([22 hours ago](https://www.bbc.com/news/articles/c20y12kpj4mo?at_medium=RSS&at_campaign=rss))
+- People offered chance to buy £500 shares in town hub ([7 hours ago](https://www.bbc.com/news/articles/cy06x19w348o?at_medium=RSS&at_campaign=rss))
+- Bridge linking Wales and England partly reopens - but will shut again if it gets too hot ([7 hours ago](https://www.bbc.com/news/articles/cvgdnwj003zo?at_medium=RSS&at_campaign=rss))
+- 'World Cup fan zones' and 'seagull saga' ([7 hours ago](https://www.bbc.com/news/articles/c05ymee33z2o?at_medium=RSS&at_campaign=rss))
+- Motorcycle gang members jailed for  'violent assault' ([20 hours ago](https://www.bbc.com/news/articles/cp9l2p1pn8vo?at_medium=RSS&at_campaign=rss))
+- Arrest as man in critical condition after attack ([21 hours ago](https://www.bbc.com/news/articles/cd7wgl7q23xo?at_medium=RSS&at_campaign=rss))
+- Murder accused teenagers appear in court ([23 hours ago](https://www.bbc.com/news/articles/cn4rgr279l0o?at_medium=RSS&at_campaign=rss))
+- Man in hospital after seven-vehicle crash ([23 hours ago](https://www.bbc.com/news/articles/cd0mlm9xgk8o?at_medium=RSS&at_campaign=rss))
+- MP arrested on suspicion of assault and coercion ([1 days ago](https://www.bbc.com/news/articles/c20y12kpj4mo?at_medium=RSS&at_campaign=rss))
 - Homes planned for former EDF site ([1 days ago](https://www.bbc.com/news/articles/cjeg79wjlxxo?at_medium=RSS&at_campaign=rss))
 - Date next heatwave could hit Gloucestershire announced ([1 days ago](https://www.bbc.com/news/articles/c04yenxw36yo?at_medium=RSS&at_campaign=rss))
 - King penguin lays park's first egg in six years ([1 days ago](https://www.bbc.com/news/articles/c932l767gr3o?at_medium=RSS&at_campaign=rss))
@@ -39,8 +39,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Woman arrested after number of assaults in Cheltenham ([17 days ago](https://gloucesternewscentre.co.uk/woman-arrsted-after-number-of-assaults-in-cheltenham/))
 - Lloyds to relocate Cheltenham town centre bank branch ([22 days ago](https://gloucesternewscentre.co.uk/lloyds-to-relocate-cheltenham-town-centre-bank-branch/))
 - Gloucester man arrested for secretly filming women ([24 days ago](https://gloucesternewscentre.co.uk/gloucester-man-arrested-for-secretly-filming-women/))
-- Police hunt man in connection with assault in Cheltenham ([24 days ago](https://gloucesternewscentre.co.uk/police-hunt-man-in-connection-with-assault-in-cheltenham/))
-- Fireworks supplier and director plead guilty to illegal storage offences ([24 days ago](https://gloucesternewscentre.co.uk/fireworks-supplier-and-director-plead-guilty-to-illegal-storage-offences/))
+- Police hunt man in connection with assault in Cheltenham ([25 days ago](https://gloucesternewscentre.co.uk/police-hunt-man-in-connection-with-assault-in-cheltenham/))
+- Fireworks supplier and director plead guilty to illegal storage offences ([25 days ago](https://gloucesternewscentre.co.uk/fireworks-supplier-and-director-plead-guilty-to-illegal-storage-offences/))
 - Car boot road safety concerns spark questions over new cycle path ([29 days ago](https://gloucesternewscentre.co.uk/car-boot-road-safety-concerns-spark-questions-over-new-cycle-path/))
 
 <!-- news_marker ends -->

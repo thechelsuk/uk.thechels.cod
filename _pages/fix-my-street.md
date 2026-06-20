@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Public footpath blocked off, 20th June :- [9656155](https://www.fixmystreet.com/report/9656155)
+- Dead treee, 20th June :- [9656150](https://www.fixmystreet.com/report/9656150)
+- Neglected area, 20th June :- [9656075](https://www.fixmystreet.com/report/9656075)
 - Loose drain cover is keeping us awake at night. This happens every few months. Can you please find a permanent solution. Thank you., 20th June :- [9655890](https://www.fixmystreet.com/report/9655890)
 - Outside 13 Insley Gardens, 20th June :- [9655278](https://www.fixmystreet.com/report/9655278)
 - Hole around water meter appeared within 24 hour period.Also hole in road appeared which neighbours filled with rubble, 20th June :- [9654392](https://www.fixmystreet.com/report/9654392)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Dip on pavement after removing grown up grass, 19th June :- [9651761](https://www.fixmystreet.com/report/9651761)
 - Several empty nitrous oxides canisters and associated cardboard boxes dumped at the side of the track., 19th June :- [9651678](https://www.fixmystreet.com/report/9651678)
 - Three broken slabs outside 81, 19th June :- [9651197](https://www.fixmystreet.com/report/9651197)
-- Large potholes, 19th June :- [9650857](https://www.fixmystreet.com/report/9650857)
-- Tree is damaged problem, 19th June :- [9650777](https://www.fixmystreet.com/report/9650777)
-- TMC - Defects -CW6 Potholes  problem, 19th June :- [9650778](https://www.fixmystreet.com/report/9650778)
 
 <!-- fix_marker ends -->

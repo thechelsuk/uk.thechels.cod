@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 20 June 2026
 
-- The average temperature today is 17.2˚C,
-- With highs of 17.75˚C and lows of 16.58˚C,
-- It may feel like 17.33˚C with overcast clouds
+- The average temperature today is 17.77˚C,
+- With highs of 18.07˚C and lows of 17.6˚C,
+- It may feel like 17.98˚C with overcast clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 90%
+- The pressure is 1015hPa and humidity is 91%
 - The sun will rise at 03:48 and set at 20:31
 
 <!-- weather_marker ends -->

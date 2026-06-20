@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No streetlights working for the full stretch of road and hence the cycle path and bus stop are pitch black and dangerous, 20th June :- [9653085](https://www.fixmystreet.com/report/9653085)
 - Overhanging branches impeding pavement, 19th June :- [9652625](https://www.fixmystreet.com/report/9652625)
 - Impaired visibility, 19th June :- [9652388](https://www.fixmystreet.com/report/9652388)
 - Junction obscured by tree or foliage, 19th June :- [9652346](https://www.fixmystreet.com/report/9652346)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 19th June :- [9650598](https://www.fixmystreet.com/report/9650598)
 - Streetlight out, 19th June :- [9650400](https://www.fixmystreet.com/report/9650400)
 - Double yellow lines across nursery driveway, 19th June :- [9650328](https://www.fixmystreet.com/report/9650328)
-- Pot holes everywhere, 19th June :- [9650300](https://www.fixmystreet.com/report/9650300)
 
 <!-- fix_marker ends -->

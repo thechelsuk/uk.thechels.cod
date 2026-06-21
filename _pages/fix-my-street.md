@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 21st June :- [9658042](https://www.fixmystreet.com/report/9658042)
+- Graffiti, 21st June :- [9657994](https://www.fixmystreet.com/report/9657994)
+- A pothole in road problem, 21st June :- [9658003](https://www.fixmystreet.com/report/9658003)
+- Graffiti, 21st June :- [9657836](https://www.fixmystreet.com/report/9657836)
 - Public Footpath Unusable, 21st June :- [9657714](https://www.fixmystreet.com/report/9657714)
 - Surfaces breaking up, kerb not repaired, barries damaged and scattered, 21st June :- [9657035](https://www.fixmystreet.com/report/9657035)
 - Flytipping, 21st June :- [9657027](https://www.fixmystreet.com/report/9657027)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - No streetlights working for the full stretch of road and hence the cycle path and bus stop are pitch black and dangerous, 20th June :- [9653085](https://www.fixmystreet.com/report/9653085)
 - Overhanging branches impeding pavement, 19th June :- [9652625](https://www.fixmystreet.com/report/9652625)
 - Impaired visibility, 19th June :- [9652388](https://www.fixmystreet.com/report/9652388)
-- Junction obscured by tree or foliage, 19th June :- [9652346](https://www.fixmystreet.com/report/9652346)
-- Manhole causing noise when cars being driven over, 19th June :- [9652205](https://www.fixmystreet.com/report/9652205)
-- Pavement along driveway, 19th June :- [9651875](https://www.fixmystreet.com/report/9651875)
-- Pavement is severely damaged, with rocking slabs and damaged kerbs., 19th June :- [9651832](https://www.fixmystreet.com/report/9651832)
 
 <!-- fix_marker ends -->

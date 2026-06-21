@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vegetation blocking kissing gate, 21st June :- [9658930](https://www.fixmystreet.com/report/9658930)
+- Vegetation blocking kissing gate, 21st June :- [9658926](https://www.fixmystreet.com/report/9658926)
 - Whole road is dangerously, 21st June :- [9658521](https://www.fixmystreet.com/report/9658521)
 - Residential Hedge, OVERGROWING INTO THE PEDESTRIAN HIGHWAY PAVEMENT/ RIGHT NEXT TO THE BUSY PEDESTRIAN CROSSING, 21st June :- [9658319](https://www.fixmystreet.com/report/9658319)
 - There is no pathway turning into stanley place and the hedge on the corner stops people turning in from seeing school children, push chairs or wheelchairs. I have lived at this address since February and seen too many near accidents of children walking to and from school. I think my street needs a safe pathway or clear signs for the blind corner for the puplic to use as stanley place is a shortcut through to coronation square and is used daily by many., 21st June :- [9658257](https://www.fixmystreet.com/report/9658257)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Hole around water meter appeared within 24 hour period.Also hole in road appeared which neighbours filled with rubble, 20th June :- [9654392](https://www.fixmystreet.com/report/9654392)
 - Deep pothole, 20th June :- [9654041](https://www.fixmystreet.com/report/9654041)
 - Large pothole, 20th June :- [9654030](https://www.fixmystreet.com/report/9654030)
-- Wooden Pallet, 20th June :- [9653416](https://www.fixmystreet.com/report/9653416)
-- Graffiti, 20th June :- [9653234](https://www.fixmystreet.com/report/9653234)
 
 <!-- fix_marker ends -->

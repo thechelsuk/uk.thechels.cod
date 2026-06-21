@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 21 June 2026
 
-- The average temperature today is 16.65˚C,
-- With highs of 16.65˚C and lows of 14.82˚C,
-- It may feel like 16.38˚C with overcast clouds
-- The wind speed is 1.74m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 77%
+- The average temperature today is 19.66˚C,
+- With highs of 20.29˚C and lows of 19.27˚C,
+- It may feel like 19.54˚C with overcast clouds
+- The wind speed is 1.8m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 71%
 - The sun will rise at 03:48 and set at 20:31
 
 <!-- weather_marker ends -->

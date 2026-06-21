@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Whole road is dangerously, 21st June :- [9658521](https://www.fixmystreet.com/report/9658521)
+- Residential Hedge, OVERGROWING INTO THE PEDESTRIAN HIGHWAY PAVEMENT/ RIGHT NEXT TO THE BUSY PEDESTRIAN CROSSING, 21st June :- [9658319](https://www.fixmystreet.com/report/9658319)
+- There is no pathway turning into stanley place and the hedge on the corner stops people turning in from seeing school children, push chairs or wheelchairs. I have lived at this address since February and seen too many near accidents of children walking to and from school. I think my street needs a safe pathway or clear signs for the blind corner for the puplic to use as stanley place is a shortcut through to coronation square and is used daily by many., 21st June :- [9658257](https://www.fixmystreet.com/report/9658257)
 - Fly tipping, 21st June :- [9658042](https://www.fixmystreet.com/report/9658042)
 - Graffiti, 21st June :- [9657994](https://www.fixmystreet.com/report/9657994)
 - A pothole in road problem, 21st June :- [9658003](https://www.fixmystreet.com/report/9658003)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Large pothole, 20th June :- [9654030](https://www.fixmystreet.com/report/9654030)
 - Wooden Pallet, 20th June :- [9653416](https://www.fixmystreet.com/report/9653416)
 - Graffiti, 20th June :- [9653234](https://www.fixmystreet.com/report/9653234)
-- No streetlights working for the full stretch of road and hence the cycle path and bus stop are pitch black and dangerous, 20th June :- [9653085](https://www.fixmystreet.com/report/9653085)
-- Overhanging branches impeding pavement, 19th June :- [9652625](https://www.fixmystreet.com/report/9652625)
-- Impaired visibility, 19th June :- [9652388](https://www.fixmystreet.com/report/9652388)
 
 <!-- fix_marker ends -->

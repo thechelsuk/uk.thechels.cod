@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Surfaces breaking up, kerb not repaired, barries damaged and scattered, 21st June :- [9657035](https://www.fixmystreet.com/report/9657035)
+- Flytipping, 21st June :- [9657027](https://www.fixmystreet.com/report/9657027)
 - Public footpath blocked off, 20th June :- [9656155](https://www.fixmystreet.com/report/9656155)
 - Dead treee, 20th June :- [9656150](https://www.fixmystreet.com/report/9656150)
 - Neglected area, 20th June :- [9656075](https://www.fixmystreet.com/report/9656075)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pavement along driveway, 19th June :- [9651875](https://www.fixmystreet.com/report/9651875)
 - Pavement is severely damaged, with rocking slabs and damaged kerbs., 19th June :- [9651832](https://www.fixmystreet.com/report/9651832)
 - Dip on pavement after removing grown up grass, 19th June :- [9651761](https://www.fixmystreet.com/report/9651761)
-- Several empty nitrous oxides canisters and associated cardboard boxes dumped at the side of the track., 19th June :- [9651678](https://www.fixmystreet.com/report/9651678)
-- Three broken slabs outside 81, 19th June :- [9651197](https://www.fixmystreet.com/report/9651197)
 
 <!-- fix_marker ends -->

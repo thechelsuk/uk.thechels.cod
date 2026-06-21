@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Wide pothole on Doverdale Drive Longlevens, 21st June :- [9659286](https://www.fixmystreet.com/report/9659286)
 - Vegetation blocking kissing gate, 21st June :- [9658930](https://www.fixmystreet.com/report/9658930)
 - Vegetation blocking kissing gate, 21st June :- [9658926](https://www.fixmystreet.com/report/9658926)
 - Whole road is dangerously, 21st June :- [9658521](https://www.fixmystreet.com/report/9658521)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Outside 13 Insley Gardens, 20th June :- [9655278](https://www.fixmystreet.com/report/9655278)
 - Hole around water meter appeared within 24 hour period.Also hole in road appeared which neighbours filled with rubble, 20th June :- [9654392](https://www.fixmystreet.com/report/9654392)
 - Deep pothole, 20th June :- [9654041](https://www.fixmystreet.com/report/9654041)
-- Large pothole, 20th June :- [9654030](https://www.fixmystreet.com/report/9654030)
 
 <!-- fix_marker ends -->

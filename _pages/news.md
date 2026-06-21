@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- School aims to raise £6m for new performing arts centre ([7 hours ago](https://www.bbc.com/news/articles/cz6vg101297o?at_medium=RSS&at_campaign=rss))
-- People offered chance to buy £500 shares in town hub ([16 hours ago](https://www.bbc.com/news/articles/cy06x19w348o?at_medium=RSS&at_campaign=rss))
-- Bridge linking Wales and England partly reopens - but will shut again if it gets too hot ([17 hours ago](https://www.bbc.com/news/articles/cvgdnwj003zo?at_medium=RSS&at_campaign=rss))
-- 'World Cup fan zones' and 'seagull saga' ([17 hours ago](https://www.bbc.com/news/articles/c05ymee33z2o?at_medium=RSS&at_campaign=rss))
+- School aims to raise £6m for new performing arts centre ([9 hours ago](https://www.bbc.com/news/articles/cz6vg101297o?at_medium=RSS&at_campaign=rss))
+- People offered chance to buy £500 shares in town hub ([19 hours ago](https://www.bbc.com/news/articles/cy06x19w348o?at_medium=RSS&at_campaign=rss))
+- Bridge linking Wales and England partly reopens - but will shut again if it gets too hot ([19 hours ago](https://www.bbc.com/news/articles/cvgdnwj003zo?at_medium=RSS&at_campaign=rss))
+- 'World Cup fan zones' and 'seagull saga' ([19 hours ago](https://www.bbc.com/news/articles/c05ymee33z2o?at_medium=RSS&at_campaign=rss))
 - Motorcycle gang members jailed for  'violent assault' ([1 days ago](https://www.bbc.com/news/articles/cp9l2p1pn8vo?at_medium=RSS&at_campaign=rss))
 - Arrest as man in critical condition after attack ([1 days ago](https://www.bbc.com/news/articles/cd7wgl7q23xo?at_medium=RSS&at_campaign=rss))
 - Murder accused teenagers appear in court ([1 days ago](https://www.bbc.com/news/articles/cn4rgr279l0o?at_medium=RSS&at_campaign=rss))

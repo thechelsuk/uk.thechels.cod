@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- In pictures: England victory and summer solstice ([3 hours ago](https://www.bbc.com/news/articles/c15yqlk2d3do?at_medium=RSS&at_campaign=rss))
-- Teens 'unsure what they'll do' amid social media ban ([3 hours ago](https://www.bbc.com/news/articles/cqj148lrwjdo?at_medium=RSS&at_campaign=rss))
-- School aims to raise £6m for new performing arts centre ([18 hours ago](https://www.bbc.com/news/articles/cz6vg101297o?at_medium=RSS&at_campaign=rss))
+- In pictures: England victory and summer solstice ([5 hours ago](https://www.bbc.com/news/articles/c15yqlk2d3do?at_medium=RSS&at_campaign=rss))
+- Teens 'unsure what they'll do' amid social media ban ([5 hours ago](https://www.bbc.com/news/articles/cqj148lrwjdo?at_medium=RSS&at_campaign=rss))
+- School aims to raise £6m for new performing arts centre ([19 hours ago](https://www.bbc.com/news/articles/cz6vg101297o?at_medium=RSS&at_campaign=rss))
 - People offered chance to buy £500 shares in town hub ([1 days ago](https://www.bbc.com/news/articles/cy06x19w348o?at_medium=RSS&at_campaign=rss))
 - Bridge linking Wales and England partly reopens - but will shut again if it gets too hot ([1 days ago](https://www.bbc.com/news/articles/cvgdnwj003zo?at_medium=RSS&at_campaign=rss))
 - 'World Cup fan zones' and 'seagull saga' ([1 days ago](https://www.bbc.com/news/articles/c05ymee33z2o?at_medium=RSS&at_campaign=rss))

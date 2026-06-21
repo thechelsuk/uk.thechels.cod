@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Public Footpath Unusable, 21st June :- [9657714](https://www.fixmystreet.com/report/9657714)
 - Surfaces breaking up, kerb not repaired, barries damaged and scattered, 21st June :- [9657035](https://www.fixmystreet.com/report/9657035)
 - Flytipping, 21st June :- [9657027](https://www.fixmystreet.com/report/9657027)
 - Public footpath blocked off, 20th June :- [9656155](https://www.fixmystreet.com/report/9656155)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Manhole causing noise when cars being driven over, 19th June :- [9652205](https://www.fixmystreet.com/report/9652205)
 - Pavement along driveway, 19th June :- [9651875](https://www.fixmystreet.com/report/9651875)
 - Pavement is severely damaged, with rocking slabs and damaged kerbs., 19th June :- [9651832](https://www.fixmystreet.com/report/9651832)
-- Dip on pavement after removing grown up grass, 19th June :- [9651761](https://www.fixmystreet.com/report/9651761)
 
 <!-- fix_marker ends -->

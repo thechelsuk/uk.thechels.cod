@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Covers, Gratings & Frames problem, 22nd June :- [9660455](https://www.fixmystreet.com/report/9660455)
+- TMC - Defects - Kerbs and Channels problem, 22nd June :- [9660456](https://www.fixmystreet.com/report/9660456)
+- TMC - Defects - Kerbs and Channels problem, 22nd June :- [9660355](https://www.fixmystreet.com/report/9660355)
+- TMC - Defects - Other FW6  Surface problem, 22nd June :- [9660354](https://www.fixmystreet.com/report/9660354)
+- TMC - Defects - Other FW6  Surface problem, 22nd June :- [9660279](https://www.fixmystreet.com/report/9660279)
 - Across from the junction with Hatherley Court Road and Bournside Road, 22nd June :- [9660189](https://www.fixmystreet.com/report/9660189)
 - Sunken metal utility cover creating a trip hazard on a busy footpath, 21st June :- [9660002](https://www.fixmystreet.com/report/9660002)
 - Wide pothole on Doverdale Drive Longlevens, 21st June :- [9659286](https://www.fixmystreet.com/report/9659286)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Public Footpath Unusable, 21st June :- [9657714](https://www.fixmystreet.com/report/9657714)
 - Surfaces breaking up, kerb not repaired, barries damaged and scattered, 21st June :- [9657035](https://www.fixmystreet.com/report/9657035)
 - Flytipping, 21st June :- [9657027](https://www.fixmystreet.com/report/9657027)
-- Public footpath blocked off, 20th June :- [9656155](https://www.fixmystreet.com/report/9656155)
-- Dead treee, 20th June :- [9656150](https://www.fixmystreet.com/report/9656150)
-- Neglected area, 20th June :- [9656075](https://www.fixmystreet.com/report/9656075)
-- Loose drain cover is keeping us awake at night. This happens every few months. Can you please find a permanent solution. Thank you., 20th June :- [9655890](https://www.fixmystreet.com/report/9655890)
-- Outside 13 Insley Gardens, 20th June :- [9655278](https://www.fixmystreet.com/report/9655278)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working, 22nd June :- [9664875](https://www.fixmystreet.com/report/9664875)
+- Bridle path overgrown, 22nd June :- [9664777](https://www.fixmystreet.com/report/9664777)
 - TMC - Defects -CW6 Potholes  problem, 22nd June :- [9664415](https://www.fixmystreet.com/report/9664415)
 - TMC - Defects -CW6 Potholes  problem, 22nd June :- [9664416](https://www.fixmystreet.com/report/9664416)
 - Tree is damaged problem, 22nd June :- [9664399](https://www.fixmystreet.com/report/9664399)
@@ -21,13 +23,11 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 22nd June :- [9663985](https://www.fixmystreet.com/report/9663985)
 - TMC - Defects - Vegetation problem, 22nd June :- [9663984](https://www.fixmystreet.com/report/9663984)
 - 3x areas of broken pavement- look like previous repairs have failed, 22nd June :- [9663421](https://www.fixmystreet.com/report/9663421)
+- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663967](https://www.fixmystreet.com/report/9663967)
+- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663979](https://www.fixmystreet.com/report/9663979)
+- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663978](https://www.fixmystreet.com/report/9663978)
 - TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663977](https://www.fixmystreet.com/report/9663977)
 - TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663975](https://www.fixmystreet.com/report/9663975)
 - TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663973](https://www.fixmystreet.com/report/9663973)
-- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663967](https://www.fixmystreet.com/report/9663967)
-- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663979](https://www.fixmystreet.com/report/9663979)
-- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663976](https://www.fixmystreet.com/report/9663976)
-- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663978](https://www.fixmystreet.com/report/9663978)
-- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663970](https://www.fixmystreet.com/report/9663970)
 
 <!-- fix_marker ends -->

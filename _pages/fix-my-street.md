@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Across from the junction with Hatherley Court Road and Bournside Road, 22nd June :- [9660189](https://www.fixmystreet.com/report/9660189)
 - Sunken metal utility cover creating a trip hazard on a busy footpath, 21st June :- [9660002](https://www.fixmystreet.com/report/9660002)
 - Wide pothole on Doverdale Drive Longlevens, 21st June :- [9659286](https://www.fixmystreet.com/report/9659286)
 - Vegetation blocking kissing gate, 21st June :- [9658930](https://www.fixmystreet.com/report/9658930)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Neglected area, 20th June :- [9656075](https://www.fixmystreet.com/report/9656075)
 - Loose drain cover is keeping us awake at night. This happens every few months. Can you please find a permanent solution. Thank you., 20th June :- [9655890](https://www.fixmystreet.com/report/9655890)
 - Outside 13 Insley Gardens, 20th June :- [9655278](https://www.fixmystreet.com/report/9655278)
-- Hole around water meter appeared within 24 hour period.Also hole in road appeared which neighbours filled with rubble, 20th June :- [9654392](https://www.fixmystreet.com/report/9654392)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 22 June 2026
 
-- The average temperature today is 24.05˚C,
-- With highs of 26.03˚C and lows of 23.62˚C,
-- It may feel like 24.63˚C with light rain
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 81%
+- The average temperature today is 22.85˚C,
+- With highs of 23.73˚C and lows of 22.14˚C,
+- It may feel like 23.33˚C with overcast clouds
+- The wind speed is 4.92m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 82%
 - The sun will rise at 03:48 and set at 20:31
 
 <!-- weather_marker ends -->

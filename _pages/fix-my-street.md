@@ -25,9 +25,9 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 22nd June :- [9663985](https://www.fixmystreet.com/report/9663985)
 - TMC - Defects - Vegetation problem, 22nd June :- [9663984](https://www.fixmystreet.com/report/9663984)
 - 3x areas of broken pavement- look like previous repairs have failed, 22nd June :- [9663421](https://www.fixmystreet.com/report/9663421)
-- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663977](https://www.fixmystreet.com/report/9663977)
-- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663975](https://www.fixmystreet.com/report/9663975)
-- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663973](https://www.fixmystreet.com/report/9663973)
 - TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663967](https://www.fixmystreet.com/report/9663967)
+- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663976](https://www.fixmystreet.com/report/9663976)
+- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663969](https://www.fixmystreet.com/report/9663969)
+- TMC - Defects -CW6 Potholes  problem, 22nd June :- [9663970](https://www.fixmystreet.com/report/9663970)
 
 <!-- fix_marker ends -->

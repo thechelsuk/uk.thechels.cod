@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -178,21 +178,21 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd June</title>
-<link>https://www.fixmystreet.com/report/9663977</link>
-<description>15DB &amp;#10;Pothole CW   900mm x 500mm  x 48mm &amp;#10;Road Closure TM &amp;#10;Narrow Lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9663977&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9663967</link>
+<description>15DB &amp;#10;Pothole CW   1000mm x 900mm  x 52mm &amp;#10;Road Closure TM &amp;#10;Narrow Lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9663967&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9663977</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9663967</guid>
 <pubDate>Mon, 22 Jun 2026 13:40:15 +0100</pubDate>
-<georss:point>51.8156886 -2.0344517</georss:point>
+<georss:point>51.8157052 -2.03321900000002</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 22nd June</title>
-<link>https://www.fixmystreet.com/report/9663975</link>
-<description>15DB &amp;#10;Pothole CW   700mm x 400mm  x 66mm &amp;#10;Road Closure TM &amp;#10;Narrow Lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9663975&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<link>https://www.fixmystreet.com/report/9663979</link>
+<description>15DB &amp;#10;Pothole CW   600mm x 490mm  x 46mm &amp;#10;Road Closure TM &amp;#10;Narrow Lane (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9663979&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9663975</guid>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9663979</guid>
 <pubDate>Mon, 22 Jun 2026 13:40:15 +0100</pubDate>
-<georss:point>51.8156706 -2.03381559999999</georss:point>
+<georss:point>51.8156894 -2.03455940000001</georss:point>
 </item>
 </channel>
 </rss>

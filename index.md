@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 23 June 2026
 
-- The average temperature today is 24.96˚C,
-- With highs of 25.94˚C and lows of 23.8˚C,
-- It may feel like 25.42˚C with scattered clouds
+- The average temperature today is 28.56˚C,
+- With highs of 29.41˚C and lows of 27.69˚C,
+- It may feel like 30.73˚C with scattered clouds
 - The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 73%
+- The pressure is 1020hPa and humidity is 63%
 - The sun will rise at 03:49 and set at 20:31
 
 <!-- weather_marker ends -->

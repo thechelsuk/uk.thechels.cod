@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Giant Hogweed growing in verge., 23rd June :- [9673165](https://www.fixmystreet.com/report/9673165)
+- Sink hole on Road (Warwick Place’, 23rd June :- [9672982](https://www.fixmystreet.com/report/9672982)
 - Street light is still broken deapite you reporting it as fixed, 23rd June :- [9672881](https://www.fixmystreet.com/report/9672881)
 - Edge of footbridge damaged, 23rd June :- [9672844](https://www.fixmystreet.com/report/9672844)
 - Overgrown unsafe as elderly could easily fall in the stream and the mess who ever cut the trees down just chucked in silly places use to be so pretty, 23rd June :- [9672594](https://www.fixmystreet.com/report/9672594)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dead squirrel, 23rd June :- [9670274](https://www.fixmystreet.com/report/9670274)
 - TMC - Defects - Vegetation problem, 23rd June :- [9670293](https://www.fixmystreet.com/report/9670293)
 - TMC - Defects - Vegetation problem, 23rd June :- [9670289](https://www.fixmystreet.com/report/9670289)
-- TMC - Defects - Vegetation problem, 23rd June :- [9670287](https://www.fixmystreet.com/report/9670287)
-- The drain is blocked problem, 23rd June :- [9670283](https://www.fixmystreet.com/report/9670283)
 
 <!-- fix_marker ends -->

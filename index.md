@@ -13,9 +13,9 @@ permalink: /
 
 - The average temperature today is 33.45˚C,
 - With highs of 33.86˚C and lows of 33.25˚C,
-- It may feel like 35.76˚C with clear sky
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 45%
+- It may feel like 35.5˚C with few clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 44%
 - The sun will rise at 03:49 and set at 20:31
 
 <!-- weather_marker ends -->

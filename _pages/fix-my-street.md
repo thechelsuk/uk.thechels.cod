@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown tree requires immediate tree surgery as affecting my house crown reduction, 23rd June :- [9671939](https://www.fixmystreet.com/report/9671939)
 - Pothole in the pavement, 23rd June :- [9671532](https://www.fixmystreet.com/report/9671532)
 - The pavement is very uneven and dangerous as an elderly gentleman who lives in the lane fell and injured himself, 23rd June :- [9671391](https://www.fixmystreet.com/report/9671391)
 - Fly Tip reported RP/11399. Reported 27/05/2026 not removed yet, 23rd June :- [9671196](https://www.fixmystreet.com/report/9671196)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 23rd June :- [9670043](https://www.fixmystreet.com/report/9670043)
 - TMC - Defects - Other FW6  Surface problem, 23rd June :- [9670042](https://www.fixmystreet.com/report/9670042)
 - TMC - Defects - Other FW6  Surface problem, 23rd June :- [9669584](https://www.fixmystreet.com/report/9669584)
-- TMC - Defects - Other FW6  Surface problem, 23rd June :- [9669566](https://www.fixmystreet.com/report/9669566)
 
 <!-- fix_marker ends -->

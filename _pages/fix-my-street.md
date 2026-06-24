@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -other CW6 problem, 24th June :- [9673532](https://www.fixmystreet.com/report/9673532)
+- TMC - Defects - Vegetation problem, 24th June :- [9673531](https://www.fixmystreet.com/report/9673531)
+- TMC - Defects -other CW6 problem, 24th June :- [9673528](https://www.fixmystreet.com/report/9673528)
+- TMC - Defects -other CW6 problem, 24th June :- [9673525](https://www.fixmystreet.com/report/9673525)
 - Giant Hogweed growing in verge., 23rd June :- [9673165](https://www.fixmystreet.com/report/9673165)
 - Sink hole on Road (Warwick Place’, 23rd June :- [9672982](https://www.fixmystreet.com/report/9672982)
 - Street light is still broken deapite you reporting it as fixed, 23rd June :- [9672881](https://www.fixmystreet.com/report/9672881)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Garden Rubbish on Pavement, 23rd June :- [9670992](https://www.fixmystreet.com/report/9670992)
 - Tree is damaged problem, 23rd June :- [9670951](https://www.fixmystreet.com/report/9670951)
 - Large Items on Pavement, 23rd June :- [9670871](https://www.fixmystreet.com/report/9670871)
-- TMC - Defects - Vegetation problem, 23rd June :- [9670740](https://www.fixmystreet.com/report/9670740)
-- Dead squirrel, 23rd June :- [9670274](https://www.fixmystreet.com/report/9670274)
-- TMC - Defects - Vegetation problem, 23rd June :- [9670293](https://www.fixmystreet.com/report/9670293)
-- TMC - Defects - Vegetation problem, 23rd June :- [9670289](https://www.fixmystreet.com/report/9670289)
 
 <!-- fix_marker ends -->

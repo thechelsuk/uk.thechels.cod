@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fallen tree blocking path, 24th June :- [9678313](https://www.fixmystreet.com/report/9678313)
+- Stones & gravel all over Road and pavement., 24th June :- [9678037](https://www.fixmystreet.com/report/9678037)
 - Gl504bl, 24th June :- [9677830](https://www.fixmystreet.com/report/9677830)
 - Disabled bay outside 5 Tivoli Street, 24th June :- [9677650](https://www.fixmystreet.com/report/9677650)
 - Tree is damaged problem, 24th June :- [9676920](https://www.fixmystreet.com/report/9676920)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 24th June :- [9676173](https://www.fixmystreet.com/report/9676173)
 - TMC - Defects - Kerbs and Channels problem, 24th June :- [9676171](https://www.fixmystreet.com/report/9676171)
 - Weeds, 24th June :- [9676082](https://www.fixmystreet.com/report/9676082)
-- Poor condition, 24th June :- [9676048](https://www.fixmystreet.com/report/9676048)
-- Poor condition, 24th June :- [9676005](https://www.fixmystreet.com/report/9676005)
 
 <!-- fix_marker ends -->

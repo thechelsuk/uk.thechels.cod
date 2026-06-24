@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 24th June :- [9676920](https://www.fixmystreet.com/report/9676920)
 - TMC - Defects - Vegetation problem, 24th June :- [9676719](https://www.fixmystreet.com/report/9676719)
 - TMC - Defects - Vegetation problem, 24th June :- [9676535](https://www.fixmystreet.com/report/9676535)
 - Post or sign leaning slightly (less than 20 degrees) problem, 24th June :- [9676527](https://www.fixmystreet.com/report/9676527)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Poor condition, 24th June :- [9676005](https://www.fixmystreet.com/report/9676005)
 - TMC - Defects - Vegetation problem, 24th June :- [9676161](https://www.fixmystreet.com/report/9676161)
 - TMC - Defects -other CW6 problem, 24th June :- [9676160](https://www.fixmystreet.com/report/9676160)
-- TMC - Defects -CW6 Potholes  problem, 24th June :- [9675963](https://www.fixmystreet.com/report/9675963)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 24 June 2026
 
-- The average temperature today is 32.84˚C,
-- With highs of 33.8˚C and lows of 31.96˚C,
-- It may feel like 35.69˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 49%
+- The average temperature today is 31.96˚C,
+- With highs of 33.15˚C and lows of 31.96˚C,
+- It may feel like 32.78˚C with few clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 43%
 - The sun will rise at 03:49 and set at 20:31
 
 <!-- weather_marker ends -->

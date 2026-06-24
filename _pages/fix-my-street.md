@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gl504bl, 24th June :- [9677830](https://www.fixmystreet.com/report/9677830)
+- Disabled bay outside 5 Tivoli Street, 24th June :- [9677650](https://www.fixmystreet.com/report/9677650)
 - Tree is damaged problem, 24th June :- [9676920](https://www.fixmystreet.com/report/9676920)
 - TMC - Defects - Vegetation problem, 24th June :- [9676719](https://www.fixmystreet.com/report/9676719)
 - TMC - Defects - Vegetation problem, 24th June :- [9676535](https://www.fixmystreet.com/report/9676535)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Weeds, 24th June :- [9676082](https://www.fixmystreet.com/report/9676082)
 - Poor condition, 24th June :- [9676048](https://www.fixmystreet.com/report/9676048)
 - Poor condition, 24th June :- [9676005](https://www.fixmystreet.com/report/9676005)
-- TMC - Defects - Vegetation problem, 24th June :- [9676161](https://www.fixmystreet.com/report/9676161)
-- TMC - Defects -other CW6 problem, 24th June :- [9676160](https://www.fixmystreet.com/report/9676160)
 
 <!-- fix_marker ends -->

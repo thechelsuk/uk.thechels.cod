@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unauthorised works, no signage, no advance notice, 24th June :- [9678543](https://www.fixmystreet.com/report/9678543)
+- Unauthorised work, no signs no road closure advance warnings, 24th June :- [9678537](https://www.fixmystreet.com/report/9678537)
 - Fallen tree blocking path, 24th June :- [9678313](https://www.fixmystreet.com/report/9678313)
 - Stones & gravel all over Road and pavement., 24th June :- [9678037](https://www.fixmystreet.com/report/9678037)
 - Gl504bl, 24th June :- [9677830](https://www.fixmystreet.com/report/9677830)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 24th June :- [9676353](https://www.fixmystreet.com/report/9676353)
 - TMC - Defects - Vegetation problem, 24th June :- [9676174](https://www.fixmystreet.com/report/9676174)
 - TMC - Defects -CW6 Potholes  problem, 24th June :- [9676173](https://www.fixmystreet.com/report/9676173)
-- TMC - Defects - Kerbs and Channels problem, 24th June :- [9676171](https://www.fixmystreet.com/report/9676171)
-- Weeds, 24th June :- [9676082](https://www.fixmystreet.com/report/9676082)
 
 <!-- fix_marker ends -->

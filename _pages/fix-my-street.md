@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Unauthorised roadwoks, 24th June :- [9678555](https://www.fixmystreet.com/report/9678555)
+- Unauthorised road works, 24th June :- [9678551](https://www.fixmystreet.com/report/9678551)
 - Unauthorised works, no signage, no advance notice, 24th June :- [9678543](https://www.fixmystreet.com/report/9678543)
 - Unauthorised work, no signs no road closure advance warnings, 24th June :- [9678537](https://www.fixmystreet.com/report/9678537)
 - Fallen tree blocking path, 24th June :- [9678313](https://www.fixmystreet.com/report/9678313)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 24th June :- [9676360](https://www.fixmystreet.com/report/9676360)
 - TMC - Defects - Vegetation problem, 24th June :- [9676354](https://www.fixmystreet.com/report/9676354)
 - TMC - Defects - Other problem, 24th June :- [9676353](https://www.fixmystreet.com/report/9676353)
-- TMC - Defects - Vegetation problem, 24th June :- [9676174](https://www.fixmystreet.com/report/9676174)
-- TMC - Defects -CW6 Potholes  problem, 24th June :- [9676173](https://www.fixmystreet.com/report/9676173)
 
 <!-- fix_marker ends -->

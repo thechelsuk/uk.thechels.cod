@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Raised tree roots causing trip hazard, 25th June :- [9683407](https://www.fixmystreet.com/report/9683407)
+- The Public Footpath (EBW2) is illegally blockked, 25th June :- [9683150](https://www.fixmystreet.com/report/9683150)
+- Tree is damaged problem, 25th June :- [9682908](https://www.fixmystreet.com/report/9682908)
+- Overgrown trees implicated in subsidence of adjacent building, 25th June :- [9682838](https://www.fixmystreet.com/report/9682838)
 - TMC - Defects - Vegetation problem, 25th June :- [9682357](https://www.fixmystreet.com/report/9682357)
 - TMC - Defects - Vegetation problem, 25th June :- [9682355](https://www.fixmystreet.com/report/9682355)
 - TMC - Defects - Covers, Gratings & Frames problem, 25th June :- [9682356](https://www.fixmystreet.com/report/9682356)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large areas of Queens Court road in need of repair, 25th June :- [9681399](https://www.fixmystreet.com/report/9681399)
 - TMC - Defects - Other FW6  Surface problem, 25th June :- [9681440](https://www.fixmystreet.com/report/9681440)
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [9681438](https://www.fixmystreet.com/report/9681438)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [9681439](https://www.fixmystreet.com/report/9681439)
-- TMC - Defects - Vegetation problem, 25th June :- [9681434](https://www.fixmystreet.com/report/9681434)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [9681432](https://www.fixmystreet.com/report/9681432)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [9681429](https://www.fixmystreet.com/report/9681429)
 
 <!-- fix_marker ends -->

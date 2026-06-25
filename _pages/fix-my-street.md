@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vegetation growing in drain, 25th June :- [9684931](https://www.fixmystreet.com/report/9684931)
+- Fly tipped fridge and washing machine, 25th June :- [9684848](https://www.fixmystreet.com/report/9684848)
+- Tarmac crumbling on pafh, 25th June :- [9684722](https://www.fixmystreet.com/report/9684722)
 - 5 street lights outside Leckhampton High School are not working.Have have been broken for months, 25th June :- [9684652](https://www.fixmystreet.com/report/9684652)
 - Large portion of tree cracked off slightly obstructing pavement, 25th June :- [9684478](https://www.fixmystreet.com/report/9684478)
 - Various broken and uneven slabs outside 35 Camden road and round the corner into Bisley road, 25th June :- [9683848](https://www.fixmystreet.com/report/9683848)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 25th June :- [9681913](https://www.fixmystreet.com/report/9681913)
 - Fly tipping, 25th June :- [9681874](https://www.fixmystreet.com/report/9681874)
 - Sticker on new street sign, 25th June :- [9681851](https://www.fixmystreet.com/report/9681851)
-- Dangerously Uneven pavement, 25th June :- [9681541](https://www.fixmystreet.com/report/9681541)
-- Raised mound Tree roots prevent access, 25th June :- [9681486](https://www.fixmystreet.com/report/9681486)
-- TMC - Defects - Vegetation problem, 25th June :- [9681702](https://www.fixmystreet.com/report/9681702)
 
 <!-- fix_marker ends -->

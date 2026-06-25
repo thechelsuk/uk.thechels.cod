@@ -9,13 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Various broken and uneven slabs outside 35 Camden road and round the corner into Bisley road, 25th June :- [9683848](https://www.fixmystreet.com/report/9683848)
+- Gl33rf, 25th June :- [9683645](https://www.fixmystreet.com/report/9683645)
 - Raised tree roots causing trip hazard, 25th June :- [9683407](https://www.fixmystreet.com/report/9683407)
 - The Public Footpath (EBW2) is illegally blockked, 25th June :- [9683150](https://www.fixmystreet.com/report/9683150)
 - Tree is damaged problem, 25th June :- [9682908](https://www.fixmystreet.com/report/9682908)
 - Overgrown trees implicated in subsidence of adjacent building, 25th June :- [9682838](https://www.fixmystreet.com/report/9682838)
 - TMC - Defects - Vegetation problem, 25th June :- [9682357](https://www.fixmystreet.com/report/9682357)
-- TMC - Defects - Vegetation problem, 25th June :- [9682355](https://www.fixmystreet.com/report/9682355)
 - TMC - Defects - Covers, Gratings & Frames problem, 25th June :- [9682356](https://www.fixmystreet.com/report/9682356)
+- TMC - Defects - Vegetation problem, 25th June :- [9682355](https://www.fixmystreet.com/report/9682355)
 - TMC - Defects -FW6 Potholes problem, 25th June :- [9682337](https://www.fixmystreet.com/report/9682337)
 - Keep clear needs repainting, 25th June :- [9681980](https://www.fixmystreet.com/report/9681980)
 - TMC - Defects - Covers, Gratings & Frames problem, 25th June :- [9682132](https://www.fixmystreet.com/report/9682132)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 25th June :- [9681702](https://www.fixmystreet.com/report/9681702)
 - Overgrown long dry grass near shops at 102 Insley Gardens, 25th June :- [9681468](https://www.fixmystreet.com/report/9681468)
 - Large areas of Queens Court road in need of repair, 25th June :- [9681399](https://www.fixmystreet.com/report/9681399)
-- TMC - Defects - Other FW6  Surface problem, 25th June :- [9681440](https://www.fixmystreet.com/report/9681440)
-- TMC - Defects -CW6 Potholes  problem, 25th June :- [9681438](https://www.fixmystreet.com/report/9681438)
 
 <!-- fix_marker ends -->

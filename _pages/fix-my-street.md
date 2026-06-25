@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 25th June :- [9679583](https://www.fixmystreet.com/report/9679583)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [9679574](https://www.fixmystreet.com/report/9679574)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [9679573](https://www.fixmystreet.com/report/9679573)
+- TMC - Defects -CW6 Potholes  problem, 25th June :- [9679575](https://www.fixmystreet.com/report/9679575)
 - Unauthorised roadwoks, 24th June :- [9678555](https://www.fixmystreet.com/report/9678555)
 - Unauthorised road works, 24th June :- [9678551](https://www.fixmystreet.com/report/9678551)
 - Unauthorised works, no signage, no advance notice, 24th June :- [9678543](https://www.fixmystreet.com/report/9678543)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Post or sign leaning slightly (less than 20 degrees) problem, 24th June :- [9676526](https://www.fixmystreet.com/report/9676526)
 - TMC - Defects - Vegetation problem, 24th June :- [9676531](https://www.fixmystreet.com/report/9676531)
 - TMC - Defects -CW10 Potholes problem, 24th June :- [9676362](https://www.fixmystreet.com/report/9676362)
-- TMC - Defects -CW10 Potholes problem, 24th June :- [9676361](https://www.fixmystreet.com/report/9676361)
-- TMC - Defects - Vegetation problem, 24th June :- [9676360](https://www.fixmystreet.com/report/9676360)
-- TMC - Defects - Vegetation problem, 24th June :- [9676354](https://www.fixmystreet.com/report/9676354)
-- TMC - Defects - Other problem, 24th June :- [9676353](https://www.fixmystreet.com/report/9676353)
 
 <!-- fix_marker ends -->

@@ -9,7 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Vegetation problem, 25th June :- [9682357](https://www.fixmystreet.com/report/9682357)
+- TMC - Defects - Vegetation problem, 25th June :- [9682355](https://www.fixmystreet.com/report/9682355)
+- TMC - Defects - Covers, Gratings & Frames problem, 25th June :- [9682356](https://www.fixmystreet.com/report/9682356)
+- TMC - Defects -FW6 Potholes problem, 25th June :- [9682337](https://www.fixmystreet.com/report/9682337)
 - Keep clear needs repainting, 25th June :- [9681980](https://www.fixmystreet.com/report/9681980)
+- TMC - Defects - Covers, Gratings & Frames problem, 25th June :- [9682132](https://www.fixmystreet.com/report/9682132)
 - Fly tipping, 25th June :- [9681913](https://www.fixmystreet.com/report/9681913)
 - Fly tipping, 25th June :- [9681874](https://www.fixmystreet.com/report/9681874)
 - Sticker on new street sign, 25th June :- [9681851](https://www.fixmystreet.com/report/9681851)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 25th June :- [9681434](https://www.fixmystreet.com/report/9681434)
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [9681432](https://www.fixmystreet.com/report/9681432)
 - TMC - Defects -CW6 Potholes  problem, 25th June :- [9681429](https://www.fixmystreet.com/report/9681429)
-- TMC - Defects -FW6 Potholes problem, 25th June :- [9681431](https://www.fixmystreet.com/report/9681431)
-- TMC - Defects -FW6 Potholes problem, 25th June :- [9681430](https://www.fixmystreet.com/report/9681430)
-- TMC - Defects - Covers, Gratings & Frames problem, 25th June :- [9681229](https://www.fixmystreet.com/report/9681229)
-- TMC - Defects -CW10 Potholes problem, 25th June :- [9681218](https://www.fixmystreet.com/report/9681218)
-- TMC - Defects -CW10 Potholes problem, 25th June :- [9681216](https://www.fixmystreet.com/report/9681216)
 
 <!-- fix_marker ends -->

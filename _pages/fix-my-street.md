@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 5 street lights outside Leckhampton High School are not working.Have have been broken for months, 25th June :- [9684652](https://www.fixmystreet.com/report/9684652)
+- Large portion of tree cracked off slightly obstructing pavement, 25th June :- [9684478](https://www.fixmystreet.com/report/9684478)
 - Various broken and uneven slabs outside 35 Camden road and round the corner into Bisley road, 25th June :- [9683848](https://www.fixmystreet.com/report/9683848)
 - Gl33rf, 25th June :- [9683645](https://www.fixmystreet.com/report/9683645)
 - Raised tree roots causing trip hazard, 25th June :- [9683407](https://www.fixmystreet.com/report/9683407)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dangerously Uneven pavement, 25th June :- [9681541](https://www.fixmystreet.com/report/9681541)
 - Raised mound Tree roots prevent access, 25th June :- [9681486](https://www.fixmystreet.com/report/9681486)
 - TMC - Defects - Vegetation problem, 25th June :- [9681702](https://www.fixmystreet.com/report/9681702)
-- Overgrown long dry grass near shops at 102 Insley Gardens, 25th June :- [9681468](https://www.fixmystreet.com/report/9681468)
-- Large areas of Queens Court road in need of repair, 25th June :- [9681399](https://www.fixmystreet.com/report/9681399)
 
 <!-- fix_marker ends -->

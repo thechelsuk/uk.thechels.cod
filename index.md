@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 25 June 2026
 
-- The average temperature today is 33.87˚C,
-- With highs of 33.87˚C and lows of 33.07˚C,
-- It may feel like 38.79˚C with few clouds
-- The wind speed is 5.81m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 52%
+- The average temperature today is 30.85˚C,
+- With highs of 31.03˚C and lows of 30.85˚C,
+- It may feel like 33.83˚C with clear sky
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 57%
 - The sun will rise at 03:49 and set at 20:31
 
 <!-- weather_marker ends -->

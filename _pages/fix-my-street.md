@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Over grown grass/weeds blocking view of junction, 25th June :- [9685162](https://www.fixmystreet.com/report/9685162)
 - Vegetation growing in drain, 25th June :- [9684931](https://www.fixmystreet.com/report/9684931)
 - Fly tipped fridge and washing machine, 25th June :- [9684848](https://www.fixmystreet.com/report/9684848)
 - Tarmac crumbling on pafh, 25th June :- [9684722](https://www.fixmystreet.com/report/9684722)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 25th June :- [9682132](https://www.fixmystreet.com/report/9682132)
 - Fly tipping, 25th June :- [9681913](https://www.fixmystreet.com/report/9681913)
 - Fly tipping, 25th June :- [9681874](https://www.fixmystreet.com/report/9681874)
-- Sticker on new street sign, 25th June :- [9681851](https://www.fixmystreet.com/report/9681851)
 
 <!-- fix_marker ends -->

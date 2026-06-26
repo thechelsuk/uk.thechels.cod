@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree overgrown, causing damage to pavement, headheight branches and encroaching on my property. Please can it be tidied up and cut back. Many thanks, 26th June :- [9689972](https://www.fixmystreet.com/report/9689972)
+- Has been hit, 26th June :- [9689947](https://www.fixmystreet.com/report/9689947)
 - Sign facing houses rather than pathway it was meant to be replaced by 5th April this year, 26th June :- [9689419](https://www.fixmystreet.com/report/9689419)
 - Giant hogweed reported in verge, 26th June :- [9689367](https://www.fixmystreet.com/report/9689367)
 - Long skinny tree branch snapped, still attached to tree could fallen further into road or onto person, 26th June :- [9689340](https://www.fixmystreet.com/report/9689340)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Vegetation growing in drain, 25th June :- [9684931](https://www.fixmystreet.com/report/9684931)
 - Fly tipped fridge and washing machine, 25th June :- [9684848](https://www.fixmystreet.com/report/9684848)
 - Tarmac crumbling on pafh, 25th June :- [9684722](https://www.fixmystreet.com/report/9684722)
-- 5 street lights outside Leckhampton High School are not working.Have have been broken for months, 25th June :- [9684652](https://www.fixmystreet.com/report/9684652)
-- Large portion of tree cracked off slightly obstructing pavement, 25th June :- [9684478](https://www.fixmystreet.com/report/9684478)
 
 <!-- fix_marker ends -->

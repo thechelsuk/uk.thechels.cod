@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 26th June :- [9686882](https://www.fixmystreet.com/report/9686882)
+- See photo, 26th June :- [9686684](https://www.fixmystreet.com/report/9686684)
 - Over hanging tree and breaking pavement, 26th June :- [9686166](https://www.fixmystreet.com/report/9686166)
 - The vegetation is too high to see into the roundabout, 26th June :- [9685738](https://www.fixmystreet.com/report/9685738)
 - TMC - Defects -other CW6 problem, 26th June :- [9685745](https://www.fixmystreet.com/report/9685745)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Overgrown trees implicated in subsidence of adjacent building, 25th June :- [9682838](https://www.fixmystreet.com/report/9682838)
 - TMC - Defects - Vegetation problem, 25th June :- [9682357](https://www.fixmystreet.com/report/9682357)
 - TMC - Defects - Vegetation problem, 25th June :- [9682355](https://www.fixmystreet.com/report/9682355)
-- TMC - Defects - Covers, Gratings & Frames problem, 25th June :- [9682356](https://www.fixmystreet.com/report/9682356)
-- TMC - Defects -FW6 Potholes problem, 25th June :- [9682337](https://www.fixmystreet.com/report/9682337)
 
 <!-- fix_marker ends -->

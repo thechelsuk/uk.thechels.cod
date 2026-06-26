@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Crossing audible sound too loud/soft problem, 26th June :- [9687968](https://www.fixmystreet.com/report/9687968)
 - Road marking white lines or studs problem, 26th June :- [9687649](https://www.fixmystreet.com/report/9687649)
 - Tree is damaged problem, 26th June :- [9687498](https://www.fixmystreet.com/report/9687498)
 - Loud noise and potential defect in manhole cover, 26th June :- [9687419](https://www.fixmystreet.com/report/9687419)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Gl33rf, 25th June :- [9683645](https://www.fixmystreet.com/report/9683645)
 - Raised tree roots causing trip hazard, 25th June :- [9683407](https://www.fixmystreet.com/report/9683407)
 - The Public Footpath (EBW2) is illegally blockked, 25th June :- [9683150](https://www.fixmystreet.com/report/9683150)
-- Tree is damaged problem, 25th June :- [9682908](https://www.fixmystreet.com/report/9682908)
 
 <!-- fix_marker ends -->

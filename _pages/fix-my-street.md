@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road marking white lines or studs problem, 26th June :- [9687649](https://www.fixmystreet.com/report/9687649)
+- Tree is damaged problem, 26th June :- [9687498](https://www.fixmystreet.com/report/9687498)
+- Loud noise and potential defect in manhole cover, 26th June :- [9687419](https://www.fixmystreet.com/report/9687419)
 - A pothole in road problem, 26th June :- [9686882](https://www.fixmystreet.com/report/9686882)
 - See photo, 26th June :- [9686684](https://www.fixmystreet.com/report/9686684)
 - Over hanging tree and breaking pavement, 26th June :- [9686166](https://www.fixmystreet.com/report/9686166)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Raised tree roots causing trip hazard, 25th June :- [9683407](https://www.fixmystreet.com/report/9683407)
 - The Public Footpath (EBW2) is illegally blockked, 25th June :- [9683150](https://www.fixmystreet.com/report/9683150)
 - Tree is damaged problem, 25th June :- [9682908](https://www.fixmystreet.com/report/9682908)
-- Overgrown trees implicated in subsidence of adjacent building, 25th June :- [9682838](https://www.fixmystreet.com/report/9682838)
-- TMC - Defects - Vegetation problem, 25th June :- [9682357](https://www.fixmystreet.com/report/9682357)
-- TMC - Defects - Vegetation problem, 25th June :- [9682355](https://www.fixmystreet.com/report/9682355)
 
 <!-- fix_marker ends -->

@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Friday, 26 June 2026
 
-- The average temperature today is 27.93˚C,
-- With highs of 29.28˚C and lows of 27.76˚C,
-- It may feel like 28.74˚C with scattered clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 54%
+- The average temperature today is 25.38˚C,
+- With highs of 25.38˚C and lows of 25.38˚C,
+- It may feel like 25.51˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 59%
 - The sun will rise at 03:50 and set at 20:31
 
 <!-- weather_marker ends -->

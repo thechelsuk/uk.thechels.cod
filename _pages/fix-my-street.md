@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign facing houses rather than pathway it was meant to be replaced by 5th April this year, 26th June :- [9689419](https://www.fixmystreet.com/report/9689419)
+- Giant hogweed reported in verge, 26th June :- [9689367](https://www.fixmystreet.com/report/9689367)
 - Long skinny tree branch snapped, still attached to tree could fallen further into road or onto person, 26th June :- [9689340](https://www.fixmystreet.com/report/9689340)
 - Traffic lights are off, 26th June :- [9689193](https://www.fixmystreet.com/report/9689193)
 - Crossing audible sound too loud/soft problem, 26th June :- [9687968](https://www.fixmystreet.com/report/9687968)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Tarmac crumbling on pafh, 25th June :- [9684722](https://www.fixmystreet.com/report/9684722)
 - 5 street lights outside Leckhampton High School are not working.Have have been broken for months, 25th June :- [9684652](https://www.fixmystreet.com/report/9684652)
 - Large portion of tree cracked off slightly obstructing pavement, 25th June :- [9684478](https://www.fixmystreet.com/report/9684478)
-- Various broken and uneven slabs outside 35 Camden road and round the corner into Bisley road, 25th June :- [9683848](https://www.fixmystreet.com/report/9683848)
-- Gl33rf, 25th June :- [9683645](https://www.fixmystreet.com/report/9683645)
 
 <!-- fix_marker ends -->

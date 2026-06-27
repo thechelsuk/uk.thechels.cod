@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Thieves steal diggers and trailers worth £35,000 ([6 hours ago](https://www.bbc.co.uk/news/articles/cn0vkx9wzw2o?at_medium=RSS&at_campaign=rss))
-- 'I'm probably UK's oldest working comedian - I love it' ([14 hours ago](https://www.bbc.co.uk/news/articles/ckg0ejyy70wo?at_medium=RSS&at_campaign=rss))
-- 'Lifelong Rovers fan tribute' and 'school heatwave closures' ([14 hours ago](https://www.bbc.co.uk/news/articles/crlwz55z027o?at_medium=RSS&at_campaign=rss))
+- Thieves steal diggers and trailers worth £35,000 ([8 hours ago](https://www.bbc.co.uk/news/articles/cn0vkx9wzw2o?at_medium=RSS&at_campaign=rss))
+- 'I'm probably UK's oldest working comedian - I love it' ([16 hours ago](https://www.bbc.co.uk/news/articles/ckg0ejyy70wo?at_medium=RSS&at_campaign=rss))
+- 'Lifelong Rovers fan tribute' and 'school heatwave closures' ([16 hours ago](https://www.bbc.co.uk/news/articles/crlwz55z027o?at_medium=RSS&at_campaign=rss))
 - Health fears as water cut off on hottest days ([1 days ago](https://www.bbc.co.uk/news/articles/c4gypnz9x20o?at_medium=RSS&at_campaign=rss))
 - Tilly the Otter gets frozen birthday cake at WWT Slimbridge ([1 days ago](https://www.bbc.co.uk/news/videos/c6215p6r9yxo?at_medium=RSS&at_campaign=rss))
 - Water supply row escalates during heatwave ([1 days ago](https://www.bbc.co.uk/news/articles/cn591vp7w43o?at_medium=RSS&at_campaign=rss))

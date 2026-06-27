@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Damage to curb from waste recycling lorry outside 3 Hatherley Gate, 27th June :- [9693307](https://www.fixmystreet.com/report/9693307)
 - A pothole in road problem, 27th June :- [9693235](https://www.fixmystreet.com/report/9693235)
 - Glass in childrens play area benhall park, 27th June :- [9692671](https://www.fixmystreet.com/report/9692671)
 - Glass in Childrens Play Area, 27th June :- [9692672](https://www.fixmystreet.com/report/9692672)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Fly tipping outside no 90, 27th June :- [9691504](https://www.fixmystreet.com/report/9691504)
 - Kerb and pipe exposed outside no 113, 27th June :- [9691495](https://www.fixmystreet.com/report/9691495)
 - Pothole, 27th June :- [9691486](https://www.fixmystreet.com/report/9691486)
-- Broken glass, 27th June :- [9691478](https://www.fixmystreet.com/report/9691478)
 
 <!-- fix_marker ends -->

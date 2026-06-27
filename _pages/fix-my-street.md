@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mid-sized black canister left on grass verge slightly further up from bus stop going towards hucclecote, 27th June :- [9691170](https://www.fixmystreet.com/report/9691170)
+- Large pothole on bus route, 27th June :- [9691125](https://www.fixmystreet.com/report/9691125)
+- Pothole/sinkhole developing, 27th June :- [9691111](https://www.fixmystreet.com/report/9691111)
+- A pothole in road problem, 27th June :- [9691186](https://www.fixmystreet.com/report/9691186)
+- Hole appeared in Brighton Road outside no. 50, 27th June :- [9690119](https://www.fixmystreet.com/report/9690119)
+- Overgrown trees/bush, 27th June :- [9690812](https://www.fixmystreet.com/report/9690812)
 - Public footpath obstructed, 27th June :- [9690762](https://www.fixmystreet.com/report/9690762)
 - New tree water bag not working, 27th June :- [9690062](https://www.fixmystreet.com/report/9690062)
 - Overgrown grass verge, 27th June :- [9690491](https://www.fixmystreet.com/report/9690491)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Crossing audible sound too loud/soft problem, 26th June :- [9687968](https://www.fixmystreet.com/report/9687968)
 - Road marking white lines or studs problem, 26th June :- [9687649](https://www.fixmystreet.com/report/9687649)
 - Tree is damaged problem, 26th June :- [9687498](https://www.fixmystreet.com/report/9687498)
-- Loud noise and potential defect in manhole cover, 26th June :- [9687419](https://www.fixmystreet.com/report/9687419)
-- A pothole in road problem, 26th June :- [9686882](https://www.fixmystreet.com/report/9686882)
-- See photo, 26th June :- [9686684](https://www.fixmystreet.com/report/9686684)
-- Over hanging tree and breaking pavement, 26th June :- [9686166](https://www.fixmystreet.com/report/9686166)
-- The vegetation is too high to see into the roundabout, 26th June :- [9685738](https://www.fixmystreet.com/report/9685738)
-- TMC - Defects -other CW6 problem, 26th June :- [9685745](https://www.fixmystreet.com/report/9685745)
 
 <!-- fix_marker ends -->

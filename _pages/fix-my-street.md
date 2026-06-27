@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipped item, 27th June :- [9692095](https://www.fixmystreet.com/report/9692095)
+- Volunteer litter pick bags ready for collection, 27th June :- [9692042](https://www.fixmystreet.com/report/9692042)
+- Loose ironwork cover in middle of Cirencester Road opposite junction of Bradley Road. Very noisy when vehicles drive over it, which is constantly., 27th June :- [9691933](https://www.fixmystreet.com/report/9691933)
 - Overgrown tree, 27th June :- [9691730](https://www.fixmystreet.com/report/9691730)
 - Traffic lights set up again this morning on the Shurdington Road with absolutely no sign of any works. This is the second weekend in succession!, 27th June :- [9691707](https://www.fixmystreet.com/report/9691707)
 - Abandoned bicycle., 27th June :- [9691659](https://www.fixmystreet.com/report/9691659)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Ragwort, 27th June :- [9691416](https://www.fixmystreet.com/report/9691416)
 - Vegetarian overgrowing into road, 27th June :- [9691392](https://www.fixmystreet.com/report/9691392)
 - Pavement bloked, 27th June :- [9691382](https://www.fixmystreet.com/report/9691382)
-- Dangerous pot holes vet deep, 27th June :- [9691366](https://www.fixmystreet.com/report/9691366)
-- Metal panel flytipped, 27th June :- [9691361](https://www.fixmystreet.com/report/9691361)
-- Missing roadmarkings, 27th June :- [9691360](https://www.fixmystreet.com/report/9691360)
 
 <!-- fix_marker ends -->

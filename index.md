@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Saturday, 27 June 2026
 
-- The average temperature today is 17.01˚C,
-- With highs of 17.05˚C and lows of 16.58˚C,
-- It may feel like 17.04˚C with scattered clouds
-- The wind speed is 2.82m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 87%
+- The average temperature today is 20.6˚C,
+- With highs of 20.85˚C and lows of 20.38˚C,
+- It may feel like 20.7˚C with broken clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 76%
 - The sun will rise at 03:50 and set at 20:31
 
 <!-- weather_marker ends -->

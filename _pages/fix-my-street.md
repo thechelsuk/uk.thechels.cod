@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Overgrown grass verge, 27th June :- [9690491](https://www.fixmystreet.com/report/9690491)
 - Drains, 26th June :- [9690167](https://www.fixmystreet.com/report/9690167)
 - Deep hole like a sinkhole, 26th June :- [9690110](https://www.fixmystreet.com/report/9690110)
 - Tree overgrown, causing damage to pavement, headheight branches and encroaching on my property. Please can it be tidied up and cut back. Many thanks, 26th June :- [9689972](https://www.fixmystreet.com/report/9689972)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 26th June :- [9685745](https://www.fixmystreet.com/report/9685745)
 - TMC - Defects -FW6 Potholes problem, 26th June :- [9685741](https://www.fixmystreet.com/report/9685741)
 - Over grown grass/weeds blocking view of junction, 25th June :- [9685162](https://www.fixmystreet.com/report/9685162)
-- Vegetation growing in drain, 25th June :- [9684931](https://www.fixmystreet.com/report/9684931)
 
 <!-- fix_marker ends -->

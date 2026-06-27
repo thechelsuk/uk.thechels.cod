@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 27th June :- [9693235](https://www.fixmystreet.com/report/9693235)
 - Glass in childrens play area benhall park, 27th June :- [9692671](https://www.fixmystreet.com/report/9692671)
 - Glass in Childrens Play Area, 27th June :- [9692672](https://www.fixmystreet.com/report/9692672)
 - A small metal cover repeatedly gets lifted off the grass verge, 27th June :- [9692562](https://www.fixmystreet.com/report/9692562)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Kerb and pipe exposed outside no 113, 27th June :- [9691495](https://www.fixmystreet.com/report/9691495)
 - Pothole, 27th June :- [9691486](https://www.fixmystreet.com/report/9691486)
 - Broken glass, 27th June :- [9691478](https://www.fixmystreet.com/report/9691478)
-- Overgrown verges and overhanging trees, 27th June :- [9691474](https://www.fixmystreet.com/report/9691474)
 
 <!-- fix_marker ends -->

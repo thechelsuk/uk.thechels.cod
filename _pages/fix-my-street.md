@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Glass in childrens play area benhall park, 27th June :- [9692671](https://www.fixmystreet.com/report/9692671)
+- Glass in Childrens Play Area, 27th June :- [9692672](https://www.fixmystreet.com/report/9692672)
 - A small metal cover repeatedly gets lifted off the grass verge, 27th June :- [9692562](https://www.fixmystreet.com/report/9692562)
 - Grass verge extremely overgrown obstructing view, 27th June :- [9692552](https://www.fixmystreet.com/report/9692552)
 - Road collapsing into the ditch, 27th June :- [9692302](https://www.fixmystreet.com/report/9692302)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole, 27th June :- [9691486](https://www.fixmystreet.com/report/9691486)
 - Broken glass, 27th June :- [9691478](https://www.fixmystreet.com/report/9691478)
 - Overgrown verges and overhanging trees, 27th June :- [9691474](https://www.fixmystreet.com/report/9691474)
-- This is the alley way between Clyde rd and Trent rd, 27th June :- [9691463](https://www.fixmystreet.com/report/9691463)
-- Overgrown verges, 27th June :- [9691460](https://www.fixmystreet.com/report/9691460)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Public footpath obstructed, 27th June :- [9690762](https://www.fixmystreet.com/report/9690762)
+- New tree water bag not working, 27th June :- [9690062](https://www.fixmystreet.com/report/9690062)
 - Overgrown grass verge, 27th June :- [9690491](https://www.fixmystreet.com/report/9690491)
 - Drains, 26th June :- [9690167](https://www.fixmystreet.com/report/9690167)
 - Deep hole like a sinkhole, 26th June :- [9690110](https://www.fixmystreet.com/report/9690110)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Over hanging tree and breaking pavement, 26th June :- [9686166](https://www.fixmystreet.com/report/9686166)
 - The vegetation is too high to see into the roundabout, 26th June :- [9685738](https://www.fixmystreet.com/report/9685738)
 - TMC - Defects -other CW6 problem, 26th June :- [9685745](https://www.fixmystreet.com/report/9685745)
-- TMC - Defects -FW6 Potholes problem, 26th June :- [9685741](https://www.fixmystreet.com/report/9685741)
-- Over grown grass/weeds blocking view of junction, 25th June :- [9685162](https://www.fixmystreet.com/report/9685162)
 
 <!-- fix_marker ends -->

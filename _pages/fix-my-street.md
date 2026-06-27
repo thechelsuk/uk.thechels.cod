@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A small metal cover repeatedly gets lifted off the grass verge, 27th June :- [9692562](https://www.fixmystreet.com/report/9692562)
+- Grass verge extremely overgrown obstructing view, 27th June :- [9692552](https://www.fixmystreet.com/report/9692552)
+- Road collapsing into the ditch, 27th June :- [9692302](https://www.fixmystreet.com/report/9692302)
+- Very large tree branch on corner of Brooklyn Road and Arle Road, 27th June :- [9692234](https://www.fixmystreet.com/report/9692234)
+- Overgrown grass causing obstruction on junction, 27th June :- [9692223](https://www.fixmystreet.com/report/9692223)
 - Flytipped item, 27th June :- [9692095](https://www.fixmystreet.com/report/9692095)
 - Volunteer litter pick bags ready for collection, 27th June :- [9692042](https://www.fixmystreet.com/report/9692042)
 - Loose ironwork cover in middle of Cirencester Road opposite junction of Bradley Road. Very noisy when vehicles drive over it, which is constantly., 27th June :- [9691933](https://www.fixmystreet.com/report/9691933)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Overgrown verges and overhanging trees, 27th June :- [9691474](https://www.fixmystreet.com/report/9691474)
 - This is the alley way between Clyde rd and Trent rd, 27th June :- [9691463](https://www.fixmystreet.com/report/9691463)
 - Overgrown verges, 27th June :- [9691460](https://www.fixmystreet.com/report/9691460)
-- Pothole, 27th June :- [9691446](https://www.fixmystreet.com/report/9691446)
-- Ragwort, 27th June :- [9691433](https://www.fixmystreet.com/report/9691433)
-- Ragwort, 27th June :- [9691416](https://www.fixmystreet.com/report/9691416)
-- Vegetarian overgrowing into road, 27th June :- [9691392](https://www.fixmystreet.com/report/9691392)
-- Pavement bloked, 27th June :- [9691382](https://www.fixmystreet.com/report/9691382)
 
 <!-- fix_marker ends -->

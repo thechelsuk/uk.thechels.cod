@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Sunday, 28 June 2026
 
-- The average temperature today is 22.07˚C,
-- With highs of 22.69˚C and lows of 21.64˚C,
-- It may feel like 21.53˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 46%
+- The average temperature today is 21.48˚C,
+- With highs of 22.06˚C and lows of 20.47˚C,
+- It may feel like 20.91˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 47%
 - The sun will rise at 03:51 and set at 20:31
 
 <!-- weather_marker ends -->

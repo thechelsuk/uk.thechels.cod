@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Junction of Burleigh Croft and Chosen Way, Hucclecote, 28th June :- [9697085](https://www.fixmystreet.com/report/9697085)
 - Fly tipping horsebere brook sandyleaze playing field, 28th June :- [9694981](https://www.fixmystreet.com/report/9694981)
 - Blocked brain on Lypiatt Drive, 28th June :- [9694747](https://www.fixmystreet.com/report/9694747)
 - Large pothole on entrance/exit to kingsditch, 28th June :- [9694654](https://www.fixmystreet.com/report/9694654)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection, 27th June :- [9692042](https://www.fixmystreet.com/report/9692042)
 - Loose ironwork cover in middle of Cirencester Road opposite junction of Bradley Road. Very noisy when vehicles drive over it, which is constantly., 27th June :- [9691933](https://www.fixmystreet.com/report/9691933)
 - Overgrown tree, 27th June :- [9691730](https://www.fixmystreet.com/report/9691730)
-- Traffic lights set up again this morning on the Shurdington Road with absolutely no sign of any works. This is the second weekend in succession!, 27th June :- [9691707](https://www.fixmystreet.com/report/9691707)
 
 <!-- fix_marker ends -->

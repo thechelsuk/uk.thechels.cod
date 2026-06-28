@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lamp post light not working, 28th June :- [9697694](https://www.fixmystreet.com/report/9697694)
+- Large (30-40 cm in diameter) ash tree fallen across path-route can be accessed by ducking underneath, 28th June :- [9697604](https://www.fixmystreet.com/report/9697604)
 - Disgusting mattress, 28th June :- [9697522](https://www.fixmystreet.com/report/9697522)
 - Signs left behind after road resurfacing, 28th June :- [9697298](https://www.fixmystreet.com/report/9697298)
 - Start of a sink hole!, 28th June :- [9697179](https://www.fixmystreet.com/report/9697179)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Grass verge extremely overgrown obstructing view, 27th June :- [9692552](https://www.fixmystreet.com/report/9692552)
 - Road collapsing into the ditch, 27th June :- [9692302](https://www.fixmystreet.com/report/9692302)
 - Very large tree branch on corner of Brooklyn Road and Arle Road, 27th June :- [9692234](https://www.fixmystreet.com/report/9692234)
-- Overgrown grass causing obstruction on junction, 27th June :- [9692223](https://www.fixmystreet.com/report/9692223)
-- Flytipped item, 27th June :- [9692095](https://www.fixmystreet.com/report/9692095)
 
 <!-- fix_marker ends -->

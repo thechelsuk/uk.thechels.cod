@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping horsebere brook sandyleaze playing field, 28th June :- [9694981](https://www.fixmystreet.com/report/9694981)
+- Blocked brain on Lypiatt Drive, 28th June :- [9694747](https://www.fixmystreet.com/report/9694747)
+- Large pothole on entrance/exit to kingsditch, 28th June :- [9694654](https://www.fixmystreet.com/report/9694654)
+- Fly tipping bin over spill, 28th June :- [9694576](https://www.fixmystreet.com/report/9694576)
 - Pothole that has grown in size., 28th June :- [9694172](https://www.fixmystreet.com/report/9694172)
 - Road surface under bridge, 28th June :- [9694111](https://www.fixmystreet.com/report/9694111)
 - Damage to curb from waste recycling lorry outside 3 Hatherley Gate, 27th June :- [9693307](https://www.fixmystreet.com/report/9693307)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Loose ironwork cover in middle of Cirencester Road opposite junction of Bradley Road. Very noisy when vehicles drive over it, which is constantly., 27th June :- [9691933](https://www.fixmystreet.com/report/9691933)
 - Overgrown tree, 27th June :- [9691730](https://www.fixmystreet.com/report/9691730)
 - Traffic lights set up again this morning on the Shurdington Road with absolutely no sign of any works. This is the second weekend in succession!, 27th June :- [9691707](https://www.fixmystreet.com/report/9691707)
-- Abandoned bicycle., 27th June :- [9691659](https://www.fixmystreet.com/report/9691659)
-- Fly tipping, 27th June :- [9691575](https://www.fixmystreet.com/report/9691575)
-- Pothole, 27th June :- [9691531](https://www.fixmystreet.com/report/9691531)
-- Fly tipping outside no 90, 27th June :- [9691504](https://www.fixmystreet.com/report/9691504)
 
 <!-- fix_marker ends -->

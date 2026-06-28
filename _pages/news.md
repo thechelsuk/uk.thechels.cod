@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Social media contributed to our son's murder' ([3 hours ago](https://www.bbc.co.uk/news/articles/c20yeykv2yxo?at_medium=RSS&at_campaign=rss))
-- In pictures: Storms, solstice and staying cool ([3 hours ago](https://www.bbc.co.uk/news/articles/c6210z5x60jo?at_medium=RSS&at_campaign=rss))
-- Thieves steal diggers and trailers worth £35,000 ([19 hours ago](https://www.bbc.co.uk/news/articles/cn0vkx9wzw2o?at_medium=RSS&at_campaign=rss))
+- 'Social media contributed to our son's murder' ([4 hours ago](https://www.bbc.co.uk/news/articles/c20yeykv2yxo?at_medium=RSS&at_campaign=rss))
+- In pictures: Storms, solstice and staying cool ([4 hours ago](https://www.bbc.co.uk/news/articles/c6210z5x60jo?at_medium=RSS&at_campaign=rss))
+- Thieves steal diggers and trailers worth £35,000 ([20 hours ago](https://www.bbc.co.uk/news/articles/cn0vkx9wzw2o?at_medium=RSS&at_campaign=rss))
 - 'I'm probably UK's oldest working comedian - I love it' ([1 days ago](https://www.bbc.co.uk/news/articles/ckg0ejyy70wo?at_medium=RSS&at_campaign=rss))
 - 'Lifelong Rovers fan tribute' and 'school heatwave closures' ([1 days ago](https://www.bbc.co.uk/news/articles/crlwz55z027o?at_medium=RSS&at_campaign=rss))
 - Health fears as water cut off on hottest days ([1 days ago](https://www.bbc.co.uk/news/articles/c4gypnz9x20o?at_medium=RSS&at_campaign=rss))
@@ -29,6 +29,16 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Burn warning over microwave squishy toy trend ([2 days ago](https://www.bbc.co.uk/news/articles/c5yz402rrjzo?at_medium=RSS&at_campaign=rss))
 - Record number of ambulance calls during heatwave ([2 days ago](https://www.bbc.co.uk/news/articles/cvgdw582wgwo?at_medium=RSS&at_campaign=rss))
 - The heatwave workers 'like cats on a hot tin roof' ([3 days ago](https://www.bbc.co.uk/news/articles/c15ykxp158yo?at_medium=RSS&at_campaign=rss))
+- Concerns over ‘blanket 20mph limit’ ([3 days ago](https://gloucesternewscentre.co.uk/concerns-over-blanket-20mph-limit/))
 - Need To Know Gloucestershire ([4 days ago](https://www.bbc.co.uk/sounds/play/p0ntm17v?at_medium=RSS&at_campaign=rss))
+- Cheltenham boundary consultation opens ([5 days ago](https://gloucesternewscentre.co.uk/cheltenham-boundary-consultation-opens/))
+- Green light for car boot sale amid cycle path hazard fears ([12 days ago](https://gloucesternewscentre.co.uk/green-light-for-car-boot-sale-amid-cycle-path-hazard-fears/))
+- Preferred new council names put forward ([16 days ago](https://gloucesternewscentre.co.uk/preferred-new-council-names-put-forward/))
+- Appeal for information following theft of 6,000 litres of petrol ([19 days ago](https://gloucesternewscentre.co.uk/appeal-for-information-following-theft-of-6000-litres-of-petrol/))
+- Devil’s Chimney reserve gains national status ([24 days ago](https://gloucesternewscentre.co.uk/devils-chimney-reserve-gains-national-status/))
+- Cabinet to decide on next stage of M5 Junction 10 project ([24 days ago](https://gloucesternewscentre.co.uk/cabinet-to-decide-on-next-stage-of-m5-junction-10-project/))
+- ‘Striking’ plans for Cavendish House unveiled ([25 days ago](https://gloucesternewscentre.co.uk/striking-plans-for-cavendish-house-unveiled/))
+- Uni student wins Football Writer of the Year award ([25 days ago](https://gloucesternewscentre.co.uk/uni-student-wins-football-writer-of-the-year-award/))
+- Woman arrested after number of assaults in Cheltenham ([25 days ago](https://gloucesternewscentre.co.uk/woman-arrsted-after-number-of-assaults-in-cheltenham/))
 
 <!-- news_marker ends -->

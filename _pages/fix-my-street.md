@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole that has grown in size., 28th June :- [9694172](https://www.fixmystreet.com/report/9694172)
+- Road surface under bridge, 28th June :- [9694111](https://www.fixmystreet.com/report/9694111)
 - Damage to curb from waste recycling lorry outside 3 Hatherley Gate, 27th June :- [9693307](https://www.fixmystreet.com/report/9693307)
 - A pothole in road problem, 27th June :- [9693235](https://www.fixmystreet.com/report/9693235)
 - Glass in childrens play area benhall park, 27th June :- [9692671](https://www.fixmystreet.com/report/9692671)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Fly tipping, 27th June :- [9691575](https://www.fixmystreet.com/report/9691575)
 - Pothole, 27th June :- [9691531](https://www.fixmystreet.com/report/9691531)
 - Fly tipping outside no 90, 27th June :- [9691504](https://www.fixmystreet.com/report/9691504)
-- Kerb and pipe exposed outside no 113, 27th June :- [9691495](https://www.fixmystreet.com/report/9691495)
-- Pothole, 27th June :- [9691486](https://www.fixmystreet.com/report/9691486)
 
 <!-- fix_marker ends -->

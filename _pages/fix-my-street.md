@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Disgusting mattress, 28th June :- [9697522](https://www.fixmystreet.com/report/9697522)
+- Signs left behind after road resurfacing, 28th June :- [9697298](https://www.fixmystreet.com/report/9697298)
+- Start of a sink hole!, 28th June :- [9697179](https://www.fixmystreet.com/report/9697179)
 - Junction of Burleigh Croft and Chosen Way, Hucclecote, 28th June :- [9697085](https://www.fixmystreet.com/report/9697085)
 - Fly tipping horsebere brook sandyleaze playing field, 28th June :- [9694981](https://www.fixmystreet.com/report/9694981)
 - Blocked brain on Lypiatt Drive, 28th June :- [9694747](https://www.fixmystreet.com/report/9694747)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Very large tree branch on corner of Brooklyn Road and Arle Road, 27th June :- [9692234](https://www.fixmystreet.com/report/9692234)
 - Overgrown grass causing obstruction on junction, 27th June :- [9692223](https://www.fixmystreet.com/report/9692223)
 - Flytipped item, 27th June :- [9692095](https://www.fixmystreet.com/report/9692095)
-- Volunteer litter pick bags ready for collection, 27th June :- [9692042](https://www.fixmystreet.com/report/9692042)
-- Loose ironwork cover in middle of Cirencester Road opposite junction of Bradley Road. Very noisy when vehicles drive over it, which is constantly., 27th June :- [9691933](https://www.fixmystreet.com/report/9691933)
-- Overgrown tree, 27th June :- [9691730](https://www.fixmystreet.com/report/9691730)
 
 <!-- fix_marker ends -->

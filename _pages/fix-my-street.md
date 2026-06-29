@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dead tree and fallen tree, 29th June :- [9704415](https://www.fixmystreet.com/report/9704415)
 - Loose cover, 29th June :- [9703786](https://www.fixmystreet.com/report/9703786)
 - No timetable, 29th June :- [9703440](https://www.fixmystreet.com/report/9703440)
 - Dumped shopping trolleys, 29th June :- [9702358](https://www.fixmystreet.com/report/9702358)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Covers, Gratings & Frames problem, 29th June :- [9702313](https://www.fixmystreet.com/report/9702313)
 - Bridle path by Rushbury house overgrown and path from Rushbury through to Wickfield lane impassable, 29th June :- [9701933](https://www.fixmystreet.com/report/9701933)
 - The drain is blocked problem, 29th June :- [9702035](https://www.fixmystreet.com/report/9702035)
-- TMC - Defects - Other FW6  Surface problem, 29th June :- [9702036](https://www.fixmystreet.com/report/9702036)
 
 <!-- fix_marker ends -->

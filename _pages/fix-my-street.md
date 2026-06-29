@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Stile obstructed, 29th June :- [9698109](https://www.fixmystreet.com/report/9698109)
+- Parabola Road deep long narrow trench, 29th June :- [9697959](https://www.fixmystreet.com/report/9697959)
 - Lamp post light not working, 28th June :- [9697694](https://www.fixmystreet.com/report/9697694)
 - Large (30-40 cm in diameter) ash tree fallen across path-route can be accessed by ducking underneath, 28th June :- [9697604](https://www.fixmystreet.com/report/9697604)
 - Disgusting mattress, 28th June :- [9697522](https://www.fixmystreet.com/report/9697522)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Glass in Childrens Play Area, 27th June :- [9692672](https://www.fixmystreet.com/report/9692672)
 - A small metal cover repeatedly gets lifted off the grass verge, 27th June :- [9692562](https://www.fixmystreet.com/report/9692562)
 - Grass verge extremely overgrown obstructing view, 27th June :- [9692552](https://www.fixmystreet.com/report/9692552)
-- Road collapsing into the ditch, 27th June :- [9692302](https://www.fixmystreet.com/report/9692302)
-- Very large tree branch on corner of Brooklyn Road and Arle Road, 27th June :- [9692234](https://www.fixmystreet.com/report/9692234)
 
 <!-- fix_marker ends -->

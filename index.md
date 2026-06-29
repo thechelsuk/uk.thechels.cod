@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Monday, 29 June 2026
 
-- The average temperature today is 12.6˚C,
-- With highs of 12.61˚C and lows of 11.03˚C,
-- It may feel like 12.16˚C with few clouds
+- The average temperature today is 11.43˚C,
+- With highs of 12.05˚C and lows of 11.4˚C,
+- It may feel like 10.95˚C with few clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 86%
+- The pressure is 1024hPa and humidity is 89%
 - The sun will rise at 03:51 and set at 20:31
 
 <!-- weather_marker ends -->

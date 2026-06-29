@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man arrested after car hits child on zebra crossing ([11 hours ago](https://www.bbc.co.uk/news/articles/ce95yzdmnymo?at_medium=RSS&at_campaign=rss))
-- Gloucester 10k raises thousands for charity ([12 hours ago](https://www.bbc.co.uk/news/articles/cgjxnjxggedo?at_medium=RSS&at_campaign=rss))
-- 'Social media contributed to our son's murder' ([18 hours ago](https://www.bbc.co.uk/news/articles/c20yeykv2yxo?at_medium=RSS&at_campaign=rss))
-- In pictures: Storms, solstice and staying cool ([19 hours ago](https://www.bbc.co.uk/news/articles/c6210z5x60jo?at_medium=RSS&at_campaign=rss))
+- Man arrested after car hits child on zebra crossing ([14 hours ago](https://www.bbc.co.uk/news/articles/ce95yzdmnymo?at_medium=RSS&at_campaign=rss))
+- Gloucester 10k raises thousands for charity ([15 hours ago](https://www.bbc.co.uk/news/articles/cgjxnjxggedo?at_medium=RSS&at_campaign=rss))
+- 'Social media contributed to our son's murder' ([21 hours ago](https://www.bbc.co.uk/news/articles/c20yeykv2yxo?at_medium=RSS&at_campaign=rss))
+- In pictures: Storms, solstice and staying cool ([21 hours ago](https://www.bbc.co.uk/news/articles/c6210z5x60jo?at_medium=RSS&at_campaign=rss))
 - Thieves steal diggers and trailers worth £35,000 ([1 days ago](https://www.bbc.co.uk/news/articles/cn0vkx9wzw2o?at_medium=RSS&at_campaign=rss))
 - 'I'm probably UK's oldest working comedian - I love it' ([1 days ago](https://www.bbc.co.uk/news/articles/ckg0ejyy70wo?at_medium=RSS&at_campaign=rss))
 - 'Lifelong Rovers fan tribute' and 'school heatwave closures' ([1 days ago](https://www.bbc.co.uk/news/articles/crlwz55z027o?at_medium=RSS&at_campaign=rss))

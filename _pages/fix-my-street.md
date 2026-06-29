@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street Light not working, 29th June :- [9705259](https://www.fixmystreet.com/report/9705259)
 - Drains blocked causing disgusting sewage smell, 29th June :- [9704979](https://www.fixmystreet.com/report/9704979)
 - A large quantity of fly tipping is obstructing a small carpark and spoiling the natural beauty of the common., 29th June :- [9704785](https://www.fixmystreet.com/report/9704785)
 - Dead tree and fallen tree, 29th June :- [9704415](https://www.fixmystreet.com/report/9704415)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 29th June :- [9702319](https://www.fixmystreet.com/report/9702319)
 - TMC - Defects - Vegetation problem, 29th June :- [9702318](https://www.fixmystreet.com/report/9702318)
 - TMC - Defects - Vegetation problem, 29th June :- [9702314](https://www.fixmystreet.com/report/9702314)
-- TMC - Defects - Covers, Gratings & Frames problem, 29th June :- [9702313](https://www.fixmystreet.com/report/9702313)
 
 <!-- fix_marker ends -->

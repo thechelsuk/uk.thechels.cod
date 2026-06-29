@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dumped shopping trolleys, 29th June :- [9702358](https://www.fixmystreet.com/report/9702358)
+- Previous Reports, 29th June :- [9700996](https://www.fixmystreet.com/report/9700996)
+- Style blocked by brambles, 29th June :- [9703102](https://www.fixmystreet.com/report/9703102)
+- Pavement not renewed, 29th June :- [9702735](https://www.fixmystreet.com/report/9702735)
+- Fly tipping, 29th June :- [9702663](https://www.fixmystreet.com/report/9702663)
+- TMC - Defects - Road Markings problem, 29th June :- [9702567](https://www.fixmystreet.com/report/9702567)
+- TMC - Defects - Road Markings problem, 29th June :- [9702568](https://www.fixmystreet.com/report/9702568)
 - TMC - Defects - Footways Slabs problem, 29th June :- [9702323](https://www.fixmystreet.com/report/9702323)
 - TMC - Defects - Footways Slabs problem, 29th June :- [9702322](https://www.fixmystreet.com/report/9702322)
 - TMC - Defects - Footways Slabs problem, 29th June :- [9702320](https://www.fixmystreet.com/report/9702320)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 29th June :- [9702036](https://www.fixmystreet.com/report/9702036)
 - TMC - Defects - Other FW6  Surface problem, 29th June :- [9702037](https://www.fixmystreet.com/report/9702037)
 - TMC - Defects -FW6 Potholes problem, 29th June :- [9701752](https://www.fixmystreet.com/report/9701752)
-- TMC - Defects -CW6 Potholes  problem, 29th June :- [9701745](https://www.fixmystreet.com/report/9701745)
-- TMC - Defects -CW6 Potholes  problem, 29th June :- [9701744](https://www.fixmystreet.com/report/9701744)
-- TMC - Defects -CW6 Potholes  problem, 29th June :- [9701729](https://www.fixmystreet.com/report/9701729)
-- TMC - Defects -CW6 Potholes  problem, 29th June :- [9701730](https://www.fixmystreet.com/report/9701730)
-- TMC - Defects -CW6 Potholes  problem, 29th June :- [9701728](https://www.fixmystreet.com/report/9701728)
-- TMC - Defects - Vegetation problem, 29th June :- [9701457](https://www.fixmystreet.com/report/9701457)
-- TMC - Defects - Signs & Street Furniture problem, 29th June :- [9701453](https://www.fixmystreet.com/report/9701453)
 
 <!-- fix_marker ends -->

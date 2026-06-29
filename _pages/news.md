@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Son’s cancer death inspires sun cream campaign ([5 hours ago](https://www.bbc.co.uk/news/articles/cjrg5p9x79jo?at_medium=RSS&at_campaign=rss))
-- 'It felt like life restarted after mum donated her kidney' ([5 hours ago](https://www.bbc.co.uk/news/articles/cwy03xv8exdo?at_medium=RSS&at_campaign=rss))
-- Man arrested after car hits child on zebra crossing ([20 hours ago](https://www.bbc.co.uk/news/articles/ce95yzdmnymo?at_medium=RSS&at_campaign=rss))
-- Gloucester 10k raises thousands for charity ([21 hours ago](https://www.bbc.co.uk/news/articles/cgjxnjxggedo?at_medium=RSS&at_campaign=rss))
+- Arrest after car hits child on zebra crossing ([9 minutes ago](https://www.bbc.co.uk/news/articles/ce95yzdmnymo?at_medium=RSS&at_campaign=rss))
+- Son’s cancer death inspires sun cream campaign ([7 hours ago](https://www.bbc.co.uk/news/articles/cjrg5p9x79jo?at_medium=RSS&at_campaign=rss))
+- 'It felt like life restarted after mum donated her kidney' ([7 hours ago](https://www.bbc.co.uk/news/articles/cwy03xv8exdo?at_medium=RSS&at_campaign=rss))
+- Gloucester 10k raises thousands for charity ([23 hours ago](https://www.bbc.co.uk/news/articles/cgjxnjxggedo?at_medium=RSS&at_campaign=rss))
 - 'Social media contributed to our son's murder' ([1 days ago](https://www.bbc.co.uk/news/articles/c20yeykv2yxo?at_medium=RSS&at_campaign=rss))
 - In pictures: Storms, solstice and staying cool ([1 days ago](https://www.bbc.co.uk/news/articles/c6210z5x60jo?at_medium=RSS&at_campaign=rss))
 - Thieves steal diggers and trailers worth £35,000 ([1 days ago](https://www.bbc.co.uk/news/articles/cn0vkx9wzw2o?at_medium=RSS&at_campaign=rss))
@@ -30,7 +30,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Parking review for 'Venice of the Cotswolds' ([3 days ago](https://www.bbc.co.uk/news/articles/c0myx1187d2o?at_medium=RSS&at_campaign=rss))
 - 'Selfish' drug-driver jailed after killing cyclist ([3 days ago](https://www.bbc.co.uk/news/articles/crelxwn9qd0o?at_medium=RSS&at_campaign=rss))
 - Concerns over ‘blanket 20mph limit’ ([4 days ago](https://gloucesternewscentre.co.uk/concerns-over-blanket-20mph-limit/))
-- Need To Know Gloucestershire ([5 days ago](https://www.bbc.co.uk/sounds/play/p0ntm17v?at_medium=RSS&at_campaign=rss))
+- Need To Know Gloucestershire ([6 days ago](https://www.bbc.co.uk/sounds/play/p0ntm17v?at_medium=RSS&at_campaign=rss))
 - Cheltenham boundary consultation opens ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-boundary-consultation-opens/))
 - Green light for car boot sale amid cycle path hazard fears ([13 days ago](https://gloucesternewscentre.co.uk/green-light-for-car-boot-sale-amid-cycle-path-hazard-fears/))
 - Preferred new council names put forward ([17 days ago](https://gloucesternewscentre.co.uk/preferred-new-council-names-put-forward/))

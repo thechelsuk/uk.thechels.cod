@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Man in 100-hole golf bid after wife's diagnosis ([5 hours ago](https://www.bbc.co.uk/news/articles/cvge510v9ngo?at_medium=RSS&at_campaign=rss))
-- Repairs to footbridge 'could cost more than £3m' ([5 hours ago](https://www.bbc.co.uk/news/articles/c0mykjlyw1zo?at_medium=RSS&at_campaign=rss))
-- Where is best to see the Strawberry Moon tonight? ([8 hours ago](https://www.bbc.co.uk/news/articles/c74yw0dvg8yo?at_medium=RSS&at_campaign=rss))
-- Arrest after car hits child on zebra crossing ([11 hours ago](https://www.bbc.co.uk/news/articles/ce95yzdmnymo?at_medium=RSS&at_campaign=rss))
-- Son’s cancer death inspires sun cream campaign ([17 hours ago](https://www.bbc.co.uk/news/articles/cjrg5p9x79jo?at_medium=RSS&at_campaign=rss))
-- 'It felt like life restarted after mum donated her kidney' ([17 hours ago](https://www.bbc.co.uk/news/articles/cwy03xv8exdo?at_medium=RSS&at_campaign=rss))
+- Man in 100-hole golf bid after wife's diagnosis ([7 hours ago](https://www.bbc.co.uk/news/articles/cvge510v9ngo?at_medium=RSS&at_campaign=rss))
+- Repairs to footbridge 'could cost more than £3m' ([7 hours ago](https://www.bbc.co.uk/news/articles/c0mykjlyw1zo?at_medium=RSS&at_campaign=rss))
+- Where is best to see the Strawberry Moon tonight? ([11 hours ago](https://www.bbc.co.uk/news/articles/c74yw0dvg8yo?at_medium=RSS&at_campaign=rss))
+- Arrest after car hits child on zebra crossing ([13 hours ago](https://www.bbc.co.uk/news/articles/ce95yzdmnymo?at_medium=RSS&at_campaign=rss))
+- Son’s cancer death inspires sun cream campaign ([20 hours ago](https://www.bbc.co.uk/news/articles/cjrg5p9x79jo?at_medium=RSS&at_campaign=rss))
+- 'It felt like life restarted after mum donated her kidney' ([20 hours ago](https://www.bbc.co.uk/news/articles/cwy03xv8exdo?at_medium=RSS&at_campaign=rss))
 - Gloucester 10k raises thousands for charity ([1 days ago](https://www.bbc.co.uk/news/articles/cgjxnjxggedo?at_medium=RSS&at_campaign=rss))
 - 'Social media contributed to our son's murder' ([1 days ago](https://www.bbc.co.uk/news/articles/c20yeykv2yxo?at_medium=RSS&at_campaign=rss))
 - In pictures: Storms, solstice and staying cool ([1 days ago](https://www.bbc.co.uk/news/articles/c6210z5x60jo?at_medium=RSS&at_campaign=rss))

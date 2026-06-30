@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Need to clean, 30th June :- [9711196](https://www.fixmystreet.com/report/9711196)
+- Sure not parked?, 30th June :- [9711179](https://www.fixmystreet.com/report/9711179)
+- Crossing problem, 30th June :- [9711169](https://www.fixmystreet.com/report/9711169)
+- Lines required, 30th June :- [9711155](https://www.fixmystreet.com/report/9711155)
+- Cars not using the car parks, 30th June :- [9711123](https://www.fixmystreet.com/report/9711123)
+- 10 inch pothole on Example St, near post box, 30th June :- [9711118](https://www.fixmystreet.com/report/9711118)
+- Parking restrictions, 30th June :- [9711105](https://www.fixmystreet.com/report/9711105)
+- Double yellow lines, 30th June :- [9711098](https://www.fixmystreet.com/report/9711098)
 - Tree cut back block pavement, 30th June :- [9710867](https://www.fixmystreet.com/report/9710867)
 - Double yellow lines missing, 30th June :- [9710849](https://www.fixmystreet.com/report/9710849)
 - Double yellow lines, 30th June :- [9710841](https://www.fixmystreet.com/report/9710841)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Missing double yellow lines, 30th June :- [9710744](https://www.fixmystreet.com/report/9710744)
 - Double yellow lines missing, 30th June :- [9710732](https://www.fixmystreet.com/report/9710732)
 - Double yellow lines missing, 30th June :- [9710723](https://www.fixmystreet.com/report/9710723)
-- Double yellow lines vanished, 30th June :- [9710714](https://www.fixmystreet.com/report/9710714)
-- Yellow lines missing, 30th June :- [9710705](https://www.fixmystreet.com/report/9710705)
-- Double yellow lines missing, 30th June :- [9710694](https://www.fixmystreet.com/report/9710694)
-- Missing double yellow lines, 30th June :- [9710686](https://www.fixmystreet.com/report/9710686)
-- Shouldn't there be double yellow lines here?, 30th June :- [9710665](https://www.fixmystreet.com/report/9710665)
-- Double yellow lines missing, 30th June :- [9710657](https://www.fixmystreet.com/report/9710657)
-- Double yellow lines missing, 30th June :- [9710641](https://www.fixmystreet.com/report/9710641)
-- Double yellow lines missing, 30th June :- [9710629](https://www.fixmystreet.com/report/9710629)
 
 <!-- fix_marker ends -->

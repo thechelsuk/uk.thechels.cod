@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 30th June :- [9706309](https://www.fixmystreet.com/report/9706309)
+- Large metal drain cover left on grass verge after road resurfacing works., 30th June :- [9705950](https://www.fixmystreet.com/report/9705950)
+- TMC - Defects - Other FW6  Surface problem, 30th June :- [9706061](https://www.fixmystreet.com/report/9706061)
+- TMC - Defects - Other FW6  Surface problem, 30th June :- [9706060](https://www.fixmystreet.com/report/9706060)
+- Horse and landowner obstructing footpath, 30th June :- [9705687](https://www.fixmystreet.com/report/9705687)
 - Street Light not working, 29th June :- [9705259](https://www.fixmystreet.com/report/9705259)
 - Drains blocked causing disgusting sewage smell, 29th June :- [9704979](https://www.fixmystreet.com/report/9704979)
 - A large quantity of fly tipping is obstructing a small carpark and spoiling the natural beauty of the common., 29th June :- [9704785](https://www.fixmystreet.com/report/9704785)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Road Markings problem, 29th June :- [9702568](https://www.fixmystreet.com/report/9702568)
 - TMC - Defects - Footways Slabs problem, 29th June :- [9702323](https://www.fixmystreet.com/report/9702323)
 - TMC - Defects - Footways Slabs problem, 29th June :- [9702322](https://www.fixmystreet.com/report/9702322)
-- TMC - Defects - Footways Slabs problem, 29th June :- [9702320](https://www.fixmystreet.com/report/9702320)
-- TMC - Defects - Footways Slabs problem, 29th June :- [9702321](https://www.fixmystreet.com/report/9702321)
-- TMC - Defects - Vegetation problem, 29th June :- [9702319](https://www.fixmystreet.com/report/9702319)
-- TMC - Defects - Vegetation problem, 29th June :- [9702318](https://www.fixmystreet.com/report/9702318)
-- TMC - Defects - Vegetation problem, 29th June :- [9702314](https://www.fixmystreet.com/report/9702314)
 
 <!-- fix_marker ends -->

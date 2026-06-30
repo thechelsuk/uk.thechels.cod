@@ -11,12 +11,12 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Tuesday, 30 June 2026
 
-- The average temperature today is 16.59˚C,
-- With highs of 17.06˚C and lows of 16.5˚C,
-- It may feel like 16.63˚C with few clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 89%
-- The sun will rise at 03:52 and set at 20:31
+- The average temperature today is 15.39˚C,
+- With highs of 15.39˚C and lows of 15.39˚C,
+- It may feel like 15.36˚C with few clouds
+- The wind speed is 1.77m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 91%
+- The sun will rise at 03:53 and set at 20:30
 
 <!-- weather_marker ends -->
 

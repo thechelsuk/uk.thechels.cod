@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Untidy grass along cerb, 30th June :- [9712051](https://www.fixmystreet.com/report/9712051)
 - Reportable, noxious plant, 30th June :- [9711846](https://www.fixmystreet.com/report/9711846)
 - Need to clean, 30th June :- [9711196](https://www.fixmystreet.com/report/9711196)
 - Sure not parked?, 30th June :- [9711179](https://www.fixmystreet.com/report/9711179)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Double yellow lines and stuff, 30th June :- [9710780](https://www.fixmystreet.com/report/9710780)
 - Double yellow lines please, 30th June :- [9710767](https://www.fixmystreet.com/report/9710767)
 - Missing double yellow lines, 30th June :- [9710744](https://www.fixmystreet.com/report/9710744)
-- Double yellow lines missing, 30th June :- [9710732](https://www.fixmystreet.com/report/9710732)
 
 <!-- fix_marker ends -->

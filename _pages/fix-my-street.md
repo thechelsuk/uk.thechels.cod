@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Reportable, noxious plant, 30th June :- [9711846](https://www.fixmystreet.com/report/9711846)
 - Need to clean, 30th June :- [9711196](https://www.fixmystreet.com/report/9711196)
 - Sure not parked?, 30th June :- [9711179](https://www.fixmystreet.com/report/9711179)
 - Crossing problem, 30th June :- [9711169](https://www.fixmystreet.com/report/9711169)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Double yellow lines please, 30th June :- [9710767](https://www.fixmystreet.com/report/9710767)
 - Missing double yellow lines, 30th June :- [9710744](https://www.fixmystreet.com/report/9710744)
 - Double yellow lines missing, 30th June :- [9710732](https://www.fixmystreet.com/report/9710732)
-- Double yellow lines missing, 30th June :- [9710723](https://www.fixmystreet.com/report/9710723)
 
 <!-- fix_marker ends -->

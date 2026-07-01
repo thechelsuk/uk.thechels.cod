@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sunken manhole and potholes, 1st July :- [9718185](https://www.fixmystreet.com/report/9718185)
+- Sunken manhole, 1st July :- [9718171](https://www.fixmystreet.com/report/9718171)
 - Rattling man hole cover, 1st July :- [9717986](https://www.fixmystreet.com/report/9717986)
 - Blue weight limit sign fallen and facing wrong way, 1st July :- [9717319](https://www.fixmystreet.com/report/9717319)
 - The paving slabs have been damaged by heavy vehicles driving over the slabs move when walking on which I tripped over this is a pavement many children use to walk to school and it’s dangerous, 1st July :- [9717184](https://www.fixmystreet.com/report/9717184)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Cut grass in children’s playground, 1st July :- [9716240](https://www.fixmystreet.com/report/9716240)
 - Bags of Rubbish, 1st July :- [9716097](https://www.fixmystreet.com/report/9716097)
 - Bags of Rubbish, 1st July :- [9716053](https://www.fixmystreet.com/report/9716053)
-- Rocking slab outside 31 Arle Gardens, 1st July :- [9715998](https://www.fixmystreet.com/report/9715998)
-- TMC - Defects - Vegetation problem, 1st July :- [9715877](https://www.fixmystreet.com/report/9715877)
 
 <!-- fix_marker ends -->

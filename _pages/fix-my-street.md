@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Manhole cover loose make bad noise every time vehicle goes over it, 1st July :- [9712487](https://www.fixmystreet.com/report/9712487)
+- Overgrown grass. Not been cut since winter, 1st July :- [9712437](https://www.fixmystreet.com/report/9712437)
 - Untidy grass along cerb, 30th June :- [9712051](https://www.fixmystreet.com/report/9712051)
 - Reportable, noxious plant, 30th June :- [9711846](https://www.fixmystreet.com/report/9711846)
 - Need to clean, 30th June :- [9711196](https://www.fixmystreet.com/report/9711196)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Hooray! The double yellow lines have been painted!, 30th June :- [9710799](https://www.fixmystreet.com/report/9710799)
 - Bad parking etc. etc., 30th June :- [9710792](https://www.fixmystreet.com/report/9710792)
 - Double yellow lines and stuff, 30th June :- [9710780](https://www.fixmystreet.com/report/9710780)
-- Double yellow lines please, 30th June :- [9710767](https://www.fixmystreet.com/report/9710767)
-- Missing double yellow lines, 30th June :- [9710744](https://www.fixmystreet.com/report/9710744)
 
 <!-- fix_marker ends -->

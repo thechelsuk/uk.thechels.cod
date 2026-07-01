@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Wednesday, 01 July 2026
 
-- The average temperature today is 15.51˚C,
-- With highs of 16.09˚C and lows of 14.82˚C,
-- It may feel like 15.47˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 90%
+- The average temperature today is 18.96˚C,
+- With highs of 19.84˚C and lows of 18.31˚C,
+- It may feel like 18.95˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 78%
 - The sun will rise at 03:53 and set at 20:30
 
 <!-- weather_marker ends -->

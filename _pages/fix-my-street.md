@@ -9,6 +9,19 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loose drain cover rattles when vehicles drive over it, 1st July :- [9716928](https://www.fixmystreet.com/report/9716928)
+- Blocked Drain, 1st July :- [9711975](https://www.fixmystreet.com/report/9711975)
+- Road markings are not very visible so people are parking across our drive., 1st July :- [9716623](https://www.fixmystreet.com/report/9716623)
+- TMC - Defects -CW6 Potholes  problem, 1st July :- [9716571](https://www.fixmystreet.com/report/9716571)
+- TMC - Defects -CW6 Potholes  problem, 1st July :- [9716569](https://www.fixmystreet.com/report/9716569)
+- TMC - Defects -CW6 Potholes  problem, 1st July :- [9716567](https://www.fixmystreet.com/report/9716567)
+- TMC - Defects -CW6 Potholes  problem, 1st July :- [9716572](https://www.fixmystreet.com/report/9716572)
+- TMC - Defects -CW6 Potholes  problem, 1st July :- [9716570](https://www.fixmystreet.com/report/9716570)
+- TMC - Defects -CW6 Potholes  problem, 1st July :- [9716568](https://www.fixmystreet.com/report/9716568)
+- Broken street sign, 1st July :- [9716374](https://www.fixmystreet.com/report/9716374)
+- Another dumped trolley, 1st July :- [9716317](https://www.fixmystreet.com/report/9716317)
+- Unpermitted roadworks problem, 1st July :- [9716343](https://www.fixmystreet.com/report/9716343)
+- Cut grass in children’s playground, 1st July :- [9716240](https://www.fixmystreet.com/report/9716240)
 - Bags of Rubbish, 1st July :- [9716097](https://www.fixmystreet.com/report/9716097)
 - Bags of Rubbish, 1st July :- [9716053](https://www.fixmystreet.com/report/9716053)
 - Rocking slab outside 31 Arle Gardens, 1st July :- [9715998](https://www.fixmystreet.com/report/9715998)
@@ -16,18 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Vegetation problem, 1st July :- [9715876](https://www.fixmystreet.com/report/9715876)
 - Tree down blocking the route, 1st July :- [9713644](https://www.fixmystreet.com/report/9713644)
 - TMC - Defects -CW6 Potholes  problem, 1st July :- [9715638](https://www.fixmystreet.com/report/9715638)
-- TMC - Defects -CW6 Potholes  problem, 1st July :- [9715443](https://www.fixmystreet.com/report/9715443)
-- Blue car has been abandoned for about 3 months, 1st July :- [9715270](https://www.fixmystreet.com/report/9715270)
-- TMC - Defects - Kerbs and Channels problem, 1st July :- [9715435](https://www.fixmystreet.com/report/9715435)
-- TMC - Defects - Other FW6  Surface problem, 1st July :- [9715434](https://www.fixmystreet.com/report/9715434)
-- TMC - Defects - Other FW6  Surface problem, 1st July :- [9715428](https://www.fixmystreet.com/report/9715428)
-- TMC - Defects - Vegetation problem, 1st July :- [9715231](https://www.fixmystreet.com/report/9715231)
-- TMC - Defects - Vegetation problem, 1st July :- [9714986](https://www.fixmystreet.com/report/9714986)
-- Pavement completely blocked, 1st July :- [9714840](https://www.fixmystreet.com/report/9714840)
-- Nettles, brambles and thistles, 1st July :- [9714805](https://www.fixmystreet.com/report/9714805)
-- Pothole has emerged in the centre of the B4070 after Buckholt road toward Stroud, 1st July :- [9714663](https://www.fixmystreet.com/report/9714663)
-- Leaf litter and tree debris all along All Saints Road. Needs collecting before it becomes mud again / vegetation takes root in it / it obscures road markings., 1st July :- [9714485](https://www.fixmystreet.com/report/9714485)
-- Dead trees on footpath in danger of falling on pedestrians and blocking right of way., 1st July :- [9714465](https://www.fixmystreet.com/report/9714465)
-- TMC - Defects -CW6 Potholes  problem, 1st July :- [9714391](https://www.fixmystreet.com/report/9714391)
 
 <!-- fix_marker ends -->

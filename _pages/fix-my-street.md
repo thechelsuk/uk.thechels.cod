@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Offensive graffiti on wall, 2nd July :- [9719707](https://www.fixmystreet.com/report/9719707)
+- Overgrown grass verge and hedges, 2nd July :- [9719494](https://www.fixmystreet.com/report/9719494)
 - Sunken manhole and potholes, 1st July :- [9718185](https://www.fixmystreet.com/report/9718185)
 - Sunken manhole, 1st July :- [9718171](https://www.fixmystreet.com/report/9718171)
 - Rattling man hole cover, 1st July :- [9717986](https://www.fixmystreet.com/report/9717986)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Another dumped trolley, 1st July :- [9716317](https://www.fixmystreet.com/report/9716317)
 - Unpermitted roadworks problem, 1st July :- [9716343](https://www.fixmystreet.com/report/9716343)
 - Cut grass in children’s playground, 1st July :- [9716240](https://www.fixmystreet.com/report/9716240)
-- Bags of Rubbish, 1st July :- [9716097](https://www.fixmystreet.com/report/9716097)
-- Bags of Rubbish, 1st July :- [9716053](https://www.fixmystreet.com/report/9716053)
 
 <!-- fix_marker ends -->

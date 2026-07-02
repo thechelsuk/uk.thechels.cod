@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Major roadworks causing long delays ([8 hours ago](https://www.bbc.co.uk/news/videos/cly78e4n704o?at_medium=RSS&at_campaign=rss))
-- Man jailed for 17 years for raping girl ([9 hours ago](https://www.bbc.co.uk/news/articles/c8d2053lnl0o?at_medium=RSS&at_campaign=rss))
-- Emergency repairs at rail crossing over safety fears ([16 hours ago](https://www.bbc.co.uk/news/articles/c7vyj0v7qy1o?at_medium=RSS&at_campaign=rss))
-- Football club 'devastated' by damaged pitches ([17 hours ago](https://www.bbc.co.uk/news/articles/cn75jklz47xo?at_medium=RSS&at_campaign=rss))
-- Woman raped by Superdry co-founder tells BBC she was working for him at the time ([18 hours ago](https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss))
+- Major roadworks causing long delays ([10 hours ago](https://www.bbc.co.uk/news/videos/cly78e4n704o?at_medium=RSS&at_campaign=rss))
+- Man jailed for 17 years for raping girl ([12 hours ago](https://www.bbc.co.uk/news/articles/c8d2053lnl0o?at_medium=RSS&at_campaign=rss))
+- Emergency repairs at rail crossing over safety fears ([18 hours ago](https://www.bbc.co.uk/news/articles/c7vyj0v7qy1o?at_medium=RSS&at_campaign=rss))
+- Football club 'devastated' by damaged pitches ([20 hours ago](https://www.bbc.co.uk/news/articles/cn75jklz47xo?at_medium=RSS&at_campaign=rss))
+- Woman raped by Superdry co-founder tells BBC she was working for him at the time ([20 hours ago](https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss))
 - Couple set up peak-time coach service to London ([1 days ago](https://www.bbc.co.uk/news/articles/c05y018qg52o?at_medium=RSS&at_campaign=rss))
 - Teacher banned for over the limit drive to school ([1 days ago](https://www.bbc.co.uk/news/articles/cly78j6ezvzo?at_medium=RSS&at_campaign=rss))
 - Blue plaque for 'unsung' Bletchley codebreaker ([1 days ago](https://www.bbc.co.uk/news/articles/c8d25mpg1vqo?at_medium=RSS&at_campaign=rss))

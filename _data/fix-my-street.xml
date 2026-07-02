@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -88,6 +88,24 @@
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 1st July</title>
+<link>https://www.fixmystreet.com/report/9716571</link>
+<description>Pothole CW&amp;#10;600x400x55mm approx&amp;#10;Road closure&amp;#10;Stats&amp;#10;X 1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9716571&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9716571</guid>
+<pubDate>Wed, 01 Jul 2026 15:08:53 +0100</pubDate>
+<georss:point>51.873614 -2.20235920000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 1st July</title>
+<link>https://www.fixmystreet.com/report/9716569</link>
+<description>Pothole CW&amp;#10;1700x200x40mm approx&amp;#10;Road closure&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9716569&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9716569</guid>
+<pubDate>Wed, 01 Jul 2026 15:08:53 +0100</pubDate>
+<georss:point>51.8733142 -2.20211349999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 1st July</title>
 <link>https://www.fixmystreet.com/report/9716567</link>
 <description>Pothole CW&amp;#10;700x400x50mm approx&amp;#10;Road closure&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9716567&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>TMC - Defects -CW6 Potholes</category>
@@ -112,24 +130,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9716570</guid>
 <pubDate>Wed, 01 Jul 2026 15:08:53 +0100</pubDate>
 <georss:point>51.8736056 -2.2023343</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 1st July</title>
-<link>https://www.fixmystreet.com/report/9716571</link>
-<description>Pothole CW&amp;#10;600x400x55mm approx&amp;#10;Road closure&amp;#10;Stats&amp;#10;X 1 NSD (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9716571&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9716571</guid>
-<pubDate>Wed, 01 Jul 2026 15:08:53 +0100</pubDate>
-<georss:point>51.873614 -2.20235920000001</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 1st July</title>
-<link>https://www.fixmystreet.com/report/9716569</link>
-<description>Pothole CW&amp;#10;1700x200x40mm approx&amp;#10;Road closure&amp;#10;Stats (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9716569&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9716569</guid>
-<pubDate>Wed, 01 Jul 2026 15:08:53 +0100</pubDate>
-<georss:point>51.8733142 -2.20211349999999</georss:point>
 </item>
 <item>
 <title>TMC - Defects -CW6 Potholes  problem, 1st July</title>

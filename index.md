@@ -11,11 +11,11 @@ permalink: /
 <!-- weather_marker starts -->
 ## On Thursday, 02 July 2026
 
-- The average temperature today is 18.77˚C,
-- With highs of 19.97˚C and lows of 18.15˚C,
-- It may feel like 18.48˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 68%
+- The average temperature today is 19.87˚C,
+- With highs of 21.08˚C and lows of 19.26˚C,
+- It may feel like 19.45˚C with broken clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 59%
 - The sun will rise at 03:53 and set at 20:30
 
 <!-- weather_marker ends -->
